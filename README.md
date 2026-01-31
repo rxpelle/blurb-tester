@@ -153,17 +153,23 @@ pytest test_proper_risk_manager.py -v --cov=proper_risk_manager
 
 ## Deployment
 
-**Paper Trading (Recommended First):**
+**Live Trading (REAL MONEY - USE WITH CAUTION):**
 ```bash
 # Set in .env
-TRADING_MODE=paper
+BOT_MODE=live
+STOCK_BOT_MODE=live
+GEMINI_SANDBOX=false
+ALPACA_BASE_URL=https://api.alpaca.markets
 docker-compose up -d
 ```
 
-**Live Trading (After 7 days paper trading):**
+**Paper Trading (Recommended for testing):**
 ```bash
 # Set in .env
-TRADING_MODE=live
+BOT_MODE=paper
+STOCK_BOT_MODE=paper
+GEMINI_SANDBOX=true
+ALPACA_BASE_URL=https://paper-api.alpaca.markets
 docker-compose up -d
 ```
 
@@ -280,4 +286,9 @@ ls -la trading_bots_backup/crypto_bot/signals/
 
 ---
 
-**⚠️ CRITICAL:** This system trades real money. Always paper trade first. Never bypass the 2% risk rule.
+**⚠️ CRITICAL WARNING:** This system is configured for LIVE TRADING with REAL MONEY.
+- Current test coverage: 96.6% (28/29 tests passing)
+- Paper trading validation: NONE (0 days)
+- You are responsible for any financial losses
+- Never bypass the 2% risk rule
+- Monitor the system continuously during live trading
