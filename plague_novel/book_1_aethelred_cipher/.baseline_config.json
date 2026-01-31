@@ -1,0 +1,16 @@
+{
+  "book_number": 1,
+  "book_title": "The Aethelred Cipher",
+  "status": "complete",
+  "time_period": "1002-1016 CE (Anglo-Saxon England)",
+  "pov_character": "Godric (monk and scribe)",
+  "key_themes": [
+    "Discovery of the Pattern Eye",
+    "Anglo-Saxon collapse",
+    "Monastic scholarship",
+    "First understanding of the larger system"
+  ],
+  "seven_keys_status": {
+    "Pattern Eye": "discovered and acquired by Godric"
+  }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Growth Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Financial Growth Engine</h1>
+            <p>Optimize your $50,000 cash position across market strategies.</p>
+        </header>
+
+        <section class="inputs-section">
+            <div class="input-group">
+                <label for="checking">Checking Account ($)</label>
+                <input type="number" id="checking" value="30000" step="1000">
+            </div>
+            <div class="input-group">
+                <label for="venmo">Venmo Balance ($)</label>
+                <input type="number" id="venmo" value="20000" step="1000">
+            </div>
+            <div class="input-group">
+                <label for="duration">Time Horizon (Years)</label>
+                <input type="number" id="duration" value="1" min="1" max="10">
+            </div>
+        </section>
+
+        <div class="dashboard-grid" id="cards-container">
+            <!-- Cards will be injected by JS -->
+        </div>
+
+        <section class="charts-section">
+            <div class="chart-container">
+                <canvas id="growthChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="yieldChart"></canvas>
+            </div>
+        </section>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>

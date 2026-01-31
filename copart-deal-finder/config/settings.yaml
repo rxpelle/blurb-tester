@@ -1,0 +1,46 @@
+search:
+  makes:
+    - "Honda"
+    - "Toyota"
+    - "Ford"
+    - "Chevrolet"
+    - "BMW"
+    - "Mercedes-Benz"
+    - "Nissan"
+    - "Subaru"
+  max_year: 2024
+  min_year: 2010
+  max_mileage: 150000
+  damage_types:
+    - "Minor Dent/Scratches"
+    - "Front End"
+    - "Rear End"
+    - "Hail"
+    - "Mechanical"
+    - "Side"
+
+location:
+  state: "OR"
+  auction_locations:
+    - "OR - PORTLAND NORTH"
+    - "OR - PORTLAND SOUTH"
+    - "OR - EUGENE"
+
+scoring:
+  min_value_gap_percent: 30
+  max_repair_cost_percent: 40
+  min_autograde_score: 3.0
+  prefer_run_drive: true
+  prefer_has_keys: true
+
+alerts:
+  email: "user@example.com"
+  send_daily_report: true
+  pre_auction_report_hours: 12
+  min_deal_score: 60
+
+scraping:
+  rate_limit_seconds: 2
+  max_concurrent_requests: 3
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  timeout_seconds: 30

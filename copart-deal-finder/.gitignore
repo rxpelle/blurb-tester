@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# Reports
+reports/daily/*
+reports/pre_auction/*
+!reports/daily/.gitkeep
+!reports/pre_auction/.gitkeep
+
+# Config with secrets
+config/.env
+config/secrets.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+config/.env

@@ -1,0 +1,16 @@
+{
+  "book_number": 3,
+  "book_title": "The First Key",
+  "status": "complete",
+  "time_period": "400-450 CE (Roman Britain collapse)",
+  "pov_character": "Marcus (Roman soldier/scholar)",
+  "key_themes": [
+    "Roman withdrawal from Britain",
+    "First Key rediscovered",
+    "Network struggles during Dark Ages",
+    "Preservation of knowledge"
+  ],
+  "seven_keys_status": {
+    "Pattern Eye": "transferred to Network guardian"
+  }
+}

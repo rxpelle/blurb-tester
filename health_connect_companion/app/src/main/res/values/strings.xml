@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Health Connect Companion</string>
+    <string name="app_title">Health Connect Companion</string>
+    <string name="status_ready">Ready to sync.</string>
+    <string name="health_connect_status">Health Connect status: unknown</string>
+    <string name="btn_permissions">Grant permissions</string>
+    <string name="btn_sync">Sync now</string>
+    <string name="last_sync_never">Last sync: never</string>
+    <string name="bridge_label">Bridge URL</string>
+    <string name="bridge_default">http://localhost:8787/health-connect</string>
+    <string name="btn_save_url">Save bridge URL</string>
+    <string name="auto_sync_note">Auto sync runs daily at 6:00 AM.</string>
+    <string name="log_placeholder">Logs will appear here.</string>
+</resources>

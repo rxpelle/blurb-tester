@@ -1,0 +1,36 @@
+{
+  "book_number": 6,
+  "book_title": "The Monk's Blade",
+  "status": "complete",
+  "time_period": "476-1000 CE (Fall of Rome to Early Medieval Ireland)",
+  "pov_character": "Ciarán (from age 4 to adulthood)",
+  "key_themes": [
+    "Fall of Western Roman Empire (476 CE)",
+    "Network preservation through Dark Ages",
+    "Irish monastic scholarship as knowledge refuge",
+    "Pattern Eye custody chain through collapse",
+    "Child carrier inheriting during crisis",
+    "Knowledge preservation in isolated monasteries",
+    "Clonmacnoise and Irish golden age of learning"
+  ],
+  "seven_keys_status": {
+    "Pattern Eye": "Passed to 4-year-old Ciarán during Rome's fall; carried through Dark Ages to Irish monasteries"
+  },
+  "historical_context": {
+    "generation": "52-65 (approximately)",
+    "years_after_genesis_protocol": "1653-2177",
+    "major_events": [
+      "Last Western Roman Emperor (476 CE)",
+      "Ciarán receives Pattern Eye at age 4 in Ravenna",
+      "Flight to Ireland via Massilia",
+      "Irish monastic golden age",
+      "Clonmacnoise becomes knowledge center",
+      "Network survives through monastery system"
+    ]
+  },
+  "network_evolution": {
+    "key_insight": "Dark Ages require knowledge preservation in isolated, protected centers - Irish monasteries become the refuge",
+    "pattern_recognition": "Ciarán has genetic memory/intuition even at age 4 - 'the knowing came from somewhere deep inside, older than his four years'",
+    "defensive_strategy": "Scatter knowledge across remote Irish monasteries where Roman collapse can't reach; use monastic system for protection"
+  }
+}

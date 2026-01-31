@@ -123,7 +123,7 @@ services:
     environment:
       # Bot config
       - BOT_ID=crypto-bot-1
-      - BOT_MODE=${BOT_MODE:-paper}  # paper or live
+      - TRADING_MODE=${TRADING_MODE:-live}  # CRITICAL: crypto bot reads TRADING_MODE (not BOT_MODE)
 
       # Redis config
       - REDIS_ENABLED=true
@@ -135,7 +135,7 @@ services:
       # Exchange API (Gemini)
       - GEMINI_API_KEY=${GEMINI_API_KEY}
       - GEMINI_API_SECRET=${GEMINI_API_SECRET}
-      - GEMINI_SANDBOX=${GEMINI_SANDBOX:-true}
+      - GEMINI_SANDBOX=${GEMINI_SANDBOX:-false}  # CRITICAL: false = LIVE TRADING with real money!
 
       # Risk management
       - ACCOUNT_EQUITY=${CRYPTO_ACCOUNT_EQUITY:-10000}

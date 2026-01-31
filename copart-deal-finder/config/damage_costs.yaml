@@ -1,0 +1,67 @@
+# Repair cost estimation as percentage of retail value
+damage_costs:
+  # Minor damage
+  "Hail":
+    min: 5
+    max: 10
+  "Minor Dent/Scratches":
+    min: 5
+    max: 10
+  "Undercarriage":
+    min: 10
+    max: 20
+
+  # Moderate damage
+  "Front End":
+    min: 15
+    max: 30
+  "Rear End":
+    min: 15
+    max: 30
+  "Side":
+    min: 15
+    max: 30
+  "Mechanical":
+    min: 10
+    max: 25
+
+  # Severe damage
+  "Frame":
+    min: 40
+    max: 70
+  "Flood":
+    min: 40
+    max: 70
+  "Fire":
+    min: 50
+    max: 80
+  "Burn":
+    min: 50
+    max: 80
+  "Stripped":
+    min: 60
+    max: 90
+  "Vandalism":
+    min: 20
+    max: 40
+  "Biohazard":
+    min: 30
+    max: 50
+
+  # Default for unknown
+  "Unknown":
+    min: 25
+    max: 35
+
+# Bonuses and penalties (points added/subtracted from deal score)
+bonuses:
+  runs_drives: 10
+  has_keys: 5
+  low_mileage: 5  # < 50k miles
+  clean_title: 15
+
+penalties:
+  no_keys_and_mechanical: 15
+  flood_damage: 20
+  frame_damage: 25
+  odometer_unknown: 10
