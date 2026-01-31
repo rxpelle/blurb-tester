@@ -1,0 +1,321 @@
+version: '3.8'
+
+# ============================================================================
+# Trading System - Phase 2 Architecture
+# ============================================================================
+# Services:
+# - redis: Message broker for signal delivery
+# - personal-assistant: Node.js API + Research Daemon
+# - crypto-bot: Python trading bot (crypto markets)
+# - stock-bot: Python trading bot (stock markets)
+# - dashboard: Financial monitoring dashboard
+#
+# Network: All services on 'trading-network' for inter-service communication
+# Volumes: Persistent storage for databases, logs, and signals
+# ============================================================================
+
+services:
+  # ==========================================================================
+  # REDIS - Message Broker
+  # ==========================================================================
+  redis:
+    image: redis:7-alpine
+    container_name: trading-redis
+    restart: unless-stopped
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    command: >
+      redis-server
+      --appendonly yes
+      --appendfsync everysec
+      --maxmemory 256mb
+      --maxmemory-policy allkeys-lru
+    volumes:
+      - redis-data:/data
+    networks:
+      - trading-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # ==========================================================================
+  # PERSONAL ASSISTANT - Node.js API + Research Daemon
+  # ==========================================================================
+  personal-assistant:
+    build:
+      context: ./personal_assistant
+      dockerfile: Dockerfile
+    container_name: trading-personal-assistant
+    restart: unless-stopped
+    ports:
+      - "${PA_PORT:-8788}:8788"
+    environment:
+      # Server config
+      - NODE_ENV=production
+      - PORT=8788
+
+      # Redis config
+      - REDIS_ENABLED=true
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+      - FALLBACK_TO_FILES=true
+
+      # Database
+      - DB_PATH=/app/data/trading_system.db
+
+      # Claude API
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+
+      # Daemon config
+      - DAEMON_ENABLED=true
+      - CHECK_INTERVAL_MINUTES=10
+      - CRYPTO_SYMBOLS=BTC/USD,ETH/USD,SOL/USD
+      - STOCK_SYMBOLS=AAPL,GOOGL,MSFT,TSLA
+
+      # Risk management
+      - RISK_PER_TRADE_PCT=0.02
+      - MAX_DRAWDOWN_PCT=0.10
+      - MAX_DAILY_LOSS_PCT=0.03
+
+      # Logging
+      - LOG_LEVEL=info
+      - DEBUG=${DEBUG:-false}
+    volumes:
+      - ./personal_assistant:/app
+      - pa-data:/app/data
+      - pa-logs:/app/logs
+      - trading-signals:/app/signals
+    networks:
+      - trading-network
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8788/api/system/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+  # ==========================================================================
+  # CRYPTO BOT - Python Trading Bot (Crypto Markets)
+  # ==========================================================================
+  crypto-bot:
+    build:
+      context: ./trading_bots_backup/crypto_bot
+      dockerfile: Dockerfile
+    container_name: trading-crypto-bot
+    restart: unless-stopped
+    environment:
+      # Bot config
+      - BOT_ID=crypto-bot-1
+      - BOT_MODE=${BOT_MODE:-paper}  # paper or live
+
+      # Redis config
+      - REDIS_ENABLED=true
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+      - REDIS_CHANNELS=signals:crypto:*
+
+      # Exchange API (Gemini)
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_API_SECRET=${GEMINI_API_SECRET}
+      - GEMINI_SANDBOX=${GEMINI_SANDBOX:-true}
+
+      # Risk management
+      - ACCOUNT_EQUITY=${CRYPTO_ACCOUNT_EQUITY:-10000}
+      - RISK_PER_TRADE_PCT=0.02
+      - MAX_DRAWDOWN_PCT=0.10
+      - MAX_DAILY_LOSS_PCT=0.03
+
+      # Personal Assistant callback
+      - PA_WEBHOOK_URL=http://personal-assistant:8788/api/trading/signal/executed
+
+      # Database
+      - DB_PATH=/app/data/trades.db
+
+      # Logging
+      - LOG_LEVEL=info
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./trading_bots_backup/crypto_bot:/app
+      - ./trading_bots_backup/shared:/app/shared
+      - crypto-bot-data:/app/data
+      - crypto-bot-logs:/app/logs
+      - trading-signals:/app/signals  # Fallback file access
+    networks:
+      - trading-network
+    depends_on:
+      redis:
+        condition: service_healthy
+      personal-assistant:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import redis; r = redis.Redis(host='redis'); r.ping()"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+  # ==========================================================================
+  # STOCK BOT - Python Trading Bot (Stock Markets)
+  # ==========================================================================
+  stock-bot:
+    build:
+      context: ./trading_bots_backup/stock_bot
+      dockerfile: Dockerfile
+    container_name: trading-stock-bot
+    restart: unless-stopped
+    environment:
+      # Bot config
+      - BOT_ID=stock-bot-1
+      - BOT_MODE=${BOT_MODE:-paper}  # paper or live
+
+      # Redis config
+      - REDIS_ENABLED=true
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+      - REDIS_CHANNELS=signals:stock:*
+
+      # Exchange API (Alpaca)
+      - ALPACA_API_KEY=${ALPACA_API_KEY}
+      - ALPACA_API_SECRET=${ALPACA_API_SECRET}
+      - ALPACA_BASE_URL=${ALPACA_BASE_URL:-https://paper-api.alpaca.markets}
+
+      # Risk management
+      - ACCOUNT_EQUITY=${STOCK_ACCOUNT_EQUITY:-10000}
+      - RISK_PER_TRADE_PCT=0.02
+      - MAX_DRAWDOWN_PCT=0.10
+      - MAX_DAILY_LOSS_PCT=0.03
+
+      # Personal Assistant callback
+      - PA_WEBHOOK_URL=http://personal-assistant:8788/api/trading/signal/executed
+
+      # Database
+      - DB_PATH=/app/data/trades.db
+
+      # Logging
+      - LOG_LEVEL=info
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./trading_bots_backup/stock_bot:/app
+      - ./trading_bots_backup/shared:/app/shared
+      - stock-bot-data:/app/data
+      - stock-bot-logs:/app/logs
+      - trading-signals:/app/signals  # Fallback file access
+    networks:
+      - trading-network
+    depends_on:
+      redis:
+        condition: service_healthy
+      personal-assistant:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import redis; r = redis.Redis(host='redis'); r.ping()"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+  # ==========================================================================
+  # DASHBOARD - Financial Monitoring (Optional)
+  # ==========================================================================
+  dashboard:
+    build:
+      context: ./trading_bots_backup/financial_dashboard
+      dockerfile: Dockerfile
+    container_name: trading-dashboard
+    restart: unless-stopped
+    ports:
+      - "${DASHBOARD_PORT:-3000}:3000"
+    environment:
+      - PA_API_URL=http://personal-assistant:8788
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+    volumes:
+      - ./trading_bots_backup/financial_dashboard:/app
+    networks:
+      - trading-network
+    depends_on:
+      - personal-assistant
+      - redis
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+# ============================================================================
+# NETWORKS
+# ============================================================================
+networks:
+  trading-network:
+    driver: bridge
+    name: trading-network
+
+# ============================================================================
+# VOLUMES
+# ============================================================================
+volumes:
+  # Redis persistent storage
+  redis-data:
+    driver: local
+    name: trading-redis-data
+
+  # Personal Assistant data
+  pa-data:
+    driver: local
+    name: trading-pa-data
+
+  pa-logs:
+    driver: local
+    name: trading-pa-logs
+
+  # Crypto bot data
+  crypto-bot-data:
+    driver: local
+    name: trading-crypto-bot-data
+
+  crypto-bot-logs:
+    driver: local
+    name: trading-crypto-bot-logs
+
+  # Stock bot data
+  stock-bot-data:
+    driver: local
+    name: trading-stock-bot-data
+
+  stock-bot-logs:
+    driver: local
+    name: trading-stock-bot-logs
+
+  # Shared signal files (fallback)
+  trading-signals:
+    driver: local
+    name: trading-signals

@@ -1,0 +1,87 @@
+# Trading System - Git Ignore
+
+# Environment variables (contains secrets)
+.env
+*.env
+!.env.example
+
+# Databases (too large, generated)
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+.venv
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Docker
+.docker/
+
+# Trading data (sensitive)
+backups/
+data/
+signals/*.json
+trades.db
+assistant.db
+
+# Test coverage
+htmlcov/
+.coverage
+.pytest_cache/
+.tox/
+
+# Secrets
+*.pem
+*.key
+credentials.json
+*credentials*
+!.credentials.example
+
+# OS
+.DS_Store
+Thumbs.db
