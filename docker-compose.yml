@@ -127,6 +127,7 @@ services:
       # Bot config
       - BOT_ID=crypto-bot-1
       - TRADING_MODE=${TRADING_MODE:-live}  # CRITICAL: crypto bot reads TRADING_MODE (not BOT_MODE)
+      - SKIP_LIVE_CONFIRMATION=true  # Skip interactive prompts in Docker
 
       # Redis config
       - REDIS_ENABLED=true
@@ -194,6 +195,7 @@ services:
       # Bot config
       - BOT_ID=stock-bot-1
       - TRADING_MODE=${TRADING_MODE:-paper}  # CRITICAL: standardized with crypto bot (paper or live)
+      - SKIP_LIVE_CONFIRMATION=true  # Skip interactive prompts in Docker
 
       # Redis config
       - REDIS_ENABLED=true
