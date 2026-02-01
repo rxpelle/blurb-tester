@@ -22,10 +22,10 @@ services:
     image: redis:7-alpine
     container_name: trading-redis
     restart: unless-stopped
-    ports:
-      - "${REDIS_PORT:-6379}:6379"
+    # Port removed for security - all communication via internal network
     command: >
       redis-server
+      --requirepass ${REDIS_PASSWORD}
       --appendonly yes
       --appendfsync everysec
       --maxmemory 256mb
@@ -193,7 +193,7 @@ services:
     environment:
       # Bot config
       - BOT_ID=stock-bot-1
-      - BOT_MODE=${BOT_MODE:-paper}  # paper or live
+      - TRADING_MODE=${TRADING_MODE:-paper}  # CRITICAL: standardized with crypto bot (paper or live)
 
       # Redis config
       - REDIS_ENABLED=true
@@ -222,6 +222,7 @@ services:
       # Logging
       - LOG_LEVEL=info
       - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app:/app/shared
     volumes:
       - ./trading_bots_backup/stock_bot:/app
       - ./trading_bots_backup/shared:/app/shared
