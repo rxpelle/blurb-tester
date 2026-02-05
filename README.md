@@ -1,3 +1,11 @@
+# Antigravity - Multi-Project Repository
+
+**Combined projects: Trading System, Personal Assistant, Novel Series, and more**
+
+> **For Claude Code**: When starting a new session, reference [`.claude-context.md`](.claude-context.md) for shortcuts like "open clawd", "open novel", etc.
+
+---
+
 # Trading System - Full Stack Deployment
 
 **Unified trading platform combining Personal Assistant API, Crypto Research Daemon, and Trading Bots**
@@ -292,3 +300,40 @@ ls -la trading_bots_backup/crypto_bot/signals/
 - You are responsible for any financial losses
 - Never bypass the 2% risk rule
 - Monitor the system continuously during live trading
+
+---
+
+# Other Projects in This Repository
+
+## Plague Novel Series (`plague_novel/`)
+12-book historical thriller series tracking a secret society across time:
+- **Book 1**: The Aethelred Cipher (Complete)
+- **Book 2**: Genesis Protocol (Currently: Rewrite v12)
+- **Books 3-12**: Outlined
+- **Current work**: `plague_novel/book_2_genesis_protocol/rewrite_v12/`
+
+## Author Website (`randypellegrini.com/`)
+Static website for the novel series with:
+- Character guides
+- Series timeline
+- Book information
+- Interactive features
+
+## Clawdbot Architecture (`~/clawd/`)
+External directory with agent designs:
+- Personal Assistant architecture
+- Multi-agent system documentation
+- Agent configurations (Architect, CodeMaster, DataDiver, etc.)
+- **Quick access**: See [`.claude-context.md`](.claude-context.md) for "open clawd" shortcut
+
+---
+
+## Claude Code Session Context
+
+**New to this project?** Check [`.claude-context.md`](.claude-context.md) for:
+- Quick command shortcuts (e.g., "open clawd")
+- Project structure overview
+- Common workflows
+- User preferences
+
+This helps maintain context across Claude Code sessions.
