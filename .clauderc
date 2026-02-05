@@ -1,0 +1,33 @@
+{
+  "projectContext": ".claude-context.md",
+  "shortcuts": {
+    "clawd": {
+      "description": "Open architect design documents from ~/clawd/",
+      "files": [
+        "~/clawd/architect/designs/personal-assistant-architecture.md",
+        "~/clawd/personal-assistant-analysis.md",
+        "~/clawd/architect/designs/personal-assistant-summary.md"
+      ]
+    },
+    "architect": {
+      "alias": "clawd"
+    },
+    "novel": {
+      "description": "Open current novel work",
+      "directory": "plague_novel/book_2_genesis_protocol/rewrite_v12/",
+      "files": ["rewrite_progress.md"]
+    },
+    "pa": {
+      "description": "Personal assistant project",
+      "directory": "personal_assistant/",
+      "files": ["SETUP.md", "PRODUCT_SPEC.md"]
+    },
+    "bots": {
+      "description": "Trading bots documentation",
+      "files": [
+        "trading_bots_backup/IMPLEMENTATION_COMPLETE.md",
+        "trading_bots_backup/CRITICAL_FIX_IMPLEMENTATION_GUIDE.md"
+      ]
+    }
+  }
+}

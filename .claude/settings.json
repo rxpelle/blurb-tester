@@ -1,0 +1,34 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": ".claude/session-start.sh"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "pattern": "^(check context|load context|show context)$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat .claude-context.md"
+          }
+        ]
+      },
+      {
+        "pattern": "^open clawd$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '=== ARCHITECT DESIGN DOCUMENTS ===' && echo '' && echo 'Files to read:' && echo '1. ~/clawd/architect/designs/personal-assistant-architecture.md' && echo '2. ~/clawd/personal-assistant-analysis.md' && echo '3. ~/clawd/architect/designs/personal-assistant-summary.md'"
+          }
+        ]
+      }
+    ]
+  }
+}
