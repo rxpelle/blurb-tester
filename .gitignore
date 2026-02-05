@@ -86,3 +86,6 @@ credentials.json
 .DS_Store
 Thumbs.db
 frozen-exoplanet_legacy_trading_bot_archived_*.tar.gz
+
+# Temporary upload cache
+.tmp.driveupload/
