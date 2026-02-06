@@ -11,13 +11,11 @@ Sarah couldn't sleep.
 
 Midnight. The archive empty except for her and nine notebooks containing genocide. Eight hours until the fire alarm. Eight hours until she ran or got detained trying.
 
-(Five percent probability. Lagos said five percent. Down from ten after Wells positioned seventeen guards. Five percent she made it to medical bay. Five percent she reached B2. Five percent Martin's extraction team got her out.)
-
-(Ninety-five percent she got caught.)
+(Five percent. Lagos said five percent.)
 
 She reviewed Hub 1 again. Atlanta. For the seventh time tonight. Memorizing storage location (CDC Sublevel 4, Biological Containment Wing C). Security protocols (biometric + keycard + armed response). Deployment vectors (calibrated for Southeastern US population density). Casualties (47.3 million).
 
-(She knew it. Had memorized all forty-seven hubs three days ago. But reviewing helped. Kept her brain occupied. Kept her from thinking about tomorrow morning when she'd run and either escape with complete intelligence or get detained and prove Morrison right—that defensive Protocol failed when tested against optimization.)
+(She knew it. Had known it for three days. But reviewing kept her hands busy.)
 
 The door opened.
 
@@ -25,7 +23,7 @@ Sarah looked up.
 
 Lagos stood in the doorway. Carrying two cups of coffee.
 
-(GenVault coffee. Still tasted like shit. Sarah had developed opinions about it over four days in the archive—it was consistent, at least. Consistently terrible.)
+(GenVault coffee. Still tasted like shit.)
 
 "Thought you might be awake," Lagos said. He set one cup on her desk. Pulled up a chair. "Big day tomorrow."
 
@@ -105,8 +103,6 @@ Lagos turned to face her.
 
 Sarah was quiet.
 
-Thought about Lagos refusing Morrison's transfer. Thought about him staying when leaving would save him. Thought about five percent probability and zero percent survival and the mathematics that said cooperation ended when self-preservation became an option except Lagos was proving it didn't.
-
 "Thank you," she said quietly.
 
 "For what?"
@@ -149,9 +145,7 @@ Sarah deleted the messages.
 
 Looked at the nine notebooks on her desk. At forty-seven hubs documented in handwriting that got worse as exhaustion accumulated.
 
-(All that intelligence. All those hub locations. All that casualty data. Only mattered if she got out with it.)
-
-(If she got caught, THRESHOLD deployed on schedule and 4.2 billion people died and Morrison knew his thirty years of mathematics had been necessary because defensive Protocol failed when tested against optimization.)
+(Only mattered if she got out with it.)
 
 Sarah closed the notebooks.
 
@@ -159,7 +153,7 @@ Turned off the lights.
 
 Lay down on the small couch in the corner of the archive.
 
-(Couldn't sleep. Brain too active. Tomorrow too close. Five percent probability echoing in her head like a countdown: five percent, five percent, you're probably going to die tomorrow but you're trying anyway because cooperative behavior prevents collapse better than optimized genocide.)
+(Couldn't sleep. Brain too active. Five percent echoing like a heartbeat.)
 
 She closed her eyes.
 
@@ -249,7 +243,7 @@ At the surveillance camera in the corner where Morrison was watching.
 
 She stood. Walked to her desk. Picked up the first notebook. Started reviewing Hub 1 one more time.
 
-(Atlanta. CDC Sublevel 4. 47.3 million casualties. She knew it. But reviewing helped. Kept her focused. Kept her from thinking about the seventeen guards and the kill authorization and the five percent probability that felt more like hope than mathematics.)
+(Atlanta. CDC Sublevel 4. 47.3 million.)
 
 Her phone buzzed.
 

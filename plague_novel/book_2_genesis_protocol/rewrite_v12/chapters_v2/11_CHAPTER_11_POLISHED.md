@@ -40,8 +40,6 @@ He went down.
 
 She stepped over him. Kept running.
 
-(The fire extinguisher fell from her hands. She didn't pick it up. Didn't need it. Just needed to reach ground level before the forty-three seconds expired and the electronic locks reengaged and Wells's guards locked down every exit.)
-
 Ground level.
 
 Third guard at the medical bay corridor entrance. Big. Armed. Wells's personal security.
@@ -60,7 +58,7 @@ The door opened.
 
 She ran through.
 
-(The third guard grabbed for her. Missed. Started running after her but the door closed—medical bay security protocols, emergency lockdown during fire alarm—and he was on the wrong side.)
+The third guard grabbed for her. Missed. The door closed behind her—emergency lockdown—and he was on the wrong side.
 
 Medical bay corridor.
 
@@ -79,8 +77,6 @@ The exit door at the end of the corridor.
 Sarah hit it at full speed.
 
 The door opened.
-
-(Lagos's access codes worked. The biometric bypass worked. The escape route worked exactly like he said it would and Sarah was through and into parking garage B2 and—)
 
 A car screeched around the corner.
 
@@ -114,7 +110,7 @@ Sarah sat up.
 
 Breathing hard. Heart hammering. Hands shaking.
 
-(Five percent probability. Ninety-five percent failure. She'd made it out and Martin was driving and GenVault was getting smaller and Wells was screaming orders that couldn't reach them anymore.)
+(Five percent probability. She'd made it out.)
 
 "You okay?" Martin asked. Eyes on the road. Hands steady. Professional extraction operator who'd done this before.
 
@@ -150,11 +146,7 @@ Lagos staying in Morrison's office while Sarah ran. Lagos refusing the Geneva tr
 
 Sarah closed her eyes.
 
-Saw Lagos in Morrison's office. Saw Wells realizing Sarah had escaped. Saw Morrison watching surveillance footage of the fire alarm and the guards and Sarah running and understanding that his ethics test had concluded: defensive Protocol worked through cooperative sacrifice and Sarah proved prevention scaled when given every advantage.
-
-(But Lagos died proving it.)
-
-(Ava died. Lagos died. How many more people would die proving that cooperation prevented collapse?)
+(Lagos staying in Morrison's office while she ran. Zero percent survival. Choosing it anyway.)
 
 "Sarah." Martin's voice pulled her back. "You with me?"
 
@@ -166,7 +158,7 @@ Sarah looked at her hands.
 
 Still shaking.
 
-(Five percent probability. She'd beaten the odds. Escaped with complete deployment data. Proved Morrison right—that defensive Protocol worked when tested against impossible mathematics—and proved him wrong—that genocide wasn't necessary when prevention was given every advantage.)
+(Five percent.)
 
 Her phone buzzed.
 
@@ -178,9 +170,7 @@ She opened it.
 
 Sarah stared at the message.
 
-Morrison texting her. Morrison confirming Lagos was alive. Morrison saying he had eleven days to decide if defensive Protocol had proven genocide was unnecessary.
-
-(He wanted her to succeed. Wanted her to raid all forty-seven hubs. Wanted her to prove that prevention worked so he could finally admit thirty years of mathematics had been wrong.)
+(He wanted her to succeed.)
 
 She deleted the message.
 
@@ -214,59 +204,37 @@ Sarah Chen escaped with complete THRESHOLD intelligence and eleven days to use i
 
 **GenVault Director's Office - 8:14 AM**
 
-Morrison watched the garage footage.
+Lagos sat in the chair across from Morrison's desk. Hands cuffed. Wells's guards flanking him.
 
-Sarah's car smashing through the barrier. Martin Reeves driving. Clean extraction. Professional operation. Five percent probability becoming one hundred percent success.
-
-Lagos sat in the chair across from Morrison's desk. Hands cuffed. Wells's guards flanking him. Detained for treason. Waiting for Morrison to sign the execution order.
-
-Morrison didn't sign it.
+Morrison watched the garage footage one more time. Sarah's car smashing through the barrier. Clean extraction.
 
 "She made it out," Morrison said.
 
-"I know." Lagos smiled. Exhausted. Relieved. "Five percent. We beat the odds."
+"Five percent." Lagos smiled. Exhausted. "We beat the odds."
 
-"You gave her the access codes. Changed the fire alarm schedule. Coordinated with her extraction team." Morrison pulled up the surveillance evidence. Everything Lagos had done. Every choice that helped Sarah escape. "Wells wants you executed."
+Morrison dismissed the guards. They hesitated—Wells had given them orders.
+
+"Leave us," Morrison said. The voice that built THRESHOLD. They left.
+
+The two men sat across from each other. No surveillance. No philosophy. Just two people at the end of something.
+
+"Wells wants you dead," Morrison said.
 
 "I know."
 
-"I'm not going to execute you."
+"I'm not signing it. Not yet." Morrison closed the laptop. "Sarah has eleven days. If she stops THRESHOLD—all forty-seven hubs—you walk out. If she fails..."
 
-Lagos looked up. Surprised.
+He didn't finish. Didn't need to.
 
-Morrison closed the files. "You proved what I needed to know. That defensive Protocol scales through cooperative sacrifice. That people choose prevention over self-preservation when the cost gets personal. That Sarah wasn't alone—she had networks helping her because cooperation prevents collapse better than optimization."
+Lagos nodded. His survival tied to Sarah's success. Another data point in Morrison's test. He was too tired to be angry about it.
 
-He stood. Walked to the window. Boston harbor. Gray water. November sky.
+"For what it's worth," Lagos said quietly, "I think you wanted her to make it out."
 
-"Sarah has eleven days to raid all forty-seven hubs. If she succeeds—if FBI and international authorities shut down deployment before December 1st—she proves prevention works. That thirty years of mathematics were wrong. That I could have chosen differently."
+Morrison didn't answer.
 
-Morrison turned to face Lagos.
+Just sat there. Steady hands. Tired eyes. A man waiting to find out if thirty years of work had been necessary or if grief had made him into something he couldn't unmake.
 
-"You're detained until I know the answer. If Sarah stops THRESHOLD, you're released. If she fails, Wells executes you for treason. Your survival depends on whether defensive Protocol works when tested at scale."
-
-"That's not mercy," Lagos said.
-
-"No," Morrison agreed. "It's data. You bet your life on defensive Protocol. Now we see if you were right."
-
-Wells's guards took Lagos away.
-
-Morrison sat alone in his office.
-
-Watching the empty chair where Lagos had refused survival.
-
-(Emily died at seven. Morrison spent twenty-seven years building THRESHOLD to make her death mean something. To prove that if he optimized humanity fast enough, other children wouldn't die like Emily died.)
-
-(But Lagos refused Geneva transfer. Chose to stay when leaving would save him. Picked cooperation over self-preservation for principle, not math.)
-
-(What if Emily's death didn't need THRESHOLD? What if grief wasn't mathematics? What if he'd spent thirty years building genocide to make meaningless death feel meaningful?)
-
-(What if Sarah proved prevention worked and Emily died for nothing?)
-
-Eleven days until he found out whether Sarah Chen proved genocide was unnecessary or confirmed that thirty years of mathematics had been correct all along.
-
-Either way, he'd know.
-
-(Either way, Emily's death would mean something or nothing.)
+Eleven days.
 
 ---
 

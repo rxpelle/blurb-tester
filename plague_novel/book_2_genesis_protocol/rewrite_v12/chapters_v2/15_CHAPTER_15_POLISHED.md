@@ -172,7 +172,7 @@ Her phone buzzed. Lagos. Voice shaking.
 
 "Yes."
 
-"Sarah, I saw him yesterday. He kept saying his coffee tasted chemical. That guards were different. That GenVault's reach exceeded what he'd understood. I thought he was paranoid. What if he wasn't?"
+"Sarah, I saw him yesterday. He seemed paranoid. Agitated. Said GenVault's reach exceeded what he'd understood. I thought it was detention stress. What if it wasn't?"
 
 "What time did you leave?"
 
@@ -182,7 +182,7 @@ Her phone buzzed. Lagos. Voice shaking.
 
 "What?"
 
-"Morrison knew they were going to kill him. That's why he wrote the note. That's why he was paranoid. That's why he kept saying coffee tasted wrong and guards acted differently. He knew institutional power would eliminate him before he could testify again."
+"Morrison knew they were going to kill him. That's why he wrote the note. That's why he was paranoid. He knew institutional power would eliminate him before he could testify again."
 
 Lagos was quiet for long moment. Then: "His last words to me were 'Tell Sarah she can't prevent institutional survival. That's the world. But she prevented THRESHOLD. That has to be enough.'"
 
@@ -231,51 +231,23 @@ Man who'd died in detention watching the company he'd served profit from his wea
 
 Man who'd been murdered. Probably. Unprovably.
 
-Lagos stood at the head of the grave. Voice steady but hollow. The voice of a man delivering eulogy for someone killed by power too vast to fight.
+Lagos stood at the head of the grave. Voice steady but hollow.
 
-"James Morrison joined the Order thirty years ago believing he could save humanity through mathematics. He spent fifteen years trying to make defensive Protocol work. When his daughter Emily died, he spent fifteen more years building THRESHOLD—offensive Protocol, engineered genocide, precision mathematics that called itself salvation."
+"Morrison spent thirty years building THRESHOLD. Sarah proved him wrong in seventy-two hours. He spent two more years helping us prevent deployment, documenting everything. Named every operative. Detailed every hub. Gave us everything."
 
-Lagos paused. Looked at the casket.
+Lagos's voice cracked.
 
-"Sarah Chen proved him wrong in seventy-two hours. Morrison spent the next two years helping us prevent THRESHOLD deployment, minimize Hub 47 damage, expose Order infrastructure. He provided complete testimony. Documented three thousand years of institutional history. Named one hundred sixty-three operatives. Detailed all forty-seven hubs. Gave us everything."
-
-Another pause. Longer.
-
-"He died watching GenVault transform his genocide research into vaccine empire worth billions. He said that was appropriate irony—that his weapon would become cure, that his mathematics would save millions even though his mathematics was wrong. He accepted it. Made peace with it."
-
-Lagos's voice cracked. First sign of emotion.
-
-"In his final months, Morrison became paranoid. Said his coffee tasted chemical. Said guards watched him differently. Said GenVault's reach exceeded his understanding. We told him it was detention stress. Told him to rest. Told him the medical monitoring would catch any problems."
-
-Lagos looked directly at Torres.
-
-"Sixty-five years old. Heart failure. Advanced coronary disease. Stress-induced cardiac arrest. All medically documented. All technically natural causes. All extremely convenient timing. Morrison wrote his final note two weeks before death warning about Wells's disappearance tactics, GenVault's institutional reach, and suspicious symptoms. Then he died the same week GenVault announced thirty-two billion in booster revenue."
-
-Torres started to speak. Lagos continued.
-
-"The autopsy will show natural causes. I know that. I accept that. But I also know Morrison was the most dangerous living witness to corporate genocide, institutional mass murder, and three-thousand-year conspiracy. I know his testimony could have destabilized GenVault's narrative. I know he knew too much. I know convenient deaths are how power protects itself."
+"In his final months, he became paranoid. Said his coffee tasted chemical. Said guards watched him differently. We told him it was stress." Lagos looked directly at Torres. "Then he died the same week GenVault announced thirty-two billion in booster revenue. Heart failure. Age sixty-five. All technically natural causes. All extremely convenient timing."
 
 Lagos stepped back. Looked at Sarah.
 
-Sarah moved forward. Stood over the casket. Hands steady. Voice cold. The voice she used when stating facts she couldn't prove but knew were true.
+Sarah stepped forward. Placed her hand on the casket. Cool metal under her palm.
 
-"Dr. Morrison,you spent thirty years building THRESHOLD because you couldn't accept that your daughter's death was meaningless. You needed it to mean something. Needed genocide to justify grief. Needed mathematics to make tragedy purposeful."
+"Hearts don't fail at sixty-five in monitored detention facilities. Not with medical monitoring. Not with careful observation." Her voice was ice. "Not unless someone needs them to fail. You knew that. Wrote about it. Died anyway."
 
 She looked at the three people listening. The only witnesses to this truth.
 
-"I proved you wrong. Proved defensive Protocol works. Proved prevention beats optimization. Proved your thirty years were unnecessary. You thanked me for that. Said it was painful relief to know Emily just died—that her death didn't require four billion more deaths to make it meaningful."
-
-Her voice didn't shake. Wouldn't let it.
-
-"You helped us prevent THRESHOLD. Documented everything. Exposed everyone. Provided intelligence that saved millions from Hub 47. Became the most dangerous witness against institutional power. Two years later you died in federal detention from 'natural causes' the same week GenVault announced record profits and the month before additional testimony."
-
-Torres opened his mouth. Sarah kept talking.
-
-"The autopsy will show heart disease. Coronary blockages. Cardiac arrest. All real. All documented. All medically sound. But hearts don't fail at sixty-five in monitored detention facilities unless someone needs them to fail. You knew that. Wrote about it. Died anyway. Because three thousand years of institutional survival tactics includes eliminating witnesses, and you knew too much about Wells, about the Order, about GenVault."
-
-She placed her hand on the casket. Cool metal under palm.
-
-"You saved four billion people by helping us stop THRESHOLD. You died because institutional power protects itself. Both are true. Both permanent. Both matter. I'll carry your truth even when I can't prove it. I'll teach students defensive Protocol even when I can't tell them why. I'll remember you were murdered even when the world believes you had a heart attack."
+"I'll carry your truth even when I can't prove it."
 
 Sarah stepped back.
 
@@ -423,15 +395,9 @@ Lagos alive but monitored. Sarah Chen teaching at MIT under FBI observation. May
 
 Archive encrypted on servers scattered across seventeen countries. Password locked behind biometrics only she could provide. Three thousand years of Order history. Defensive and offensive Protocol specifications. THRESHOLD deployment documentation. All secure. All waiting.
 
-Not for immediate use. For eventual use.
+Not for immediate use. For eventual use. Twenty years minimum. Long enough for institutional memory to fade and Sarah Chen to retire. Long enough for GenVault to establish itself as legitimate global health corporation.
 
-Twenty years minimum. Maybe thirty. Long enough for institutional memory to fade. Long enough for Sarah Chen to retire. Long enough for FBI surveillance to lapse. Long enough for GenVault to fully establish itself as legitimate global health corporation.
-
-Then reassess.
-
-Then decide if offensive Protocol still had place in world that refused to prevent its own collapse.
-
-(The pandemic proved her point. Hub 47 killed 30 million and counting. Governments failed to contain it. Populations refused cooperation. Defensive Protocol succeeded at stopping THRESHOLD but failed at preventing Hub 47 spread. Exactly what Morrison had predicted: cooperation works only until convenience stops.)
+(The pandemic proved her point. Hub 47 killed 30 million and counting. Defensive Protocol succeeded at stopping THRESHOLD but failed at preventing Hub 47 spread. Cooperation works only until convenience stops.)
 
 Her phone buzzed. Encrypted message from shell corporation in Singapore. GenVault's new CEO acknowledging receipt of "consulting fee" for "strategic insight during transition." Twenty million dollars. Untraceable. Payment for silence about CEO's Order membership before becoming "legitimate pharmaceutical executive."
 
@@ -441,11 +407,7 @@ She replied with single word: **Received.**
 
 Then deleted message. Wiped encryption keys. Routine security. Grandfather Otto had taught her well: never leave evidence, never trust institutions, never assume safety. Just survive, adapt, wait.
 
-Otto Weissmann had escaped Nuremberg through Operation Paperclip. Nazi eugenicist became American citizen. Changed names. Disappeared into institutional structures. Lived to eighty-seven. Died in comfortable retirement in Florida under name "Walter Whitman." Never prosecuted. Never exposed. Never found.
-
-She'd learned from the best.
-
-Morrison had written in his final note that she'd disappear like Otto. He was right. He'd died two weeks after writing it. Probably murdered. Definitely convenient. She hadn't ordered that either. Hadn't needed to. Institutional power protected itself.
+Morrison had written in his final note that she'd disappear like her grandfather. He was right. He'd died two weeks after writing it. Probably murdered. Definitely convenient. She hadn't ordered that either. Hadn't needed to. Institutional power protected itself.
 
 Another sip of wine. Australian Shiraz. $800 bottle purchased through untraceable cryptocurrency from vineyard that didn't ask questions.
 
@@ -471,13 +433,7 @@ Morrison had spent thirty years building THRESHOLD. She could spend thirty more 
 
 She'd watch. She'd wait. She'd plan.
 
-From private beaches institutional power couldn't reach.
-
-From shell corporations forensic accountants couldn't trace.
-
-From encrypted networks FBI couldn't crack.
-
-That was three thousand years of survival strategy: institutions might hunt you, but institutions had quarterly earnings reports and budget constraints and political pressure. Individuals had patience and planning and offshore accounts.
+That was three thousand years of survival strategy: institutions had quarterly earnings reports and budget constraints. Individuals had patience.
 
 Morrison was dead.
 
@@ -486,12 +442,6 @@ Sarah was monitored.
 Order was scattered.
 
 But ideology survived. Archive survived. Wells survived.
-
-And survival meant eventually—
-
-(Maybe twenty years. Maybe thirty. Maybe never.)
-
-(But maybe.)
 
 She finished her wine. Watched stars. Planned for futures Sarah Chen would never see coming because Sarah still believed prevention was enough.
 
@@ -509,7 +459,7 @@ Whichever came first.
 
 She walked inside. Left no footprints in sand. The tide would erase them anyway.
 
-(That was the lesson Morrison never learned: don't fight the tide. Outlast it.)
+(Morrison never learned the lesson: don't fight the tide. Outlast it.)
 
 (Wells had time.)
 
@@ -569,7 +519,7 @@ Twenty-eight million deaths. Four years of Hub 47 pandemic.
 
 GenVault announcing genetic medicine expansion completion. "Building on pandemic response infrastructure to transform healthcare."
 
-Morrison dead two and a half years. Official cause: heart failure. Actual cause: convenient timing.
+Morrison dead two and a half years.
 
 Wells disappeared four years. Official status: fugitive. Actual status: successfully vanished using Order survival tactics.
 
@@ -604,7 +554,7 @@ Twenty-eight million deaths from Hub 47. From Morrison's weapon. From GenVault's
 
 One hundred fifty-six billion in revenue for GenVault. From Morrison's research. From THRESHOLD repurposed. From pandemic profiteering.
 
-Morrison dead at sixty-five. Heart failure. Convenient timing. Unprovable murder.
+Morrison dead at sixty-five.
 
 Wells vanished at forty-two. No sightings. Perfect disappearance. Family tactics.
 
@@ -634,41 +584,11 @@ She ended the call.
 
 Year four complete. Year five beginning.
 
-Morrison dead—suspicious.
-
-Wells disappeared—perfectly.
-
-GenVault thriving—completely.
-
-Pandemic endemic—finally.
-
-The math never balanced.
-
-The truth never surfaced.
-
-The coffee never stopped tasting wrong.
+The math never balanced. The truth never surfaced.
 
 But four billion people were alive.
 
 And that had to be enough.
-
-Even when justice was incomplete.
-
-Even when witnesses died suspiciously.
-
-Even when fugitives vanished perfectly.
-
-Even when corporations profited obscenely.
-
-The victory was real.
-
-The costs were real.
-
-Both permanent.
-
-Both mattering.
-
-Forever.
 
 ---
 

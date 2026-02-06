@@ -9,7 +9,7 @@
 
 Sarah had documented thirty-nine hubs.
 
-Fifteen hours in the archive. Fifteen hours typing casualty projections until the numbers stopped being people and started being just numbers: 47.3 million, 89.4 million, 103.7 million dead.
+Fifteen hours typing casualty projections until the numbers stopped being people and started being just numbers: 47.3 million, 89.4 million, 103.7 million dead.
 
 (Her hands were cramping. Again. She'd switched back to writing an hour ago when typing became impossible.)
 
@@ -75,7 +75,7 @@ Lagos walked closer. Looked at the notebooks spread across the desk. Eight full 
 
 "You're memorizing everything," he said quietly. "Every hub. Every casualty projection. Every security protocol. You're building a complete intelligence package in your head."
 
-"That's the point, isn't it?" Sarah started writing Hub 41 specifications. Jakarta. Indonesia. Pathogen storage beneath the National Museum. 94.1 million casualties. "Morrison's testing whether defensive Protocol works. Can't prove prevention scales if I don't gather complete data first."
+"That's the point, isn't it?" "Morrison's testing whether defensive Protocol works. Can't prove prevention scales if I don't gather complete data first."
 
 "Sarah—"
 
@@ -153,7 +153,7 @@ Cities Sarah had visited. Cities she'd never seen. Cities containing millions of
 
 Lagos read the last specification.
 
-"Hub 47: Buenos Aires, Argentina. Projected casualties: 43.8 million. Deployment completes THRESHOLD Phase II global coverage. Total mortality across all forty-seven hubs: 4.237 billion people. Estimated timeline to new equilibrium: eighteen months."
+"Hub 47: Buenos Aires, Argentina. Projected casualties: 43.8 million. Deployment completes THRESHOLD global coverage. Total mortality across all forty-seven hubs: 4.237 billion people. Estimated timeline to new equilibrium: eighteen months."
 
 Sarah wrote the last number.
 
@@ -179,33 +179,11 @@ At Sarah sitting in the metal chair, exhausted, hands cramping, eyes burning fro
 
 "Forty-four hours until Wells's deadline. Fire alarm testing happens in thirty-six hours. Forty-three-second window during shift change when electronic locks disengage and you can reach the medical bay exit to parking garage B2."
 
-"You said that before." Sarah drank more coffee. Cold again. She was developing a pattern: drink coffee while it's hot, get distracted by documenting mass murder, drink coffee while it's cold and bitter and wrong. "What you didn't say is what happens when Morrison realizes I'm running. When Wells overrides the fire alarm. When security locks down the building before I reach the exit."
-
-"Morrison won't stop you."
-
-"How do you know?"
-
-Lagos pulled up surveillance footage on his tablet. Showed Sarah.
-
-Morrison in his office. Watching the archive feed. Watching Sarah document Hub 39. Watching Lagos help her. Watching the intelligence package grow from eight notebooks to nine.
-
-Morrison wasn't stopping it.
-
-Just watching.
-
-Waiting to see if defensive Protocol worked when tested against impossible mathematics.
-
-"He wants you to prove him wrong," Lagos said. "Thirty years building THRESHOLD and he wants someone brilliant enough to demonstrate that prevention works better than optimization. You're not gathering intelligence—you're Morrison's last chance to avoid becoming the monster his mathematics require him to be."
-
-"And Wells?"
-
-"Wells will detain you in forty-four hours whether Morrison approves or not. Order leadership signed the authorization. Morrison gets his ethics test right up until the deadline, then reality resumes and THRESHOLD deploys on schedule."
+"You said that before." Sarah drank more coffee. Cold again. Developing a pattern: drink coffee while it's hot, get distracted by documenting mass murder, drink coffee while it's cold and bitter and wrong. "What you didn't say is what happens when Morrison realizes I'm running. When Wells overrides the fire alarm. When security locks down the building before I reach the exit."
 
 Sarah looked at the notebooks.
 
-At nine notebooks containing 4.2 billion deaths.
-
-At casualty projections for forty-seven cities she'd memorized over fifteen hours while Morrison watched and Wells prepared detention orders and forty-four hours counted down to either escape or captivity.
+Nine notebooks containing 4.2 billion deaths.
 
 "What's the probability I make it out?" she asked.
 
@@ -235,11 +213,11 @@ One hundred percent certainty that doing nothing meant 4.2 billion deaths anyway
 
 "No pressure."
 
-"I didn't say there was no pressure." Lagos smiled. Sad. True. The expression Sarah was learning meant he was about to say something devastating while pretending it was just mathematics. "I said ten percent. Morrison's giving you better odds than most people get when fighting genocide. He gave you complete deployment data. Seventy-two hours to gather intelligence. GPS trackers broadcasting to extraction teams. Escape route planned during fire alarm testing. He's giving ethics every advantage because he needs to know—really know—whether prevention works."
+"I didn't say there was no pressure." Lagos smiled. Sad. True. "I said ten percent. That's better than zero."
 
-"Ten percent isn't every advantage."
+He stood. Walked to the door. Stopped.
 
-"Ten percent is better than zero." Lagos stood. Walked to the door. Stopped. "Sarah, listen: In thirty-six hours, fire alarm testing begins. Forty-three seconds. Medical bay exit to parking garage B2. Martin will be waiting three miles out with extraction coordinates. You run, you don't stop, you don't look back. Ten percent probability becomes fifteen percent if you're fast. Twenty percent if you're lucky."
+"Thirty-six hours. Fire alarm testing. Forty-three seconds. Medical bay exit to parking garage B2. You run, you don't stop, you don't look back. Fifteen percent if you're fast. Twenty if you're lucky."
 
 "And you?"
 
@@ -247,35 +225,17 @@ One hundred percent certainty that doing nothing meant 4.2 billion deaths anyway
 
 "He'll know you helped me."
 
-"He already knows." Lagos pulled up Morrison's surveillance feed again. Showed Sarah the timestamp: 2:47 PM. Morrison watching Lagos help Sarah document the final eight hubs. Watching Lagos coordinate the escape. Not stopping it. Just observing. Testing whether ethics won when given every advantage. "I'm part of Morrison's ethics test too. If I help you escape and Morrison doesn't stop me, that proves defensive Protocol scales through cooperation. Multiple people choosing prevention over optimization even when the mathematics get impossible."
+"He already knows." Lagos glanced at the surveillance camera in the corner. "He's been watching us document the final eight hubs. Not stopping it."
 
-Sarah looked at the surveillance feed.
+Ten percent probability that felt more like hope than mathematics.
 
-At Morrison watching them.
-
-At forty-four hours counting down.
-
-At ten percent probability that felt more like hope than mathematics.
-
-"Why are you doing this?" she asked. "Really. Not the defensive Protocol explanation. Not the ethics test. Why are you willing to die helping me prove Morrison wrong?"
+"Why are you doing this?" she asked. "Really."
 
 Lagos looked at the nine notebooks.
 
 At 4.2 billion deaths documented in three hundred pages.
 
-At the casualty projections Sarah had memorized so she could escape with complete intelligence and maybe—just maybe—stop deployment before December 1st.
-
-"Because someone I cared about died trying to expose THRESHOLD," he said quietly. "Ava Rodriguez. My research assistant. She found evidence the targeting wasn't as precise as Morrison claimed. Tried to show me the data. I told her to stay quiet."
-
-He smiled.
-
-Bitter. Broken.
-
-"Three days later, brake failure. Twenty-six years old and dead because I chose comfort over courage."
-
-"Lagos—"
-
-"You're not Ava," he continued. "You're smarter. Braver. You walked into GenVault knowing it might be suicide. You're gathering intelligence knowing Wells will detain you in forty-four hours. You're choosing to fight even when the mathematics say you lose. That's defensive Protocol. That's what Ava would have done if she'd had the chance."
+"Because I told Ava to stay quiet and she died anyway." His voice was flat. Final. "I'm not making that choice again."
 
 He walked to the door.
 
@@ -305,8 +265,6 @@ Ten percent probability she made it out.
 
 She pulled out her phone.
 
-(Morrison let her keep it. Part of the test. Let her call Martin. Let her coordinate extraction. Give ethics every advantage and see if prevention worked when tested against optimization.)
-
 Typed a message to the encrypted number Martin had given her:
 
 **Fire alarm testing in 36 hours. 43-second window. Medical bay exit to parking garage B2. Be ready.**
@@ -322,8 +280,6 @@ Sarah deleted the messages.
 Set down the phone.
 
 Looked at the surveillance camera in the corner.
-
-(Morrison watching. Always watching. Testing whether defensive Protocol worked through observation and coordination and cooperative behavior when facing impossible odds.)
 
 She picked up the first notebook.
 
@@ -349,51 +305,11 @@ Counted down.
 
 ---
 
-**GenVault Director's Office - 6:23 PM**
+Fourteen floors above, Morrison's phone buzzed with another message from Wells.
 
-Morrison watched Sarah on the monitors.
+He didn't open it.
 
-Hour eighteen in the archive. Nine notebooks completed. Forty-seven hubs documented. She was reviewing now. Memorizing. Building the intelligence package in her head because she understood that the data only mattered if she got out with it.
-
-(Ten percent probability. Lagos had told her the truth. Morrison appreciated that. No false hope. No pretending the odds were better than they were. Just mathematics: ten percent survival, ninety percent failure, one hundred percent certainty that trying was the ethical choice anyway.)
-
-His phone buzzed. Wells. Again.
-
-**44 hours until detention authorization. Chen has complete deployment data. Every hub specification. Every casualty projection. If she escapes with this intelligence, THRESHOLD fails. Immediate detention required.**
-
-Morrison stared at the message.
-
-Sarah reviewing Hub 1 specifications. Memorizing Atlanta. Building the complete picture Morrison had given her because ethics needed every advantage.
-
-He typed:
-
-**Detention denied. Assessment protocol continues until deadline. 44 hours.**
-
-**You're letting her build the case that destroys us.**
-
-**I'm testing whether defensive Protocol works when given complete information and brilliant pattern recognition. 44 hours, Catherine. Then we'll know.**
-
-**When she escapes with deployment data and exposes THRESHOLD, remember you chose this. Remember you had 44 hours to stop her.**
-
-Morrison closed the message.
-
-Pulled up the fire alarm testing schedule.
-
-Thirty-six hours. Shift change. Electronic locks disengaging for safety protocols. Forty-three-second window when Sarah could run from sublevel 3 to ground level medical bay to parking garage B2.
-
-(He'd scheduled the testing himself. Deliberately. Creating the escape window because ethics needed a chance and Morrison needed to know if Sarah Chen was brilliant enough and brave enough to prove that prevention worked better than optimization when tested against impossible mathematics.)
-
-Emily's photograph looked at him from the desk drawer.
-
-(Daddy, why do people have to die?)
-
-(Because their genetics aren't optimized, sweetheart. Because I built THRESHOLD to make your death mean something. Because I'm testing whether ethics wins and I'm terrified of both outcomes—Sarah succeeds and I'm wrong, or Sarah fails and I'm a monster.)
-
-Morrison closed the drawer.
-
-Watched Sarah memorize genocide.
-
-Counted down to the fire alarm that would either prove prevention worked or confirm that thirty years of mathematics had been necessary all along.
+Just watched Sarah memorize genocide and counted down to the fire alarm he'd scheduled himself.
 
 Forty-four hours.
 
@@ -401,4 +317,4 @@ Forty-four hours.
 
 **END CHAPTER 8**
 
-**Word Count:** ~2,900 words (from ~3,100)
+**Word Count:** ~2,200 words

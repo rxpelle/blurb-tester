@@ -1,6 +1,12 @@
-# BOOK 3: CHAPTER 1 - THE COLLAPSE (1189 BCE)
+# PREVIEW: BOOK 3 - THE FIRST KEY
 
-## CHAPTER 1: THE PHYSICIAN'S WITNESS
+## THE COLLAPSE (1189 BCE)
+
+*The following is an exclusive preview of Book 3: The First Key, where the origins of the Genesis Protocol are revealed. Continue reading to discover how it all began...*
+
+---
+
+## THE PHYSICIAN'S WITNESS
 
 ---
 

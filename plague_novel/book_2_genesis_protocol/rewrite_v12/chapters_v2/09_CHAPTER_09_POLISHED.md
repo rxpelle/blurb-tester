@@ -129,17 +129,17 @@ At his signature line. Blank. Waiting.
 
 "You're offering me immunity," Lagos said slowly.
 
-"I'm offering you survival." Morrison's voice was quiet. Honest. "David, you've been sabotaging THRESHOLD for two years. You've coordinated Sarah's escape. You've helped her build an intelligence package that will shut down deployment if she gets out. You've done everything you can. But tomorrow, Wells is going to detain Sarah whether you help or not. Whether you're here or not. Your presence changes nothing except whether you die with her."
+"I'm offering you survival." Morrison's voice was quiet. Honest. "David, you've done everything you can. But tomorrow, Wells is going to detain Sarah whether you're here or not. Your presence changes nothing except whether you die with her."
 
 He tapped the transfer document.
 
-"Sign this. Transfer to Geneva. Live. You've given Sarah everything she needs. The thumb drive. The hub specifications. The escape route. The extraction coordinates. She either makes it out or she doesn't—but you don't have to die to find out."
+"Sign this. Transfer to Geneva. Live. She either makes it out or she doesn't—but you don't have to die to find out."
 
 Lagos looked at Morrison.
 
 "Why would you help me?"
 
-"Because proving defensive Protocol works doesn't require martyrdom." Morrison sat down. Exhausted. Done pretending. "I need evidence that cooperative behavior prevents collapse. You've provided that evidence. You coordinated with Sarah. Helped her gather intelligence. Chose prevention over complicity. That's the data point. Whether you die tomorrow doesn't change the mathematics—it just means I lose someone who tried to do the right thing when it mattered."
+"Because proving defensive Protocol works doesn't require martyrdom." Morrison sat down. Exhausted. Done pretending. "You've already provided the evidence. Whether you die tomorrow doesn't change the mathematics—it just means I lose someone who tried to do the right thing when it mattered."
 
 He pulled up Ava's file.
 
@@ -149,7 +149,7 @@ Showed Lagos the accident report. The brake failure investigation. The Order's i
 
 He closed the file.
 
-"I can't bring Ava back. Can't undo the choice I made to stay silent. But I can give you the choice I didn't give her: sign this transfer, go to Geneva, live. You've helped Sarah. You've proven defensive Protocol scales through cooperation. You don't have to die to prove it again."
+"I can't bring Ava back. But I can give you the choice I didn't give her: sign this, go to Geneva, live."
 
 Lagos read the transfer document.
 

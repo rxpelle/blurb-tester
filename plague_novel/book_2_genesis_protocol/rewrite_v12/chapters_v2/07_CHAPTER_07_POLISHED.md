@@ -134,105 +134,33 @@ Sarah kept typing.
 
 Three miles away, Martin Reeves watched the video feed broadcasting from Sarah's trackers.
 
-Both signals strong. Clear video. Audio. Everything she was seeing, he was seeing. Every hub specification. Every casualty projection. Every piece of deployment data Morrison was letting her access.
+Both signals strong. Everything she was seeing, he was seeing.
 
-"She's been in there eight hours," Maya's voice said through the encrypted phone. "How much longer can she maintain this?"
+He pulled up the intelligence package they'd been building from Sarah's broadcasts. Twelve hubs documented. Addresses, security specs, deployment vectors.
 
-Martin checked the biometric data. Heart rate elevated but stable. Stress hormones climbing. No panic signals yet.
-
-"She's holding together." He pulled up the intelligence package they'd been building from Sarah's broadcasts. "Twelve hubs documented. Addresses, security specs, deployment vectors. If she gets out with this data—"
-
-"Twelve hubs isn't enough." Maya's voice was sharp. Clinical. The CDC epidemiologist calculating outbreak vectors except the outbreak was deliberate and they had twelve days to stop it. "Morrison's network has forty-seven hubs. Twelve compromised means thirty-five still operational. THRESHOLD still deploys. Still kills billions."
+"Twelve hubs isn't enough." Maya's voice through the encrypted phone. Sharp. Clinical. "Morrison's network has forty-seven hubs. Twelve compromised means thirty-five still operational. THRESHOLD still deploys."
 
 "Then we need her to get more before she runs."
 
-"How much time does she have?"
+"We're betting on Morrison's crisis of conscience lasting long enough for Sarah to gather complete intelligence?"
 
-Martin looked at the countdown timer Lagos had shown Sarah. "Sixty-four hours until Morrison's deadline expires. But Wells could override him earlier. Could detain Sarah before the escape window."
-
-"So we're betting on Morrison's crisis of conscience lasting long enough for Sarah to gather complete intelligence?"
-
-Martin watched the video feed.
-
-Sarah typing. Hub after hub. Memorizing genocide. Building the intelligence package that might stop deployment or might just be Morrison's elaborate ethics test that ends with Sarah detained and THRESHOLD deploying anyway.
-
-"We're betting," Martin said quietly, "that Morrison wants to be stopped more than he wants to be right. That thirty years of building genocide broke something in him and Sarah's the person he's chosen to prove whether he's a savior or a monster."
+"We're betting," Martin said quietly, "that Morrison wants to be stopped more than he wants to be right."
 
 "That's not a plan. That's psychology."
 
-"That's all we have." Martin pulled up the extraction protocols. Three-mile perimeter. Armed response teams. Forty-three-second window during fire alarm testing. "Sarah gets the data. She runs. We extract her. FBI secures the hubs before December 1st deployment. Or Wells detains her and Morrison proceeds with THRESHOLD and four billion people die."
+"That's all we have."
 
-Maya was quiet for a long moment.
+Maya was quiet on the line for a moment. When she spoke again, the clinical edge was gone.
 
-Then: "The trackers are still broadcasting?"
+"She's been in there four days, Martin. If Morrison changes his mind—if Wells overrides him—" She stopped. Started over. "We should have a limit. A point where we pull her out whether she's finished or not."
 
-"Both signals. Clear. Strong."
+"She'd never agree to that."
 
-"Then we trust her." Maya's voice was steady now. Decided. "Sarah knows what she's doing. Let her work."
+"I'm not asking her. I'm asking you."
 
-On Martin's screen, Sarah pulled up another file. Hub 38: Seoul, South Korea. Casualties: 43.7 million. She kept typing. Methodical. Precise. The pattern recognition specialist gathering patterns of mass murder while Morrison watched and Wells demanded detention and sixty-four hours counted down to either escape or captivity.
-
-Martin checked his weapon.
-
-Verified the extraction route one more time.
+Martin watched Sarah's feed. Hub after hub. Methodical. Precise.
 
 Sixty-four hours.
-
----
-
-**GenVault Director's Office - 3:47 AM**
-
-Morrison watched Sarah on the monitors.
-
-Still in the archive. Still typing. Hour eight. She'd documented fourteen hubs now. Committed casualty projections to memory. Memorized security protocols and deployment vectors and everything she'd need to expose THRESHOLD if she got out.
-
-(When she got out.)
-
-(Morrison had told Lagos not to stop her. Had created the forty-three-second window. Had given her every advantage because if Sarah couldn't prove prevention worked with complete data and brilliant pattern recognition and defensive Protocol genetics, then nobody could.)
-
-His phone buzzed. Wells. Again.
-
-**Chen has documented 14 hubs. She's clearly gathering intelligence, not considering recruitment. Immediate detention required. She's a liability we cannot afford 12 days from deployment.**
-
-Morrison stared at the message.
-
-Fourteen hubs. Sarah was moving fast. Efficient. Building a complete intelligence package that would either stop THRESHOLD or prove that Morrison's thirty years of work was necessary.
-
-He typed:
-
-**Detention remains denied. Chen is still within assessment timeline. 64 hours remaining before recruitment decision deadline. Protocol stands.**
-
-**You're letting her build a case against us.**
-
-**I'm testing whether defensive Protocol actually prevents collapse when given every advantage. 64 hours, Catherine. Then we'll know.**
-
-Morrison sent it.
-
-Watched Wells read it three miles away in her own office.
-
-Waited for her response.
-
-**When she escapes with deployment data and exposes THRESHOLD, remember this conversation. Remember you chose ethics over optimization. Remember you had 64 hours to stop her and didn't.**
-
-**I'll remember,** Morrison typed. **That's the point.**
-
-He closed the message thread.
-
-Pulled up Emily's photograph.
-
-At Melissa's photograph beside it.
-
-At the man he used to be before grief became mathematics became genocide became this: sitting in an office at 4 AM watching a brilliant woman gather evidence to stop him while he didn't interfere because some broken part of him needed to know if the ethics he'd abandoned thirty years ago could win when tested against impossible stakes.
-
-On the monitor, Sarah pulled up Hub 19: Mexico City.
-
-Casualties: 56.8 million.
-
-She kept typing.
-
-Morrison kept watching.
-
-Sixty-four hours counting down to either vindication or destruction and Morrison didn't know which outcome terrified him more.
 
 ---
 
@@ -244,9 +172,7 @@ She needed to stop.
 
 (Couldn't stop.)
 
-(Sixty-four hours until the deadline and she had twenty-three hubs documented and twenty-four more to memorize and if she stopped now, if she took a break, if she let exhaustion win—)
-
-(Then Morrison was right. Then defensive Protocol failed. Then Sarah proved that prevention couldn't compete with optimization when the mathematics got big enough.)
+(Twenty-three hubs documented. Twenty-four more to go. If she stopped now—)
 
 Her coffee cup was empty.
 
@@ -266,7 +192,7 @@ Sarah held her coffee cup.
 
 "I'm not a target," Sarah said. "Morrison's considering me for partnership."
 
-"Morrison's testing his conscience using you as a metric." Wells walked closer. Precise. Controlled. A woman who'd spent thirty years in the Order and never doubted that genocide was necessary when the mathematics required it. "I've worked with Morrison for sixteen years. Watched him recruit twenty-three people. He's brilliant at identifying who'll compromise when shown big enough stakes. But you're different."
+"Morrison's testing his conscience using you as a metric." Wells walked closer. Precise. Controlled. Not someone who'd joined the Order—someone who'd been raised in it. Whose certainty was inherited, not learned. "I've worked with Morrison for sixteen years. Watched him recruit twenty-three people. He's brilliant at identifying who'll compromise when shown big enough stakes. But you're different."
 
 "How?"
 
@@ -284,7 +210,7 @@ She gripped the coffee cup harder.
 
 "Morrison won't allow that."
 
-"Morrison doesn't have a choice. The Order's leadership approved the detention order. Morrison gets sixty-two more hours to pretend ethics matters, and then reality resumes and THRESHOLD deploys on schedule."
+"Morrison doesn't have a choice. The Order's leadership approved the detention—my family has carried this mission longer than Morrison's been alive." Her voice didn't waver. "He gets sixty-two more hours to pretend ethics matters, and then reality resumes and THRESHOLD deploys on schedule."
 
 Wells walked to the monitor showing Sarah's research. Looked at Hub 23: São Paulo. 52.1 million casualties.
 
@@ -302,15 +228,11 @@ Sarah stood alone in the archive.
 
 Coffee cup shaking in her hands now.
 
-(Sixty-two hours.)
-
-(Not seventy-two. Not the deadline Morrison gave her. Wells had cut it. Prepared the detention order. Decided that Morrison's ethics test was irrelevant and THRESHOLD deployed whether Sarah proved prevention worked or not.)
+(Sixty-two hours. Not seventy-two. Wells had cut it.)
 
 She set the coffee cup down before she dropped it.
 
 Looked at her notebooks. Twenty-three hubs. Twenty-four more to document.
-
-(Sixty-two hours before Wells transferred her to Site Seven and the intelligence stopped and Morrison's test became meaningless.)
 
 Sarah pulled up Hub 24: Rio de Janeiro.
 

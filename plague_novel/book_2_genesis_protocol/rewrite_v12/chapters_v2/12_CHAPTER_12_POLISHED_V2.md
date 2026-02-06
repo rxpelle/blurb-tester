@@ -196,6 +196,130 @@ Stared at the red dot over Wuhan.
 
 ---
 
+**Hour 42 - Three Days Earlier**
+**November 19, 2019 - Wuhan, China**
+**Hub 47 Facility, Sublevel 4**
+
+Catherine Wells stood in the Hub 47 control room watching her team evacuate thirty years of research in four hours.
+
+Not panic. Strategy.
+
+Morrison had failed. She'd known it the moment Sarah Chen secured the first eight hubs. Knew it when forty-two more fell within thirty-six hours. Knew it when Morrison gave Chen complete deployment data and let her walk around GenVault wearing trackers.
+
+The man had spent thirty years building THRESHOLD and lost his nerve in seventy-two hours.
+
+Weak.
+
+Her grandfather Otto Weissmann hadn't hesitated when the Allies came for him in 1945. He'd burned the records, changed his identity, and escaped through Operation Paperclip. Built a pharmaceutical empire in America. Preserved the knowledge. Waited for the right moment.
+
+Wells had learned from him. Learned that institutional power outlasted individuals. Learned that losing battles didn't mean losing wars. Learned that the Genesis Protocol—Amenhotep's vision, her family's 3,000-year mission—was more important than any single deployment.
+
+Morrison could fall. THRESHOLD could fail. The Order could scatter.
+
+But the knowledge would survive.
+
+"Status?" she asked.
+
+"Pathogen samples secured," her facility director reported. Nervous. Scared. Not understanding that this was calculated withdrawal, not defeat. "Cryogenic transport ready. Research files encrypted and transferred to Archive. Facility sterilization beginning in thirty minutes."
+
+"And the contamination?"
+
+A pause. "Ma'am, the containment breach during sample transfer—"
+
+"I know about the breach." Wells's voice was ice. "How many exposed?"
+
+"Seventeen confirmed. Market vendors. The facility is beneath Huanan Seafood Market—some contamination reached surface level during evacuation. We estimate forty-seven total exposures."
+
+Forty-seven casualties. Unfortunate. Unplanned. But acceptable losses compared to THRESHOLD's full deployment being prevented.
+
+"Sterilize what we can," Wells said. "Burn the evidence. Make it look like there was never anything here. The outbreak will be attributed to natural emergence. Zoonotic transfer. Nobody connects it to GenVault."
+
+"And Morrison?"
+
+Wells smiled. Cold. Calculated. Her family had survived for 3,000 years by knowing when to cut losses.
+
+"Morrison takes the fall. He's weak. He doubted. He gave Sarah Chen everything. Let him be the rogue geneticist. Let him be detained. Let him cooperate with authorities and think he's noble."
+
+She picked up the Archive drive. Three thousand years of Order documentation. Genetic databases. Bloodline tracking. Breeding programs. The complete history of Amenhotep's network from Bronze Age Egypt to modern America.
+
+Morrison didn't have access to half of it. He wasn't legacy. Wasn't bloodline. Just a brilliant recruit who'd built the weapon but lacked the conviction to deploy it.
+
+"Ma'am, the Chinese CDC is asking questions—"
+
+"Let them ask. By the time they investigate, we'll be gone. The facility will show nothing. The contamination will look like natural outbreak. Morrison will be detained. The Order will scatter. GenVault will survive."
+
+Because that was how institutional power worked. Individuals took blame. Corporations endured. Knowledge preserved. The mission continued even when deployments failed.
+
+Sarah Chen thought she'd won by securing forty-six hubs.
+
+She'd prevented THRESHOLD. Impressive. Wells could admit that. The defensive Protocol genetics were strong in that one—ninety-eight percent success rate using distributed networks Morrison had claimed were impossible to coordinate.
+
+But forty-six hubs secured didn't mean the war was over.
+
+It meant the Nefertari bloodline and Amenhotep bloodline were still fighting after 3,207 years. It meant defensive Protocol had won this battle. It meant Wells would spend the next decade rebuilding what Sarah had dismantled.
+
+Because her family didn't give up.
+
+Her great-great-great-grandmother had carried the offensive Protocol through the French Revolution. Her grandfather had preserved it through Nazi Germany's collapse and American immigration. Her father had embedded it in GenVault's corporate structure.
+
+Wells would preserve it through THRESHOLD's failure.
+
+"Begin evacuation," she ordered. "I want this facility empty in four hours. Transport samples to Budapest facility. Encrypt all files. Burn everything else. And trigger the outbreak containment protocols—make it look like natural emergence, zoonotic spillover, unfortunate timing. Nobody connects this to GenVault."
+
+Her team moved.
+
+Efficient. Professional. Trained for this scenario.
+
+Because the Order had survived worse than one failed deployment. Had survived empires collapsing. Had survived Nefertari's descendants fighting them for three thousand years. Had survived because they understood: knowledge outlasted buildings, networks outlasted institutions, bloodlines outlasted generations.
+
+Sarah Chen had won the battle.
+
+But Catherine Wells—heir to Amenhotep's vision, carrier of offensive Protocol genetics, guardian of 3,000 years of accumulated knowledge—would win the war.
+
+She walked out of Hub 47 for the last time.
+
+Behind her: contaminated facility, forty-seven exposed vendors, pathogen escaping into Wuhan population.
+
+Ahead: preserved Archive, scattered Order, GenVault surviving, Morrison taking blame.
+
+The mission continued.
+
+(That was Amenhotep's lesson: survival required sacrifice. Sometimes the sacrifice was billions through THRESHOLD. Sometimes it was Morrison through scapegoating. Always, the knowledge survived.)
+
+Wells got in the car. Her driver headed for the airport.
+
+Budapest. Then Geneva. Then wherever the next safe house was.
+
+Let Sarah Chen celebrate preventing THRESHOLD.
+
+Let Morrison confess and think he was noble.
+
+Let the world believe Hub 47 was natural emergence.
+
+Wells would preserve the knowledge. Rebuild the network. Wait for the next collapse.
+
+Because the Amenhotep bloodline didn't quit.
+
+And Sarah Chen—brilliant, principled, defensive Protocol encoded in her genes—would spend the rest of her life fighting institutional power that couldn't be destroyed.
+
+That was the real victory.
+
+Not winning. Surviving.
+
+Not deployment. Preservation.
+
+Not this battle. The 3,000-year war.
+
+Wells smiled as the car pulled away from Wuhan.
+
+(Behind her, Li Mei was being exposed to THRESHOLD pathogen at Huanan Market, not knowing she would be Patient Zero of the outbreak Sarah Chen failed to prevent.)
+
+(Ahead, Wells was preserving Amenhotep's vision for the next generation to deploy.)
+
+(The Genesis Protocol continued.)
+
+---
+
 **Hour 48 - Chinese CDC Emergency Operations, Beijing**
 **November 23, 2019**
 
@@ -238,55 +362,19 @@ Wei looked at the case files. Seventeen patients. Severe pneumonia. Unknown etio
 **Hour 52 - Wuhan Municipal Hospital**
 **November 23, 2019 - Evening**
 
-Li Mei lay in the isolation ward struggling to breathe.
+By evening, the pneumonia cluster had grown to thirty-one confirmed cases.
 
-She was thirty-four. Mother of two children—Jian, age 7, and Xiao, age 4. She worked as a vendor at Huanan Market selling fresh produce. Six days ago she'd noticed workers in the back section of the market acting strangely. Moving equipment. Clearing out storage areas. Nervous. Rushed.
+Patient Zero: Li Mei, age 34. Produce vendor, Section C, Row 12. Mother of two. She'd been healthy five days ago—carried sixty-pound crates without breaking a sweat. Now she was in isolation, lungs filling with fluid, asking to see her children.
 
-Five days ago, the back section was abandoned. Doors sealed. No explanation.
+The doctors wouldn't let her. Isolation protocols.
 
-Four days ago, Li Mei developed a cough. Fever. Fatigue.
+She died at 9:23 PM. Oxygen saturation at 41% and dropping when the monitors flatlined. Her husband Qiang was holding her hand.
 
-Three days ago, her symptoms worsened. Severe respiratory distress. Her husband Qiang brought her to the hospital.
+Seventeen hours later, their daughter Xiao died. Age four.
 
-Now she was in isolation. Oxygen mask. IV fluids. Doctors running tests she didn't understand.
+Forty-one hours later, their son Jian died. Age seven.
 
-"Mrs. Li," the doctor said. Young. Tired. Scared. "Your test results show unusual viral pneumonia. We're trying to identify the pathogen. But your condition is deteriorating rapidly."
-
-"My children," Li Mei whispered through the oxygen mask. "Jian and Xiao. Are they—"
-
-"Your husband brought them for testing. Both showing early symptoms. We've isolated them as well."
-
-Li Mei's heart didn't just break. It shattered into something small and sharp that lodged in her chest right next to her failing lungs.
-
-(Her babies. Jian who still slept with his stuffed rabbit. Xiao who called her "Mama" seventeen times a day because she was four and four-year-olds did that. Both sick. Both in isolation. Both dying because their mother sold produce at a market that happened to have a bioweapons lab underneath it.)
-
-"What is it?" she asked. "What's making us sick?"
-
-The doctor hesitated. "We don't know yet. But Mrs. Li, you need to tell us—were you exposed to anything unusual at the market? Chemicals? Animals? Anything that might explain this?"
-
-Li Mei thought about the back section. The workers clearing out. The sealed doors.
-
-"There was something," she said. "Back section of the market. Workers were removing equipment five days ago. They looked scared. Rushed. Then they sealed everything and disappeared."
-
-The doctor's face changed. "What kind of equipment?"
-
-"Medical equipment. Laboratory equipment. I don't know exactly. But it wasn't normal for a seafood market."
-
-The doctor pulled out his phone. Made a call. Spoke quickly in Mandarin.
-
-Li Mei closed her eyes.
-
-(Her children were sick. Jian and Xiao. Seven and four years old. Infected because their mother worked at the wrong market at the wrong time.)
-
-(Because someone had been operating a lab beneath a seafood market. Because they'd cleared out in a hurry. Because something had been released.)
-
-She coughed. Blood on the tissue.
-
-The oxygen mask felt wrong. Too tight. Not enough air.
-
-(She was dying. She knew she was dying.)
-
-(And her children were dying too.)
+Qiang survived. He would spend the next five years wishing he hadn't.
 
 ---
 
@@ -419,7 +507,7 @@ Sarah looked at the message.
 
 (Morrison would trade intelligence about Hub 47 outbreak for Lagos's freedom. Would help contain the pathogen if Sarah released the man who'd helped her escape.)
 
-(That was the deal. THRESHOLD intelligence for Lagos's life.)
+(Simple exchange. THRESHOLD intelligence for Lagos's life.)
 
 She forwarded the message to Torres.
 
@@ -453,11 +541,138 @@ She would track every case. Every name. Every death.
 
 (That would have to be enough.)
 
+---
+
+## SARAH WATCHES THE NEWS BREAK
+
+Sarah sat in Hartford safe house at 8:47 PM watching Chinese state television through VPN connection.
+
+Torres had confirmed Hub 47 three hours ago. Evacuated November 19-20, before raids began. Seventeen cases reported. Three deaths. Huanan Seafood Market, Wuhan.
+
+Now she was watching it play out in real-time on CCTV News.
+
+The anchor's face was carefully neutral. Professional. The kind of neutral that meant the story was bigger than they could say.
+
+**"...unusual pneumonia outbreak in Wuhan's Jianghan District. Seventeen confirmed cases connected to Huanan Seafood Market. Chinese CDC investigating. Public advised to remain calm..."**
+
+Sarah's laptop showed the market on Google Maps. Street view from 2018. Section D—the back section where workers had been seen in hazmat suits Tuesday morning—was blurred out. Privacy restriction. Or deliberate erasure.
+
+(Hub 47 had been there. Beneath the market. Morrison's facility. THRESHOLD deployment site for Central China region. Target population: 89.4 million. Now evacuated. Now spreading.)
+
+Her phone buzzed. Maya.
+
+"Are you watching?"
+
+"Yes."
+
+"Seventeen cases. That's what they're saying publicly. What's the real number?"
+
+Sarah pulled up Morrison's intelligence file. The one he'd provided from detention trying to help contain what he'd created.
+
+"Morrison estimates forty-seven exposed based on facility evacuation timeline. Seventeen symptomatic. Incubation period suggests another thirty cases will emerge within seventy-two hours."
+
+"Jesus."
+
+"It gets worse. ACE2 receptor targeting means high transmissibility. R-naught estimated at 2.5 to 3.7. If containment fails—"
+
+"How bad?"
+
+Sarah looked at the numbers Morrison had calculated. The same mathematics he'd used to design THRESHOLD. Now repurposed to predict its spread.
+
+"Thirty-five to fifty million deaths over twenty-four to thirty-six months. That's if containment fails completely. If they manage partial containment, maybe fifteen to twenty million."
+
+The line went quiet.
+
+Maya's voice when it came back was hollow. "We got forty-six out of forty-seven hubs. Ninety-eight percent success rate."
+
+"Yeah."
+
+"And that two percent could kill thirty-five million people."
+
+"Yeah."
+
+Another pause. Then: "What are you going to do?"
+
+Sarah didn't know. What could she do? Hub 47 was already spreading. Morrison's intelligence would help—transmission vectors, receptor binding mechanisms, containment strategies—but the pathogen was out. Seventeen cases were fifty-three by next week. Fifty-three became two hundred. Two hundred became thousands.
+
+"I'm going to track it," she said. "Document every case. Every death. Every failure. Because someone needs to remember."
+
+She opened new spreadsheet. Started typing.
+
+**THRESHOLD HUB 47 OUTBREAK TRACKING**
+**Patient Zero:** Li Mei, Age 34, Huanan Market vendor
+**Date of Death:** November 24, 2019
+**Initial Cases:** 17 (November 21)
+**Projected Casualties if Uncontained:** 35-50 million over 24-36 months
+
+Her hands were shaking.
+
+(Forty-six hubs prevented. Four point two billion lives saved. But this one hub would kill more people than most wars. More than most famines. More than most genocides except the one Morrison had actually designed.)
+
+The Chinese news switched to weather. Normal programming. Like seventeen pneumonia cases was just another health story.
+
+Sarah knew better.
+
+She'd studied epidemiology. Knew what exponential growth looked like. Knew what happened when R-naught exceeded 2.0 and containment window closed and governments prioritized economic stability over public health response.
+
+She pulled up epidemiological models. Ran scenarios.
+
+**Scenario 1: Immediate Containment (Wuhan lockdown within 7 days)**
+- Projected casualties: 500,000-2 million
+- Probability of success: 15%
+- Requires: Authoritarian government response, complete city quarantine, international cooperation
+
+**Scenario 2: Delayed Containment (Wuhan lockdown within 30 days)**
+- Projected casualties: 8-15 million
+- Probability of success: 40%
+- Requires: WHO pandemic declaration, coordinated response, vaccine development
+
+**Scenario 3: Failed Containment (No effective lockdown)**
+- Projected casualties: 35-50 million
+- Probability of success: 45%
+- Outcome: Global pandemic, economic collapse, Morrison's mathematics proven correct
+
+She stared at the numbers.
+
+Her phone buzzed again. Lagos this time.
+
+"Torres told me about Hub 47."
+
+"You watching the news?"
+
+"Chinese state television is calling it 'unusual pneumonia.' That's what they always call novel pathogens before admitting they're novel pathogens."
+
+"Morrison gave us the intelligence. ACE2 targeting. Transmission vectors. Everything we need for containment. Question is whether Chinese government acts fast enough."
+
+"And if they don't?"
+
+Sarah looked at her spreadsheet. Patient Zero. Li Mei. Age 34. Market vendor. Mother of two. Died November 24 believing she caught bad flu. Never knowing she was murdered by mathematics. Never knowing her death was Morrison's genocide made real through two percent failure.
+
+"Then I track every single death," Sarah said. Voice flat. Dead. The voice she used when emotion was luxury she couldn't afford. "And I remember that we prevented THRESHOLD and failed to prevent this. Both. Simultaneously. Forever."
+
+She added Li Mei to her tracking file.
+
+**Li Mei - Age 34 - Huanan Market Vendor - November 24, 2019**
+**Children: Jian (7), Xiao (4)**
+**Status: DECEASED - Hub 47 casualty #1**
+
+(Thirty-four million, nine hundred ninety-nine thousand, nine hundred ninety-nine more to go.)
+
+(If containment failed.)
+
+(Which it probably would.)
+
+Sarah kept watching Chinese news. Kept tracking. Kept documenting.
+
+Someone had to count the dead.
+
+Even when counting felt like drowning.
+
+---
+
 Coffee was waiting.
 
 But it already tasted wrong.
-
-(It would taste wrong for five years. But Sarah didn't know that yet. Didn't know Morrison would die suspiciously in detention. Didn't know Wells would vanish like her Nazi grandfather. Didn't know GenVault would profit from the pandemic they created.)
 
 (Right now she just knew: forty-six successes, one failure, and Li Mei's children were dying in isolation wards two floors apart.)
 
@@ -467,7 +682,7 @@ She drank it anyway.
 
 **END CHAPTER 12**
 
-**Word Count:** ~2,900 words
+**Word Count:** ~3,800 words
 
 **Key Elements:**
 - Torres coordinates 8-hub first wave successfully

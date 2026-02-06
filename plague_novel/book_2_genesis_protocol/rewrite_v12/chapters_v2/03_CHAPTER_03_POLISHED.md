@@ -23,19 +23,19 @@ Sarah's coffee had gone cold. Again. She couldn't remember making coffee. Couldn
 
 "The exposé is ready," Sarah said quietly.
 
-Martin looked up from the window. He'd been standing there for an hour. Watching the tree line. Rifle propped against the wall within arm's reach. The kind of man who'd spent years expecting trouble and knew what trouble looked like when it showed up.
+Martin looked up from the window. He'd been standing there for an hour. Watching the tree line. Rifle propped against the wall within arm's reach. On the windowsill beside him, a creased photograph he carried everywhere—a woman in hiking gear on a mountain trail, laughing at whoever held the camera. He never talked about it. Sarah had learned not to ask.
 
 "And then what?" His voice was flat. Analytical. The tone of someone who'd seen this movie before and knew how it ended. "They deny it. Call it conspiracy theory. We've seen this before. Dr. Lisa Park had evidence three years ago. Published it. The Order buried her story in forty-eight hours."
 
-He paused. Something flickered across his face.
+He paused. Glanced at the photograph on the windowsill.
 
 "Then buried her."
 
-Elena stopped pacing. She'd been wearing a path in the hardwood between the fireplace and the kitchen for the past twenty minutes. Phone in hand. Coordinating with resistance contacts across three continents. Sarah had heard fragments—encrypted chatter about safe houses and document verification and how many people were still alive who remembered what they were fighting.
+Elena's voice went quiet through the encrypted phone on the kitchen counter. She'd been coordinating with resistance contacts across three continents for the past twenty minutes—Sarah had heard fragments through the speaker, encrypted chatter about safe houses and document verification and how many people were still alive who remembered what they were fighting.
 
 Not many.
 
-"Lisa didn't have Pattern Eye documentation," Elena said. "She didn't have Otto Aris's historical proof. This is different."
+"Lisa didn't have Pattern Eye documentation," Elena said through the speaker. "She didn't have Otto Aris's historical proof. This is different."
 
 "Is it?" Martin turned from the window. Looked at Sarah. "You have documentation. You have proof. What you don't have is hub locations. Deployment protocols. The tactical intelligence that would let us *stop* this instead of just exposing it."
 
@@ -45,7 +45,7 @@ Sarah knew he was right.
 
 Marsh had given her the cipher that revealed Pattern Eye's existence. But he'd died—*smoke inhalation twelve minutes before you arrived, tragic accident*—before sharing the tactical intelligence. Hub locations. Deployment schedules. Order infrastructure.
 
-Everything they needed to *prevent* Phase I instead of just writing a thorough exposé that would get them all killed.
+Everything they needed to *prevent* THRESHOLD instead of just writing a thorough exposé that would get them all killed.
 
 "Morrison has that intelligence," Sarah said slowly.
 
@@ -65,7 +65,7 @@ Martin's expression didn't change.
 
 (That was worse than if he'd reacted. The stillness meant he'd thought of this. Done the math. Decided whether it was tactical suicide or regular suicide with extra steps.)
 
-Elena's eyes widened. "You want to get captured."
+"You want to get *captured*." Elena's voice sharpened through the speaker.
 
 "I want to get *inside*," Sarah corrected. "There's a difference."
 
@@ -73,15 +73,15 @@ Elena's eyes widened. "You want to get captured."
 
 Sarah stood. Moved to the window beside Martin. Outside, early spring was fighting through Vermont's last snow. Dead grass showing through in patches. Trees that looked skeletal and cold. The kind of landscape that made you wonder if winter was ever over or just temporarily distracted.
 
-"Phase I deployment is coming soon," Sarah continued. Her reflection in the window looked exhausted. Haunted. Twenty-eight years old but her eyes looked older. "Morrison said they're on an accelerated timeline. If we publish the exposé now, they'll just deploy early. We prevent nothing."
+"THRESHOLD deployment is coming soon," Sarah continued. Her reflection in the window looked exhausted. Haunted. Twenty-eight years old but her eyes looked older. "Morrison said they're on an accelerated timeline. If we publish the exposé now, they'll just deploy early. We prevent nothing."
 
 "But if you're inside Site Seven," Martin said slowly, "with access to their systems..."
 
-"I gather real intelligence. Hub locations. Deployment schedules. Order infrastructure. Everything we need to stop Phase I, not just write a convincing article that gets buried under cat videos and conspiracy theories about lizard people."
+"I gather real intelligence. Hub locations. Deployment schedules. Order infrastructure. Everything we need to stop THRESHOLD, not just write a convincing article that gets buried under cat videos and conspiracy theories about lizard people."
 
-Elena crossed the room. Fast. Angry. "Sarah, once you're in there, we can't extract you. Morrison isn't stupid. He'll know you're gathering intelligence."
+"Sarah, once you're in there, we can't extract you." Elena's voice hardened through the phone. "Morrison isn't stupid. He'll know you're gathering intelligence."
 
-"He'll suspect," Sarah agreed. "But he'll also think he can control me." She turned from the window. Met Elena's eyes. "Morrison believes humans are predictable. Pattern-able. Optimize the inputs, control the outputs. That's his weakness."
+"He'll suspect," Sarah agreed. "But he'll also think he can control me." She turned from the window. "Morrison believes humans are predictable. Pattern-able. Optimize the inputs, control the outputs. That's his weakness."
 
 Martin was quiet for a long moment.
 
@@ -95,17 +95,17 @@ Then he opened his laptop. Pulled up surveillance photos of Site Seven—concret
 
 (The lie she needed him to believe badly enough that she'd walk into a building full of people who murdered retired professors and called it optimization.)
 
-Elena's jaw tightened. Muscle jumping. "You're describing yourself as bait."
+"You're describing yourself as bait." Elena's voice was flat through the speaker.
 
 "I'm describing myself as tactical."
 
 Sarah moved back to her laptop. Closed the exposé document. Opened a new file. Started typing notes—insertion strategy, intelligence priorities, extraction contingencies that sounded more confident than she felt.
 
-"Marsh spent forty years fighting the Order. He died buying me time to escape." Her voice cracked. Slightly. "Yuki risked her life getting me Pattern Eye documentation. I'm not wasting those sacrifices by publishing an exposé that gets buried in two days while Morrison deploys Phase I on schedule and kills two hundred sixty-two million people."
+"Marsh spent forty years fighting the Order. He died buying me time to escape." Her voice cracked. Slightly. "Yuki risked her life getting me Pattern Eye documentation. I'm not wasting those sacrifices by publishing an exposé that gets buried in two days while Morrison deploys THRESHOLD on schedule and kills four billion people."
 
-(Entire US population. Gone.)
+(More than half the world. Gone.)
 
-(She needed to stop thinking about it in those terms. Made it too real. Too visceral. Easier to think "262 million" than "every person in every city you've ever visited.")
+(She needed to stop thinking about it in those terms. Made it too real. Too visceral. Easier to think "4.2 billion" than "every person in every city you've ever visited.")
 
 "You'll need a tracking device," Martin said.
 
@@ -125,7 +125,7 @@ She swallowed hard. Tasted copper. Had she bitten her cheek again?
 
 (Her body needed to stop doing that. Stress-biting was a terrible habit. She'd bitten through her entire cheek by the time this was over.)
 
-"I'll have an exit strategy," she said. "Once I have the intelligence. Once I know we can stop Phase I."
+"I'll have an exit strategy," she said. "Once I have the intelligence. Once I know we can stop THRESHOLD."
 
 Martin closed his laptop. "This is insane."
 
@@ -137,7 +137,7 @@ Martin closed his laptop. "This is insane."
 
 Sarah returned to her laptop. Opened a new message draft. "Elena, I need you to create a secure email account that looks like it was set up in panic. No sophisticated encryption. Just enough security to look like I'm trying to hide but don't know what I'm doing."
 
-Elena nodded. Pulled out her phone. Fingers moving across the screen with practiced efficiency.
+"Already on it." Keyboard sounds through the speaker.
 
 "Martin, I need you to build a tracking device. Something small. Something I can implant subcutaneously." Sarah's voice was steady even though her hands wanted to shake. "Transmits location but not audio—Morrison will sweep for audio surveillance."
 
@@ -149,7 +149,7 @@ Maya.
 
 **"Where are you? Need to talk. Urgent."**
 
-Sarah showed the text to Martin and Elena.
+Sarah showed the text to Martin. Read it aloud for Elena.
 
 Martin nodded. "She helped you find the pattern. She should be part of this."
 
@@ -171,7 +171,7 @@ She looked exhausted. Dark circles under her eyes. Hair pulled back in a ponytai
 
 "Because I've been monitoring GenVault's communications since you escaped." Maya set down her kit. Heavy. The kind of weight that meant serious medical equipment. "Morrison sent encrypted messages to six facility coordinators this morning. Subject line: 'Chen recruitment protocols.' He's expecting you to make contact."
 
-Sarah exchanged glances with Martin and Elena.
+Sarah exchanged a glance with Martin.
 
 "He's that confident?"
 
@@ -191,17 +191,11 @@ Sarah's stomach did that dropping thing again.
 
 "One behind the ear," Maya confirmed. "One on the hip. Different frequencies, different transmission protocols. If Morrison finds one, you still have the other."
 
-Sarah looked at the two of them.
-
-Martin with his tactical gear and rifle and six years of fighting the Order from the shadows.
-
-Maya with her CDC resources and medical equipment and the kind of determination that came from watching pandemic models and deciding to act instead of just documenting the collapse.
-
-Elena coordinating resistance networks across three continents, keeping people alive who'd been marked for death decades ago.
+Sarah looked at the two of them. At Martin with his tactical gear and rifle and six years of fighting the Order from the shadows. At Maya with her CDC resources and medical equipment and the kind of determination that came from watching pandemic models and deciding to act instead of just documenting the collapse. At the phone on the counter where Elena had gone quiet—coordinating resistance networks across three continents, keeping people alive who'd been marked for death decades ago.
 
 "I'm not doing this alone," Sarah said quietly.
 
-"You never were," Elena replied.
+"You never were." Elena's voice was warm through the static.
 
 ---
 
@@ -213,7 +207,7 @@ Sarah sat at the kitchen table while Martin finished building his tracker. Tiny 
 
 Maya sterilized her medical equipment. Alcohol swabs. Scalpel. Local anesthetic. Dissolving sutures. The smell reminded Sarah of hospitals—antiseptic and fear-sweat and something underneath that her brain labeled "the smell of things about to hurt."
 
-Elena stood watch at the window. Still pacing. Phone in hand. Checking updates from resistance contacts who were monitoring GenVault facilities across six continents.
+Elena stayed on the line. Relaying updates from resistance contacts monitoring GenVault facilities across six continents.
 
 "This is going to hurt," Martin warned.
 
@@ -327,13 +321,13 @@ Then Martin stood. "When do you go?"
 
 "I'll coordinate with resistance networks," Elena added. "If you send a distress signal, we'll be ready."
 
-Sarah looked at the three of them.
+Sarah looked at Martin. At Maya. At the phone on the counter where Elena waited.
 
 Her team. Her backup. The people who'd make sure her sacrifice—if it came to that—wouldn't be wasted.
 
 The people who'd turned "this is insane" into "this might work."
 
-"Okay," she said. "Tomorrow morning, I walk into GenVault. Voluntarily. And I start gathering the intelligence we need to stop Phase I."
+"Okay," she said. "Tomorrow morning, I walk into GenVault. Voluntarily. And I start gathering the intelligence we need to stop THRESHOLD."
 
 "Not a trap," Martin said quietly. "Tactical infiltration."
 
@@ -344,8 +338,6 @@ The people who'd turned "this is insane" into "this might work."
 (Definitely mostly trap.)
 
 (She was going to die doing this, wasn't she?)
-
-(But at least she'd die trying instead of hiding while Morrison killed 262 million people and called it optimization.)
 
 ---
 
@@ -427,8 +419,6 @@ She walked through the doors.
 
 Glass lobby. Marble floors. The kind of corporate elegance that screamed "we have money and power and nothing to hide."
 
-(Except the ancient conspiracy to engineer human evolution and the plan to kill 262 million people and the three-thousand-year-old cipher system that made eugenics look like amateur hour.)
-
 The elevator was waiting.
 
 Empty.
@@ -486,10 +476,6 @@ No going back now.
 Sarah Chen was going to finish what Marsh had started.
 
 Or die trying.
-
-(Die trying.)
-
-(But at least she'd die gathering intelligence instead of hiding in Vermont writing exposés that would get buried under conspiracy theories and cat videos.)
 
 "Lead the way," she said.
 

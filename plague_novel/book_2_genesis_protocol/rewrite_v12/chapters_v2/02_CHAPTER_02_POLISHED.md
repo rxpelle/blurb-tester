@@ -249,7 +249,7 @@ Maya read over her shoulder. Breathing had gotten shallow. "That's the opposite 
 
 "And you?"
 
-"Morrison thinks he can recruit me. Show me the 'complete picture.' Make me believe genocide is optimization." Sarah met Maya's eyes. "He said THRESHOLD deploys soon. Phase I: 262 million dead. Phase II: 3.3 billion if it's not stopped."
+"Morrison thinks he can recruit me. Show me the 'complete picture.' Make me believe genocide is optimization." Sarah met Maya's eyes. "He said THRESHOLD deploys soon. 4.2 billion dead. Targeted elimination to prevent what he calls uncontrolled collapse."
 
 Maya's face went grayer.
 

@@ -109,7 +109,7 @@ She tried: 11-09-19. Today's date.
 
 The lockbox opened.
 
-Inside: A thumb drive. A handwritten note. A photograph.
+Inside: A thumb drive. A handwritten note. A photograph. A small iron key labeled **YUL-1912-ARIS**.
 
 The note read:
 
@@ -147,7 +147,7 @@ Sarah said nothing.
 
 "Why would I do that?"
 
-"Because in seventy-two hours, 262 million people will die in Phase One deployment. In ninety-six hours, another 7.2 billion die in Phase Two. Linda found evidence of Phase One. You're holding it. The question is whether you'll use it."
+"Because in twenty-two days, 4.2 billion people are going to die. Targeted genetic elimination. They call it THRESHOLD. Linda found evidence of the deployment. You're holding it. The question is whether you'll use it."
 
 Sarah's stomach dropped. "You're confessing to genocide."
 
@@ -155,11 +155,11 @@ Sarah's stomach dropped. "You're confessing to genocide."
 
 "And then?"
 
-"Then you decide whether to stop it or let it proceed. Whether 262 million deaths are acceptable to prevent 7.2 billion deaths. Whether genocide now prevents extinction later." Morrison's voice was steady. Clinical. "That's the choice, Dr. Chen. Linda died investigating partial data. You can investigate complete data. See the full pattern. Make an informed decision."
+"Then you decide whether to stop it or let it proceed. Whether 4.2 billion deaths are acceptable to prevent 7.2 billion from uncontrolled collapse. Whether genocide now prevents extinction later." Morrison's voice was steady. Clinical. "That's the choice, Dr. Chen. Linda died investigating partial data. You can investigate complete data. See the full pattern. Make an informed decision."
 
 "Why are you telling me this?"
 
-"Because Linda deserved better. Because someone should see the complete mathematics before deployment. Because if there's another way—if your defensive Protocol theories actually work—I want to know before 262 million people die."
+"Because Linda deserved better. Because someone should see the complete mathematics before deployment. Because if there's another way—if your defensive Protocol theories actually work—I want to know before 4.2 billion people die."
 
 Morrison paused.
 
@@ -171,11 +171,9 @@ Sarah sat in her car watching smoke rise from Linda Marsh's house. Fire trucks p
 
 She looked at the thumb drive.
 
-Seventy-two hours.
+Twenty-two days.
 
-262 million casualties.
-
-7.2 billion more.
+4.2 billion casualties.
 
 (And a man confessing genocide while offering her time to investigate.)
 
@@ -187,7 +185,7 @@ She typed back: **I'm out. Need to process. Will call tomorrow.**
 
 Then she opened her laptop and plugged in the thumb drive.
 
-The files loaded. Dozens of documents. Research papers. Casualty projections. Deployment schedules. A folder labeled "THRESHOLD - Phase One Targets."
+The files loaded. Dozens of documents. Research papers. Casualty projections. Deployment schedules. A folder labeled "THRESHOLD - Deployment Targets."
 
 Sarah opened it.
 
@@ -201,15 +199,15 @@ The screen filled with maps. Cities. Population density overlays. Genetic distri
 
 (Wrong numbers. Linda had called them wrong numbers. These were genocide calculations.)
 
-Sarah's hands shook as she scrolled through projections. 262 million casualties total in Phase One. Targeted genetic elimination. Specific populations removed. Precision genocide.
+Sarah's hands shook as she scrolled through projections. 4.2 billion casualties total. Targeted genetic elimination. Specific populations removed. Precision genocide.
 
 The document was titled: "THRESHOLD Protocol - Population Optimization Through Genetic Targeting."
 
-(Population optimization. That's what they called killing 262 million people.)
+(Population optimization. That's what they called killing 4.2 billion people.)
 
 Sarah pulled up Linda's note again. "Find the pattern. Stop this."
 
-She looked at the countdown on her dashboard clock: 1:47 AM. Seventy-two hours until November 12th. Seventy-two hours until Phase One deployment.
+She looked at the countdown on her dashboard clock: 1:47 AM. Morrison had given her seventy-two hours. Seventy-two hours to investigate before the window closed.
 
 Morrison had given her credentials. Access to GenVault. Time to investigate.
 
@@ -219,7 +217,7 @@ Sarah started her car.
 
 Typed in GPS coordinates for GenVault Pharmaceuticals, Boston.
 
-Three-hour drive. She'd arrive at dawn. Seventy-two hours to investigate. Seventy-two hours to decide if one person could stop 262 million deaths.
+Three-hour drive. She'd arrive at dawn. Seventy-two hours to investigate. Seventy-two hours to decide if one person could stop 4.2 billion deaths.
 
 (Linda Marsh died trying.)
 
@@ -229,7 +227,7 @@ She pulled onto the highway heading north.
 
 Behind her: smoke rising from New Haven. Linda Marsh's body burning. Evidence consumed.
 
-Ahead: GenVault Pharmaceuticals. Complete data. Full pattern. 262 million lives in seventy-two hours.
+Ahead: GenVault Pharmaceuticals. Complete data. Full pattern. 4.2 billion lives hanging in the balance.
 
 (This was the choice: investigate or run.)
 
@@ -257,7 +255,7 @@ But she'd drink it anyway.
 - Linda Marsh dead (execution, house burning as cover)
 - Lockbox contains: thumb drive, note, photograph
 - Morrison calls Sarah directly (confesses, offers 72 hours)
-- 262M casualties Phase One, 7.2B Phase Two
+- 4.2B THRESHOLD casualties, 7.2B uncontrolled collapse alternative
 - Sarah heads to GenVault Boston with stolen credentials
 - Martin Reeves potentially compromised (in photograph)
 - "Wrong numbers" = genocide calculations

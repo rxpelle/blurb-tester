@@ -26,7 +26,7 @@ Professional coffee. Expensive coffee. Coffee that tasted good but felt wrong.
 
 (Because good coffee meant the crisis was over. And she wasn't sure how to live in a world where coffee quality mattered more than casualty counts. Where GenVault branded itself as global health leader while Morrison died suspiciously in detention and Wells vanished like her Nazi grandfather.)
 
-Lagos arrived at noon. Sat down across from her. Ordered his own expensive coffee that tasted wrong.
+Lagos arrived at noon. Sat down across from her.
 
 "Five years," he said.
 
@@ -48,7 +48,7 @@ Lagos smiled. Sad. Understanding. "I'm consulting. FBI. Teaching them how to spo
 
 "Three attempts. We caught them early using methodology Morrison documented before he died. All prevented. Complete prevention. Zero deaths. Morrison's final intelligence saved millions even after his suspicious death."
 
-Sarah looked out the window. People walking past. Living normal lives. Not knowing thirty-five million had died from Hub 47. Not knowing four billion had been saved from the other forty-six hubs. Not knowing Morrison was probably murdered. Not knowing Wells vanished perfectly. Not knowing GenVault profited from chaos they created.
+Sarah looked out the window. People walking past. Living normal lives. Carrying no classified weight. Knowing nothing about what happened or who died or who profited or who disappeared.
 
 "Do you ever regret it?" Sarah asked. "Staying at GenVault. Helping me escape. Betting your life on complete prevention even when justice proved incomplete?"
 
@@ -66,7 +66,7 @@ Sarah was quiet.
 
 Then pulled out her own phone. Showed Lagos a photo. "This is Li Wei. He's fifteen now. Li Mei's nephew. His parents died from Hub 47 in March 2020. Living with his uncle in Wuhan. Doesn't know Hub 47 was engineered bioweapon. Doesn't know Morrison was murdered. Doesn't know Wells is his grandfather's colleague's granddaughter—both Nazi eugenicists who escaped justice. Just knows he's fifteen and wants to study epidemiology."
 
-"Li Wei is alive because we contained ninety-eight percent of THRESHOLD. But his parents died because we missed two percent. Morrison died because he knew too much. Wells escaped because her family taught her how. That's the math that never balances."
+"Li Wei is alive because we contained THRESHOLD. But his parents died from the hub we missed. Morrison died because he knew too much. Wells escaped because her family taught her how. That's the math that never balances."
 
 They sat in silence.
 
@@ -78,263 +78,292 @@ Two people who'd prevented genocide. Two people who'd watched pandemic kill mill
 
 "Even with Morrison dead and Wells escaped?"
 
-"Even both. Because four billion are alive. Because Li Wei exists. Because Maria exists. Because ninety-eight percent prevention with incomplete justice is better than zero percent prevention with perfect justice. Morrison's death and Wells's escape prove institutional power survives. But four billion people living proves defensive Protocol works. Both are real."
+"Even both. Because four billion are alive. Because Li Wei exists. Because Maria exists. Because incomplete prevention with incomplete justice is better than no prevention at all. Morrison's death and Wells's escape prove institutional power survives. But four billion people living proves defensive Protocol works. Both are real."
 
 Lagos was quiet.
 
 "I visit Morrison's grave monthly," he continued. "Still drink terrible coffee there. Still wonder if GenVault had him killed. Still can't prove it. He died knowing defensive Protocol worked. Died suspecting GenVault wanted him silent. Died warning about Wells escaping like her grandfather. All his predictions came true. That's worth remembering even when justice failed."
 
-Sarah's hands shook slightly holding the cup. (They still shook sometimes. Probably always would. Shook when she thought about Morrison's final note. About convenient timing. About unprovable murder. About perfect escape. About institutional power outlasting individual accountability.)
+Sarah's hands shook slightly holding the cup. (They still shook sometimes. Probably always would.)
 
 ---
 
-**CDC Headquarters, Atlanta - Same Day**
+Across the country, the same truths were being taught in different rooms.
 
-Dr. Maya Chen stood at the podium presenting to international health authorities.
+Maya stood at a CDC podium presenting "Defensive Protocol Implementation" to international health authorities—showing how conspiracy became prevention methodology. When someone asked if Morrison was murdered, she gave the only honest answer: "Convenient timing warrants skepticism. That's how power works."
 
-"Defensive Protocol Implementation: Lessons from THRESHOLD Prevention, Hub 47 Management, and Institutional Survival."
+Torres briefed FBI recruits. "We prevented four billion deaths. They got incomplete justice. Did they win? Did we win? Both are true. You carry complexity."
 
-The slides showed network coordination. Distributed prevention. Cooperative crisis response. Incomplete justice. Everything they'd learned.
+Lagos stood at Morrison's grave in federal cemetery. Simple headstone: *Dr. James Morrison, 1956-2021, "He died knowing the truth."* He placed a coffee cup on the stone. Monthly ritual. Terrible coffee. Said nothing.
 
-"THRESHOLD was prevented because Dr. Chen identified conspiracy eleven days before deployment. Hub 47 was managed using Morrison's intelligence before his death in 2021. Both succeeded despite institutional power protecting itself."
+Three people in three cities carrying the same classified truth: prevention succeeded, justice failed, both permanent.
 
-A hand raised. "Morrison died in detention? What happened?"
-
-Maya's face went neutral. "Official cause: heart failure, age sixty-five, 2021. Autopsy showed advanced heart disease. Investigation found no evidence of foul play. However, timing was convenient—died shortly after GenVault announced record vaccine profits. Morrison had documented extensive intelligence about Order embedded in corporate structures. His death eliminated most dangerous witness. Draw your own conclusions."
-
-"Are you suggesting murder?"
-
-"I'm suggesting convenient timing warrants skepticism. Morrison warned in his final note that he suspected institutional intervention. He died two weeks later. We investigated. Found nothing provable. That's how power works—unprovable but suspicious."
-
-Another hand. "What about Wells? The CEO who escaped?"
-
-"Catherine Wells. Last confirmed sighting: Budapest, December 2019. Disappeared completely. Her grandfather was Otto Weissmann—Nazi eugenicist who escaped Nuremberg through Operation Paperclip, became American citizen, changed identity. Wells used family tactics. Perfect disappearance. We presume alive, using new identity, living off offshore resources. Or dead. We'll never know unless she surfaces."
-
-"So conspiracy members either died suspiciously or escaped perfectly?"
-
-"While institutional infrastructure survived and profited. GenVault revenue one hundred eighty-nine billion. Stock up five hundred eighty percent. Genetic medicine division operational. That's reality of institutional power—individuals take blame or escape, corporations extract value. Morrison's death and Wells's disappearance prove pattern. We prevent threats. Justice remains incomplete. We carry both truths."
-
-The presentation continued.
-
-Maya showing how they'd turned conspiracy into prevention despite incomplete accountability.
-
-How they'd made THRESHOLD's defeat into defensive Protocol methodology while acknowledging justice failed.
-
-(That was the cost. That was the win. That was what prevention looked like when power protected itself.)
 
 ---
 
-**FBI Headquarters, Washington DC - Same Day**
+**MIT Campus - Epidemiology 201 Lecture**
 
-Special Agent Rebecca Torres briefed new recruits.
+## CLASSROOM CONFRONTATION
 
-"THRESHOLD Prevention Case Study: How Distributed Networks Beat Centralized Threats Despite Institutional Survival and Justice Failure."
+Sarah was teaching Epidemiology 201 at MIT when the question came.
 
-The recruits listened intently.
+December 2024. Five years after Hub 47. Five years after Li Mei died age thirty-four believing she caught the flu. Five years after thirty-four million, eight hundred forty-seven thousand people followed her into mathematics Morrison had designed.
 
-"We prevented ninety-eight percent of THRESHOLD. Secured forty-six hubs. Detained conspirators. But Morrison died suspiciously in detention. Wells disappeared perfectly using family Nazi escape tactics. GenVault survived and profited. That's reality check."
+The lecture hall was small. Thirty-seven students. Junior-level course on epidemic modeling and disease surveillance. Sarah had been teaching it for three semesters now—ever since MIT hired her as visiting professor in Public Health Policy with emphasis on pandemic prevention.
 
-A recruit raised their hand. "You think Morrison was murdered?"
+(They'd hired her because she was hero. Woman who stopped THRESHOLD. They didn't advertise that she was also woman who failed to stop Hub 47. That partial prevention wasn't really prevention at all.)
 
-"I think Morrison died conveniently when he became liability. I think autopsy showed technically accurate natural causes. I think we can't prove murder. I think that's how institutional power works—convenient deaths that can't be proven. Believe what you want. I know what I suspect."
+She was midway through lecture on exponential growth curves when student in third row raised his hand.
 
-"And Wells?"
+David Chen. No relation. Twenty years old. Pre-med track. Serious student. The kind who asked real questions instead of grade-grubbing questions.
 
-"Vanished like her grandfather. Otto Weissmann escaped Nuremberg, changed identity, lived as American citizen until natural death. Wells learned family tactics. Perfect disappearance. We'll probably never find her. She'll die quietly under different name or surface in twenty years. Either way, she's beyond reach."
+"Yes, David?"
 
-"So they won?"
+"Professor Chen, I have a question about the 2019 outbreak."
 
-Torres smiled. Bitter. "We prevented four billion deaths. They got incomplete justice. Morrison probably murdered. Wells perfectly escaped. GenVault massively profitable. Did they win? Did we win? Both are true. You carry complexity. That's defensive Protocol—prevention succeeds, justice fails, you remember both."
+Sarah's chest tightened. She knew where this was going. She always knew.
 
-The briefing continued.
+"Go ahead."
 
-Torres teaching that prevention worked even when accountability failed.
+"The official narrative says it was zoonotic spillover from Huanan Seafood Market. Animal-to-human transmission. But there's been speculation—conspiracy theories, I guess—about lab origins. Do you think the virus was natural or engineered?"
 
-That suspicious deaths and perfect escapes were costs of fighting institutional power.
+The room went quiet.
 
-That carrying unsolvable mysteries was part of the burden.
+Thirty-seven students watching. Thirty-seven phones probably recording. Thirty-seven people waiting to see if Professor Chen would tell truth or toe institutional line.
 
-(Five years later, and she was still teaching that lesson.)
+Sarah looked at the epidemic curve on her presentation slide. SARS-CoV-2. November 2019 to December 2024. Thirty-four point eight million deaths. The curve Morrison had predicted. The curve his mathematics had designed.
 
----
+(Tell them the truth: It was engineered. Hub 47. THRESHOLD deployment site. Morrison's genocide made real through corporate conspiracy and institutional power. Li Mei murdered by mathematics.)
 
-**Federal Cemetery, Massachusetts - Same Day**
+(Or tell them the lie: Natural spillover. Wet market. Bats and pangolins and unfortunate evolutionary convergence. The lie that protected GenVault and kept their vaccine profits clean.)
 
-Lagos stood at Morrison's grave.
+"That's a complex question," Sarah said. Stalling. Politician's answer. The kind of answer she'd promised herself she'd never give when she started teaching.
 
-**Dr. James Morrison**
-**1956-2021**
-**"Convenient timing. Unprovable murder. He knew too much."**
+"Is it?" David pressed. Not hostile. Just genuinely curious. "I read a paper about the furin cleavage site. About how it's unusual for coronaviruses. About how it looks engineered. And there was that lab in Wuhan—the one that studied coronavirus gain-of-function research. Seems like pretty big coincidence."
 
-Simple headstone. Federal detention burial. No family. Small ceremony three and a half years ago. Sarah, Lagos, Maya, Torres. Private acknowledgment of suspicious death they couldn't prove.
+Another student chimed in. Emily. Biology major. "But the WHO investigated. They said natural spillover was most likely explanation."
 
-Morrison had died June 15th, 2021. Age sixty-five. Heart failure. Two weeks after writing final note warning about GenVault's reach and Wells's escape tactics. Convenient timing. Perfect narrative. Unprovable truth.
+"The WHO investigation was limited," David countered. "China restricted access. Data was incomplete. And GenVault—the company that developed the first vaccine—had research facilities near Wuhan. They never got investigated."
 
-Lagos placed coffee cup on the grave. Terrible coffee. Monthly ritual. "Three and a half years. Wells still missing—disappeared like you predicted. GenVault still thriving—profiting like you warned. Your final note was prophetic. You knew they'd kill you. Couldn't prove it. Couldn't prevent it. But you documented everything before you died. That intelligence saved millions. Suspicious death doesn't erase victory."
+Sarah's hands were shaking. She gripped the podium.
 
-He walked back to his car.
+(David was right. Emily was repeating propaganda. WHO investigation had been theater. China had destroyed evidence. GenVault had walked away clean with $189 billion in vaccine revenue. And Sarah had signed NDAs as condition of immunity deal that prevented her from contradicting official narrative.)
 
-Morrison dead—suspiciously.
+"The scientific consensus—" Sarah started.
 
-Wells disappeared—perfectly.
+"With respect, Professor, I'm not asking about scientific consensus. I'm asking what you think. You were there. You worked on pandemic response. You knew people at CDC and WHO. You have access to intelligence most researchers don't. What do you actually believe happened?"
 
-Order scattered—ideologically.
+The room was dead silent.
 
-GenVault thriving—completely.
+Thirty-seven students waiting.
 
-THRESHOLD prevented—successfully.
+Thirty-seven phones recording.
 
-Hub 47 endemic—finally.
+One question with two answers: Truth or career.
 
-Five years of aftermath. Thirty-five million dead. Four billion saved. One hundred eighty-nine billion profit. One suspicious death. One perfect escape.
+Sarah thought about Morrison. Dead June 2021. Heart failure. Age sixty-five. The papers he'd given Lagos had documented everything—facility locations, money trails, GenVault's involvement, Wells's escape. Sarah had copies. Had evidence. Had proof that could burn down the official narrative.
 
-All real. All permanent. All mattering forever.
+(And also burn down her career. Violate NDAs. Make her unemployable. Turn her from hero into conspiracy theorist. Make everything she'd accomplished—stopping forty-six hubs, saving four billion lives—look tainted by paranoia.)
 
----
+She thought about Li Mei. Age thirty-four. Position 47. Mother of Jian and Xiao. Died believing she was unlucky. Never knowing she was murdered.
 
-**MIT Campus - Evening**
+She thought about the thirty-four million, eight hundred forty-seven thousand others. Real people with real families who died because Sarah had been two percent short of perfect.
 
-Sarah finished her lecture.
+(Tell them.)
 
-"Next week: Case Studies in Incomplete Justice. Reading assignment: THRESHOLD prevention documentation—classified sections redacted. Analyze Morrison's suspicious death. Analyze Wells's perfect disappearance using Operation Paperclip tactics. Analyze institutional survival despite individual accountability. Power protecting power. Pattern recognition in convenient timing. Due Friday."
+(Don't tell them.)
 
-Students packed up. Filed out.
+(Truth or survival.)
 
-One student lingered. "Professor Chen, can I ask something?"
+"The evidence is complicated," Sarah said finally. Voice careful. Each word chosen like defusing bomb. "Natural spillover is possible. Lab leak is possible. Engineered release is theoretically possible but would require massive conspiracy and institutional cooperation. Without complete data access, definitive conclusion is impossible."
+
+David looked disappointed. Emily looked satisfied. Other students returned to their laptops.
+
+Sarah had given them politician's answer. Neither truth nor lie. Just careful hedge that committed to nothing and protected everyone except the dead.
+
+(Thirty-five million people murdered by mathematics and she couldn't even tell her students the truth.)
+
+The lecture continued. Epidemic curves. R-naught calculations. Containment strategies. All the mathematics Morrison had pioneered. All the equations that killed Li Mei and thirty-four million others.
+
+Sarah taught them like they were abstract. Like they were just numbers on graphs instead of people who'd had names and families and positions at market stalls.
+
+After class David approached her desk.
+
+"Professor Chen, can I ask you something off the record?"
 
 "Sure."
 
-"The Morrison death—you really think he was murdered?"
+"Do you think we'll ever know the truth? About the outbreak origins?"
 
-Sarah was quiet. Then: "I think Morrison knew too much. I think he died conveniently when GenVault needed him silent. I think autopsy showed technically accurate natural causes. I think that's how institutional power works—unprovable but suspicious. I think you learn to carry questions without answers. That's defensive Protocol in real world."
+Sarah looked at him. Twenty years old. Whole career ahead. Smart enough to ask right questions. Young enough to believe truth mattered more than survival.
 
-"That's dark."
+"Honestly? No. Too many people have too much to lose. Evidence gets destroyed. Witnesses disappear. NDAs get signed. Eventually the truth becomes conspiracy theory and conspiracy theory becomes background noise and background noise becomes silence."
 
-"That's reality. We prevented genocide. Saved four billion people. Morrison helped minimize Hub 47 casualties. Then died suspiciously. Wells escaped perfectly. GenVault profits massively. Justice incomplete. Victory real. You carry both. That's the cost."
+"That's depressing."
 
-"Would you do it again?"
+"That's reality."
 
-"Yes," Sarah said. "Always yes."
+David left looking thoughtful.
 
-"Even knowing Morrison would die suspiciously and Wells would escape?"
+Sarah packed her laptop. Walked to her office. Locked the door.
 
-"Even both. Because ninety-eight percent prevention with incomplete justice is better than zero percent prevention with perfect justice. Because four billion people living is worth carrying weight of suspicious deaths and perfect escapes. Because institutional power surviving doesn't mean defensive Protocol failed."
+Pulled out the flash drive she kept in locked drawer. The one with Morrison's papers. The evidence. The truth.
 
-The student left.
+(She could release it. Upload it anonymously. Let the internet do what the internet does—spread information faster than institutions can suppress it.)
 
-Sarah packed her things. Walked across campus. Evening air. Students studying. Living. Not knowing Morrison was probably murdered. Not knowing Wells escaped using Nazi grandfather's tactics. Not knowing GenVault created and profited from pandemic. Not knowing their professor carried all these unprovable truths.
+(Except she'd signed NDAs. Except she'd go to prison. Except her testimony had been condition of immunity and violating immunity deal meant prosecution for THRESHOLD involvement. Except burning down her life wouldn't bring back the dead.)
 
-Her phone buzzed.
+Sarah put the flash drive back in the drawer.
 
-Lagos: **Coffee? Morrison's grave first? Monthly ritual?**
+Locked it.
 
-Sarah: **Yes. See you there.**
+Went home.
 
-She drove to federal cemetery. Met Lagos at Morrison's grave. Placed coffee cup. Said nothing. Ritual acknowledgment of suspicious death they'd never prove.
+Made coffee that tasted normal because she wasn't being poisoned and Morrison was dead and Wells had disappeared and GenVault was still profiting and truth was luxury she couldn't afford.
 
-Then drove to coffee shop. Ordered expensive coffee that tasted wrong.
+That night she dreamed about Li Mei.
 
-(Still tasted wrong after five years. Still couldn't enjoy it. Still remembered Morrison's final note. Still suspected murder. Still couldn't prove it. Still carried questions without answers.)
+Position 47.
 
-They sat by the window. Watched people walk past who'd never know the truth.
+Age thirty-four.
 
-"Five years," Sarah said.
+Mother of Jian and Xiao.
 
-"Five years," Lagos agreed.
+Dead November 24, 2019.
 
-Five years since THRESHOLD prevented. Since forty-six hubs secured. Since Hub 47 escaped. Since Morrison's suspicious death. Since Wells's perfect disappearance. Since partial prevention with incomplete justice.
+Never knowing.
 
-Five years carrying nightmares and teaching prevention and suspecting murder and accepting mysteries.
+(Sarah knew.)
 
-Sarah's hands still shook sometimes. (They always would.)
+(Sarah always knew.)
 
-"Was it worth it?" Sarah asked.
+(But knowing didn't mean telling.)
 
-Lagos looked at her. At this woman who'd refused to stop at forty-six hubs. Who'd pushed for complete prevention. Who'd proved defensive Protocol worked even when Morrison died suspiciously and Wells escaped perfectly and GenVault profited obscenely.
+(That was what you did when you saved the world imperfectly.)
 
-"Yes," he said. "Always yes."
+(You carried the truth alone.)
 
-They drank expensive coffee.
+(Forever.)
 
-Watched the world not end.
 
-Carried the weight of prevention nobody saw and pandemic everybody experienced and suspicious death nobody proved and perfect escape nobody solved and corporate profiteering nobody questioned.
+---
 
-(Sarah still woke at 3 AM sometimes counting: thirty-five million who died, four billion who lived, one hundred eighty-nine billion GenVault extracted, one suspicious death, one perfect escape. Lagos still visited Morrison's grave monthly. Morrison was buried with convenient timing and unprovable murder. Wells was gone with perfect disappearance and family Nazi tactics. Thirty-five million people died from Hub 47. Four billion people lived from the forty-six hubs Sarah secured.)
+**Geneva, Switzerland - Same Evening**
+**Private Estate, Lake Geneva District**
 
-That was defensive Protocol.
+## THE MIRROR IMAGE
 
-That was the cost.
+Catherine Wells watched Sarah Chen's lecture on her laptop.
 
-That was the victory.
+Live stream. MIT's public server. Epidemiology 201. The university had started broadcasting her classes after the book became required reading—*Defensive Protocol: A New Framework for Crisis Prevention*. Eighty-seven graduate programs. Global bestseller. Sarah Chen: the woman who stopped THRESHOLD.
 
-That was incomplete justice.
+Wells smiled.
 
-Coffee was waiting.
+The woman who stopped THRESHOLD.
 
-Always waiting.
+The woman who secured forty-six hubs and failed to prevent Hub 47.
 
-Expensive and wrong and terrible and right.
+The woman who carried defensive Protocol genetics so clearly they glowed in sequencing.
 
-Thirty-five million dead.
+The woman who was Nefertari's heir fighting Amenhotep's legacy for 3,207 years.
 
-Four billion saved.
+On screen, Sarah evaded the student's question about outbreak origins. Gave politician's answer. Protected the coverup. Chose survival over truth.
 
-One hundred eighty-nine billion profit.
+Wells understood that choice perfectly.
 
-One suspicious death.
+She'd made the same calculation in Wuhan. Preserved the Archive. Sacrificed Morrison. Let THRESHOLD fail to protect the longer mission.
 
-One perfect escape.
+Because this wasn't about one deployment.
 
-Ninety-eight percent success.
+This was about 112 generations of Amenhotep's descendants fighting Nefertari's descendants over humanity's survival strategy.
 
-Two percent failure.
+Wells closed the laptop.
 
-One hundred percent institutional survival.
+Walked to her study overlooking Lake Geneva.
 
-Zero percent complete justice.
+The Archive drive sat on her desk. Encrypted. Backed up in seven locations globally. Three thousand years of Order documentation. Genetic databases. Bloodline tracking. Breeding programs. Financial networks. Everything Morrison hadn't known because he wasn't bloodline legacy.
 
-All real.
+She'd spent five years rebuilding.
 
-All permanent.
+Not THRESHOLD. That deployment had failed when Morrison lost his nerve. But the offensive Protocol knowledge persisted. Always persisted. Survived the Bronze Age Collapse. Survived Rome's fall. Survived Nazi Germany's collapse when her grandfather Otto Weissmann escaped through Operation Paperclip.
 
-All mattering.
+Institutional power outlasted individual failures.
 
-(Somewhere in Wuhan, Li Wei was studying epidemiology. Learning about "natural pandemic emergence" without knowing Hub 47 was engineered. Without knowing his aunt Li Mei died from bioweapon. Without knowing Morrison was probably murdered. Without knowing Wells vanished using Nazi grandfather's playbook.)
+Wells opened her file on Sarah Chen. Updated today's observations. Age thirty-three. MIT professor. Generation 112, Nefertari bloodline. Threat assessment unchanged: maximum. Strategy unchanged: avoid direct contact for another decade, monitor remotely, study her distributed network tactics for incorporation into the next deployment. Her weakness remained what it had always been—she couldn't compromise on prevention philosophy. That rigidity made her dangerous in the short term and predictable in the long term.
 
-(Somewhere in America, Maria Rodriguez played soccer. Ava's niece. Twelve years old. Not knowing her aunt died exposing THRESHOLD. Not knowing she almost died with four billion others. Not knowing the professor who occasionally guest-lectured at her school—some MIT researcher named Dr. Chen—had saved her life.)
+She poured wine.
 
-(Somewhere, maybe, Wells was drinking coffee too. Different name. Different face. Same family survival tactics that had protected Nazi grandfather. Same encrypted Archive that held three thousand years of Order documentation. Same knowledge that institutional power outlasts individual accountability.)
+Expensive Swiss wine her grandfather's money had purchased through laundered Nazi gold and American pharmaceutical profits.
 
-(Morrison was dead—probably murdered, unprovably killed, conveniently eliminated.)
+Three generations from Otto Weissmann to Catherine Wells.
 
-(Wells was gone—perfectly disappeared, family tactics, Nazi escape methodology.)
+One hundred twelve generations from Nefertari to Sarah Chen.
 
-(GenVault was thriving—one hundred eighty-nine billion extracted, global health leader, profiting from plague they'd created.)
+Both women brilliant.
 
-(And four billion people were alive—living, breathing, drinking coffee, not knowing how close they'd come.)
+Both convinced their bloodline philosophy was correct.
 
-That was enough.
+Both incapable of compromise because their genetics encoded the split.
 
-It had to be enough.
+Sarah believed in prevention through cooperation. Saving everyone. Defensive Protocol.
 
-Because the world kept turning.
+Wells believed in survival through control. Choosing who lives. Offensive Protocol.
 
-And the coffee kept tasting wrong.
+The same philosophical divide that had separated Nefertari and Amenhotep in a Canaanite workshop 3,207 years ago.
 
-And Sarah kept teaching students who'd never know the truth.
+Except now Sarah taught prevention to MIT students who would never know what happened on her watch.
 
-And Lagos kept visiting Morrison's grave with terrible coffee that might have killed him.
+And Wells rebuilt offensive networks that would deploy when Sarah was too old or too dead to stop them.
 
-And thirty-five million stayed dead while four billion stayed alive and GenVault stayed profitable and Wells stayed missing and Morrison stayed suspiciously deceased.
+Patient work.
 
-All truths mattering.
+Generational work.
 
-All permanent.
+Her daughter—age nine, carefully selected genetics, trained since birth in offensive Protocol methodology—would continue the mission if Wells died. And her granddaughter after that. On and on until the Amenhotep bloodline finally proved that choosing who survives worked better than trying to save everyone.
 
-All real.
+Wells returned to her desk.
 
-Forever.
+Opened planning files. New network architecture—distributed shell corporations borrowed from Sarah's own tactics, decentralized funding untraceable to GenVault, smaller hub facilities harder to detect. Faster deployment with no Morrison-style hesitation. Bloodline operatives only.
+
+The timeline stretched ahead: five years building infrastructure, five more training personnel, another five constructing hubs. By 2040, deployment readiness.
+
+By 2040, Sarah Chen would be fifty-three years old. Still teaching. Still believing prevention worked.
+
+And Wells—or her daughter if Wells was dead—would deploy the next THRESHOLD while Sarah was busy writing books nobody in power would read.
+
+The long game.
+
+The generational game.
+
+The 3,207-year philosophical war that neither bloodline could win or quit playing.
+
+Wells finished her wine.
+
+Looked out at Lake Geneva.
+
+Somewhere in Boston, Sarah Chen was visiting Morrison's grave.
+
+Somewhere in Massachusetts, David Lagos was teaching FBI agents how to detect genetic conspiracies—three attempts prevented since THRESHOLD, defensive Protocol methodology working.
+
+Somewhere in Geneva, Catherine Wells—heir to Amenhotep's vision, carrier of offensive Protocol genetics, guardian of 3,000 years of accumulated knowledge—was planning the next deployment.
+
+The bloodlines fought.
+
+The question remained unanswered: Save everyone or choose who survives?
+
+And somewhere in a classroom 3,744 miles away, Sarah Chen had no idea that the woman she'd been fighting for 112 generations was watching her. Learning from her. Rebuilding what Sarah had dismantled.
+
+Wells smiled.
+
+Returned to her work.
+
+The Genesis Protocol endured.
+
+The war continued.
+
+And Amenhotep's final lesson—written in bronze 3,207 years ago—remained true:
+
+*The patient hunter outlasts the defensive prey.*
 
 ---
 

@@ -19,8 +19,6 @@ Sarah had proved him wrong. Secured forty-six hubs in seventy-two hours using di
 
 Forty-six out of forty-seven.
 
-Ninety-eight percent success rate.
-
 But Hub 47 had escaped. Wuhan facility evacuated too early. Containment breach during transport. Pathogen released at Huanan Market five days ago.
 
 Seventeen infected. Three dead. Numbers climbing.
@@ -62,7 +60,7 @@ Morrison sat back.
 
 (Thirty years building genocide. Four days watching Sarah prove it was unnecessary. Now helping her contain the outbreak his own weapon created.)
 
-(That was defensive Protocol. That was what being wrong looked like.)
+(Defensive Protocol in action. What being wrong looked like when you chose to learn from it.)
 
 (Emily would have hated him. Sarah was trying to save the people Emily would have wanted saved.)
 
@@ -77,51 +75,9 @@ Waited for FBI interrogation to begin.
 
 Li Mei died at 2:47 PM.
 
-Her lungs had filled with fluid. Respiratory failure. Cardiac arrest. Forty-seven hours after first symptoms appeared.
+Patient Zero. Age thirty-four. Mother of Jian (7) and Xiao (4). Forty-seven hours from first symptoms to death.
 
-The doctors tried everything. Oxygen. Ventilator. Experimental antivirals. Nothing worked.
-
-THRESHOLD was designed to kill people like Li Mei. Genetic markers making her vulnerable. ACE2 receptor affinity ensuring the pathogen bound efficiently. Immune response creating cytokine storm that destroyed her lungs from inside.
-
-Precision engineering. Optimized lethality. Morrison's mathematics made flesh.
-
-Li Mei's husband Qiang stood outside the isolation ward watching through glass as doctors pronounced time of death.
-
-His wife was dead.
-
-His children—Jian and Xiao—were in pediatric isolation two floors up. Both infected. Both showing symptoms. Both dying.
-
-"Mr. Li," the doctor said. Exhausted. Defeated. "I'm very sorry. Your wife's condition deteriorated too rapidly. We did everything—"
-
-"My children," Qiang interrupted. Voice hollow. "Will they—"
-
-The doctor hesitated. "We're doing everything we can. But Mr. Li, this pathogen targets specific immune responses. Your children are young. Their immune systems are still developing. That might protect them or make them more vulnerable. We don't know yet."
-
-Qiang looked through the glass at his wife's body.
-
-(Li Mei. Thirty-four years old. Mother. Wife. Produce vendor. Dead because she worked at Huanan Market when someone evacuated a biological weapons facility.)
-
-(Dead because she was in the wrong place at the wrong time with the wrong genetics.)
-
-"What is this?" Qiang asked. "What killed my wife?"
-
-"We don't know yet. Unknown viral pneumonia. CDC is testing. But Mr. Li, you need to prepare yourself—seventeen people connected to Huanan Market are infected. Three are dead including your wife. The number is growing. This might be the beginning of an outbreak."
-
-Qiang couldn't process that.
-
-Couldn't think beyond Li Mei's body in the isolation ward and his children two floors up struggling to breathe.
-
-"Can I see her?" he asked. "Say goodbye?"
-
-"Not yet. Quarantine protocols. Maybe in a few days after decontamination. I'm sorry."
-
-Qiang nodded.
-
-Turned away from the window.
-
-Walked to the elevator.
-
-Went to pediatric isolation to sit with his children while they died from the same pathogen that killed their mother.
+Morrison's mathematics made flesh.
 
 ---
 
@@ -144,8 +100,6 @@ Sarah opened her tracking file. Added:
 She stared at the entry.
 
 (Li Mei died because Sarah was too slow securing Hub 47. Died because Wells evacuated Wuhan before the raids began. Died because Sarah secured forty-six hubs but missed the forty-seventh.)
-
-(Partial prevention. Ninety-eight percent success. Two percent failure equals Li Mei dead and her children dying.)
 
 Her phone buzzed. Torres.
 
@@ -201,8 +155,6 @@ Sarah closed her eyes.
 
 (Forty-six hubs secured. Four point one five billion lives saved. But Hub 47 escaped. Li Mei dead. Thirty-five to fifty million more deaths possible if containment fails.)
 
-(This was partial prevention. This was ninety-eight percent success haunted by two percent failure.)
-
 "Keep me updated," Sarah said. "Every new case. Every death. I'm tracking all of it."
 
 She ended the call.
@@ -223,69 +175,15 @@ Five deaths. Li Mei plus four more. Sarah added their names to her tracking file
 
 **Wuhan Outbreak Status: 47 confirmed cases, 12 deaths, 134 suspected**
 
-Li Mei's children both died within twelve hours of each other.
+Li Mei's children—Jian (7) and Xiao (4)—died within twelve hours of each other.
 
-Jian died at 4:23 AM. Xiao died at 3:47 PM.
+Qiang survived. Sat in an empty apartment for three weeks before Li Mei's mother came to take him home. He would spend the next five years wishing he hadn't survived at all.
 
-Sarah tracked both deaths. Added them to her file. Seven and four years old. Dead because their mother worked at Huanan Market. Dead because Hub 47 escaped.
+Morrison's mathematics proving accurate. Mortality rate tracking at 25% for genetically vulnerable populations.
 
-Qiang Li—widower, father of two dead children—was in quarantine himself. Infected. Showing symptoms. Likely to die within forty-eight hours.
+Sarah tracked every death. Added every name to her file.
 
-Morrison's intelligence proved accurate. Mortality rate tracking at 25% for genetically vulnerable populations. Transmission characteristics matching THRESHOLD specifications exactly.
-
-This wasn't natural outbreak. This was engineered bioweapon spreading through Wuhan because Wells had panicked during evacuation.
-
-Sarah's phone rang. Maya.
-
-"International health authorities are coordinating response. WHO deploying to Wuhan. CDC sending advisors. Everyone treating it as novel coronavirus outbreak. No one mentioning THRESHOLD."
-
-"What's the Chinese government doing?"
-
-"Full lockdown of Huanan Market. Contact tracing all exposed individuals. Isolation protocols for confirmed cases. Standard outbreak response."
-
-"Will it work?"
-
-Maya hesitated. "Morrison says containment window is two weeks. We're on day three. Forty-seven confirmed cases means probably two hundred actual infections accounting for asymptomatic carriers. If Chinese authorities can isolate all contacts within eleven days..."
-
-"Then it might be contained."
-
-"Might. But Sarah, this is engineered for transmission. THRESHOLD was designed to spread efficiently. Even with perfect response, some cases will slip through."
-
-Sarah looked at her tracking file. Twelve dead. Forty-seven confirmed. One hundred thirty-four suspected. Numbers doubling every thirty-six hours.
-
-"How many will die if containment fails?" she asked.
-
-"Morrison's projections: thirty-five to fifty million over two to three years. Pandemic spreads globally. Overwhelms health systems. Continues until herd immunity or vaccine development."
-
-Thirty-five to fifty million deaths.
-
-Because Sarah was too late securing Hub 47.
-
-Because Wells evacuated before the raids began.
-
-Because partial prevention meant millions dying instead of billions.
-
-"Keep tracking," Sarah said. "I want daily updates. Every new case. Every death."
-
-"Sarah, you can't prevent this one. Hub 47 already escaped. You did everything possible—"
-
-"I secured forty-six hubs and missed one. Li Mei died. Her children died. Millions more might die. I'm tracking all of it."
-
-She ended the call.
-
-Opened Chinese news.
-
-**Unusual Pneumonia Outbreak - 47 cases, 12 deaths, investigation ongoing**
-
-Li Mei's photograph appeared on screen. Memorial coverage. Husband and children also deceased. Family of four destroyed in seventy-two hours.
-
-Sarah screenshoted the image. Added it to her file.
-
-(Li Mei. Jian. Xiao. Three deaths. Eventually four when Qiang died. One family eliminated by Hub 47 escape.)
-
-(She would remember them. All of them. Every person dying from the hub she failed to secure.)
-
-That was the cost of partial prevention.
+(This was the cost of partial prevention. This was two percent failure measured in families.)
 
 ---
 
@@ -349,7 +247,7 @@ Sat down with terrible federal detention coffee.
 
 (Sarah was out there trying to contain Hub 47 with incomplete information. He'd given her everything. Pathogen specs, transmission data, mortality projections. Everything she needed to help Chinese authorities respond.)
 
-(That was defensive Protocol. Cooperation over optimization. Truth over victory.)
+(Defensive Protocol distilled: cooperation over optimization. Truth over victory.)
 
 (He'd learned that from watching her refuse to stop at forty-six hubs.)
 
@@ -397,7 +295,7 @@ Sarah felt sick.
 
 (The truth—that Wells evacuated bioweapons facility and released THRESHOLD during panicked transport—would never be public.)
 
-(Governments were already coordinating coverup. Natural outbreak narrative. No mention of the Order. No mention of forty-six hubs prevented. No mention that Sarah Chen secured ninety-eight percent of THRESHOLD but missed two percent.)
+(Governments were already coordinating coverup. Natural outbreak narrative. No mention of the Order. No mention of forty-six hubs prevented. No mention of Sarah Chen.)
 
 Her phone buzzed.
 
@@ -405,7 +303,7 @@ Morrison, from detention: **Day 7 case count suggests containment is failing. Co
 
 Sarah stared at the message.
 
-(Morrison was sorry. The man who'd planned to kill four billion people was apologizing for thirty-five million dying from the hub Sarah failed to secure.)
+(Morrison was sorry. As if sorry meant anything now.)
 
 She typed back:
 
@@ -417,9 +315,7 @@ Morrison's response:
 
 Sarah closed her eyes.
 
-(Minimize thirty-five million deaths. Prevent four billion. Partial victory haunted by partial failure.)
-
-(That was defensive Protocol when tested at scale. Ninety-eight percent success. Two percent catastrophe.)
+(Partial victory haunted by partial failure. Both permanent.)
 
 She opened her tracking file.
 
@@ -469,7 +365,7 @@ Her phone rang. Lagos.
 
 Lagos was quiet.
 
-"Her husband died this morning," Sarah continued. "Qiang Li. Infected while caring for his dying wife and children. Whole family eliminated. Four deaths. Because I was too late for Hub 47."
+"Her children died," Sarah continued. "Jian was seven. Xiao was four. Both gone within hours of each other. And Qiang—he survived, but he lost everything. His wife and both children in one week. Because I was too late for Hub 47."
 
 "You couldn't have known Wells would evacuate early."
 
@@ -501,11 +397,11 @@ Then: "I'm alive because you secured forty-six hubs. Morrison released me becaus
 
 "You're alive. Li Mei is dead. I don't know how to balance that math."
 
-"Neither do I. But Sarah, four billion people are alive today who would have died if you'd stopped at forty-five hubs. Or forty. Or settled for partial success. You pushed for complete prevention. Got ninety-eight percent. That's better than anyone's ever done."
+"Neither do I. But Sarah, four billion people are alive today who would have died if you'd stopped at forty-five hubs. Or forty. Or settled for partial success. You pushed for complete prevention. That's better than anyone's ever done."
 
 Sarah closed her eyes.
 
-(Ninety-eight percent success. Two percent failure. Li Mei dead. Lagos alive. Four billion saved. Thirty-five million possibly dying. The math didn't balance. The math never balanced.)
+(The math didn't balance. The math never balanced.)
 
 "I need to go," she said. "Tracking outbreak updates."
 
@@ -528,29 +424,189 @@ She stared at the numbers.
 
 (This was victory. This was failure. This was both simultaneously.)
 
-(This was defensive Protocol tested at scale and proving ninety-eight percent effective.)
-
 (This was Li Mei dead and her children dead and Sarah would carry that weight forever.)
 
 Coffee was waiting.
 
 Always waiting.
 
-Wrong and right.
-
-Failure and success.
-
-Two percent catastrophe.
-
-Ninety-eight percent prevention.
-
 Sarah drank it anyway.
+
+---
+
+**Day 12 - December 3, 2019**
+
+## LAGOS VISITS MORRISON IN DETENTION
+
+Lagos arrived at federal detention facility in Newark at 2:00 PM on December 3, 2019.
+
+Twelve days since Hub 47 started spreading. Four hundred twelve confirmed cases in Wuhan. Eighty-seven deaths. International spread beginning—Thailand, Japan, South Korea. Morrison's mathematics proving accurate with every new death count.
+
+(Morrison had predicted this. Down to the transmission vectors. Down to the exponential growth rate. Down to the demographics of who would die first.)
+
+The guard led Lagos through three security checkpoints to detention wing's interview room. Same room where Morrison had provided Hub 47 intelligence two weeks ago. Same metal table. Same fluorescent lights humming overhead like mechanical insects.
+
+Morrison sat waiting. Federal detention jumpsuit. Hands cuffed in front. Face thinner than Lagos remembered—weight loss from facility food or stress or both.
+
+(Sixty-five years old. Looked seventy now. Stress aging him in real-time.)
+
+The guard stepped outside. Left the door open six inches. Standard supervision protocol.
+
+"David," Morrison said. Voice flat. Dead. The voice Morrison used when emotion was luxury he couldn't afford.
+
+"How are you holding up?"
+
+"I'm in federal detention awaiting trial for designing genocide. How do you think I'm holding up?"
+
+Lagos sat across from him. The table between them was metal institutional furniture bolted to floor. Cold. Permanent. Like everything in this place was designed to communicate: You're not leaving.
+
+"I came to update you on Hub 47," Lagos said. "Four hundred twelve confirmed cases. Eighty-seven deaths. Your intelligence about ACE2 receptor binding helped Chinese CDC identify the pathogen faster but containment's failing."
+
+Morrison nodded. Expected. "R-naught?"
+
+"2.7. Your estimate was 2.5 to 3.7. You were accurate."
+
+"Of course I was accurate. I designed it."
+
+The bitterness in Morrison's voice was new. Or maybe not new. Maybe just not hidden anymore.
+
+Lagos pulled out printed graphs. Epidemic curves. Case counts. Death projections. He spread them on the table.
+
+"China's implementing quarantine measures but they're too slow. International cases suggest the pathogen's already seeded in fifty-three countries. If they don't lock down Wuhan within two weeks—"
+
+"Then my mathematics prove correct," Morrison interrupted. "Thirty-five million dead. Maybe more if healthcare systems collapse. Which they will."
+
+He stared at the graphs. Didn't touch them. Just looked.
+
+(Those were his equations. His design. His legacy spreading across epidemic curves like signature written in corpses.)
+
+"Sarah wanted me to ask if you have additional intelligence," Lagos said. "Anything about containment strategies, vaccine vulnerabilities, therapeutic targets. Anything that might help."
+
+"I already gave you everything. Transmission vectors, receptor binding, incubation periods, demographic targeting. What more do you want? A cure? I designed a weapon, not a vaccine. GenVault has the cure data but they're not sharing. Patent applications filed three months ago. They're going to profit from this."
+
+Lagos already knew that. Sarah had found the patent applications. GenVault had vaccine candidates ready before outbreak began because they'd designed the pathogen. Standard bioweapon strategy—create problem, monopolize solution, profit from fear.
+
+"We're working on exposing that," Lagos said.
+
+"Good luck. They have lawyers. They have shell companies. They have plausible deniability. I'm the only one taking the fall. 'Rogue geneticist.' That's what the indictment says. Not corporate conspiracy. Not institutional genocide. Rogue geneticist. Singular."
+
+Morrison's hands shook. Just slightly. Tremor in his fingers that hadn't been there two weeks ago.
+
+Lagos noticed.
+
+"You okay?"
+
+"Fine."
+
+"You're shaking."
+
+"I'm fine." Morrison pulled his hands off the table. Hid them in his lap. "Just coffee. They changed the coffee three days ago. New supplier. Tastes wrong. Chemical aftertaste. Probably cheap institutional blend but it makes my hands shake."
+
+Lagos frowned. "Have you reported it?"
+
+"Reported what? That the coffee tastes bad? They'd think I'm paranoid." Morrison laughed. Hollow sound. "Maybe I am paranoid. Maybe federal detention makes everyone paranoid. You start noticing things. Guards acting different. Cameras in corners you didn't see before. Coffee tasting wrong."
+
+"What do you mean guards acting different?"
+
+Morrison leaned forward. Voice dropped to whisper even though the door was open and guard was right outside.
+
+"Two new guards started Sunday. Don't talk. Just watch. Not the way normal guards watch. Different. Like they're waiting for something. And yesterday someone went through my cell. I can tell. Papers moved. Books spine-down instead of spine-up. Little things. Things you'd only notice if you were paying attention."
+
+"Have you filed a complaint?"
+
+"About what? 'Guards are looking at me funny and someone moved my books?' They already think I'm crazy. Crazy enough to design genocide. If I start complaining about guards and coffee they'll put me in psych eval and then my testimony becomes inadmissible and GenVault wins."
+
+Lagos studied Morrison's face. Looked for signs of actual paranoia versus legitimate concern.
+
+(Hard to tell. Detained geneticists who'd designed global genocide probably had reason to be paranoid. Also probably had reason to develop actual paranoia. The line between reasonable caution and mental breakdown was thin in federal detention.)
+
+"Do you think they're trying to silence you?" Lagos asked.
+
+"I think I'm the only person who can testify about THRESHOLD's full scope. I know the names. The facilities. The money trails. Wells disappeared but I know where the bodies are buried—literally and figuratively. That makes me valuable to prosecutors and dangerous to GenVault."
+
+"You're in federal custody. They can't—"
+
+"Jeffrey Epstein was in federal custody." Morrison's voice was flat. Dead serious. "Federal detention. Suicide watch. Guards fell asleep. Cameras malfunctioned. Convenient timing. Convenient narrative. Convenient closure."
+
+The room went quiet.
+
+Lagos wanted to say *that won't happen to you*. Wanted to reassure. But the reassurance would be lie and Morrison would know it was lie and lies were insult to someone facing mathematics of his own mortality.
+
+"I'm writing everything down," Morrison said. "Names. Dates. Facility locations. Money transfers. Everything. If something happens to me—if the coffee keeps tasting wrong or the guards keep watching differently or I mysteriously die of heart failure at sixty-five years old—someone needs to know. Sarah needs to know. You need to know."
+
+He reached into his jumpsuit pocket. Pulled out folded papers. Three pages. Handwritten. Dense text.
+
+"Take this. Hide it. Don't read it here. Don't read it anywhere with cameras. But if I die suspiciously—and you'll know if it's suspicious because healthy sixty-five-year-olds don't just die in federal custody—give this to Sarah. She'll know what to do with it."
+
+Lagos took the papers. Folded them smaller. Slipped them into his jacket pocket.
+
+"You're not going to die," Lagos said.
+
+"Everyone dies, Marcus. The question is whether it's convenient timing."
+
+The guard appeared in doorway. "Five minutes."
+
+Morrison nodded. Looked at Lagos. Eyes that had seen his mathematics manifest in real-time epidemic curves. Eyes that knew exactly how many people were going to die because Hub 47 escaped. Eyes that understood he might be next.
+
+"Tell Sarah I'm sorry," Morrison said. "For Hub 47. For everything. I thought I was right. I was wrong. But being wrong doesn't undo the damage and thirty-five million people are going to die anyway and I deserve whatever happens to me."
+
+"You don't deserve to be murdered."
+
+"Maybe. Maybe not. But if the coffee keeps tasting wrong and the guards keep watching differently and I die mysteriously in six months—remember this conversation. Remember the papers. Remember that convenient timing is another word for murder."
+
+Lagos stood. Wanted to say something comforting. Couldn't find the words.
+
+Morrison watched him leave.
+
+Through the six-inch door gap Lagos saw Morrison lift his coffee cup—facility coffee, lukewarm, chemical aftertaste—and drink it anyway.
+
+(Because what else could he do?)
+
+(Stop drinking coffee and confirm his paranoia was justified?)
+
+(Or keep drinking and hope paranoia was just paranoia?)
+
+Morrison kept drinking.
+
+Lagos walked out thinking about Epstein. About convenient timing. About how easy it would be to slip something into coffee that tasted wrong already. About how no one would question sixty-five-year-old geneticist dying of heart failure after stress of detention and guilt of genocide.
+
+About how the papers in his pocket might be Morrison's last testament.
+
+About how Morrison's mathematics were proving accurate with every death count.
+
+About how inconvenient Morrison's testimony would be for GenVault's vaccine profits.
+
+Lagos drove back to New York thinking about coffee.
+
+Chemical aftertaste.
+
+Guards watching differently.
+
+Papers moved spine-down instead of spine-up.
+
+Lagos would remember this conversation.
+
+Right now it was December 3, 2019.
+
+Day 12 of the outbreak.
+
+Four hundred twelve cases.
+
+Eighty-seven deaths.
+
+And Morrison was still alive drinking chemical coffee wondering if paranoia was survival instinct or breakdown.
+
+(Turned out it was survival instinct.)
+
+(Turned out he was right.)
+
+(Turned out the coffee really did taste wrong.)
 
 ---
 
 **END CHAPTER 13**
 
-**Word Count:** ~4,100 words
+**Word Count:** ~5,400 words
 
 **Key Elements:**
 - Morrison provides full intelligence on Hub 47 in exchange for Lagos's freedom

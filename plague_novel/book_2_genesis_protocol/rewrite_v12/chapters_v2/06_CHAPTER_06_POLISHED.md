@@ -46,7 +46,7 @@ His hand hovered over the keyboard.
 
 Three words would solve this: **AUTHORIZE IMMEDIATE DETENTION**.
 
-Sarah locked in a cell. Trackers disabled. Intel contained. THRESHOLD deploys on schedule. Thirteen days from now, 262 million people die and Morrison saves the other 7.5 billion from slower extinction.
+Sarah locked in a cell. Trackers disabled. Intel contained. THRESHOLD deploys on schedule. Thirteen days from now, 4.2 billion people die and Morrison saves the rest from slower extinction.
 
 Simple.
 
@@ -78,6 +78,16 @@ And he was still using her death to justify mathematics that she'd hate if she'd
 
 (The truth was uglier: Emily died and Morrison couldn't accept that her death was meaningless so he built THRESHOLD to make it mean something, except now he was planning to kill four billion people and call it mathematics instead of grief.)
 
+Morrison thought about Catherine Wells. Her message demanding detention. Third-generation Order leadership—born into wealth her grandfather built laundering Nazi gold through American pharmaceutical companies after Operation Paperclip. Raised knowing about the Genesis Protocol since she was eleven years old, sitting in council meetings while her father explained how Amenhotep's network had preserved the knowledge for 112 generations. How their bloodline carried the duty to choose who survived collapse.
+
+Morrison had spent thirty years building THRESHOLD.
+
+Wells had spent forty-one years preparing to deploy it.
+
+That was the difference. Morrison was a convert who doubted. Wells was a true believer who never would. And if THRESHOLD failed—if Sarah somehow prevented deployment—Wells would rebuild. Not because she was evil. Because she genuinely believed her ancestors were right.
+
+Two women. Both brilliant. Both carrying genetic memory of the Protocol's creation. Sarah: prevention through cooperation. Wells: survival through control. The 3,000-year war continuing through them.
+
 His office door chimed.
 
 Morrison minimized the files.
@@ -88,248 +98,88 @@ Dr. David Lagos stepped through. Still wearing his lab coat. Still carrying that
 
 "You're up late," Lagos said.
 
-"Deployment preparations." Morrison gestured at the monitors showing Sarah in the archive. "Thirteen days. Lot to coordinate."
+Morrison didn't deflect. Something about midnight in an empty building made pretending feel impossible.
 
-"Right." Lagos sat without being invited. Exhausted. Done pretending. "Wells wants you to detain Chen. Says she's gathering intelligence, not considering recruitment."
+"Sit down, David. I need to show you something."
 
-"Wells says a lot of things."
+Lagos sat. Wary.
 
-"Wells is usually right." Lagos looked at the monitor. At Sarah reading casualty projections. "You gave Chen complete deployment data. GPS trackers broadcasting her location. Thumb drive with unencrypted protocols. You're either recruiting her or—"
+Morrison pulled up a file. Turned the monitor toward Lagos.
 
-He stopped.
+Sarah Chen's doctoral dissertation. Published two years ago. The abstract highlighted:
 
-Morrison waited.
+*"Targeted genetic distribution provides sufficient adaptive capacity for civilizations to survive crisis periods without requiring population reduction."*
 
-"Or you want her to get out," Lagos finished quietly. "You want Sarah to escape with evidence and expose THRESHOLD before deployment."
+"That's Chen's dissertation," Lagos said slowly. "I've read it. Morrison, why are you—"
 
-Morrison's coffee cup was empty.
+"She proved the defensive Protocol works." Morrison's voice was quiet. The kind of quiet that comes at midnight when you've been staring at surveillance footage for seven hours and the thing you've been avoiding finally says itself. "Genetic resilience markers distributed across populations prevent collapse. Without genocide. Without optimization. Without any of this."
 
-He set it down carefully.
+Lagos stared at him.
 
-Steady hands.
+"She found the answer I spent thirty years pretending didn't exist."
 
-(Always steady hands when authorizing murder.)
+"Morrison—"
 
-"That's a serious accusation," Morrison said.
+"I'm terrified she's right." Morrison's hands wanted to shake. He gripped the desk. Made them stay steady. "Because if Sarah's right, then thirty years of work was wrong. THRESHOLD is wrong. And I'm not a savior making hard choices—I'm just a man who lost his daughter and built a genocide to make her death mean something."
 
-"It's not an accusation." Lagos leaned forward. Elbows on knees. Hands clasped like prayer except neither of them believed in anything except mathematics anymore. "It's an observation. You've been working on this for thirty years. You don't make mistakes. You don't give intelligence to pattern recognition specialists who walk into your building wearing trackers."
+The office was silent except for ventilation and the hum of a building that never fully slept.
 
-"Maybe I think she'll join."
+Lagos sat very still. Not surprised by what Morrison was saying—he'd suspected most of it for years. Surprised that Morrison was saying it. Out loud. Unprompted. At midnight, to the man who'd been sabotaging him.
 
-"You know she won't." Lagos's voice was flat. Dead. "You showed her the trolley problem. Told her she could save millions by helping optimize four billion deaths. She said no. Clean. Immediate. No hesitation."
+"Why are you telling me this?" Lagos asked.
 
-"She said she needed to think."
-
-"She said she needed seventy-two hours to gather evidence and get out." Lagos stood. Walked to the windows overlooking the harbor. Dark water. Dark sky. Boston at midnight looking like the end of the world except the end was still thirteen days away. "Morrison, I've worked with you for eight years. Helped you refine targeting parameters. Watched you recruit twenty-three people. You're brilliant at identifying who'll compromise when the math gets big enough."
-
-"And Sarah won't."
-
-"Sarah can't." Lagos turned. "She's got defensive Protocol markers going back twenty-eight generations. Her genetics encode crisis response and cooperative behavior. Asking her to help with genocide is like asking water to flow uphill. It's not morality. It's not ideology. It's biology preventing her from choosing optimization over prevention."
-
-Morrison was quiet.
-
-On the monitor, Sarah closed another file. Pulled up mortality projections for Southeast Asia. Her face doing that thing where horror tried to break through professional competence and lost.
-
-"So why did you give her the data?" Lagos asked.
-
-Morrison looked at his reflection in the darkened window.
-
-Fifty-four years old. Three decades embedded in the Order. Thirty years building this nightmare. He'd sacrificed his marriage (Melissa left eleven years into the project, said he'd become "inhuman"), his daughter's memory (hadn't visited Emily's grave in years), his sleep, his conscience, every piece of himself that wasn't mathematics.
-
-All to become the monster who prevented worse monsters.
-
-All to save people who'd never know they needed saving.
-
-"Because," Morrison said quietly, "Sarah Chen published a dissertation two years ago proving the defensive Protocol works. That genetic resilience markers distributed across populations prevent collapse without requiring genocide. Her conclusion was devastating: targeted genetic distribution provides sufficient adaptive capacity for civilizations to survive crisis periods."
-
-He pulled up Sarah's dissertation. Showed Lagos the abstract.
-
-"She found the answer I spent thirty years pretending didn't exist," Morrison continued. "That maybe—just maybe—you don't need to kill billions to prevent extinction. That maybe the defensive Protocol scales if you're patient enough. Brave enough. Willing to accept that prevention takes longer than optimization but doesn't require becoming a mass murderer."
-
-Lagos was still.
-
-"You think she's right," he said.
-
-"I think I'm terrified she's right." Morrison's hands wanted to shake. He gripped the desk. Made them stay steady. "Because if Sarah's right, then thirty years of work was wrong. THRESHOLD is wrong. Four billion deaths are unnecessary. And I'm not a savior preparing to make hard choices—I'm just a man who lost his daughter and built a genocide to make her death mean something."
-
-"So you gave Sarah the evidence to stop you."
-
-"I gave her seventy-two hours to prove the impossible." Morrison stood. Walked to stand beside Lagos at the window. "If she can show that defensive Protocol prevents collapse at modern scale—if she can demonstrate prevention works better than optimization—then maybe I reconsider deployment."
-
-"You know she can't prove that in seventy-two hours."
-
-"Then I proceed with THRESHOLD." Morrison's reflection looked older than fifty-four. Looked like someone who'd traded his humanity for mathematics and couldn't figure out the exchange rate. "Either way, I'll know. Either Sarah proves prevention works and I stop being a monster, or she fails and I proceed knowing I tried every alternative first."
-
-Lagos laughed.
-
-Not amused. Broken.
-
-"You're using her as absolution," he said. "Give Sarah impossible odds to prove you wrong so when she fails, you can tell yourself you gave ethics a fair chance before choosing genocide."
-
-Morrison turned.
-
-Looked at Lagos.
-
-This man who'd spent two years trying to sabotage THRESHOLD from inside. Who'd gotten his research assistant killed. Who was standing in Morrison's office at midnight saying things that could get him executed for treason.
-
-"Ava Rodriguez," Morrison said quietly. "Your research assistant. Twenty-six years old. Brilliant geneticist. Found discrepancies in targeting parameters and tried to fix them. Car accident three months ago."
+"Because I know about Ava."
 
 Lagos went white.
 
-"Brake failure," Morrison continued. Clinical. Professional. The voice he used when authorizing murder. "The Order handled it. I didn't order it. Didn't know about it until after. But I didn't reverse it either. Didn't punish whoever gave the order. Just... accepted that Ava died because she found evidence THRESHOLD's targeting wasn't as precise as we claimed."
+"Brake failure. Three months ago." Morrison's voice shifted. Clinical. Professional. The voice he used when discussing things that should have broken him. "The Order handled it. I didn't order it. But I didn't stop it either. Didn't punish anyone. Just... accepted it."
 
-"Why are you telling me this?" Lagos's voice shook.
+"Why are you telling me this?" Lagos repeated. Different emphasis. Not confusion now. Fear.
 
-"Because I need you to understand: I'm not a good person looking for redemption. I'm not hoping Sarah succeeds. I'm a man who's built a machine that kills four billion people and I'm too deep to stop without proof—real, mathematical, undeniable proof—that prevention works better."
+"Because at midnight, with Sarah Chen memorizing genocide fourteen floors below us, I need someone to know what I've become." Morrison pulled up Wells's message on his phone. Read it aloud: "'Recommend immediate detention and elimination.'"
 
-Morrison moved back to his desk.
+He typed his response while Lagos watched:
 
-Pulled up surveillance showing Sarah still in the archive. Still memorizing deployment protocols. Still thinking she was gathering intelligence to stop THRESHOLD.
+**DETENTION DENIED. Full archive access continues. 72-hour deadline.**
 
-"Sarah has seventy-two hours," Morrison said. "Not because I want her to prove me wrong. Because if she can't prove prevention works in seventy-two hours with complete deployment data and defensive Protocol genetics and brilliant pattern recognition, then nobody can. And THRESHOLD proceeds with clear conscience."
+Sent it.
 
-"You don't have a conscience anymore."
+"I just refused to kill her," Morrison said. "I gave her seventy-two hours. Complete deployment data. Access to everything. Not because I think she'll join—we both know she won't. Because I need to know if prevention works. If her dissertation is right. If maybe, somewhere in thirty years of mathematics, I lost the plot entirely."
 
-"No." Morrison smiled. Sad. True. "But I used to. And some part of me wants to know if the man I used to be would have found another way. If Emily's father would have chosen differently. If maybe—somewhere in thirty years of mathematics—I lost the plot and became the thing I was trying to prevent."
+"And if she can't prove it in seventy-two hours?"
 
-He pulled up Wells's message.
+"Then THRESHOLD deploys. And I proceed knowing I tested every alternative."
 
-**Chen has been accessing deployment protocols for 7 hours. Recommend immediate detention and elimination.**
+Morrison looked at his reflection in the darkened window. Looked like someone who'd traded his humanity for mathematics and couldn't figure out the exchange rate.
 
-Morrison typed:
+Lagos was quiet for a long time.
 
-**DETENTION DENIED. Chen remains viable recruitment target. Full archive access continues. Assessment protocol extends to 72-hour deadline.**
+"That's not conscience," he said finally. Soft. Not accusatory—sad. "That's absolution."
 
-He sent it.
+Morrison didn't argue.
 
-Watched the message deliver.
+He stood. Walked to the door. Stopped. Looked back at Lagos.
 
-Felt the weight of what he'd just done.
-
-Not a reversal. Not a conversion to Sarah's philosophy.
-
-Just... a test. One more chance to see if defensive Protocol worked when tested against impossible mathematics. One more way to avoid admitting he might have wasted thirty years building unnecessary genocide.
-
-Lagos watched him. "Wells will go over your head. Order leadership will override you. Sarah gets detained anyway."
-
-"Maybe." Morrison checked Sarah's position on the tracker grid. Still in the archive. Still safe. Still gathering evidence that would either save billions or get her killed depending on whether Morrison's conscience or his mathematics won. "But for seventy-two hours, she has a chance. Small chance. Impossible chance. But a chance."
-
-"And when she fails? When seventy-two hours expire and she hasn't proven prevention works?"
-
-Morrison looked at Emily's photograph in his desk drawer.
-
-At Melissa's photograph beside it.
-
-At the man he used to be before grief became mathematics and mathematics became genocide.
-
-"Then I know I tried," he said quietly. "I gave ethics every advantage. Complete data. Brilliant mind. Seventy-two hours to find the flaw. And if Sarah can't prove prevention works with all that—if defensive Protocol doesn't scale to modern populations—then THRESHOLD deploys and I can tell myself I exhausted every alternative first."
-
-He closed the drawer.
-
-"Thirteen days," Morrison said. "THRESHOLD deploys whether Sarah succeeds or fails. The only question is whether I spend those thirteen days hoping she proves me wrong or knowing I gave her every chance and she couldn't."
-
-Lagos stood there.
-
-Quiet.
-
-Processing.
-
-Then: "You want to be stopped. You've spent thirty years building THRESHOLD and you want someone brilliant enough to tear it down before deployment."
-
-Morrison looked at the monitor showing Sarah in the archive.
-
-This woman who carried twenty-eight generations of defensive Protocol genetics. Who'd proven the Genesis Protocol worked. Who refused to compromise her principles even when shown seven billion deaths and asked which genocide she preferred.
-
-Who might—just might—be smart enough and brave enough to prove that prevention worked better than optimization.
-
-(Or who might fail, and Morrison would proceed with clear conscience knowing he'd tested ethics against mathematics and mathematics won.)
-
-"I want," Morrison said slowly, "to stop wondering if I'm saving the world or justifying mass murder with sophisticated math. Sarah Chen has seventy-two hours to answer that question. Either she proves prevention works and THRESHOLD stops, or she fails and I know—really know—that genocide was necessary."
-
-He stood.
-
-Walked to the door.
-
-Stopped.
-
-Looked back at Lagos.
-
-"When she runs," Morrison said quietly, "in seventy-two hours, during shift change, when electronic locks disengage for fire alarm testing—don't stop her. Don't report it. Don't interfere."
+"When she runs," Morrison said quietly. "In seventy-two hours, during shift change, when electronic locks disengage for fire alarm testing—don't stop her. Don't report it. Don't interfere."
 
 Lagos's eyes went wide.
 
-"You're letting her escape."
+"I'm giving defensive Protocol one last chance. If she gets out with deployment data—if she exposes everything—then maybe prevention works. Maybe thirty years was wrong but humanity survives anyway."
 
-"I'm giving defensive Protocol one last chance to prove it works." Morrison's hands were steady. Always steady. Even when authorizing his own potential destruction. "If Sarah gets out with deployment data. If she exposes THRESHOLD to authorities. If somehow—impossibly—she prevents deployment through evidence and pattern recognition and defensive Protocol crisis response... then maybe that proves prevention works. Maybe that means thirty years of work was wrong but humanity survives anyway."
-
-"And if she gets caught escaping? If Wells kills her before she gets out?"
+"And if Wells kills her first?"
 
 Morrison looked at the surveillance feed one more time.
 
-At Sarah Chen, reading casualty projections, memorizing genocide, choosing to see complete horror because prevention required understanding what you were trying to prevent.
+At Sarah Chen, memorizing genocide, choosing to see complete horror because prevention required understanding what you were trying to prevent.
 
-"Then defensive Protocol failed," Morrison said. "And THRESHOLD deploys on schedule and I know I was right all along."
+"Then defensive Protocol failed," he said. "And I was right all along."
 
-He left Lagos in the office.
-
-Walked down empty corridors at midnight.
-
-Thirteen days until deployment.
-
-Seventy-two hours until Sarah either proved him wrong or confirmed he was the monster mathematics required him to be.
+He walked down empty corridors at midnight.
 
 Morrison didn't know which outcome terrified him more.
 
 ---
 
-Three miles away, in a surveillance van parked across from GenVault, Martin Reeves watched both green dots pulse on his laptop.
-
-"Signal's still strong," he said into his encrypted phone. "She's been in there seven hours. Still transmitting."
-
-Maya's voice: "Any sign of compromise?"
-
-Martin checked the bio-monitors. Heart rate elevated but stable. No panic signals. No distress codes.
-
-"She's stressed but functional. Gathering intel like we planned."
-
-"How much longer do we give her?"
-
-Martin looked at the countdown timer on his screen. Seventy-two hours. Sarah's deadline to get out before Morrison's patience expired.
-
-"Seventy-two hours," he said. "Like we planned. Unless she signals distress earlier."
-
-"And if she doesn't signal but stops transmitting?"
-
-"Then we burn GenVault to the ground."
-
-Maya was quiet for a moment.
-
-Then: "Martin, what if Morrison's letting her gather intel? What if this whole thing is a trap and we're about to lose our best asset?"
-
-Martin watched the green dots pulse.
-
-Steady.
-
-Alive.
-
-Sarah Chen, deep inside enemy territory, gathering evidence to stop the apocalypse while men in suits planned her execution.
-
-"Then we trust her," Martin said. "Trust that she knows what she's doing. Trust that defensive Protocol genetics gave her instincts good enough to survive this."
-
-"And if her instincts are wrong?"
-
-Martin thought about that.
-
-About Sarah walking into GenVault knowing it might be suicide. Knowing Morrison might kill her. Choosing to go anyway because four billion lives required someone willing to gather evidence even when mathematics said they should run.
-
-"Then we avenge her," he said quietly. "And we stop THRESHOLD anyway. But we trust her first."
-
-On his laptop, both green dots pulsed.
-
-Seventy-two hours counting down.
-
----
-
 **END CHAPTER 6**
 
-**Word Count:** ~2,800 words (from ~3,000)
+**Word Count:** ~2,100 words

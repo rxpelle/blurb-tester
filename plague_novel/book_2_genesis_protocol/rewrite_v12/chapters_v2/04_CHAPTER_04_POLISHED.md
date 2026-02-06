@@ -72,7 +72,7 @@ She knew this. Had studied it. Ancient history, archaeological evidence, the mys
 
 "Drought," she said. "Climate change. Systems collapse."
 
-"Exactly." Morrison pulled up another graph. "Now look at this."
+"Exactly." Morrison glanced at the medieval manuscripts in their climate-controlled cases. "The analysis of that collapse goes back almost as far as the collapse itself. We inherited the data." He pulled up another graph. "Now look at this."
 
 Modern collapse projections.
 
@@ -96,7 +96,7 @@ Red line: uncontrolled collapse. Seven point two billion dead over thirty years.
 
 Blue line: managed intervention. Four billion dead over ten years.
 
-"THRESHOLD," Morrison said quietly. "Phase I deployment. We lose four billion people. Tragic. Horrifying. The worst thing humanity has ever done to itself." He paused. "But civilization survives. Infrastructure intact. Selected populations carrying crisis-response genetics, cooperative behavior markers, adaptive capability. Humanity diminished but *alive*."
+"THRESHOLD," Morrison said quietly. "Four billion dead." He paused. Let the number sit. "But civilization survives. Infrastructure intact. Humanity diminished but *alive*."
 
 Sarah couldn't look away from the graphs.
 
@@ -110,11 +110,11 @@ Her brain was trying to process the numbers. Failing. Crashing. Because how do y
 
 "You're showing me trolley problems," Sarah said. Voice flat. "Kill one or let five die. Except scaled to billions."
 
-"I'm showing you mathematics." Morrison leaned forward. "The Bronze Age collapse was organic. Random. Chaotic. This one doesn't have to be. We can *direct* it. Minimize casualties. Preserve civilization. Give humanity a future instead of watching everything burn."
+"I'm showing you mathematics." Morrison leaned forward. "The Bronze Age collapse was chaotic. This one doesn't have to be."
 
 "By killing four billion people."
 
-"By *saving* four billion people." Morrison's voice carried absolute conviction. "Dr. Chen, you're a pattern recognition specialist. You see systems. You understand emergence, complexity, tipping points. Look at the data honestly and tell me you see another option."
+"By *saving* four billion people." Morrison's voice carried absolute conviction. "Look at the data and tell me you see another option."
 
 Sarah looked at the graphs.
 
@@ -148,7 +148,7 @@ Spread across every continent.
 
 Interconnected through technology and trade and migration in ways ancient civilizations couldn't imagine.
 
-"The defensive Protocol doesn't *scale*," Morrison said. "You can't position crisis-response genetics across eight billion people fast enough to prevent collapse. The math doesn't work. The timeline doesn't work. By the time you've identified and positioned enough defensive carriers, the collapse has started."
+"The defensive Protocol doesn't *scale*," Morrison said. "Eight billion people. The math doesn't work. The timeline doesn't work."
 
 Sarah's throat was doing that closing thing again.
 
@@ -160,15 +160,15 @@ Not eight billion people spread across a globally interconnected civilization.
 
 "So you gave up," Sarah said. "Decided prevention was too hard and optimization was easier."
 
-"We adapted." Morrison's voice hardened. "The Order has been refining the Protocol for three thousand years. Learning. Evolving. The defensive mode worked in the Bronze Age. The offensive mode works *now*. Different tool for different context."
+"We adapted." Morrison's voice hardened. "Different tool for different context."
 
 "Different tool that kills four billion people."
 
-"Different tool that *saves* four billion people from dying in seven point two billion worth of chaos." Morrison stood. Walked to the windows. Looked out at Boston Harbor like he could see the future spreading out across the water. "Dr. Chen, I know what I'm asking you to consider. I know how it sounds. But you carry defensive Protocol markers. Twenty-eight generations from Maria of Toledo. You were *designed* to see patterns, recognize collapse, make hard choices."
+"Different tool that *saves* four billion people from dying in seven point two billion worth of chaos." Morrison stood. Walked to the windows. Looked out at Boston Harbor.
 
 He turned back to her.
 
-"Tell me honestly: if you had to choose between seven point two billion dead in chaotic collapse versus four billion dead in managed intervention—knowing those are the only two options, knowing prevention failed thirty years ago when we still had time—which would you choose?"
+"If you had to choose between seven point two billion dead versus four billion dead—knowing those are the only options—which would you choose?"
 
 Sarah's mouth tasted like copper.
 
@@ -192,7 +192,7 @@ He pulled up data on his tablet. Showed her.
 
 Simulation after simulation. Defensive Protocol implementations. All of them failing. Collapse happening anyway. Seven point two billion dead.
 
-"It doesn't work," Morrison said quietly. "I *wanted* it to work. God knows I wanted it to work. But the mathematics don't care about what we want. The timeline doesn't care. The collapse is coming and prevention is no longer possible."
+"It doesn't work," Morrison said quietly. "I *wanted* it to work. Others before me wanted it to work—spent lifetimes trying, generation after generation." His voice dropped. "But the mathematics don't care about what we want. The timeline doesn't care. The collapse is coming and prevention is no longer possible."
 
 Sarah stared at the simulations.
 
@@ -274,7 +274,7 @@ Sarah's stomach dropped.
 
 "What?"
 
-"Your analysis is correct. Social cohesion matters. Trauma impacts survivor outcomes. Community networks predict resilience." Morrison leaned forward. "That's why THRESHOLD needs someone like you. Someone brilliant enough to understand the mathematics *and* ethical enough to care about minimizing harm. You could help us refine the deployment protocols. Reduce casualties. Make it more *humane*."
+"Your analysis is correct. Social cohesion matters." Morrison leaned forward. "That's exactly why THRESHOLD needs someone like you. You could help us refine the deployment. Reduce casualties."
 
 Sarah stared.
 
@@ -284,7 +284,7 @@ Using her own arguments about why THRESHOLD was terrible to explain why she shou
 
 "I'm not helping you murder four billion people," Sarah said.
 
-"You're helping me *save* four billion people by preventing seven point two billion from dying in chaos." Morrison's voice was patient. Reasonable. "Dr. Chen, you walked into this building voluntarily. You demanded to see the evidence. You understand the mathematics. All I'm asking is that you help optimize the outcome. Reduce suffering. Make hard choices based on data instead of ideology."
+"You're helping me *save* four billion people." Morrison's voice was patient. Reasonable. "All I'm asking is that you help optimize the outcome."
 
 "Hard choices like which four billion people get to live?"
 
@@ -300,11 +300,9 @@ Failed.
 
 "You're offering me a trolley lever," she said. "Kill slightly fewer people and call it mercy."
 
-"I'm offering you agency in the most important decision humanity has ever made." Morrison stood. "You can refuse. Walk out of here. Publish your exposé. Watch THRESHOLD deploy anyway with four billion casualties instead of three point eight. Watch me implement the Protocol without your input, without your optimization, without your ethical considerations."
+"I'm offering you agency." Morrison stood. Moved to the door. Held it open.
 
-He moved to the door. Held it open.
-
-"Or you can help. Make hard choices. Reduce harm. Save millions of lives by accepting you can't save everyone."
+"Or you can refuse. Walk out. Watch it happen without you."
 
 She gripped the armrests tighter.
 
@@ -340,7 +338,7 @@ Sarah's blood went cold.
 
 "Breeding program."
 
-"Defensive Protocol carriers like you are rare. Twenty-eight generations from Maria of Toledo. Brilliant pattern recognition. Crisis-response genetics." Morrison's tone stayed pleasant. Professional. Like he was discussing crop yields instead of human breeding. "We've been trying to propagate those markers for decades. Natural reproduction is too slow. Too random. But with modern genetic techniques—"
+"Defensive Protocol carriers like you are rare." Morrison's tone stayed pleasant. Professional. Like he was discussing crop yields instead of human breeding. "Natural reproduction is too slow. Too random. But with modern techniques—"
 
 "You're breeding people." Sarah's voice came out flat. Dead.
 
@@ -358,13 +356,13 @@ Turned.
 
 "It's not voluntary if the alternative is watching billions die."
 
-"It's not coercion if you genuinely have a choice." Morrison's expression shifted. Something colder underneath the patience. "Dr. Chen, let me be clear: THRESHOLD deploys in thirteen days whether you help or not. The only question is whether you make it better or worse. Whether you save millions of lives through optimization or let them die because participating felt uncomfortable."
+"It's not coercion if you genuinely have a choice." Morrison's expression shifted. Something colder underneath the patience. "THRESHOLD deploys in thirteen days whether you help or not. The only question is whether you make it better or worse."
 
 He moved closer.
 
 Not threatening. Just. Intense.
 
-"The breeding program is optional. You can refuse. But understand what you're refusing: the chance to ensure your genetics—your brilliant, defensive, crisis-response genetics—survive into the post-THRESHOLD world. The chance to have descendants who carry your pattern recognition capabilities. Who might prevent the *next* collapse."
+"The breeding program is optional. You can refuse. But understand what you're refusing."
 
 Sarah's hands were shaking again.
 
