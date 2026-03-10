@@ -1,0 +1,7 @@
+click
+rich
+pyyaml
+jinja2
+python-docx
+ebooklib
+Pillow

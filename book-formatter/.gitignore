@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+output/
+*.pdf
+*.epub
+*.docx
+.env
+.DS_Store
