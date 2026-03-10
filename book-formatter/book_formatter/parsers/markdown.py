@@ -3,16 +3,25 @@
 import glob
 import os
 import re
+import tempfile
 
 from book_formatter.config import BookConfig
 from book_formatter.parsers.ast_model import Book, Chapter
 
 
 def parse_manuscript(config: BookConfig) -> Book:
-    """Parse a manuscript directory or single file into a Book model."""
+    """Parse a manuscript directory or single file into a Book model.
+
+    Supports:
+    - Directory of numbered .md files
+    - Single .md file with # headings
+    - Single .docx file (auto-converted to markdown)
+    """
     manuscript_path = config.resolve_path(config.manuscript)
 
     if os.path.isfile(manuscript_path):
+        if manuscript_path.lower().endswith('.docx'):
+            return _parse_docx_file(manuscript_path)
         return _parse_single_file(manuscript_path)
     elif os.path.isdir(manuscript_path):
         return _parse_directory(manuscript_path, config.chapter_pattern)
@@ -21,6 +30,29 @@ def parse_manuscript(config: BookConfig) -> Book:
             f"Manuscript not found: {manuscript_path}\n"
             f"Set 'manuscript' in book.yaml to a directory or file path."
         )
+
+
+def _parse_docx_file(filepath: str) -> Book:
+    """Parse a .docx file by converting to markdown first."""
+    from book_formatter.parsers.docx_parser import docx_to_markdown
+
+    markdown_content = docx_to_markdown(filepath)
+
+    # Write to a temp .md file so _parse_single_file can handle it
+    fd, temp_path = tempfile.mkstemp(suffix='.md', prefix='book_formatter_docx_')
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8') as f:
+            f.write(markdown_content)
+        book = _parse_single_file(temp_path)
+        # Update source_file to point to original .docx
+        for chapter in book.chapters:
+            chapter.source_file = filepath
+        return book
+    finally:
+        try:
+            os.unlink(temp_path)
+        except OSError:
+            pass
 
 
 def _parse_directory(directory: str, pattern: str) -> Book:
