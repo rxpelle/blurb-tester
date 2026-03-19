@@ -1,0 +1,30 @@
+\usepackage{fancyhdr}
+
+% Left-justified (ragged right) text
+\AtBeginDocument{\raggedright}
+
+% Define the main page style
+\fancypagestyle{bookstyle}{
+  \fancyhf{} % clear all
+  % Even (left/verso) pages: page number outside left, author name center
+  \fancyhead[LE]{\thepage}
+  \fancyhead[CE]{\small\textsc{Randy Pellegrini}}
+  % Odd (right/recto) pages: book title center, page number outside right
+  \fancyhead[CO]{\small\textsc{The Genesis Protocol}}
+  \fancyhead[RO]{\thepage}
+  % No footer
+  \fancyfoot{}
+  % Header rule
+  \renewcommand{\headrulewidth}{0.4pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Apply the style
+\pagestyle{bookstyle}
+
+% Make chapter opening pages empty (no headers, no page number)
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}

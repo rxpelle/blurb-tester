@@ -1,0 +1,158 @@
+book_title: The First Key
+launch_date: '2026-04-15'
+author: Randy Pellegrini
+series: The Architecture of Survival
+status: active
+created: '2026-03-14'
+updated: '2026-03-14'
+notes: ''
+phases:
+- name: T-30
+  offset_days: -30
+  tasks:
+  - name: Final manuscript edit
+    status: pending
+    description: Complete final round of edits
+  - name: Format manuscript
+    status: pending
+    description: Generate EPUB + PDF via book-formatter
+    tool: book-formatter
+  - name: Finalize cover
+    status: pending
+    description: Cover approved via cover-comp-analyzer
+    tool: cover-generator
+  - name: A/B test blurb
+    status: pending
+    description: Score and generate blurb variants
+    tool: blurb-tester
+  - name: Generate ad copy
+    status: pending
+    description: Create headlines, custom texts, keywords
+    tool: ad-copy-gen
+  - name: Set up author website page
+    status: pending
+    description: Book page with cover, blurb, buy links
+- name: T-14
+  offset_days: -14
+  tasks:
+  - name: Upload to KDP
+    status: pending
+    description: Upload manuscript, cover, and metadata
+    depends_on:
+    - Format manuscript
+    - Finalize cover
+  - name: Set categories and keywords
+    status: pending
+    description: Apply keyword research to KDP backend
+  - name: Set up pre-order
+    status: pending
+    description: Enable pre-order if using that strategy
+    depends_on:
+    - Upload to KDP
+  - name: Prepare ARC copies
+    status: pending
+    description: Generate ARC versions for early readers
+  - name: Draft launch emails
+    status: pending
+    description: Write email sequence for launch week
+- name: T-7
+  offset_days: -7
+  tasks:
+  - name: Send ARC copies
+    status: pending
+    description: Distribute ARCs to beta readers and reviewers
+  - name: Schedule social media posts
+    status: pending
+    description: Queue launch week social content
+  - name: Write blog post
+    status: pending
+    description: Publish launch announcement or related content
+  - name: Record comp BSR snapshots
+    status: pending
+    description: Run comp-tracker record on all 8 comps (Book 1 + Book 2). Repeat weekly.
+    tool: comp-tracker
+  - name: Review comp alerts and update ad targeting
+    status: pending
+    description: Check comp-tracker alerts. Increase spend on surging comps, swap declining comps in ad copy.
+    tool: comp-tracker
+    depends_on:
+    - Record comp BSR snapshots
+  - name: Set up Amazon ads
+    status: pending
+    description: Create campaigns with generated ad copy. Target strongest comps from comp-tracker dashboard.
+    depends_on:
+    - Generate ad copy
+    - Review comp alerts and update ad targeting
+- name: T-3
+  offset_days: -3
+  tasks:
+  - name: Final KDP preview check
+    status: pending
+    description: Review all formats in KDP previewer
+  - name: Queue launch day email
+    status: pending
+    description: Schedule the main launch announcement
+  - name: Confirm ads ready to activate
+    status: pending
+    description: Review ad campaigns, set budgets
+- name: T-1
+  offset_days: -1
+  tasks:
+  - name: Final pre-launch review
+    status: pending
+    description: Last check on all systems
+  - name: Set launch day price
+    status: pending
+    description: Confirm pricing strategy
+- name: Launch Day
+  offset_days: 0
+  tasks:
+  - name: Verify book is live
+    status: pending
+    description: Confirm book appears on Amazon
+  - name: Send launch email
+    status: pending
+    description: Trigger launch announcement to email list
+  - name: Publish social media posts
+    status: pending
+    description: Go live with launch posts
+  - name: Activate Amazon ads
+    status: pending
+    description: Turn on prepared ad campaigns
+  - name: Post in reader groups
+    status: pending
+    description: Share in relevant Facebook/Reddit groups
+- name: T+1
+  offset_days: 1
+  tasks:
+  - name: Check initial sales
+    status: pending
+    description: Review first day sales and KU reads
+  - name: Monitor ad performance
+    status: pending
+    description: Check CTR and spend on ad campaigns
+  - name: Respond to early reviews
+    status: pending
+    description: Thank reviewers, note feedback
+  - name: Send follow-up email
+    status: pending
+    description: Thank launch supporters
+- name: T+7
+  offset_days: 7
+  tasks:
+  - name: First week sales review
+    status: pending
+    description: Analyze BSR, sales, KU, ad performance
+  - name: Adjust ad spend
+    status: pending
+    description: Scale winners, pause losers based on CTR + comp-tracker surging alerts
+  - name: Request reviews
+    status: pending
+    description: Follow up with ARC readers who haven't reviewed
+  - name: Weekly comp BSR update
+    status: pending
+    description: Record new BSR snapshots for all comps. Check dashboard for declining comps to swap. Run every Friday.
+    tool: comp-tracker
+  - name: Plan sustained marketing
+    status: pending
+    description: Outline ongoing promotion strategy

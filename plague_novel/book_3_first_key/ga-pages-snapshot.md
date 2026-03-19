@@ -1,0 +1,454 @@
+- generic [ref=e4]:
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e12]: Analytics
+      - button "Open the universal picker." [ref=e15] [cursor=pointer]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e18]: All accounts
+            - img [ref=e19]: chevron_right
+            - generic [ref=e20]: Randy Pellegrini Author Site
+          - generic [ref=e21]:
+            - generic [ref=e23]: Randy Pellegrini Author Site
+            - img [ref=e24]: arrow_drop_down
+      - search [ref=e28]:
+        - img [ref=e29]: search
+        - textbox "Search" [ref=e31]:
+          - /placeholder: Try searching "how to create funnel"
+      - button "Switch products" [ref=e33] [cursor=pointer]:
+        - img [ref=e34]
+      - button "Ask Analytics Advisor" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]: button_magic
+      - button "Help entry menu" [ref=e43] [cursor=pointer]:
+        - img [ref=e44]: help
+      - button "Open the user account switcher panel." [ref=e48] [cursor=pointer]
+  - generic [ref=e51]:
+    - generic [ref=e55]:
+      - navigation "Main pages" [ref=e56]:
+        - link "Home" [ref=e58] [cursor=pointer]:
+          - img [ref=e59]:
+            - img [ref=e60]
+          - generic [ref=e63]: Home
+        - link "Reports" [ref=e66] [cursor=pointer]:
+          - img [ref=e67]: insert_chart_filled
+          - generic [ref=e68]: Reports
+        - link "Explore" [ref=e70] [cursor=pointer]:
+          - img [ref=e71]: data_exploration
+          - generic [ref=e72]: Explore
+        - link "Advertising" [ref=e74] [cursor=pointer]:
+          - img [ref=e75]: ads_click
+          - generic [ref=e76]: Advertising
+      - navigation "Settings pages" [ref=e77]:
+        - link "Admin" [ref=e79] [cursor=pointer]:
+          - img [ref=e80]: settings_filled
+          - generic [ref=e81]: Admin
+    - generic [ref=e1337]:
+      - main [ref=e1338]:
+        - generic [ref=e1339]:
+          - generic [ref=e1342]:
+            - generic [ref=e1963]:
+              - generic [ref=e1964]:
+                - generic [ref=e1965]:
+                  - button "All Users" [ref=e1968]:
+                    - generic [ref=e1972]:
+                      - generic [ref=e1973]: A
+                      - generic: All Users
+                  - button "Add comparison" [ref=e1975] [cursor=pointer]:
+                    - generic: Add comparison
+                    - img [ref=e1976]: add
+                - separator [ref=e1977]
+                - generic [ref=e1978]:
+                  - 'heading "Pages and screens: Page path and screen class" [level=1] [ref=e1980]':
+                    - 'button "Pages and screens: Page path and screen class" [ref=e1981]'
+                  - button "This report uses 100% of available data. Click to view more information." [ref=e1984] [cursor=pointer]:
+                    - img [ref=e1985]: check_circle
+                    - generic [ref=e1986]: This report uses 100% of available data. Click to view more information.
+                    - img [ref=e1987]: arrow_drop_down
+                  - button "Add filter" [ref=e1990] [cursor=pointer]:
+                    - generic: Add filter
+                    - img [ref=e1991]: add
+              - generic [ref=e1992]:
+                - combobox "Open date range picker" [ref=e1996] [cursor=pointer]:
+                  - generic [ref=e1998]:
+                    - generic [ref=e1999]: Last 28 days
+                    - generic [ref=e2000]: Feb 9 - Mar 8, 2026
+                  - img [ref=e2001]: arrow_drop_down
+                - separator [ref=e2004]
+              - generic [ref=e2008]:
+                - generic "View annotations" [ref=e2009]:
+                  - button "View annotations" [ref=e2010] [cursor=pointer]:
+                    - img [ref=e2012]:
+                      - img [ref=e2013]
+                - generic "Edit comparisons" [ref=e2017]:
+                  - button "Edit comparisons" [ref=e2018] [cursor=pointer]:
+                    - img [ref=e2020]:
+                      - img [ref=e2021]
+                - generic "Open this report as an exploration" [ref=e2027]:
+                  - button "Open this report as an exploration" [ref=e2028] [cursor=pointer]:
+                    - img [ref=e2030]: data_exploration
+                - generic "Share this report" [ref=e2033]:
+                  - button "Share this report" [ref=e2034] [cursor=pointer]:
+                    - img [ref=e2036]: share
+                - generic "Insights" [ref=e2039]:
+                  - button "Insights" [ref=e2040] [cursor=pointer]:
+                    - img [ref=e2042]:
+                      - img [ref=e2043]
+                - generic "Customize report" [ref=e2050]:
+                  - button "Customize report" [ref=e2051] [cursor=pointer]:
+                    - img [ref=e2053]: edit
+            - generic [ref=e1444]:
+              - generic [ref=e1448]:
+                - generic:
+                  - generic [ref=e1453]:
+                    - heading "Views by Page path and screen class over time" [level=2] [ref=e1455]
+                    - combobox "Date granularity selector" [ref=e1460] [cursor=pointer]:
+                      - generic [ref=e1461]:
+                        - generic [ref=e1463]: Day
+                        - img [ref=e1466]
+                  - img [ref=e1474]:
+                    - generic [ref=e1490]:
+                      - generic [ref=e1499]:
+                        - generic [ref=e1501]: 15Feb
+                        - generic [ref=e1503]: "22"
+                        - generic [ref=e1505]: 01Mar
+                        - generic [ref=e1507]: "08"
+                      - generic [ref=e1508]:
+                        - generic [ref=e1510]: "0"
+                        - generic [ref=e1512]: "100"
+                        - generic [ref=e1514]: "200"
+                        - generic [ref=e1516]: "300"
+                        - generic [ref=e1518]: "400"
+                        - generic [ref=e1520]: "500"
+                    - list [ref=e1565]:
+                      - listitem [ref=e1566]:
+                        - generic [ref=e1568]: Total
+                        - button "Highlight Total line" [pressed] [ref=e1569] [cursor=pointer]
+                      - listitem [ref=e1570]:
+                        - generic [ref=e1572]: /blog/i-built-a-free-keyword-tool.html
+                        - button "Highlight /blog/i-built-a-free-keyword-tool.html line" [pressed] [ref=e1573] [cursor=pointer]
+                      - listitem [ref=e1574]:
+                        - generic [ref=e1576]: /blog/i-built-a-free-keyword-tool/
+                        - button "Highlight /blog/i-built-a-free-keyword-tool/ line" [pressed] [ref=e1577] [cursor=pointer]
+                      - listitem [ref=e1578]:
+                        - generic [ref=e1580]: /
+                        - button "Highlight / line" [pressed] [ref=e1581] [cursor=pointer]
+                      - listitem [ref=e1582]:
+                        - generic [ref=e1584]: /books.html
+                        - button "Highlight /books.html line" [pressed] [ref=e1585] [cursor=pointer]
+                      - listitem [ref=e1586]:
+                        - generic [ref=e1588]: /blog.html
+                        - button "Highlight /blog.html line" [pressed] [ref=e1589] [cursor=pointer]
+              - generic [ref=e1594]:
+                - generic [ref=e1595]:
+                  - generic [ref=e1596]:
+                    - generic [ref=e1598]:
+                      - button "Plot rows" [disabled]:
+                        - generic: Plot rows
+                    - generic [ref=e1604]:
+                      - img [ref=e1606]: search
+                      - textbox "Search" [ref=e1608]:
+                        - /placeholder: Search…
+                      - generic: cancel
+                  - generic [ref=e1611]:
+                    - generic [ref=e1612]:
+                      - generic [ref=e1613]: "Rows per page:"
+                      - 'combobox "Rows per page: 10" [ref=e1618] [cursor=pointer]':
+                        - generic [ref=e1619]:
+                          - generic [ref=e1621]: "10"
+                          - img [ref=e1624]
+                    - generic [ref=e1626]:
+                      - generic "Go to a row" [ref=e1627]: "Go to:"
+                      - textbox "Go to a row" [ref=e1632]: "1"
+                    - button "Previous Page" [disabled]:
+                      - img: chevron_left
+                    - generic [ref=e1633]: 1-10 of 41
+                    - button "Next Page" [ref=e1634] [cursor=pointer]:
+                      - img [ref=e1635]: chevron_right
+                - grid "Report data." [ref=e1639]:
+                  - rowgroup [ref=e1640]:
+                    - row "selection column Checkbox for deselecting all rows Index Page path and screen class open dimensions picker Views Active users Views per active user Average engagement time per active user Event count All events Key events All events Total revenue" [ref=e1641]:
+                      - columnheader "selection column Checkbox for deselecting all rows" [ref=e1642]:
+                        - generic [ref=e1643]: selection column
+                        - generic [ref=e1647] [cursor=pointer]:
+                          - checkbox "Checkbox for deselecting all rows" [checked=mixed] [ref=e1649]
+                          - generic:
+                            - img
+                      - columnheader "Index" [ref=e1650]:
+                        - generic [ref=e1651]: Index
+                      - columnheader "Page path and screen class open dimensions picker" [ref=e1652] [cursor=pointer]:
+                        - button "Page path and screen class open dimensions picker" [ref=e1653]:
+                          - generic [ref=e1655]:
+                            - button "Page path and screen class" [ref=e1659]:
+                              - generic [ref=e1661]:
+                                - generic [ref=e1662]: Page path and screen class
+                                - text: Page path and screen class
+                              - img [ref=e1663]: arrow_drop_down
+                            - button "open dimensions picker" [ref=e1668]:
+                              - img [ref=e1669]: add
+                          - img [ref=e1673]
+                      - columnheader "Views" [ref=e1675] [cursor=pointer]:
+                        - button "Views" [ref=e1676]:
+                          - button "Views" [ref=e1679]
+                          - img [ref=e1681]
+                      - columnheader "Active users" [ref=e1683] [cursor=pointer]:
+                        - button "Active users" [ref=e1684]:
+                          - button "Active users" [ref=e1687]
+                          - img [ref=e1689]
+                      - columnheader "Views per active user" [ref=e1691] [cursor=pointer]:
+                        - button "Views per active user" [ref=e1692]:
+                          - button "Views per active user" [ref=e1695]
+                          - img [ref=e1697]
+                      - columnheader "Average engagement time per active user" [ref=e1699] [cursor=pointer]:
+                        - button "Average engagement time per active user" [ref=e1700]:
+                          - button "Average engagement time per active user" [ref=e1703]
+                          - img [ref=e1705]
+                      - columnheader "Event count All events" [ref=e1707] [cursor=pointer]:
+                        - button "Event count All events" [ref=e1708]:
+                          - generic [ref=e1709]:
+                            - button "Event count" [ref=e1710]
+                            - button "All events" [ref=e1713]:
+                              - generic [ref=e1715]:
+                                - generic [ref=e1716]: All events
+                                - text: All events
+                              - img [ref=e1717]: arrow_drop_down
+                          - img [ref=e1721]
+                      - columnheader "Key events All events" [ref=e1723] [cursor=pointer]:
+                        - button "Key events All events" [ref=e1724]:
+                          - generic [ref=e1725]:
+                            - button "Key events" [ref=e1726]
+                            - button "All events" [ref=e1729]:
+                              - generic [ref=e1731]:
+                                - generic [ref=e1732]: All events
+                                - text: All events
+                              - img [ref=e1733]: arrow_drop_down
+                          - img [ref=e1737]
+                      - columnheader "Total revenue" [ref=e1739] [cursor=pointer]:
+                        - button "Total revenue" [ref=e1740]:
+                          - button "Total revenue" [ref=e1743]
+                          - img [ref=e1745]
+                    - row "Checkbox for total row Empty Summary Totals cell for Empty Summary Totals cell for Index column Total 1,283 100% of total 732 100% of total 1.75 Avg 0% 44s Avg 0% 5,495 100% of total Empty Summary Totals cell for Key events column 0.00 Empty Summary Totals cell for Total revenue column $0.00" [ref=e1747]:
+                      - columnheader "Checkbox for total row Empty Summary Totals cell for" [ref=e1748]:
+                        - generic [ref=e1751] [cursor=pointer]:
+                          - checkbox "Checkbox for total row" [checked] [ref=e1753]
+                          - generic:
+                            - img
+                        - generic [ref=e1754]: Empty Summary Totals cell for
+                      - columnheader "Empty Summary Totals cell for Index column" [ref=e1755]:
+                        - generic [ref=e1756]: Empty Summary Totals cell for Index column
+                      - columnheader "Total" [ref=e1757]:
+                        - generic [ref=e1758]: Total
+                      - columnheader "1,283 100% of total" [ref=e1759]:
+                        - generic [ref=e1762]: 1,283
+                        - generic [ref=e1763]: 100% of total
+                      - columnheader "732 100% of total" [ref=e1764]:
+                        - generic [ref=e1767]: "732"
+                        - generic [ref=e1768]: 100% of total
+                      - columnheader "1.75 Avg 0%" [ref=e1769]:
+                        - generic [ref=e1772]: "1.75"
+                        - generic [ref=e1773]: Avg 0%
+                      - columnheader "44s Avg 0%" [ref=e1774]:
+                        - generic [ref=e1777]: 44s
+                        - generic [ref=e1778]: Avg 0%
+                      - columnheader "5,495 100% of total" [ref=e1779]:
+                        - generic [ref=e1782]: 5,495
+                        - generic [ref=e1783]: 100% of total
+                      - columnheader "Empty Summary Totals cell for Key events column 0.00" [ref=e1784]:
+                        - generic [ref=e1785]: Empty Summary Totals cell for Key events column
+                        - generic [ref=e1788]: "0.00"
+                      - columnheader "Empty Summary Totals cell for Total revenue column $0.00" [ref=e1790]:
+                        - generic [ref=e1791]: Empty Summary Totals cell for Total revenue column
+                        - generic [ref=e1794]: $0.00
+                  - rowgroup [ref=e1796]:
+                    - row "Checkbox for selecting row 1 1 /blog/i-built-a-free-keyword-tool.html 427 (33.28%) 344 (46.99%) 1.24 24s 2,265 (41.22%) 0.00 (–) $0.00 (–)" [ref=e1797]:
+                      - gridcell "Checkbox for selecting row 1" [ref=e1798]:
+                        - generic [ref=e1802] [cursor=pointer]:
+                          - checkbox "Checkbox for selecting row 1" [checked] [ref=e1804]
+                          - generic:
+                            - img
+                      - gridcell "1" [ref=e1805]
+                      - gridcell "/blog/i-built-a-free-keyword-tool.html" [ref=e1806]:
+                        - generic [ref=e1808]: /blog/i-built-a-free-keyword-tool.html
+                      - gridcell "427 (33.28%)" [ref=e1809]
+                      - gridcell "344 (46.99%)" [ref=e1810]
+                      - gridcell "1.24" [ref=e1811]
+                      - gridcell "24s" [ref=e1812]
+                      - gridcell "2,265 (41.22%)" [ref=e1813]
+                      - gridcell "0.00 (–)" [ref=e1814]
+                      - gridcell "$0.00 (–)" [ref=e1815]
+                    - row "Checkbox for selecting row 2 2 /blog/i-built-a-free-keyword-tool/ 337 (26.27%) 254 (34.7%) 1.33 30s 1,688 (30.72%) 0.00 (–) $0.00 (–)" [ref=e1816]:
+                      - gridcell "Checkbox for selecting row 2" [ref=e1817]:
+                        - generic [ref=e1821] [cursor=pointer]:
+                          - checkbox "Checkbox for selecting row 2" [checked] [ref=e1823]
+                          - generic:
+                            - img
+                      - gridcell "2" [ref=e1824]
+                      - gridcell /blog/i-built-a-free-keyword-tool/ [ref=e1825]:
+                        - generic [ref=e1827]: /blog/i-built-a-free-keyword-tool/
+                      - gridcell "337 (26.27%)" [ref=e1828]
+                      - gridcell "254 (34.7%)" [ref=e1829]
+                      - gridcell "1.33" [ref=e1830]
+                      - gridcell "30s" [ref=e1831]
+                      - gridcell "1,688 (30.72%)" [ref=e1832]
+                      - gridcell "0.00 (–)" [ref=e1833]
+                      - gridcell "$0.00 (–)" [ref=e1834]
+                    - row "Checkbox for selecting row 3 3 / 181 (14.11%) 131 (17.9%) 1.38 29s 629 (11.45%) 0.00 (–) $0.00 (–)" [ref=e1835]:
+                      - gridcell "Checkbox for selecting row 3" [ref=e1836]:
+                        - generic [ref=e1840] [cursor=pointer]:
+                          - checkbox "Checkbox for selecting row 3" [checked] [ref=e1842]
+                          - generic:
+                            - img
+                      - gridcell "3" [ref=e1843]
+                      - gridcell / [ref=e1844]:
+                        - generic [ref=e1846]: /
+                      - gridcell "181 (14.11%)" [ref=e1847]
+                      - gridcell "131 (17.9%)" [ref=e1848]
+                      - gridcell "1.38" [ref=e1849]
+                      - gridcell "29s" [ref=e1850]
+                      - gridcell "629 (11.45%)" [ref=e1851]
+                      - gridcell "0.00 (–)" [ref=e1852]
+                      - gridcell "$0.00 (–)" [ref=e1853]
+                    - row "Checkbox for selecting row 4 4 /books.html 70 (5.46%) 29 (3.96%) 2.41 49s 152 (2.77%) 0.00 (–) $0.00 (–)" [ref=e1854]:
+                      - gridcell "Checkbox for selecting row 4" [ref=e1855]:
+                        - generic [ref=e1859] [cursor=pointer]:
+                          - checkbox "Checkbox for selecting row 4" [checked] [ref=e1861]
+                          - generic:
+                            - img
+                      - gridcell "4" [ref=e1862]
+                      - gridcell "/books.html" [ref=e1863]:
+                        - generic [ref=e1865]: /books.html
+                      - gridcell "70 (5.46%)" [ref=e1866]
+                      - gridcell "29 (3.96%)" [ref=e1867]
+                      - gridcell "2.41" [ref=e1868]
+                      - gridcell "49s" [ref=e1869]
+                      - gridcell "152 (2.77%)" [ref=e1870]
+                      - gridcell "0.00 (–)" [ref=e1871]
+                      - gridcell "$0.00 (–)" [ref=e1872]
+                    - row "Checkbox for selecting row 5 5 /blog.html 40 (3.12%) 10 (1.37%) 4.00 1m 06s 103 (1.87%) 0.00 (–) $0.00 (–)" [ref=e1873]:
+                      - gridcell "Checkbox for selecting row 5" [ref=e1874]:
+                        - generic [ref=e1878] [cursor=pointer]:
+                          - checkbox "Checkbox for selecting row 5" [checked] [ref=e1880]
+                          - generic:
+                            - img
+                      - gridcell "5" [ref=e1881]
+                      - gridcell "/blog.html" [ref=e1882]:
+                        - generic [ref=e1884]: /blog.html
+                      - gridcell "40 (3.12%)" [ref=e1885]
+                      - gridcell "10 (1.37%)" [ref=e1886]
+                      - gridcell "4.00" [ref=e1887]
+                      - gridcell "1m 06s" [ref=e1888]
+                      - gridcell "103 (1.87%)" [ref=e1889]
+                      - gridcell "0.00 (–)" [ref=e1890]
+                      - gridcell "$0.00 (–)" [ref=e1891]
+                    - row "Checkbox for selecting row 6 6 /series.html 35 (2.73%) 6 (0.82%) 5.83 2m 43s 82 (1.49%) 0.00 (–) $0.00 (–)" [ref=e1892]:
+                      - gridcell "Checkbox for selecting row 6" [ref=e1893]:
+                        - generic [ref=e1894]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Checkbox for selecting row 6" [disabled]
+                                - generic:
+                                  - img
+                      - gridcell "6" [ref=e1895]
+                      - gridcell "/series.html" [ref=e1896]:
+                        - generic [ref=e1898]: /series.html
+                      - gridcell "35 (2.73%)" [ref=e1899]
+                      - gridcell "6 (0.82%)" [ref=e1900]
+                      - gridcell "5.83" [ref=e1901]
+                      - gridcell "2m 43s" [ref=e1902]
+                      - gridcell "82 (1.49%)" [ref=e1903]
+                      - gridcell "0.00 (–)" [ref=e1904]
+                      - gridcell "$0.00 (–)" [ref=e1905]
+                    - row "Checkbox for selecting row 7 7 /read-your-grounds.html 32 (2.49%) 8 (1.09%) 4.00 2m 51s 103 (1.87%) 0.00 (–) $0.00 (–)" [ref=e1906]:
+                      - gridcell "Checkbox for selecting row 7" [ref=e1907]:
+                        - generic [ref=e1908]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Checkbox for selecting row 7" [disabled]
+                                - generic:
+                                  - img
+                      - gridcell "7" [ref=e1909]
+                      - gridcell "/read-your-grounds.html" [ref=e1910]:
+                        - generic [ref=e1912]: /read-your-grounds.html
+                      - gridcell "32 (2.49%)" [ref=e1913]
+                      - gridcell "8 (1.09%)" [ref=e1914]
+                      - gridcell "4.00" [ref=e1915]
+                      - gridcell "2m 51s" [ref=e1916]
+                      - gridcell "103 (1.87%)" [ref=e1917]
+                      - gridcell "0.00 (–)" [ref=e1918]
+                      - gridcell "$0.00 (–)" [ref=e1919]
+                    - row "Checkbox for selecting row 8 8 /books/ 21 (1.64%) 12 (1.64%) 1.75 19s 46 (0.84%) 0.00 (–) $0.00 (–)" [ref=e1920]:
+                      - gridcell "Checkbox for selecting row 8" [ref=e1921]:
+                        - generic [ref=e1922]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Checkbox for selecting row 8" [disabled]
+                                - generic:
+                                  - img
+                      - gridcell "8" [ref=e1923]
+                      - gridcell /books/ [ref=e1924]:
+                        - generic [ref=e1926]: /books/
+                      - gridcell "21 (1.64%)" [ref=e1927]
+                      - gridcell "12 (1.64%)" [ref=e1928]
+                      - gridcell "1.75" [ref=e1929]
+                      - gridcell "19s" [ref=e1930]
+                      - gridcell "46 (0.84%)" [ref=e1931]
+                      - gridcell "0.00 (–)" [ref=e1932]
+                      - gridcell "$0.00 (–)" [ref=e1933]
+                    - row "Checkbox for selecting row 9 9 /reviews.html 21 (1.64%) 9 (1.23%) 2.33 32s 45 (0.82%) 0.00 (–) $0.00 (–)" [ref=e1934]:
+                      - gridcell "Checkbox for selecting row 9" [ref=e1935]:
+                        - generic [ref=e1936]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Checkbox for selecting row 9" [disabled]
+                                - generic:
+                                  - img
+                      - gridcell "9" [ref=e1937]
+                      - gridcell "/reviews.html" [ref=e1938]:
+                        - generic [ref=e1940]: /reviews.html
+                      - gridcell "21 (1.64%)" [ref=e1941]
+                      - gridcell "9 (1.23%)" [ref=e1942]
+                      - gridcell "2.33" [ref=e1943]
+                      - gridcell "32s" [ref=e1944]
+                      - gridcell "45 (0.82%)" [ref=e1945]
+                      - gridcell "0.00 (–)" [ref=e1946]
+                      - gridcell "$0.00 (–)" [ref=e1947]
+                    - row "Checkbox for selecting row 10 10 /read-your-grounds/ 15 (1.17%) 8 (1.09%) 1.88 1m 10s 46 (0.84%) 0.00 (–) $0.00 (–)" [ref=e1948]:
+                      - gridcell "Checkbox for selecting row 10" [ref=e1949]:
+                        - generic [ref=e1950]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Checkbox for selecting row 10" [disabled]
+                                - generic:
+                                  - img
+                      - gridcell "10" [ref=e1951]
+                      - gridcell /read-your-grounds/ [ref=e1952]:
+                        - generic [ref=e1954]: /read-your-grounds/
+                      - gridcell "15 (1.17%)" [ref=e1955]
+                      - gridcell "8 (1.09%)" [ref=e1956]
+                      - gridcell "1.88" [ref=e1957]
+                      - gridcell "1m 10s" [ref=e1958]
+                      - gridcell "46 (0.84%)" [ref=e1959]
+                      - gridcell "0.00 (–)" [ref=e1960]
+                      - gridcell "$0.00 (–)" [ref=e1961]
+          - generic [ref=e1478]:
+            - text: © 2026 Google |
+            - link "Analytics home" [ref=e1479] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/?hl=en-US
+            - text: "|"
+            - link "Terms of Service" [ref=e1480] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/tos.html?hl=en-US
+            - text: "|"
+            - link "Privacy Policy" [ref=e1481] [cursor=pointer]:
+              - /url: https://www.google.com/policies/privacy/?hl=en-US
+            - text: "|"
+            - button "Send feedback" [ref=e1482] [cursor=pointer]:
+              - img [ref=e1483]: feedback
+              - generic [ref=e1484]: Send feedback
+      - generic:
+        - complementary
+    - generic:
+      - button "Open context menu"

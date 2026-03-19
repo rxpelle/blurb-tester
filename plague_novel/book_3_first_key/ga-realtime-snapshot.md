@@ -1,0 +1,465 @@
+- generic [ref=e4]:
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e12]: Analytics
+      - button "Open the universal picker." [ref=e15] [cursor=pointer]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e18]: All accounts
+            - img [ref=e19]: chevron_right
+            - generic [ref=e20]: Randy Pellegrini Author Site
+          - generic [ref=e21]:
+            - generic [ref=e23]: Randy Pellegrini Author Site
+            - img [ref=e24]: arrow_drop_down
+      - search [ref=e28]:
+        - img [ref=e29]: search
+        - textbox "Search" [ref=e31]:
+          - /placeholder: Try searching "how to create funnel"
+      - button "Switch products" [ref=e33] [cursor=pointer]:
+        - img [ref=e34]
+      - button "Ask Analytics Advisor" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]: button_magic
+      - button "Help entry menu" [ref=e43] [cursor=pointer]:
+        - img [ref=e44]: help
+      - button "Open the user account switcher panel." [ref=e48] [cursor=pointer]
+  - generic [ref=e51]:
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - navigation "Main pages" [ref=e56]:
+          - link "Home" [ref=e58] [cursor=pointer]:
+            - img [ref=e59]:
+              - img [ref=e60]
+            - generic [ref=e63]: Home
+          - link "Reports" [ref=e66] [cursor=pointer]:
+            - img [ref=e67]: insert_chart_filled
+            - generic [ref=e68]: Reports
+          - link "Explore" [ref=e70] [cursor=pointer]:
+            - img [ref=e71]: data_exploration
+            - generic [ref=e72]: Explore
+          - link "Advertising" [ref=e74] [cursor=pointer]:
+            - img [ref=e75]: ads_click
+            - generic [ref=e76]: Advertising
+        - navigation "Settings pages" [ref=e77]:
+          - link "Admin" [ref=e79] [cursor=pointer]:
+            - img [ref=e80]: settings_filled
+            - generic [ref=e81]: Admin
+      - generic [ref=e3290]:
+        - tree [ref=e4821]:
+          - treeitem "Reports snapshot" [level=1] [ref=e4822]:
+            - button "Reports snapshot" [ref=e4824] [cursor=pointer]:
+              - generic [ref=e4827]: Reports snapshot
+          - treeitem "Realtime overview" [level=1] [ref=e4830]:
+            - button "Realtime overview" [ref=e4832] [cursor=pointer]:
+              - generic [ref=e4835]: Realtime overview
+          - treeitem "Realtime pages" [level=1] [ref=e4838]:
+            - button "Realtime pages" [ref=e4840] [cursor=pointer]:
+              - generic [ref=e4843]: Realtime pages
+          - treeitem "Business objectives" [expanded] [level=1] [ref=e4846]:
+            - generic [ref=e4847]:
+              - separator [ref=e4848]
+              - button "Business objectives" [ref=e4849] [cursor=pointer]:
+                - generic [ref=e4852]:
+                  - generic [ref=e4853]: Business objectives
+                  - img [ref=e4854]: keyboard_arrow_up
+          - treeitem "Generate leads" [level=2] [ref=e4857]:
+            - button "Generate leads" [ref=e4859] [cursor=pointer]:
+              - generic [ref=e4861]:
+                - img [ref=e4862]: arrow_right
+                - generic [ref=e4863]: Generate leads
+          - treeitem "Drive sales" [level=2] [ref=e4866]:
+            - button "Drive sales" [ref=e4868] [cursor=pointer]:
+              - generic [ref=e4870]:
+                - img [ref=e4871]: arrow_right
+                - generic [ref=e4872]: Drive sales
+          - treeitem "Understand web and/or app traffic" [level=2] [ref=e4875]:
+            - button "Understand web and/or app traffic" [ref=e4877] [cursor=pointer]:
+              - generic [ref=e4879]:
+                - img [ref=e4880]: arrow_right
+                - generic [ref=e4881]: Understand web and/or app traffic
+          - treeitem "View user engagement & retention" [level=2] [ref=e4884]:
+            - button "View user engagement & retention" [ref=e4886] [cursor=pointer]:
+              - generic [ref=e4888]:
+                - img [ref=e4889]: arrow_right
+                - generic [ref=e4890]: View user engagement & retention
+          - treeitem "User" [expanded] [level=1] [ref=e4893]:
+            - generic [ref=e4894]:
+              - separator [ref=e4895]
+              - button "User" [ref=e4896] [cursor=pointer]:
+                - generic [ref=e4899]:
+                  - generic [ref=e4900]: User
+                  - img [ref=e4901]: keyboard_arrow_up
+          - treeitem "User attributes" [level=2] [ref=e4904]:
+            - button "User attributes" [ref=e4906] [cursor=pointer]:
+              - generic [ref=e4908]:
+                - img [ref=e4909]: arrow_right
+                - generic [ref=e4910]: User attributes
+          - treeitem "Tech" [level=2] [ref=e4913]:
+            - button "Tech" [ref=e4915] [cursor=pointer]:
+              - generic [ref=e4917]:
+                - img [ref=e4918]: arrow_right
+                - generic [ref=e4919]: Tech
+        - navigation "Other pages" [ref=e4922]:
+          - button "Library" [ref=e4924] [cursor=pointer]:
+            - generic [ref=e4926]:
+              - img [ref=e4928]: folder
+              - generic [ref=e4929]: Library
+        - separator [ref=e4932]
+      - button "Nav toggle" [expanded] [ref=e4934] [cursor=pointer]:
+        - img [ref=e4935]: keyboard_arrow_left
+    - generic [ref=e6055]:
+      - main [ref=e6056]:
+        - generic [ref=e6057]:
+          - generic [ref=e6061]:
+            - generic [ref=e6062]:
+              - generic:
+                - generic [ref=e6063]:
+                  - button "All Users" [ref=e6066]:
+                    - generic [ref=e6070]:
+                      - generic [ref=e6071]: A
+                      - generic [ref=e6072]: All Users
+                  - button "Add comparison" [ref=e6074] [cursor=pointer]:
+                    - generic [ref=e6075]: Add comparison
+                    - img [ref=e6076]: add
+                - separator
+                - generic:
+                  - generic [ref=e6077]:
+                    - heading "Realtime overview" [active] [level=1] [ref=e6079]:
+                      - button "Realtime overview" [ref=e6080]
+                    - button "This report uses 100% of available data. Click to view more information." [ref=e6083] [cursor=pointer]:
+                      - img [ref=e6084]: check_circle
+                      - generic [ref=e6085]: This report uses 100% of available data. Click to view more information.
+                      - img [ref=e6086]: arrow_drop_down
+                  - generic [ref=e6091]:
+                    - button "View user snapshot" [ref=e6093] [cursor=pointer]:
+                      - generic [ref=e6095]:
+                        - img [ref=e6096]:
+                          - img [ref=e6097]
+                        - generic [ref=e6105]: View user snapshot
+                    - generic "Full screen" [ref=e6108]:
+                      - button "Full screen" [ref=e6109] [cursor=pointer]:
+                        - img [ref=e6111]: fullscreen
+                    - generic "Edit comparisons" [ref=e6114]:
+                      - button "Edit comparisons" [ref=e6115] [cursor=pointer]:
+                        - img [ref=e6117]:
+                          - img [ref=e6118]
+                    - generic "Share this report" [ref=e6124]:
+                      - button "Share this report" [ref=e6125] [cursor=pointer]:
+                        - img [ref=e6127]: share
+              - text: add check_circle arrow_drop_down fullscreen share
+            - generic [ref=e6133]:
+              - generic [ref=e6137]:
+                - generic:
+                  - generic [ref=e6142]:
+                    - button "Active users in last 30 minutes" [ref=e6144]
+                    - generic [ref=e6145]: "4"
+                  - generic [ref=e6150]:
+                    - button "Active users in last 5 minutes" [ref=e6152]
+                    - generic [ref=e6153]: "0"
+                  - generic [ref=e6159]: Active users per minute
+                  - img [ref=e6164]:
+                    - generic [ref=e6165]:
+                      - generic [ref=e6167]:
+                        - generic [ref=e6169]: "1"
+                        - generic [ref=e6171]: "2"
+                      - generic [ref=e6172]:
+                        - generic [ref=e6174]: "-30 min"
+                        - generic [ref=e6176]: "-25 min"
+                        - generic [ref=e6178]: "-20 min"
+                        - generic [ref=e6180]: "-15 min"
+                        - generic [ref=e6182]: "-10 min"
+                        - generic [ref=e6184]: "-5 min"
+                        - generic [ref=e6186]: "-1 min"
+                      - listbox "1 2 -30 min -25 min -20 min -15 min -10 min -5 min -1 min" [ref=e6187]
+              - generic [ref=e6254]:
+                - img
+                - generic [ref=e6256]:
+                  - generic:
+                    - button "Keyboard shortcuts"
+                  - region "Map" [ref=e6257]
+                  - generic [ref=e6258]:
+                    - iframe [ref=e6350]:
+                      
+                    - generic [ref=e6352] [cursor=pointer]:
+                      - button "Zoom in" [ref=e6353]
+                      - button "Zoom out" [disabled] [ref=e6355]
+                    - generic [ref=e6356]:
+                      - button "Keyboard shortcuts" [ref=e6362] [cursor=pointer]
+                      - generic [ref=e6367]: Map data ©2026
+                      - link "Terms (opens in new tab)" [ref=e6372] [cursor=pointer]:
+                        - /url: https://www.google.com/intl/en-US_US/help/terms_maps.html
+                        - text: Terms
+              - generic [ref=e6376]:
+                - generic:
+                  - generic [ref=e6381]:
+                    - generic "Active users" [ref=e6382]:
+                      - button "Active users" [ref=e6383]
+                    - text: by
+                    - generic "First user source" [ref=e6384]:
+                      - combobox "Dimensions" [ref=e6385]:
+                        - generic [ref=e6386] [cursor=pointer]:
+                          - generic [ref=e6388]: First user source
+                          - img [ref=e6391]
+                  - generic [ref=e6397]:
+                    - generic [ref=e6398]:
+                      - generic [ref=e6399]: "#1"
+                      - generic [ref=e6400]:
+                        - generic [ref=e6402]: "-"
+                        - generic [ref=e6403]:
+                          - generic [ref=e6406]: "-"
+                          - img [ref=e6409]:
+                            - generic [ref=e6410]:
+                              - listbox "No data available"
+                              - generic [ref=e6414]: No data available
+                    - generic [ref=e6418]:
+                      - table [ref=e6419]:
+                        - row "First user source Active users" [ref=e6420]:
+                          - columnheader "First user source" [ref=e6421]:
+                            - button "First user source" [ref=e6422]
+                          - columnheader "Active users" [ref=e6423]:
+                            - button "Active users" [ref=e6424]
+                      - generic [ref=e6425]: No data available
+                      - table:
+                        - row
+              - generic [ref=e6429]:
+                - generic:
+                  - generic [ref=e6434]:
+                    - generic "Active users" [ref=e6435]:
+                      - combobox "Metrics" [ref=e6436]:
+                        - generic [ref=e6437] [cursor=pointer]:
+                          - generic [ref=e6439]: Active users
+                          - img [ref=e6442]
+                    - text: by
+                    - generic "Audience" [ref=e6444]:
+                      - button "Audience" [ref=e6445]
+                  - generic [ref=e6450]:
+                    - generic [ref=e6451]:
+                      - generic [ref=e6452]: "#1"
+                      - generic [ref=e6453]:
+                        - generic [ref=e6456]:
+                          - generic [ref=e6457]: All Users
+                          - generic [ref=e6458]: All Users
+                        - generic [ref=e6459]:
+                          - generic [ref=e6460]:
+                            - generic [ref=e6461]: "4"
+                            - generic [ref=e6462]: 100%
+                          - img [ref=e6465]:
+                            - listbox [ref=e6467]
+                    - generic [ref=e6532]:
+                      - table [ref=e6533]:
+                        - row "Audience Active users" [ref=e6534]:
+                          - columnheader "Audience" [ref=e6535]:
+                            - button "Audience" [ref=e6536]
+                          - columnheader "Active users" [ref=e6537]:
+                            - button "Active users" [ref=e6538]
+                        - row "All Users 4" [ref=e6539]:
+                          - cell "All Users" [ref=e6540]
+                          - cell "4" [ref=e6541]
+                      - group [ref=e6542]:
+                        - generic [ref=e6545]:
+                          - status [ref=e6546]: 1 – 1 of 1
+                          - button "Previous page" [disabled] [ref=e6547]:
+                            - img [ref=e6548]
+                          - button "Next page" [disabled] [ref=e6552]:
+                            - img [ref=e6553]
+                      - table:
+                        - row:
+                          - columnheader
+                        - row:
+                          - cell
+              - generic [ref=e6560]:
+                - generic:
+                  - generic [ref=e6565]:
+                    - generic "Views" [ref=e6566]:
+                      - button "Views" [ref=e6567]
+                    - text: by
+                    - generic "Page title and screen name" [ref=e6568]:
+                      - button "Page title and screen name" [ref=e6569]
+                  - generic [ref=e6574]:
+                    - generic [ref=e6575]:
+                      - generic [ref=e6576]: "#1"
+                      - generic [ref=e6577]:
+                        - generic [ref=e6580]:
+                          - generic [ref=e6581]: I Built a Free Keyword Research Tool for Authors | Randy Pellegrini
+                          - generic [ref=e6582]: I Built a Free Keyword Research Tool for Authors | Randy Pellegrini
+                        - generic [ref=e6583]:
+                          - generic [ref=e6584]:
+                            - generic [ref=e6585]: "3"
+                            - generic [ref=e6586]: 60%
+                          - img [ref=e6589]:
+                            - listbox [ref=e6591]
+                    - generic [ref=e6656]:
+                      - table [ref=e6657]:
+                        - row "Page title and screen name Views" [ref=e6658]:
+                          - columnheader "Page title and screen name" [ref=e6659]:
+                            - button "Page title and screen name" [ref=e6660]
+                          - columnheader "Views" [ref=e6661]:
+                            - button "Views" [ref=e6662]
+                        - row "I Built a Free Keyword Research Tool for Authors | Randy Pellegrini 3" [ref=e6663]:
+                          - cell "I Built a Free Keyword Research Tool for Authors | Randy Pellegrini" [ref=e6664]
+                          - cell "3" [ref=e6665]
+                        - row "All Books | The Architecture of Survival | Randy Pellegrini 1" [ref=e6666]:
+                          - cell "All Books | The Architecture of Survival | Randy Pellegrini" [ref=e6667]
+                          - cell "1" [ref=e6668]
+                        - row "Randy Pellegrini | Official Site 1" [ref=e6669]:
+                          - cell "Randy Pellegrini | Official Site" [ref=e6670]
+                          - cell "1" [ref=e6671]
+                      - group [ref=e6672]:
+                        - generic [ref=e6675]:
+                          - status [ref=e6676]: 1 – 3 of 3
+                          - button "Previous page" [disabled] [ref=e6677]:
+                            - img [ref=e6678]
+                          - button "Next page" [disabled] [ref=e6682]:
+                            - img [ref=e6683]
+                      - table:
+                        - row:
+                          - columnheader
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+              - generic [ref=e6690]:
+                - generic:
+                  - generic [ref=e6695]:
+                    - generic "Event count" [ref=e6696]:
+                      - button "Event count" [ref=e6697]
+                    - text: by
+                    - generic "Event name" [ref=e6698]:
+                      - button "Event name" [ref=e6699]
+                  - generic [ref=e6704]:
+                    - generic [ref=e6705]:
+                      - generic [ref=e6706]: "#1"
+                      - generic [ref=e6707]:
+                        - generic [ref=e6710]:
+                          - generic [ref=e6711]: page_view
+                          - generic [ref=e6712]: page_view
+                        - generic [ref=e6713]:
+                          - generic [ref=e6714]:
+                            - generic [ref=e6715]: "5"
+                            - generic [ref=e6716]: 27.78%
+                          - img [ref=e6719]:
+                            - listbox [ref=e6721]
+                    - generic [ref=e6786]:
+                      - table [ref=e6787]:
+                        - row "Event name Event count" [ref=e6788]:
+                          - columnheader "Event name" [ref=e6789]:
+                            - button "Event name" [ref=e6790]
+                          - columnheader "Event count" [ref=e6791]:
+                            - button "Event count" [ref=e6792]
+                        - row "Press enter to drill down" [ref=e6793]:
+                          - cell "page_view" [ref=e6794]
+                          - cell "5" [ref=e6795]
+                        - row "Press enter to drill down" [ref=e6796]:
+                          - cell "first_visit" [ref=e6797]
+                          - cell "3" [ref=e6798]
+                        - row "Press enter to drill down" [ref=e6799]:
+                          - cell "session_start" [ref=e6800]
+                          - cell "3" [ref=e6801]
+                        - row "Press enter to drill down" [ref=e6802]:
+                          - cell "amazon_click" [ref=e6803]
+                          - cell "2" [ref=e6804]
+                        - row "Press enter to drill down" [ref=e6805]:
+                          - cell "click" [ref=e6806]
+                          - cell "2" [ref=e6807]
+                        - row "Press enter to drill down" [ref=e6808]:
+                          - cell "user_engagement" [ref=e6809]
+                          - cell "2" [ref=e6810]
+                      - group [ref=e6811]:
+                        - generic [ref=e6814]:
+                          - status [ref=e6815]: 1 – 6 of 7
+                          - button "Previous page" [disabled] [ref=e6816]:
+                            - img [ref=e6817]
+                          - button "Next page" [ref=e6821] [cursor=pointer]:
+                            - img [ref=e6822]
+                      - table:
+                        - row:
+                          - columnheader
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+                        - row:
+                          - cell
+              - generic [ref=e6829]:
+                - generic:
+                  - generic [ref=e6834]:
+                    - generic "Key events" [ref=e6835]:
+                      - button "Key events" [ref=e6836]
+                    - text: by
+                    - generic "Event name" [ref=e6837]:
+                      - button "Event name" [ref=e6838]
+                  - generic [ref=e6843]:
+                    - generic [ref=e6844]:
+                      - generic [ref=e6845]: "#1"
+                      - generic [ref=e6846]:
+                        - generic [ref=e6848]: "-"
+                        - generic [ref=e6849]:
+                          - generic [ref=e6852]: "-"
+                          - img [ref=e6855]:
+                            - generic [ref=e6856]:
+                              - listbox "No data available"
+                              - generic [ref=e6860]: No data available
+                    - generic [ref=e6864]:
+                      - table [ref=e6865]:
+                        - row "Event name Key events" [ref=e6866]:
+                          - columnheader "Event name" [ref=e6867]:
+                            - button "Event name" [ref=e6868]
+                          - columnheader "Key events" [ref=e6869]:
+                            - button "Key events" [ref=e6870]
+                      - generic [ref=e6871]: No data available
+                      - table:
+                        - row
+              - generic [ref=e6875]:
+                - generic:
+                  - generic [ref=e6880]:
+                    - generic "Active users" [ref=e6881]:
+                      - button "Active users" [ref=e6882]
+                    - text: by
+                    - generic "User property" [ref=e6883]:
+                      - button "User property" [ref=e6884]
+                  - generic [ref=e6889]:
+                    - generic [ref=e6890]:
+                      - generic [ref=e6891]: "#1"
+                      - generic [ref=e6892]:
+                        - generic [ref=e6894]: "-"
+                        - generic [ref=e6895]:
+                          - generic [ref=e6898]: "-"
+                          - img [ref=e6901]:
+                            - generic [ref=e6902]:
+                              - listbox "No data available"
+                              - generic [ref=e6906]: No data available
+                    - generic [ref=e6910]:
+                      - table [ref=e6911]:
+                        - row "User property Active users" [ref=e6912]:
+                          - columnheader "User property" [ref=e6913]:
+                            - button "User property" [ref=e6914]
+                          - columnheader "Active users" [ref=e6915]:
+                            - button "Active users" [ref=e6916]
+                      - generic [ref=e6917]: No data available
+                      - table:
+                        - row
+          - generic [ref=e6919]:
+            - text: © 2026 Google |
+            - link "Analytics home" [ref=e6920] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/?hl=en-US
+            - text: "|"
+            - link "Terms of Service" [ref=e6921] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/tos.html?hl=en-US
+            - text: "|"
+            - link "Privacy Policy" [ref=e6922] [cursor=pointer]:
+              - /url: https://www.google.com/policies/privacy/?hl=en-US
+            - text: "|"
+            - button "Send feedback" [ref=e6923] [cursor=pointer]:
+              - img [ref=e6924]: feedback
+              - generic [ref=e6925]: Send feedback
+      - generic:
+        - complementary
+    - generic:
+      - button "Open context menu"

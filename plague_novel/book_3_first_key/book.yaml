@@ -1,0 +1,17 @@
+title: "The First Key"
+author: "Randy Pellegrini"
+manuscript: "chapters_v2/"
+output: "output/"
+style: default
+
+series:
+  name: "The Architecture of Survival"
+  number: 3
+
+print:
+  trim: "5.5x8.5"
+
+typography:
+  body_font: "Palatino"
+  body_size: 11
+  line_spacing: 1.15

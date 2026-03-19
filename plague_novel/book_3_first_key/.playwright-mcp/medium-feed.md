@@ -1,0 +1,1508 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - tooltip "Sidebar menu" [ref=e9]:
+        - button "Sidebar menu" [ref=e11] [cursor=pointer]:
+          - generic [ref=e12]: Sidebar menu
+          - img [ref=e13]
+      - link "Homepage" [ref=e16] [cursor=pointer]:
+        - /url: /?source=home---two_column_layout_nav-----------------------------------------
+        - img "Medium Logo" [ref=e17]
+      - generic [ref=e20]:
+        - listbox
+        - img [ref=e22]
+        - combobox "search" [ref=e24]
+    - link "Write" [ref=e26] [cursor=pointer]:
+      - /url: https://medium.com/new-story?source=home---two_column_layout_nav-----------------------------------------
+      - generic [ref=e27]:
+        - img [ref=e28]
+        - text: Write
+    - tooltip "Notifications" [ref=e33]:
+      - link "Notifications" [ref=e35] [cursor=pointer]:
+        - /url: /me/notifications?source=home---two_column_layout_nav-----------------------------------------
+        - generic [ref=e36]:
+          - img [ref=e37]
+          - generic [ref=e40]: Notifications
+    - tooltip "user options menu" [ref=e43]:
+      - button "user options menu" [ref=e45] [cursor=pointer]:
+        - generic [ref=e46]:
+          - img "randy pellegrini" [ref=e48]
+          - img [ref=e50]
+  - generic [ref=e55]:
+    - main [ref=e56]:
+      - generic [ref=e255]:
+        - generic [ref=e262]:
+          - tablist [ref=e263]:
+            - tooltip "For you" [ref=e267]:
+              - tab "For you" [ref=e269] [cursor=pointer]:
+                - button "For you" [ref=e271]
+            - tooltip "Featured" [ref=e275]:
+              - tab "Featured" [ref=e277] [cursor=pointer]:
+                - button "Featured" [ref=e279]
+          - generic:
+            - button "next sections":
+              - img
+          - generic:
+            - button "previous sections":
+              - img
+        - generic [ref=e281]:
+          - article [ref=e285]:
+            - link "AI Software Engineer In AI Software Engineer by Joe Njenga 5 OpenClaw Alternatives That Are Getting Better By the Day We all thought OpenClaw won the personal assistant race despite the initial flaws. Member-only story Mar 2 A clap icon 785 A response icon 12 I'm not interested in this story Add to list bookmark button More options OpenClaw Alternatives" [ref=e292]:
+              - generic [ref=e293]:
+                - generic [ref=e295]:
+                  - tooltip "AI Software Engineer" [ref=e298]:
+                    - link "AI Software Engineer" [ref=e300] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------0-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "AI Software Engineer" [ref=e302]
+                  - paragraph [ref=e305]: In
+                  - tooltip "AI Software Engineer" [ref=e308]:
+                    - link "AI Software Engineer" [ref=e310] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------0-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e311]: AI Software Engineer
+                  - paragraph [ref=e313]: by
+                  - tooltip "Joe Njenga" [ref=e315]:
+                    - link "Joe Njenga" [ref=e317] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home_for_you---------0-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e318]: Joe Njenga
+                - generic [ref=e319]:
+                  - generic [ref=e320]:
+                    - link "5 OpenClaw Alternatives That Are Getting Better By the Day We all thought OpenClaw won the personal assistant race despite the initial flaws." [ref=e322] [cursor=pointer]:
+                      - /url: /ai-software-engineer/5-openclaw-alternatives-that-are-getting-better-by-the-day-4d1e5e164c00?source=home_for_you---------0-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "5 OpenClaw Alternatives That Are Getting Better By the Day" [level=2] [ref=e323]
+                      - heading "We all thought OpenClaw won the personal assistant race despite the initial flaws." [level=3] [ref=e325]
+                    - generic [ref=e329]:
+                      - generic [ref=e330]:
+                        - button "Member-only story" [ref=e332] [cursor=pointer]:
+                          - tooltip [ref=e335]:
+                            - img [ref=e337]
+                        - generic [ref=e339]: Mar 2
+                        - link "A clap icon 785 A response icon 12" [ref=e344] [cursor=pointer]:
+                          - /url: /ai-software-engineer/5-openclaw-alternatives-that-are-getting-better-by-the-day-4d1e5e164c00?source=home_for_you---------0-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 785" [ref=e346]:
+                            - generic [ref=e348]:
+                              - img "A clap icon" [ref=e349]
+                              - generic [ref=e351]: "785"
+                          - tooltip "A response icon 12" [ref=e353]:
+                            - generic [ref=e355]:
+                              - img "A response icon" [ref=e356]
+                              - generic [ref=e358]: "12"
+                      - generic [ref=e359]:
+                        - tooltip "I'm not interested in this story" [ref=e361]:
+                          - button "I'm not interested in this story" [ref=e363] [cursor=pointer]:
+                            - img [ref=e364]
+                        - tooltip "Add to list bookmark button" [ref=e368]:
+                          - button "Add to list bookmark button" [ref=e371] [cursor=pointer]:
+                            - img [ref=e372]
+                        - tooltip "More options" [ref=e378]:
+                          - button "More options" [ref=e380] [cursor=pointer]:
+                            - img [ref=e381]
+                  - generic "OpenClaw Alternatives" [ref=e384]:
+                    - img "OpenClaw Alternatives" [ref=e386]
+          - article [ref=e391]:
+            - link "AWS in Plain English In AWS in Plain English by Vivek V I’ve Been a Costco Member for 25 Years. Last Month I Built an AI Agent to Get My Money Back The whole thing runs serverless for under a dollar a month. Feb 13 A clap icon 603 A response icon 25 I'm not interested in this story Add to list bookmark button More options I’ve Been a Costco Member for 25 Years. Last Month I Built an AI Agent to Get My Money Back" [ref=e398]:
+              - generic [ref=e399]:
+                - generic [ref=e401]:
+                  - tooltip "AWS in Plain English" [ref=e404]:
+                    - link "AWS in Plain English" [ref=e406] [cursor=pointer]:
+                      - /url: https://medium.com/aws-in-plain-english?source=home_for_you---------1-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "AWS in Plain English" [ref=e408]
+                  - paragraph [ref=e411]: In
+                  - tooltip "AWS in Plain English" [ref=e414]:
+                    - link "AWS in Plain English" [ref=e416] [cursor=pointer]:
+                      - /url: https://medium.com/aws-in-plain-english?source=home_for_you---------1-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e417]: AWS in Plain English
+                  - paragraph [ref=e419]: by
+                  - tooltip "Vivek V" [ref=e421]:
+                    - link "Vivek V" [ref=e423] [cursor=pointer]:
+                      - /url: /@vivek-aws?source=home_for_you---------1-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e424]: Vivek V
+                - generic [ref=e425]:
+                  - generic [ref=e426]:
+                    - link "I’ve Been a Costco Member for 25 Years. Last Month I Built an AI Agent to Get My Money Back The whole thing runs serverless for under a dollar a month." [ref=e428] [cursor=pointer]:
+                      - /url: /aws-in-plain-english/ive-been-a-costco-member-for-25-years-last-month-i-built-an-ai-agent-to-get-my-money-back-09ed903751b0?source=home_for_you---------1-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "I’ve Been a Costco Member for 25 Years. Last Month I Built an AI Agent to Get My Money Back" [level=2] [ref=e429]
+                      - heading "The whole thing runs serverless for under a dollar a month." [level=3] [ref=e431]
+                    - generic [ref=e435]:
+                      - generic [ref=e436]:
+                        - generic [ref=e437]: Feb 13
+                        - link "A clap icon 603 A response icon 25" [ref=e442] [cursor=pointer]:
+                          - /url: /aws-in-plain-english/ive-been-a-costco-member-for-25-years-last-month-i-built-an-ai-agent-to-get-my-money-back-09ed903751b0?source=home_for_you---------1-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 603" [ref=e444]:
+                            - generic [ref=e446]:
+                              - img "A clap icon" [ref=e447]
+                              - generic [ref=e449]: "603"
+                          - tooltip "A response icon 25" [ref=e451]:
+                            - generic [ref=e453]:
+                              - img "A response icon" [ref=e454]
+                              - generic [ref=e456]: "25"
+                      - generic [ref=e457]:
+                        - tooltip "I'm not interested in this story" [ref=e459]:
+                          - button "I'm not interested in this story" [ref=e461] [cursor=pointer]:
+                            - img [ref=e462]
+                        - tooltip "Add to list bookmark button" [ref=e466]:
+                          - button "Add to list bookmark button" [ref=e469] [cursor=pointer]:
+                            - img [ref=e470]
+                        - tooltip "More options" [ref=e476]:
+                          - button "More options" [ref=e478] [cursor=pointer]:
+                            - img [ref=e479]
+                  - generic "I’ve Been a Costco Member for 25 Years. Last Month I Built an AI Agent to Get My Money Back" [ref=e482]:
+                    - img "I’ve Been a Costco Member for 25 Years. Last Month I Built an AI Agent to Get My Money Back" [ref=e484]
+          - article [ref=e489]:
+            - 'link "Paweł Huryn Paweł Huryn Claude Cowork: The Complete Guide for PMs Cowork just dropped for Windows and Intel-based macOS with full feature parity. Here’s everything you need — skills, plugins, MCPs, and… Feb 25 A clap icon 262 A response icon 5 I''m not interested in this story Add to list bookmark button More options Claude Cowork: The Complete Guide for PMs" [ref=e496]':
+              - generic [ref=e497]:
+                - generic [ref=e499]:
+                  - tooltip "Paweł Huryn" [ref=e503]:
+                    - link "Paweł Huryn" [ref=e505] [cursor=pointer]:
+                      - /url: /@huryn?source=home_for_you---------2-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Paweł Huryn" [ref=e507]
+                  - tooltip "Paweł Huryn" [ref=e510]:
+                    - link "Paweł Huryn" [ref=e512] [cursor=pointer]:
+                      - /url: /@huryn?source=home_for_you---------2-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e513]: Paweł Huryn
+                - generic [ref=e514]:
+                  - generic [ref=e515]:
+                    - 'link "Claude Cowork: The Complete Guide for PMs Cowork just dropped for Windows and Intel-based macOS with full feature parity. Here’s everything you need — skills, plugins, MCPs, and…" [ref=e517] [cursor=pointer]':
+                      - /url: /@huryn/claude-cowork-the-complete-guide-for-pms-e45e7cf0f52d?source=home_for_you---------2-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - 'heading "Claude Cowork: The Complete Guide for PMs" [level=2] [ref=e518]'
+                      - heading "Cowork just dropped for Windows and Intel-based macOS with full feature parity. Here’s everything you need — skills, plugins, MCPs, and…" [level=3] [ref=e520]
+                    - generic [ref=e524]:
+                      - generic [ref=e525]:
+                        - generic [ref=e526]: Feb 25
+                        - link "A clap icon 262 A response icon 5" [ref=e531] [cursor=pointer]:
+                          - /url: /@huryn/claude-cowork-the-complete-guide-for-pms-e45e7cf0f52d?source=home_for_you---------2-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 262" [ref=e533]:
+                            - generic [ref=e535]:
+                              - img "A clap icon" [ref=e536]
+                              - generic [ref=e538]: "262"
+                          - tooltip "A response icon 5" [ref=e540]:
+                            - generic [ref=e542]:
+                              - img "A response icon" [ref=e543]
+                              - generic [ref=e545]: "5"
+                      - generic [ref=e546]:
+                        - tooltip "I'm not interested in this story" [ref=e548]:
+                          - button "I'm not interested in this story" [ref=e550] [cursor=pointer]:
+                            - img [ref=e551]
+                        - tooltip "Add to list bookmark button" [ref=e555]:
+                          - button "Add to list bookmark button" [ref=e558] [cursor=pointer]:
+                            - img [ref=e559]
+                        - tooltip "More options" [ref=e565]:
+                          - button "More options" [ref=e567] [cursor=pointer]:
+                            - img [ref=e568]
+                  - 'generic "Claude Cowork: The Complete Guide for PMs" [ref=e571]':
+                    - 'img "Claude Cowork: The Complete Guide for PMs" [ref=e573]'
+          - article [ref=e578]:
+            - 'link "Agent Native Agent Native Qwen 3.5 35B-A3B: Why Your $800 GPU Just Became a Frontier Class AI Workstation I have been running local models for a while now, and I thought I had a pretty good sense of where the ceiling was for consumer hardware. Member-only story Mar 1 A clap icon 669 A response icon 14 I''m not interested in this story Add to list bookmark button More options Qwen 3.5 35B-A3B: Why Your $800 GPU Just Became a Frontier Class AI Workstation" [ref=e585]':
+              - generic [ref=e586]:
+                - generic [ref=e588]:
+                  - tooltip "Agent Native" [ref=e592]:
+                    - link "Agent Native" [ref=e594] [cursor=pointer]:
+                      - /url: /@agentnativedev?source=home_for_you---------3-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Agent Native" [ref=e596]
+                  - tooltip "Agent Native" [ref=e599]:
+                    - link "Agent Native" [ref=e601] [cursor=pointer]:
+                      - /url: /@agentnativedev?source=home_for_you---------3-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e602]: Agent Native
+                - generic [ref=e603]:
+                  - generic [ref=e604]:
+                    - 'link "Qwen 3.5 35B-A3B: Why Your $800 GPU Just Became a Frontier Class AI Workstation I have been running local models for a while now, and I thought I had a pretty good sense of where the ceiling was for consumer hardware." [ref=e606] [cursor=pointer]':
+                      - /url: /@agentnativedev/qwen-3-5-35b-a3b-why-your-800-gpu-just-became-a-frontier-class-ai-workstation-63cc4d4ebac1?source=home_for_you---------3-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - 'heading "Qwen 3.5 35B-A3B: Why Your $800 GPU Just Became a Frontier Class AI Workstation" [level=2] [ref=e607]'
+                      - heading "I have been running local models for a while now, and I thought I had a pretty good sense of where the ceiling was for consumer hardware." [level=3] [ref=e609]
+                    - generic [ref=e613]:
+                      - generic [ref=e614]:
+                        - button "Member-only story" [ref=e616] [cursor=pointer]:
+                          - tooltip [ref=e619]:
+                            - img [ref=e621]
+                        - generic [ref=e623]: Mar 1
+                        - link "A clap icon 669 A response icon 14" [ref=e628] [cursor=pointer]:
+                          - /url: /@agentnativedev/qwen-3-5-35b-a3b-why-your-800-gpu-just-became-a-frontier-class-ai-workstation-63cc4d4ebac1?source=home_for_you---------3-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 669" [ref=e630]:
+                            - generic [ref=e632]:
+                              - img "A clap icon" [ref=e633]
+                              - generic [ref=e635]: "669"
+                          - tooltip "A response icon 14" [ref=e637]:
+                            - generic [ref=e639]:
+                              - img "A response icon" [ref=e640]
+                              - generic [ref=e642]: "14"
+                      - generic [ref=e643]:
+                        - tooltip "I'm not interested in this story" [ref=e645]:
+                          - button "I'm not interested in this story" [ref=e647] [cursor=pointer]:
+                            - img [ref=e648]
+                        - tooltip "Add to list bookmark button" [ref=e652]:
+                          - button "Add to list bookmark button" [ref=e655] [cursor=pointer]:
+                            - img [ref=e656]
+                        - tooltip "More options" [ref=e662]:
+                          - button "More options" [ref=e664] [cursor=pointer]:
+                            - img [ref=e665]
+                  - 'generic "Qwen 3.5 35B-A3B: Why Your $800 GPU Just Became a Frontier Class AI Workstation" [ref=e668]':
+                    - 'img "Qwen 3.5 35B-A3B: Why Your $800 GPU Just Became a Frontier Class AI Workstation" [ref=e670]'
+          - article [ref=e675]:
+            - link "Joe Njenga Joe Njenga Anthropic Just Added Auto-Memory to Claude Code — MEMORY.md (I Tested It) You don’t have to worry about losing your session context anymore. The new auto-memory feature on Claude Code is what you all needed. Member-only story Feb 27 A clap icon 599 A response icon 7 I'm not interested in this story Add to list bookmark button More options Claude Code Memory" [ref=e682]:
+              - generic [ref=e683]:
+                - generic [ref=e685]:
+                  - tooltip "Joe Njenga" [ref=e689]:
+                    - link "Joe Njenga" [ref=e691] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home_for_you---------4-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Joe Njenga" [ref=e693]
+                  - tooltip "Joe Njenga" [ref=e696]:
+                    - link "Joe Njenga" [ref=e698] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home_for_you---------4-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e699]: Joe Njenga
+                - generic [ref=e700]:
+                  - generic [ref=e701]:
+                    - link "Anthropic Just Added Auto-Memory to Claude Code — MEMORY.md (I Tested It) You don’t have to worry about losing your session context anymore. The new auto-memory feature on Claude Code is what you all needed." [ref=e703] [cursor=pointer]:
+                      - /url: /@joe.njenga/anthropic-just-added-auto-memory-to-claude-code-memory-md-i-tested-it-0ab8422754d2?source=home_for_you---------4-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "Anthropic Just Added Auto-Memory to Claude Code — MEMORY.md (I Tested It)" [level=2] [ref=e704]
+                      - heading "You don’t have to worry about losing your session context anymore. The new auto-memory feature on Claude Code is what you all needed." [level=3] [ref=e706]
+                    - generic [ref=e710]:
+                      - generic [ref=e711]:
+                        - button "Member-only story" [ref=e713] [cursor=pointer]:
+                          - tooltip [ref=e716]:
+                            - img [ref=e718]
+                        - generic [ref=e720]: Feb 27
+                        - link "A clap icon 599 A response icon 7" [ref=e725] [cursor=pointer]:
+                          - /url: /@joe.njenga/anthropic-just-added-auto-memory-to-claude-code-memory-md-i-tested-it-0ab8422754d2?source=home_for_you---------4-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 599" [ref=e727]:
+                            - generic [ref=e729]:
+                              - img "A clap icon" [ref=e730]
+                              - generic [ref=e732]: "599"
+                          - tooltip "A response icon 7" [ref=e734]:
+                            - generic [ref=e736]:
+                              - img "A response icon" [ref=e737]
+                              - generic [ref=e739]: "7"
+                      - generic [ref=e740]:
+                        - tooltip "I'm not interested in this story" [ref=e742]:
+                          - button "I'm not interested in this story" [ref=e744] [cursor=pointer]:
+                            - img [ref=e745]
+                        - tooltip "Add to list bookmark button" [ref=e749]:
+                          - button "Add to list bookmark button" [ref=e752] [cursor=pointer]:
+                            - img [ref=e753]
+                        - tooltip "More options" [ref=e759]:
+                          - button "More options" [ref=e761] [cursor=pointer]:
+                            - img [ref=e762]
+                  - generic "Claude Code Memory" [ref=e765]:
+                    - img "Claude Code Memory" [ref=e767]
+          - article [ref=e772]:
+            - link "Phil | Rentier Digital Automation Phil | Rentier Digital Automation Anthropic Just Killed My $200/Month OpenClaw Setup. So I Rebuilt It for $15. My OpenClaw instance ran on Claude Max for six weeks. Emails, calendar, Telegram, the whole personal Jarvis fantasy. Then one morning… Member-only story Feb 18 A clap icon 1.1K A response icon 31 I'm not interested in this story Add to list bookmark button More options Anthropic Just Killed My $200/Month OpenClaw Setup. So I Rebuilt It for $15." [ref=e779]:
+              - generic [ref=e780]:
+                - generic [ref=e782]:
+                  - tooltip "Phil | Rentier Digital Automation" [ref=e786]:
+                    - link "Phil | Rentier Digital Automation" [ref=e788] [cursor=pointer]:
+                      - /url: /@rentierdigital?source=home_for_you---------5-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Phil | Rentier Digital Automation" [ref=e790]
+                  - tooltip "Phil | Rentier Digital Automation" [ref=e793]:
+                    - link "Phil | Rentier Digital Automation" [ref=e795] [cursor=pointer]:
+                      - /url: /@rentierdigital?source=home_for_you---------5-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e796]: Phil | Rentier Digital Automation
+                      - img [ref=e800]
+                - generic [ref=e803]:
+                  - generic [ref=e804]:
+                    - link "Anthropic Just Killed My $200/Month OpenClaw Setup. So I Rebuilt It for $15. My OpenClaw instance ran on Claude Max for six weeks. Emails, calendar, Telegram, the whole personal Jarvis fantasy. Then one morning…" [ref=e806] [cursor=pointer]:
+                      - /url: /@rentierdigital/anthropic-just-killed-my-200-month-openclaw-setup-so-i-rebuilt-it-for-15-9cab6814c556?source=home_for_you---------5-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "Anthropic Just Killed My $200/Month OpenClaw Setup. So I Rebuilt It for $15." [level=2] [ref=e807]
+                      - heading "My OpenClaw instance ran on Claude Max for six weeks. Emails, calendar, Telegram, the whole personal Jarvis fantasy. Then one morning…" [level=3] [ref=e809]
+                    - generic [ref=e813]:
+                      - generic [ref=e814]:
+                        - button "Member-only story" [ref=e816] [cursor=pointer]:
+                          - tooltip [ref=e819]:
+                            - img [ref=e821]
+                        - generic [ref=e823]: Feb 18
+                        - link "A clap icon 1.1K A response icon 31" [ref=e828] [cursor=pointer]:
+                          - /url: /@rentierdigital/anthropic-just-killed-my-200-month-openclaw-setup-so-i-rebuilt-it-for-15-9cab6814c556?source=home_for_you---------5-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 1.1K" [ref=e830]:
+                            - generic [ref=e832]:
+                              - img "A clap icon" [ref=e833]
+                              - generic [ref=e835]: 1.1K
+                          - tooltip "A response icon 31" [ref=e837]:
+                            - generic [ref=e839]:
+                              - img "A response icon" [ref=e840]
+                              - generic [ref=e842]: "31"
+                      - generic [ref=e843]:
+                        - tooltip "I'm not interested in this story" [ref=e845]:
+                          - button "I'm not interested in this story" [ref=e847] [cursor=pointer]:
+                            - img [ref=e848]
+                        - tooltip "Add to list bookmark button" [ref=e852]:
+                          - button "Add to list bookmark button" [ref=e855] [cursor=pointer]:
+                            - img [ref=e856]
+                        - tooltip "More options" [ref=e862]:
+                          - button "More options" [ref=e864] [cursor=pointer]:
+                            - img [ref=e865]
+                  - generic "Anthropic Just Killed My $200/Month OpenClaw Setup. So I Rebuilt It for $15." [ref=e868]:
+                    - img "Anthropic Just Killed My $200/Month OpenClaw Setup. So I Rebuilt It for $15." [ref=e870]
+          - article [ref=e875]:
+            - link "Let’s Code Future In Let’s Code Future by CodeWithYog This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100% open source I trusted my usual AI coding setup, until one open-source CLI quietly proved faster, cheaper, and harder to lock into. Member-only story Jan 17 A clap icon 603 A response icon 5 I'm not interested in this story Add to list bookmark button More options This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100% open source" [ref=e882]:
+              - generic [ref=e883]:
+                - generic [ref=e885]:
+                  - tooltip "Let’s Code Future" [ref=e888]:
+                    - link "Let’s Code Future" [ref=e890] [cursor=pointer]:
+                      - /url: https://medium.com/lets-code-future?source=home_for_you---------6-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Let’s Code Future" [ref=e892]
+                  - paragraph [ref=e895]: In
+                  - tooltip "Let’s Code Future" [ref=e898]:
+                    - link "Let’s Code Future" [ref=e900] [cursor=pointer]:
+                      - /url: https://medium.com/lets-code-future?source=home_for_you---------6-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e901]: Let’s Code Future
+                  - paragraph [ref=e903]: by
+                  - tooltip "CodeWithYog" [ref=e905]:
+                    - link "CodeWithYog" [ref=e907] [cursor=pointer]:
+                      - /url: /@CodeWithYog?source=home_for_you---------6-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e908]: CodeWithYog
+                - generic [ref=e909]:
+                  - generic [ref=e910]:
+                    - link "This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100% open source I trusted my usual AI coding setup, until one open-source CLI quietly proved faster, cheaper, and harder to lock into." [ref=e912] [cursor=pointer]:
+                      - /url: /lets-code-future/this-terminal-tool-exploded-to-70k-github-stars-i-regret-ignoring-it-100-open-source-61da0a5c2e9d?source=home_for_you---------6-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100% open source" [level=2] [ref=e913]
+                      - heading "I trusted my usual AI coding setup, until one open-source CLI quietly proved faster, cheaper, and harder to lock into." [level=3] [ref=e915]
+                    - generic [ref=e919]:
+                      - generic [ref=e920]:
+                        - button "Member-only story" [ref=e922] [cursor=pointer]:
+                          - tooltip [ref=e925]:
+                            - img [ref=e927]
+                        - generic [ref=e929]: Jan 17
+                        - link "A clap icon 603 A response icon 5" [ref=e934] [cursor=pointer]:
+                          - /url: /lets-code-future/this-terminal-tool-exploded-to-70k-github-stars-i-regret-ignoring-it-100-open-source-61da0a5c2e9d?source=home_for_you---------6-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 603" [ref=e936]:
+                            - generic [ref=e938]:
+                              - img "A clap icon" [ref=e939]
+                              - generic [ref=e941]: "603"
+                          - tooltip "A response icon 5" [ref=e943]:
+                            - generic [ref=e945]:
+                              - img "A response icon" [ref=e946]
+                              - generic [ref=e948]: "5"
+                      - generic [ref=e949]:
+                        - tooltip "I'm not interested in this story" [ref=e951]:
+                          - button "I'm not interested in this story" [ref=e953] [cursor=pointer]:
+                            - img [ref=e954]
+                        - tooltip "Add to list bookmark button" [ref=e958]:
+                          - button "Add to list bookmark button" [ref=e961] [cursor=pointer]:
+                            - img [ref=e962]
+                        - tooltip "More options" [ref=e968]:
+                          - button "More options" [ref=e970] [cursor=pointer]:
+                            - img [ref=e971]
+                  - generic "This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100% open source" [ref=e974]:
+                    - img "This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100% open source" [ref=e976]
+          - article [ref=e981]:
+            - 'link "Activated Thinker In Activated Thinker by Shane Collins Nvidia’s CEO Just Dropped a Hard Truth: “Smart” Is About to Become Worthless When AI turns IQ into a commodity, only one human skill will remain scarce. Here is how to master it. Member-only story Dec 9, 2025 A clap icon 8.6K A response icon 372 I''m not interested in this story Add to list bookmark button More options Nvidia’s CEO Just Dropped a Hard Truth: “Smart” Is About to Become Worthless" [ref=e988]':
+              - generic [ref=e989]:
+                - generic [ref=e991]:
+                  - tooltip "Activated Thinker" [ref=e994]:
+                    - link "Activated Thinker" [ref=e996] [cursor=pointer]:
+                      - /url: https://medium.com/activated-thinker?source=home_for_you---------7-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Activated Thinker" [ref=e998]
+                  - paragraph [ref=e1001]: In
+                  - tooltip "Activated Thinker" [ref=e1004]:
+                    - link "Activated Thinker" [ref=e1006] [cursor=pointer]:
+                      - /url: https://medium.com/activated-thinker?source=home_for_you---------7-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1007]: Activated Thinker
+                  - paragraph [ref=e1009]: by
+                  - tooltip "Shane Collins" [ref=e1011]:
+                    - link "Shane Collins" [ref=e1013] [cursor=pointer]:
+                      - /url: /@intellizab?source=home_for_you---------7-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1014]: Shane Collins
+                - generic [ref=e1015]:
+                  - generic [ref=e1016]:
+                    - 'link "Nvidia’s CEO Just Dropped a Hard Truth: “Smart” Is About to Become Worthless When AI turns IQ into a commodity, only one human skill will remain scarce. Here is how to master it." [ref=e1018] [cursor=pointer]':
+                      - /url: /activated-thinker/nvidias-ceo-just-dropped-a-hard-truth-smart-is-about-to-become-worthless-8de2bc5fe363?source=home_for_you---------7-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - 'heading "Nvidia’s CEO Just Dropped a Hard Truth: “Smart” Is About to Become Worthless" [level=2] [ref=e1019]'
+                      - heading "When AI turns IQ into a commodity, only one human skill will remain scarce. Here is how to master it." [level=3] [ref=e1021]
+                    - generic [ref=e1025]:
+                      - generic [ref=e1026]:
+                        - button "Member-only story" [ref=e1028] [cursor=pointer]:
+                          - tooltip [ref=e1031]:
+                            - img [ref=e1033]
+                        - generic [ref=e1035]: Dec 9, 2025
+                        - link "A clap icon 8.6K A response icon 372" [ref=e1040] [cursor=pointer]:
+                          - /url: /activated-thinker/nvidias-ceo-just-dropped-a-hard-truth-smart-is-about-to-become-worthless-8de2bc5fe363?source=home_for_you---------7-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 8.6K" [ref=e1042]:
+                            - generic [ref=e1044]:
+                              - img "A clap icon" [ref=e1045]
+                              - generic [ref=e1047]: 8.6K
+                          - tooltip "A response icon 372" [ref=e1049]:
+                            - generic [ref=e1051]:
+                              - img "A response icon" [ref=e1052]
+                              - generic [ref=e1054]: "372"
+                      - generic [ref=e1055]:
+                        - tooltip "I'm not interested in this story" [ref=e1057]:
+                          - button "I'm not interested in this story" [ref=e1059] [cursor=pointer]:
+                            - img [ref=e1060]
+                        - tooltip "Add to list bookmark button" [ref=e1064]:
+                          - button "Add to list bookmark button" [ref=e1067] [cursor=pointer]:
+                            - img [ref=e1068]
+                        - tooltip "More options" [ref=e1074]:
+                          - button "More options" [ref=e1076] [cursor=pointer]:
+                            - img [ref=e1077]
+                  - 'generic "Nvidia’s CEO Just Dropped a Hard Truth: “Smart” Is About to Become Worthless" [ref=e1080]':
+                    - 'img "Nvidia’s CEO Just Dropped a Hard Truth: “Smart” Is About to Become Worthless" [ref=e1082]'
+          - article [ref=e1087]:
+            - link "CodeToDeploy In CodeToDeploy by Manjunath Janardhan I Turned My 16GB Mac Mini Into an AI Powerhouse — Here’s How LM Studio Link Changed Everything Running 70B parameter models on a machine that shouldn’t be able to. No cloud. No API keys. Just two Macs and an encrypted tunnel. Member-only story Feb 26 A clap icon 436 A response icon 6 I'm not interested in this story Add to list bookmark button More options I Turned My 16GB Mac Mini Into an AI Powerhouse — Here’s How LM Studio Link Changed Everything" [ref=e1094]:
+              - generic [ref=e1095]:
+                - generic [ref=e1097]:
+                  - tooltip "CodeToDeploy" [ref=e1100]:
+                    - link "CodeToDeploy" [ref=e1102] [cursor=pointer]:
+                      - /url: https://medium.com/codetodeploy?source=home_for_you---------8-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "CodeToDeploy" [ref=e1104]
+                  - paragraph [ref=e1107]: In
+                  - tooltip "CodeToDeploy" [ref=e1110]:
+                    - link "CodeToDeploy" [ref=e1112] [cursor=pointer]:
+                      - /url: https://medium.com/codetodeploy?source=home_for_you---------8-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1113]: CodeToDeploy
+                  - paragraph [ref=e1115]: by
+                  - tooltip "Manjunath Janardhan" [ref=e1117]:
+                    - link "Manjunath Janardhan" [ref=e1119] [cursor=pointer]:
+                      - /url: /@manjunath.shiva?source=home_for_you---------8-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1120]: Manjunath Janardhan
+                - generic [ref=e1121]:
+                  - generic [ref=e1122]:
+                    - link "I Turned My 16GB Mac Mini Into an AI Powerhouse — Here’s How LM Studio Link Changed Everything Running 70B parameter models on a machine that shouldn’t be able to. No cloud. No API keys. Just two Macs and an encrypted tunnel." [ref=e1124] [cursor=pointer]:
+                      - /url: /codetodeploy/i-turned-my-16gb-mac-mini-into-an-ai-powerhouse-heres-how-lm-studio-link-changed-everything-8f1f20b58f60?source=home_for_you---------8-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "I Turned My 16GB Mac Mini Into an AI Powerhouse — Here’s How LM Studio Link Changed Everything" [level=2] [ref=e1125]
+                      - heading "Running 70B parameter models on a machine that shouldn’t be able to. No cloud. No API keys. Just two Macs and an encrypted tunnel." [level=3] [ref=e1127]
+                    - generic [ref=e1131]:
+                      - generic [ref=e1132]:
+                        - button "Member-only story" [ref=e1134] [cursor=pointer]:
+                          - tooltip [ref=e1137]:
+                            - img [ref=e1139]
+                        - generic [ref=e1141]: Feb 26
+                        - link "A clap icon 436 A response icon 6" [ref=e1146] [cursor=pointer]:
+                          - /url: /codetodeploy/i-turned-my-16gb-mac-mini-into-an-ai-powerhouse-heres-how-lm-studio-link-changed-everything-8f1f20b58f60?source=home_for_you---------8-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 436" [ref=e1148]:
+                            - generic [ref=e1150]:
+                              - img "A clap icon" [ref=e1151]
+                              - generic [ref=e1153]: "436"
+                          - tooltip "A response icon 6" [ref=e1155]:
+                            - generic [ref=e1157]:
+                              - img "A response icon" [ref=e1158]
+                              - generic [ref=e1160]: "6"
+                      - generic [ref=e1161]:
+                        - tooltip "I'm not interested in this story" [ref=e1163]:
+                          - button "I'm not interested in this story" [ref=e1165] [cursor=pointer]:
+                            - img [ref=e1166]
+                        - tooltip "Add to list bookmark button" [ref=e1170]:
+                          - button "Add to list bookmark button" [ref=e1173] [cursor=pointer]:
+                            - img [ref=e1174]
+                        - tooltip "More options" [ref=e1180]:
+                          - button "More options" [ref=e1182] [cursor=pointer]:
+                            - img [ref=e1183]
+                  - generic "I Turned My 16GB Mac Mini Into an AI Powerhouse — Here’s How LM Studio Link Changed Everything" [ref=e1186]:
+                    - img "I Turned My 16GB Mac Mini Into an AI Powerhouse — Here’s How LM Studio Link Changed Everything" [ref=e1188]
+          - article [ref=e1193]:
+            - link "The Useful Tech In The Useful Tech by The Useful Tech Claude Cowork Did More on My Mac in 5 Minutes Than I Do in an Hour I saved 4 hours this week without writing a single line of code. Member-only story Mar 5 A clap icon 467 A response icon 4 I'm not interested in this story Add to list bookmark button More options Claude Cowork Did More on My Mac in 5 Minutes Than I Do in an Hour" [ref=e1200]:
+              - generic [ref=e1201]:
+                - generic [ref=e1203]:
+                  - tooltip "The Useful Tech" [ref=e1206]:
+                    - link "The Useful Tech" [ref=e1208] [cursor=pointer]:
+                      - /url: https://medium.com/the-useful-tech?source=home_for_you---------9-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "The Useful Tech" [ref=e1210]
+                  - paragraph [ref=e1213]: In
+                  - tooltip "The Useful Tech" [ref=e1216]:
+                    - link "The Useful Tech" [ref=e1218] [cursor=pointer]:
+                      - /url: https://medium.com/the-useful-tech?source=home_for_you---------9-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1219]: The Useful Tech
+                  - paragraph [ref=e1221]: by
+                  - tooltip "The Useful Tech" [ref=e1223]:
+                    - link "The Useful Tech" [ref=e1225] [cursor=pointer]:
+                      - /url: /@theusefultech?source=home_for_you---------9-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1226]: The Useful Tech
+                - generic [ref=e1227]:
+                  - generic [ref=e1228]:
+                    - link "Claude Cowork Did More on My Mac in 5 Minutes Than I Do in an Hour I saved 4 hours this week without writing a single line of code." [ref=e1230] [cursor=pointer]:
+                      - /url: /the-useful-tech/claude-cowork-did-more-on-my-mac-in-5-minutes-than-i-do-in-an-hour-8a0e2c720159?source=home_for_you---------9-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "Claude Cowork Did More on My Mac in 5 Minutes Than I Do in an Hour" [level=2] [ref=e1231]
+                      - heading "I saved 4 hours this week without writing a single line of code." [level=3] [ref=e1233]
+                    - generic [ref=e1237]:
+                      - generic [ref=e1238]:
+                        - button "Member-only story" [ref=e1240] [cursor=pointer]:
+                          - tooltip [ref=e1243]:
+                            - img [ref=e1245]
+                        - generic [ref=e1247]: Mar 5
+                        - link "A clap icon 467 A response icon 4" [ref=e1252] [cursor=pointer]:
+                          - /url: /the-useful-tech/claude-cowork-did-more-on-my-mac-in-5-minutes-than-i-do-in-an-hour-8a0e2c720159?source=home_for_you---------9-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 467" [ref=e1254]:
+                            - generic [ref=e1256]:
+                              - img "A clap icon" [ref=e1257]
+                              - generic [ref=e1259]: "467"
+                          - tooltip "A response icon 4" [ref=e1261]:
+                            - generic [ref=e1263]:
+                              - img "A response icon" [ref=e1264]
+                              - generic [ref=e1266]: "4"
+                      - generic [ref=e1267]:
+                        - tooltip "I'm not interested in this story" [ref=e1269]:
+                          - button "I'm not interested in this story" [ref=e1271] [cursor=pointer]:
+                            - img [ref=e1272]
+                        - tooltip "Add to list bookmark button" [ref=e1276]:
+                          - button "Add to list bookmark button" [ref=e1279] [cursor=pointer]:
+                            - img [ref=e1280]
+                        - tooltip "More options" [ref=e1286]:
+                          - button "More options" [ref=e1288] [cursor=pointer]:
+                            - img [ref=e1289]
+                  - generic "Claude Cowork Did More on My Mac in 5 Minutes Than I Do in an Hour" [ref=e1292]:
+                    - img "Claude Cowork Did More on My Mac in 5 Minutes Than I Do in an Hour" [ref=e1294]
+          - article [ref=e1299]:
+            - link "AI Software Engineer In AI Software Engineer by Joe Njenga This Newly Released Anthropic Agentic Coding Trends Report (Is a Must-Read) Anthropic quietly released an 8-point AI coding trends report for 2026 that should reset your priorities if you are serious about agentic… Member-only story Mar 1 A clap icon 361 A response icon 3 I'm not interested in this story Add to list bookmark button More options This Newly Released Anthropic Agentic Coding Trends Report (Is a Must-Read)" [ref=e1306]:
+              - generic [ref=e1307]:
+                - generic [ref=e1309]:
+                  - tooltip "AI Software Engineer" [ref=e1312]:
+                    - link "AI Software Engineer" [ref=e1314] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------10-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "AI Software Engineer" [ref=e1316]
+                  - paragraph [ref=e1319]: In
+                  - tooltip "AI Software Engineer" [ref=e1322]:
+                    - link "AI Software Engineer" [ref=e1324] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------10-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1325]: AI Software Engineer
+                  - paragraph [ref=e1327]: by
+                  - tooltip "Joe Njenga" [ref=e1329]:
+                    - link "Joe Njenga" [ref=e1331] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home_for_you---------10-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1332]: Joe Njenga
+                - generic [ref=e1333]:
+                  - generic [ref=e1334]:
+                    - link "This Newly Released Anthropic Agentic Coding Trends Report (Is a Must-Read) Anthropic quietly released an 8-point AI coding trends report for 2026 that should reset your priorities if you are serious about agentic…" [ref=e1336] [cursor=pointer]:
+                      - /url: /ai-software-engineer/this-newly-released-anthropic-agentic-coding-trends-report-is-a-must-read-0701af881148?source=home_for_you---------10-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "This Newly Released Anthropic Agentic Coding Trends Report (Is a Must-Read)" [level=2] [ref=e1337]
+                      - heading "Anthropic quietly released an 8-point AI coding trends report for 2026 that should reset your priorities if you are serious about agentic…" [level=3] [ref=e1339]
+                    - generic [ref=e1343]:
+                      - generic [ref=e1344]:
+                        - button "Member-only story" [ref=e1346] [cursor=pointer]:
+                          - tooltip [ref=e1349]:
+                            - img [ref=e1351]
+                        - generic [ref=e1353]: Mar 1
+                        - link "A clap icon 361 A response icon 3" [ref=e1358] [cursor=pointer]:
+                          - /url: /ai-software-engineer/this-newly-released-anthropic-agentic-coding-trends-report-is-a-must-read-0701af881148?source=home_for_you---------10-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 361" [ref=e1360]:
+                            - generic [ref=e1362]:
+                              - img "A clap icon" [ref=e1363]
+                              - generic [ref=e1365]: "361"
+                          - tooltip "A response icon 3" [ref=e1367]:
+                            - generic [ref=e1369]:
+                              - img "A response icon" [ref=e1370]
+                              - generic [ref=e1372]: "3"
+                      - generic [ref=e1373]:
+                        - tooltip "I'm not interested in this story" [ref=e1375]:
+                          - button "I'm not interested in this story" [ref=e1377] [cursor=pointer]:
+                            - img [ref=e1378]
+                        - tooltip "Add to list bookmark button" [ref=e1382]:
+                          - button "Add to list bookmark button" [ref=e1385] [cursor=pointer]:
+                            - img [ref=e1386]
+                        - tooltip "More options" [ref=e1392]:
+                          - button "More options" [ref=e1394] [cursor=pointer]:
+                            - img [ref=e1395]
+                  - generic "This Newly Released Anthropic Agentic Coding Trends Report (Is a Must-Read)" [ref=e1398]:
+                    - img "This Newly Released Anthropic Agentic Coding Trends Report (Is a Must-Read)" [ref=e1400]
+          - article [ref=e1405]:
+            - link "Phil | Rentier Digital Automation Phil | Rentier Digital Automation I Deployed My Own OpenClaw AI Agent in 4 Minutes — It Now Runs My Life From a $5 Server There’s a moment every developer knows. The one where you see a tool and think “okay this is cool but it’s probably overhyped” — and then… Member-only story Feb 12 A clap icon 1.2K A response icon 32 I'm not interested in this story Add to list bookmark button More options I Deployed My Own OpenClaw AI Agent in 4 Minutes — It Now Runs My Life From a $5 Server" [ref=e1412]:
+              - generic [ref=e1413]:
+                - generic [ref=e1415]:
+                  - tooltip "Phil | Rentier Digital Automation" [ref=e1419]:
+                    - link "Phil | Rentier Digital Automation" [ref=e1421] [cursor=pointer]:
+                      - /url: /@rentierdigital?source=home_for_you---------11-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Phil | Rentier Digital Automation" [ref=e1423]
+                  - tooltip "Phil | Rentier Digital Automation" [ref=e1426]:
+                    - link "Phil | Rentier Digital Automation" [ref=e1428] [cursor=pointer]:
+                      - /url: /@rentierdigital?source=home_for_you---------11-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1429]: Phil | Rentier Digital Automation
+                      - img [ref=e1433]
+                - generic [ref=e1436]:
+                  - generic [ref=e1437]:
+                    - link "I Deployed My Own OpenClaw AI Agent in 4 Minutes — It Now Runs My Life From a $5 Server There’s a moment every developer knows. The one where you see a tool and think “okay this is cool but it’s probably overhyped” — and then…" [ref=e1439] [cursor=pointer]:
+                      - /url: /@rentierdigital/i-deployed-my-own-openclaw-ai-agent-in-4-minutes-it-now-runs-my-life-from-a-5-server-8159e6cb41cc?source=home_for_you---------11-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "I Deployed My Own OpenClaw AI Agent in 4 Minutes — It Now Runs My Life From a $5 Server" [level=2] [ref=e1440]
+                      - heading "There’s a moment every developer knows. The one where you see a tool and think “okay this is cool but it’s probably overhyped” — and then…" [level=3] [ref=e1442]
+                    - generic [ref=e1446]:
+                      - generic [ref=e1447]:
+                        - button "Member-only story" [ref=e1449] [cursor=pointer]:
+                          - tooltip [ref=e1452]:
+                            - img [ref=e1454]
+                        - generic [ref=e1456]: Feb 12
+                        - link "A clap icon 1.2K A response icon 32" [ref=e1461] [cursor=pointer]:
+                          - /url: /@rentierdigital/i-deployed-my-own-openclaw-ai-agent-in-4-minutes-it-now-runs-my-life-from-a-5-server-8159e6cb41cc?source=home_for_you---------11-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 1.2K" [ref=e1463]:
+                            - generic [ref=e1465]:
+                              - img "A clap icon" [ref=e1466]
+                              - generic [ref=e1468]: 1.2K
+                          - tooltip "A response icon 32" [ref=e1470]:
+                            - generic [ref=e1472]:
+                              - img "A response icon" [ref=e1473]
+                              - generic [ref=e1475]: "32"
+                      - generic [ref=e1476]:
+                        - tooltip "I'm not interested in this story" [ref=e1478]:
+                          - button "I'm not interested in this story" [ref=e1480] [cursor=pointer]:
+                            - img [ref=e1481]
+                        - tooltip "Add to list bookmark button" [ref=e1485]:
+                          - button "Add to list bookmark button" [ref=e1488] [cursor=pointer]:
+                            - img [ref=e1489]
+                        - tooltip "More options" [ref=e1495]:
+                          - button "More options" [ref=e1497] [cursor=pointer]:
+                            - img [ref=e1498]
+                  - generic "I Deployed My Own OpenClaw AI Agent in 4 Minutes — It Now Runs My Life From a $5 Server" [ref=e1501]:
+                    - img "I Deployed My Own OpenClaw AI Agent in 4 Minutes — It Now Runs My Life From a $5 Server" [ref=e1503]
+          - article [ref=e1508]:
+            - link "Ayesha Mughal Ayesha Mughal The File That Made the Creator of Claude Code Go Viral In January 2026, Boris Cherny posted a thread about his development workflow. Mar 4 A clap icon 77 A response icon 4 I'm not interested in this story Add to list bookmark button More options The File That Made the Creator of Claude Code Go Viral" [ref=e1515]:
+              - generic [ref=e1516]:
+                - generic [ref=e1518]:
+                  - tooltip "Ayesha Mughal" [ref=e1522]:
+                    - link "Ayesha Mughal" [ref=e1524] [cursor=pointer]:
+                      - /url: /@ayeshamughal21?source=home_for_you---------12-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Ayesha Mughal" [ref=e1526]
+                  - tooltip "Ayesha Mughal" [ref=e1529]:
+                    - link "Ayesha Mughal" [ref=e1531] [cursor=pointer]:
+                      - /url: /@ayeshamughal21?source=home_for_you---------12-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1532]: Ayesha Mughal
+                - generic [ref=e1533]:
+                  - generic [ref=e1534]:
+                    - link "The File That Made the Creator of Claude Code Go Viral In January 2026, Boris Cherny posted a thread about his development workflow." [ref=e1536] [cursor=pointer]:
+                      - /url: /@ayeshamughal21/the-file-that-made-the-creator-of-claude-code-go-viral-e01b039e5602?source=home_for_you---------12-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "The File That Made the Creator of Claude Code Go Viral" [level=2] [ref=e1537]
+                      - heading "In January 2026, Boris Cherny posted a thread about his development workflow." [level=3] [ref=e1539]
+                    - generic [ref=e1543]:
+                      - generic [ref=e1544]:
+                        - generic [ref=e1545]: Mar 4
+                        - link "A clap icon 77 A response icon 4" [ref=e1550] [cursor=pointer]:
+                          - /url: /@ayeshamughal21/the-file-that-made-the-creator-of-claude-code-go-viral-e01b039e5602?source=home_for_you---------12-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 77" [ref=e1552]:
+                            - generic [ref=e1554]:
+                              - img "A clap icon" [ref=e1555]
+                              - generic [ref=e1557]: "77"
+                          - tooltip "A response icon 4" [ref=e1559]:
+                            - generic [ref=e1561]:
+                              - img "A response icon" [ref=e1562]
+                              - generic [ref=e1564]: "4"
+                      - generic [ref=e1565]:
+                        - tooltip "I'm not interested in this story" [ref=e1567]:
+                          - button "I'm not interested in this story" [ref=e1569] [cursor=pointer]:
+                            - img [ref=e1570]
+                        - tooltip "Add to list bookmark button" [ref=e1574]:
+                          - button "Add to list bookmark button" [ref=e1577] [cursor=pointer]:
+                            - img [ref=e1578]
+                        - tooltip "More options" [ref=e1584]:
+                          - button "More options" [ref=e1586] [cursor=pointer]:
+                            - img [ref=e1587]
+                  - generic "The File That Made the Creator of Claude Code Go Viral" [ref=e1590]:
+                    - img "The File That Made the Creator of Claude Code Go Viral" [ref=e1592]
+          - article [ref=e1597]:
+            - generic [ref=e1602]:
+              - generic [ref=e1603]:
+                - img [ref=e1604]
+                - generic [ref=e1606]:
+                  - generic [ref=e1607]: Because you follow
+                  - link "Gadgets" [ref=e1608] [cursor=pointer]:
+                    - /url: /tag/gadgets?source=home_for_you---------13-99--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+              - 'link "Ayeshha Ayeshha 10 Best AI Gadgets of 2026: My Honest Review of the Gear You Actually Need I still remember the first time I felt like I was living in the future. It wasn’t when I got my first smartphone or even my first VR… Mar 6 I''m not interested in this story Add to list bookmark button More options 10 Best AI Gadgets of 2026: My Honest Review of the Gear You Actually Need" [ref=e1612]':
+                - generic [ref=e1613]:
+                  - generic [ref=e1615]:
+                    - tooltip "Ayeshha" [ref=e1619]:
+                      - link "Ayeshha" [ref=e1621] [cursor=pointer]:
+                        - /url: /@ayeshha2398?source=home_for_you---------13-99--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                        - img "Ayeshha" [ref=e1623]
+                    - tooltip "Ayeshha" [ref=e1626]:
+                      - link "Ayeshha" [ref=e1628] [cursor=pointer]:
+                        - /url: /@ayeshha2398?source=home_for_you---------13-99--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                        - paragraph [ref=e1629]: Ayeshha
+                  - generic [ref=e1630]:
+                    - generic [ref=e1631]:
+                      - 'link "10 Best AI Gadgets of 2026: My Honest Review of the Gear You Actually Need I still remember the first time I felt like I was living in the future. It wasn’t when I got my first smartphone or even my first VR…" [ref=e1633] [cursor=pointer]':
+                        - /url: /@ayeshha2398/10-best-ai-gadgets-of-2026-my-honest-review-of-the-gear-you-actually-need-9c9330b0e121?source=home_for_you---------13-99--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                        - 'heading "10 Best AI Gadgets of 2026: My Honest Review of the Gear You Actually Need" [level=2] [ref=e1634]'
+                        - heading "I still remember the first time I felt like I was living in the future. It wasn’t when I got my first smartphone or even my first VR…" [level=3] [ref=e1636]
+                      - generic [ref=e1640]:
+                        - generic [ref=e1641]:
+                          - generic [ref=e1642]: Mar 6
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: /@ayeshha2398/10-best-ai-gadgets-of-2026-my-honest-review-of-the-gear-you-actually-need-9c9330b0e121?source=home_for_you---------13-99--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                        - generic [ref=e1645]:
+                          - tooltip "I'm not interested in this story" [ref=e1647]:
+                            - button "I'm not interested in this story" [ref=e1649] [cursor=pointer]:
+                              - img [ref=e1650]
+                          - tooltip "Add to list bookmark button" [ref=e1654]:
+                            - button "Add to list bookmark button" [ref=e1657] [cursor=pointer]:
+                              - img [ref=e1658]
+                          - tooltip "More options" [ref=e1664]:
+                            - button "More options" [ref=e1666] [cursor=pointer]:
+                              - img [ref=e1667]
+                    - 'generic "10 Best AI Gadgets of 2026: My Honest Review of the Gear You Actually Need" [ref=e1670]':
+                      - 'img "10 Best AI Gadgets of 2026: My Honest Review of the Gear You Actually Need" [ref=e1672]'
+          - article [ref=e1677]:
+            - 'link "AI Software Engineer In AI Software Engineer by Joe Njenga I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing So, you are disappointed you never became an ethical hacker, cybersecurity engineer, or penetration tester back then, when it meant… Member-only story Mar 3 A clap icon 120 A response icon 2 I''m not interested in this story Add to list bookmark button More options I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing" [ref=e1684]':
+              - generic [ref=e1685]:
+                - generic [ref=e1687]:
+                  - tooltip "AI Software Engineer" [ref=e1690]:
+                    - link "AI Software Engineer" [ref=e1692] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------14-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "AI Software Engineer" [ref=e1694]
+                  - paragraph [ref=e1697]: In
+                  - tooltip "AI Software Engineer" [ref=e1700]:
+                    - link "AI Software Engineer" [ref=e1702] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------14-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1703]: AI Software Engineer
+                  - paragraph [ref=e1705]: by
+                  - tooltip "Joe Njenga" [ref=e1707]:
+                    - link "Joe Njenga" [ref=e1709] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home_for_you---------14-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1710]: Joe Njenga
+                - generic [ref=e1711]:
+                  - generic [ref=e1712]:
+                    - 'link "I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing So, you are disappointed you never became an ethical hacker, cybersecurity engineer, or penetration tester back then, when it meant…" [ref=e1714] [cursor=pointer]':
+                      - /url: /ai-software-engineer/i-tried-shannon-ai-and-discovered-noobs-can-now-do-penetration-testing-0c257536c9ca?source=home_for_you---------14-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - 'heading "I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing" [level=2] [ref=e1715]'
+                      - heading "So, you are disappointed you never became an ethical hacker, cybersecurity engineer, or penetration tester back then, when it meant…" [level=3] [ref=e1717]
+                    - generic [ref=e1721]:
+                      - generic [ref=e1722]:
+                        - button "Member-only story" [ref=e1724] [cursor=pointer]:
+                          - tooltip [ref=e1727]:
+                            - img [ref=e1729]
+                        - generic [ref=e1731]: Mar 3
+                        - link "A clap icon 120 A response icon 2" [ref=e1736] [cursor=pointer]:
+                          - /url: /ai-software-engineer/i-tried-shannon-ai-and-discovered-noobs-can-now-do-penetration-testing-0c257536c9ca?source=home_for_you---------14-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 120" [ref=e1738]:
+                            - generic [ref=e1740]:
+                              - img "A clap icon" [ref=e1741]
+                              - generic [ref=e1743]: "120"
+                          - tooltip "A response icon 2" [ref=e1745]:
+                            - generic [ref=e1747]:
+                              - img "A response icon" [ref=e1748]
+                              - generic [ref=e1750]: "2"
+                      - generic [ref=e1751]:
+                        - tooltip "I'm not interested in this story" [ref=e1753]:
+                          - button "I'm not interested in this story" [ref=e1755] [cursor=pointer]:
+                            - img [ref=e1756]
+                        - tooltip "Add to list bookmark button" [ref=e1760]:
+                          - button "Add to list bookmark button" [ref=e1763] [cursor=pointer]:
+                            - img [ref=e1764]
+                        - tooltip "More options" [ref=e1770]:
+                          - button "More options" [ref=e1772] [cursor=pointer]:
+                            - img [ref=e1773]
+                  - 'generic "I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing" [ref=e1776]':
+                    - 'img "I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing" [ref=e1778]'
+          - article [ref=e1783]:
+            - link "Javarevisited In Javarevisited by Harry 1 Password, 700 Jobs Gone The $20 Billion Mistake Your Company Is Probably Making Right Now Member-only story Nov 26, 2025 A clap icon 1.7K A response icon 24 I'm not interested in this story Add to list bookmark button More options 1 Password, 700 Jobs Gone" [ref=e1790]:
+              - generic [ref=e1791]:
+                - generic [ref=e1793]:
+                  - tooltip "Javarevisited" [ref=e1796]:
+                    - link "Javarevisited" [ref=e1798] [cursor=pointer]:
+                      - /url: https://medium.com/javarevisited?source=home_for_you---------15-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Javarevisited" [ref=e1800]
+                  - paragraph [ref=e1803]: In
+                  - tooltip "Javarevisited" [ref=e1806]:
+                    - link "Javarevisited" [ref=e1808] [cursor=pointer]:
+                      - /url: https://medium.com/javarevisited?source=home_for_you---------15-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1809]: Javarevisited
+                  - paragraph [ref=e1811]: by
+                  - tooltip "Harry" [ref=e1813]:
+                    - link "Harry" [ref=e1815] [cursor=pointer]:
+                      - /url: /@harrymarkjava?source=home_for_you---------15-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1816]: Harry
+                - generic [ref=e1817]:
+                  - generic [ref=e1818]:
+                    - link "1 Password, 700 Jobs Gone The $20 Billion Mistake Your Company Is Probably Making Right Now" [ref=e1820] [cursor=pointer]:
+                      - /url: /javarevisited/1-password-700-jobs-gone-48417b049a65?source=home_for_you---------15-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "1 Password, 700 Jobs Gone" [level=2] [ref=e1821]
+                      - heading "The $20 Billion Mistake Your Company Is Probably Making Right Now" [level=3] [ref=e1823]
+                    - generic [ref=e1827]:
+                      - generic [ref=e1828]:
+                        - button "Member-only story" [ref=e1830] [cursor=pointer]:
+                          - tooltip [ref=e1833]:
+                            - img [ref=e1835]
+                        - generic [ref=e1837]: Nov 26, 2025
+                        - link "A clap icon 1.7K A response icon 24" [ref=e1842] [cursor=pointer]:
+                          - /url: /javarevisited/1-password-700-jobs-gone-48417b049a65?source=home_for_you---------15-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 1.7K" [ref=e1844]:
+                            - generic [ref=e1846]:
+                              - img "A clap icon" [ref=e1847]
+                              - generic [ref=e1849]: 1.7K
+                          - tooltip "A response icon 24" [ref=e1851]:
+                            - generic [ref=e1853]:
+                              - img "A response icon" [ref=e1854]
+                              - generic [ref=e1856]: "24"
+                      - generic [ref=e1857]:
+                        - tooltip "I'm not interested in this story" [ref=e1859]:
+                          - button "I'm not interested in this story" [ref=e1861] [cursor=pointer]:
+                            - img [ref=e1862]
+                        - tooltip "Add to list bookmark button" [ref=e1866]:
+                          - button "Add to list bookmark button" [ref=e1869] [cursor=pointer]:
+                            - img [ref=e1870]
+                        - tooltip "More options" [ref=e1876]:
+                          - button "More options" [ref=e1878] [cursor=pointer]:
+                            - img [ref=e1879]
+                  - generic "1 Password, 700 Jobs Gone" [ref=e1882]:
+                    - img "1 Password, 700 Jobs Gone" [ref=e1884]
+          - article [ref=e1889]:
+            - 'link "Marta Fernández García Marta Fernández García Don’t Use LLMs as OCR: Lessons Learned from Extracting Complex Documents Recently, I had to work with complex documents — mostly PDFs — and send them to an LLM to answer questions about their content. Dec 26, 2025 A clap icon 967 A response icon 65 I''m not interested in this story Add to list bookmark button More options" [ref=e1896]':
+              - generic [ref=e1897]:
+                - generic [ref=e1899]:
+                  - tooltip "Marta Fernández García" [ref=e1903]:
+                    - link "Marta Fernández García" [ref=e1905] [cursor=pointer]:
+                      - /url: /@martia_es?source=home_for_you---------16-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Marta Fernández García" [ref=e1907]
+                  - tooltip "Marta Fernández García" [ref=e1910]:
+                    - link "Marta Fernández García" [ref=e1912] [cursor=pointer]:
+                      - /url: /@martia_es?source=home_for_you---------16-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1913]: Marta Fernández García
+                - generic [ref=e1915]:
+                  - 'link "Don’t Use LLMs as OCR: Lessons Learned from Extracting Complex Documents Recently, I had to work with complex documents — mostly PDFs — and send them to an LLM to answer questions about their content." [ref=e1917] [cursor=pointer]':
+                    - /url: /@martia_es/dont-use-llms-as-ocr-lessons-learned-from-extracting-complex-documents-db2d1fafcdfb?source=home_for_you---------16-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                    - 'heading "Don’t Use LLMs as OCR: Lessons Learned from Extracting Complex Documents" [level=2] [ref=e1918]'
+                    - heading "Recently, I had to work with complex documents — mostly PDFs — and send them to an LLM to answer questions about their content." [level=3] [ref=e1920]
+                  - generic [ref=e1924]:
+                    - generic [ref=e1925]:
+                      - generic [ref=e1926]: Dec 26, 2025
+                      - link "A clap icon 967 A response icon 65" [ref=e1931] [cursor=pointer]:
+                        - /url: /@martia_es/dont-use-llms-as-ocr-lessons-learned-from-extracting-complex-documents-db2d1fafcdfb?source=home_for_you---------16-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                        - tooltip "A clap icon 967" [ref=e1933]:
+                          - generic [ref=e1935]:
+                            - img "A clap icon" [ref=e1936]
+                            - generic [ref=e1938]: "967"
+                        - tooltip "A response icon 65" [ref=e1940]:
+                          - generic [ref=e1942]:
+                            - img "A response icon" [ref=e1943]
+                            - generic [ref=e1945]: "65"
+                    - generic [ref=e1946]:
+                      - tooltip "I'm not interested in this story" [ref=e1948]:
+                        - button "I'm not interested in this story" [ref=e1950] [cursor=pointer]:
+                          - img [ref=e1951]
+                      - tooltip "Add to list bookmark button" [ref=e1955]:
+                        - button "Add to list bookmark button" [ref=e1958] [cursor=pointer]:
+                          - img [ref=e1959]
+                      - tooltip "More options" [ref=e1965]:
+                        - button "More options" [ref=e1967] [cursor=pointer]:
+                          - img [ref=e1968]
+          - article [ref=e1974]:
+            - link "Jari Mattlar Jari Mattlar We Fired Jira and Slack. Tools don’t just organize work. They architect behavior. Oct 12, 2025 A clap icon 1.2K A response icon 46 I'm not interested in this story Add to list bookmark button More options We Fired Jira and Slack." [ref=e1981]:
+              - generic [ref=e1982]:
+                - generic [ref=e1984]:
+                  - tooltip "Jari Mattlar" [ref=e1988]:
+                    - link "Jari Mattlar" [ref=e1990] [cursor=pointer]:
+                      - /url: /@mattlar.jari?source=home_for_you---------17-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Jari Mattlar" [ref=e1992]
+                  - tooltip "Jari Mattlar" [ref=e1995]:
+                    - link "Jari Mattlar" [ref=e1997] [cursor=pointer]:
+                      - /url: /@mattlar.jari?source=home_for_you---------17-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e1998]: Jari Mattlar
+                - generic [ref=e1999]:
+                  - generic [ref=e2000]:
+                    - link "We Fired Jira and Slack. Tools don’t just organize work. They architect behavior." [ref=e2002] [cursor=pointer]:
+                      - /url: /@mattlar.jari/we-fired-jira-and-slack-8febdc0a5843?source=home_for_you---------17-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "We Fired Jira and Slack." [level=2] [ref=e2003]
+                      - heading "Tools don’t just organize work. They architect behavior." [level=3] [ref=e2005]
+                    - generic [ref=e2009]:
+                      - generic [ref=e2010]:
+                        - generic [ref=e2011]: Oct 12, 2025
+                        - link "A clap icon 1.2K A response icon 46" [ref=e2016] [cursor=pointer]:
+                          - /url: /@mattlar.jari/we-fired-jira-and-slack-8febdc0a5843?source=home_for_you---------17-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 1.2K" [ref=e2018]:
+                            - generic [ref=e2020]:
+                              - img "A clap icon" [ref=e2021]
+                              - generic [ref=e2023]: 1.2K
+                          - tooltip "A response icon 46" [ref=e2025]:
+                            - generic [ref=e2027]:
+                              - img "A response icon" [ref=e2028]
+                              - generic [ref=e2030]: "46"
+                      - generic [ref=e2031]:
+                        - tooltip "I'm not interested in this story" [ref=e2033]:
+                          - button "I'm not interested in this story" [ref=e2035] [cursor=pointer]:
+                            - img [ref=e2036]
+                        - tooltip "Add to list bookmark button" [ref=e2040]:
+                          - button "Add to list bookmark button" [ref=e2043] [cursor=pointer]:
+                            - img [ref=e2044]
+                        - tooltip "More options" [ref=e2050]:
+                          - button "More options" [ref=e2052] [cursor=pointer]:
+                            - img [ref=e2053]
+                  - generic "We Fired Jira and Slack." [ref=e2056]:
+                    - img "We Fired Jira and Slack." [ref=e2058]
+          - article [ref=e2063]:
+            - link "AI Software Engineer In AI Software Engineer by Joe Njenga Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching) With just one change, you can cut Claude API costs to 10 cents on the dollar and stop bleeding cash on every single API call. Member-only story Feb 19 A clap icon 924 A response icon 21 I'm not interested in this story Add to list bookmark button More options Anthropic Automatic Prompt Caching" [ref=e2070]:
+              - generic [ref=e2071]:
+                - generic [ref=e2073]:
+                  - tooltip "AI Software Engineer" [ref=e2076]:
+                    - link "AI Software Engineer" [ref=e2078] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------18-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "AI Software Engineer" [ref=e2080]
+                  - paragraph [ref=e2083]: In
+                  - tooltip "AI Software Engineer" [ref=e2086]:
+                    - link "AI Software Engineer" [ref=e2088] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=home_for_you---------18-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2089]: AI Software Engineer
+                  - paragraph [ref=e2091]: by
+                  - tooltip "Joe Njenga" [ref=e2093]:
+                    - link "Joe Njenga" [ref=e2095] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home_for_you---------18-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2096]: Joe Njenga
+                - generic [ref=e2097]:
+                  - generic [ref=e2098]:
+                    - link "Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching) With just one change, you can cut Claude API costs to 10 cents on the dollar and stop bleeding cash on every single API call." [ref=e2100] [cursor=pointer]:
+                      - /url: /ai-software-engineer/anthropic-just-fixed-the-biggest-hidden-cost-in-ai-agents-using-automatic-prompt-caching-9d47c95903c5?source=home_for_you---------18-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching)" [level=2] [ref=e2101]
+                      - heading "With just one change, you can cut Claude API costs to 10 cents on the dollar and stop bleeding cash on every single API call." [level=3] [ref=e2103]
+                    - generic [ref=e2107]:
+                      - generic [ref=e2108]:
+                        - button "Member-only story" [ref=e2110] [cursor=pointer]:
+                          - tooltip [ref=e2113]:
+                            - img [ref=e2115]
+                        - generic [ref=e2117]: Feb 19
+                        - link "A clap icon 924 A response icon 21" [ref=e2122] [cursor=pointer]:
+                          - /url: /ai-software-engineer/anthropic-just-fixed-the-biggest-hidden-cost-in-ai-agents-using-automatic-prompt-caching-9d47c95903c5?source=home_for_you---------18-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 924" [ref=e2124]:
+                            - generic [ref=e2126]:
+                              - img "A clap icon" [ref=e2127]
+                              - generic [ref=e2129]: "924"
+                          - tooltip "A response icon 21" [ref=e2131]:
+                            - generic [ref=e2133]:
+                              - img "A response icon" [ref=e2134]
+                              - generic [ref=e2136]: "21"
+                      - generic [ref=e2137]:
+                        - tooltip "I'm not interested in this story" [ref=e2139]:
+                          - button "I'm not interested in this story" [ref=e2141] [cursor=pointer]:
+                            - img [ref=e2142]
+                        - tooltip "Add to list bookmark button" [ref=e2146]:
+                          - button "Add to list bookmark button" [ref=e2149] [cursor=pointer]:
+                            - img [ref=e2150]
+                        - tooltip "More options" [ref=e2156]:
+                          - button "More options" [ref=e2158] [cursor=pointer]:
+                            - img [ref=e2159]
+                  - generic "Anthropic Automatic Prompt Caching" [ref=e2162]:
+                    - img "Anthropic Automatic Prompt Caching" [ref=e2164]
+          - article [ref=e2169]:
+            - link "Code With Sunil | Code Smarter, not harder Code With Sunil | Code Smarter, not harder 7 Paid Subscriptions I Actually Use in 2026 as a Software Engineer I care a lot about the tools I use — especially when they aren’t free. Member-only story Feb 1 A clap icon 269 A response icon 6 I'm not interested in this story Add to list bookmark button More options 7 Paid Subscriptions I Actually Use in 2026 as a Software Engineer" [ref=e2176]:
+              - generic [ref=e2177]:
+                - generic [ref=e2179]:
+                  - tooltip "Code With Sunil | Code Smarter, not harder" [ref=e2183]:
+                    - link "Code With Sunil | Code Smarter, not harder" [ref=e2185] [cursor=pointer]:
+                      - /url: /@sunil17bbmp?source=home_for_you---------19-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Code With Sunil | Code Smarter, not harder" [ref=e2187]
+                  - tooltip "Code With Sunil | Code Smarter, not harder" [ref=e2190]:
+                    - link "Code With Sunil | Code Smarter, not harder" [ref=e2192] [cursor=pointer]:
+                      - /url: /@sunil17bbmp?source=home_for_you---------19-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2193]: Code With Sunil | Code Smarter, not harder
+                - generic [ref=e2194]:
+                  - generic [ref=e2195]:
+                    - link "7 Paid Subscriptions I Actually Use in 2026 as a Software Engineer I care a lot about the tools I use — especially when they aren’t free." [ref=e2197] [cursor=pointer]:
+                      - /url: /@sunil17bbmp/7-paid-subscriptions-i-actually-use-in-2026-as-a-software-engineer-58ffd8a36aa4?source=home_for_you---------19-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "7 Paid Subscriptions I Actually Use in 2026 as a Software Engineer" [level=2] [ref=e2198]
+                      - heading "I care a lot about the tools I use — especially when they aren’t free." [level=3] [ref=e2200]
+                    - generic [ref=e2204]:
+                      - generic [ref=e2205]:
+                        - button "Member-only story" [ref=e2207] [cursor=pointer]:
+                          - tooltip [ref=e2210]:
+                            - img [ref=e2212]
+                        - generic [ref=e2214]: Feb 1
+                        - link "A clap icon 269 A response icon 6" [ref=e2219] [cursor=pointer]:
+                          - /url: /@sunil17bbmp/7-paid-subscriptions-i-actually-use-in-2026-as-a-software-engineer-58ffd8a36aa4?source=home_for_you---------19-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 269" [ref=e2221]:
+                            - generic [ref=e2223]:
+                              - img "A clap icon" [ref=e2224]
+                              - generic [ref=e2226]: "269"
+                          - tooltip "A response icon 6" [ref=e2228]:
+                            - generic [ref=e2230]:
+                              - img "A response icon" [ref=e2231]
+                              - generic [ref=e2233]: "6"
+                      - generic [ref=e2234]:
+                        - tooltip "I'm not interested in this story" [ref=e2236]:
+                          - button "I'm not interested in this story" [ref=e2238] [cursor=pointer]:
+                            - img [ref=e2239]
+                        - tooltip "Add to list bookmark button" [ref=e2243]:
+                          - button "Add to list bookmark button" [ref=e2246] [cursor=pointer]:
+                            - img [ref=e2247]
+                        - tooltip "More options" [ref=e2253]:
+                          - button "More options" [ref=e2255] [cursor=pointer]:
+                            - img [ref=e2256]
+                  - generic "7 Paid Subscriptions I Actually Use in 2026 as a Software Engineer" [ref=e2259]:
+                    - img "7 Paid Subscriptions I Actually Use in 2026 as a Software Engineer" [ref=e2261]
+          - article [ref=e2266]:
+            - link "Colby McHenry Colby McHenry I Cut Claude Code Exploration Time and Costs by 30% With One Tool CodeGraph gives Claude Code a pre-built understanding of your code instead of making it explore from scratch every session Jan 18 A clap icon 1.3K A response icon 46 I'm not interested in this story Add to list bookmark button More options I Cut Claude Code Exploration Time and Costs by 30% With One Tool" [ref=e2273]:
+              - generic [ref=e2274]:
+                - generic [ref=e2276]:
+                  - tooltip "Colby McHenry" [ref=e2280]:
+                    - link "Colby McHenry" [ref=e2282] [cursor=pointer]:
+                      - /url: /@me_82386?source=home_for_you---------20-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Colby McHenry" [ref=e2284]
+                  - tooltip "Colby McHenry" [ref=e2287]:
+                    - link "Colby McHenry" [ref=e2289] [cursor=pointer]:
+                      - /url: /@me_82386?source=home_for_you---------20-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2290]: Colby McHenry
+                - generic [ref=e2291]:
+                  - generic [ref=e2292]:
+                    - link "I Cut Claude Code Exploration Time and Costs by 30% With One Tool CodeGraph gives Claude Code a pre-built understanding of your code instead of making it explore from scratch every session" [ref=e2294] [cursor=pointer]:
+                      - /url: /@me_82386/i-cut-my-claude-code-api-costs-by-40-with-one-tool-12cf4306a1ab?source=home_for_you---------20-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "I Cut Claude Code Exploration Time and Costs by 30% With One Tool" [level=2] [ref=e2295]
+                      - heading "CodeGraph gives Claude Code a pre-built understanding of your code instead of making it explore from scratch every session" [level=3] [ref=e2297]
+                    - generic [ref=e2301]:
+                      - generic [ref=e2302]:
+                        - generic [ref=e2303]: Jan 18
+                        - link "A clap icon 1.3K A response icon 46" [ref=e2308] [cursor=pointer]:
+                          - /url: /@me_82386/i-cut-my-claude-code-api-costs-by-40-with-one-tool-12cf4306a1ab?source=home_for_you---------20-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 1.3K" [ref=e2310]:
+                            - generic [ref=e2312]:
+                              - img "A clap icon" [ref=e2313]
+                              - generic [ref=e2315]: 1.3K
+                          - tooltip "A response icon 46" [ref=e2317]:
+                            - generic [ref=e2319]:
+                              - img "A response icon" [ref=e2320]
+                              - generic [ref=e2322]: "46"
+                      - generic [ref=e2323]:
+                        - tooltip "I'm not interested in this story" [ref=e2325]:
+                          - button "I'm not interested in this story" [ref=e2327] [cursor=pointer]:
+                            - img [ref=e2328]
+                        - tooltip "Add to list bookmark button" [ref=e2332]:
+                          - button "Add to list bookmark button" [ref=e2335] [cursor=pointer]:
+                            - img [ref=e2336]
+                        - tooltip "More options" [ref=e2342]:
+                          - button "More options" [ref=e2344] [cursor=pointer]:
+                            - img [ref=e2345]
+                  - generic "I Cut Claude Code Exploration Time and Costs by 30% With One Tool" [ref=e2348]:
+                    - img "I Cut Claude Code Exploration Time and Costs by 30% With One Tool" [ref=e2350]
+          - article [ref=e2355]:
+            - link "Level Up Coding In Level Up Coding by Fareed Khan Full-Stack Contextual Engineering for AI Agents Distillation, Consolidation, Guardrails, and More Member-only story Mar 6 A clap icon 367 A response icon 4 I'm not interested in this story Add to list bookmark button More options Full-Stack Contextual Engineering for AI Agents" [ref=e2362]:
+              - generic [ref=e2363]:
+                - generic [ref=e2365]:
+                  - tooltip "Level Up Coding" [ref=e2368]:
+                    - link "Level Up Coding" [ref=e2370] [cursor=pointer]:
+                      - /url: https://medium.com/gitconnected?source=home_for_you---------21-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Level Up Coding" [ref=e2372]
+                  - paragraph [ref=e2375]: In
+                  - tooltip "Level Up Coding" [ref=e2378]:
+                    - link "Level Up Coding" [ref=e2380] [cursor=pointer]:
+                      - /url: https://medium.com/gitconnected?source=home_for_you---------21-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2381]: Level Up Coding
+                  - paragraph [ref=e2383]: by
+                  - tooltip "Fareed Khan" [ref=e2385]:
+                    - link "Fareed Khan" [ref=e2387] [cursor=pointer]:
+                      - /url: /@fareedkhandev?source=home_for_you---------21-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2388]: Fareed Khan
+                - generic [ref=e2389]:
+                  - generic [ref=e2390]:
+                    - link "Full-Stack Contextual Engineering for AI Agents Distillation, Consolidation, Guardrails, and More" [ref=e2392] [cursor=pointer]:
+                      - /url: /gitconnected/full-stack-contextual-engineering-for-ai-agents-435ae0169b68?source=home_for_you---------21-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "Full-Stack Contextual Engineering for AI Agents" [level=2] [ref=e2393]
+                      - heading "Distillation, Consolidation, Guardrails, and More" [level=3] [ref=e2395]
+                    - generic [ref=e2399]:
+                      - generic [ref=e2400]:
+                        - button "Member-only story" [ref=e2402] [cursor=pointer]:
+                          - tooltip [ref=e2405]:
+                            - img [ref=e2407]
+                        - generic [ref=e2409]: Mar 6
+                        - link "A clap icon 367 A response icon 4" [ref=e2414] [cursor=pointer]:
+                          - /url: /gitconnected/full-stack-contextual-engineering-for-ai-agents-435ae0169b68?source=home_for_you---------21-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 367" [ref=e2416]:
+                            - generic [ref=e2418]:
+                              - img "A clap icon" [ref=e2419]
+                              - generic [ref=e2421]: "367"
+                          - tooltip "A response icon 4" [ref=e2423]:
+                            - generic [ref=e2425]:
+                              - img "A response icon" [ref=e2426]
+                              - generic [ref=e2428]: "4"
+                      - generic [ref=e2429]:
+                        - tooltip "I'm not interested in this story" [ref=e2431]:
+                          - button "I'm not interested in this story" [ref=e2433] [cursor=pointer]:
+                            - img [ref=e2434]
+                        - tooltip "Add to list bookmark button" [ref=e2438]:
+                          - button "Add to list bookmark button" [ref=e2441] [cursor=pointer]:
+                            - img [ref=e2442]
+                        - tooltip "More options" [ref=e2448]:
+                          - button "More options" [ref=e2450] [cursor=pointer]:
+                            - img [ref=e2451]
+                  - generic "Full-Stack Contextual Engineering for AI Agents" [ref=e2454]:
+                    - img "Full-Stack Contextual Engineering for AI Agents" [ref=e2456]
+          - article [ref=e2461]:
+            - link "Techx_official In Techx_official by Ship X/ TechX The 110-Millisecond Spy (and Why This Should Scare Every Tech Company) A 110-millisecond delay revealed a fake Amazon engineer, exposing laptop farms, remote work fraud, and how physics beats AI identity… Member-only story Dec 20, 2025 A clap icon 3.8K A response icon 63 I'm not interested in this story Add to list bookmark button More options The 110-Millisecond Spy (and Why This Should Scare Every Tech Company)" [ref=e2468]:
+              - generic [ref=e2469]:
+                - generic [ref=e2471]:
+                  - tooltip "Techx_official" [ref=e2474]:
+                    - link "Techx_official" [ref=e2476] [cursor=pointer]:
+                      - /url: https://medium.com/techx-official?source=home_for_you---------22-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Techx_official" [ref=e2478]
+                  - paragraph [ref=e2481]: In
+                  - tooltip "Techx_official" [ref=e2484]:
+                    - link "Techx_official" [ref=e2486] [cursor=pointer]:
+                      - /url: https://medium.com/techx-official?source=home_for_you---------22-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2487]: Techx_official
+                  - paragraph [ref=e2489]: by
+                  - tooltip "Ship X/ TechX" [ref=e2491]:
+                    - link "Ship X/ TechX" [ref=e2493] [cursor=pointer]:
+                      - /url: /@shipx?source=home_for_you---------22-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2494]: Ship X/ TechX
+                - generic [ref=e2495]:
+                  - generic [ref=e2496]:
+                    - link "The 110-Millisecond Spy (and Why This Should Scare Every Tech Company) A 110-millisecond delay revealed a fake Amazon engineer, exposing laptop farms, remote work fraud, and how physics beats AI identity…" [ref=e2498] [cursor=pointer]:
+                      - /url: /techx-official/the-110-millisecond-spy-and-why-this-should-scare-every-tech-company-4ad0914ba2be?source=home_for_you---------22-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "The 110-Millisecond Spy (and Why This Should Scare Every Tech Company)" [level=2] [ref=e2499]
+                      - heading "A 110-millisecond delay revealed a fake Amazon engineer, exposing laptop farms, remote work fraud, and how physics beats AI identity…" [level=3] [ref=e2501]
+                    - generic [ref=e2505]:
+                      - generic [ref=e2506]:
+                        - button "Member-only story" [ref=e2508] [cursor=pointer]:
+                          - tooltip [ref=e2511]:
+                            - img [ref=e2513]
+                        - generic [ref=e2515]: Dec 20, 2025
+                        - link "A clap icon 3.8K A response icon 63" [ref=e2520] [cursor=pointer]:
+                          - /url: /techx-official/the-110-millisecond-spy-and-why-this-should-scare-every-tech-company-4ad0914ba2be?source=home_for_you---------22-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 3.8K" [ref=e2522]:
+                            - generic [ref=e2524]:
+                              - img "A clap icon" [ref=e2525]
+                              - generic [ref=e2527]: 3.8K
+                          - tooltip "A response icon 63" [ref=e2529]:
+                            - generic [ref=e2531]:
+                              - img "A response icon" [ref=e2532]
+                              - generic [ref=e2534]: "63"
+                      - generic [ref=e2535]:
+                        - tooltip "I'm not interested in this story" [ref=e2537]:
+                          - button "I'm not interested in this story" [ref=e2539] [cursor=pointer]:
+                            - img [ref=e2540]
+                        - tooltip "Add to list bookmark button" [ref=e2544]:
+                          - button "Add to list bookmark button" [ref=e2547] [cursor=pointer]:
+                            - img [ref=e2548]
+                        - tooltip "More options" [ref=e2554]:
+                          - button "More options" [ref=e2556] [cursor=pointer]:
+                            - img [ref=e2557]
+                  - generic "The 110-Millisecond Spy (and Why This Should Scare Every Tech Company)" [ref=e2560]:
+                    - img "The 110-Millisecond Spy (and Why This Should Scare Every Tech Company)" [ref=e2562]
+          - article [ref=e2567]:
+            - link "Agent Native Agent Native I Ignored 30+ OpenClaw Alternatives Until OpenFang Fully open-source Agent Operating System, written entirely in Rust, shipping as a single 32 MB binary with a 180 ms cold start. Member-only story 4d ago A clap icon 351 A response icon 10 I'm not interested in this story Add to list bookmark button More options I Ignored 30+ OpenClaw Alternatives Until OpenFang" [ref=e2574]:
+              - generic [ref=e2575]:
+                - generic [ref=e2577]:
+                  - tooltip "Agent Native" [ref=e2581]:
+                    - link "Agent Native" [ref=e2583] [cursor=pointer]:
+                      - /url: /@agentnativedev?source=home_for_you---------23-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Agent Native" [ref=e2585]
+                  - tooltip "Agent Native" [ref=e2588]:
+                    - link "Agent Native" [ref=e2590] [cursor=pointer]:
+                      - /url: /@agentnativedev?source=home_for_you---------23-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2591]: Agent Native
+                - generic [ref=e2592]:
+                  - generic [ref=e2593]:
+                    - link "I Ignored 30+ OpenClaw Alternatives Until OpenFang Fully open-source Agent Operating System, written entirely in Rust, shipping as a single 32 MB binary with a 180 ms cold start." [ref=e2595] [cursor=pointer]:
+                      - /url: /@agentnativedev/i-ignored-30-openclaw-alternatives-until-openfang-ff11851b83f1?source=home_for_you---------23-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "I Ignored 30+ OpenClaw Alternatives Until OpenFang" [level=2] [ref=e2596]
+                      - heading "Fully open-source Agent Operating System, written entirely in Rust, shipping as a single 32 MB binary with a 180 ms cold start." [level=3] [ref=e2598]
+                    - generic [ref=e2602]:
+                      - generic [ref=e2603]:
+                        - button "Member-only story" [ref=e2605] [cursor=pointer]:
+                          - tooltip [ref=e2608]:
+                            - img [ref=e2610]
+                        - generic [ref=e2612]: 4d ago
+                        - link "A clap icon 351 A response icon 10" [ref=e2617] [cursor=pointer]:
+                          - /url: /@agentnativedev/i-ignored-30-openclaw-alternatives-until-openfang-ff11851b83f1?source=home_for_you---------23-98--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 351" [ref=e2619]:
+                            - generic [ref=e2621]:
+                              - img "A clap icon" [ref=e2622]
+                              - generic [ref=e2624]: "351"
+                          - tooltip "A response icon 10" [ref=e2626]:
+                            - generic [ref=e2628]:
+                              - img "A response icon" [ref=e2629]
+                              - generic [ref=e2631]: "10"
+                      - generic [ref=e2632]:
+                        - tooltip "I'm not interested in this story" [ref=e2634]:
+                          - button "I'm not interested in this story" [ref=e2636] [cursor=pointer]:
+                            - img [ref=e2637]
+                        - tooltip "Add to list bookmark button" [ref=e2641]:
+                          - button "Add to list bookmark button" [ref=e2644] [cursor=pointer]:
+                            - img [ref=e2645]
+                        - tooltip "More options" [ref=e2651]:
+                          - button "More options" [ref=e2653] [cursor=pointer]:
+                            - img [ref=e2654]
+                  - generic "I Ignored 30+ OpenClaw Alternatives Until OpenFang" [ref=e2657]:
+                    - img "I Ignored 30+ OpenClaw Alternatives Until OpenFang" [ref=e2659]
+          - article [ref=e2664]:
+            - link "Vibe Coding Chronicles In Vibe Coding Chronicles by Safoura jolfaei Clawdbot Is Amazing. Don’t Install It. The future of AI assistants is here. But nobody’s talking about the dark side. Member-only story Jan 26 A clap icon 543 A response icon 8 I'm not interested in this story Add to list bookmark button More options Clawdbot Is Amazing. Don’t Install It." [ref=e2671]:
+              - generic [ref=e2672]:
+                - generic [ref=e2674]:
+                  - tooltip "Vibe Coding Chronicles" [ref=e2677]:
+                    - link "Vibe Coding Chronicles" [ref=e2679] [cursor=pointer]:
+                      - /url: https://medium.com/vibe-coding-chronicles?source=home_for_you---------24-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - img "Vibe Coding Chronicles" [ref=e2681]
+                  - paragraph [ref=e2684]: In
+                  - tooltip "Vibe Coding Chronicles" [ref=e2687]:
+                    - link "Vibe Coding Chronicles" [ref=e2689] [cursor=pointer]:
+                      - /url: https://medium.com/vibe-coding-chronicles?source=home_for_you---------24-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2690]: Vibe Coding Chronicles
+                  - paragraph [ref=e2692]: by
+                  - tooltip "Safoura jolfaei" [ref=e2694]:
+                    - link "Safoura jolfaei" [ref=e2696] [cursor=pointer]:
+                      - /url: /@sa.aghadavood?source=home_for_you---------24-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - paragraph [ref=e2697]: Safoura jolfaei
+                - generic [ref=e2698]:
+                  - generic [ref=e2699]:
+                    - link "Clawdbot Is Amazing. Don’t Install It. The future of AI assistants is here. But nobody’s talking about the dark side." [ref=e2701] [cursor=pointer]:
+                      - /url: /vibe-coding-chronicles/clawdbot-is-amazing-dont-install-it-3ed70031ae2e?source=home_for_you---------24-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                      - heading "Clawdbot Is Amazing. Don’t Install It." [level=2] [ref=e2702]
+                      - heading "The future of AI assistants is here. But nobody’s talking about the dark side." [level=3] [ref=e2704]
+                    - generic [ref=e2708]:
+                      - generic [ref=e2709]:
+                        - button "Member-only story" [ref=e2711] [cursor=pointer]:
+                          - tooltip [ref=e2714]:
+                            - img [ref=e2716]
+                        - generic [ref=e2718]: Jan 26
+                        - link "A clap icon 543 A response icon 8" [ref=e2723] [cursor=pointer]:
+                          - /url: /vibe-coding-chronicles/clawdbot-is-amazing-dont-install-it-3ed70031ae2e?source=home_for_you---------24-83--------------------a8bdc545_99cb_4cd4_9477_d9dd78e54c57-------15-------
+                          - tooltip "A clap icon 543" [ref=e2725]:
+                            - generic [ref=e2727]:
+                              - img "A clap icon" [ref=e2728]
+                              - generic [ref=e2730]: "543"
+                          - tooltip "A response icon 8" [ref=e2732]:
+                            - generic [ref=e2734]:
+                              - img "A response icon" [ref=e2735]
+                              - generic [ref=e2737]: "8"
+                      - generic [ref=e2738]:
+                        - tooltip "I'm not interested in this story" [ref=e2740]:
+                          - button "I'm not interested in this story" [ref=e2742] [cursor=pointer]:
+                            - img [ref=e2743]
+                        - tooltip "Add to list bookmark button" [ref=e2747]:
+                          - button "Add to list bookmark button" [ref=e2750] [cursor=pointer]:
+                            - img [ref=e2751]
+                        - tooltip "More options" [ref=e2757]:
+                          - button "More options" [ref=e2759] [cursor=pointer]:
+                            - img [ref=e2760]
+                  - generic "Clawdbot Is Amazing. Don’t Install It." [ref=e2763]:
+                    - img "Clawdbot Is Amazing. Don’t Install It." [ref=e2765]
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - link "Staff Picks" [ref=e100] [cursor=pointer]:
+            - /url: /@MediumStaff/list/staff-picks-c7bc6e1ee00f?source=home---list_module-----------------------------------------
+            - heading "Staff Picks" [level=2] [ref=e101]
+          - generic [ref=e102]:
+            - generic [ref=e104]:
+              - generic [ref=e105]:
+                - tooltip "Fossils et al." [ref=e108]:
+                  - link "Fossils et al." [ref=e110] [cursor=pointer]:
+                    - /url: https://medium.com/fossils-et-al?source=home---list_module-----------------------------------------
+                    - img "Fossils et al." [ref=e112]
+                - paragraph [ref=e115]: In
+                - tooltip "Fossils et al." [ref=e118]:
+                  - link "Fossils et al." [ref=e120] [cursor=pointer]:
+                    - /url: https://medium.com/fossils-et-al?source=home---list_module-----------------------------------------
+                    - paragraph [ref=e121]: Fossils et al.
+                - paragraph [ref=e123]: by
+                - tooltip "Alejandro Izquierdo López, PhD" [ref=e125]:
+                  - link "Alejandro Izquierdo López, PhD" [ref=e127] [cursor=pointer]:
+                    - /url: /@alizlo?source=home---list_module-----------------------------------------
+                    - paragraph [ref=e128]: Alejandro Izquierdo López, PhD
+              - link "Stop it! Animals don’t evolve into crabs Member-only story Feb 21" [ref=e129] [cursor=pointer]:
+                - /url: /fossils-et-al/stop-it-animals-dont-evolve-into-crabs-e713f7826559?source=home---list_module-----------------------------------------
+                - heading "Stop it! Animals don’t evolve into crabs" [level=2] [ref=e131]
+                - generic [ref=e132]:
+                  - button "Member-only story" [ref=e134]:
+                    - tooltip [ref=e137]:
+                      - img [ref=e139]
+                  - generic [ref=e141]: Feb 21
+            - generic [ref=e143]:
+              - generic [ref=e144]:
+                - tooltip "The Medium Blog" [ref=e147]:
+                  - link "The Medium Blog" [ref=e149] [cursor=pointer]:
+                    - /url: https://medium.com/blog?source=home---list_module-----------------------------------------
+                    - img "The Medium Blog" [ref=e151]
+                - paragraph [ref=e154]: In
+                - tooltip "The Medium Blog" [ref=e157]:
+                  - link "The Medium Blog" [ref=e159] [cursor=pointer]:
+                    - /url: https://medium.com/blog?source=home---list_module-----------------------------------------
+                    - paragraph [ref=e160]: The Medium Blog
+                - paragraph [ref=e162]: by
+                - tooltip "Medium Staff" [ref=e164]:
+                  - link "Medium Staff" [ref=e166] [cursor=pointer]:
+                    - /url: /@MediumStaff?source=home---list_module-----------------------------------------
+                    - paragraph [ref=e167]: Medium Staff
+              - link "How Medium moderates its open platform in the AI era 4d ago" [ref=e168] [cursor=pointer]:
+                - /url: /blog/how-medium-moderates-its-open-platform-in-the-ai-era-6ffb28f38cf8?source=home---list_module-----------------------------------------
+                - heading "How Medium moderates its open platform in the AI era" [level=2] [ref=e170]
+                - generic [ref=e172]: 4d ago
+            - generic [ref=e174]:
+              - generic [ref=e175]:
+                - tooltip "Fourth Wave" [ref=e178]:
+                  - link "Fourth Wave" [ref=e180] [cursor=pointer]:
+                    - /url: https://medium.com/fourth-wave?source=home---list_module-----------------------------------------
+                    - img "Fourth Wave" [ref=e182]
+                - paragraph [ref=e185]: In
+                - tooltip "Fourth Wave" [ref=e188]:
+                  - link "Fourth Wave" [ref=e190] [cursor=pointer]:
+                    - /url: https://medium.com/fourth-wave?source=home---list_module-----------------------------------------
+                    - paragraph [ref=e191]: Fourth Wave
+                - paragraph [ref=e193]: by
+                - tooltip "Vilma G. Reynoso" [ref=e195]:
+                  - link "Vilma G. Reynoso" [ref=e197] [cursor=pointer]:
+                    - /url: /@vilmareynoso?source=home---list_module-----------------------------------------
+                    - paragraph [ref=e198]: Vilma G. Reynoso
+              - link "Why Women’s History Month Matters for All Women Member-only story Feb 26" [ref=e199] [cursor=pointer]:
+                - /url: /fourth-wave/why-womens-history-month-matters-for-all-women-978090b95f93?source=home---list_module-----------------------------------------
+                - heading "Why Women’s History Month Matters for All Women" [level=2] [ref=e201]
+                - generic [ref=e202]:
+                  - button "Member-only story" [ref=e204]:
+                    - tooltip [ref=e207]:
+                      - img [ref=e209]
+                  - generic [ref=e211]: Feb 26
+          - paragraph [ref=e212]:
+            - link "See the full list" [ref=e213] [cursor=pointer]:
+              - /url: /@MediumStaff/list/staff-picks-c7bc6e1ee00f?source=home---list_module-----------------------------------------
+        - generic [ref=e2767]:
+          - generic [ref=e2769]:
+            - heading "Recommended topics" [level=2] [ref=e2771]
+            - generic [ref=e2772]:
+              - link "Books" [ref=e2774] [cursor=pointer]:
+                - /url: /tag/books?source=home---topics_to_follow------0------------------30-----------------
+                - generic [ref=e2775]: Books
+              - link "Remote Work" [ref=e2777] [cursor=pointer]:
+                - /url: /tag/remote-work?source=home---topics_to_follow------1------------------30-----------------
+                - generic [ref=e2778]: Remote Work
+              - link "Work" [ref=e2780] [cursor=pointer]:
+                - /url: /tag/work?source=home---topics_to_follow------2------------------30-----------------
+                - generic [ref=e2781]: Work
+              - link "Podcast" [ref=e2783] [cursor=pointer]:
+                - /url: /tag/podcast?source=home---topics_to_follow------3------------------30-----------------
+                - generic [ref=e2784]: Podcast
+              - link "Future" [ref=e2786] [cursor=pointer]:
+                - /url: /tag/future?source=home---topics_to_follow------4------------------30-----------------
+                - generic [ref=e2787]: Future
+              - link "Neuroscience" [ref=e2789] [cursor=pointer]:
+                - /url: /tag/neuroscience?source=home---topics_to_follow------5------------------30-----------------
+                - generic [ref=e2790]: Neuroscience
+              - link "Artificial Intelligence" [ref=e2792] [cursor=pointer]:
+                - /url: /tag/artificial-intelligence?source=home---topics_to_follow------6------------------30-----------------
+                - generic [ref=e2793]: Artificial Intelligence
+            - paragraph [ref=e2795]:
+              - link "See more topics" [ref=e2796] [cursor=pointer]:
+                - /url: /explore-topics?source=home---topics_to_follow-----------------------------------------
+          - generic [ref=e2798]:
+            - generic [ref=e2799]:
+              - heading "Who to follow" [level=2] [ref=e2802]
+              - generic [ref=e2803]:
+                - generic [ref=e2805]:
+                  - generic [ref=e2806]:
+                    - link "Matthew MacDonald" [ref=e2807] [cursor=pointer]:
+                      - /url: /@prosetech?source=home---who_to_follow------0-----------------------------------
+                      - img "Matthew MacDonald" [ref=e2809]
+                    - generic [ref=e2811]:
+                      - link "Matthew MacDonald" [ref=e2812] [cursor=pointer]:
+                        - /url: /@prosetech?source=home---who_to_follow------0-----------------------------------
+                        - heading "Matthew MacDonald" [level=2] [ref=e2813]
+                      - 'link "Teacher, coder, long-ago Microsoft MVP. Author of heavy books. Join Young Coder for a creative take on science and technology. Queries: matthew@prosetech.com" [ref=e2814] [cursor=pointer]':
+                        - /url: /@prosetech?source=home---who_to_follow------0-----------------------------------
+                        - paragraph [ref=e2816]: "Teacher, coder, long-ago Microsoft MVP. Author of heavy books. Join Young Coder for a creative take on science and technology. Queries: matthew@prosetech.com"
+                  - button "Follow" [ref=e2819] [cursor=pointer]:
+                    - generic [ref=e2821]: Follow
+                - generic [ref=e2823]:
+                  - generic [ref=e2824]:
+                    - link "Slackjaw" [ref=e2825] [cursor=pointer]:
+                      - /url: https://medium.com/slackjaw?source=home---who_to_follow------1-----------------------------------
+                      - img "Slackjaw" [ref=e2827]
+                    - generic [ref=e2829]:
+                      - link "Slackjaw" [ref=e2830] [cursor=pointer]:
+                        - /url: https://medium.com/slackjaw?source=home---who_to_follow------1-----------------------------------
+                        - heading "Slackjaw" [level=2] [ref=e2831]
+                      - paragraph [ref=e2833]: Publication
+                      - link "Medium humor. Large laughs." [ref=e2834] [cursor=pointer]:
+                        - /url: https://medium.com/slackjaw?source=home---who_to_follow------1-----------------------------------
+                        - paragraph [ref=e2836]: Medium humor. Large laughs.
+                  - button "Follow" [ref=e2838] [cursor=pointer]:
+                    - generic [ref=e2840]: Follow
+                - generic [ref=e2842]:
+                  - generic [ref=e2843]:
+                    - link "Ryan Holiday" [ref=e2844] [cursor=pointer]:
+                      - /url: /@ryanholiday?source=home---who_to_follow------2-----------------------------------
+                      - img "Ryan Holiday" [ref=e2846]
+                    - generic [ref=e2848]:
+                      - link "Ryan Holiday" [ref=e2849] [cursor=pointer]:
+                        - /url: /@ryanholiday?source=home---who_to_follow------2-----------------------------------
+                        - heading "Ryan Holiday" [level=2] [ref=e2850]
+                      - link "Bestselling author of ‘Conspiracy,’ ‘Ego is the Enemy’ & ‘The Obstacle Is The Way’ http://amzn.to/24qKRWR" [ref=e2851] [cursor=pointer]:
+                        - /url: /@ryanholiday?source=home---who_to_follow------2-----------------------------------
+                        - paragraph [ref=e2853]: Bestselling author of ‘Conspiracy,’ ‘Ego is the Enemy’ & ‘The Obstacle Is The Way’ http://amzn.to/24qKRWR
+                  - button "Follow" [ref=e2856] [cursor=pointer]:
+                    - generic [ref=e2858]: Follow
+            - paragraph [ref=e2860]:
+              - link "See more suggestions" [ref=e2861] [cursor=pointer]:
+                - /url: /me/following/suggestions?source=home---who_to_follow-----------------------------------------
+          - generic [ref=e2863]:
+            - heading "Your Reading list" [level=2] [ref=e2864]
+            - generic [ref=e2865]:
+              - generic [ref=e2868]:
+                - generic [ref=e2869]:
+                  - tooltip "Joe Njenga" [ref=e2873]:
+                    - link "Joe Njenga" [ref=e2875] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home---recently_saved------0-----------------------------------
+                      - img "Joe Njenga" [ref=e2877]
+                  - tooltip "Joe Njenga" [ref=e2880]:
+                    - link "Joe Njenga" [ref=e2882] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home---recently_saved------0-----------------------------------
+                      - paragraph [ref=e2883]: Joe Njenga
+                - link "13 MCP Servers for Data Wranglers (To Turn Data to Gold) Member-only story Jun 29, 2025" [ref=e2884] [cursor=pointer]:
+                  - /url: /@joe.njenga/13-mcp-servers-for-data-wranglers-to-turn-data-to-gold-3752c5aa5414?source=home---recently_saved------0-----------------------------------
+                  - heading "13 MCP Servers for Data Wranglers (To Turn Data to Gold)" [level=2] [ref=e2886]
+                  - generic [ref=e2887]:
+                    - button "Member-only story" [ref=e2889]:
+                      - tooltip [ref=e2892]:
+                        - img [ref=e2894]
+                    - generic [ref=e2896]: Jun 29, 2025
+              - generic [ref=e2899]:
+                - generic [ref=e2900]:
+                  - tooltip "Joe Njenga" [ref=e2904]:
+                    - link "Joe Njenga" [ref=e2906] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home---recently_saved------1-----------------------------------
+                      - img "Joe Njenga" [ref=e2908]
+                  - tooltip "Joe Njenga" [ref=e2911]:
+                    - link "Joe Njenga" [ref=e2913] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=home---recently_saved------1-----------------------------------
+                      - paragraph [ref=e2914]: Joe Njenga
+                - link "These 9 Google MCP Servers Will Take Your Automated Workflow (To The Next Level) Member-only story Jul 21, 2025" [ref=e2915] [cursor=pointer]:
+                  - /url: /@joe.njenga/these-9-google-mcp-servers-will-take-your-automated-workflow-to-the-next-level-3b3f190aa713?source=home---recently_saved------1-----------------------------------
+                  - heading "These 9 Google MCP Servers Will Take Your Automated Workflow (To The Next Level)" [level=2] [ref=e2917]
+                  - generic [ref=e2918]:
+                    - button "Member-only story" [ref=e2920]:
+                      - tooltip [ref=e2923]:
+                        - img [ref=e2925]
+                    - generic [ref=e2927]: Jul 21, 2025
+              - generic [ref=e2930]:
+                - generic [ref=e2931]:
+                  - tooltip "Towards AI" [ref=e2934]:
+                    - link "Towards AI" [ref=e2936] [cursor=pointer]:
+                      - /url: https://medium.com/towards-artificial-intelligence?source=home---recently_saved------2-----------------------------------
+                      - img "Towards AI" [ref=e2938]
+                  - paragraph [ref=e2941]: In
+                  - tooltip "Towards AI" [ref=e2944]:
+                    - link "Towards AI" [ref=e2946] [cursor=pointer]:
+                      - /url: https://medium.com/towards-artificial-intelligence?source=home---recently_saved------2-----------------------------------
+                      - paragraph [ref=e2947]: Towards AI
+                  - paragraph [ref=e2949]: by
+                  - tooltip "MahendraMedapati" [ref=e2951]:
+                    - link "MahendraMedapati" [ref=e2953] [cursor=pointer]:
+                      - /url: /@mahendramedapati?source=home---recently_saved------2-----------------------------------
+                      - paragraph [ref=e2954]: MahendraMedapati
+                - 'link "🤖 The Ultimate Guide to Agentic AI Frameworks in 2025: Which One Should You Choose to Build the… Member-only story Jul 25, 2025" [ref=e2955] [cursor=pointer]':
+                  - /url: /towards-artificial-intelligence/the-ultimate-guide-to-agentic-ai-frameworks-in-2025-which-one-should-you-choose-to-build-the-a1f861f403d8?source=home---recently_saved------2-----------------------------------
+                  - 'heading "🤖 The Ultimate Guide to Agentic AI Frameworks in 2025: Which One Should You Choose to Build the…" [level=2] [ref=e2957]'
+                  - generic [ref=e2958]:
+                    - button "Member-only story" [ref=e2960]:
+                      - tooltip [ref=e2963]:
+                        - img [ref=e2965]
+                    - generic [ref=e2967]: Jul 25, 2025
+            - paragraph [ref=e2969]:
+              - link "See all (89)" [ref=e2970] [cursor=pointer]:
+                - /url: /@randypellegrini/list/reading-list?source=home--------------------------------------------
+      - generic [ref=e224]:
+        - link "Help" [ref=e226] [cursor=pointer]:
+          - /url: https://help.medium.com/hc/en-us?source=home--------------------------------------------
+          - paragraph [ref=e227]: Help
+        - link "Status" [ref=e229] [cursor=pointer]:
+          - /url: https://status.medium.com/?source=home--------------------------------------------
+          - paragraph [ref=e230]: Status
+        - link "About" [ref=e232] [cursor=pointer]:
+          - /url: /about?autoplay=1&source=home--------------------------------------------
+          - paragraph [ref=e233]: About
+        - link "Careers" [ref=e235] [cursor=pointer]:
+          - /url: /jobs-at-medium/work-at-medium-959d1a85284e?source=home--------------------------------------------
+          - paragraph [ref=e236]: Careers
+        - link "Press" [ref=e238] [cursor=pointer]:
+          - /url: mailto:pressinquiries@medium.com
+          - paragraph [ref=e239]: Press
+        - link "Blog" [ref=e241] [cursor=pointer]:
+          - /url: https://blog.medium.com/?source=home--------------------------------------------
+          - paragraph [ref=e242]: Blog
+        - link "Privacy" [ref=e244] [cursor=pointer]:
+          - /url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=home--------------------------------------------
+          - paragraph [ref=e245]: Privacy
+        - link "Rules" [ref=e247] [cursor=pointer]:
+          - /url: https://policy.medium.com/medium-rules-30e5502c4eb4?source=home--------------------------------------------
+          - paragraph [ref=e248]: Rules
+        - link "Terms" [ref=e250] [cursor=pointer]:
+          - /url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=home--------------------------------------------
+          - paragraph [ref=e251]: Terms
+        - link "Text to speech" [ref=e253] [cursor=pointer]:
+          - /url: https://speechify.com/medium?source=home--------------------------------------------
+          - paragraph [ref=e254]: Text to speech

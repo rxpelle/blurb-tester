@@ -1,0 +1,1378 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - tooltip "Sidebar menu" [ref=e9]:
+        - button "Sidebar menu" [ref=e11] [cursor=pointer]:
+          - generic [ref=e12]: Sidebar menu
+          - img [ref=e13]
+      - link "Homepage" [ref=e16] [cursor=pointer]:
+        - /url: /?source=post_page---top_nav_layout_nav-----------------------------------------
+        - img "Medium Logo" [ref=e17]
+      - generic [ref=e20]:
+        - listbox
+        - img [ref=e22]
+        - combobox "search" [ref=e24]
+    - link "Write" [ref=e26] [cursor=pointer]:
+      - /url: https://medium.com/new-story?source=post_page---top_nav_layout_nav-----------------------------------------
+      - generic [ref=e27]:
+        - img [ref=e28]
+        - text: Write
+    - tooltip "Notifications" [ref=e33]:
+      - link "Notifications" [ref=e35] [cursor=pointer]:
+        - /url: /me/notifications?source=post_page---top_nav_layout_nav-----------------------------------------
+        - generic [ref=e36]:
+          - img [ref=e37]
+          - generic [ref=e40]: Notifications
+    - tooltip "user options menu" [ref=e43]:
+      - button "user options menu" [ref=e45] [cursor=pointer]:
+        - generic [ref=e46]:
+          - img "randy pellegrini" [ref=e48]
+          - img [ref=e50]
+  - generic [ref=e55]:
+    - generic:
+      - dialog
+    - article [ref=e57]:
+      - generic [ref=e61]:
+        - tooltip "Member-only story" [ref=e68]:
+          - generic [ref=e70] [cursor=pointer]:
+            - img [ref=e71]
+            - paragraph [ref=e73]: Member-only story
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - heading "Anthropic Just Added Auto-Memory to Claude Code — MEMORY.md (I Tested It)" [level=1] [ref=e78]
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - tooltip "Joe Njenga" [ref=e86]:
+                    - link "Joe Njenga" [ref=e88] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---byline--0ab8422754d2---------------------------------------
+                      - img "Joe Njenga" [ref=e91]
+                  - generic [ref=e95]:
+                    - tooltip "Joe Njenga" [ref=e98]:
+                      - link "Joe Njenga" [ref=e101] [cursor=pointer]:
+                        - /url: /@joe.njenga?source=post_page---byline--0ab8422754d2---------------------------------------
+                    - button "Follow" [ref=e103] [cursor=pointer]:
+                      - generic [ref=e105]: Follow
+                - generic [ref=e108]:
+                  - generic [ref=e109]: 12 min read
+                  - generic [ref=e111]: ·
+                  - generic [ref=e112]: Feb 27, 2026
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - generic [ref=e116]:
+                    - tooltip "clap" [ref=e120]:
+                      - button "clap" [ref=e122] [cursor=pointer]:
+                        - img "clap"
+                    - tooltip "599" [ref=e125]:
+                      - paragraph [ref=e1178]:
+                        - button "599" [ref=e1179] [cursor=pointer]: "599"
+                  - tooltip "responses" [ref=e130]:
+                    - button "responses" [ref=e132] [cursor=pointer]:
+                      - img [ref=e133]
+                      - paragraph [ref=e135]: "7"
+                - generic [ref=e136]:
+                  - tooltip "Add to list bookmark button" [ref=e139]:
+                    - button "Add to list bookmark button" [ref=e142] [cursor=pointer]:
+                      - img [ref=e143]
+                  - tooltip "Listen" [ref=e150]:
+                    - tooltip "Listen" [ref=e152]:
+                      - button "Listen" [ref=e154] [cursor=pointer]:
+                        - img [ref=e155]
+                  - tooltip "Share Post" [ref=e159]:
+                    - button "Share Post" [ref=e161] [cursor=pointer]:
+                      - img [ref=e162]
+                  - tooltip "More options" [ref=e167]:
+                    - button "More options" [ref=e169] [cursor=pointer]:
+                      - img [ref=e170]
+          - figure [ref=e172]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e173]:
+              - generic [ref=e174]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e177]
+          - paragraph [ref=e178]: You don’t have to worry about losing your session context anymore. The new auto-memory feature on Claude Code is what you all needed.
+          - blockquote [ref=e179]:
+            - paragraph [ref=e180]:
+              - strong [ref=e181]: If you have been using Claude Code for a while, you know that when you close a session, come back the next day, and Claude remembers nothing.
+          - paragraph [ref=e182]: You end up re-explaining the same things over and over to get Claude back up to speed.
+          - blockquote [ref=e183]:
+            - paragraph [ref=e184]:
+              - strong [ref=e185]: Anthropic just rolled out auto-memory for Claude Code, and it solves this problem.
+          - figure [ref=e186]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e187]:
+              - generic [ref=e188]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e191]
+          - paragraph [ref=e192]: Claude now builds and maintains its own memory as it works with you.
+          - blockquote [ref=e193]:
+            - paragraph [ref=e194]:
+              - strong [ref=e195]: It quietly takes notes on your project; the build commands, your code style preferences, architecture decisions, even the tricky bugs you solved together.
+          - figure [ref=e196]:
+            - button "Press enter or click to view image in full size Claude Code Memory Auto" [ref=e197]:
+              - generic [ref=e198]: Press enter or click to view image in full size
+              - img "Claude Code Memory Auto" [ref=e201]
+          - paragraph [ref=e202]: When you start a new session, that context is already loaded. You pick up right where you left off.
+          - paragraph [ref=e203]: What makes this interesting is that you don’t write any of it; Claude does it automatically.
+          - paragraph [ref=e204]:
+            - text: There is already a
+            - code [ref=e205]: CLAUDE.md
+            - text: file that most users know — that is where
+            - emphasis [ref=e206]: you
+            - text: write instructions for Claude.
+          - blockquote [ref=e207]:
+            - paragraph [ref=e208]:
+              - strong [ref=e209]: I recently shared in my Claude Code newsletter an
+              - link "in-depth masterclass on the CLAUDE.md file, where you can learn more." [ref=e210] [cursor=pointer]:
+                - /url: https://newsletter.claudecodemasterclass.com/p/claudemd-masterclass-from-start-to
+                - strong [ref=e211]: in-depth masterclass on the CLAUDE.md file, where you can learn more.
+          - blockquote [ref=e212]:
+            - paragraph [ref=e213]:
+              - text: "Auto-memory introduces something different: a"
+              - code [ref=e214]: MEMORY.md
+              - text: file that
+              - emphasis [ref=e215]: Claude
+              - text: writes and updates itself as a personal scratchpad across your sessions.
+          - paragraph [ref=e216]: I tested the new Claude Code auto memory on a project to see what Claude decides to remember, where it stores everything, and whether it holds up when you return to a cold session.
+          - blockquote [ref=e217]:
+            - paragraph [ref=e218]:
+              - strong [ref=e219]: In this article, I will walk you through how auto-memory works, show you the difference between
+              - code [ref=e220]:
+                - strong [ref=e221]: CLAUDE.md
+              - strong [ref=e222]: and
+              - code [ref=e223]:
+                - strong [ref=e224]: MEMORY.md
+              - strong [ref=e225]: ", share my test results, and show you how to control the auto-memory when you need to."
+        - separator [ref=e226]
+        - generic [ref=e232]:
+          - heading "How Auto-Memory Works" [level=2] [ref=e233]
+          - paragraph [ref=e234]: Auto-memory is enabled by default the moment you update Claude Code.
+          - blockquote [ref=e235]:
+            - paragraph [ref=e236]:
+              - strong [ref=e237]: There is nothing to configure or install. it just starts working.
+          - paragraph [ref=e238]: As you work through a session, Claude quietly observes and takes notes. It makes its own judgment on what is worth keeping for next time.
+          - paragraph [ref=e239]: "Here is what Claude saves:"
+          - list [ref=e240]:
+            - listitem [ref=e241]:
+              - strong [ref=e242]:
+                - emphasis [ref=e243]: Project patterns
+              - emphasis [ref=e244]: — build commands, test conventions, and how your code is structured
+            - listitem [ref=e245]:
+              - strong [ref=e246]:
+                - emphasis [ref=e247]: Debugging insights
+              - emphasis [ref=e248]: — solutions to tricky problems, what caused a specific error
+            - listitem [ref=e249]:
+              - strong [ref=e250]:
+                - emphasis [ref=e251]: Architecture notes
+              - emphasis [ref=e252]: — key files, how modules relate, important abstractions
+            - listitem [ref=e253]:
+              - strong [ref=e254]:
+                - emphasis [ref=e255]: Your preferences
+              - emphasis [ref=e256]: — communication style, workflow habits, tool choices
+          - paragraph [ref=e257]: None of this requires any input from you. Claude decides what is useful and writes it down on its own.
+        - separator [ref=e258]
+        - generic [ref=e264]:
+          - heading "Where the Memory Lives" [level=2] [ref=e265]
+          - paragraph [ref=e266]: "Each project gets its own dedicated memory directory stored at:"
+          - generic [ref=e268]: ~/.claude/projects/<project>/memory/
+          - paragraph [ref=e269]:
+            - text: The
+            - code [ref=e270]: <project>
+            - text: path is derived from your git repository root, so every subdirectory inside the same repo shares one memory directory.
+          - blockquote [ref=e271]:
+            - paragraph [ref=e272]:
+              - strong [ref=e273]:
+                - text: If you use git worktrees,
+                - emphasis [ref=e274]: (
+              - link "as I previosuly showed you here" [ref=e275] [cursor=pointer]:
+                - /url: /@joe.njenga/i-tried-new-claude-code-git-worktree-i-now-run-smooth-parallel-agents-8e21627167b7
+                - strong [ref=e276]:
+                  - emphasis [ref=e277]: as I previosuly showed you here
+              - strong [ref=e278]:
+                - emphasis [ref=e279]: )
+                - text: each worktree gets its own separate memory directory.
+          - paragraph [ref=e280]: Outside a git repo, Claude uses the current working directory instead.
+          - paragraph [ref=e281]: "Inside that directory, you will find this structure:"
+          - generic [ref=e283]:
+            - text: ~/.claude/projects/<project>/memory/
+            - text: "├── MEMORY.md # Concise index, loaded into every session"
+            - text: "├── debugging.md # Detailed notes on debugging patterns"
+            - text: "├── api-conventions.md # API design decisions"
+            - text: "└── ... # Any other topic files Claude creates"
+          - paragraph [ref=e284]:
+            - code [ref=e285]: MEMORY.md
+            - text: is the entry point, and it acts as an index of everything Claude has saved, and it is the only file loaded at the start of every session.
+          - heading "200-Line Rule" [level=2] [ref=e286]
+          - paragraph [ref=e287]:
+            - text: "There is an important constraint you should know: Claude only loads the first"
+            - strong [ref=e288]: 200 lines
+            - text: of
+            - code [ref=e289]: MEMORY.md
+            - text: into its system prompt at session start.
+          - paragraph [ref=e290]: Anthropic designed it this way to keep memory concise and focused.
+          - blockquote [ref=e291]:
+            - paragraph [ref=e292]:
+              - strong [ref=e293]: When
+              - code [ref=e294]:
+                - strong [ref=e295]: MEMORY.md
+              - strong [ref=e296]: starts getting long, Claude is instructed to move detailed notes into separate topic files like
+              - code [ref=e297]:
+                - strong [ref=e298]: debugging.md
+              - strong [ref=e299]: or
+              - code [ref=e300]:
+                - strong [ref=e301]: api-conventions.md
+              - strong [ref=e302]: ", keeping the main index tight."
+          - blockquote [ref=e303]:
+            - paragraph [ref=e304]:
+              - text: If you read my
+              - link "CLAUDE.md Masterclass" [ref=e305] [cursor=pointer]:
+                - /url: https://newsletter.claudecodemasterclass.com/p/claudemd-masterclass-from-start-to
+              - text: ", I highlighted a similar approach to keeping the file lean to make it more effective."
+          - paragraph [ref=e306]: Those topic files are not loaded at startup. Claude reads them on demand during your session when it needs that specific information.
+          - paragraph [ref=e307]: "So the flow looks like this:"
+          - list [ref=e308]:
+            - listitem [ref=e309]:
+              - text: Session starts → first 200 lines of
+              - code [ref=e310]: MEMORY.md
+              - text: load automatically
+            - listitem [ref=e311]:
+              - text: Claude needs specific debugging history → reads
+              - code [ref=e312]: debugging.md
+              - text: on demand
+            - listitem [ref=e313]:
+              - text: Claude learns something new → updates
+              - code [ref=e314]: MEMORY.md
+              - text: or the relevant topic file
+          - blockquote [ref=e315]:
+            - paragraph [ref=e316]:
+              - strong [ref=e317]: You will see this happen in real time, as you work, Claude reads and writes to the memory directory during the session, before testing I thought it was a background process.
+        - separator [ref=e318]
+        - generic [ref=e324]:
+          - heading "CLAUDE.md vs MEMORY.md — What’s the Difference?" [level=2] [ref=e325]
+          - paragraph [ref=e326]: Most developers will get confused about why we need MEMORY.md while we already have a working CLAUDE.md, let me clarify and show the difference.
+          - blockquote [ref=e327]:
+            - paragraph [ref=e328]:
+              - strong [ref=e329]: But incase, you dont quite understand the role of CLAUDE.md, I have written the ultimate guide that you will follow to go from beginner to pro level —
+              - 'link "CLAUDE.md Masterclass: From Start to Pro-Level User with Hooks & Subagents" [ref=e330] [cursor=pointer]':
+                - /url: https://newsletter.claudecodemasterclass.com/p/claudemd-masterclass-from-start-to
+                - strong [ref=e331]:
+                  - emphasis [ref=e332]: "CLAUDE.md Masterclass: From Start to Pro-Level User with Hooks & Subagents"
+              - strong [ref=e333]:
+                - emphasis [ref=e334]: .
+          - paragraph [ref=e335]:
+            - text: Claude Code has always had
+            - code [ref=e336]: CLAUDE.md
+            - text: — a file where
+            - emphasis [ref=e337]: you
+            - text: write instructions, rules, and preferences for Claude to follow.
+          - blockquote [ref=e338]:
+            - paragraph [ref=e339]:
+              - text: But now for
+              - code [ref=e340]: MEMORY.md
+              - text: you do not write it ; Claude writes it automatically!
+          - paragraph [ref=e341]: A better way is Claude’s own scratchpad; it takes notes for itself based on what it learns while working with you.
+          - list [ref=e342]:
+            - listitem [ref=e343]: Your preferences
+            - listitem [ref=e344]: Your project patterns
+            - listitem [ref=e345]: Your commands that work and those that don’t
+          - paragraph [ref=e346]: And Claude builds this up over time without your input.
+          - paragraph [ref=e347]: "So, in summary :"
+          - paragraph [ref=e348]:
+            - code [ref=e349]: CLAUDE.md
+            - text: — your instructions
+            - strong [ref=e350]: to
+            - text: Claude
+          - paragraph [ref=e351]:
+            - mark [ref=e1180] [cursor=pointer]:
+              - code [ref=e1181]: MEMORY.md
+            - mark [ref=e1182] [cursor=pointer]: — Claude's notes
+            - mark [ref=e1183] [cursor=pointer]:
+              - strong [ref=e1184]: for
+            - mark [ref=e1185] [cursor=pointer]: itself
+          - blockquote [ref=e354]:
+            - paragraph [ref=e355]:
+              - strong [ref=e356]: Both files are loaded at the start of every session, and together they give Claude a better context of your project before you start working.
+        - separator [ref=e357]
+        - generic [ref=e363]:
+          - heading "Claude Code Memory Hierarchy" [level=2] [ref=e364]
+          - paragraph [ref=e365]: Beyond those two files, Claude Code has a layered memory system you should already be familiar with.
+          - blockquote [ref=e366]:
+            - paragraph [ref=e367]:
+              - strong [ref=e368]: Each layer serves a different purpose depending on who it applies to and how broadly it should reach.
+          - figure [ref=e369]:
+            - img "Claude Code Memory Hierarchy" [ref=e372]
+          - paragraph [ref=e373]: More specific instructions take precedence over broader ones.
+          - paragraph [ref=e374]:
+            - text: So your project-level
+            - code [ref=e375]: CLAUDE.md
+            - text: will override your global user memory, and auto-memory sits at the project level, scoped only to you and the current project.
+          - blockquote [ref=e376]:
+            - paragraph [ref=e377]:
+              - strong [ref=e378]: You should also note that
+              - code [ref=e379]:
+                - strong [ref=e380]: CLAUDE.local.md
+              - strong [ref=e381]: — is automatically added to
+              - code [ref=e382]:
+                - strong [ref=e383]: .gitignore
+              - strong [ref=e384]: ", making it ideal for private preferences like sandbox URLs or local test data that your team does not need."
+          - heading "Memory Loading" [level=3] [ref=e385]
+          - paragraph [ref=e386]: "When you open a new Claude Code session, here is what gets loaded :"
+          - list [ref=e387]:
+            - listitem [ref=e388]: Your organization's policy (if one exists)
+            - listitem [ref=e389]:
+              - text: Your project
+              - code [ref=e390]: CLAUDE.md
+              - text: with team instructions
+            - listitem [ref=e391]:
+              - text: Your personal
+              - code [ref=e392]: ~/.claude/CLAUDE.md
+              - text: preferences
+            - listitem [ref=e393]:
+              - text: The first 200 lines of
+              - code [ref=e394]: MEMORY.md
+              - text: with Claude's own notes
+          - blockquote [ref=e395]:
+            - paragraph [ref=e396]:
+              - strong [ref=e397]: Before you start coding, Claude already knows your project conventions, your preferences, and everything it has learned from working with you before.
+        - separator [ref=e398]
+        - generic [ref=e404]:
+          - heading "Testing Claude Code Auto Memory" [level=2] [ref=e405]
+          - paragraph [ref=e406]: Documentation tells you what a feature is supposed to do, but we need to test it to see if it works.
+          - blockquote [ref=e407]:
+            - paragraph [ref=e408]:
+              - strong [ref=e409]: So I set up a clean test from scratch — update, start a project, work a session, then check what Claude remembered.
+          - paragraph [ref=e410]: "Here are the steps we can take to test it :"
+          - heading "Step 1 — Update Claude Code" [level=2] [ref=e411]
+          - paragraph [ref=e412]: Before anything else, make sure you are on the latest version. Auto-memory is a recent addition, so you need to update first.
+          - paragraph [ref=e413]: "Run this in your terminal:"
+          - generic [ref=e415]: claude update
+          - figure [ref=e416]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e417]:
+              - generic [ref=e418]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e421]
+          - paragraph [ref=e422]: "Follow any prompts to complete the update, then confirm your version:"
+          - generic [ref=e424]: claude --version
+          - figure [ref=e425]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e426]:
+              - generic [ref=e427]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e430]
+          - paragraph [ref=e431]: Once you are on the latest version, you are ready.
+        - separator [ref=e432]
+        - generic [ref=e438]:
+          - heading "Step 2 — Start a Test Project" [level=2] [ref=e439]
+          - paragraph [ref=e440]: I created a simple Node.js project for this test so I could see memory building from zero.
+          - generic [ref=e442]:
+            - text: mkdir memory-md && cd memory-md
+            - text: git init
+            - text: npm init -y
+          - figure [ref=e443]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e444]:
+              - generic [ref=e445]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e448]
+          - blockquote [ref=e449]:
+            - paragraph [ref=e450]:
+              - strong [ref=e451]: The git init is important since Claude Code uses your git repository root to determine the memory path, so your project needs to be a git repo for memory to work.
+          - paragraph [ref=e452]: "Now open Claude Code in that directory:"
+          - generic [ref=e454]: claude
+          - figure [ref=e455]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e456]:
+              - generic [ref=e457]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e460]
+        - separator [ref=e461]
+        - generic [ref=e467]:
+          - heading "Step 3 — Do Some Real Work" [level=2] [ref=e468]
+          - paragraph [ref=e469]: Auto-memory does not create files just because you opened a session. Claude needs to work with you on something before it starts taking notes.
+          - paragraph [ref=e470]: "I gave Claude a few tasks to work through:"
+          - generic [ref=e472]:
+            - text: Set up a basic Express server with two routes — a health check and a users endpoint.
+            - text: Use async/await throughout and add error handling.
+          - figure [ref=e473]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e474]:
+              - generic [ref=e475]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e478]
+          - blockquote [ref=e479]:
+            - paragraph [ref=e480]:
+              - strong [ref=e481]: "It spins up 3 tasks and follows through to execute each ot the tasks:"
+          - list [ref=e482]:
+            - listitem [ref=e483]: Install Express
+            - listitem [ref=e484]: Create a server.js file
+            - listitem [ref=e485]: Update the package.json file
+          - paragraph [ref=e486]: "It creates the code as we expect:"
+          - figure [ref=e487]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e488]:
+              - generic [ref=e489]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e492]
+          - paragraph [ref=e493]: "Finally, we have the server running :"
+          - figure [ref=e494]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e495]:
+              - generic [ref=e496]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e499]
+          - blockquote [ref=e500]:
+            - paragraph [ref=e501]:
+              - strong [ref=e502]: "Then I followed up with:"
+          - generic [ref=e504]:
+            - text: Add a test setup using Jest. We will always run tests before pushing.
+            - text: Remember that we use npm for this project.
+          - paragraph [ref=e505]: The second message gives Claude a workflow convention and explicitly tells it to remember the package manager.
+          - blockquote [ref=e506]:
+            - paragraph [ref=e507]:
+              - strong [ref=e508]: I wanted to see both passive and active memory in action.
+          - blockquote [ref=e509]:
+            - paragraph [ref=e510]: Let Claude work through these tasks fully. The more it does, the more it has to write down.
+          - paragraph [ref=e511]: "But just as I was about to give it some more time, I saw the memory was already working, you can see this line :"
+          - generic [ref=e513]: Recalled 1 memory (ctrl+o to expand)
+          - figure [ref=e514]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e515]:
+              - generic [ref=e516]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e519]
+          - blockquote [ref=e520]:
+            - paragraph [ref=e521]:
+              - strong [ref=e522]: "I pressed CTRL+O to see the memory :"
+          - figure [ref=e523]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e524]:
+              - generic [ref=e525]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e528]
+          - paragraph [ref=e529]: "It reads the memory that has already been created in this file path :"
+          - generic [ref=e531]: Read(~\.claude\projects\C--Users-USER-claude-code-tutorials\memory\MEMORY.md)
+          - blockquote [ref=e532]:
+            - paragraph [ref=e533]:
+              - strong [ref=e534]: Claude Code auto-memory is now active and working, and I can navigate to that path to view the file.
+        - separator [ref=e535]
+        - generic [ref=e541]:
+          - 'heading "Step 4: Navigating the /memory Command" [level=2] [ref=e542]'
+          - paragraph [ref=e543]:
+            - text: Once you have auto-memory enabled, the
+            - code [ref=e544]: /memory
+            - text: Command is where you manage everything.
+          - figure [ref=e545]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e546]:
+              - generic [ref=e547]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e550]
+          - paragraph [ref=e551]: "Type it inside any active Claude Code session, and you get this:"
+          - generic [ref=e553]:
+            - text: Memory
+            - text: "Auto-memory: on"
+            - text: 1. User memory Saved in ~/.claude/CLAUDE.md
+            - text: 2. Project memory Checked in at ./CLAUDE.md
+            - text: 3. Open auto-memory folder
+          - paragraph [ref=e554]: Let me walk you through what each option does.
+          - figure [ref=e555]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e556]:
+              - generic [ref=e557]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e560]
+          - heading "Option 1 — User Memory" [level=3] [ref=e561]
+          - paragraph [ref=e562]:
+            - text: This opens your global
+            - code [ref=e563]: ~/.claude/CLAUDE.md
+            - text: file directly in your system editor.
+          - blockquote [ref=e564]:
+            - paragraph [ref=e565]:
+              - strong [ref=e566]: This is your personal file — the instructions and preferences that follow you across every project you work on. Things like your preferred code style, tools you always use, or habits you want Claude to respect, regardless of what project you are in.
+          - paragraph [ref=e567]: You write and maintain this one yourself.
+          - heading "Option 2 — Project Memory" [level=3] [ref=e568]
+          - paragraph [ref=e569]:
+            - text: This opens the
+            - code [ref=e570]: CLAUDE.md
+            - text: file inside your current project.
+          - blockquote [ref=e571]:
+            - paragraph [ref=e572]:
+              - strong [ref=e573]: This is the team-facing file — coding standards, architecture decisions, workflows your whole team shares. If your project is in source control, this file gets committed, and every team member benefits from it.
+          - paragraph [ref=e574]: Again, this is one you write. Claude reads it, but it does not touch it.
+        - separator [ref=e575]
+        - generic [ref=e581]:
+          - heading "Option 3 — Open Auto-Memory Folder" [level=3] [ref=e582]
+          - paragraph [ref=e583]: This is the one that belongs to Claude.
+          - blockquote [ref=e584]:
+            - paragraph [ref=e585]:
+              - strong [ref=e586]: Selecting this opens the memory directory where Claude stores its own notes — the
+              - code [ref=e587]:
+                - strong [ref=e588]: MEMORY.md
+              - strong [ref=e589]: file and any topic files it has created during your sessions. This is the folder we have been talking about in this article.
+          - paragraph [ref=e590]: "On Windows, the folder opener may not launch automatically — if that happens, navigate to it in your terminal:"
+          - generic [ref=e592]: ls $env:USERPROFILE\.claude\projects\<your-project-path>\memory\
+          - figure [ref=e593]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e594]:
+              - generic [ref=e595]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e598]
+        - separator [ref=e599]
+        - generic [ref=e605]:
+          - heading "Step 5 — Auto-Memory Toggle" [level=2] [ref=e606]
+          - paragraph [ref=e607]:
+            - text: At the top of the
+            - code [ref=e608]: /memory
+            - text: "panel you will see:"
+          - generic [ref=e610]: "Auto-memory: on"
+          - figure [ref=e611]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e612]:
+              - generic [ref=e613]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e616]
+          - paragraph [ref=e617]: You can toggle this on or off from here without touching any config files.
+          - blockquote [ref=e618]:
+            - paragraph [ref=e619]:
+              - strong [ref=e620]: If you are about to do exploratory work you do not want Claude to remember, or you are running a one-off session, this is the quickest way to pause memory for the current project.
+          - paragraph [ref=e621]:
+            - text: It's a good idea to run the
+            - code [ref=e622]: /memory
+            - text: command at the start of any new project,
+            - emphasis [ref=e623]: to confirm the toggle is on and to get familiar with where your files live before memory starts building up.
+        - separator [ref=e624]
+        - generic [ref=e630]:
+          - heading "Step 6— Prove It Survives a Cold Session" [level=2] [ref=e631]
+          - paragraph [ref=e632]: "Close Claude Code completely. Then reopen it in the same project:"
+          - generic [ref=e634]: claude
+          - paragraph [ref=e635]: "Without giving any context, send this message:"
+          - generic [ref=e637]: What do you know about this project?
+          - figure [ref=e638]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e639]:
+              - generic [ref=e640]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e643]
+          - blockquote [ref=e644]:
+            - paragraph [ref=e645]: "Claude reads the memory for the new session and gives me a detailed overview of my project :"
+          - figure [ref=e646]:
+            - button "Press enter or click to view image in full size Claude Code Memory" [ref=e647]:
+              - generic [ref=e648]: Press enter or click to view image in full size
+              - img "Claude Code Memory" [ref=e651]
+          - paragraph [ref=e652]:
+            - text: All of it was recalled from
+            - code [ref=e653]: MEMORY.md
+            - text: the previous session. That is the Claude Code auto-memory working as designed.
+        - separator [ref=e654]
+        - generic [ref=e660]:
+          - heading "Controlling Auto-Memory" [level=2] [ref=e661]
+          - paragraph [ref=e662]: Auto-memory is on by default, and for most projects, that is what you want.
+          - blockquote [ref=e663]:
+            - paragraph [ref=e664]:
+              - strong [ref=e665]: But there are situations where you need to turn it off — and Claude Code gives you a few different ways to do that.
+          - heading "Turning It Off for a Single Project" [level=3] [ref=e666]
+          - paragraph [ref=e667]: "If you want to disable auto-memory for one specific project without affecting anything else, add this to your project settings file:"
+          - generic [ref=e669]:
+            - text: // .claude/settings.json
+            - text: "{"
+            - text: "\"autoMemoryEnabled\":"
+            - generic [ref=e670]: "false"
+            - text: "}"
+          - paragraph [ref=e671]: This keeps auto-memory running on all your other projects while disabling it just for this one.
+        - separator [ref=e672]
+        - generic [ref=e678]:
+          - heading "Turning It Off Globally" [level=3] [ref=e679]
+          - paragraph [ref=e680]: "To disable it across all your projects, add the same setting to your user settings instead:"
+          - generic [ref=e682]:
+            - text: // ~/.claude/settings.json
+            - text: "{"
+            - text: "\"autoMemoryEnabled\":"
+            - generic [ref=e683]: "false"
+            - text: "}"
+        - separator [ref=e684]
+        - generic [ref=e690]:
+          - heading "Forcing It Off in CI Environments" [level=3] [ref=e691]
+          - paragraph [ref=e692]: "If you are running Claude Code in a CI pipeline or any managed environment, you will want to override everything with an environment variable:"
+          - generic [ref=e694]:
+            - text: "export CLAUDE_CODE_DISABLE_AUTO_MEMORY=1 # Force off"
+            - text: "export CLAUDE_CODE_DISABLE_AUTO_MEMORY=0 # Force on"
+          - paragraph [ref=e695]:
+            - text: This environment variable takes precedence over both the
+            - code [ref=e696]: /memory
+            - text: toggle and any
+            - code [ref=e697]: settings.json
+            - text: configuration.
+          - blockquote [ref=e698]:
+            - paragraph [ref=e699]:
+              - strong [ref=e700]: It is the safest way to ensure auto-memory never runs in automated environments where you do not want Claude accumulating notes from CI runs.
+        - separator [ref=e701]
+        - generic [ref=e707]:
+          - heading "Editing Memory" [level=3] [ref=e708]
+          - paragraph [ref=e709]: Your memory files are plain markdown — you can open and edit them any time.
+          - blockquote [ref=e710]:
+            - paragraph [ref=e711]:
+              - strong [ref=e712]: The quickest way is through the
+              - code [ref=e713]:
+                - strong [ref=e714]: /memory
+              - strong [ref=e715]: command inside Claude Code, which opens the file selector and lets you jump into any memory file in your system editor.
+          - paragraph [ref=e716]: Use this to clean up outdated entries, remove notes that no longer apply, or reorganize content as your project evolves.
+          - paragraph [ref=e717]: "You can also edit the files from your terminal:"
+          - generic [ref=e719]: open ~/.claude/projects/<your-project>/memory/MEMORY.md
+        - separator [ref=e720]
+        - generic [ref=e726]:
+          - heading "Final Thoughts" [level=2] [ref=e727]
+          - paragraph [ref=e728]: "As you start using Claude Code auto-memory across projects, a few habits will keep things clean and useful:"
+          - list [ref=e729]:
+            - listitem [ref=e730]:
+              - strong [ref=e731]:
+                - emphasis [ref=e732]: Review memory often —
+              - emphasis [ref=e733]: Projects change direction. An architecture decision from three months ago might mislead Claude today. A quick review every few weeks keeps memory accurate.
+            - listitem [ref=e734]:
+              - strong [ref=e735]:
+                - emphasis [ref=e736]: Be explicit —
+              - emphasis [ref=e737]: If you make a significant decision — switching package managers, changing your test strategy, restructuring the project — tell Claude.
+            - listitem [ref=e738]:
+              - strong [ref=e739]:
+                - emphasis [ref=e740]: Use CLAUDE.local.md for private preferences —
+              - emphasis [ref=e741]: Things like your local sandbox URLs, personal test data, or machine-specific paths belong in
+              - code [ref=e742]:
+                - emphasis [ref=e743]: CLAUDE.local.md
+              - emphasis [ref=e744]: ", not in auto-memory or the shared"
+              - code [ref=e745]:
+                - emphasis [ref=e746]: CLAUDE.md
+          - paragraph [ref=e747]:
+            - text: The combination of
+            - code [ref=e748]: CLAUDE.md
+            - text: and
+            - code [ref=e749]: MEMORY.md
+            - text: makes Claude Code smarter the more you use it.
+          - blockquote [ref=e750]:
+            - paragraph [ref=e751]:
+              - strong [ref=e752]: Have you updated Claude Code and experienced the auto-memory? Let me knowyour thoughts in the comments below.
+        - separator [ref=e753]
+        - generic [ref=e759]:
+          - heading "Claude Code Masterclass Course" [level=2] [ref=e760]
+          - figure [ref=e761]
+          - paragraph [ref=e764]:
+            - strong [ref=e765]:
+              - emphasis [ref=e766]: Every day, I’m working hard to build the ultimate Claude Code course, which demonstrates how to create workflows that coordinate multiple agents for complex development tasks. It’s due for release soon.
+          - paragraph [ref=e767]: It will take what you have learned from this article to the next level of complete automation.
+          - paragraph [ref=e768]:
+            - strong [ref=e769]:
+              - emphasis [ref=e770]: New features are added to Claude Code daily, and keeping up is tough.
+          - paragraph [ref=e771]: The course explores Agents, Hooks, advanced workflows, and productivity techniques that many developers may not be aware of.
+          - paragraph [ref=e772]:
+            - strong [ref=e773]:
+              - emphasis [ref=e774]: Once you join, you’ll receive all the updates as new features are rolled out.
+          - paragraph [ref=e775]: "This course will cover:"
+          - list [ref=e776]:
+            - listitem [ref=e777]:
+              - emphasis [ref=e778]: Advanced subagent patterns and workflows
+            - listitem [ref=e779]:
+              - emphasis [ref=e780]: Production-ready hook configurations
+            - listitem [ref=e781]:
+              - emphasis [ref=e782]: MCP server integrations for external tools
+            - listitem [ref=e783]:
+              - emphasis [ref=e784]: Team collaboration strategies
+            - listitem [ref=e785]:
+              - emphasis [ref=e786]: Enterprise deployment patterns
+            - listitem [ref=e787]:
+              - emphasis [ref=e788]: Real-world case studies from my consulting work
+          - paragraph [ref=e789]:
+            - text: If you’re interested in getting notified when the Claude Code course
+            - strong
+            - text: launches
+            - strong [ref=e790]: ","
+            - link "click here to join the early access list →" [ref=e791] [cursor=pointer]:
+              - /url: https://claudecodemasterclass.substack.com/
+              - strong [ref=e792]: click here to join the early access list →
+          - paragraph [ref=e793]:
+            - strong [ref=e794]: (
+            - emphasis [ref=e795]: Currently, I have 12,000+ already signed-up developers)
+          - blockquote [ref=e796]:
+            - paragraph [ref=e797]:
+              - strong [ref=e798]: I’ll share exclusive previews, early access pricing, and bonus materials with people on the list.
+        - separator [ref=e799]
+        - generic [ref=e805]:
+          - heading "Let’s Connect!" [level=2] [ref=e806]
+          - paragraph [ref=e807]:
+            - text: If you are new to my content, my name is
+            - link "Joe Njenga" [ref=e808] [cursor=pointer]:
+              - /url: /@joe.njenga
+          - blockquote [ref=e809]:
+            - paragraph [ref=e810]:
+              - strong [ref=e811]: Join thousands of other software engineers, AI engineers, and solopreneurs who read my content
+              - link "daily on Mediu" [ref=e812] [cursor=pointer]:
+                - /url: /@joe.njenga
+                - strong [ref=e813]: daily on Mediu
+              - strong [ref=e814]: m and on
+              - link "YouTube where I review the latest AI engineering tools and trends" [ref=e815] [cursor=pointer]:
+                - /url: https://www.youtube.com/@aisoftwareengineer
+                - strong [ref=e816]: YouTube where I review the latest AI engineering tools and trends
+              - strong [ref=e817]: .
+              - text: If you are more curious about my projects and want to receive detailed guides and tutorials
+              - strong [ref=e818]: ","
+              - link "join thousands of other AI enthusiasts in my weekly AI Software engineer newsletter" [ref=e819] [cursor=pointer]:
+                - /url: https://aisoftwareengineer.substack.com/
+                - strong [ref=e820]: join thousands of other AI enthusiasts in my weekly AI Software engineer newsletter
+          - paragraph [ref=e821]: "If you would like to connect directly, you can reach out here:"
+          - link "AI Integration Software Engineer (10+ Years Experience ) Software Engineer specializing in AI integration and automation. Expert in building AI agents, MCP servers, RAG… njengah.com" [ref=e823] [cursor=pointer]:
+            - /url: https://njengah.com/?source=post_page-----0ab8422754d2---------------------------------------
+            - generic [ref=e825]:
+              - heading "AI Integration Software Engineer (10+ Years Experience )" [level=2] [ref=e826]
+              - heading "Software Engineer specializing in AI integration and automation. Expert in building AI agents, MCP servers, RAG…" [level=3] [ref=e828]
+              - paragraph [ref=e830]: njengah.com
+          - paragraph [ref=e833]:
+            - strong [ref=e834]: Follow me on
+            - link "Medium" [ref=e835] [cursor=pointer]:
+              - /url: /@joe.njenga
+            - text: "|"
+            - link "YouTube Channel" [ref=e836] [cursor=pointer]:
+              - /url: https://www.youtube.com/@aisoftwareengineer
+            - text: "|"
+            - link "X" [ref=e837] [cursor=pointer]:
+              - /url: https://x.com/joenjenga_
+            - text: "|"
+            - link "LinkedIn" [ref=e838] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/njengah
+    - generic [ref=e841]:
+      - link "Claude Code" [ref=e843] [cursor=pointer]:
+        - /url: /tag/claude-code?source=post_page-----0ab8422754d2---------------------------------------
+        - generic [ref=e844]: Claude Code
+      - link "Anthropic Claude" [ref=e846] [cursor=pointer]:
+        - /url: /tag/anthropic-claude?source=post_page-----0ab8422754d2---------------------------------------
+        - generic [ref=e847]: Anthropic Claude
+      - link "Agent Memory" [ref=e849] [cursor=pointer]:
+        - /url: /tag/agent-memory?source=post_page-----0ab8422754d2---------------------------------------
+        - generic [ref=e850]: Agent Memory
+      - link "Ai Memory" [ref=e852] [cursor=pointer]:
+        - /url: /tag/ai-memory?source=post_page-----0ab8422754d2---------------------------------------
+        - generic [ref=e853]: Ai Memory
+      - link "Claude" [ref=e855] [cursor=pointer]:
+        - /url: /tag/claude?source=post_page-----0ab8422754d2---------------------------------------
+        - generic [ref=e856]: Claude
+    - contentinfo [ref=e857]:
+      - generic [ref=e861]:
+        - generic [ref=e862]:
+          - generic [ref=e865]:
+            - tooltip "clap" [ref=e869]:
+              - button "clap" [ref=e871] [cursor=pointer]:
+                - img "clap"
+            - tooltip "599" [ref=e874]:
+              - paragraph [ref=e1186]:
+                - button "599" [ref=e1187] [cursor=pointer]
+          - tooltip "responses" [ref=e880]:
+            - button "responses" [ref=e882] [cursor=pointer]:
+              - img [ref=e883]
+              - paragraph [ref=e885]: "7"
+        - generic [ref=e886]:
+          - tooltip "Add to list bookmark button" [ref=e889]:
+            - button "Add to list bookmark button" [ref=e892] [cursor=pointer]:
+              - img [ref=e893]
+          - tooltip "Share Post" [ref=e898]:
+            - button "Share Post" [ref=e900] [cursor=pointer]:
+              - img [ref=e901]
+          - tooltip "More options" [ref=e906]:
+            - button "More options" [ref=e908] [cursor=pointer]:
+              - img [ref=e909]
+    - generic [ref=e914]:
+      - link "Joe Njenga" [ref=e917] [cursor=pointer]:
+        - /url: /@joe.njenga?source=post_page---post_author_info--0ab8422754d2---------------------------------------
+        - img "Joe Njenga" [ref=e919]
+      - generic [ref=e922]:
+        - link "Written by Joe Njenga" [ref=e923] [cursor=pointer]:
+          - /url: /@joe.njenga?source=post_page---post_author_info--0ab8422754d2---------------------------------------
+          - heading "Written by Joe Njenga" [level=2] [ref=e924]:
+            - generic [ref=e925]: Written by Joe Njenga
+        - generic [ref=e926]:
+          - link "18.2K followers" [ref=e929] [cursor=pointer]:
+            - /url: /@joe.njenga/followers?source=post_page---post_author_info--0ab8422754d2---------------------------------------
+          - generic [ref=e930]:
+            - generic [ref=e931]: ·
+            - link "98 following" [ref=e932] [cursor=pointer]:
+              - /url: /@joe.njenga/following?source=post_page---post_author_info--0ab8422754d2---------------------------------------
+        - paragraph [ref=e934]:
+          - text: "Software & AI Automation Engineer, Tech Writer & Educator. Vision: Enlighten, Educate, Entertain. One story at a time. Work with me:"
+          - link "mail.njengah@gmail.com" [ref=e935] [cursor=pointer]:
+            - /url: mailto:mail.njengah@gmail.com
+      - generic [ref=e937]:
+        - button "Follow" [ref=e939] [cursor=pointer]:
+          - generic [ref=e941]: Follow
+        - tooltip [ref=e944]:
+          - button [ref=e946]:
+            - img [ref=e947]
+    - generic [ref=e952]:
+      - generic [ref=e953]:
+        - heading "Responses (7)" [level=2] [ref=e954]
+        - tooltip "Shield with a checkmark" [ref=e957]:
+          - link "Shield with a checkmark" [ref=e959] [cursor=pointer]:
+            - /url: https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--0ab8422754d2---------------------------------------
+            - img "Shield with a checkmark" [ref=e960]
+      - generic [ref=e966]:
+        - generic [ref=e967]:
+          - generic [ref=e968]:
+            - img "randy pellegrini" [ref=e970]
+            - img [ref=e972]
+          - generic [ref=e977]: randy pellegrini
+        - generic [ref=e979]:
+          - textbox [ref=e981]:
+            - paragraph [ref=e983]:
+              - generic:
+                - generic:
+                  - generic: What are your thoughts?
+          - generic:
+            - generic [ref=e984]:
+              - tooltip "Bold (⌘B)" [ref=e986]:
+                - button "Bold (⌘B)" [ref=e988]:
+                  - img [ref=e989]
+              - tooltip "Italic (⌘I)" [ref=e992]:
+                - button "Italic (⌘I)" [ref=e994]:
+                  - img [ref=e995]
+            - generic:
+              - button "Cancel" [ref=e997]
+              - button "Respond" [disabled] [ref=e998]
+      - generic [ref=e1001]:
+        - generic [ref=e1002]:
+          - generic [ref=e1003]:
+            - tooltip "nick s" [ref=e1005]:
+              - link "nick s" [ref=e1007] [cursor=pointer]:
+                - /url: /@veepisfunny?source=post_page---post_responses--0ab8422754d2----0-----------------------------------
+                - generic [ref=e1008]:
+                  - img "nick s" [ref=e1010]
+                  - img [ref=e1012]
+            - generic [ref=e1015]:
+              - tooltip "nick s" [ref=e1018]:
+                - link "nick s" [ref=e1020] [cursor=pointer]:
+                  - /url: /@veepisfunny?source=post_page---post_responses--0ab8422754d2----0-----------------------------------
+                  - paragraph [ref=e1022]: nick s
+              - link "Mar 3" [ref=e1023] [cursor=pointer]:
+                - /url: /@veepisfunny/surprised-you-didnt-mention-claude-resume-command-that-lets-you-continue-any-previous-ce13cae0d3ff?source=post_page---post_responses--0ab8422754d2----0-----------------------------------
+                - paragraph [ref=e1024]: Mar 3
+          - button [ref=e1026] [cursor=pointer]:
+            - img [ref=e1027]
+        - generic [ref=e1033]: Surprised you didn't mention Claude --resume command that lets you continue any previous session/context ...
+        - generic [ref=e1035]:
+          - generic [ref=e1036]:
+            - button "clap" [ref=e1188] [cursor=pointer]:
+              - img "clap"
+            - paragraph [ref=e1189]: "9"
+          - paragraph [ref=e1041]:
+            - button "Reply" [ref=e1042] [cursor=pointer]
+      - generic [ref=e1045]:
+        - generic [ref=e1046]:
+          - generic [ref=e1047]:
+            - tooltip "Tadej Stanic" [ref=e1049]:
+              - link "Tadej Stanic" [ref=e1051] [cursor=pointer]:
+                - /url: /@tadejstanic?source=post_page---post_responses--0ab8422754d2----1-----------------------------------
+                - generic [ref=e1052]:
+                  - img "Tadej Stanic" [ref=e1054]
+                  - img [ref=e1056]
+            - generic [ref=e1059]:
+              - tooltip "Tadej Stanic" [ref=e1062]:
+                - link "Tadej Stanic" [ref=e1064] [cursor=pointer]:
+                  - /url: /@tadejstanic?source=post_page---post_responses--0ab8422754d2----1-----------------------------------
+                  - paragraph [ref=e1066]: Tadej Stanic
+              - link "Mar 5" [ref=e1067] [cursor=pointer]:
+                - /url: /@tadejstanic/have-you-checked-what-is-token-usage-when-you-have-memory-enabled-does-it-increase-01bb7e5beae4?source=post_page---post_responses--0ab8422754d2----1-----------------------------------
+                - paragraph [ref=e1068]: Mar 5
+          - button [ref=e1070] [cursor=pointer]:
+            - img [ref=e1071]
+        - generic [ref=e1077]: Have you checked what is token usage when you have memory enabled? Does it increase?
+        - generic [ref=e1079]:
+          - generic [ref=e1080]:
+            - button "clap" [ref=e1190] [cursor=pointer]:
+              - img "clap"
+            - paragraph [ref=e1191]: "3"
+          - button "responses 1 reply" [ref=e1085] [cursor=pointer]:
+            - img "responses" [ref=e1086]
+            - paragraph [ref=e1088]: 1 reply
+          - paragraph [ref=e1089]:
+            - button "Reply" [ref=e1090] [cursor=pointer]
+      - generic [ref=e1093]:
+        - generic [ref=e1094]:
+          - generic [ref=e1095]:
+            - tooltip "Brandon Mills" [ref=e1097]:
+              - link "Brandon Mills" [ref=e1099] [cursor=pointer]:
+                - /url: /@MrBrandonMills?source=post_page---post_responses--0ab8422754d2----2-----------------------------------
+                - generic [ref=e1100]:
+                  - img "Brandon Mills" [ref=e1102]
+                  - img [ref=e1104]
+            - generic [ref=e1107]:
+              - tooltip "Brandon Mills" [ref=e1110]:
+                - link "Brandon Mills" [ref=e1112] [cursor=pointer]:
+                  - /url: /@MrBrandonMills?source=post_page---post_responses--0ab8422754d2----2-----------------------------------
+                  - paragraph [ref=e1114]: Brandon Mills
+              - link "Feb 27 (edited)" [ref=e1115] [cursor=pointer]:
+                - /url: /@MrBrandonMills/you-definitely-deserve-to-have-a-full-time-income-off-of-your-publishing-5e02b03ced1f?source=post_page---post_responses--0ab8422754d2----2-----------------------------------
+                - paragraph [ref=e1116]: Feb 27 (edited)
+          - button [ref=e1118] [cursor=pointer]:
+            - img [ref=e1119]
+        - generic [ref=e1125]:
+          - text: You definitely deserve to have a full-time income off of your publishing! Thank you again for another wonderful update - can we do an investigation into when anthropic is going to do project to project memory? It’s one of the most annoying things is…
+          - button "more" [ref=e1126] [cursor=pointer]
+        - generic [ref=e1128]:
+          - generic [ref=e1129]:
+            - button "clap" [ref=e1192] [cursor=pointer]:
+              - img "clap"
+            - paragraph [ref=e1193]: "3"
+          - button "responses 1 reply" [ref=e1134] [cursor=pointer]:
+            - img "responses" [ref=e1135]
+            - paragraph [ref=e1137]: 1 reply
+          - paragraph [ref=e1138]:
+            - button "Reply" [ref=e1139] [cursor=pointer]
+      - button "See all responses" [ref=e1141]
+    - generic [ref=e1142]:
+      - generic [ref=e1195]:
+        - heading "More from Joe Njenga" [level=2] [ref=e1197]
+        - generic [ref=e1198]:
+          - article [ref=e1201]:
+            - link "Anthropic Automatic Prompt Caching AI Software Engineer In AI Software Engineer by Joe Njenga Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching) With just one change, you can cut Claude API costs to 10 cents on the dollar and stop bleeding cash on every single API call. Member-only story Feb 19 A clap icon 924 A response icon 21 I'm not interested in this story More options" [ref=e1205]:
+              - generic "Anthropic Automatic Prompt Caching" [ref=e1207]:
+                - img "Anthropic Automatic Prompt Caching" [ref=e1209]
+              - generic [ref=e1211]:
+                - generic [ref=e1212]:
+                  - tooltip "AI Software Engineer" [ref=e1215]:
+                    - link "AI Software Engineer" [ref=e1217] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=post_page---author_recirc--0ab8422754d2----0---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - img "AI Software Engineer" [ref=e1219]
+                  - paragraph [ref=e1222]: In
+                  - tooltip "AI Software Engineer" [ref=e1225]:
+                    - link "AI Software Engineer" [ref=e1227] [cursor=pointer]:
+                      - /url: https://medium.com/ai-software-engineer?source=post_page---author_recirc--0ab8422754d2----0---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - paragraph [ref=e1228]: AI Software Engineer
+                  - paragraph [ref=e1230]: by
+                  - tooltip "Joe Njenga" [ref=e1232]:
+                    - link "Joe Njenga" [ref=e1234] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----0---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - paragraph [ref=e1235]: Joe Njenga
+                - link "Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching) With just one change, you can cut Claude API costs to 10 cents on the dollar and stop bleeding cash on every single API call." [ref=e1238] [cursor=pointer]:
+                  - /url: /ai-software-engineer/anthropic-just-fixed-the-biggest-hidden-cost-in-ai-agents-using-automatic-prompt-caching-9d47c95903c5?source=post_page---author_recirc--0ab8422754d2----0---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                  - generic "Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching)" [ref=e1239]:
+                    - heading "Anthropic Just Fixed the Biggest Hidden Cost in AI Agents (Automatic Prompt Caching)" [level=2] [ref=e1240]
+                  - heading "With just one change, you can cut Claude API costs to 10 cents on the dollar and stop bleeding cash on every single API call." [level=3] [ref=e1242]
+                - generic [ref=e1244]:
+                  - generic [ref=e1245]:
+                    - button "Member-only story" [ref=e1247] [cursor=pointer]:
+                      - tooltip [ref=e1250]:
+                        - img [ref=e1252]
+                    - generic [ref=e1254]: Feb 19
+                    - link "A clap icon 924 A response icon 21" [ref=e1259] [cursor=pointer]:
+                      - /url: /ai-software-engineer/anthropic-just-fixed-the-biggest-hidden-cost-in-ai-agents-using-automatic-prompt-caching-9d47c95903c5?source=post_page---author_recirc--0ab8422754d2----0---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - tooltip "A clap icon 924" [ref=e1261]:
+                        - generic [ref=e1263]:
+                          - img "A clap icon" [ref=e1264]
+                          - generic [ref=e1266]: "924"
+                      - tooltip "A response icon 21" [ref=e1268]:
+                        - generic [ref=e1270]:
+                          - img "A response icon" [ref=e1271]
+                          - generic [ref=e1273]: "21"
+                  - generic [ref=e1274]:
+                    - tooltip "I'm not interested in this story" [ref=e1276]:
+                      - button "I'm not interested in this story" [ref=e1278] [cursor=pointer]:
+                        - img [ref=e1279]
+                    - tooltip "More options" [ref=e1285]:
+                      - button "More options" [ref=e1287] [cursor=pointer]:
+                        - img [ref=e1288]
+          - article [ref=e1292]:
+            - link "Claude Code /claude-api Joe Njenga Joe Njenga I Tried (New) Claude Code /claude-api (You Can Now Build Claude Apps 3x Faster) /claude-api is a new built-in skill for builders — I knew there would be a better way than tab-switching to the docs mid-session. Member-only story Mar 5 A clap icon 211 A response icon 1 I'm not interested in this story More options" [ref=e1296]:
+              - generic "Claude Code /claude-api" [ref=e1298]:
+                - img "Claude Code /claude-api" [ref=e1300]
+              - generic [ref=e1302]:
+                - generic [ref=e1303]:
+                  - tooltip "Joe Njenga" [ref=e1307]:
+                    - link "Joe Njenga" [ref=e1309] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----1---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - img "Joe Njenga" [ref=e1311]
+                  - tooltip "Joe Njenga" [ref=e1314]:
+                    - link "Joe Njenga" [ref=e1316] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----1---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - paragraph [ref=e1317]: Joe Njenga
+                - link "I Tried (New) Claude Code /claude-api (You Can Now Build Claude Apps 3x Faster) /claude-api is a new built-in skill for builders — I knew there would be a better way than tab-switching to the docs mid-session." [ref=e1320] [cursor=pointer]:
+                  - /url: /@joe.njenga/i-tried-claude-code-new-claude-api-you-can-now-build-claude-apps-3x-faster-ec83a9906969?source=post_page---author_recirc--0ab8422754d2----1---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                  - generic "I Tried (New) Claude Code /claude-api (You Can Now Build Claude Apps 3x Faster)" [ref=e1321]:
+                    - heading "I Tried (New) Claude Code /claude-api (You Can Now Build Claude Apps 3x Faster)" [level=2] [ref=e1322]
+                  - heading "/claude-api is a new built-in skill for builders — I knew there would be a better way than tab-switching to the docs mid-session." [level=3] [ref=e1324]
+                - generic [ref=e1326]:
+                  - generic [ref=e1327]:
+                    - button "Member-only story" [ref=e1329] [cursor=pointer]:
+                      - tooltip [ref=e1332]:
+                        - img [ref=e1334]
+                    - generic [ref=e1336]: Mar 5
+                    - link "A clap icon 211 A response icon 1" [ref=e1341] [cursor=pointer]:
+                      - /url: /@joe.njenga/i-tried-claude-code-new-claude-api-you-can-now-build-claude-apps-3x-faster-ec83a9906969?source=post_page---author_recirc--0ab8422754d2----1---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - tooltip "A clap icon 211" [ref=e1343]:
+                        - generic [ref=e1345]:
+                          - img "A clap icon" [ref=e1346]
+                          - generic [ref=e1348]: "211"
+                      - tooltip "A response icon 1" [ref=e1350]:
+                        - generic [ref=e1352]:
+                          - img "A response icon" [ref=e1353]
+                          - generic [ref=e1355]: "1"
+                  - generic [ref=e1356]:
+                    - tooltip "I'm not interested in this story" [ref=e1358]:
+                      - button "I'm not interested in this story" [ref=e1360] [cursor=pointer]:
+                        - img [ref=e1361]
+                    - tooltip "More options" [ref=e1367]:
+                      - button "More options" [ref=e1369] [cursor=pointer]:
+                        - img [ref=e1370]
+          - article [ref=e1374]:
+            - link "Claude Code + MiniMax M2.5 Joe Njenga Joe Njenga I Tested Claude Code + MiniMax M2.5 (It Blew My Mind With One Shot CLI Tool Build ) Just when I thought GLM 5 was the best budget model for Claude Code, MiniMax M2.5 showed up and changed my mind. Member-only story Feb 13 A clap icon 202 A response icon 5 I'm not interested in this story More options" [ref=e1378]:
+              - generic "Claude Code + MiniMax M2.5" [ref=e1380]:
+                - img "Claude Code + MiniMax M2.5" [ref=e1382]
+              - generic [ref=e1384]:
+                - generic [ref=e1385]:
+                  - tooltip "Joe Njenga" [ref=e1389]:
+                    - link "Joe Njenga" [ref=e1391] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----2---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - img "Joe Njenga" [ref=e1393]
+                  - tooltip "Joe Njenga" [ref=e1396]:
+                    - link "Joe Njenga" [ref=e1398] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----2---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - paragraph [ref=e1399]: Joe Njenga
+                - link "I Tested Claude Code + MiniMax M2.5 (It Blew My Mind With One Shot CLI Tool Build ) Just when I thought GLM 5 was the best budget model for Claude Code, MiniMax M2.5 showed up and changed my mind." [ref=e1402] [cursor=pointer]:
+                  - /url: /@joe.njenga/i-tested-claude-code-minimax-m2-5-it-blew-my-mind-with-one-shot-cli-tool-build-451ec2c58b79?source=post_page---author_recirc--0ab8422754d2----2---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                  - generic "I Tested Claude Code + MiniMax M2.5 (It Blew My Mind With One Shot CLI Tool Build )" [ref=e1403]:
+                    - heading "I Tested Claude Code + MiniMax M2.5 (It Blew My Mind With One Shot CLI Tool Build )" [level=2] [ref=e1404]
+                  - heading "Just when I thought GLM 5 was the best budget model for Claude Code, MiniMax M2.5 showed up and changed my mind." [level=3] [ref=e1406]
+                - generic [ref=e1408]:
+                  - generic [ref=e1409]:
+                    - button "Member-only story" [ref=e1411] [cursor=pointer]:
+                      - tooltip [ref=e1414]:
+                        - img [ref=e1416]
+                    - generic [ref=e1418]: Feb 13
+                    - link "A clap icon 202 A response icon 5" [ref=e1423] [cursor=pointer]:
+                      - /url: /@joe.njenga/i-tested-claude-code-minimax-m2-5-it-blew-my-mind-with-one-shot-cli-tool-build-451ec2c58b79?source=post_page---author_recirc--0ab8422754d2----2---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - tooltip "A clap icon 202" [ref=e1425]:
+                        - generic [ref=e1427]:
+                          - img "A clap icon" [ref=e1428]
+                          - generic [ref=e1430]: "202"
+                      - tooltip "A response icon 5" [ref=e1432]:
+                        - generic [ref=e1434]:
+                          - img "A response icon" [ref=e1435]
+                          - generic [ref=e1437]: "5"
+                  - generic [ref=e1438]:
+                    - tooltip "I'm not interested in this story" [ref=e1440]:
+                      - button "I'm not interested in this story" [ref=e1442] [cursor=pointer]:
+                        - img [ref=e1443]
+                    - tooltip "More options" [ref=e1449]:
+                      - button "More options" [ref=e1451] [cursor=pointer]:
+                        - img [ref=e1452]
+          - article [ref=e1456]:
+            - link "Claude Code simplify & batch Joe Njenga Joe Njenga How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews) You can now start enjoying the dreaded code reviews since the new Claude code commands /simplify and /batch are making code review a bliss! Member-only story Feb 28 A clap icon 283 A response icon 3 I'm not interested in this story More options" [ref=e1460]:
+              - generic "Claude Code simplify & batch" [ref=e1462]:
+                - img "Claude Code simplify & batch" [ref=e1464]
+              - generic [ref=e1466]:
+                - generic [ref=e1467]:
+                  - tooltip "Joe Njenga" [ref=e1471]:
+                    - link "Joe Njenga" [ref=e1473] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----3---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - img "Joe Njenga" [ref=e1475]
+                  - tooltip "Joe Njenga" [ref=e1478]:
+                    - link "Joe Njenga" [ref=e1480] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2----3---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - paragraph [ref=e1481]: Joe Njenga
+                - link "How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews) You can now start enjoying the dreaded code reviews since the new Claude code commands /simplify and /batch are making code review a bliss!" [ref=e1484] [cursor=pointer]:
+                  - /url: /@joe.njenga/how-im-using-claude-code-new-simplify-batch-to-x10-my-code-reviews-888780a6a42a?source=post_page---author_recirc--0ab8422754d2----3---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                  - generic "How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews)" [ref=e1485]:
+                    - heading "How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews)" [level=2] [ref=e1486]
+                  - heading "You can now start enjoying the dreaded code reviews since the new Claude code commands /simplify and /batch are making code review a bliss!" [level=3] [ref=e1488]
+                - generic [ref=e1490]:
+                  - generic [ref=e1491]:
+                    - button "Member-only story" [ref=e1493] [cursor=pointer]:
+                      - tooltip [ref=e1496]:
+                        - img [ref=e1498]
+                    - generic [ref=e1500]: Feb 28
+                    - link "A clap icon 283 A response icon 3" [ref=e1505] [cursor=pointer]:
+                      - /url: /@joe.njenga/how-im-using-claude-code-new-simplify-batch-to-x10-my-code-reviews-888780a6a42a?source=post_page---author_recirc--0ab8422754d2----3---------------------0efae371_ebfd_4376_a3ac_8946c7d50ed9--------------
+                      - tooltip "A clap icon 283" [ref=e1507]:
+                        - generic [ref=e1509]:
+                          - img "A clap icon" [ref=e1510]
+                          - generic [ref=e1512]: "283"
+                      - tooltip "A response icon 3" [ref=e1514]:
+                        - generic [ref=e1516]:
+                          - img "A response icon" [ref=e1517]
+                          - generic [ref=e1519]: "3"
+                  - generic [ref=e1520]:
+                    - tooltip "I'm not interested in this story" [ref=e1522]:
+                      - button "I'm not interested in this story" [ref=e1524] [cursor=pointer]:
+                        - img [ref=e1525]
+                    - tooltip "More options" [ref=e1531]:
+                      - button "More options" [ref=e1533] [cursor=pointer]:
+                        - img [ref=e1534]
+        - link "See all from Joe Njenga" [ref=e1538] [cursor=pointer]:
+          - /url: /@joe.njenga?source=post_page---author_recirc--0ab8422754d2---------------------------------------
+          - generic [ref=e1539]: See all from Joe Njenga
+      - generic [ref=e1543]:
+        - heading "Recommended from Medium" [level=2] [ref=e1544]
+        - generic [ref=e1546]:
+          - article [ref=e1549]:
+            - link "Claude Code simplify & batch Joe Njenga Joe Njenga How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews) You can now start enjoying the dreaded code reviews since the new Claude code commands /simplify and /batch are making code review a bliss! Member-only story Feb 28 A clap icon 283 A response icon 3 I'm not interested in this story More options" [ref=e1553]:
+              - generic "Claude Code simplify & batch" [ref=e1555]:
+                - img "Claude Code simplify & batch" [ref=e1557]
+              - generic [ref=e1559]:
+                - generic [ref=e1560]:
+                  - tooltip "Joe Njenga" [ref=e1564]:
+                    - link "Joe Njenga" [ref=e1566] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - img "Joe Njenga" [ref=e1568]
+                  - tooltip "Joe Njenga" [ref=e1571]:
+                    - link "Joe Njenga" [ref=e1573] [cursor=pointer]:
+                      - /url: /@joe.njenga?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1574]: Joe Njenga
+                - link "How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews) You can now start enjoying the dreaded code reviews since the new Claude code commands /simplify and /batch are making code review a bliss!" [ref=e1577] [cursor=pointer]:
+                  - /url: /@joe.njenga/how-im-using-claude-code-new-simplify-batch-to-x10-my-code-reviews-888780a6a42a?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                  - generic "How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews)" [ref=e1578]:
+                    - heading "How I’m Using Claude Code (New) /simplify & /batch (To x10 My Code Reviews)" [level=2] [ref=e1579]
+                  - heading "You can now start enjoying the dreaded code reviews since the new Claude code commands /simplify and /batch are making code review a bliss!" [level=3] [ref=e1581]
+                - generic [ref=e1583]:
+                  - generic [ref=e1584]:
+                    - button "Member-only story" [ref=e1586] [cursor=pointer]:
+                      - tooltip [ref=e1589]:
+                        - img [ref=e1591]
+                    - generic [ref=e1593]: Feb 28
+                    - link "A clap icon 283 A response icon 3" [ref=e1598] [cursor=pointer]:
+                      - /url: /@joe.njenga/how-im-using-claude-code-new-simplify-batch-to-x10-my-code-reviews-888780a6a42a?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - tooltip "A clap icon 283" [ref=e1600]:
+                        - generic [ref=e1602]:
+                          - img "A clap icon" [ref=e1603]
+                          - generic [ref=e1605]: "283"
+                      - tooltip "A response icon 3" [ref=e1607]:
+                        - generic [ref=e1609]:
+                          - img "A response icon" [ref=e1610]
+                          - generic [ref=e1612]: "3"
+                  - generic [ref=e1613]:
+                    - tooltip "I'm not interested in this story" [ref=e1615]:
+                      - button "I'm not interested in this story" [ref=e1617] [cursor=pointer]:
+                        - img [ref=e1618]
+                    - tooltip "More options" [ref=e1624]:
+                      - button "More options" [ref=e1626] [cursor=pointer]:
+                        - img [ref=e1627]
+          - article [ref=e1631]:
+            - 'link "A futuristic 3D visualization of two massive data centers — one blue for Microsoft and one purple/green for OpenAI — separated by a glowing orange tectonic crack and severed fiber optic cables. ILLUMINATION In ILLUMINATION by Somya Golchha The Microsoft-OpenAI Divorce Is Official: Inside the $250 Billion Betrayal GPT-5 is already being retired, and Satya Nadella just made his move. The “partnership” of the century is entering its terminal phase. Member-only story Feb 18 A clap icon 2.2K A response icon 50 I''m not interested in this story More options" [ref=e1635]':
+              - generic "A futuristic 3D visualization of two massive data centers — one blue for Microsoft and one purple/green for OpenAI — separated by a glowing orange tectonic crack and severed fiber optic cables." [ref=e1637]:
+                - img "A futuristic 3D visualization of two massive data centers — one blue for Microsoft and one purple/green for OpenAI — separated by a glowing orange tectonic crack and severed fiber optic cables." [ref=e1639]
+              - generic [ref=e1641]:
+                - generic [ref=e1642]:
+                  - tooltip "ILLUMINATION" [ref=e1645]:
+                    - link "ILLUMINATION" [ref=e1647] [cursor=pointer]:
+                      - /url: https://medium.com/illumination?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - img "ILLUMINATION" [ref=e1649]
+                  - paragraph [ref=e1652]: In
+                  - tooltip "ILLUMINATION" [ref=e1655]:
+                    - link "ILLUMINATION" [ref=e1657] [cursor=pointer]:
+                      - /url: https://medium.com/illumination?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1658]: ILLUMINATION
+                  - paragraph [ref=e1660]: by
+                  - tooltip "Somya Golchha" [ref=e1662]:
+                    - link "Somya Golchha" [ref=e1664] [cursor=pointer]:
+                      - /url: /@jainsomya2510?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1665]: Somya Golchha
+                - 'link "The Microsoft-OpenAI Divorce Is Official: Inside the $250 Billion Betrayal GPT-5 is already being retired, and Satya Nadella just made his move. The “partnership” of the century is entering its terminal phase." [ref=e1668] [cursor=pointer]':
+                  - /url: /illumination/the-microsoft-openai-divorce-is-official-inside-the-250-billion-betrayal-822073eba64e?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                  - 'generic "The Microsoft-OpenAI Divorce Is Official: Inside the $250 Billion Betrayal" [ref=e1669]':
+                    - 'heading "The Microsoft-OpenAI Divorce Is Official: Inside the $250 Billion Betrayal" [level=2] [ref=e1670]'
+                  - heading "GPT-5 is already being retired, and Satya Nadella just made his move. The “partnership” of the century is entering its terminal phase." [level=3] [ref=e1672]
+                - generic [ref=e1674]:
+                  - generic [ref=e1675]:
+                    - button "Member-only story" [ref=e1677] [cursor=pointer]:
+                      - tooltip [ref=e1680]:
+                        - img [ref=e1682]
+                    - generic [ref=e1684]: Feb 18
+                    - link "A clap icon 2.2K A response icon 50" [ref=e1689] [cursor=pointer]:
+                      - /url: /illumination/the-microsoft-openai-divorce-is-official-inside-the-250-billion-betrayal-822073eba64e?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - tooltip "A clap icon 2.2K" [ref=e1691]:
+                        - generic [ref=e1693]:
+                          - img "A clap icon" [ref=e1694]
+                          - generic [ref=e1696]: 2.2K
+                      - tooltip "A response icon 50" [ref=e1698]:
+                        - generic [ref=e1700]:
+                          - img "A response icon" [ref=e1701]
+                          - generic [ref=e1703]: "50"
+                  - generic [ref=e1704]:
+                    - tooltip "I'm not interested in this story" [ref=e1706]:
+                      - button "I'm not interested in this story" [ref=e1708] [cursor=pointer]:
+                        - img [ref=e1709]
+                    - tooltip "More options" [ref=e1715]:
+                      - button "More options" [ref=e1717] [cursor=pointer]:
+                        - img [ref=e1718]
+        - generic [ref=e1720]:
+          - article [ref=e1723]:
+            - link "Claude Desktop Has a Hidden Feature Marco Kotrotsos Marco Kotrotsos Claude Desktop Has a Hidden Feature Anthropic is building an ambient screen monitor. They call it Echo. Member-only story Feb 25 A clap icon 810 A response icon 13 I'm not interested in this story More options" [ref=e1727]:
+              - generic "Claude Desktop Has a Hidden Feature" [ref=e1729]:
+                - img "Claude Desktop Has a Hidden Feature" [ref=e1731]
+              - generic [ref=e1733]:
+                - generic [ref=e1734]:
+                  - tooltip "Marco Kotrotsos" [ref=e1738]:
+                    - link "Marco Kotrotsos" [ref=e1740] [cursor=pointer]:
+                      - /url: /@kotrotsos?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - img "Marco Kotrotsos" [ref=e1742]
+                  - tooltip "Marco Kotrotsos" [ref=e1745]:
+                    - link "Marco Kotrotsos" [ref=e1747] [cursor=pointer]:
+                      - /url: /@kotrotsos?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1748]: Marco Kotrotsos
+                - link "Claude Desktop Has a Hidden Feature Anthropic is building an ambient screen monitor. They call it Echo." [ref=e1751] [cursor=pointer]:
+                  - /url: /@kotrotsos/claude-desktop-has-a-hidden-feature-6322a22ab625?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                  - heading "Claude Desktop Has a Hidden Feature" [level=2] [ref=e1753]
+                  - heading "Anthropic is building an ambient screen monitor. They call it Echo." [level=3] [ref=e1755]
+                - generic [ref=e1757]:
+                  - generic [ref=e1758]:
+                    - button "Member-only story" [ref=e1760] [cursor=pointer]:
+                      - tooltip [ref=e1763]:
+                        - img [ref=e1765]
+                    - generic [ref=e1767]: Feb 25
+                    - link "A clap icon 810 A response icon 13" [ref=e1772] [cursor=pointer]:
+                      - /url: /@kotrotsos/claude-desktop-has-a-hidden-feature-6322a22ab625?source=post_page---read_next_recirc--0ab8422754d2----0---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - tooltip "A clap icon 810" [ref=e1774]:
+                        - generic [ref=e1776]:
+                          - img "A clap icon" [ref=e1777]
+                          - generic [ref=e1779]: "810"
+                      - tooltip "A response icon 13" [ref=e1781]:
+                        - generic [ref=e1783]:
+                          - img "A response icon" [ref=e1784]
+                          - generic [ref=e1786]: "13"
+                  - generic [ref=e1787]:
+                    - tooltip "I'm not interested in this story" [ref=e1789]:
+                      - button "I'm not interested in this story" [ref=e1791] [cursor=pointer]:
+                        - img [ref=e1792]
+                    - tooltip "More options" [ref=e1798]:
+                      - button "More options" [ref=e1800] [cursor=pointer]:
+                        - img [ref=e1801]
+          - article [ref=e1805]:
+            - link "Senior Developers — The World Owes You an Apology Realworld AI Use Cases In Realworld AI Use Cases by Chris Dunlop Senior Developers — The World Owes You an Apology Why senior developers still matter in the age of AI coding tools — and what junior developers can learn from them. Member-only story Feb 27 A clap icon 1.9K A response icon 62 I'm not interested in this story More options" [ref=e1809]:
+              - generic "Senior Developers — The World Owes You an Apology" [ref=e1811]:
+                - img "Senior Developers — The World Owes You an Apology" [ref=e1813]
+              - generic [ref=e1815]:
+                - generic [ref=e1816]:
+                  - tooltip "Realworld AI Use Cases" [ref=e1819]:
+                    - link "Realworld AI Use Cases" [ref=e1821] [cursor=pointer]:
+                      - /url: https://medium.com/realworld-ai-use-cases?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - img "Realworld AI Use Cases" [ref=e1823]
+                  - paragraph [ref=e1826]: In
+                  - tooltip "Realworld AI Use Cases" [ref=e1829]:
+                    - link "Realworld AI Use Cases" [ref=e1831] [cursor=pointer]:
+                      - /url: https://medium.com/realworld-ai-use-cases?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1832]: Realworld AI Use Cases
+                  - paragraph [ref=e1834]: by
+                  - tooltip "Chris Dunlop" [ref=e1836]:
+                    - link "Chris Dunlop" [ref=e1838] [cursor=pointer]:
+                      - /url: /@chrisdunlop_37984?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1839]: Chris Dunlop
+                - link "Senior Developers — The World Owes You an Apology Why senior developers still matter in the age of AI coding tools — and what junior developers can learn from them." [ref=e1842] [cursor=pointer]:
+                  - /url: /realworld-ai-use-cases/senior-developers-the-world-owes-you-an-apology-514f6ee92101?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                  - heading "Senior Developers — The World Owes You an Apology" [level=2] [ref=e1844]
+                  - heading "Why senior developers still matter in the age of AI coding tools — and what junior developers can learn from them." [level=3] [ref=e1846]
+                - generic [ref=e1848]:
+                  - generic [ref=e1849]:
+                    - button "Member-only story" [ref=e1851] [cursor=pointer]:
+                      - tooltip [ref=e1854]:
+                        - img [ref=e1856]
+                    - generic [ref=e1858]: Feb 27
+                    - link "A clap icon 1.9K A response icon 62" [ref=e1863] [cursor=pointer]:
+                      - /url: /realworld-ai-use-cases/senior-developers-the-world-owes-you-an-apology-514f6ee92101?source=post_page---read_next_recirc--0ab8422754d2----1---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - tooltip "A clap icon 1.9K" [ref=e1865]:
+                        - generic [ref=e1867]:
+                          - img "A clap icon" [ref=e1868]
+                          - generic [ref=e1870]: 1.9K
+                      - tooltip "A response icon 62" [ref=e1872]:
+                        - generic [ref=e1874]:
+                          - img "A response icon" [ref=e1875]
+                          - generic [ref=e1877]: "62"
+                  - generic [ref=e1878]:
+                    - tooltip "I'm not interested in this story" [ref=e1880]:
+                      - button "I'm not interested in this story" [ref=e1882] [cursor=pointer]:
+                        - img [ref=e1883]
+                    - tooltip "More options" [ref=e1889]:
+                      - button "More options" [ref=e1891] [cursor=pointer]:
+                        - img [ref=e1892]
+          - article [ref=e1896]:
+            - link "A Lawyer Just Beat 500 Developers at Anthropic’s Hackathon AI Advances In AI Advances by Jing Hu A Lawyer Just Beat 500 Developers at Anthropic’s Hackathon The most valuable skill in AI right now isn’t code — and you probably already have it. Member-only story Feb 24 A clap icon 2.2K A response icon 28 I'm not interested in this story More options" [ref=e1900]:
+              - generic "A Lawyer Just Beat 500 Developers at Anthropic’s Hackathon" [ref=e1902]:
+                - img "A Lawyer Just Beat 500 Developers at Anthropic’s Hackathon" [ref=e1904]
+              - generic [ref=e1906]:
+                - generic [ref=e1907]:
+                  - tooltip "AI Advances" [ref=e1910]:
+                    - link "AI Advances" [ref=e1912] [cursor=pointer]:
+                      - /url: https://medium.com/ai-advances?source=post_page---read_next_recirc--0ab8422754d2----2---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - img "AI Advances" [ref=e1914]
+                  - paragraph [ref=e1917]: In
+                  - tooltip "AI Advances" [ref=e1920]:
+                    - link "AI Advances" [ref=e1922] [cursor=pointer]:
+                      - /url: https://medium.com/ai-advances?source=post_page---read_next_recirc--0ab8422754d2----2---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1923]: AI Advances
+                  - paragraph [ref=e1925]: by
+                  - tooltip "Jing Hu" [ref=e1927]:
+                    - link "Jing Hu" [ref=e1929] [cursor=pointer]:
+                      - /url: /@jinghuu?source=post_page---read_next_recirc--0ab8422754d2----2---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e1930]: Jing Hu
+                - link "A Lawyer Just Beat 500 Developers at Anthropic’s Hackathon The most valuable skill in AI right now isn’t code — and you probably already have it." [ref=e1933] [cursor=pointer]:
+                  - /url: /ai-advances/a-lawyer-just-beat-500-developers-at-anthropics-hackathon-140ca074d1a9?source=post_page---read_next_recirc--0ab8422754d2----2---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                  - heading "A Lawyer Just Beat 500 Developers at Anthropic’s Hackathon" [level=2] [ref=e1935]
+                  - heading "The most valuable skill in AI right now isn’t code — and you probably already have it." [level=3] [ref=e1937]
+                - generic [ref=e1939]:
+                  - generic [ref=e1940]:
+                    - button "Member-only story" [ref=e1942] [cursor=pointer]:
+                      - tooltip [ref=e1945]:
+                        - img [ref=e1947]
+                    - generic [ref=e1949]: Feb 24
+                    - link "A clap icon 2.2K A response icon 28" [ref=e1954] [cursor=pointer]:
+                      - /url: /ai-advances/a-lawyer-just-beat-500-developers-at-anthropics-hackathon-140ca074d1a9?source=post_page---read_next_recirc--0ab8422754d2----2---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - tooltip "A clap icon 2.2K" [ref=e1956]:
+                        - generic [ref=e1958]:
+                          - img "A clap icon" [ref=e1959]
+                          - generic [ref=e1961]: 2.2K
+                      - tooltip "A response icon 28" [ref=e1963]:
+                        - generic [ref=e1965]:
+                          - img "A response icon" [ref=e1966]
+                          - generic [ref=e1968]: "28"
+                  - generic [ref=e1969]:
+                    - tooltip "I'm not interested in this story" [ref=e1971]:
+                      - button "I'm not interested in this story" [ref=e1973] [cursor=pointer]:
+                        - img [ref=e1974]
+                    - tooltip "More options" [ref=e1980]:
+                      - button "More options" [ref=e1982] [cursor=pointer]:
+                        - img [ref=e1983]
+          - article [ref=e1987]:
+            - link "OpenClaw terminal showing automated cron job output with morning briefing and night scout timestamps — self-hosted AI assistant running 30 scheduled prompts Reza Rezvani Reza Rezvani 30 OpenClaw Automation Prompts That Turn a AI Assistant Into a 24/7 Autonomous AI Companion (My… SOUL.md templates, cron schedules, security guardrails, and multi-agent patterns — every configuration file I run in production on a VPS… Member-only story Feb 25 A clap icon 534 A response icon 8 I'm not interested in this story More options" [ref=e1991]:
+              - generic "OpenClaw terminal showing automated cron job output with morning briefing and night scout timestamps — self-hosted AI assistant running 30 scheduled prompts" [ref=e1993]:
+                - img "OpenClaw terminal showing automated cron job output with morning briefing and night scout timestamps — self-hosted AI assistant running 30 scheduled prompts" [ref=e1995]
+              - generic [ref=e1997]:
+                - generic [ref=e1998]:
+                  - tooltip "Reza Rezvani" [ref=e2002]:
+                    - link "Reza Rezvani" [ref=e2004] [cursor=pointer]:
+                      - /url: /@alirezarezvani?source=post_page---read_next_recirc--0ab8422754d2----3---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - img "Reza Rezvani" [ref=e2006]
+                  - tooltip "Reza Rezvani" [ref=e2009]:
+                    - link "Reza Rezvani" [ref=e2011] [cursor=pointer]:
+                      - /url: /@alirezarezvani?source=post_page---read_next_recirc--0ab8422754d2----3---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - paragraph [ref=e2012]: Reza Rezvani
+                - link "30 OpenClaw Automation Prompts That Turn a AI Assistant Into a 24/7 Autonomous AI Companion (My… SOUL.md templates, cron schedules, security guardrails, and multi-agent patterns — every configuration file I run in production on a VPS…" [ref=e2015] [cursor=pointer]:
+                  - /url: /@alirezarezvani/30-openclaw-automation-prompts-that-turn-a-ai-assistant-into-a-24-7-autonomous-ai-companion-my-ca44430f4df6?source=post_page---read_next_recirc--0ab8422754d2----3---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                  - generic "30 OpenClaw Automation Prompts That Turn a AI Assistant Into a 24/7 Autonomous AI Companion (My…" [ref=e2016]:
+                    - heading "30 OpenClaw Automation Prompts That Turn a AI Assistant Into a 24/7 Autonomous AI Companion (My…" [level=2] [ref=e2017]
+                  - heading "SOUL.md templates, cron schedules, security guardrails, and multi-agent patterns — every configuration file I run in production on a VPS…" [level=3] [ref=e2019]
+                - generic [ref=e2021]:
+                  - generic [ref=e2022]:
+                    - button "Member-only story" [ref=e2024] [cursor=pointer]:
+                      - tooltip [ref=e2027]:
+                        - img [ref=e2029]
+                    - generic [ref=e2031]: Feb 25
+                    - link "A clap icon 534 A response icon 8" [ref=e2036] [cursor=pointer]:
+                      - /url: /@alirezarezvani/30-openclaw-automation-prompts-that-turn-a-ai-assistant-into-a-24-7-autonomous-ai-companion-my-ca44430f4df6?source=post_page---read_next_recirc--0ab8422754d2----3---------------------04c9f372_d7f5_4081_bd47_651166ca9f3e--------------
+                      - tooltip "A clap icon 534" [ref=e2038]:
+                        - generic [ref=e2040]:
+                          - img "A clap icon" [ref=e2041]
+                          - generic [ref=e2043]: "534"
+                      - tooltip "A response icon 8" [ref=e2045]:
+                        - generic [ref=e2047]:
+                          - img "A response icon" [ref=e2048]
+                          - generic [ref=e2050]: "8"
+                  - generic [ref=e2051]:
+                    - tooltip "I'm not interested in this story" [ref=e2053]:
+                      - button "I'm not interested in this story" [ref=e2055] [cursor=pointer]:
+                        - img [ref=e2056]
+                    - tooltip "More options" [ref=e2062]:
+                      - button "More options" [ref=e2064] [cursor=pointer]:
+                        - img [ref=e2065]
+        - link "See more recommendations" [ref=e2068] [cursor=pointer]:
+          - /url: /?source=post_page---read_next_recirc--0ab8422754d2---------------------------------------
+          - generic [ref=e2069]: See more recommendations
+      - generic [ref=e1147]:
+        - link "Help" [ref=e1149] [cursor=pointer]:
+          - /url: https://help.medium.com/hc/en-us?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1150]: Help
+        - link "Status" [ref=e1152] [cursor=pointer]:
+          - /url: https://status.medium.com/?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1153]: Status
+        - link "About" [ref=e1155] [cursor=pointer]:
+          - /url: /about?autoplay=1&source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1156]: About
+        - link "Careers" [ref=e1158] [cursor=pointer]:
+          - /url: /jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1159]: Careers
+        - link "Press" [ref=e1161] [cursor=pointer]:
+          - /url: mailto:pressinquiries@medium.com
+          - paragraph [ref=e1162]: Press
+        - link "Blog" [ref=e1164] [cursor=pointer]:
+          - /url: https://blog.medium.com/?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1165]: Blog
+        - link "Privacy" [ref=e1167] [cursor=pointer]:
+          - /url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1168]: Privacy
+        - link "Rules" [ref=e1170] [cursor=pointer]:
+          - /url: https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1171]: Rules
+        - link "Terms" [ref=e1173] [cursor=pointer]:
+          - /url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1174]: Terms
+        - link "Text to speech" [ref=e1176] [cursor=pointer]:
+          - /url: https://speechify.com/medium?source=post_page-----0ab8422754d2---------------------------------------
+          - paragraph [ref=e1177]: Text to speech
