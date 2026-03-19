@@ -1,0 +1,4 @@
+Vendor Identifier,Title,Product Type Identifier,Units,Royalty Currency,Royalty Price,Begin Date,End Date,Country Code
+APPLE123,The Aethelred Cipher,ebook,2,USD,4.99,03/01/2026,03/31/2026,US
+APPLE123,The Aethelred Cipher,ebook,1,GBP,3.49,03/01/2026,03/31/2026,GB
+APPLE123,The Aethelred Cipher,ebook,-1,USD,-4.99,03/15/2026,03/31/2026,US

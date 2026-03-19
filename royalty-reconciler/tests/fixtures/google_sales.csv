@@ -1,0 +1,4 @@
+Transaction Date,Title,Quantity,Earnings,Currency,Buyer Country,Transaction Type
+2026-03-01,The Aethelred Cipher,1,3.50,USD,US,Sale
+2026-03-05,The Aethelred Cipher,2,7.00,EUR,DE,Sale
+2026-03-10,The Aethelred Cipher,1,-3.50,USD,US,Refund
