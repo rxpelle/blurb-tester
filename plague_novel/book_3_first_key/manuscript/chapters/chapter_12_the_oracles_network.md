@@ -11,19 +11,19 @@
 
 ## SCENE 1: The Wrong Prophecy
 
-Kleomenes had been tracking the Delphic Oracle for five years, and the pattern was impossible.
+Kleomenes had been tracking the Delphic Oracle for five years, and something about it was impossible.
 
-Diluted carriers—distant bloodline descendants with weak genetic memory—delivered inconsistent prophecies. Sometimes accurate pattern recognition, sometimes complete nonsense, always unreliable. That was the established model. Genetic memory degraded with distance from core bloodlines. Prophecy became noise.
+Those with thinned blood—distant descendants whose inherited sight flickered more than it shone—delivered inconsistent prophecies. Flashes of truth mixed with nonsense, never reliable. That was how it worked. The further you got from the core lineages, the weaker the gift. Prophecy became noise.
 
-But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways diluted carriers shouldn't be.
+But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways that a thinned-blood oracle had no right to be.
 
 He stood now in the crowd watching Croesus of Lydia—the wealthiest king in the known world—approach the temple to consult the Oracle before attacking Persia. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
 Except Kleomenes knew the Oracle wasn't divine.
 
-The current Pythia was Aristonike, age fifty-two, demonstrating genetic memory activation consistent with Generation 20 defensive network bloodline. Diluted branch—her lineage traced back to Egyptian carriers from seven generations ago—but active carrier nonetheless.
+The current Pythia was Aristonike, age fifty-two. Generation 20. Her lineage traced back to Egyptian operatives seven generations ago—a diluted branch, but the sight was clearly active in her.
 
-Which meant she should deliver *some* accurate pattern recognition mixed with plenty of confused visions.
+Which meant she should deliver *some* genuine flashes mixed with plenty of confused visions.
 
 Instead, Delphi delivered systematic geopolitical analysis disguised as divine prophecy.
 
@@ -33,11 +33,11 @@ The crowd murmured. Croesus smiled. Clear prophecy—attack Persia, destroy thei
 
 Kleomenes felt cold settling into his bones.
 
-That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Classic pattern recognition—Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
+That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Croesus' empire was overextended, Persia was consolidating—anyone with the sight could read those signs. War would destroy Lydia, not Persia.
 
-But Aristonike shouldn't have that level of analytical clarity. Not as a diluted carrier.
+But Aristonike shouldn't have that level of clarity. Not with thinned blood.
 
-Unless Delphi wasn't just one diluted carrier delivering confused visions.
+Unless Delphi wasn't just one woman delivering confused visions.
 
 Unless Delphi was something much more sophisticated.
 
@@ -45,107 +45,169 @@ Unless Delphi was something much more sophisticated.
 
 ## SCENE 2: The Institutional Front
 
-**Three weeks later. Kleomenes investigating temple records.**
+**Three weeks later.**
 
-Kleomenes had been living at Delphi for three weeks now, disguised as a minor priest. He wore the temple's white linen robes, ate the communal meals in the priests' refectory—barley porridge at dawn, bread and cheese at midday, lentil stew in the evening, all vegetarian in accordance with temple purification rules. He'd participated in the morning rituals, lighting incense at the altar, chanting the hymns to Apollo. The routine had lulled the other priests into accepting his presence. Now he had access to the restricted archives.
+Kleomenes had been living at Delphi for three weeks, disguised as a minor priest. White linen robes, morning hymns, the slow rhythm of temple life. The routine had lulled the other priests into accepting his presence.
 
-What he found terrified him.
+But the routine was wrong. Small things at first—details that snagged like threads pulled from cloth.
 
-Delphi wasn't a single oracle. It was a *network* of oracles, operating in coordinated rotation, sharing information through temple priesthoods, maintaining systematic records of prophecies, outcomes, and geopolitical patterns across centuries.
+The temple's restricted archive was supposed to contain hymns and ritual calendars. Kleomenes picked the lock on the third night and found something else entirely: scrolls cataloguing prophecies cross-referenced with outcomes, annotated in three different hands. Two centuries of predictions, filed by region, by type of crisis, by whether the warning had been heeded. This wasn't devotion. This was *intelligence*.
 
-The Pythia—the woman who delivered prophecies while inhaling sacred vapors—was just the public face. Behind her operated an entire institutional apparatus:
+He copied key passages during his night shifts, hiding the transcriptions inside his bedroll. On the fifth day, he found a door behind the archive shelves—bolted from the inside, no lock on the outside. Someone used it regularly but didn't want casual visitors finding it.
 
-**The Hosioi**: Five priests who "interpreted" the Pythia's ecstatic utterances, translating incoherent visions into carefully worded prophecies. All showing carrier markers. All Generation 19-20 defensive network bloodlines.
+On the eighth day, he got careless. He was comparing two scrolls when the dates caught his eye—a prophecy delivered at Delphi and another delivered at Dodona, different temples, different priestesses, identical phrasing. Word for word. As if someone had drafted the text and distributed it.
 
-**The Prophetai**: Temple officials managing the consultation schedule, collecting fees, coordinating with city-states. Several showing diluted carrier status.
+He asked the senior priest Theron about it over the evening meal. Casual. Offhand.
 
-**The Archives**: Complete records of every prophecy delivered for two hundred years, cross-referenced with outcomes, maintained by scribes trained in pattern recognition.
+Theron went pale. "Where did you read that?"
 
-This wasn't a diluted carrier having confused visions. This was an institutional front for the defensive network, using religious authority to deliver systematic collapse prevention disguised as divine prophecy.
+"The archive. I was organizing hymns and—"
 
-And it was brilliant.
+"There are no prophecy records in the hymn archive." Theron's voice had gone flat. He stood, leaving his food untouched. "You should be more careful about which doors you open, brother."
 
-Kleomenes found the proof in a secured archive room: encoded messages between Delphi and defensive network carriers across the Mediterranean. Systematic intelligence gathering. Geopolitical analysis. Collapse pattern recognition at scale.
+By morning, Theron was gone. Transferred to a shrine on the coast, the other priests said. No one would say more.
 
-*Lydian expansion patterns match pre-collapse indicators. Military overextension. Economic strain. Administrative complexity exceeding capacity. Recommend warning through prophecy without direct intervention. Suggest ambiguous wording that allows client to choose interpretation—divine will vs strategic advice.*
+That was when Kleomenes understood. The archive wasn't a record. It was an *operations center*. And Delphi wasn't a single oracle—it was a network, coordinated across temple sites, sharing intelligence through priesthoods that served as cover.
 
-That's what the Croesus prophecy had been. Not divine inspiration. Not confused diluted carrier visions. Systematic pattern recognition delivered through institutional religious authority, allowing powerful clients to receive warnings while maintaining plausible deniability.
+He broke into the bolted room that night.
 
-"You're the Athens carrier."
+Inside: coded messages between Delphi and operatives across the Mediterranean. Systematic intelligence gathering. Geopolitical analysis. The sight, organized at scale.
 
-Kleomenes spun. A woman stood in the doorway—mid-fifties, priestess robes, eyes showing the carrier recognition he'd learned to identify.
+*Lydian expansion shows the old signs. Military overextension. Economic strain. The kingdom has grown past what its rulers can hold. Recommend warning through prophecy without direct intervention. Ambiguous wording—let the king choose how to hear it.*
+
+That was what the Croesus prophecy had been. Not divine inspiration. Not one seer's confused visions. Organized foresight delivered through temple authority, giving powerful men warnings they could accept or ignore as they pleased.
+
+"You're the one from Athens."
+
+Kleomenes spun. A woman stood in the doorway—mid-fifties, priestess robes, eyes carrying that unmistakable awareness he'd learned to recognize in his own kind. Her left hand held a clay lamp, and the flame trembled—not from a draft. From the hand itself.
 
 Aristonike. The current Pythia.
 
-"Generation twenty," Kleomenes said carefully. "Defensive network. Investigating why Delphic prophecies are too accurate for diluted carrier status."
+"Generation twenty," Kleomenes said carefully. "I'm here because Delphi's prophecies are too accurate for someone with thinned blood."
 
-"Because we're not just diluted carriers." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic. Deliberately using religious authority to deliver pattern recognition that secular advisors couldn't."
+"And you found the operations room." She stepped inside. The lamp rattled faintly against her palm. She set it down on the table as if grateful to release it and closed the door. "I wondered how long it would take you. Theron panicked. I told him to let you look."
+
+"You had him transferred."
+
+"I had him removed before he said something worse than what he already told you." Her voice carried the weight of someone used to making those decisions quickly. "We're not just one seer, Kleomenes. We're a temple network. Coordinated. Deliberate. Using religious authority to deliver what no secular advisor could."
 
 ---
 
 ## SCENE 3: The Oracle's Secret
 
-Aristonike led Kleomenes deeper into the temple complex, to rooms visitors never saw.
+Aristonike led Kleomenes deeper into the temple complex, to rooms visitors never saw. She walked with her right hand trailing the wall—steadying herself, he realized, though she disguised it as a casual gesture.
 
-"Delphi was established two hundred years ago by Generation 13 defensive network carriers," she explained. "After they realized diluted carriers were appearing naturally—distant bloodline descendants with weak genetic memory activation—and causing problems."
+"Delphi was established two hundred years ago by our predecessors in the thirteenth generation," she explained. "After they realized the sight was spreading on its own—distant descendants, the blood thinned but not gone—and causing problems."
 
 "What kind of problems?"
 
-"Prophets. Everywhere. Claiming divine visions. Some genuinely experiencing genetic memory. Others fabricating prophecies for attention. All creating noise that made real pattern recognition harder to hear." Aristonike paused at a locked door. "The defensive network faced a choice: suppress diluted carriers, or organize them. Turn the noise into signal."
+"Prophets. Everywhere. Claiming divine—" She stopped. Her mouth worked around a word that wouldn't come. Her eyes went briefly distant, searching for it. "Divine *visions*." The word landed hard, as if she'd had to drag it from somewhere deep. She continued without acknowledging the lapse. "Some genuinely touched by the old knowledge. Others fabricating prophecies for attention. All of them creating noise that drowned out the real warnings."
 
-She opened the door. Inside: five women, ages ranging from early twenties to late sixties, all showing carrier markers. All practicing prophecy delivery.
+She paused at a locked door. "Our people faced a choice: silence the thinned-blood seers, or organize them. Turn the noise into signal."
 
-"We recruit diluted carriers who show genuine genetic memory," Aristonike said. "Train them in pattern recognition. Teach them to interpret visions systematically. Then rotate them through the Pythia role, supported by priest-interpreters who are full carriers. The result: prophecy that combines genetic memory intuition with analytical clarity."
+She opened the door. Inside: five women, ages ranging from early twenties to late sixties, all with that unmistakable look. All practicing prophecy delivery. The youngest was reciting a prophecy while the others listened, critiquing her phrasing, adjusting the ambiguity.
 
-"Rotate?" Kleomenes noticed how the older women's hands trembled, how their eyes had a distant quality even when not prophesying. "Why rotation?"
+"We find those whose sight is genuine," Aristonike said. "Train them to read what the visions actually mean. Teach them to separate true foresight from fear and fantasy. Then rotate them through the Pythia role, supported by priest-interpreters who carry the full gift."
 
-Aristonike's expression darkened. "The sacred vapors. There's a geological fault beneath the temple—pneuma, the Greeks call it. Gases that rise from the earth. Breathing them creates the dissociative state needed for prophecy. But prolonged exposure..." She gestured to an elderly woman in the corner, mid-sixties, who rocked slowly while staring at nothing. "Neurological damage. Tremors. Memory loss. Confusion that never fully clears. We limit each Pythia to five-year terms. Some manage seven. None should serve longer than ten."
+"Rotate?" Kleomenes noticed how the older women's hands trembled, how their eyes had a distant quality even when not prophesying. The eldest—mid-sixties—sat in the corner, rocking slowly, staring at nothing, her lips forming words without sound. "Why rotation?"
 
-"And you?" Kleomenes studied Aristonike's face more carefully. The slight tremor in her left hand. The way her eyes sometimes drifted mid-sentence.
+"Come," Aristonike said. "I'll show you."
 
-"Fifteen years," she said quietly. "I know. Too long. But I'm a full carrier, Generation 20. My genetic memory is strong enough to distinguish between prophetic visions and gas-induced hallucinations. Most diluted carriers can't make that distinction after a few years. They start believing every vision is divine instead of recognizing which ones come from bloodline pattern recognition versus pneuma toxicity."
+She led him down a narrow stairway cut into the bedrock. The air changed before they reached the bottom—thicker, sweeter, carrying a smell like overripe fruit left in the sun. Ethylene. He knew the word from the Egyptian texts, though they'd called it something else. The breath of the earth.
+
+The adyton was smaller than he'd expected. A crack in the limestone floor, barely a hand's width, from which the air shimmered faintly in the lamplight. A bronze tripod straddled the fissure. The stone around it was stained dark—centuries of offerings, sweat, spilled libations. The chamber walls were blackened.
+
+Aristonike stopped at the entrance. "Don't go closer than—"
+
+But Kleomenes had already stepped forward, drawn by something he couldn't name. The sweetness hit the back of his throat like warm honey. His vision blurred at the edges.
+
+Then it opened.
+
+Not a vision—nothing so structured. A *flooding*. Images slamming through him without sequence or mercy: a city burning that he'd never seen, ash falling like snow on water, voices screaming in a language dead for a thousand years. His mother's face—but wrong, younger than he'd ever known her, wearing clothes from another century. The taste of salt and copper. A child drowning in a river that ran backward. Empires stacking on top of each other like stones in a cairn, each one crumbling into the foundation of the next, and beneath all of it a sound like the earth groaning under weight it was never meant to carry—
+
+Aristonike yanked him back by the collar. Hard. His shoulders hit the stairway wall and the visions shattered.
+
+He was gasping. His hands were shaking—not like hers, not the slow persistent tremor, but the wild shaking of a body that had touched something it wasn't built to hold.
+
+"I told you not to go closer." Her voice was furious. Frightened.
+
+"That—" He couldn't get the words straight. The aftertaste of the visions clung to him like oil on water. "That wasn't the sight. That was something else."
+
+"That was the sight *amplified*. The pneuma strips away the barriers. For someone with thinned blood, it opens the door a crack. For someone who carries the full gift—" She pulled him further up the stairs. "It blows the door off its hinges. Everything you've ever suppressed, every vision you've pushed down, every ancestral memory in the blood—the gas drags it all to the surface at once."
+
+His hands were still shaking. He pressed them flat against the cool stone wall. "You breathe that. Every session."
+
+"Every consultation. For fifteen years." She held up her left hand. The tremor was constant now, visible even in the dim stairway light. "The gas creates the dissociative state the supplicants expect—the Pythia raving on her tripod, speaking in tongues, channeling Apollo. But it's poison. Prolonged exposure destroys the nervous system. Tremors first. Then memory. Then—" She gestured back down toward the adyton. "That woman you saw in the training room. The one rocking in the corner. She served eight years. She doesn't know her own name anymore."
+
+A cup sat on a stone ledge at the top of the stairs—water for the Pythia after sessions. Aristonike reached for it and her fingers fumbled. The cup tipped, spilling water across the stone. She stared at the puddle for a moment, her jaw tight, then left it.
+
+"We limit each Pythia to five-year terms," she said, as if nothing had happened. "Some manage seven. None should serve longer than ten."
+
+"And you?" Kleomenes studied her face. The slight tremor in her jaw when she wasn't speaking. The way her eyes sometimes drifted, tracking something that wasn't in the room.
+
+"Fifteen years." She said it like a sentence pronounced on someone else. "I carry the full gift, and my sight is strong enough to tell the difference between a true vision and a gas dream. Most of the thinned-blood women can't do that after a few years. They start believing every hallucination is Apollo speaking, instead of knowing which visions come from the blood and which come from the poison."
 
 "You're killing yourself."
 
-"I'm serving the network." Her voice hardened. "Someone has to coordinate this system. Someone who understands both the institutional operations and the carrier experience. I have maybe three more years before the damage becomes too severe. Then I'll train my replacement and retire to Athens. Live whatever's left."
+"I'm serving the temple." Her voice hardened. "Someone has to hold this together. Someone who understands both the rituals and the reality beneath them. I have maybe three more years before the damage gets too bad. Then I'll train my replacement and retire to Athens. Live whatever's left."
 
-"You're institutionalizing genetic memory."
+"You're turning prophecy into an institution."
 
-"We're scaling it. One carrier can prevent small collapses. But an institution of carriers, operating with religious authority, can influence entire civilizations." She gestured to the practicing oracles. "Each of these women has different genetic memory emphasis—economic patterns, military logistics, climate stress, social dynamics. We combine their visions, cross-reference against historical records, deliver comprehensive prophecies that address multiple collapse vectors simultaneously."
+"I'm giving it reach. One seer can warn a village. But a temple of seers, speaking with the god's authority, can steer empires." She gestured back toward the training room. "Each of those women sees differently—one reads the signs of famine, another military overreach, another the strain in trade routes, another the cracks in how people hold together. We combine their visions, weigh them against the records, deliver prophecies that see the whole picture."
 
-Kleomenes felt his understanding of the defensive network shifting. "This changes everything. You're not just preventing collapses through early intervention. You're engineering prevention at civilizational scale."
+Kleomenes could still feel the ghost of the pneuma in his lungs. The images from the adyton flickered at the edge of his awareness—that burning city, the backward river, the sound of the earth groaning. He understood now why the older women trembled. The visions didn't leave. They *accumulated*.
 
-"Yes. And the offensive network knows."
+"This changes everything," he said. "You're not just whispering warnings to village elders. You're shaping the fate of civilizations."
+
+"Yes. And Amenhotep's heirs know it."
 
 ---
 
 ## SCENE 4: The Offensive Network's Response (The Twist)
 
-Aristonike led him to another secured room. Inside: encoded correspondence between Delphi and the offensive network.
+Aristonike excused herself to prepare for an evening consultation. Kleomenes was supposed to return to the priests' quarters. Instead, he went back to the operations room.
 
-The messages weren't hostile. They were... *collaborative*.
+He wasn't looking for anything specific. He was looking for the thing that still didn't fit—the gap in the pattern. Delphi was a network. Fine. But a network of *which* side? Aristonike's lineage traced to Nefertari's branch. The temple's methods—quiet warnings, preserved choice, no direct intervention—were Nefertari's philosophy made institutional.
 
-"I don't understand," Kleomenes said, reading letters that discussed shared intelligence, coordinated prophecies, even joint recommendations to clients. "The networks operate independently. Parallel experiments. This looks like cooperation."
+So why had the Croesus prophecy read like strategy?
 
-"It is. Because we realized something twenty years ago that neither network wanted to admit." Aristonike met his eyes. "Institutional prophecy works better when both approaches contribute. Defensive network provides pattern recognition and early warning. Offensive network provides strategic analysis and implementation planning. Together, we deliver prophecies that are both accurate and actionable."
+He pulled the Lydian file again. Beneath the operational notes he'd already seen, a second layer of correspondence, written on different papyrus—heavier, with the reddish tint of Egyptian manufacture. He almost missed it. The coding system was different from the others. Older. More angular.
+
+He knew that coding system.
+
+He'd seen it once before, in a captured message from Amenhotep's network—the *offensive* network, the ones who believed in engineering outcomes rather than whispering warnings. He'd been trained to recognize their ciphers the way a soldier learned to recognize enemy insignia.
+
+His hands went cold.
+
+He decoded the first line. *From: Siwa.* Amenhotep's stronghold. *To: Delphi. Re: Lydian expansion.*
+
+Not a threat. Not an infiltration report. A *recommendation*.
+
+*Your seers show economic overextension. Our strategists show military vulnerability. Combined recommendation: Deliver ambiguous prophecy that warns without commanding. Let the king hear what he chooses to hear—you preserve your neutrality, he receives the warning, the choice remains his.*
+
+Below it, in Delphi's cipher:
+
+*Response: Agreed. Prophecy delivered as suggested. Outcome: Croesus heard what he wanted, attacked Persia, destroyed his own empire exactly as the visions showed. Knowledge was offered. Choice was preserved. The ruin was preventable but not prevented. Both sides' principles honored.*
+
+Kleomenes put the scroll down. His pulse was hammering in his throat. He rifled through the rest of the Lydian file. More correspondence. More shared intelligence. *Years* of it. Delphi and Siwa exchanging analysis, coordinating prophecies, running joint operations while both networks—his own included—believed they operated independently.
+
+He heard the footstep behind him and didn't turn around.
+
+"How long?" he said.
+
+Aristonike's silence was its own answer.
+
+"How *long*, Aristonike."
+
+"Twenty years." She came to stand beside him. Her hand—the trembling one—rested on the table near the scrolls. "We realized something neither side wanted to admit. Prophecy works better when both approaches contribute. Nefertari's heirs see the warning signs—the early tremors before the earthquake. Amenhotep's heirs see the strategy—where to build the walls, how to move the people. Together, we deliver prophecies that are both true and useful."
 
 "You're violating the compact."
 
-"We're *evolving* the compact. Nefertari and Amenhotep split because they couldn't agree on approach—distributed prevention versus centralized control. But what if prophecy requires both? What if the most effective collapse prevention combines compassionate early warning with strategic intervention planning?"
+"We're *evolving* it. Nefertari and Amenhotep split because they couldn't agree—gentle guidance versus firm control. But what if prophecy requires both? What if the best warning combines compassion with strategy?"
 
-She pulled out a specific letter, dated fifteen years ago:
+Kleomenes stared at the Siwa cipher. Twenty years. While his own council debated whether to trust Delphi at all, the Oracle had already built a bridge to the other side and been walking across it in both directions.
 
-*From: Delphi (Defensive Network)
-To: Siwa (Offensive Network)
-Re: Lydian expansion patterns*
-
-*Our genetic memory shows economic overextension. Your strategic analysis shows military vulnerability. Combined recommendation: Deliver ambiguous prophecy that warns without commanding. Allow client agency while providing necessary information. Let Croesus choose his own interpretation—we preserve neutrality, he receives warning, outcome remains his responsibility.*
-
-*Response: Agreed. Prophecy delivered as suggested. Outcome: Croesus interpreted favorably, attacked Persia, destroyed his own empire exactly as patterns predicted. Knowledge was offered. Choice was preserved. Collapse was preventable but not prevented. Both networks' principles honored.*
-
-Kleomenes stared at the letter. "You're running a hybrid experiment. Defensive warning plus offensive strategy. And calling it prophecy so neither network takes credit or blame."
-
-"We're discovering that the most effective approach isn't purely defensive or purely offensive. It's *oracular*—providing knowledge without coercion, pattern recognition without control, allowing clients to choose their own responses to accurate information." Aristonike smiled grimly. "The Oracle doesn't prevent collapse. We just show it coming. Whether civilization listens is their choice."
+"The Oracle doesn't prevent anything," Aristonike said. Her voice carried the conviction of someone who'd had this argument with herself many times and won. "We show what's coming. Whether they listen is their choice. That's not Nefertari's way or Amenhotep's way. It's something new."
 
 ---
 
@@ -153,93 +215,133 @@ Kleomenes stared at the letter. "You're running a hybrid experiment. Defensive w
 
 **That evening. Temple archives.**
 
-Kleomenes studied Delphi's records going back two centuries. The pattern was clear:
+A young priest named Philon was waiting for them outside the operations room.
 
-**Successful prophecies** (client heeded warning, prevented collapse): ~40%
-**Failed prophecies** (client ignored warning, collapse occurred as predicted): ~45%
-**Ambiguous outcomes** (partial intervention, modified collapse): ~15%
+"The Athenian shouldn't be here." Philon addressed Aristonike but kept his eyes on Kleomenes—hard, unblinking. Generation 20, thinned blood, but his sight was clearly active enough to recognize a carrier. "He's been in restricted areas. Theron told me before he left."
 
-"You're barely improving on chance," Kleomenes observed.
+"Theron was transferred."
 
-"We're *documenting* chance," Aristonike corrected. "Showing that even with perfect pattern recognition, even with genetic memory and strategic analysis combined, even with religious authority delivering warnings—civilization still chooses collapse forty-five percent of the time."
+"Theron was *silenced*. Because he raised concerns about an outsider accessing our records." Philon stepped closer. He was young—mid-twenties—with the rigid posture of someone who'd built his identity around temple discipline. "The Hosioi are talking. Some of them think we're being infiltrated. That Athens is here to absorb us."
+
+Aristonike's jaw tightened. Her hand tremored against her thigh. "The Hosioi answer to me."
+
+"For now." Philon didn't flinch. "But you've served fifteen years. Everyone can see what the pneuma is doing to you. When you step down—and you will—who decides what Delphi becomes? Him?" He gestured at Kleomenes. "An outsider who's been here three weeks?"
+
+"That's enough, Philon."
+
+"It isn't. You're sharing our methods with someone who hasn't taken temple vows. You're collaborating with—" He stopped himself. But the accusation hung in the air, unfinished. He knew about Siwa. Or suspected.
+
+"Leave us," Aristonike said. The Pythia's voice now—not the woman's. Authority that had steered kings.
+
+Philon left. But he looked back once from the corridor, and what Kleomenes saw in his face wasn't anger. It was fear. The fear of someone who'd devoted his life to an institution he was watching crack.
+
+"He's not wrong," Kleomenes said.
+
+"He's not wrong about the questions. He's wrong about the answers." Aristonike sat heavily at the archive table. Her hands were shaking worse than they had been an hour ago—both of them now, not just the left. She pressed them flat against the wood. "Help me with these scrolls."
+
+They worked through Delphi's outcome records—two centuries of prophecies catalogued against results. The numbers told their own story:
+
+Successful prophecies—client heeded warning, averted crisis: roughly four in ten. Failed prophecies—client ignored warning, disaster occurred as predicted: nearly half. Ambiguous outcomes, partial intervention: the rest.
+
+"You're barely improving on chance," Kleomenes said.
+
+"We're *documenting* it." Aristonike's voice was steady even as her hands were not. "Showing that even when you see clearly, even when you combine the sight with strategy, even when you speak with the god's authority—people still choose ruin nearly half the time."
 
 "Then what's the point?"
 
-"The point is *agency*. Nefertari's defensive network intervenes early, prevents collapse before clients know it's happening. Compassionate but paternalistic—we save them without their knowledge. Amenhotep's offensive network engineers control, prevents collapse through management. Effective but authoritarian—we save them by removing their choice."
+"The point is *choice*. Nefertari's people intervene quietly, avert disaster before anyone knows it was coming. Compassionate but parental. Amenhotep's people engineer control, manage the outcome by managing the people. Effective but tyrannical." She looked at the records spread across the table—hundreds of scrolls, each one a civilization's decision. "Prophecy gives them the knowledge and lets them decide. Two centuries of proof that even when you hand civilization perfect knowledge of its own destruction, it often walks toward the fire anyway. And maybe that's a choice we have to respect."
 
-"And prophecy?"
+Something fundamental shifted in Kleomenes. "We've been asking the wrong question. Not 'how do we stop the collapse'—but 'how much freedom do we allow while trying to stop it.'"
 
-"Prophecy gives them the knowledge and lets them choose. We show the collapse patterns. We warn what's coming. We even suggest solutions. But the choice to act remains theirs." Aristonike gestured to the archives. "That's what these records prove. That even when you give civilization perfect information about impending collapse, they often choose it anyway. And maybe that's a choice we have to respect."
+"And prophecy answers: all of it. Even if that means ruin."
 
-Kleomenes felt something fundamental shifting. "You're saying the networks have been fighting the wrong question. It's not 'how do we prevent collapse'—it's 'how much choice do we allow while preventing collapse.'"
+She reached for a scroll and knocked it to the floor. Her fingers had spasmed. She stared at her hand as if it belonged to someone else, then bent to retrieve the scroll, but Kleomenes was already picking it up.
 
-"Exactly. And prophecy suggests: maximum choice, even if that means collapse happens. Because maybe civilization *choosing* collapse is different from civilization *experiencing* collapse without choice. Maybe agency matters as much as outcome."
+Their hands touched. Hers trembled against his.
 
-She swayed slightly. Kleomenes caught her elbow.
+She pulled back. "I need to sleep."
 
-"When did you last sleep?" he asked.
+"When did you last?"
 
-"Sleep isn't the problem. It's the tremors. They're getting worse." Her hand shook against his arm. "The pneuma damage affects motor control first, then memory, then—"
+"I don't—" She frowned. Searching. "Two nights ago. I think." The uncertainty in her voice was worse than the tremor. She wasn't sure.
 
-"Then you need to stop. Retire now. Train someone else."
+Kleomenes walked her to her quarters. At the door, she steadied herself against the frame, and he saw the exhaustion beneath the authority for the first time—not as weakness but as cost. The price of fifteen years of breathing poison and calling it service.
 
-"There is no one else." Aristonike met his eyes, and for the first time he saw past the Pythia's authority to the woman beneath. Exhausted. Frightened. Determined. "Not yet. Maybe you."
+"Retire now," he said. "Train someone else."
 
-"I'm not staying at Delphi."
+"There is no one else." She met his eyes. "Not yet."
 
-"I know." Her voice dropped. "You'll go back to Athens. Present the proposal. Convince the council. And I'll stay here, breathing poison, until my hands shake too much to write and my mind can't distinguish genetic memory from hallucination."
+She went inside. He stood in the corridor for a long time after.
 
-They stood close in the archive room, her hand still on his arm, his fingers steadying her trembling.
+---
 
-"There has to be another way," Kleomenes said.
+## SCENE 5B: What Accumulates
 
-"There isn't. This is what service costs." She didn't pull away. "Nefertari knew. She encoded the Protocol knowing it would burden carriers for three thousand years. Knowing we'd carry trauma that wasn't ours. Knowing some of us would break under the weight. But she believed the knowledge was worth the cost."
+**Three days later.**
 
-"And you? Do you believe it's worth this?" He touched her trembling hand.
+The moments gathered like sediment.
+
+Aristonike explaining the seer rotation to him over a morning meal, then stopping mid-sentence—not for drama, not for effect, but because the word had vanished. She stared at the wall for four heartbeats before it came back. *Rotation.* She said it with the careful precision of someone who knew what it meant to lose a word and not find it again.
+
+Kleomenes catching her arm when she stumbled on the temple steps. Not a dramatic fall. Just a foot that didn't land where her brain told it to. She pulled free and walked on as if nothing had happened, but her pace slowed afterward.
+
+An evening in the archive where they argued about the Siwa collaboration—he thought it was reckless, she thought it was necessary—and the argument burned through the professional distance between them. She was fierce and unyielding and *right* in ways he didn't want to admit, and when she finally said "You don't have to agree, you just have to understand," he realized he was looking at her mouth.
+
+He looked away. She noticed.
+
+Neither mentioned it.
+
+On the third day, Philon confronted them again—this time in front of two of the Hosioi. "The council in Athens will absorb us," he said. "Turn Delphi into an outpost. Strip our independence."
+
+"Delphi's independence is what makes it work," Kleomenes said. "I'm not here to absorb anything."
+
+"Then why are you still here?" Philon asked. The question landed harder than it should have.
+
+That night, Aristonike found Kleomenes in the archive. She was carrying a lamp and a sealed scroll.
+
+"You should read this before the council meeting." She set it down and turned to go.
+
+"Aristonike."
+
+She stopped.
+
+"You asked if there was anyone else. To replace you." He paused. "I'm not staying at Delphi."
+
+"I know." Her voice was quiet. "You'll go back to Athens. Present the proposal. Convince the council. And I'll stay here, breathing poison, until my hands shake too much to write and my mind can't tell a true vision from a gas dream."
+
+"That's not what I—"
+
+"It's exactly what you mean. And you're not wrong." She turned back to face him. The lamplight caught the tremor in her jaw—something new, something that hadn't been there a week ago. "This is what service costs. Nefertari knew. She wrote the knowledge into our blood knowing it would burden our people for three thousand years. Knowing some of us would break under the weight."
+
+"Do you believe it's worth this?"
 
 "Ask me in three years. When I can't remember my own name."
 
-The bitterness in her voice broke something in him. He pulled her closer, felt her body—fifty-two years old, poisoned, exhausted—lean into him.
+The bitterness in her voice cracked something open in him—not pity, not desire, something rawer than both. He crossed the distance between them and took her trembling hand. Held it steady between both of his.
 
-"You're fourteen years older than me," he said quietly. "You're dying from gas exposure. You serve a system that's consuming you. And I've been thinking about you every night since I arrived."
+She didn't pull away. Her breath caught.
 
-Aristonike laughed, sharp and surprised. "That's the most romantic thing anyone's ever said to me."
+"I'm terrified for you," he said. "And I'm not good at pretending I'm not."
 
-"I'm not good at romance. I'm good at pattern recognition. And the pattern I see is: I don't want to watch you destroy yourself alone."
+She looked up at him. Her eyes—still sharp despite everything, still carrying the weight of twenty generations—searched his face. Then she pressed her forehead against his chest. Not a kiss. Not a collapse. Just the surrender of someone who'd been holding herself upright for fifteen years.
 
-She looked up at him. Her eyes—still sharp despite the tremors, still carrying twenty generations of genetic memory—searched his face.
+He put his arms around her. Felt the tremor running through her entire body, faint and constant, like a string pulled too tight.
 
-"What are you offering, Kleomenes of Athens?"
-
-"Whatever time you have left. However many years before the pneuma takes you. I'll stay. Help coordinate the network. Learn the system. Be here when the tremors get too bad to hide."
-
-"That's not passion. That's pity."
-
-"That's both." He cupped her face, feeling the slight tremor even there. "And something else. You're the most brilliant carrier I've ever met. You've built something the defensive network has never achieved—institutional scale prevention. And you're doing it while poisoning yourself. I'm in awe of you. I'm terrified for you. And I want—"
-
-She kissed him.
-
-Not gently. Not carefully. With the desperation of someone who'd spent fifteen years serving the network without anyone seeing the cost. Her hands—trembling—gripped his shoulders. His arms wrapped around her, steadying her against the shaking that never fully stopped.
-
-When they broke apart, both breathing hard, she said: "I have three years. Maybe less. The tremors will get worse. I'll start forgetting things. Eventually I won't know who you are."
+"I have three years," she said into his chest. "Maybe less. The tremors will get worse. I'll start forgetting things. Eventually I won't know who you are."
 
 "Then we have three years."
 
 "That's not enough."
 
-"It's what we have." He kissed her again, softer this time. "And it's more than most carriers get. We spend our lives preventing other people's collapses. Let me try to prevent yours."
+"It's what we have." He tightened his arms. "I can learn what you've built. I can make sure it continues after you can't hold it together anymore. I can remember you when you can't remember yourself."
 
-"You can't prevent pneuma poisoning."
+She lifted her head. Tears on her face, but her voice was steady. "That's not kindness. That's cruelty dressed up as devotion."
 
-"No. But I can be here while it happens. I can learn your system. I can make sure it continues after you can't coordinate it anymore. I can remember you when you can't remember yourself."
+"Maybe." He brushed the tears from her cheek, feeling the tremor even there. "But I'm offering anyway."
 
-Aristonike's eyes filled with tears. "That's the cruelest kindness anyone's ever offered."
+She kissed him then. Not gently—with the desperation of someone who'd spent fifteen years serving this temple without anyone seeing the cost. Her hands gripped his shoulders, shaking. His arms steadied her against the tremor that never fully stopped.
 
-"I know." He pulled her close again. "But I'm offering anyway."
-
-They stood in the archive room, surrounded by two hundred years of prophecy records, carrier and carrier, Generation 20 and Generation 20, both knowing exactly how this would end and choosing it anyway.
-
-Because maybe that was what prophecy taught: You could see the collapse coming and still choose to walk toward it, if the time before mattered enough.
+They stood in the archive, surrounded by two centuries of prophecy records, both seeing exactly how this would end and choosing it anyway.
 
 ---
 
@@ -247,27 +349,27 @@ Because maybe that was what prophecy taught: You could see the collapse coming a
 
 **One week later.**
 
-Kleomenes remained at Delphi, studying the institutional structure. What he discovered changed his understanding of how the defensive network could scale.
+Kleomenes remained at Delphi, studying how it all worked. What he discovered changed his understanding of what their people could become.
 
-Traditional network operations: Individual carriers intervening in specific communities. Effective but limited by carrier population. Can't cover every city-state. Miss patterns that emerge between covered locations.
+The old way: Individual seers whispering warnings in specific communities. Effective but limited. You couldn't be everywhere. Couldn't see the threads connecting one city's troubles to another's.
 
-Delphi's innovation: Create an *institution* staffed by diluted carriers—dozens of distant bloodline descendants with weak but genuine genetic memory—coordinated by full carriers who provide training and analytical support.
+Delphi's innovation: Build a *temple* staffed by thinned-blood seers—dozens of distant descendants whose sight flickered but was genuine—guided by those who carried the full gift.
 
-The model was working. Delphi influenced every major Greek city-state. Consulted on military campaigns, colonial expansion, constitutional reforms, trade agreements. Delivered pattern recognition at scale that individual carriers couldn't match.
+The model was working. Delphi influenced every major Greek city-state. Kings consulted before military campaigns, colonial ventures, constitutional reforms, trade agreements. One temple's reach exceeded what any individual seer could achieve.
 
 And other temples were copying the model.
 
-"Dodona is establishing oracle operations," Aristonike told him. "Using our institutional framework. Recruiting diluted carriers. Training them in prophecy delivery. Coordinating with us on shared intelligence."
+"Dodona is building the same thing," Aristonike told him. "Using our methods. Finding those with thinned blood. Training them. Sharing what we learn."
 
 "You're franchising."
 
-"We're scaling. And we need the defensive network's support to do it properly." She handed him a proposal document. "I want you to bring this to the network council. Formalize the institutional prophecy model. Create standards for temple operations. Establish protocols for recruiting and training diluted carriers. Make this replicable across the Mediterranean."
+"We're growing. And we need the council's support to do it properly." She handed him a proposal document. "I want you to bring this to Athens. Make the case for formalizing what we've built. Standards for temple operations. Methods for finding and training the thinned-blood seers. Make this replicable across the Mediterranean."
 
-Kleomenes read the proposal. It was comprehensive. Detailed. Strategic in ways defensive network operations traditionally weren't.
+Kleomenes read the proposal. It was comprehensive. Detailed. Strategic in ways Nefertari's heirs had never been.
 
-"This is offensive network thinking," he said. "Systematic. Centralized. Organized."
+"This reads like something Amenhotep's people would write," he said. "Systematic. Organized. Top-down."
 
-"This is *hybrid* thinking. Defensive network compassion and pattern recognition, delivered through offensive network institutional structure." Aristonike met his eyes. "The networks can't stay purely separate anymore. Not if we're going to prevent collapse at civilizational scale. We need defensive intuition and offensive organization. Distributed carriers and centralized institutions. Both."
+"It's *both*. Nefertari's compassion and the sight, delivered through Amenhotep's structures." Aristonike met his eyes. "The two sides can't stay separate anymore. Not if we want to shape what happens to whole civilizations. We need the intuition *and* the organization. The seers *and* the institutions."
 
 ---
 
@@ -277,23 +379,23 @@ Kleomenes read the proposal. It was comprehensive. Detailed. Strategic in ways d
 
 The proposal divided the council immediately.
 
-"Institutional operations?" The elder Egyptian carrier—Generation 18—looked horrified. "We're creating *organizations*? With hierarchies and training programs and coordination protocols? That's offensive network methodology. We prevent collapse through distributed intervention, not institutional control."
+"Temples?" The elder from Egypt—Generation 18—looked horrified. "We're building *organizations* now? With hierarchies and training and formal coordination? That's Amenhotep's way. We work through individuals. Quiet action. Not institutional control."
 
-"We prevent small collapses," Kleomenes countered. "Village-level. Regional at best. Delphi is influencing empires. Preventing wars. Guiding civilizational-scale decisions. We can't match that impact through individual carrier intervention."
+"We avert small disasters," Kleomenes countered. "A village flood. A regional famine. Delphi is influencing empires. Averting wars. Guiding decisions that shape the fate of millions. We can't match that one seer at a time."
 
-"And we shouldn't try! The moment we build institutions, we create the same complexity that causes collapse. Hierarchies fail. Organizations fragment. Centralizing knowledge makes it vulnerable."
+"And we shouldn't try! The moment we build institutions, we create the same kind of complexity that causes collapse. Hierarchies rot. Organizations splinter. Gathering all the knowledge in one place makes it vulnerable."
 
-"Unless we build institutions that are *designed* not to fragment. That use religious authority for legitimacy, carrier networks for resilience, distributed temples for redundancy." Kleomenes gestured to the proposal. "Delphi isn't one vulnerable palace. It's a coordinated network of temple sites, operated by replaceable carriers, preserving knowledge through institutional continuity *and* genetic memory. It's the best of both approaches."
+"Unless we build temples that are *designed* not to splinter. That use the god's authority for legitimacy, our people for resilience, and multiple sites for safety." Kleomenes gestured to the proposal. "Delphi isn't one vulnerable palace. It's a web of temple sites, staffed by replaceable seers, preserving knowledge through both the institution *and* the blood. It's the best of what both sides offer."
 
-The Phoenician carrier—Generation 19—spoke: "And the offensive network collaboration? You're comfortable with that?"
+The Phoenician—Generation 19—spoke: "And the collaboration with Amenhotep's heirs? You're comfortable with that?"
 
-"I'm comfortable with prophecy that works. Whether it combines both networks' methods is less important than whether it prevents collapse." Kleomenes paused. "Six hundred twenty-seven years into the three-thousand-year experiment, maybe we should test hybrid approaches. See if combining methods works better than keeping them separate."
+"I'm comfortable with prophecy that works. Whether it borrows from both traditions matters less than whether it saves lives." Kleomenes paused. "Six hundred twenty-seven years into a three-thousand-year experiment, maybe it's time to try something new."
 
 The vote took three hours. The decision was close.
 
-Approved: The defensive network would support institutional prophecy operations. Provide training for diluted carriers. Coordinate with temple networks. Even—controversially—share intelligence with offensive network when combined analysis improved prophecy accuracy.
+Approved: The council would support temple-based prophecy. Train thinned-blood seers. Coordinate across temple sites. Even—controversially—share intelligence with Amenhotep's heirs when it made the prophecies sharper.
 
-But maintain: Individual carrier intervention remains primary. Institutional operations are supplementary. If temples become sources of collapse themselves, networks retain authority to withdraw support.
+But maintain: Individual seers remain the foundation. Temples are the supplement. If the institutions themselves become sources of instability, the council retains authority to pull support.
 
 Hybrid approach with safeguards. Both methods, neither dominant.
 
@@ -303,41 +405,67 @@ Hybrid approach with safeguards. Both methods, neither dominant.
 
 **Five years later. 545 BCE. Delphi.**
 
-Kleomenes watched twelve new diluted carriers complete their training. Generation 20-21 bloodlines, distant descendants of defensive network carriers, all showing genetic memory activation strong enough for prophecy but weak enough to need institutional support.
+Kleomenes watched twelve new seers complete their training. Generation 20 and 21, distant descendants whose sight had awakened strongly enough to serve but not strongly enough to stand alone.
 
-"You'll rotate through Pythia duties," Aristonike instructed them. "Supported by priest-interpreters who are full carriers. Your genetic memory provides intuition—visions of collapse patterns, economic stress, military overextension, climate disruption. The priests provide analysis—historical context, geopolitical implications, strategic recommendations. Together, you deliver prophecy that combines bloodline intuition with institutional knowledge."
+"You'll rotate through Pythia duties," Aristonike instructed them. "Supported by priest-interpreters who carry the full gift. Your visions provide the intuition—the warning signs, the economic strain, the armies massing where they shouldn't be, the harvests failing. The priests provide the context—what history says about these signs, what they mean for the wider world, what might be done. Together, you deliver prophecy that combines the sight with understanding."
 
-One of the trainees raised a hand. "What if our visions contradict the analysis? What if genetic memory shows one pattern but strategic assessment suggests another?"
+She paused. The trainees waited. Aristonike's mouth opened, closed. Her eyes drifted—not to any of them, but to somewhere else entirely, some middle distance that had nothing to do with the room.
 
-"Then you deliver both. Let clients choose which interpretation to follow. That's the oracular model—provide knowledge, preserve agency, let civilization choose its own response." Aristonike smiled. "We're not here to control outcomes. We're here to ensure informed choice."
+"Aristonike?" the youngest trainee said.
 
-After the training session, Kleomenes and Aristonike stood on Delphi's temple steps, watching the sacred smoke rise.
+The Pythia blinked. Came back. "If your visions contradict the analysis," she said, as if no gap had occurred, "you deliver both. Let the supplicants choose which truth to follow." But Kleomenes had counted the silence. Four heartbeats. She'd lost the thread of where she was.
 
-"How many temples now?" Kleomenes asked.
+After the training session, they walked to the temple steps. Aristonike's gait had changed over the five years—slower, more deliberate, each foot placed with the concentration of someone who no longer trusted the ground. Fourteen temples now carried the model she'd built. Dodona expanding. Siwa formalizing. Smaller shrines across the Greek world asking how it was done.
 
-"Fourteen. Operating under the institutional model. Recruiting diluted carriers. Delivering coordinated prophecy." Aristonike paused. "And three more in development. Dodona is expanding. Siwa is formalizing operations. Even smaller shrines are requesting training protocols."
+"We're industrializing prophecy," Kleomenes said.
 
-"We're industrializing prophecy."
-
-"We're discovering that some knowledge works better through institutions than individuals. Genetic memory provides the raw pattern recognition. But scaling that knowledge to civilizational influence requires organizational infrastructure." She turned to him. "In three hundred years, when the Roman Empire dominates the Mediterranean, they'll encounter this network. Temples delivering prophecy. Diluted carriers trained in pattern recognition. Institutions preserving knowledge across generations. And they'll have to decide: suppress it as superstition, or recognize it as systematic collapse prevention disguised as divine prophecy."
+"We're learning that some knowledge works better through temples than through lone seers." She sat on the top step. She'd never done that before—Aristonike had always stood. But her legs were unreliable now, and they both knew it. "In three hundred years, when Rome dominates the Mediterranean, they'll encounter what we've built. And they'll have to decide: dismiss it as superstition, or recognize it for what it is."
 
 "What will they choose?"
 
-"I don't know. My genetic memory doesn't show that far forward." Aristonike smiled. "But I suspect Rome will try to co-opt the system. Use prophecy for imperial control. And discover—as we're discovering now—that institutional knowledge has its own resilience. You can conquer temples. You can replace priests. But if the knowledge is encoded in both genetics and organizational practices, both bloodlines and institutional memory, it persists through conquest."
+"I don't—" She stopped. Frowned. Not the word-finding pause he'd grown used to. Something else. Her eyes went distant, and her left hand began to shake—not the constant low tremor of the last five years, but a violent, rhythmic seizing that traveled up her forearm. She gripped her wrist with her right hand, but the right hand was shaking too.
 
-Kleomenes understood then: This was the defensive network's long-term survival strategy. Not just encoding knowledge in DNA, but building institutions that preserved and scaled that knowledge across centuries. Creating systems that would outlast individual carriers, specific networks, even particular civilizations.
+"Aristonike."
 
-"Nefertari would be proud," he said.
+"I'm fine." She wasn't. The tremor was rolling through her shoulders now, her jaw clenching against it. She breathed through her teeth until it passed—ten seconds, fifteen—and then sat very still, both hands pressed flat against the stone step.
 
-"Nefertari would be terrified," Aristonike corrected. "We're building exactly the kind of centralized institutional power she split from Amenhotep to avoid. But we're building it *well*. With distributed redundancy. With carrier autonomy. With institutional resilience. Maybe that's the real lesson—not that centralization is bad, but that centralization without resilience is fragile."
+"That's new," Kleomenes said carefully.
 
-They watched the sun set over Delphi, the temple complex glowing in golden light. Below them, pilgrims gathered to consult the Oracle. Kings and merchants and farmers, all seeking knowledge about futures they couldn't see.
+"That's been happening for a month." Her voice was stripped bare. No Pythia's authority. Just a woman watching her body betray her. "The episodes are longer each time."
 
-And inside the temple, carriers—full and diluted, trained and intuitive, individual and institutional—prepared to deliver prophecy that might prevent the collapses they could see.
+He sat beside her. Took her hand. It shook against his palm like a bird trapped in a fist.
 
-Six hundred twenty-seven years into a three-thousand-year experiment.
+"Nefertari would be terrified," she said, returning to a thought she'd already abandoned, as if the tremor had reset her. "We're building exactly the kind of power she split from Amenhotep to avoid. But we're building it *well*. With many temples, not one. With seers who choose to serve. With resilience woven into the structure." She looked at their joined hands—his steady, hers not. "Maybe that's the real lesson. Not that gathering power is wrong, but that gathering power without resilience is fragile."
 
-And the prophecy network was just beginning.
+Kleomenes understood: this was the long game. Not just carrying knowledge in the blood, but building temples that preserved and spread that knowledge across centuries. Something that would outlast any individual seer, any single tradition, even particular civilizations.
+
+Even Aristonike.
+
+A runner appeared at the base of the temple steps, breathing hard. Young. Temple robes. He climbed toward them and handed Aristonike a sealed message without speaking, then retreated.
+
+She broke the seal. Read. Her face went very still.
+
+"What is it?"
+
+She handed him the scroll. The cipher was Siwa's—the angular script he'd learned to read five years ago in the operations room. But the message wasn't routine intelligence. It was a warning.
+
+*Operatives in the eastern network report unusual activity. Someone is mapping temple sites. Not a king's spies—they know what to look for. They're asking about lineages. About the blood. About how the sight is trained.*
+
+*They know about the rotation system. They know about the collaboration.*
+
+*Recommend immediate security review at all fourteen sites. Someone is building a picture of what we are.*
+
+Kleomenes read it twice. The evening air had gone cold.
+
+"Philon," he said.
+
+"Maybe. Maybe someone else. It doesn't matter who." Aristonike's voice was steady—the Pythia's voice, not the woman's. The voice she used when there was no time for fear. "What matters is that someone outside both networks now understands what Delphi really is. And they're not asking the Oracle for guidance. They're studying us the way we study empires."
+
+Below them, pilgrims gathered for the evening consultation. Kings and merchants and farmers, all seeking knowledge about futures they couldn't see.
+
+And somewhere beyond the sacred precinct, someone was watching the watchers.
+
+Six hundred twenty-seven years into a three-thousand-year experiment. The prophecy network was no longer a secret.
 
 ---
 

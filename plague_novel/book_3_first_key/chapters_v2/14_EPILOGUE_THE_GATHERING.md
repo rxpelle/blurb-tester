@@ -118,7 +118,7 @@ Simon said nothing. His hand was still on his left side, holding the place where
 
 "Love your neighbor as yourself," Jesus said. And then stopped. Because the words, which he'd been carrying for months as a teaching, as a principle, suddenly felt different in his mouth. Not an instruction. Not a commandment. A description of what had happened on the hillside. A name for what the warmth did when it moved through people — dissolved the boundary between self and other, between my grief and your grief, between the love I carry and the love you've been missing. For one moment on that hillside, forty people had loved each other as themselves. Not because they chose to. Because the love chose them.
 
-He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs — quieter now, settled, but still there. Still reaching. Still searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to mistake for the voice of God.
+He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs — quieter now, settled, but still there. Still reaching. Still searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to understand as the voice of God.
 
 ---
 

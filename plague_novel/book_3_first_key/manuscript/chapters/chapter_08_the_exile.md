@@ -8,95 +8,75 @@
 
 Rachel bat-Yonah walked through burning Jerusalem with genetic memory screaming in her mind.
 
-Not just her own memories—though watching the Babylonian army torch the Temple was trauma enough. But *ancestral* memories. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, stacked and reinforcing, flooding her consciousness as her own city died.
+Not just her own memories—though watching the Babylonian army torch the Temple was trauma enough. But *ancestral* memories. Pi-Ramesses burning. Mycenae burning. Every catastrophe her family had witnessed for twenty-three generations, stacked and reinforcing, flooding her consciousness as her own city died.
 
-She was thirty-one years old. Generation 23 from Tausret. A physician and midwife, like every woman in her family line for six hundred years. And right now, carrying two things: her infant daughter wrapped against her chest, and genetic memory so vivid she could barely distinguish past from present.
+She was thirty-one years old. Generation 23 from Tausret. A physician and midwife, like every woman in her family line for six hundred years. And right now, carrying two things: her infant daughter wrapped against her chest, and inherited memory so vivid she could barely distinguish past from present.
 
 *This is what Nefertari saw,* Rachel thought as flames consumed the archive where she'd hidden medical scrolls. *This is what collapse looks like. Trade routes breaking. Kingdoms fragmenting. Cities burning. People fleeing.*
 
 Around her, thousands of Judeans were being herded into columns for the march to Babylon. The Babylonian Exile had begun.
 
-And Rachel had to make a choice: try to preserve the defensive network through displacement, or let six hundred years of work burn with Jerusalem.
+And Rachel had to make a choice: try to preserve everything through displacement, or let six hundred years of work burn with Jerusalem.
+
+She'd seen it coming. Not the specific timing—Nebuchadnezzar's siege had been unpredictable. But the shape of it. The *old shape* that every woman in her bloodline had learned to read. She'd tried warning King Zedekiah. Written analyses, testimony before his council, warnings through every advisor who would listen. Jerusalem's resistance strategy was following the same path as every failed Bronze Age kingdom: isolate, hoard resources, refuse diplomatic compromise. Classic pre-crisis behavior.
+
+*God will protect Jerusalem,* the king had told her. *The Temple cannot fall.*
+
+She'd wanted to scream: *The dead don't care about theology.*
+
+Instead she'd done what her family had always done. Prepared for the worst. Gathered the defensive network—twenty families, forty-eight carriers—and split them into three groups before the walls came down. Eight families staying in Judah with the remnant. Twelve fleeing to Egypt and the Phoenician branches. The rest marching to Babylon with the exiles.
+
+The keys were safe. Pattern Eye in Byblos. Memory Bridge in Cyprus. But the Living Key—her daughter, Generation 24, Tausret's full lineage wrapped in swaddling cloth against Rachel's chest—the Living Key walked into exile.
+
+*I'm not walking into captivity,* she told herself as the column lurched forward. *I'm walking into survival. This is what we were built for.*
 
 ---
 
-**Three days earlier: The warning**
-
-Rachel had seen it coming.
-
-Not the specific timing—Nebuchadnezzar's siege had been unpredictable. But the pattern. The *collapse pattern* that every carrier in her bloodline had learned to recognize.
-
-She'd tried warning the king. Tried explaining that Jerusalem's resistance strategy was following the same pattern as every failed Bronze Age kingdom: isolate, hoard resources, refuse diplomatic compromise, fragment internal alliances. Classic pre-collapse behavior.
-
-King Zedekiah hadn't listened.
-
-She'd tried other approaches. Warnings through his advisors. Testimony before the temple priestesses. Even a written analysis of historical collapse patterns, presented to the royal council. Each attempt met the same response: faith would overcome pattern, divine protection would trump genetic memory.
-
-"Your family has been advising Judah's kings for generations," he'd said at their final audience. "But this time, you're wrong. God will protect Jerusalem. The Temple cannot fall."
-
-Rachel had wanted to scream: *Genetic memory doesn't care about theology. Pattern recognition is pattern recognition. And this pattern ends in collapse.*
-
-But she'd stayed quiet. Done what her family had always done: prepared for the worst while hoping for prevention.
-
-She'd gathered the defensive network—twenty families in Judah now, descendants of the original carriers or their trained students. Forty-eight people who knew about the Genesis Protocol, understood the bronze keys, carried fragments of defensive knowledge.
-
-"The exile is coming," Rachel had told them. "Probably within the week. We need to disperse the knowledge now, before Babylon takes us."
-
-"Disperse how?" one member had asked. An archivist, elderly, terrified.
-
-"Three groups. One stays in Judah—there will be a remnant population, and they'll need the network. One goes to Egypt—the Phoenician and Cypriot branches are still active there. One goes to Babylon with the exiles—we can't abandon our people."
-
-"What about the keys?"
-
-Rachel had thought about this carefully. "The Pattern Eye is safe in Byblos—Phoenicia isn't involved in this war. The Memory Bridge is in Cyprus—also safe. The Distribution Network fragments are with families across the region. But we need to protect the bloodline itself."
-
-She'd looked at her infant daughter, sleeping peacefully. Generation 24. Already showing signs of genetic memory activation—crying at night with what Rachel recognized as ancestral nightmares.
-
-"The Living Key goes to Babylon with me," Rachel had said. "My daughter carries Tausret's full bloodline. I won't abandon that."
-
-"You're walking into exile."
-
-"I'm walking into survival. This is exactly what the defensive network was designed for—distributing knowledge so it persists through collapse. If we all stay in Jerusalem, we all burn together. If we scatter, we adapt."
-
----
-
-**Now: The march begins**
+**The march**
 
 Rachel walked in a column of ten thousand exiles.
 
-Behind them, Jerusalem burned. The Temple—Solomon's Temple, standing for four hundred years—was ash. The palace was destroyed. The city walls were breached. Everything that made Judah a kingdom was gone.
+Behind them, Jerusalem was dying.
 
-But Rachel carried something Nebuchadnezzar couldn't burn.
+They'd heard the Temple fall. Not seen it—the Babylonian guards had herded them out through the eastern gate before dawn, faces forward, no turning back. But sound carried. First a groan, low and structural, like the earth itself splitting open. Then a roar that swallowed every other noise in the valley—four hundred years of stone and cedar collapsing inward, Solomon's Temple folding into itself like a body giving up its last breath. The ground shuddered beneath their feet. Someone in the column screamed. Then everyone screamed.
 
-Genetic memory. Twenty-three generations of pattern recognition, encoded so deeply in her bloodline that even displacement couldn't erase it. And the knowledge that this—this exact scenario—was survivable because Nefertari had designed the Protocol for exactly this.
+Rachel had looked back once. A column of black smoke rose over the city, so vast it seemed to hold up the sky. At its base, a furnace-orange glow where the Holy of Holies had stood. Sparks spiraled upward like fleeing souls—thousands of them, riding the thermals, visible for what must have been twenty miles in every direction. The smoke would be seen in Jericho. In Bethlehem. In every village of Judah, so that no one could pretend the unthinkable hadn't happened.
 
-A woman walked beside her. Esther. Another carrier, Generation 22, older than Rachel by fifteen years. Her children were grown, walking somewhere else in the column.
+A Babylonian guard struck her shoulder with the flat of his spear. *Forward.* She stumbled, caught herself, kept walking.
 
-"The genetic memory is overwhelming," Esther said quietly. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit—every burning city our bloodline ever witnessed. It's all active right now."
+The march was a slow butchering.
 
-"I know." Rachel adjusted her daughter's wrap. "But that's actually good."
+By the second hour, the sun was a white blade overhead, and the column had stretched thin as the weak fell behind. Rachel watched an old man—a scribe she'd known, someone who'd copied Torah scrolls for forty years—sit down on a rock and refuse to stand. Two Babylonian soldiers stood over him. One kicked the rock out from under him. When he still didn't rise, they moved on. Left him sitting in the dust with his head bowed, growing smaller behind the column until the heat haze swallowed him.
 
-"How is this good?"
+No one went back.
 
-"Because trauma strengthens genetic encoding. Nefertari discovered this six hundred years ago—extreme stress makes epigenetic markers more persistent. Our descendants will remember this exile more vividly than anything else in the bloodline. Which means they'll recognize the pattern if it repeats."
+Children wailed in a chorus that never stopped—a sound that bored into the skull and lived there. A woman ahead of Rachel carried a boy of perhaps four on her hip, her legs buckling with each step, until another exile took the child without a word. Feet bled through sandals and left dark prints on the pale road. The Babylonian guards rode horses along the column's flanks, leather whips coiled at their saddles, using them on anyone who tried to leave the road for shade or water.
 
-Esther was quiet for a moment. Then: "You're thinking like Nefertari. Even in collapse, seeing how it encodes knowledge forward."
+Rachel's daughter whimpered against her chest. She pressed the baby closer and kept walking.
 
-"It's what we're trained to do. Pattern recognition. Systems thinking. Understanding how trauma becomes teaching."
+A woman fell into step beside her. Esther. Another carrier, Generation 22, older than Rachel by fifteen years. Her face was gray with dust, her lips cracked. Her children were grown, walking somewhere else in the column—or not walking anymore. Neither of them said it.
 
-"What pattern do you see now?"
+"The memories are overwhelming," Esther said quietly. "Pi-Ramesses, Mycenae, Ugarit—every burning city our family ever witnessed. It's all alive right now. Stacking."
 
-Rachel looked at the burning city behind them, the armed Babylonian guards around them, the thousands of displaced Judeans marching toward an unknown future.
+"I know." Rachel adjusted her daughter's wrap with hands that wouldn't stop trembling. A body lay at the road's edge ahead—an elderly woman, face down, already being covered by blown dust. Rachel steered Esther around it. "But that's what the encoding does. Suffering burns deeper. Our descendants will remember this march more vividly than anything else in the bloodline."
+
+"You're thinking like Nefertari," Esther whispered. "Even now."
+
+"If I stop thinking like Nefertari, I'll start screaming and I won't stop."
+
+A whip cracked somewhere behind them. A man cried out. Leah startled against Rachel's chest, her tiny fingers gripping the cloth.
+
+"What do you see?" Esther asked. The old question. The carrier's question, passed down through generations. *What pattern is this?*
+
+Rachel looked at the column of refugees stretching to the horizon, the guards on horseback, the dust cloud that marked ten thousand people being driven from their homeland.
 
 "Diaspora," she said. "Not collapse—dispersal. Judah as a centralized kingdom is ending. But Judeans as a people will persist. Scattered. Adapted. Carrying practices instead of power."
 
-"Like the defensive network."
+"Like us."
 
-"Exactly like the defensive network. We've been training for this for six hundred years. Distributed knowledge. Resilient through fragmentation. Practices that outlast institutions. Everything Nefertari encoded into our operating system."
+"We've been training for this for six hundred years. Everything Nefertari wove into our bones." She wiped dust from Leah's face with her thumb. The baby's eyes were open, dark and watchful, too still for an infant. "We survive by becoming the exile. By making displacement our structure instead of our weakness."
 
-"So we survive the exile."
-
-"We survive by becoming the exile. By making displacement our structure instead of our weakness."
+Ahead, the road bent east toward Babylon. Behind, the smoke of Jerusalem darkened half the sky.
 
 ---
 
@@ -108,81 +88,109 @@ Rachel stood at the Ishtar Gate, staring at blue-glazed brick walls that seemed 
 
 And somewhere in this city, the Order—Amenhotep's offensive network—had representatives.
 
-Rachel felt them before she saw them. A subtle recognition, like genetic memory activating—that distinctive prickling awareness when another carrier's pattern-recognition processes were operating nearby. Nefertari had documented it decades ago: carriers shared certain cognitive markers, ways of processing information that created a kind of resonance. Like recognizing a familiar accent in a foreign city.
+Rachel felt him before she saw him. A prickling at the base of her skull, like a half-remembered dream sharpening into focus. Nefertari had documented it generations ago: those who carried the bloodline shared a kind of resonance, a way of processing the world that hummed at the same frequency. Like recognizing a familiar accent in a foreign city.
 
-Across the plaza, a man watched her. Egyptian features, but dressed like a Babylonian priest. His eyes tracked her with too much interest, scanning the crowd with the same systematic pattern analysis she used.
+Across the plaza, a man watched her. Egyptian features, but dressed like a Babylonian priest. Shaved head, linen under-robe visible beneath the Babylonian wool. His eyes tracked her with too much interest, scanning the crowd with the same systematic awareness she used.
 
-*Offensive carrier,* Rachel realized. *He recognizes me too. Same genetic architecture, different training. We sense each other's pattern-recognition like musicians hearing another's rhythm.*
+*One of theirs.* The recognition was mutual and instant—she saw his posture change the moment he felt it too. Same inheritance, different purpose. They sensed each other the way predators sense their own kind.
 
-She turned away, pulled her daughter closer, and disappeared into the refugee settlement.
+He stepped toward her.
+
+Rachel turned into the crowd, moving fast but not running—running attracted attention. She pressed Leah tight against her chest with one hand and used the other to pull her headscarf lower. The Ishtar Gate plaza was packed with traders, soldiers, slaves, priests. She could disappear in it. She *had* to disappear in it.
+
+She cut left through a group of Phoenician merchants arguing over grain prices. Glanced back. The priest was following, twenty paces behind, moving with the same deliberate calm. He wasn't chasing her. He was tracking her. Patient. Professional.
+
+*He's been trained for this,* she realized. *The Order has been running intelligence operations for six hundred years. Of course they have.*
+
+She ducked into a narrow alley between two temple storehouses. The smell of grain and sesame oil. Stacked amphorae narrowing the passage. She pressed herself flat against the wall, controlling her breathing, one hand over Leah's mouth.
+
+Footsteps in the alley entrance. He stood there, silhouetted against the bright plaza. Listening.
+
+Leah squirmed. Rachel held her tighter. *Please. Please don't cry.*
+
+A sound from the plaza—a cart overturning, men shouting. The priest's head turned. In that fraction of a second, Rachel moved deeper into the alley, found a cross-passage, and slipped through it into a residential street she didn't recognize.
+
+She walked for twenty minutes before she was sure he'd lost her. Kept checking the prickling at her skull—the resonance fading, weakening with distance, until it was just a dull hum she could ignore.
+
+But she couldn't ignore what it meant. The Order knew there were carriers among the Judean exiles. They were watching the refugee settlements. And now at least one of their agents had felt Rachel's bloodline—felt the Living Key—and would be looking for her again.
+
+She'd have to change her routine. Move to a different district. Never visit the main plaza again. The cost of being the primary carrier: you couldn't just blend in. Your blood sang too loud.
+
+Rachel found the refugee settlement by following the sound of Hebrew prayers, pulled her daughter closer, and didn't look back.
 
 The Babylonian authorities had assigned the Judean exiles to specific districts. Crowded. Controlled. But not imprisoned. Babylon's strategy was assimilation, not annihilation. Let the exiles work, trade, intermarry. Give it two generations and Judeans would become Babylonians.
 
-But the defensive network had a different plan.
+But Rachel's people had a different plan.
 
 ---
 
 **That evening: Network reconvenes**
 
-Thirty-two members of the defensive network had survived the march to Babylon.
+Thirty-two of their people had survived the march to Babylon.
 
-They met in a borrowed room, crowded, speaking quietly. Around them, ten thousand Judean exiles tried to rebuild lives from nothing. But these thirty-two had something most exiles didn't: six hundred years of institutional memory about surviving collapse through distribution.
+They met in a borrowed room, crowded, speaking quietly. Around them, ten thousand Judean exiles tried to rebuild lives from nothing. But these thirty-two had something most exiles didn't: six hundred years of hard-earned wisdom about surviving disaster by scattering.
 
 "The Pattern Eye and Memory Bridge are still secure," reported one member—a merchant who'd maintained contact with the Phoenician branch. "I sent word via trade routes. Byblos and Cyprus confirmed protection continues."
 
 "What about the families in Judah?" Rachel asked.
 
-"Eight families stayed. They're integrating with the remnant population. Maintaining the network locally in case we never return."
+"Eight families stayed. They're integrating with the remnant population. Keeping the work alive locally in case we never return."
 
 "And Egypt?"
 
 "Twelve families fled there. They've made contact with the Phoenician branch. The Mediterranean network is intact."
 
-Rachel felt relief. The distribution was working. Even with Jerusalem destroyed and the kingdom fragmented, the defensive network was adapting through dispersal.
+Rachel felt relief. The defensive network was holding. Even with Jerusalem destroyed and the kingdom fragmented, they were adapting through dispersal.
 
-"What about the Order?" Esther asked. "I've seen their carriers here. Egyptian priests working for Babylon. They're advising the empire on population management."
+"What about the Order?" Esther asked. "I've seen their people here. Egyptian priests working for Babylon. They're advising the empire on population management."
 
-"Of course they are," Rachel said. "This is exactly what offensive mode is designed for. Control who survives collapse through institutional power. They've probably been infiltrating Babylon's priesthood for generations, waiting for opportunities like this."
+"Of course they are," Rachel said. "That's what they do—control who survives through institutional power. They've probably been infiltrating Babylon's priesthood for generations, waiting for opportunities like this."
 
 "Should we interfere?"
 
 "No. We honor the original agreement. They test their approach, we test ours. Non-interference unless catastrophic failure."
 
-"But what if they succeed? What if offensive mode—centralized control, managed populations, engineered survival—actually works better than our prevention approach?"
+"But what if they succeed? What if their way—centralized control, managed populations, engineered survival—actually works better than ours?"
 
-Rachel thought about this carefully. Six hundred years into the three-thousand-year experiment, both networks were still viable. Defensive had prevented multiple regional collapses through early intervention. Offensive had gained institutional power in Egypt, Babylon, and probably other empires.
+Rachel thought about this carefully. Six hundred years into the three-thousand-year experiment, both sides were still viable. Their own people had prevented multiple regional crises through early warning. The Order had gained institutional power in Egypt, Babylon, and probably other empires.
 
-"Then we learn something," Rachel said finally. "But I don't believe they'll win. Because power fragments. Empires fall. But practices persist. We're encoding the Protocol into culture, not institutions. That's more resilient."
+"Then we learn something," Rachel said finally. "But I don't believe they'll win. Because power fragments. Empires fall. But practices persist. We're weaving the Protocol into culture, not institutions. That's harder to kill."
 
 "Are you sure?"
 
-Rachel looked around the circle. Thirty-two people who'd lost everything—kingdom, city, homes, status. But they still carried the knowledge. Still recognized patterns. Still understood their purpose.
+Rachel looked around the circle. Thirty-two people who'd lost everything—kingdom, city, homes, status. But they still carried the knowledge. Still recognized the warning signs. Still understood their purpose.
 
-"Yes. Because we're still here. Jerusalem burned, but the network adapted. That's defensive mode working exactly as designed."
+"Yes. Because we're still here. Jerusalem burned, but we adapted. That's the whole point."
 
 ---
 
-**Three months later: The encoding continues**
+**Three months later: The inheritance deepens**
 
-Rachel's daughter—Leah, she'd named her—was six months old when the genetic memory first activated.
+Rachel's daughter—Leah, she'd named her—was six months old when the memories first stirred.
 
-Rachel woke to her crying. Not normal infant distress. Something deeper. Leah's eyes were unfocused, seeing something that wasn't there.
+Rachel woke to screaming. Not crying—screaming. A sound no six-month-old should be able to produce. It came from somewhere deeper than an infant's lungs, a raw tearing noise that filled the small room like something ancient had crawled into her daughter's throat and was trying to claw its way out.
 
-Rachel recognized it immediately. Ancestral trauma surfacing. The genetic encoding activating earlier than any previous generation.
+Rachel scrambled to the crib. Leah's back was arched, her tiny fists clenched white, her mouth open in that terrible sound. But it was her eyes that stopped Rachel cold. They were open. Wide open. And they were *seeing* something—tracking it across the ceiling with a focus and a terror that belonged to an adult, not a baby. The pupils were dilated so far the irises had nearly vanished.
 
-She held Leah close, humming the lullaby her own mother had taught her. The one passed down through twenty-three generations. The one that wasn't just music—it was mnemonic. It encoded collapse patterns into rhythm. It taught systems thinking through melody.
+"Leah. Leah, I'm here." Rachel lifted her. The baby was rigid, every muscle locked, and burning hot. The screaming didn't stop. It rose in pitch, became a keening that Rachel felt in her teeth, in the bones of her face, and underneath it—God help her—she could hear *words*. Not language. Something before language. A pattern of grief so old it predated speech.
 
-*This is the pattern,* the song said in code. *Recognition before crisis. Intervention before cascade. Compassion before control.*
+Rachel recognized it. She'd heard it in her own nightmares, muffled and distant. But in Leah it was unfiltered. Twenty-three generations of trauma pouring through a body that weighed less than a sack of grain.
 
-Leah calmed.
+*She's seeing Pi-Ramesses,* Rachel realized. *Or Mycenae. Or Ugarit. Or all of them at once. Every fire, every collapse, every death in our bloodline, flooding a mind that doesn't have words yet to understand any of it.*
 
-And Rachel understood: the exile was making the genetic memory stronger. Trauma was stacking. Each generation's suffering layered onto the last. By Generation 40—roughly four hundred years from now—carriers would probably remember everything. Tausret's death, Nefertari's creation, Tirzah's choice, Miriam's interventions, Rachel's exile. All of it, vivid as personal memory.
+Rachel held her daughter against her chest and felt the child's heartbeat—impossibly fast, a hummingbird's rhythm—and beneath it, her own heart answering, the old resonance surging, the shared frequency of their blood. She started humming. The lullaby. Twenty-three generations old. Not just music—a map. The old lessons encoded in rhythm. A way of seeing taught through melody.
 
-That was dangerous. That much ancestral trauma could break someone.
+*Watch for the signs. See the danger before it blooms. Act before the fall.*
 
-But it was also powerful. Because if you could teach carriers to carry that trauma with purpose—to use it as a warning system instead of a curse—then collapse became preventable.
+Slowly—minutes that felt like hours—Leah's body unclenched. The screaming thinned to whimpering, then to shuddering breaths. Her eyes lost that terrible focus and drifted, unfixed, back to being a baby's eyes. She found Rachel's face and stared at it with an expression that no mother should see on an infant: not confusion, not comfort, but *recognition*. As if she'd just lived through something old and awful and was only now remembering where—and when—she actually was.
 
-Rachel had to make sure her daughter learned that. Learned to carry genetic memory with joy, not burden. The way Tirzah had, six hundred years ago.
+Rachel held her and didn't sleep again that night.
+
+The exile was making the genetic memory stronger. Trauma stacking. Each generation's suffering layered onto the last. By Generation 40—roughly four hundred years from now—carriers would probably remember everything. Tausret's death, Nefertari's creation, Tirzah's choice, Miriam's interventions, Rachel's exile. All of it, vivid as personal memory.
+
+That was dangerous. That much ancestral grief could shatter someone.
+
+But Rachel couldn't think about that now. She could only hold her daughter in the dark, listening to the child's breathing slowly steady, and wonder what it cost a mind with no defenses to dream the dreams of the dead.
 
 ---
 
@@ -192,25 +200,49 @@ The Babylonian Exile lasted longer than expected.
 
 But the defensive network didn't just survive displacement—it thrived because of it.
 
-Rachel, now thirty-six, stood in a marketplace teaching Leah (age five) how to recognize economic patterns. Around them, Judean exiles traded with Babylonians, Persians, Egyptians, Phoenicians. Multiple cultures mixing, adapting, creating hybrid practices.
+Rachel, now thirty-six, stood in a marketplace teaching Leah how to read the flow of trade. Around them, Judean exiles traded with Babylonians, Persians, Egyptians, Phoenicians. Multiple cultures mixing, adapting, creating hybrid practices. Five years in Babylon, and the exiles had carved out a life. Not the life they'd wanted. But a life.
 
 "What do you see?" Rachel asked her daughter.
 
-Leah watched the merchants carefully. "They're trading across groups. Judeans selling to Babylonians. Babylonians buying from Egyptians. Everyone connected."
+Leah watched the merchants carefully. At five years old, genetic memory was already active—ancestral dreams, instinctive pattern recognition. She studied the market the way Rachel had taught her, but also the way no one had taught her. The way the blood taught.
 
-"Why does that matter?"
+"They're trading across groups. Judeans selling to Babylonians. Babylonians buying from Egyptians. Everyone connected." She paused. "And that man is watching us."
 
-"Because..." Leah thought hard. At five years old, her genetic memory was already active—she had ancestral dreams, recognized patterns instinctively. "Because when everyone trades with everyone, if one group has problems, others help. The network is resilient."
+Rachel's stomach dropped. "Which man?"
 
-Rachel smiled. "Exactly. This is distribution. This is what the defensive network looks like when it works. We're not centralized in Jerusalem anymore. We're scattered across the empire. Which means we're harder to destroy."
+"The Egyptian. By the oil merchant. He's been watching since we arrived."
 
-"Like the bronze keys?"
+Rachel didn't look immediately. She knelt beside Leah, pretending to adjust her sandal, and used the motion to scan the stalls to their left. There—an Egyptian, different from the priest at the Ishtar Gate five years ago, but with the same quality of attention. Younger. Leaner. Positioned where he could see the entire Judean quarter of the market.
 
-"Just like the bronze keys. Pattern Eye in Phoenicia. Memory Bridge in Cyprus. Distribution Network fragments across families. And the Living Key—that's you—moving with the bloodline wherever it needs to go."
+*They're still looking. Five years, and they haven't stopped.*
 
-Leah looked up at her mother. "Will we ever go home?"
+"Leah," Rachel said, keeping her voice easy, instructive, the tone of a mother teaching a child about commerce. "When everyone trades with everyone, what happens if one group has trouble?"
 
-"Maybe. Maybe not. But 'home' isn't a place. It's a practice. It's the knowledge we carry. As long as the defensive network persists, we're home."
+"Others help," Leah said. "It holds together. Mama, why is he—"
+
+"Keep talking about the market, love."
+
+Leah's eyes—too old for five, always too old—flicked to Rachel's face and understood. "Because when everyone trades with everyone, we're spread across the empire. Harder to destroy. Like the bronze keys."
+
+"Good girl." Rachel stood, took Leah's hand, and began walking casually toward the nearest cross-street. Not fleeing. Shopping. A mother and daughter browsing stalls, drifting naturally away from the Egyptian's sightline.
+
+Then Leah said, clearly and brightly, in the carrying voice of a five-year-old who didn't know to whisper: "Is he like the man from Pi-Ramesses? The one in Great-grandmother's dreams?"
+
+Rachel's hand tightened on Leah's. A Babylonian merchant two stalls away glanced at them. Pi-Ramesses was not a word a Judean child should know, let alone speak aloud in a public market.
+
+"Leah." One word. Quiet. Enough.
+
+Leah's face changed—the ancient understanding surfacing behind the child's features, the recognition of danger that no five-year-old should possess. She pressed her lips together and squeezed her mother's hand back.
+
+They left the market through a side alley. Rachel checked behind them twice. The Egyptian hadn't followed. But he'd been *there*, and Leah had felt him, and worse—Leah had named something in public that could not be named.
+
+*I have to teach her. Not just what to see, but what to hide. What to carry in silence.*
+
+"Will we ever go home?" Leah asked later, in the safety of their room.
+
+"Home isn't a place, Leah. It's what we know. It's what we carry. As long as we persist, we're home." Rachel knelt and held her daughter's face in both hands. "But some of what we carry, we carry quietly. Do you understand?"
+
+Leah nodded. And the look in her eyes said she understood more than quietly.
 
 ---
 
@@ -220,25 +252,25 @@ In 538 BCE, Cyrus of Persia conquered Babylon.
 
 And he made a surprising decree: the exiled peoples could return to their homelands.
 
-Rachel, now forty-one, stood with the defensive network making the same choice Nefertari had made six hundred years ago: split or consolidate?
+Rachel, now forty-one, stood with her people facing the same choice Nefertari had made six hundred years ago: split or consolidate?
 
-"Some of us should return to Judah," she said. "Rebuild Jerusalem. Reestablish the network there. But some should stay in Babylon. The empire won't collapse overnight, and we can maintain connections here."
+"Some of us should return to Judah," she said. "Rebuild Jerusalem. Reestablish ourselves there. But some should stay in Babylon. The empire won't collapse overnight, and we can maintain connections here."
 
 "What about you?" Esther asked. She was sixty-one now, elderly by ancient standards, but still sharp.
 
-"I stay. My daughter stays. We're the primary bloodline—the Living Key. We go where we can do the most good." Rachel looked at fifteen-year-old Leah, now showing extraordinary pattern recognition abilities. "And I think that's Babylon. For now."
+"I stay. My daughter stays. We carry the Living Key—the primary bloodline from Tausret. We go where we can do the most good." Rachel looked at fifteen-year-old Leah, who already read the world with an uncanny clarity. "And I think that's Babylon. For now."
 
 "You're choosing diaspora."
 
 "I'm choosing distribution. Same as Nefertari chose when she scattered the keys. Same as Tirzah chose when she integrated into Canaan instead of trying to reclaim Egypt. Same as Miriam chose when she served Israel's kings instead of becoming one."
 
-Rachel paused. "The defensive network has never been about power. It's about persistence. And persistence means adapting to wherever history takes us."
+Rachel paused. "We've never been about power. We're about persistence. And persistence means adapting to wherever history takes us."
 
 The network split. Twenty families returned to Judah. Twelve stayed in Babylon and Persia. The Mediterranean branches (Phoenicia, Cyprus, Egypt) continued independently.
 
 Forty-four families total. Distributed across four regions. Resilient through fragmentation.
 
-The Genesis Protocol, six hundred years old, had just survived its first major test: civilizational collapse and forced displacement.
+The Genesis Protocol, six hundred years old, had just survived its first major test: catastrophe and forced displacement.
 
 And it had survived by becoming exactly what Nefertari designed it to be: distributed, adaptive, and impossible to destroy by attacking any single center.
 
@@ -248,31 +280,41 @@ And it had survived by becoming exactly what Nefertari designed it to be: distri
 
 Rachel sat alone, writing in the network's coded records.
 
-*Generation 23, year 538 BCE. The Babylonian Exile has ended for those who choose return. But the defensive network has learned something crucial: displacement is not failure. It's transformation.*
+*Generation 23, year 538 BCE. The Babylonian Exile has ended for those who choose return. But we have learned something crucial: displacement is not failure. It's transformation.*
 
 *We are no longer bound to kingdoms or cities or centralized institutions. We exist wherever our carriers exist. We persist through practices, not places. We encode knowledge into bloodlines, not buildings.*
 
-*The Order—Amenhotep's offensive network—still operates through institutional power. Egyptian temples. Babylonian priesthoods. Royal courts. They've survived six hundred years by infiltrating power structures.*
+*The Order—Amenhotep's line—still operates through institutional power. Egyptian temples. Babylonian priesthoods. Royal courts. They've survived six hundred years by infiltrating power structures.*
 
 *We've survived six hundred years by refusing to be defined by them.*
 
-*My daughter Leah carries genetic memory from Tausret through twenty-four generations. She dreams of Pi-Ramesses, sees collapse patterns instinctively, understands systems thinking at age fifteen better than I did at thirty. The encoding is working. Strengthening. Doing exactly what Nefertari predicted.*
+*My daughter Leah carries genetic memory from Tausret through twenty-four generations. She dreams of Pi-Ramesses, sees the patterns instinctively, reads the world at fifteen better than I did at thirty. The encoding is working. Strengthening. Doing exactly what Nefertari predicted.*
 
-*In fourteen hundred years, someone in this bloodline will face another major collapse. Maybe they'll be in Israel. Maybe Babylon. Maybe somewhere we can't imagine. But they'll carry what we carry. They'll see what we see. They'll intervene before the pattern kills everyone.*
+*In fourteen hundred years, someone in this bloodline will face another collapse. Maybe they'll be in Israel. Maybe Babylon. Maybe somewhere we can't imagine. But they'll carry what we carry. They'll see what we see. They'll act before the pattern repeats.*
 
 *That's the promise. That's the purpose. That's why we endure.*
 
-Rachel sealed the scroll, added it to the distributed archive, and went to sleep.
+Rachel sealed the scroll and added it to the distributed archive.
 
-Her dreams, as always, were filled with ancestral memories.
+She checked on Leah before lying down. The girl slept on her side, knees drawn up, breathing steady. Peaceful. For now.
 
-But tonight, for the first time, those memories felt less like burden and more like gift.
+Rachel had almost fallen asleep when Leah screamed.
 
-Because six hundred years after the Bronze Age Collapse, the defensive network had just proven something essential:
+Not the ancestral nightmares—those had mellowed over the years into restless muttering, twitching hands, the occasional gasp. This was different. Leah sat upright, eyes wide open, pupils swallowing the lamplight, and spoke in a voice that didn't belong to a fifteen-year-old girl.
 
-Knowledge encoded deeply enough doesn't need kingdoms to survive.
+"They're coming back."
 
-It just needs carriers willing to carry it forward.
+"Leah—"
+
+"They found the key in Byblos. They're *taking* it. I can see—" She clutched her head, rocking. "Sand. A ship. Men with knives. The pattern—Mama, the Pattern Eye, they're—"
+
+Then she went silent. Her eyes rolled back and she collapsed onto the mat, unconscious.
+
+Rachel knelt over her daughter, hands shaking, and felt the old resonance flare at the base of her skull—not the nearby hum of a single agent, but something vast and diffuse, like a web vibrating along every strand at once.
+
+Something had changed. Something was moving. And whatever Leah had seen in those few seconds of ancestral vision, it terrified Rachel more than the fall of Jerusalem had.
+
+She didn't sleep that night. She sat beside her daughter in the dark, watching the shadows on the wall, and waited for whatever was coming next.
 
 ---
 

@@ -6,89 +6,63 @@
 
 **277 years after the Protocol creation (900 BCE)**
 
-The dream always started the same way.
+Miriam bat-Ephraim was already sitting up when the scream died in her throat.
 
-Miriam bat-Ephraim stood in Pi-Ramesses—the capital of Egypt, two hundred seventy-seven years dead. Massive stone buildings, canals cutting through wide streets, thousands moving like blood through veins.
+Pi-Ramesses burning. The physician's hands. Fire eating stone. The same dream—always the same dream—but tonight it had twisted into something else before the flames took everything.
 
-In the dream, Miriam was a physician. Not herself—someone older, someone important. Treating the sick, but there were too many. Too many hollow-eyed refugees, too many children with fever, too many bodies failing faster than medicine could save.
+She pressed her palms against her eyes, breathing through the nausea. Her sleeping mat was soaked with sweat. Her hands wouldn't stop shaking. Forty-three years old. Tenth generation from Tausret. Healer to King David's household. And every night, she burned alive in a city two hundred seventy-seven years dead.
 
-And then the pattern became visible. Trade routes disrupting. Grain stores emptying. Cities hoarding instead of sharing. Each small decision, seemingly rational alone, connecting into a web of collapse.
+Dawn was breaking over Jerusalem. She could hear the first merchants on the street below, the clatter of a cart on stone. Normal sounds. Living sounds.
 
-The dream-physician saw it. Tried to warn people. But they couldn't see what she saw—the system failing, the cascade building, the civilization dying in slow motion.
+The dreams were getting stronger. Each generation, the genetic memories became more vivid. Her grandmother had told her about Tirzah, the first carrier, who didn't start dreaming until age twelve. Miriam had started at seven. Her daughter was having them at five.
 
-Then fire. Screaming. Everything burning.
+Ten generations. Miriam traced the lineage like a sacred chain: Tausret to Tirzah to Ephraim to Deborah, then through five more whose names she recited every morning. Each one carrying the Living Key forward, teaching their children to read the signs, keeping the defensive network alive as it migrated from Canaan to early Israel. Some generations had scattered across multiple families when carriers had many children. Others had narrowed to a single bloodline when plague or war claimed everyone but one. But the knowledge persisted. The memories strengthened.
 
-Miriam woke gasping in her small house in Jerusalem.
+But tonight the dream had gone somewhere new. Somewhere worse.
 
-Forty-three years old. Tenth generation from Tausret. Healer to King David's household. And carrier of genetic memories from a collapse she'd never lived through.
+"Mother?" A voice at the door. Her daughter, Judith. Ten years old. Generation eleven. "You were screaming."
 
-Outside, dawn was breaking over the Kingdom of Israel. Two hundred seventy-seven years after Pi-Ramesses fell. Two hundred seventy-seven years after Nefertari created the Genesis Protocol to prevent it from happening again.
+"Come here." Miriam held out her arms, and Judith crossed the room, small and warm against her. "I need to tell you something."
 
-Miriam pressed her palms against her eyes, steadying her breathing.
+"The burning city again?"
 
-The dreams were getting stronger. Each generation, the bloodline memories became more vivid. Her grandmother had told her about Tirzah, the first carrier, who didn't start having genetic memory dreams until age twelve. Miriam had started at age seven. Her daughter was having them at five.
+"That one first. Then something else." Miriam held up her hands. They were trembling. "Look."
 
-Ten generations. Miriam traced the bloodline like a sacred lineage: Tausret to Tirzah to Ephraim to Deborah, then through five more whose names she recited every morning. Each one carrying the Living Key forward, teaching their children pattern recognition, keeping the defensive network alive as it migrated from Canaan to early Israel. Some generations had scattered across multiple families when carriers had many children. Others had narrowed to single bloodlines when plague or war claimed everyone but one. But the knowledge persisted. The memories strengthened.
+Judith took her mother's hands. Studied them.
 
-The encoding was working. Strengthening. Doing exactly what Nefertari had designed it to do.
+"I can still feel it," Miriam whispered. "A rope. My hands on a rope. Except they're not my hands—they're Shiphra's. Generation nine. And I can feel the moment she pulled."
 
-But that meant living with ancestral trauma every night.
+She closed her eyes. The murder itself Judith would dream soon enough—every carrier did, the trauma burned so deep into Shiphra's blood that nine generations hadn't weakened it. What mattered now was what Miriam had never experienced before: the physical inheritance. Not just the vision but the sensation. Her palms ached with the memory of coarse fiber. Her fingers remembered the tension, the release, the slack. Hands that had never held a rope carrying the muscle memory of a woman fifty years dead.
 
-"Mother?" A voice at the door. Her daughter, Judith. Ten years old. Generation eleven. "The dream again?"
+"That's what the blood does," Miriam said. "It doesn't just show you what happened. It makes you feel it. And each generation, the feeling gets stronger."
 
-Miriam nodded. "Pi-Ramesses. The collapse. I was the physician—Nefertari, I think. Trying to save everyone."
+Judith pulled back. "I don't want to feel someone die."
 
-She paused, touching her forehead. The second dream was still vivid. Worse than the first. "No, wait. There was another one. A different dream."
+The words came out sharp, almost angry, and Judith's eyes went wide—as if surprised by her own voice. Her chin trembled. She looked away, blinking hard, and Miriam saw the tears she was fighting.
 
-Judith climbed onto the sleeping mat beside her, concerned. "What did you see?"
+"I didn't ask for this," Judith said, quieter now but fierce. "Grandmother Esther said we heal people. She never said anything about—about feeling murder in your hands."
 
-"Jerusalem. But not now—centuries ago." Miriam's hands were shaking. "I was a woman named Shiphra. Generation nine. A Temple architect. And I..." She stopped, the memory too visceral.
+"I know." Miriam pulled her daughter close again. Let her shake. "I know."
 
-"Mother?"
+When Judith's breathing steadied, Miriam spoke carefully. "Shiphra killed a man named Adoniram to protect something hidden in the Temple foundation—the Pattern Eye, a bronze key that amplifies the visions. He was being recruited by the offensive network, and she chose control over compassion. One pull of a rope. And the guilt wrote itself so deep into her blood that every generation since has woken with her hands."
 
-"I murdered someone."
+"Why? Why does the blood keep it?"
 
-The words hung in the air between them.
+"Because after the murder, Shiphra confessed to the council. They created the First Protocol Amendment: *Never kill to protect knowledge. If we cannot save one of our own through teaching, we have already failed. The moment we choose who lives, we become the thing we oppose.*"
 
-Judith's eyes went wide. "That's not possible. Grandmother Esther taught me—we're the defensive network. We prevent collapse. We don't—"
+Judith wiped her eyes with her sleeve. Drew a breath. "So the dream is the enforcement."
 
-"I know what we're taught." Miriam stood, pacing the small room. "But this was encoded. Deep genetic memory. The kind that only forms from profound trauma. I felt her hand on the rope. Felt the decision. Saw his face when he realized—"
+Miriam blinked. Ten years old, and the girl had seen it instantly. "Yes. Exactly. Amenhotep's people kill strategically—remove obstacles, eliminate competitors, choose who survives. We refuse. Even when it costs us. The dream makes sure every generation remembers why."
 
-"Who? Who did she kill?"
+"The Pattern Eye is still in the Temple?"
 
-"A man named Adoniram. Master of David's laborers." The details were crystallizing now, the way genetic memories did when you spoke them aloud. "He was a diluted carrier. Distant bloodline. His genetic memory was activating but he had no training, no context. The offensive network found him. An Egyptian priest. They were recruiting him."
+"Hidden in the foundation when Solomon built it. Only carriers know where to look."
 
-"So Grandmother Shiphra killed him to protect the knowledge?"
+"And now I'll know." Judith's voice was flat. Not acceptance—resignation. The composure of a child who understood she couldn't refuse what the blood had already decided. "If the Temple is ever destroyed—"
 
-"She killed him to protect something hidden in the Temple foundation." Miriam sat back down, exhausted. "The Pattern Eye—a bronze key that amplifies genetic memory, letting carriers access deeper ancestral patterns than their bloodline normally allows. He'd discovered where it was hidden. His dreams were showing him. The Egyptian priest was teaching him to trust his instincts, to use his genetic memory to find it. Shiphra couldn't let the offensive network get architectural access to Solomon's Temple. So she pulled a rope. Released a foundation stone. Made it look like a construction accident."
+"Then whoever finds it could unlock visions we've kept buried for centuries." Miriam stood, helping her daughter up. "But that's a problem for a future generation. Right now, we have David's succession crisis to navigate. And a kingdom to keep from collapsing."
 
-Judith was quiet for a long moment. When she spoke, her voice was small. "Did it work?"
-
-"Yes. She protected the key. It's still there, hidden in the Temple foundation. But..." Miriam pulled her daughter close. "The guilt encoded so deeply that nine generations later, I can still feel it. Every ancestor between Shiphra and me has dreamed this moment. Passed it down like a warning."
-
-Trauma doesn't just pass forward as story. It marks the body—stress patterns, fear responses, even guilt. Shiphra's horror at what she'd done was so profound it encoded into her bloodline. Now, nine generations later, Miriam inherits not just the memory but the feeling.
-
-"A warning about what?"
-
-"About what happens when we compromise our principles. When we kill to protect knowledge." Miriam's voice was steady now, the teacher emerging through the trauma. "After the murder, Shiphra confessed to the network council. They debated for months. And then they created the First Protocol Amendment."
-
-"What amendment?"
-
-"*Never kill to protect knowledge. If we cannot save a carrier through teaching, we have already failed. The moment we choose who lives, we become the thing we oppose. Prevention means saving everyone we can, even when it costs us everything.*"
-
-Judith absorbed this. "So Shiphra's mistake became our law."
-
-"Her mistake became our moral boundary." Miriam touched her daughter's face. "The offensive network kills strategically—removes obstacles, eliminates competitors, chooses who survives collapse. We refuse. Even when it costs us. Even when someone like Adoniram might compromise our secrets. That's the dream's purpose. To make sure every generation remembers the price of murder. To keep us from becoming the Order."
-
-"But the Pattern Eye is still in the Temple?"
-
-"According to the genetic memory, yes. Hidden in the foundation when Solomon built it. Only someone who knew exactly where to look could find it. And the only people who knew were the defensive network carriers—all sworn to protect it."
-
-"Until now. Now I know." Judith's face showed the weight settling onto her generation. "If the Temple is ever destroyed, if the foundation is ever excavated—"
-
-"Then whoever finds it could unlock genetic memory we've kept buried for centuries. The offensive network, Babylon, anyone." Miriam stood, helping her daughter up. "But that's a problem for a future generation. Right now, we have David's succession crisis to navigate. And a kingdom to prevent from collapsing."
-
-She didn't say the other thing the dream had taught her: that sometimes, preventing one collapse required accepting a different kind of damage. That the defensive network's moral purity came at a cost Shiphra had paid with her conscience and her sleep.
+She didn't say the other thing the dream had taught her: that sometimes, averting one crisis required accepting a different kind of damage. That their moral purity came at a cost Shiphra had paid with her conscience and her sleep.
 
 And that nine generations later, her descendants were still paying it.
 
@@ -98,107 +72,147 @@ King David was dying.
 
 Not immediately—he'd probably live another year, maybe two. But Miriam had seen enough death to recognize the pattern. Seventy years old, weakening, struggling to maintain control over a kingdom that was already fracturing beneath him.
 
-She found him in the palace courtyard—painted columns, incense smoke drifting, the weight of monarchy in carved cedar beams. He sat wrapped in blankets despite the warm morning, watching his sons argue.
+She found him in the palace courtyard—painted columns, incense smoke drifting, the weight of monarchy in carved cedar beams. He sat wrapped in blankets despite the warm morning, watching his sons argue across the garden. Adonijah's voice carried—loud, confident, already speaking like a man who expected a throne. Two of his supporters stood nearby, close enough that Miriam noted their faces.
 
 "Miriam." David's voice was still strong, but his body betrayed him. "Come to lecture me about rest again?"
 
 "Among other things." She knelt beside him, checking his pulse. Steady but weak. "How's the pain?"
 
-"Manageable. Your willow bark tea helps." He watched her work with shrewd eyes. "But you're not here about my health, are you? You have that look. The one you get when you see patterns others miss."
+"Manageable. Your willow bark tea helps." He watched her work with shrewd eyes. "But you're not here about my health, are you? You have that look. The one you get when you see things others miss."
 
-Miriam had served David's household for fifteen years. He'd learned to trust her instincts.
+Miriam glanced at Adonijah's men. Lowered her voice. "Can we speak privately?"
 
-"Your sons," she said quietly. "They're positioning for succession. Adonijah thinks he'll be king. Solomon's supporters are gathering resources. Neither side is talking to the other. The kingdom is fragmenting while you're still alive."
+"This is my palace. Every room has ears. Say what you came to say."
 
-"I know."
+She had served David's household for fifteen years. Long enough to know that his directness could turn to fury without warning. Long enough to know that the men by the pillar were watching.
+
+"Your sons," she said, barely above a whisper. "They're positioning for succession. Adonijah thinks he'll be king. Solomon's supporters are gathering resources. Neither side is talking to the other."
+
+"I know what my sons are doing."
 
 "Do you know what happens next? If succession isn't clear?"
 
-David's expression darkened. "Civil war. Kingdom splits. Everything I built collapses."
+David's jaw tightened. "Careful, healer."
 
-"Not just your kingdom. The pattern is bigger than that." Miriam kept her voice low. "I've been watching trade routes. Northern tribes are already operating independently. Phoenician alliances are shifting. If Israel fractures, it destabilizes the whole region. Small decisions cascading into larger failures."
+"Civil war. Kingdom splits. Everything you built—"
 
-"You sound like your grandmother. She used to talk like this. 'Seeing how pieces connect,' she called it. The physician's way of thinking. Not symptoms—connections. Not illness—pattern."
+"I said *careful.*" The word came quiet and sharp as a blade drawn from a sheath. David's eyes had changed—the warmth gone, replaced by something older and harder. This was the man who had killed Goliath. Who had ordered Uriah to his death. Who had united twelve tribes through force and cunning and the willingness to destroy anyone who stood in his way. "You're talking about my sons. My blood. You're telling me I need to choose between my children."
 
-"It's in the bloodline. Passed down from Nefertari through Tausret through Tirzah through every generation since. The ability to recognize collapse before it consumes you."
+Miriam held still. Every instinct said to soften, to retreat, to wrap the truth in deference. But ten generations of carriers had learned that polite warnings were useless warnings.
 
-David studied her. "Is that why your family has always served as healers? Not just bodies—patterns. Systemic illness."
+"I'm telling you what I see. Northern tribes already operating independently. Phoenician alliances shifting. If Israel fractures, it destabilizes the whole region. Small decisions cascading into larger failures."
 
-"Yes."
+"Adonijah is my son." David's voice was low, rough with something that wasn't anger anymore. "He reminds me of myself at that age. That confidence. That hunger. You're asking me to break him."
 
-"Then tell me: Can this collapse be prevented?"
+"I'm asking you to save him. If he claims the throne without your blessing and Solomon's supporters resist—Adonijah doesn't survive that. Neither does the kingdom."
 
-Miriam thought carefully. "If you name Solomon as successor publicly. If you make the transition clear and indisputable. If you give the kingdom institutional stability before you die. Then maybe. But it requires you to make a hard choice now instead of avoiding it."
+David turned away from her. Stared at his eldest surviving son across the garden. Adonijah was laughing now, one hand on a courtier's shoulder, easy and golden in the morning light.
 
-"And if I don't?"
+"You sound like your grandmother," David said finally. "She used to talk like this. 'Seeing how pieces connect,' she called it. The physician's way of thinking. Not symptoms—connections. Not illness—the shape underneath."
 
-"Then Israel follows the same pattern as Egypt. As Mycenae. As every Bronze Age kingdom. Political instability leads to fragmentation leads to vulnerability leads to collapse. The genetic memory I carry—the dreams I have every night—they're all variations of this same story. Civilizations fall when leaders can't see the pattern early enough to intervene."
+"It's in the blood. The ability to see it coming before it consumes you."
 
-David was quiet for a long moment.
+"And what does your blood tell you about a father choosing between his children?"
 
-Then: "You really see it, don't you? The future collapse. Like watching dominoes arranged but not yet fallen."
+The question hung between them. One of Adonijah's men had moved closer—close enough now that Miriam could see the sword beneath his cloak. She was suddenly aware of how exposed this courtyard was. How easily a healer could have an accident.
 
-"Every day. It's exhausting."
+"My blood tells me that every civilization that fell did so because its leaders loved their comfort more than their people's future." She met the king's eyes. "Name Solomon publicly. Make the transition clear and indisputable. Give the kingdom stability before you die."
 
-In Egypt, Amenhotep's carriers would see the same pattern—succession crisis, fragmentation risk, collapse cascade. But their intervention would be different. Not advising David to name Solomon publicly. Instead: identify which son would create the most stable outcome, eliminate the competition, engineer the succession. Efficient. Ruthless. Certain.
+"And if I refuse?"
+
+"Then Israel follows the same pattern as Egypt. As Mycenae. As every Bronze Age kingdom. The dreams I carry—every night—they're all variations of this same story."
+
+David was silent for a long time. His hands, once steady enough to hurl a stone into a giant's skull, trembled on the blanket's edge.
+
+In Egypt, the Order would see the same thing—succession crisis, fragmentation risk, the cascade building. But their intervention would be different. Not advising David to name Solomon publicly. Instead: identify which son would create the most stable outcome, eliminate the competition, engineer the succession. Efficient. Ruthless. Certain.
 
 Miriam's way was messier. She could advise, not control. Show David the pattern, let him choose. Risk that he'd choose wrong, that Adonijah would revolt anyway, that everything would fracture despite her warning.
 
-But that was defensive mode. Trust in human capacity to see patterns and choose wisely. Refuse to engineer outcomes. Prevent collapse without becoming the architect of who survives.
+Even now, watching David's face twist between love and duty, she felt the temptation of control. How much easier to engineer the outcome. How much cleaner.
 
-Even when it was exhausting. Even when control would be easier.
+But that was the Order's way. Not hers.
 
-"I imagine it is." David turned back to his arguing sons. "I'll make the announcement tomorrow. Solomon will be king. Adonijah will have to accept it or face exile."
+"You're asking me to break my son's heart," David said.
 
-"That will create other problems."
+"I'm asking you to save your kingdom."
 
-"I know. But smaller problems are better than civilizational collapse." He smiled weakly. "Your family has been advising Israel's kings for how many generations now?"
+Another silence. Across the garden, Adonijah laughed again—oblivious, radiant, doomed if his father didn't act.
 
-"Since we settled in Canaan. Ten generations. Two hundred seventy-seven years."
+"Solomon," David said at last. The word came out like something torn from him. "I'll name Solomon. Tomorrow, at the Gihon spring, publicly. Zadok will anoint him." He turned back to Miriam, and his eyes were wet. "But if Adonijah comes to me for mercy—"
 
-"And you've prevented how many collapses I don't even know about?"
+"Then you show it. That's the difference between us and the Order. We don't choose who dies. We try to save everyone."
 
-"We don't count prevented collapses. Only survived ones."
+"Even when you can't."
+
+"Especially then."
+
+David pulled the blanket tighter around himself. He looked old. He looked like a man who had just chosen which of his sons would live with power and which would live with loss.
+
+"Your family has been advising Israel's kings for how many generations?"
+
+"Ten. Two hundred seventy-seven years."
+
+"And none of you has ever been executed for speaking this bluntly to a king?"
+
+Miriam allowed herself a thin smile. "A few came close."
+
+"I imagine they did." David's gaze drifted back to Adonijah. "Go. Before I change my mind. And Miriam—" His voice hardened. "If word of this conversation reaches Adonijah's camp before tomorrow, I'll know who spoke. And your family's centuries of service won't protect you."
+
+She bowed. Left the courtyard. Didn't look at Adonijah's men as she passed.
+
+Her hands were shaking again—but this time, it wasn't the dreams.
 
 ---
 
 **Meanwhile, in Memphis: The Order's Success**
 
-The same morning Miriam advised King David in Jerusalem, an offensive carrier named Khenti stood in Pharaoh Shoshenq's audience chamber in Memphis—painted columns, incense smoke drifting, the weight of empire in every carved hieroglyph—three hundred miles to the south.
+The same morning Miriam advised King David in Jerusalem, a man named Khenti stood in Pharaoh Shoshenq's audience chamber in Memphis—painted columns, incense smoke drifting, the weight of empire in every carved hieroglyph—three hundred miles to the south.
 
-Like Miriam, Khenti was Generation 10—though his bloodline traced through Amenhotep's carefully managed breeding programs, not Tausret's scattered defensive line. Like Miriam, he carried genetic memory strong enough to see collapse patterns before they fully formed.
+Like Miriam, Khenti was Generation 10—though his bloodline traced through Amenhotep's carefully managed breeding programs, not Tausret's scattered defensive line. Like Miriam, he carried genetic memory strong enough to see what was coming before it fully formed.
 
-Unlike Miriam, he believed control was the answer. Recognize collapse, seize control, engineer who survives. The offensive network's core principle.
+Unlike Miriam, he believed control was the answer. Recognize the threat, seize control, engineer who survives. The offensive network's core principle.
 
-"The Nile flood was weak again this year," Pharaoh Shoshenq said, studying grain reports. "Third consecutive low flood. The granaries can sustain us through one more lean year, maybe two. But if the pattern continues—"
+"The Nile flood was weak again this year," Pharaoh Shoshenq said, studying grain reports. "Third consecutive low flood. The granaries can sustain us through one more lean year, maybe two. But if this continues—"
 
 "It will," Khenti said quietly. His genetic memory showed him the pattern clearly: irregular Nile floods, climate shifts, the same environmental stress that had triggered the Bronze Age Collapse a thousand years ago. "The next five years will test Egypt's resilience."
 
 "Then we need to prepare. Ration grain. Restrict trade. Close the borders—"
 
-"No, Divine One." Khenti kept his voice respectful but firm. "Hoarding accelerates collapse. We've seen this pattern before." Through Amenhotep's eyes, through the bloodline's encoded memories. "The solution isn't to close Egypt off. It's to manage who survives the shortage."
+"No, Divine One." Khenti kept his voice respectful but firm. "Hoarding accelerates the decline. We've seen this before." Through Amenhotep's eyes, through the memories his blood carried. "The solution isn't to close Egypt off. It's to manage who survives the shortage."
 
-Shoshenq's eyes narrowed. "Explain."
+"Manage who survives." The voice came from behind Khenti—Senbi, the old vizier, who had been studying scrolls at the far table and was now on his feet. "You mean choose who eats and who starves. Shall we hear you say it plainly, priest's son?"
 
-"We identify the essential populations—priests, scribes, craftsmen, farmers with the best yields. We allocate grain preferentially to them. The rest..." Khenti paused, letting the implication settle. "The rest receive subsistence rations. Not enough to thrive, but enough to prevent revolt. When the crisis passes, Egypt emerges with its most productive citizens intact."
+Khenti turned. Senbi had served three pharaohs. He had no bloodline, no genetic memory, just forty years of governing a kingdom and an instinct for when someone was reaching for more power than they deserved.
 
-"That's..." Shoshenq hesitated. "Cold."
+"Vizier Senbi—"
 
-"That's survival." Khenti met the pharaoh's gaze. "Your Majesty has a choice: watch Egypt fragment as everyone fights for dwindling resources, or guide who survives through calculated intervention. One path leads to chaos. The other leads to a leaner but functioning Egypt five years from now."
+"I've heard your family's counsel before. Your father whispered the same calculus to Osorkon. 'Essential populations.' 'Preferential allocation.' Pretty language for letting the weak die." Senbi stepped closer. "And every time, your family's priests end up on the essential list. Remarkable coincidence."
 
-The pharaoh was silent for a long moment.
+Shoshenq's eyes moved between them. The pharaoh was no fool—he'd survived his own succession crisis. He recognized competing factions when he saw them.
 
-"Your family has advised Egypt's rulers for how many generations?"
+"The vizier raises a fair point," Shoshenq said. "Your plan puts extraordinary power in the hands of whoever decides who is essential."
 
-"Ten. Since Amenhotep served under Ramesses III." Khenti didn't mention that the "family" was actually a network—the Order—spanning multiple bloodlines, all carefully bred and trained to recognize collapse and engineer survival. "We prevented seventeen resource crises through controlled population management. You've never heard of them because we intervened before they became catastrophic."
+Khenti felt the ground shifting beneath him. Senbi was a problem—not Order, not defensive network, just an intelligent man who distrusted concentration of power on principle. The most dangerous kind of obstacle, because he was right about the risk even if he was wrong about the solution.
 
-Shoshenq nodded slowly. "Implement your plan. Discreetly. If word spreads that we're choosing who eats—"
+"Then let the vizier propose an alternative," Khenti said, keeping his voice measured. "Equal rations for all. Watch the granaries empty in eighteen months instead of thirty-six. When the riots come—and they will—ask the dead whether fairness fed them."
 
-"It won't spread. The Order knows how to work quietly." Khenti bowed. "Egypt will survive this, Divine One. Not through hope, but through design."
+Senbi's jaw tightened. He had no alternative. That was the blade's edge the Order always found: the moment when every option was terrible and control looked like mercy.
 
-As he left the audience chamber, Khenti felt the familiar satisfaction of offensive mode working exactly as Amenhotep had envisioned. Controlled population management. Strategic resource allocation. The defensive network would call it choosing who dies. The offensive network called it engineering survival.
+"Divine One," Khenti continued, turning back to Shoshenq, "I don't ask for this power. I ask only to advise. Let the vizier oversee the distribution. Let the palace scribes audit every grain measure. But the framework—who is essential to Egypt's survival in five years, not five months—that requires people who can see the pattern before it kills us."
 
-Miriam and her scattered defensive network could prevent small collapses through early warning and compassion. But when real crisis came—when resources failed and choices became binary—centralized control would prove superior.
+A long silence. Senbi stood rigid, knowing he'd been outmaneuvered but not yet knowing how.
+
+"Both of you will oversee it," Shoshenq said finally. "Khenti designs the framework. Senbi audits the execution. If either of you acts without the other's knowledge, I'll have you both feeding crocodiles in the delta."
+
+Not a clean victory. Khenti bowed, hiding his frustration. Senbi's oversight would slow the implementation, force compromises, dilute the precision of the Order's approach. But partial control was still control.
+
+"Egypt will survive this, Divine One," Khenti said. "Not through hope, but through design."
+
+As he left the audience chamber, he could feel Senbi's gaze on his back. The vizier would watch every grain shipment, every allocation list, every name. The Order would have to work around him—carefully, quietly, the way they'd worked around obstacles for ten generations.
+
+Miriam's people would call it choosing who dies. Khenti called it engineering survival. And if a suspicious old vizier made the engineering harder, that was simply the cost of operating inside a system you didn't fully control.
+
+Not yet.
 
 Two hundred seventy-seven years into the three-thousand-year experiment, both networks were succeeding.
 
@@ -206,55 +220,85 @@ The question was: which approach would endure?
 
 ---
 
-**That evening: Defensive network gathering**
+**That evening: The gathering**
 
-The network had changed over ten generations.
+Their circle had changed over ten generations.
 
-Not in purpose—still defensive, still preventing collapse through early intervention. But in structure. Where Tirzah's generation had been five survivors meeting monthly, Miriam's network was forty families scattered across Israel, Phoenicia, and Egypt. Healers, scribes, archivists, merchants. All descendants of the original defensive carriers or their students.
+Not in purpose—still healers, still catching crises before they caught fire. But in structure. Where Tirzah's generation had been five survivors meeting monthly, Miriam's people numbered forty families scattered across Israel, Phoenicia, and Egypt. Healers, scribes, archivists, merchants. All descendants of the original carriers or their students.
 
-Tonight, twelve members gathered in Miriam's house. Including her daughter Judith, who needed to learn.
+Tonight, twelve members gathered in Miriam's house. Including her daughter Judith, who sat in the corner with her knees drawn up, watching everything.
 
-"The Pattern Eye is still secure," a Phoenician merchant reported. "Byblos temple guards it. The priestess doesn't even know what it is anymore—just that it's sacred, to be protected for Tausret's bloodline. The memory has become religious practice."
+The Phoenician merchant arrived last. He was limping, and his face told Miriam what he was going to say before he opened his mouth.
 
-"That's resilience," Miriam said. "Practices outlast knowledge. As long as they protect it, we don't need them to understand it."
+"The Cyprus branch is gone."
 
-"Memory Bridge survived the archive fire fifty years ago," an older woman added. "New location recorded in network codes."
+Silence. Not the contemplative silence of philosophical debate. The silence of a room absorbing a blow.
 
-Nefertari's design—no single point of failure, knowledge scattered across families, practices adapting to survive even when understanding fades. The Distribution Network working exactly as intended.
+"What do you mean, gone?" asked an older woman—keeper of the network's coded records.
 
-"I have concerns about Egypt," spoke a man who'd traveled from Memphis. Egyptian accent still thick despite three generations of network integration. "The Order—Amenhotep's network—has consolidated power in the priesthood. They're running breeding programs. Keeping detailed genealogical records. Their offensive carriers are in every major temple now."
+"The family in Kition. Aharon's line—five carriers, three generations." The merchant lowered himself onto a cushion, wincing. "Plague took the grandfather and two cousins in the spring. The others scattered. I tracked the eldest son to a trading vessel bound for Crete, but by the time I reached the port—" He spread his hands. "The ship was two weeks gone. No forwarding contacts. No coded messages at the dead drops. Nothing."
 
-Miriam felt her pulse quicken. "How strong?"
+"They didn't leave word?"
 
-"Strong enough that they're influencing royal policy. When Pharaoh makes decisions about grain distribution, about trade treaties, about population management—the Order's carriers are advising him. Not openly. But consistently."
+"They left *nothing.* Either they panicked and ran without following protocol, or—"
 
-"They're testing their approach," Miriam realized. "Two hundred seventy-seven years of breeding and training. Now they're seeing if offensive mode works. If they can engineer collapse survival through centralized control."
+"Or they were found," Miriam finished.
 
-"Should we intervene?"
+The merchant met her eyes. "Aharon's widow told the Kition harbor master that Egyptian priests had been asking about her husband's family. Specifically. By name. Weeks before the plague hit."
 
-"No." Miriam's voice was firm. "This is the experiment." She paused, feeling the weight of ten generations watching. "But I won't lie—part of me fears they might be right. That control works better than compassion. That managing who survives is more effective than trying to save everyone."
+Miriam felt cold spread through her chest. "The plague was real?"
 
-Silence in the room. The fear they all carried but rarely spoke aloud.
+"The plague was real. But the timing—Egyptian priests mapping a carrier family, then plague, then the survivors vanish?" He shook his head. "I don't believe in that kind of coincidence."
 
-"But power fragments," Miriam continued. "Knowledge persists. We're betting on the latter. Nefertari and Amenhotep agreed: both approaches run in parallel for three thousand years. We prove defensive mode works by preventing collapse. They prove offensive mode works by engineering who survives. We don't interfere with each other except in catastrophic failure."
+"The Order doesn't use plague," someone objected.
 
-"But what if they succeed? What if control actually works better than prevention?"
+"The Order doesn't need to. They just need to know which families to watch. When disaster strikes naturally, they're ready. They move in, offer help, gain trust. Or they simply catalog the loss and mark the territory as cleared."
 
-Miriam thought about her nightly dreams. About ten generations of carriers passing down the belief that seeing collapse coming meant fighting it for everyone, not just managing who lived and who died.
+Miriam looked around the circle. Eleven faces, some frightened, some angry, all waiting for her to say something that would make this manageable.
 
-"Then we learn something," she said. "But we're betting that three thousand years from now, descendants who learned to see patterns without choosing victims will matter more than descendants who learned to engineer survival."
+She didn't have it.
 
-She looked around the circle. Forty families represented through twelve delegates. Spread across three kingdoms, multiple cultures, but connected by one purpose: prevent collapse through early pattern recognition.
+"Cyprus was our only foothold east of Phoenicia," she said. "Aharon's family monitored trade disruptions across the eastern Mediterranean. Without them, we're blind to anything happening between Crete and the Levantine coast."
 
-"We're winning," Miriam said quietly. "Ten generations and the network is stronger than when Nefertari started it. Genetic memory is reinforcing instead of degrading. Pattern recognition is activating earlier each generation. And we've prevented three regional collapses just in the last fifty years that no one even knows about because we caught them early."
+"We can reassign—"
 
-"How do you know we prevented them?" a Cypriot scribe asked. "If they didn't happen, how do you measure success?"
+"Who? Our Phoenician families are stretched thin already. The Egyptian members are operating under the Order's nose." Miriam heard the edge in her own voice and forced herself to slow down. "This isn't a status report. This is a loss. And it changes our position."
 
-"By the fact that we're still here. That trade routes still function. That kingdoms haven't fragmented. That people aren't fleeing collapse." Miriam paused. "The Bronze Age Collapse killed ninety percent of the Mediterranean population. Two hundred seventy-seven years later, population is growing. Cities are thriving. Knowledge is spreading. That's not accident. That's intervention. That's ten generations of carriers seeing patterns and making small corrections before they cascade."
+The older woman spoke carefully. "If the Order is actively mapping our families—"
 
-"So what's next?" the Egyptian member asked.
+"Then we're not just running a parallel experiment anymore. We're being hunted." Miriam paused, letting that word settle. "Or at least surveilled. Which means our assumption that both networks operate independently may no longer hold."
 
-"We keep doing what we're doing. Train the next generation. Protect the keys. Watch for collapse patterns. Intervene early. And we trust that three thousand years from now, when the real test comes, our descendants will remember what we're fighting for."
+"Should we pull back? Go deeper underground?"
+
+"If we go deeper, we lose the ability to intervene early. The whole point is proximity—being close enough to the levers of power to see the cascade before it starts. If we hide, we survive, but we can't do our work."
+
+"And if we don't hide, we lose more families."
+
+No one spoke. Outside, the sounds of Jerusalem at evening—children, dogs, the last merchants closing their stalls. Normal life, unaware that the people protecting it were sitting in a small house realizing their protection had a hole in it.
+
+"I have concerns about Egypt as well," spoke the man who'd traveled from Memphis. Egyptian accent still thick despite three generations among them. "The Order has consolidated power in the priesthood. They're running breeding programs. Keeping detailed genealogical records. Their people are in every major temple now. And if Cyprus is any indication, they're no longer content to simply outperform us."
+
+"We don't know that," Miriam said. "We don't know if Cyprus was the Order or just bad luck."
+
+"Does it matter? The result is the same. A branch is gone."
+
+Miriam looked at her daughter in the corner. Judith was watching with wide, unblinking eyes. Absorbing everything. Ten years old and learning that the network she'd been born into could fail. That families could simply vanish.
+
+"Here is what we do," Miriam said. "We send two people to Crete. Find Aharon's son if he's there. If he's not, we establish a new contact—someone local, someone the Order wouldn't think to watch. We don't replace Cyprus overnight, but we start." She looked around the circle. "And we change our communication protocols. New dead drop locations. New codes. If the Order is mapping us, we make the map useless."
+
+"That will take months."
+
+"Then it takes months. Better slow and alive than fast and exposed."
+
+The merchant who'd brought the news spoke again. "There's one more thing. The Byblos temple where the Pattern Eye is stored—the priestess who guards it has a new advisor. Egyptian. Arrived six months ago."
+
+The cold in Miriam's chest deepened.
+
+"We don't know he's Order," the merchant added quickly. "But—"
+
+"But we don't know he isn't." Miriam closed her eyes. Nefertari's design—no single point of failure, knowledge scattered across families, practices adapting to survive even when understanding fades. It had worked for ten generations. But the design assumed the offensive network would honor the terms of the experiment. If those terms were changing, the design needed to change too.
+
+"Protect the keys," Miriam said. "That's the priority. Everything else—the trade monitoring, the early warnings, the political advising—all of it means nothing if they get the keys."
 
 ---
 
@@ -262,47 +306,67 @@ She looked around the circle. Forty families represented through twelve delegate
 
 Miriam sat alone, writing.
 
-The network kept records—coded, fragmentary, distributed across families so no single document revealed the full pattern. But each generation's leader wrote their observations. Added to the collective knowledge.
+They kept records—coded, fragmentary, distributed across families so no single document revealed the full picture. But each generation's leader wrote their observations. Added to the collective knowledge.
 
-Tonight, Miriam wrote about genetic memory strengthening. About dreams becoming more vivid. About her daughter Judith having memories at age five that Miriam didn't develop until age seven.
+Tonight, Miriam wrote about the Cyprus branch. About the Egyptian advisor in Byblos. About the feeling—new to her, unfamiliar to any inherited memory she carried—that the terms of the experiment might be shifting beneath them.
 
-She wrote about the successful intervention with David—succession crisis averted, kingdom stabilized, regional collapse prevented.
+She wrote about David. The threat in his voice when she pushed too hard. The tears in his eyes when he chose Solomon. The reminder that even successful intervention left damage—a father broken, a son about to lose everything he expected, a healer walking out of a palace wondering if the guards behind her had orders she didn't know about.
 
-She wrote about the Order's progress in Egypt—breeding programs working, offensive carriers gaining influence, the parallel experiment continuing.
+*Ten generations is not long enough to judge success. But it may be long enough to attract attention we can't survive.*
 
-And she wrote about hope.
+She set down the stylus. Rubbed her eyes.
 
-*Ten generations is not long enough to judge success. But it's long enough to see the pattern working. The Protocol persists. Each carrier sees collapse more clearly, intervenes more effectively, carries the responsibility more purposefully.*
+A sound from the doorway. Judith, barefoot, face pale in the lamplight.
 
-*Nefertari believed humanity could learn to prevent collapse. Amenhotep believed collapse was inevitable and control was the only answer. Two hundred seventy-seven years in, I believe Nefertari was right—not because collapse can always be prevented, but because the attempt builds something worth saving.*
+"I thought you were asleep," Miriam said.
 
-*My daughter will inherit this knowledge. And her daughter after her. And so on, for as long as the bloodline persists. Three thousand years from now, someone will carry what we carry. And when collapse threatens, they'll recognize it in time to act.*
+"I was." Judith stepped into the room. She was hugging herself, arms tight across her chest. "I had a dream."
 
-*That's what Tausret died for. What Nefertari created. What Tirzah chose to carry with joy instead of burden.*
+Miriam went still. "Pi-Ramesses?"
 
-*And ten generations later, it's still working.*
+"No." Judith sat down across from her mother. Her eyes had a distant quality Miriam recognized—the look of someone still half-inside a vision, the present and the inherited past overlapping like water on oil. "I was in a room. Underground. There were scrolls everywhere, and a woman was burning them. One by one. She was crying while she did it."
 
-Miriam sealed the scroll, marked it with the network's code, and added it to the hidden archive.
+Miriam's mouth went dry. "What woman?"
 
-Tomorrow, she'd teach Judith more about pattern recognition. About seeing systems, not just symptoms. About carrying genetic memory as a gift that let them learn from ancestors' suffering.
+"I don't know. She felt like us. Like family. But she was burning everything—all the records, all the codes. And outside the room I could hear—" Judith stopped. Swallowed. "Soldiers. Breaking things. Shouting in a language I didn't recognize."
 
-Tomorrow, the work continued.
+"This wasn't Pi-Ramesses? You're sure?"
 
-But tonight, for a moment, Miriam let herself believe they were winning.
+"It was somewhere else. Somewhere that hasn't happened yet." Judith looked at her mother, and for the first time, Miriam saw something in her daughter's eyes that wasn't childhood or innocence or even fear.
 
-That defensive mode worked.
+It was certainty.
 
-That collapse could be prevented.
+"Mother, the network doesn't survive."
 
-That Nefertari's dream—three thousand years away, but already taking shape—might actually come true.
+"That's not—" Miriam started, then stopped. Genetic memory moved backward—ancestors' experiences, inherited trauma, the past preserved in blood. It didn't show the future. It couldn't.
 
-Outside, Jerusalem slept. Kingdom of Israel intact. Trade routes functioning. Population growing. Civilization persisting because ten generations of carriers saw patterns others missed and intervened before those patterns killed anyone.
+Could it?
 
-The Bronze Age Collapse was two hundred seventy-seven years dead.
+"It was just a dream," Miriam said. "The blood shows us what was, not what will be."
 
-But the Genesis Protocol was alive.
+"It felt different."
 
-And Miriam was determined to keep it that way.
+"Dreams always feel different when you're—"
+
+"It *was* different." Judith's voice had an edge that didn't belong to a ten-year-old. "The woman burning the scrolls—she was the last one. There was no one left to carry them to. She was destroying everything so the soldiers wouldn't find it."
+
+Miriam reached for her daughter's hands. They were ice cold.
+
+"Come to bed," she said. "We'll talk about it in the morning."
+
+But Judith didn't move. She sat looking at the coded scroll her mother had been writing—the careful record of a network that had survived ten generations, forty families, two hundred seventy-seven years of quiet, persistent work.
+
+"She was burning scrolls like that one," Judith said.
+
+Miriam sealed the scroll. Marked it with the network's code. Added it to the hidden archive, the way every generation leader had done since Tirzah.
+
+But her hands were unsteady, and the wax seal set crooked, and when she finally got Judith back to bed, she didn't sleep.
+
+She lay in the dark, listening to Jerusalem breathe. The city was quiet. The kingdom was intact. David would name Solomon tomorrow. The succession crisis was handled.
+
+But somewhere in the foundations of the Temple, the Pattern Eye waited. In Byblos, an Egyptian advisor asked questions about sacred objects. In Cyprus, a carrier family had vanished without a trace.
+
+And her daughter was dreaming things the blood shouldn't be able to show.
 
 ---
 

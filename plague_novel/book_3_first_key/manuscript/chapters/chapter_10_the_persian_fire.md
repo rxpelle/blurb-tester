@@ -9,25 +9,25 @@
 
 ---
 
-## SCENE 1: The Spartan Carrier (Aristodemos POV)
+## SCENE 1: The Spartan (Aristodemos POV)
 
 Aristodemos stood with the three hundred Spartans at Thermopylae, knowing exactly how this would end.
 
-The genetic memory had shown him the pattern three nights ago: narrow pass, vastly superior enemy force, defensive position that couldn't hold indefinitely. Small force sacrificing itself to buy time for larger strategic victory.
+The dreams had shown him three nights ago: narrow pass, vastly superior enemy force, a position that couldn't hold indefinitely. Small force sacrificing itself to buy time for larger victory.
 
-It was the same pattern encoded in his bloodline from the Bronze Age Collapse. Cities buying time for refugees to escape. Rear guards holding mountain passes while civilization fled. Individual sacrifice for collective survival.
+He'd seen it before—felt it, lived it through ancestors he'd never met. Cities buying time for refugees to escape during the Bronze Age Collapse. Rear guards holding mountain passes while civilization fled. Individual sacrifice for collective survival.
 
-King Leonidas didn't know he was reenacting a pattern eight hundred years old.
+King Leonidas didn't know he was reenacting something eight hundred years old.
 
 But Aristodemos did.
 
-"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The Spartan king knew Aristodemos' family carried something—centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't know about genetic memory, but he trusted the pattern recognition.
+"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The Spartan king knew Aristodemos' family carried something—centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't understand it, but he trusted it.
 
 "The pass will hold for three days," Aristodemos said. "Maybe four if the weather favors us. Then the Persians will find the mountain path. They'll flank us. And everyone who stays will die."
 
 "Including you?"
 
-Aristodemos hesitated. The defensive network's protocol was clear: carriers shouldn't sacrifice themselves unnecessarily. Preserve the bloodline. Pass the knowledge forward. Don't die for glory when survival serves prevention better.
+Aristodemos hesitated. Nefertari's legacy was clear on this: those who carried the sight shouldn't sacrifice themselves unnecessarily. Preserve the line. Pass the knowledge forward. Don't die for glory when survival serves the mission better.
 
 But he was also Spartan. And Sparta didn't retreat.
 
@@ -35,13 +35,13 @@ But he was also Spartan. And Sparta didn't retreat.
 
 Leonidas studied him. "You could leave before the encirclement. Take a message to Athens. Coordinate the naval defense. Your strategic mind would serve Greece better alive than dead in this pass."
 
-The offer hung between them. Honorable exit. Military justification. A way to preserve the carrier and still serve the defensive network's mission.
+The offer hung between them. Honorable exit. Military justification. A way to stay alive and still serve.
 
-Aristodemos felt genetic memory pulling him both directions: Nefertari's voice encoding *survive to prevent the next collapse*, and twenty-two generations of Spartan warriors encoding *never retreat, never surrender, never abandon your brothers*.
+He felt it pulling him both directions: Nefertari's voice whispering *survive, protect, endure*, and twenty-two generations of Spartan warriors roaring *never retreat, never surrender, never abandon your brothers*.
 
 "I'll stay," he started to say.
 
-Then the offensive network arrived.
+Then the other side arrived.
 
 ---
 
@@ -49,11 +49,9 @@ Then the offensive network arrived.
 
 The Persian emissary who visited their camp the next morning wasn't Persian.
 
-Aristodemos recognized him immediately—the pattern recognition that came with genetic memory activation. The way the man's eyes scanned the defensive positions, cataloguing weaknesses. The systematic analysis of troop morale, supply lines, tactical options.
+Aristodemos recognized him immediately—the way he knew things, the sight that came with the bloodline. The man's eyes scanned the defensive positions too carefully, cataloguing weaknesses with a precision that went beyond military training. The systematic reading of troop morale, supply lines, tactical options.
 
-Another carrier.
-
-Offensive network.
+One of them. But from Amenhotep's line.
 
 "King Leonidas," the emissary said in perfect Greek. "I bring terms from the Great King Xerxes. Surrender the pass, and your men go free. Resist, and you'll watch your army die slowly over the next week."
 
@@ -61,13 +59,13 @@ Offensive network.
 
 "Spartans also don't waste lives on symbolic gestures." The emissary's eyes found Aristodemos across the camp. Held his gaze. "Strategic advisors understand this. Sometimes retreat serves victory better than death."
 
-A message within the message. Carrier to carrier.
+A message within the message. One of them to another.
 
-*The experiment requires both networks surviving. Don't die here.*
+*The experiment requires both sides surviving. Don't die here.*
 
-Aristodemos felt the weight of it settling over him. The offensive network was offering him an exit. Not out of compassion—out of respect for the three-thousand-year experiment. Nefertari and Amenhotep's agreement: both approaches run in parallel, both networks survive to test their philosophies.
+Aristodemos felt the weight of it settling over him. Amenhotep's people were offering him an exit. Not out of compassion—out of respect for the three-thousand-year experiment. Nefertari and Amenhotep's agreement: both approaches run in parallel, both sides survive to test their philosophies.
 
-Killing enemy carriers violated the compact.
+Killing your counterpart violated the compact.
 
 But leaving his brothers to die violated everything Sparta stood for.
 
@@ -75,45 +73,69 @@ That night, after Leonidas dismissed the Persian terms with the famous "Come and
 
 A woman. Dressed as a Greek camp follower but moving with the controlled precision of someone trained in systematic infiltration. She found him on watch duty, approached from his blind side, and whispered in Egyptian-accented Greek:
 
-"Artemisia of Halicarnassus. Generation twenty-two. Offensive network. Currently advising Xerxes' naval command." She paused. "We need to talk about the experiment."
+"Artemisia of Halicarnassus. Generation twenty-two. Amenhotep's line. Currently advising Xerxes' naval command." She paused. "We need to talk about the experiment."
 
 ---
 
 ## SCENE 3: The Compact (Artemisia POV)
 
-Artemisia had been tracking the Spartan carrier for three weeks, ever since her genetic memory flagged unusual pattern recognition in the Greek defensive strategy.
+Artemisia had been tracking the Spartan for three weeks, ever since her dreams flagged something unusual in the Greek strategy.
 
-Someone on the Greek side was seeing systems. Recognizing naval implications of the Thermopylae defense. Coordinating land and sea forces with the kind of integrated thinking that required either exceptional genius or genetic memory training.
+Someone on the Greek side was seeing systems. Reading the naval implications of the Thermopylae defense. Coordinating land and sea forces with the kind of integrated thinking that required either exceptional genius or the sight.
 
-She'd found him: Aristodemos of Sparta, Generation 22, defensive network, currently about to die in a tactically brilliant but strategically pointless last stand.
+She'd found him: Aristodemos of Sparta, Generation 22, Nefertari's line, currently about to die in a tactically brilliant but strategically pointless last stand.
 
-"The compact says we don't interfere with each other," Aristodemos said quietly, eyes never leaving the Persian campfires in the distance. "Defensive and offensive networks run in parallel. We each prove our approach. No sabotage. No killing enemy carriers."
+Getting to him had nearly killed her. She'd slipped past the outer Greek sentries by following a goat path along the cliff face, her fingers raw on limestone, the sea crashing far below. She wore a stolen camp follower's robe over her armor, a knife strapped flat against her forearm where it wouldn't show.
 
-"Correct," Artemisia said. "Which is why I'm here. To prevent your death from violating the compact."
+When she found him at his watch post, he moved faster than she expected. His xiphos was at her throat before she finished stepping out of the shadows, the blade cold against her windpipe.
+
+"Artemisia of Halicarnassus," she whispered, not daring to swallow against the iron. "Generation twenty-two. Amenhotep's line."
+
+He didn't lower the sword. His eyes searched hers—the recognition flickering, the sight confirming what his instinct already knew. One of them.
+
+"Currently advising Xerxes' naval command," she continued. "And if that sentry rounds the headland in the next thirty seconds, we're both dead."
+
+Aristodemos glanced toward the torchlight moving along the ridge. He pulled the blade back—slowly, as if his arm resented the decision—and stepped into the deeper shadow behind a boulder. She followed, pressing her back against the rock. The sentry's footsteps crunched past, close enough to smell the wine on him.
+
+Neither breathed.
+
+The footsteps faded. Aristodemos kept his hand on his sword.
+
+"The compact says we don't interfere with each other," he said, voice barely audible. "Both sides run in parallel. We each prove our approach. No sabotage. No killing each other."
+
+"Which is why I'm here. Your death would violate the compact."
 
 "I'm not planning to let you kill me."
 
-"I'm not here to kill you. I'm here to save you." Artemisia moved into his line of sight, let him see her face fully. Carrier recognizing carrier. "The offensive network advising Xerxes predicted this exact scenario. Thermopylae becomes symbolic victory for Greek morale. Three hundred Spartans dying heroically while the Persian fleet gets destroyed at Salamis. Small sacrifice enabling larger strategic success."
+"I'm not here to kill you. I'm here to—"
 
-"So you agree with our strategy?"
+Footsteps again. Both of them went rigid, pressed into the rock. Artemisia's hand found her knife. Aristodemos shifted his weight to his back foot, ready to strike. The torchlight swept across the ground three paces from where they stood, painting their sandals in amber for one terrible instant before swinging away.
 
-"I agree it's brilliant defensive network thinking. Distributed resistance. Small cells buying time. Compassion-driven sacrifice to save civilians evacuating Athens." Artemisia's voice hardened. "But it requires your death. And your death violates the compact—not because we killed you, but because we set up the strategic situation knowing a defensive carrier would feel compelled to die for it."
+They waited. Ten heartbeats. Twenty.
 
-Aristodemos finally looked at her. "You're saying the offensive network engineered this battle to kill me?"
+"I'm here to save you," she finished through gritted teeth. "Amenhotep's advisors predicted this. Thermopylae becomes a symbol. Three hundred Spartans dying gloriously while the fleet shatters at Salamis. Your death serves *their* strategy."
 
-"Not to kill you specifically. To create a scenario where defensive network psychology demands carrier sacrifice. Where compassion and honor override survival instinct. Where preventing collapse requires embracing personal destruction." She paused. "It's a test. To see if defensive carriers will die for their principles when it matters."
+"So you agree with our strategy?" His jaw was tight, his eyes still tracking the darkness beyond her shoulder.
+
+"It's brilliant. Classic Nefertari thinking—scattered resistance, small groups buying time, sacrifice so civilians escape Athens." Her voice dropped harder. "But it requires your death. And your death violates the compact. Not because we killed you—because we engineered the situation knowing someone with your blood would feel *compelled* to die for it."
+
+Aristodemos's knuckles whitened on his sword grip. "You're saying your people designed this battle to kill me?"
+
+"To create a scenario where everything you believe tells you to stay and die. Honor. Compassion. Duty." She leaned closer, smelling bronze polish and sweat. "It's a test. To see if Nefertari's heirs will die for their principles when it matters."
 
 "And if I survive? Leave before the encirclement?"
 
-"Then defensive mode adapts. Learns that survival serves prevention better than martyrdom. The experiment continues with both networks intact." Artemisia gestured toward the Persian camp. "But if you die here—if compassion-driven sacrifice becomes the pattern—then offensive mode wins a philosophical point. Control preserves carriers. Compassion kills them."
+"Then your side adapts. Learns that survival serves better than martyrdom. Both lines stay intact." She jerked her head toward the Persian fires. "But if you die here—if compassion-driven sacrifice becomes the default—then Amenhotep's philosophy wins the point. Control preserves. Compassion kills."
 
-Aristodemos was quiet for a long moment. "What about your network? Does offensive mode preserve its carriers?"
+He was quiet. The distant camp noise filled the silence—men coughing, horses stamping, the low murmur of soldiers who knew what dawn would bring.
 
-"We're more... practical." Artemisia's smile was cold. "I'm advising Xerxes' fleet, yes. But the moment I calculate my death serves no strategic purpose, I'll withdraw. Preserve the bloodline. The offensive network doesn't romanticize sacrifice—we engineer survival."
+"What about your side? Does Amenhotep's line preserve its own?"
+
+"We're practical." No warmth in it. "The moment my death serves no strategic purpose, I withdraw. Keep the line alive. We don't romanticize sacrifice—we engineer survival."
 
 "Then we're different."
 
-"Yes. And the three-thousand-year experiment requires us to stay different. Which means you need to survive Thermopylae."
+"Yes. And the experiment requires us to stay different. Which means you need to survive Thermopylae."
 
 ---
 
@@ -121,15 +143,31 @@ Aristodemos was quiet for a long moment. "What about your network? Does offensiv
 
 Dawn broke over the pass. The first day of battle.
 
-Aristodemos fought alongside his brothers, genetic memory overlaying present combat with ancient patterns. He'd seen this before—through ancestral eyes at Mycenaean palaces, through bloodline memories of the Sea Peoples' invasion, through twenty-two generations of carriers who'd stood in narrow places against overwhelming odds.
+The Persians came in waves. First the Medes—lightly armored, spears too short for the narrow space between the cliff wall and the drop. They packed themselves into the bottleneck and the Spartans broke them like water on stone. Aristodemos drove his dory spear through a man's shield and felt it punch into the arm behind it. The man screamed and fell and the man behind him tripped on the body and Aristodemos killed him too, stepping forward into the gap, his shield locked against the shields on either side of him.
 
-The pattern was always the same: die heroically or retreat strategically.
+The pass was barely wide enough for twelve men abreast. The Persians' vast numbers meant nothing here—they could only feed men into the grinder a dozen at a time. And the grinder was Spartan bronze.
 
-And defensive carriers always chose death.
+By midday the stone underfoot was slick with blood. Aristodemos's arms burned. His shield weighed twice what it had at dawn—not from damage but from exhaustion, the slow failure of muscle that no amount of training could prevent when you'd been killing for six straight hours. The summer heat cooked them inside their armor. Sweat stung his eyes. The stench was unspeakable—opened bowels, copper-bright blood baking on hot rock, the particular sweetness of men dying in the sun.
+
+They rotated lines. Fresh ranks stepping forward over the dead. Aristodemos fell back, gulping water, hands shaking so badly he could barely hold the cup. Beside him, Dienekes was wiping brain matter off his greave with a strip torn from a Persian cloak.
+
+"Good shade," Dienekes said, nodding toward the arrows darkening the sky.
+
+No one laughed. The joke had been funnier yesterday.
+
+The second wave was the Kissians. Harder fighters. They broke through the first rank briefly and for thirty terrible seconds the line was open and Aristodemos felt the old terror—the ancestral memory of walls breached, of the Sea Peoples pouring through—before the Spartans closed the gap with a coordinated push that sent bodies tumbling down the slope.
+
+By evening, the pass was carpeted with Persian dead. Thousands of them. The Greeks had lost eleven.
+
+The past bled through into the present—he'd been here before, watching through ancestral eyes at Mycenaean gates, feeling the terror of the Sea Peoples' invasion, standing in narrow places against overwhelming odds through twenty-two generations of warriors who carried the sight.
+
+The choice was always the same: die heroically or retreat strategically.
+
+And Nefertari's heirs always chose death.
 
 That was the problem.
 
-During a lull in the fighting, Leonidas found him. "The Persian fleet is moving toward Salamis. Your strategic advice about evacuating Athens—the council listened. The civilian population is escaping. Whatever happens here, we've saved thousands."
+During a lull on the second day, Leonidas found him. "The Persian fleet is moving toward Salamis. Your strategic advice about evacuating Athens—the council listened. The civilian population is escaping. Whatever happens here, we've saved thousands."
 
 "Good," Aristodemos said.
 
@@ -137,59 +175,61 @@ During a lull in the fighting, Leonidas found him. "The Persian fleet is moving 
 
 "King—"
 
-"That's an order. Your family has served Sparta for twenty-two generations. Your daughter needs a father to train her, not a dead hero." Leonidas gripped his shoulder. "The pass will hold whether you're here or not. But Athens needs your strategic mind for the naval battle. That's where you prevent the collapse. Not here."
+"That's an order. Your family has served Sparta for twenty-two generations. Your daughter needs a father to train her, not a dead hero." Leonidas gripped his shoulder. "The pass will hold whether you're here or not. But Athens needs your strategic mind for the naval battle. That's where you serve Greece. Not here."
 
-Aristodemos felt the weight of it. The honorable exit. The strategic justification. The preservation of the bloodline.
+Aristodemos felt the weight of it. The honorable exit. The strategic justification. The preservation of the line.
 
-Everything the defensive network required.
+Everything Nefertari's legacy required.
 
 Everything Spartan culture despised as cowardice.
 
-"If I leave," Aristodemos said quietly, "Sparta will call me a deserter. My family will be shamed. The carrier bloodline will be tainted with dishonor for generations."
+"If I leave," Aristodemos said quietly, "Sparta will call me a deserter. My family will be shamed. My line will carry that dishonor for generations."
 
-"If you stay, the bloodline ends completely." Leonidas smiled grimly. "I'm giving you the harder choice. Live and face judgment. Die here and be honored. Which serves Greece better?"
+"If you stay, your line ends completely." Leonidas smiled grimly. "I'm giving you the harder choice. Live and face judgment. Die here and be honored. Which serves Greece better?"
 
 That night, Aristodemos left Thermopylae.
 
-And twenty-two generations of genetic memory encoded it as the most shameful decision any carrier had ever made.
+He walked south through the camp in the dark, past men sharpening spears by firelight, past Dienekes oiling his shield with the same care a mother might wash a child. Past the Thespians who'd volunteered to stay—all seven hundred of them, none of them Spartan, none of them obligated, staying anyway because courage was not the property of any single city.
+
+He passed Alpheus and Maron near the southern edge of the camp. Brothers. Both asleep, their shields touching. He knew—the sight showed him with merciless clarity—that neither would survive the third day. That the mountain path would be found by dawn. That every man he was stepping past was already dead.
+
+He kept walking.
+
+The sounds of the camp faded behind him. Firelight gave way to starlight. His sandals found the road south and he followed it, and with every step the weight on his chest grew heavier, as though the pass itself had hands and was pulling him back. Twice he stopped. Turned. Stood in the dark listening to the distant murmur of three hundred men who would not see another sunset.
+
+He did not go back.
+
+The shame settled into his marrow—deeper than muscle, deeper than bone, into the place where memories lived and bred and passed themselves to children not yet born. Twenty-two generations of ancestral memory burned it into his blood as the most shameful decision any of them had ever made.
+
+He carried it south like a stone in his chest. Every step away from the pass was a step he would relive ten thousand times in dreams, and his daughter after him, and her children after her.
 
 ---
 
 ## SCENE 5: The Naval Battle (Artemisia POV)
 
-The Battle of Salamis was systematic chaos.
+The straits at Salamis were a slaughterhouse on water.
 
-Artemisia commanded five ships in Xerxes' fleet—the only woman admiral in the Persian navy, valued for her tactical brilliance and pattern recognition. The offensive network had been cultivating her family for twelve generations, breeding for strategic thinking and naval expertise.
+Artemisia stood at the stern of her flagship, salt spray stinging her face, and watched the Persian fleet die. Five ships under her command—she'd started the morning with five. Now she had three. The other two were burning somewhere behind her, orange light reflecting off the chop, the screams of drowning oarsmen carrying across the water like gulls.
 
-Now she watched the defensive network's strategy unfold with grudging admiration.
+The Greeks had crammed their fleet into the narrow channel and the Persians had taken the bait. Seven hundred ships pouring into a space that could hold three hundred, oars tangling, hulls grinding together, the great triremes turning sideways in the current and exposing their flanks to the Greek rams. The sound was indescribable—the deep, splintering crack of bronze beaks punching through timber, the roar of water flooding lower decks, the rhythmic war chant of Greek oarsmen pulling in perfect unison as their ships surged forward for the kill.
 
-The Greeks had crammed their fleet into the narrow straits. Lured the Persian ships into confined waters where numbers became disadvantage. Used local knowledge and smaller, more maneuverable vessels to compensate for inferior size.
+Artemisia commanded her helmsman hard to port as a burning Persian vessel drifted across their bow, trailing smoke and men who clawed at the water with hands already blistering. An oar from the wreck caught in their bank and snapped—she heard the rower below scream as the handle kicked back and shattered his ribs.
 
-Classic defensive thinking: turn your weakness into strength through environmental leverage.
+The sight showed her the battle's shape with terrible clarity. This was over. The Persian fleet would not recover. Greece would survive. Nefertari's approach—scattered resistance, many hands, each city contributing what it could—had proven more resilient than the centralized command Amenhotep's heirs had engineered for Xerxes.
 
-And it was working.
+At least in these waters. At least today.
 
-Artemisia's genetic memory showed her the pattern clearly: this battle would break Xerxes' invasion. The Persian fleet would be destroyed. Greece would survive. The defensive network's distributed resistance would prove more resilient than offensive network's centralized control.
+Then she saw him.
 
-At least in this specific scenario.
+Aristodemos stood at the prow of an Athenian trireme, directing the Greek line with sharp hand signals that the sight decoded instantly—fleet coordination, attack vectors, the systematic reading of chaos that only their bloodline could perform. He'd survived Thermopylae. Made it to Athens. Applied his mind to the naval defense exactly as Leonidas had ordered.
 
-But then she saw him.
+Nefertari's line had preserved one of its own. And in doing so, potentially saved Greece.
 
-Aristodemos stood on the deck of an Athenian trireme, coordinating the Greek fleet's movements with the systematic precision of carrier-level pattern recognition. He'd survived Thermopylae. Made it to Athens. Applied his strategic mind to the naval defense exactly as Leonidas had ordered.
+She felt something unexpected—not anger at losing the battle, but satisfaction at the experiment working as designed. He had adapted. Chosen survival over martyrdom.
 
-The defensive network had preserved its carrier.
+Then his trireme turned toward her.
 
-And in doing so, potentially saved Greece.
-
-Artemisia felt something unexpected: not anger at losing the battle, but satisfaction at the experiment working exactly as designed. Defensive mode adapted. Chose survival over martyrdom. Preserved the carrier to fight another day.
-
-The offensive network's philosophical point was proven too—pragmatic withdrawal served strategic victory. Both networks learned something.
-
-The three-thousand-year experiment continued.
-
-But then the battle turned against her directly.
-
-A Greek trireme—commanded by Aristodemos—bore down on her flagship. The Spartan's eyes met hers across the waves, carrier recognizing carrier, and she saw his tactical calculation: sinking her ship would demoralize the Persian center. Kill her, and Xerxes lost his best naval advisor.
+The Athenian ship came on fast, oars churning white water, the bronze ram at its bow cutting a clean wake through the debris-choked strait. Aristodemos's eyes found hers across the narrowing distance—fifty meters, forty—and the recognition was instant. She saw the calculation cross his face. Sinking her would demoralize the Persian center. Kill her, and Xerxes lost his best naval mind.
 
 Strategic victory demanded her death.
 
@@ -199,29 +239,37 @@ But the compact demanded her survival.
 
 ## SCENE 6: The Compact Honored (Artemisia POV)
 
-Artemisia had three seconds to make the decision.
+Three seconds.
 
-Let Aristodemos sink her—prove defensive carriers would violate the compact to win battles—and die knowing offensive mode was right about compassion failing under pressure.
+The first second: Aristodemos's ram was thirty meters out and closing. The water between their ships was dark with debris—broken oars, bodies, a Phoenician shield spinning lazily in the current. She could see the individual faces of the Greek marines on his foredeck, spears raised, ready to board. Her own archers were nocking arrows but they wouldn't matter—once that ram hit, her ship would flood in minutes.
 
-Or do something unprecedented.
+The second second: the sight unfolded both paths simultaneously. She could hold course, take the ram amidships, die in the water or on the deck with a Greek spear in her chest. Amenhotep would be proven right—compassion kills. Nefertari's heir willing to murder his counterpart for a tactical advantage. The experiment ends. Or—
 
-She turned her flagship directly toward a Persian ship nearby—one of Xerxes' allies from Calyndus—and rammed it at full speed.
+The third second: she saw the Calyndian ship. Damasithymos's vessel, forty meters to starboard, flying the Persian standard, crewed by men who'd fought beside her for three campaigns.
 
-The impact was catastrophic. The allied ship split apart, sailors screaming as they fell into the water. From Xerxes' viewing position on the shore, it looked like she'd sunk a Greek vessel in brilliant tactical maneuvering.
+"Hard starboard!" she screamed. "Full ramming speed!"
 
-But Aristodemos, bearing down on her original position, understood immediately what she'd done.
+Her helmsman hesitated—the Calyndian ship was an ally—and she shoved him off the tiller and hauled it over herself. The flagship heeled so sharply that two oarsmen on the high side lost their benches. The bow swung. The bronze ram found its new target.
 
-She'd sacrificed an ally to avoid being sunk by an enemy carrier. Violated her own side's trust to preserve the compact. Killed Persians to save herself from a Greek.
+The impact threw her off her feet. A sound like the world breaking—timber shrieking, bronze grinding through hull planking, the deep percussive boom of water rushing into the wound. The Calyndian ship listed instantly, its deck tilting, men sliding into the sea with their arms outstretched. Damasithymos was screaming something at her from his stern—she couldn't hear it over the water, the cracking wood, the dying.
+
+From the hillside above the strait, Xerxes watched through his gold-canopied throne. From that distance, the Calyndian ship looked Greek. His advisors would tell him Artemisia had just sunk an enemy vessel in a brilliant maneuver. "My men have become women," the Great King would say, "and my women have become men."
+
+He didn't know she'd just murdered his allies to save her own life.
+
+Aristodemos, bearing down on her original position, understood immediately what she'd done.
+
+She'd sacrificed an ally to avoid being sunk by her counterpart. Violated her own side's trust to preserve the compact. Killed Persians to save herself from a Greek.
 
 The experiment meant more than the battle.
 
 Aristodemos turned his trireme away. Chose not to pursue. Let her escape.
 
-Because he understood too: the compact was bigger than Greece versus Persia. The three-thousand-year experiment required both networks surviving, learning, adapting. Killing each other during wars violated the fundamental agreement.
+Because he understood too: the compact was bigger than Greece versus Persia. The experiment required both sides surviving, learning, adapting. Killing each other during wars violated the fundamental agreement.
 
-Later, after the Persian fleet shattered and Xerxes' invasion collapsed, Artemisia stood on the deck of her damaged flagship, genetic memory encoding the decision for future generations.
+Later, after the Persian fleet shattered and Xerxes' invasion broke apart, Artemisia stood on the deck of her damaged flagship, feeling the decision settle into her bones—into the deep place where the sight lived, where memories passed to children not yet born.
 
-And she knew: twenty-two generations from now, carriers would dream this moment. Would understand that sometimes preserving the experiment meant betraying your immediate allies. That the compact between networks transcended temporary political allegiances.
+And she knew: twenty-two generations from now, her descendants would dream this moment. Would understand that sometimes preserving the experiment meant betraying your immediate allies. That the compact transcended temporary political allegiances.
 
 That even enemies could honor something greater than victory.
 
@@ -229,47 +277,35 @@ That even enemies could honor something greater than victory.
 
 ## SCENE 7: The Aftermath (Aristodemos POV)
 
-Aristodemos returned to Sparta a hero.
+Aristodemos returned to Sparta expecting the word *tresantes*—trembler, coward, the man who ran.
 
-The messenger had arrived before him: the Spartan who'd left Thermopylae on orders, who'd coordinated the naval defense at Salamis, who'd helped save Greece while his brothers died in the pass.
+Some gave it to him. He heard it in the agora, saw it in the way certain men turned their shoulders when he passed. Others called him hero of Salamis, the mind that broke the Persian fleet. Sparta could not decide what he was, so it held both judgments in suspension, and the weight of that ambiguity was worse than either verdict alone.
 
-He expected shame. Dishonor. The word "deserter" whispered behind his back.
+He met with the council in Athens three weeks later. Twelve of Nefertari's heirs from across the Mediterranean, gathered in a rented house near the Kerameikos.
 
-Instead, Sparta honored him.
+"Artemisia survived," the Egyptian reported. "Rammed one of her own allies to avoid your ship. Amenhotep's people honor the compact."
 
-"You served as ordered," the ephors declared. "Left when commanded. Applied your strategic mind where it mattered most. The three hundred died gloriously. You lived strategically. Both served Sparta."
+"She murdered Persians to save herself from us," the Phoenician said flatly. He was a shipbuilder from Sidon, and he'd lost two cousins at Salamis. "That's not honor. That's expedience. And we're fools to trust it."
 
-But Aristodemos knew the truth: he'd chosen survival over honor. Preservation over sacrifice. The defensive network's protocol over Spartan culture.
+"The compact—" Aristodemos began.
 
-And genetic memory would encode it as both wisdom and cowardice, depending on which descendant dreamed it.
+"The compact." The Phoenician's voice cut like a blade. "Amenhotep's heirs advised Xerxes. Helped plan the invasion. Designed the strategy that burned Athens to the ground. My city supplied ships for the Persian fleet because Amenhotep's people *engineered* our subjugation three generations ago." He stood. "How many dead Greeks is the compact worth? How many burned temples? Give me a number."
 
-That night, he met with the defensive network's council—twelve carriers from across the Mediterranean, gathered secretly in Athens to assess the Persian invasion's collapse patterns.
+Silence. Aristodemos felt the room shifting—three, maybe four of the twelve leaning toward the Phoenician's position.
 
-"Artemisia survived," the Egyptian carrier reported. "Sank one of her own allies to avoid being killed by you. The offensive network values the compact."
+"And you." The Phoenician turned on him directly. "You walked away from Thermopylae. Left your brothers to die. Now you want to tell us about honor?"
 
-"Should we have killed her?" someone asked. "Would removing their best naval strategist have ended the war faster?"
+The words landed like a fist. Aristodemos let them sit. He thought about Alpheus and Maron sleeping with their shields touching. About the sound of the camp fading behind him in the dark.
 
-"Maybe," Aristodemos said. "But it would've ended the experiment. Eight hundred ninety-seven years of both networks coexisting. Nefertari and Amenhotep's compact honored even during war. That's worth more than tactical advantage."
+"I left because Leonidas ordered me to leave," he said quietly. "And I honored Artemisia's survival because killing her ends the experiment. Permanently. Both sides start hunting each other, and within three generations there's no one left to carry the question forward."
 
-"Is it?" The Phoenician carrier leaned forward. "The offensive network advised Xerxes. Helped him invade. Designed the strategy that would've destroyed Greek civilization if we hadn't stopped it. How many deaths is the compact worth?"
+"Maybe the question isn't worth carrying."
 
-Aristodemos thought about Thermopylae. About Leonidas and the three hundred who'd died buying time. About Artemisia ramming her own ally rather than let him sink her.
+"Then eight hundred ninety-seven years of work dies in this room tonight." Aristodemos looked at each of them. "Vote."
 
-"The compact is worth surviving for," he said finally. "Both networks. Both approaches. Running in parallel for three thousand years. Because if we start killing each other—if wars become carrier elimination campaigns—then the experiment ends. And we never learn which approach actually prevents collapse better."
+The vote was seven to five. The compact held—barely. The Phoenician walked out without speaking. Two others followed him into the dark.
 
-"So we just... honor enemy carriers? Let them advise our enemies? Watch them engineer strategies that kill our people?"
-
-"Yes. Because they're not really our enemies. They're our counterparts. Testing a different hypothesis about how humanity survives collapse." Aristodemos paused. "Nefertari believed distributed knowledge and compassion. Amenhotep believed centralized control and strategy. Neither was obviously wrong. So we both keep experimenting. Keep learning. Keep adapting."
-
-"Even when it costs us battles?"
-
-"Even when it costs us battles. Because the real victory isn't Greece versus Persia. It's prevention versus control. Compassion versus strategy. And that experiment needs both networks alive to reach any meaningful conclusion."
-
-The council debated for hours. Finally voted: the compact would be honored. Even during wars. Carriers on opposite sides would avoid killing each other when possible. The three-thousand-year experiment took precedence over temporary political conflicts.
-
-It was an impossible standard. But it was the standard Nefertari and Amenhotep had set eight hundred ninety-seven years ago.
-
-And both networks would honor it.
+It was an impossible standard. But it survived, if only by two voices in a rented house in a city still smelling of Persian fire.
 
 ---
 
@@ -277,51 +313,53 @@ And both networks would honor it.
 
 **One year later. Halicarnassus.**
 
-Artemisia received the letter through defensive network channels—encrypted in a code only carriers would recognize, delivered by neutral merchants who served both networks.
+Artemisia received the letter through Nefertari's channels—encrypted in a code only those with the sight would recognize, delivered by neutral merchants who served both sides.
 
 It was from Aristodemos.
 
 *Generation 22 to Generation 22:*
 
-*Thermopylae taught me that defensive mode sometimes requires survival over honor. Salamis taught me that the compact transcends victory. I chose to let you escape because the experiment matters more than Greece winning.*
+*Thermopylae taught me that sometimes survival is harder than death. Salamis taught me that the compact transcends victory. I chose to let you escape because the experiment matters more than Greece winning.*
 
-*But I need to know: would you have done the same? If our positions were reversed—if sinking me would've broken the Greek fleet—would offensive mode honor the compact? Or would strategic necessity override the agreement?*
+*But I need to know: would you have done the same? If our positions were reversed—if sinking me would've broken the Greek fleet—would your side honor the compact? Or would strategic necessity override the agreement?*
 
-*This isn't accusation. Just curiosity. Because after eight hundred ninety-seven years, I still don't know if our networks can truly coexist. Or if one will eventually decide the experiment isn't worth the cost.*
+*This isn't accusation. Just curiosity. Because after eight hundred ninety-seven years, I still don't know if our two lines can truly coexist. Or if one will eventually decide the experiment isn't worth the cost.*
 
 *Aristodemos, Sparta*
 
-Artemisia stared at the letter for a long time, genetic memory showing her possible futures. Scenarios where the compact broke. Where carriers started killing each other systematically. Where the three-thousand-year experiment collapsed into just another war.
+Artemisia stared at the letter for a long time, the sight showing her possible futures. Scenarios where the compact broke. Where both sides started killing each other systematically. Where the experiment devolved into just another war.
 
 She wrote back:
 
 *Generation 22 to Generation 22:*
 
-*I rammed my own ally rather than let you sink me. Violated my orders. Killed Persians to preserve a Greek carrier. Xerxes would have me executed if he knew the truth.*
+*I rammed my own ally rather than let you sink me. Violated my orders. Killed Persians to save one of Nefertari's own. Xerxes would have me executed if he knew the truth.*
 
-*Would I do it again? Yes. Because the offensive network isn't about winning every battle—it's about engineering long-term survival. And our long-term survival requires your network existing as counterpoint.*
+*Would I do it again? Yes. Because Amenhotep's way isn't about winning every battle—it's about engineering long-term survival. And our survival requires your people existing as counterpoint.*
 
-*We're testing which approach works better: control or prevention, strategy or compassion, centralized or distributed. Can't answer that question if one network eliminates the other.*
+*We're testing which approach works better: control or compassion, strategy or shared knowledge. Can't answer that question if one side eliminates the other.*
 
 *So yes, I'd honor the compact. Even when it costs battles. Even when it violates immediate orders. Because the experiment matters more than Persia winning.*
 
-*We're not enemies. We're collaborators testing opposite hypotheses. May take three thousand years to know which is right.*
+*We're not enemies. We're collaborators testing opposite answers. May take three thousand years to know which is right.*
 
 *Artemisia, Halicarnassus*
 
-She sent the letter through the same neutral channels.
+She sent the letter through the same neutral channels. Sealed with wax pressed by a ring that had passed through twenty-two generations of hands.
 
-And hoped that twenty-three generations from now, when her descendants dreamed this moment, they'd understand: sometimes the most important thing warriors could do was not kill each other.
+Then she stood on her terrace and looked east.
 
-Even when honor demanded it.
+The sight had been restless for days—showing her fragments she couldn't yet assemble. A city rising on seven hills. Legions marching in formations that devoured kingdoms whole. A system of control so vast, so efficient, so ruthlessly engineered that it would make Xerxes' empire look like a child stacking stones.
 
-Even when strategy suggested it.
+Rome.
 
-Even when victory required it.
+Amenhotep's heirs were already there. She could feel them in the dreams—strategists embedding themselves in the Senate, shaping policy, cultivating the next great experiment in centralized power. And Nefertari's people would resist, scatter, adapt, as they always had.
 
-Because the real war wasn't Greece versus Persia.
+But this time the scale would be different. This time the machine being built would not simply invade—it would *assimilate*. Absorb every culture it touched. Turn resistance into collaboration. Make scattered survival not just difficult but meaningless, because there would be nowhere left to scatter *to*.
 
-It was collapse versus prevention. And that war needed both networks fighting it from different angles.
+The compact had survived Thermopylae and Salamis by two votes in a rented house.
+
+Artemisia wondered if it would survive what was coming.
 
 ---
 

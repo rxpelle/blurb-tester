@@ -1,0 +1,18 @@
+title: "The First Key"
+subtitle: "Book 3 of The Architecture of Survival"
+author: "Randy Pellegrini"
+copyright_year: 2026
+website: "randypellegrini.com"
+series_website: "randypellegrini.com/series"
+about_author: |
+  Randy Pellegrini writes *The Architecture of Survival*, a 12-book epic spanning 3,200 years from Bronze Age Egypt to the modern era. The series explores genetic memory as hard science, civilizational collapse patterns, and the moral complexity of two competing philosophies: knowledge preservation versus genetic control.
+
+  The saga weaves real historical events with speculative elements grounded in epigenetics, network theory, and systems thinking. Each book stands alone while revealing how defensive methodology has been embedded into human civilization through every era's dominant technology.
+
+  When not writing, Randy travels near and far to better imagine history up close and personal. He continuously wonders why we continue to replay broken patterns of human systems. That wonder was the seed that has grown into this series.
+preview_chapter: 14
+preview_book_num: 4
+preview_title: "The Prophet's Burden"
+preview_teaser: |
+  One thousand years after Nefertari created the Genesis Protocol, a carpenter's son in Galilee carries Generation 41 of the bloodline — and his teachings will reshape the network's mission for two millennia.
+chapter_pattern: "[0-1][0-9]_*.md"
