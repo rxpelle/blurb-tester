@@ -1,0 +1,151 @@
+{
+  "book": {
+    "title": "The Genesis Protocol",
+    "author": "Randy Pellegrini",
+    "genre": "Science Thriller",
+    "asin": ""
+  },
+  "headlines": [
+    {
+      "text": "Who decides which humans deserve to survive?",
+      "char_count": 44,
+      "strategy": "curiosity gap",
+      "ad_type": "brand"
+    },
+    {
+      "text": "For fans of Michael Crichton and Blake Crouch",
+      "char_count": 45,
+      "strategy": "comp appeal",
+      "ad_type": "brand"
+    },
+    {
+      "text": "35 million dead. 4 billion saved. Worth it?",
+      "char_count": 43,
+      "strategy": "emotional hook",
+      "ad_type": "brand"
+    },
+    {
+      "text": "The biotech conspiracy hiding in plain sight",
+      "char_count": 44,
+      "strategy": "genre signal",
+      "ad_type": "brand"
+    },
+    {
+      "text": "She saved humanity by destroying millions",
+      "char_count": 41,
+      "strategy": "curiosity gap",
+      "ad_type": "brand"
+    }
+  ],
+  "custom_texts": [
+    {
+      "text": "Yale scientist Sarah Chen discovers a biotech conspiracy deciding who lives and dies. 35 million dead. 4 billion saved. The architect is planning...",
+      "char_count": 148,
+      "strategy": "Stark numbers create immediate intrigue while establishing the moral complexity and future threat"
+    },
+    {
+      "text": "She secured 46 of 47 genetic research hubs. The one that escaped triggered a global pandemic. Now the architect is planning the next deployment.",
+      "char_count": 144,
+      "strategy": "Creates suspense through the 'one that got away' angle and imminent future danger"
+    },
+    {
+      "text": "A biotech conspiracy has been engineering human survival for decades\u2014by choosing who dies. Sarah Chen just uncovered their next target: 2040.",
+      "char_count": 141,
+      "strategy": "Establishes the chilling premise of selective survival while creating urgency with the 2040 timeline"
+    },
+    {
+      "text": "THRESHOLD: Kill millions to save billions. Yale epidemiologist Sarah Chen infiltrated their network, but one hub escaped. The pandemic has begun.",
+      "char_count": 145,
+      "strategy": "Uses the program name as a hook while building tension through Sarah's partial success and its consequences"
+    },
+    {
+      "text": "She carries a truth she can never speak: 35 million died to save 4 billion. But the woman who engineered it all is still planning. Start reading...",
+      "char_count": 147,
+      "strategy": "Focuses on Sarah's burden and the ongoing threat, with explicit call-to-action"
+    }
+  ],
+  "aplus_modules": [
+    {
+      "module_type": "description",
+      "title": "When Science Becomes Judge and Jury",
+      "body": "What if humanity's greatest threat came from those sworn to protect it?\n\nDr. Sarah Chen thought she was investigating routine genetic research violations. As a Yale epidemiologist with an impeccable reputation, she'd exposed pharmaceutical cover-ups before. But when she begins digging into GenVault's global network of research facilities, she uncovers something that will haunt her forever: THRESHOLD.\n\nThis isn't just another corporate conspiracy. It's a decades-long program designed to engineer human survival through the ultimate ethical paradox\u2014deciding who lives and who dies on a global scale. The architects of THRESHOLD have developed a targeted pathogen capable of eliminating millions while ensuring humanity's long-term genetic viability. In their twisted logic, 35 million deaths today will save 4 billion lives tomorrow.\n\nSarah races against time to infiltrate all 47 of GenVault's research hubs, believing she can stop the program before it launches. She succeeds in securing 46 facilities. But the one that escapes changes everything.\n\nThe pathogen is released. The pandemic begins. And Sarah finds herself carrying the most dangerous secret in human history\u2014one protected by classified NDAs, institutional cover-ups, and the very people who should be seeking justice.\n\nNow, as bodies pile up and the world struggles to comprehend the scope of the catastrophe, Sarah must navigate a labyrinth of moral ambiguity. The fugitive architect of THRESHOLD remains at large, already planning the next deployment for 2040. Every choice Sarah makes could determine whether humanity survives its own salvation.\n\n**The Genesis Protocol** launches Randy Pellegrini's explosive new series, *The Architecture of Survival*\u2014a chilling exploration of how far we'll go to ensure our species' future. This isn't just a thriller about genetic engineering; it's a haunting examination of the mathematics of survival and the terrible weight of playing God.\n\nIn the tradition of Michael Crichton's *The Andromeda Strain* and Stephen King's *The Stand*, Pellegrini crafts a scientifically grounded nightmare that feels ripped from tomorrow's headlines. But unlike those classics, *The Genesis Protocol* forces readers to confront an impossible question: If you could save humanity by sacrificing millions, would you pull the trigger?\n\nSarah Chen knows the answer. She's seen the models. She understands the science. And that knowledge may be the most terrifying burden of all.\n\nSome truths are too dangerous to speak aloud. Some choices too terrible to face. But in a world where extinction looms, even the unthinkable becomes possible.\n\nWelcome to the future of human evolution\u2014where survival comes with a price tag measured in millions of lives."
+    },
+    {
+      "module_type": "from_author",
+      "title": "A Note from Randy Pellegrini",
+      "body": "The idea for *The Genesis Protocol* came to me during a late-night conversation with a geneticist friend about the ethical implications of CRISPR technology. \"What if,\" she asked, \"someone decided they knew better than natural selection?\"\n\nThat question haunted me. As I researched genetic engineering, population dynamics, and pandemic preparedness, I realized we're standing at an unprecedented crossroads in human history. For the first time, we possess the tools to actively direct our own evolution\u2014but do we have the wisdom to wield them responsibly?\n\nSarah Chen represents all of us: brilliant, well-intentioned people who must confront impossible choices with incomplete information. I wanted to create a thriller that doesn't just entertain but forces us to examine our assumptions about survival, sacrifice, and who gets to decide humanity's future.\n\nThe science in this book is real\u2014perhaps more real than we'd like to admit. While writing, I consulted with epidemiologists, geneticists, and bioethicists to ensure the technical elements ring true. The result is a story that I hope feels both thrilling and terrifyingly plausible.\n\n*The Genesis Protocol* is the first book in *The Architecture of Survival* series, exploring how humanity might navigate the ethical minefields of our technological capabilities. It's a story about the price of progress and the weight of knowledge that can never be unknown.\n\nI hope it keeps you awake at night\u2014thinking."
+    },
+    {
+      "module_type": "comparison",
+      "title": "How The Genesis Protocol Compares",
+      "body": "**If you loved these books, you'll be captivated by The Genesis Protocol:**\n\n**VS. THE ANDROMEDA STRAIN (Michael Crichton)**\n\u2022 **Similar:** Hard science foundation, deadly pathogen threat, scientific authenticity\n\u2022 **Different:** Modern genetic engineering focus, global conspiracy scope, ongoing series potential\n\u2022 **Why Genesis Protocol:** Updated for the CRISPR age with deeper ethical complexity\n\n**VS. DARK MATTER (Blake Crouch)**\n\u2022 **Similar:** Mind-bending scientific concepts, protagonist fighting impossible odds\n\u2022 **Different:** Biotech/genetics vs. quantum physics, pandemic thriller vs. multiverse mystery\n\u2022 **Why Genesis Protocol:** More grounded in current scientific reality, global stakes\n\n**VS. THE STAND (Stephen King)**\n\u2022 **Similar:** Global pandemic, humanity's survival at stake, moral complexity\n\u2022 **Different:** Scientific conspiracy vs. supernatural forces, shorter length, contemporary setting\n\u2022 **Why Genesis Protocol:** Realistic scientific premise, faster pace, series continuation\n\n**VS. RECURSION (Blake Crouch)**\n\u2022 **Similar:** High-concept science, reality-altering technology, relentless pacing\n\u2022 **Different:** Genetic engineering vs. memory manipulation, pandemic focus vs. time distortion\n\u2022 **Why Genesis Protocol:** Medical thriller urgency meets cutting-edge genetics\n\n**THE GENESIS PROTOCOL delivers:**\n\u2713 The scientific rigor of Crichton\n\u2713 The conceptual brilliance of Crouch\n\u2713 The epic scope of King\n\u2713 Plus: A female scientist protagonist, contemporary genetic engineering, and a series that promises to explore humanity's next evolutionary leap"
+    }
+  ],
+  "keyword_groups": [
+    {
+      "match_type": "broad",
+      "keywords": [
+        "science thriller",
+        "biotech thriller",
+        "pandemic fiction",
+        "genetic conspiracy",
+        "epidemiologist protagonist",
+        "michael crichton",
+        "blake crouch",
+        "stephen king",
+        "medical thriller",
+        "biotechnology fiction",
+        "global conspiracy thriller",
+        "scientist protagonist",
+        "genetic engineering fiction",
+        "plague thriller",
+        "bioweapons fiction",
+        "conspiracy science fiction",
+        "yale university fiction",
+        "pathogen thriller",
+        "survival fiction",
+        "dystopian thriller"
+      ]
+    },
+    {
+      "match_type": "phrase",
+      "keywords": [
+        "books like michael crichton",
+        "books like blake crouch",
+        "science thriller novels",
+        "pandemic thriller books",
+        "genetic conspiracy thriller",
+        "biotech conspiracy fiction",
+        "medical thriller 2024",
+        "epidemiologist thriller",
+        "global pandemic fiction",
+        "genetic engineering thriller",
+        "bioweapons thriller novel",
+        "scientist conspiracy book",
+        "plague fiction thriller",
+        "dystopian science thriller",
+        "biotechnology thriller novel"
+      ]
+    },
+    {
+      "match_type": "exact",
+      "keywords": [
+        "the andromeda strain",
+        "dark matter blake crouch",
+        "the stand stephen king",
+        "recursion blake crouch",
+        "science thriller",
+        "pandemic fiction",
+        "genetic thriller",
+        "biotech thriller",
+        "medical conspiracy",
+        "epidemiologist fiction",
+        "global conspiracy",
+        "pathogen thriller",
+        "plague thriller",
+        "biotechnology fiction",
+        "genetic engineering fiction"
+      ]
+    }
+  ]
+}
