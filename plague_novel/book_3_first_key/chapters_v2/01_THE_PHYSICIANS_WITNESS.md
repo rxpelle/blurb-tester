@@ -53,7 +53,7 @@ Nefertari was already moving, her bag clutched tight. Behind her, the refugee mo
 
 *No. Not Tausret. Anyone but Tausret.*
 
-Pharaoh Tausret, who'd held Egypt together through three years of chaos. Who'd given Nefertari access to the royal libraries, encouraged her research into heredity and memory, protected the Per Ankh when grain stores dwindled. Who'd said, just last month: "If collapse comes, Nefertari, you're the one I'd trust to preserve what matters."
+Pharaoh Tausret, who'd held Egypt together through three years of chaos. Who'd given Nefertari access to the royal libraries, encouraged her research into heredity and memory, protected the Per Ankh when grain stores dwindled. Who'd said, just last month: "If the worst comes, Nefertari, you're the one I'd trust to preserve what matters."
 
 The palace gates opened. Guards recognized her face, stepped aside.
 
@@ -294,7 +294,7 @@ His voice dropped. "Do you remember when we met at the Per Ankh? You were fourte
 
 Nefertari's throat tightened. "You said: 'Because understanding a system means you might engineer a better one.'"
 
-"I thought we'd engineer everything together." He set down the disc. Turned to face her fully. "Twenty years, Nefertari. But you see collapse as preventable and I see it as inevitable. That gap — that's wider than anything personal between us."
+"I thought we'd engineer everything together." He set down the disc. Turned to face her fully. "Twenty years, Nefertari. But you see the fall as preventable and I see it as inevitable. That gap — that's wider than anything personal between us."
 
 He stopped. Swallowed. She saw his throat move and felt something crack along a fault line that had been forming for months.
 
@@ -332,9 +332,9 @@ He didn't finish. They both knew what it meant.
 
 Nefertari looked at the seven bronze discs cooling on her bench. Seven keys to unlock blood memory. Six inscribed in bronze, one encoded in flesh.
 
-Four for defensive purposes—distribution, pattern recognition, living carriers, network building. Three for offensive—bloodline control, catastrophe prediction, engineering survivors.
+Four for defensive purposes—distribution, pattern recognition, a living bloodline, network building. Three for offensive—bloodline control, catastrophe prediction, engineering survivors.
 
-She'd designed them as *choices.* Access one set, you prevent collapse. Access the other, you engineer who survives it.
+She'd designed them as *choices.* Access one set, you prevent the fall. Access the other, you engineer who survives it.
 
 Amenhotep wanted to merge them. One unified system, centralized control, managed populations.
 
@@ -366,7 +366,7 @@ Then he laughed. Sharp and bitter. "You realize we'll never know the outcome. We
 
 He said nothing. Neither did she.
 
-Finally, Amenhotep nodded. "Four keys to you. Three to me. We split Tausret's bloodline—one daughter stays with you and carries the defensive encoding. I'll find my own carriers for the offensive mode. We build separate networks, separate institutional backing, and we never combine the knowledge again unless—"
+Finally, Amenhotep nodded. "Four keys to you. Three to me. We split Tausret's bloodline—one daughter stays with you and carries the defensive encoding. I'll find my own bloodlines for the offensive mode. We build separate networks, separate institutional backing, and we never combine the knowledge again unless—"
 
 "Unless the catastrophe is so severe that both approaches fail," Nefertari finished. "Then the keys merge, the networks cooperate, and maybe—maybe—humanity survives."
 
@@ -376,15 +376,15 @@ They shook hands like traders sealing a contract. Like scholars agreeing on expe
 
 The bronze keys lay on her bench.
 
-Four defensive: the Living Key—Tausret's bloodline itself, flesh made cipher, not a physical object but a person to protect. The Pattern Eye, collapse recognition inscribed in bronze. The Memory Bridge, linking carriers across generations. The Distribution Network, methods for scattering knowledge so widely it could never be fully destroyed.
+Four defensive: the Living Key—Tausret's bloodline itself, flesh made cipher, not a physical object but a person to protect. The Pattern Eye, collapse recognition inscribed in bronze. The Memory Bridge, linking bloodlines across generations. The Distribution Network, methods for scattering knowledge so widely it could never be fully destroyed.
 
 Three offensive: the Blood Register, breeding optimization and genetic control. The Catastrophe Clock, predicting collapse for advantage. The Culling Method, engineering who survives.
 
-Six bronze discs. One living carrier. Seven keys total. Two networks. One Protocol with completely opposite purposes depending on who controlled it.
+Six bronze discs. One living person. Seven keys total. Two networks. One Protocol with completely opposite purposes depending on who controlled it.
 
 "We need the activation mechanism," Amenhotep said. "Something that requires both knowledge and bloodline."
 
-"The keys themselves trigger it," Nefertari said. "I've seen it — a carrier holds bronze and remembers things they never learned. But only if the bloodline training provides the framework. Pattern thinking — the way physicians see connections. Not facts. A way of *seeing.*"
+"The keys themselves trigger it," Nefertari said. "I've seen it — someone with the blood holds bronze and remembers things they never learned. But only if the bloodline training provides the framework. Pattern thinking — the way physicians see connections. Not facts. A way of *seeing.*"
 
 "A weapon," Amenhotep said.
 
@@ -434,7 +434,7 @@ Amenhotep took his back toward Egypt. Toward the temples and priesthoods that wo
 
 The networks split.
 
-Tausret's daughter slept peacefully, unaware she'd just become the Living Key. The first carrier in a bloodline that would stretch from 1189 BCE to whatever future was coming.
+Tausret's daughter slept peacefully, unaware she'd just become the Living Key. The first in a bloodline that would stretch from 1189 BCE to whatever future was coming.
 
 "I'm sorry," Nefertari whispered. "This is too much to carry. But maybe your descendants will recognize the fall early enough to stop it."
 

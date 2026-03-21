@@ -218,7 +218,7 @@ He'd never met her. She existed in his training as a name attached to a philosop
 
 Amenhotep himself had died thirteen years ago. Seventy-nine years old, body finally surrendering to the accumulated weight of decades spent thinking harder than the flesh could sustain. He'd died in this same temple, in the chamber three doors down from where Khasekhem now sat. But not the way Khasekhem had expected.
 
-The old man had been dictating final instructions to the breeding registry for three days straight, refusing food, refusing sleep, his voice gone thin and papery but his mind still organizing bloodlines with the precision of a scribe cataloguing grain stores. Khasekhem had sat beside him, transcribing, watching the greatest strategic mind he'd ever encountered reduce itself to data points and institutional protocols, as if Amenhotep were trying to pour everything he was into documentation before the vessel cracked.
+The old man had been dictating final instructions to the breeding registry for three days straight, refusing food, refusing sleep, his voice gone thin and papery but his mind organizing bloodlines with the precision of a scribe cataloguing grain stores. Khasekhem had sat beside him, transcribing, watching the greatest strategic mind he'd ever encountered reduce itself to data points and institutional protocols, as if Amenhotep were trying to pour everything he was into documentation before the vessel cracked.
 
 Then, on the third night, the stylus fell from fingers that could no longer grip it. And Amenhotep stopped dictating.
 
