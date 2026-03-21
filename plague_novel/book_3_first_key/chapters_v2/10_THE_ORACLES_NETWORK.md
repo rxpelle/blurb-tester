@@ -13,11 +13,11 @@
 
 The Oracle at Delphi was too accurate. Five years Kleomenes had watched, and the pattern refused to make sense.
 
-Diluted carriers—distant bloodline descendants with weak blood memory—delivered inconsistent prophecies. Sometimes accurate collapse-sight, sometimes complete nonsense, always unreliable. That was the established model. The inheritance degraded with distance from core bloodlines. Prophecy became noise.
+Diluted bloodlines—distant descendants with weak blood memory—delivered inconsistent prophecies. Sometimes accurate collapse-sight, sometimes complete nonsense, always unreliable. That was the established model. The inheritance degraded with distance from core bloodlines. Prophecy became noise.
 
 But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways diluted carriers shouldn't be.
 
-He stood now in the crowd watching Croesus of Lydia—the wealthiest king in the known world—approach the temple to consult the Oracle before attacking Persia. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
+He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings from every city-state in Greece, tripods and statues gleaming in the mountain light — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them — six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
 Except Kleomenes knew the Oracle wasn't divine.
 
@@ -47,13 +47,13 @@ Unless Delphi was something much more sophisticated.
 
 **Three weeks later. Kleomenes investigating temple records.**
 
-Three weeks disguised as a minor priest. White linen robes, barley porridge at dawn, hymns to Apollo at the altar. The routine had lulled the other priests into accepting his presence.
+Three weeks disguised as a minor priest. White linen robes, barley porridge and goat cheese at dawn, purification in the cold water of the Castalian Spring before each day's duties, burning laurel leaves and barley meal on the great altar while chanting hymns to Apollo. The routine had lulled the other priests into accepting his presence.
 
 The first thing he noticed: the Hosioi priests — the five who "interpreted" the Pythia's ecstatic utterances — took shifts. Not random shifts. A rotation that ensured at least two were present during every consultation. He watched their eyes during prophecy sessions. The unfocused quality. The micro-expressions of recognition when the Pythia described collapse trajectories.
 
 All carriers. Every one.
 
-He broke into the restricted archives on a feast night when the temple was loud with celebration. Found scrolls organized not by date but by *region* — Lydia, Ionia, Egypt, the Levant. Each scroll cross-referencing prophecies with geopolitical outcomes spanning two centuries. Margin notes in carrier shorthand he recognized from the defensive network's communication protocols.
+He broke into the restricted archives on a feast night when the temple was loud with celebration — a low stone room behind the adyton, its wooden pigeonhole shelves holding wax tablets and papyrus scrolls, the heavy pivot-socket door sealed with a bronze pin. Found scrolls organized not by date but by *region* — Lydia, Ionia, Egypt, the Levant. Each scroll cross-referencing prophecies with geopolitical outcomes spanning two centuries. Margin notes in carrier shorthand he recognized from the defensive network's communication protocols.
 
 One message, encoded between Delphi and carriers in Sardis:
 
@@ -75,7 +75,7 @@ Aristonike. The current Pythia.
 
 ## SCENE 3: The Oracle's Secret
 
-Aristonike led him deeper into the temple complex, to rooms visitors never saw. She unlocked a heavy door. Inside: five women, ages ranging from early twenties to late sixties, all showing carrier markers. All practicing prophecy delivery.
+Aristonike led him deeper into the temple complex — past the inner cella with its eternal flame and Apollo's gold statue, down a narrow limestone stairway that smelled of sulphur and wet stone, to rooms visitors never saw. She unlocked a heavy door. Inside: five women, ages ranging from early twenties to late sixties, all showing carrier markers. All practicing prophecy delivery.
 
 "Diluted carriers," Aristonike said. "Recruited. Trained in the seeing. Rotated through the Pythia role, supported by full carrier priests." She watched them with something between pride and grief. "We turned the noise into signal."
 
@@ -85,7 +85,7 @@ Aristonike's expression darkened. "The sacred vapors. Pneuma—gases rising from
 
 "And you?" Kleomenes studied Aristonike's face more carefully. The slight tremor in her left hand. The way her eyes sometimes drifted mid-sentence.
 
-"Fifteen years." She said it quietly. "I know. Too long. But I'm a full carrier—the seeing is strong enough in me to distinguish prophetic visions from gas-induced hallucinations. Most diluted carriers can't after a few years."
+"Fifteen years." She said it flatly. "I know. Too long. But I'm a full carrier—the seeing is strong enough in me to distinguish prophetic visions from gas-induced hallucinations. Most diluted carriers can't after a few years."
 
 She paused. Her eyes drifted — not the way they did during prophecy, but sideways, inward, as if chasing something through a corridor she couldn't quite see.
 
@@ -175,7 +175,7 @@ He didn't have a good answer. The pulse in his throat was still beating to her r
 
 "Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical, the way carriers spoke when the truth was too large for plain language. "And because I don't want you to do this alone."
 
-She searched his face for a long time. Then she said, very quietly: "I have three years. Maybe less. The tremors will get worse. I'll start forgetting things. Eventually I won't know who you are."
+She searched his face. Then she said: "I have three years. Maybe less. The tremors will get worse. I'll start forgetting things. Eventually I won't know who you are."
 
 "Then we have three years."
 
@@ -231,7 +231,7 @@ She blinked. Her face rearranged itself — recognition flooding back in like wa
 
 He said nothing either. But his hands were shaking now, and hers were not.
 
-They stood on Delphi's temple steps. Below them, pilgrims gathered—kings and merchants and farmers, seeking knowledge about futures they couldn't see.
+They stood on Delphi's temple steps, the mountain air sharp with laurel and pine. Below them, pilgrims gathered on the Sacred Way — kings with their retinues, merchants in woolen himations, farmers in rough-spun chitons clutching small clay votives, all seeking knowledge about futures they couldn't see.
 
 "Nefertari would be proud," he said.
 
@@ -267,7 +267,7 @@ And the prophecy network was just beginning. But the woman who'd built it was al
 
 **OFFENSIVE NETWORK INTERLUDE**
 
-They met in the corridor behind the adyton, where the sacred vapors thinned enough to think clearly.
+They met in the corridor behind the adyton — the inner sanctum where the Pythia sat on her bronze tripod above the earth's cleft, breathing the sweet pneuma that rose from the chasm — where the sacred vapors thinned enough to think clearly.
 
 Darius had been stationed at Delphi for six years. Officially, he was a Hosioi -- one of the five priests who interpreted the Pythia's ecstatic utterances into coherent prophecy. Unofficially, he was Generation 19, offensive network, embedded in the Oracle's institutional apparatus to study how the defensive network had managed to scale blood memory into civilizational influence.
 
@@ -283,7 +283,7 @@ The woman who stepped out of the shadow was not someone he'd expected to meet he
 
 "It's what we do."
 
-They stood three paces apart in the limestone corridor, torchlight making their shadows stretch and merge on the wall. Two carriers from rival networks, separated by philosophy, connected by inherited architecture older than empires.
+They stood three paces apart in the limestone corridor, torchlight making their shadows stretch and merge on the wall. Two people from rival networks, separated by philosophy, connected by inherited architecture older than empires.
 
 "How long has the Order had someone in the Hosioi?" Aristonike asked.
 
@@ -293,7 +293,7 @@ She didn't look surprised. "And Siwa? Is it yours entirely, or do we still have 
 
 "Yours. Mostly. We share the Oracle of Ammon the way we share Delphi -- parallel operations, neither side fully in control." He paused. "You knew."
 
-"I've known since my third year. Your predecessors were careful, but carrier recognition isn't something you can hide from another carrier. Not at close range. Not when you're breathing the same vapors and interpreting the same visions." She leaned against the corridor wall. The torchlight caught the fine tremor in her left hand. "I chose not to expose you."
+"I've known since my third year. Your predecessors were careful, but the recognition isn't something you can hide from one of us. Not at close range. Not when you're breathing the same vapors and interpreting the same visions." She leaned against the corridor wall. The torchlight caught the fine tremor in her left hand. "I chose not to expose you."
 
 "Why?"
 
@@ -307,9 +307,9 @@ Darius studied her. The tremor was worse than he'd documented in his reports to 
 
 Aristonike's expression didn't change. "I know about the Temple search. We moved the Pattern Eye years before the siege. Carrier named Rachel saw the fall coming -- that's what we're trained to do."
 
-"And your breeding programs," she said, and there was something in her voice that wasn't accusation. Something closer to clinical interest. "The carriers your network produces through controlled marriages. Their raw cognitive capacity exceeds anything our distributed bloodlines generate. Generation for generation, your carriers are stronger."
+"And your breeding programs," she said, and there was something in her voice that wasn't accusation. Something closer to clinical interest. "The people your network produces through controlled marriages. Their raw cognitive capacity exceeds anything our distributed bloodlines generate. Generation for generation, yours are stronger."
 
-"Stronger isn't better. Your diluted carriers cover more ground. We produce ten exceptional carriers per generation. You produce hundreds of adequate ones."
+"Stronger isn't better. Your diluted lines cover more ground. We produce ten exceptional minds per generation. You produce hundreds of adequate ones."
 
 "And then we organize them." Aristonike gestured toward the temple above them, where twelve oracles and five interpreter-priests delivered systematic prophecy to the Mediterranean world. "Institutional scale. Your methodology, our philosophy."
 
@@ -339,7 +339,7 @@ The torch sputtered. Aristonike straightened, and the tremor in her hand was vis
 
 "Accurate isn't the problem. It never has been." She turned toward the temple stairs. "The problem is whether anyone listens."
 
-She climbed the steps slowly, one hand trailing the wall for balance. Darius watched her go -- a defensive carrier destroying herself in service to a system that combined both networks' strengths, delivering knowledge to a civilization that would choose its own fate regardless.
+She climbed the steps, one hand trailing the wall for balance. Darius watched her go -- a woman destroying herself in service to a system that combined both networks' strengths, delivering knowledge to a civilization that would choose its own fate regardless.
 
 He would include none of this conversation in his report to the Order.
 
@@ -347,7 +347,7 @@ Some things belonged to the corridor. To the space between networks where carrie
 
 He would report the institutional structure. The diluted carrier training program. The prophecy success rates. The operational intelligence the Order needed to maintain its position at Delphi.
 
-But the conversation -- the moment of mutual recognition between two people carrying centuries of opposing philosophies in their blood, standing in a gas-filled corridor beneath a temple built on the premise that knowledge should be offered and choice preserved--
+But the conversation -- the moment of mutual recognition between two people carrying centuries of opposing philosophies, standing in a gas-filled corridor beneath a temple built on the premise that knowledge should be offered and choice preserved--
 
 That, he would keep.
 

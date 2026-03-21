@@ -25,7 +25,7 @@ The models had pointed to Socrates.
 
 And they were wrong.
 
-Callias stood now in the Athenian agora, watching the old philosopher hold court with his students. Socrates was brilliant—no question. His dialectical method, his systematic questioning, his ability to expose contradictions in others' thinking. All signs of the physician's eye.
+Callias stood now in the Athenian agora — the wide paved square bordered by the Stoa of Zeus and the Painted Stoa with its Marathon battle murals, plane trees casting dappled shade over stone-faced herms, merchants selling figs and olives and wine from open-fronted stalls — watching the old philosopher hold court with his students. Socrates was brilliant—no question. His dialectical method, his systematic questioning, his ability to expose contradictions in others' thinking. All signs of the physician's eye.
 
 But it wasn't the inheritance. Callias would recognize the activation signature—the unfocused eyes during "visions," the dreams they couldn't explain, the compulsion to warn about collapse patterns they'd never personally witnessed.
 
@@ -35,7 +35,7 @@ Socrates had none of that.
 
 The students hung on every word. Athens loved Socrates. Hated him. Couldn't ignore him.
 
-But the daimonion wasn't the inheritance. Callias had watched carefully. It was just... philosophy. Exceptional reasoning. The kind of systematic thinking the defensive network taught, but arrived at independently through pure intellectual discipline.
+But the daimonion wasn't the inheritance. Callias had studied him carefully. It was just... philosophy. Exceptional reasoning. The kind of systematic thinking the defensive network taught, but arrived at independently through pure intellectual discipline.
 
 Socrates wasn't a diluted carrier.
 
@@ -53,13 +53,13 @@ A woman. Late twenties. Potter by trade, daughter of Athenian craftsmen. Unremar
 
 She was having the dreams.
 
-He watched her from across the workshop, saw the moment the seeing activated. Her hands stilled on the clay, the amphora's rim wobbling slightly under suddenly purposeless fingers. Eyes went distant. For ten seconds she was somewhere else—some*when* else—experiencing a collapse she'd never lived through.
+He stood across the workshop and saw the moment the seeing activated. Her hands stilled on the clay, the amphora's rim wobbling slightly under suddenly purposeless fingers. Eyes went distant. For ten seconds she was somewhere else—some*when* else—experiencing a collapse she'd never lived through.
 
 Then she blinked, shook her head, and returned to her work.
 
 *There,* Callias thought. *Generation 24. The real activation.*
 
-He waited until her shift ended at midday. Watched her wash clay from her arms at the workshop's water basin, wrap a himation—an outer cloak—around her shoulders against the afternoon sun. She bought lunch from a street vendor—barley cake and cheese, an apple—and ate while walking home through Athens' narrow streets. He followed at a distance to a small house near the city walls, waited until she'd finished her meal, then knocked.
+He waited until her shift ended at midday. Watched her wash clay from her arms at the workshop's water basin, wrap a himation—an outer cloak—around her shoulders against the afternoon sun. She bought lunch from a street vendor—barley cake and cheese, an apple—and ate while walking home through Athens' narrow streets. He followed at a distance to a small whitewashed mudbrick house near the city walls — the kind with a central courtyard open to the sky, a well in the corner, an upstairs gynaikonitis where a loom stood against the wall. He waited until she'd finished her meal, then knocked.
 
 "My name is Callias," he said when she answered. "I need to talk to you about the dreams you've been having."
 
@@ -135,27 +135,27 @@ He said none of this. The physician's eye was merciless in its self-diagnosis: t
 
 **Four weeks later. The trial.**
 
-Callias sat in the Athenian jury assembly, one of five hundred one citizens chosen by lot to judge Socrates. The charges were vague—corrupting the youth, impiety, introducing new gods. Everyone knew the real reason: Socrates made powerful people look stupid.
+Callias sat on the wooden benches of the Heliaia — the open-air court near the agora, five hundred one citizens chosen by lot, each holding a bronze ballot disc with a hollow tube for guilty and a solid one for acquittal. Three obols' pay for a day's jury duty, barely enough for bread and wine. The charges were vague — corrupting the youth, impiety, introducing new gods. Everyone knew the real reason: Socrates made powerful people look stupid.
 
 The verdict was predetermined. Athens wanted blood.
 
 But what Callias noticed—what made his carrier instincts scream—was who was orchestrating the trial.
 
-*Offensive network.*
+*Amenhotep's people.*
 
-He recognized the seeing in the prosecution's strategy. The systematic dismantling of Socrates' defense. The careful manipulation of jury sentiment. This wasn't just Athenian politics—this was carrier-level systems thinking being weaponized against a non-carrier philosopher.
+He recognized the seeing in the prosecution's strategy. The systematic dismantling of Socrates' defense. The careful manipulation of jury sentiment. This wasn't just Athenian politics—this was the physician's eye being weaponized against a philosopher who didn't have the blood.
 
-The offensive network was eliminating Socrates.
+The other side was eliminating Socrates.
 
-But why? He wasn't a carrier. Wasn't a threat to their knowledge. Wasn't even aware of the Genesis Protocol's existence.
+But why? He didn't have the blood. Wasn't a threat to their knowledge. Wasn't even aware of the Genesis Protocol's existence.
 
 Unless—
 
 Callias' blood went cold as the pattern clicked into place.
 
-Socrates was developing philosophy independently. Teaching systematic thinking without blood memory. Creating a school of thought that could spread the seeing to non-carriers through pure education.
+Socrates was developing philosophy independently. Teaching systematic thinking without the inheritance. Creating a school of thought that could spread the seeing to anyone through pure education.
 
-The offensive network couldn't allow that. If philosophy schools started teaching collapse prevention to everyone—if the knowledge escaped the bloodlines—their entire breeding program would become obsolete. Control would fragment.
+Amenhotep's side couldn't allow that. If philosophy schools started teaching collapse prevention to everyone—if the knowledge escaped the bloodlines—their entire breeding program would become obsolete. Control would fragment.
 
 They were killing Socrates to prevent knowledge from going viral.
 
@@ -165,13 +165,13 @@ And the defensive network was sitting back and letting it happen.
 
 ## SCENE 5: The Impossible Choice
 
-Callias found Xanthe that evening in her workshop. She was trimming a leather-hard krater, turning it slowly on the wheel while a bronze rib shaved curls of dried clay from the foot ring. The scraping sound was rhythmic, meditative. She didn't look up.
+Callias found Xanthe that evening in her workshop. She was trimming a leather-hard krater, turning it on the wheel while a bronze rib shaved curls of dried clay from the foot ring. The scraping sound was rhythmic, meditative. She didn't look up.
 
 "They're going to execute him," Callias said without preamble. "The verdict came in. Guilty. Death by hemlock in thirty days."
 
 Xanthe's hands stilled. A curl of clay dropped to the floor. "I heard."
 
-"The offensive network orchestrated it. They can't let Socrates prove that systematic thinking can be taught without the blood." Callias stepped closer. "Xanthe, this is why the network exists."
+"The other side orchestrated it. They can't let Socrates prove that systematic thinking can be taught without the blood." Callias stepped closer. "Xanthe, this is why the network exists."
 
 "To prevent what? Free thought?" Xanthe stood, wiping clay from her hands. "You want me to join your network to stop them from killing philosophers?"
 
@@ -195,9 +195,9 @@ Callias sat heavily on a workbench. "You're saying his death matters less than h
 
 **Thirty days later.**
 
-The prison cell was small and smelled of old straw and lamp oil. Socrates sat on a stone bench, surrounded by his students, and drank the hemlock the way he'd done everything else in his life — deliberately, without flinching, as if even dying were a form of inquiry.
+The prison cell was small — rough-cut limestone, a narrow barred window high on the wall, the floor covered in old straw that smelled of damp and lamp oil. Iron shackles hung from a wall peg where they'd held Socrates' ankles until the jailer removed them that morning. Socrates sat on a stone bench, surrounded by his students, and drank the hemlock — ground from the spotted plant and mixed into a cup of wine — the way he'd done everything else in his life: deliberately, without flinching, as if even dying were a form of inquiry.
 
-Callias watched from the doorway, hidden among the guards. Xanthe stood beside him.
+Callias stood in the doorway, hidden among the guards. Xanthe beside him.
 
 The jailer had told Socrates to walk until his legs went heavy. He walked. Talked while he walked. "The body dies," he was saying. "But truth persists. You'll teach what I taught. Build on what I discovered."
 
@@ -217,7 +217,7 @@ And beneath the pattern, something that made no sense. His left hand had moved �
 
 Xanthe was crying silently beside him, the inheritance overlaying the present with visions of older executions, older martyrs.
 
-"He was right," she whispered. "Philosophy will outlive him. The Academy. The Lyceum. Stoicism. Epicureanism. All the schools that come after. They'll teach the seeing to millions—no special bloodline required. The offensive network killed him, but they couldn't kill the idea."
+"He was right," she whispered. "Philosophy will outlive him. The Academy. The Lyceum. Stoicism. Epicureanism. All the schools that come after. They'll teach the seeing to millions—no special bloodline required. They killed him, but they couldn't kill the idea."
 
 "And you?" Callias asked. "Still choosing ignorance?"
 
@@ -296,7 +296,7 @@ Socrates' extremities went numb first. The old man noted his own symptoms aloud,
 
 The execution was clean. Three years of careful manipulation — seeding the impiety charges through proxies, cultivating Anytus and Meletus as prosecution, ensuring the jury pool skewed toward citizens who'd lost sons in the Peloponnesian War and blamed Socrates' students for the oligarchic coup. No carrier fingerprints. No network exposure. Just Athenian democracy doing what Athenian democracy did when it felt threatened by a man who asked too many questions.
 
-The target was confirmed non-carrier through three separate bloodline analyses. No blood memory. No activation signatures. No ancestral encoding. The man was simply, terrifyingly, *naturally brilliant.* Pattern recognition arrived at through pure intellectual discipline, without a single generation of selective breeding to support it.
+The target was confirmed clean through three separate bloodline analyses. No inherited memory. No activation signatures. No ancestral encoding. The man was simply, terrifyingly, *naturally brilliant.* Pattern recognition arrived at through pure intellectual discipline, without a single generation of selective breeding to support it.
 
 That was the threat. The elimination was necessary.
 
@@ -316,7 +316,7 @@ We killed the teacher. His ideas are spreading faster than when he was alive.
 
 The problem is not Socrates. The problem is *philosophy.* Education that teaches collapse-sight to anyone who walks through the door. No bloodline required. No blood memory. No centuries of breeding. Just tuition and willingness to think.
 
-If philosophy schools can teach what our breeding programs encode, then our breeding programs are pointless. Generations of controlled marriages, carrier cultivation, strategic positioning — all of it rendered obsolete by a barefoot stonemason's son who asked "Why?" until the answer made sense.
+If philosophy schools can teach what our breeding programs encode, then our breeding programs are pointless. Generations of controlled marriages, bloodline cultivation, strategic positioning — all of it rendered obsolete by a barefoot stonemason's son who asked "Why?" until the answer made sense.
 
 I feel the weight of this in my chest — a tightness that the blood memory tells me is the same sensation Amenhotep felt in Pi-Ramesses when Nefertari first proposed distributing knowledge to commoners. The fear of losing control not through defeat but through irrelevance.
 
@@ -324,13 +324,13 @@ I feel the weight of this in my chest — a tightness that the blood memory tell
 
 I defer to the council's judgment. But I will state my assessment plainly.
 
-Philosophy threatens us because it democratizes the seeing. But philosophy has a limit it cannot cross. It teaches recognition. It does not teach *motivation.* A philosopher can learn to see collapse patterns. Only a carrier *feels* them — in dreams, in blood, in the bone-deep urgency that comes from twenty generations of encoded trauma. Philosophy creates analysts. Genetics creates prophets.
+Philosophy threatens us because it democratizes the seeing. But philosophy has a limit it cannot cross. It teaches recognition. It does not teach *motivation.* A philosopher can learn to see collapse patterns. Only one of us *feels* them — in dreams, in blood, in the bone-deep urgency that comes from twenty generations of encoded trauma. Philosophy creates analysts. Genetics creates prophets.
 
-Socrates was one man. One exceptional, unrepeatable man. Our breeding programs produce carriers reliably, generation after generation. Philosophy schools produce occasional geniuses surrounded by mediocre imitators.
+Socrates was one man. One exceptional, unrepeatable man. Our breeding programs produce results reliably, generation after generation. Philosophy schools produce occasional geniuses surrounded by mediocre imitators.
 
-The answer is not infiltrating their schools. The answer is producing a carrier so powerful, so complete, that no philosopher could match him. Maximum genetic memory. Maximum institutional backing. Maximum military force. A demonstration so overwhelming that the question of education versus genetics is answered permanently.
+The answer is not infiltrating their schools. The answer is producing someone so powerful, so complete, that no philosopher could match him. Maximum genetic memory. Maximum institutional backing. Maximum military force. A demonstration so overwhelming that the question of education versus genetics is answered permanently.
 
-Not a philosopher-king. A conqueror-carrier. Someone who does not argue about whether centralized control prevents collapse. Someone who *demonstrates* it.
+Not a philosopher-king. A conqueror. Someone who does not argue about whether centralized control prevents collapse. Someone who *demonstrates* it.
 
 I submit this for council vote.
 
@@ -344,17 +344,17 @@ Pythodoros is correct about the failure and wrong about the remedy.
 
 I have managed offensive network operations in Athens since the Delphic discovery. I watched Pythodoros execute the Socrates elimination with professional competence. I watched him write this report with the certainty of a young man who believes problems have solutions.
 
-He proposes we breed a weapon. A conqueror-carrier. The most ambitious program since the founding — three generations, carefully managed, target born around 356 BCE, positioned to exercise power at civilizational scale.
+He proposes we breed a weapon. A conqueror with the full inheritance. The most ambitious program since the founding — three generations, carefully managed, target born around 356 BCE, positioned to exercise power at civilizational scale.
 
 I do not oppose this. The council voted eight to three in favor. The Macedonian breeding program begins this season. Three families identified. Marriage contracts arranged. Genetic memory markers will be tracked through each pregnancy with the patient precision of horse breeders selecting for speed.
 
 But I want the following recorded for the carriers who will read this through the blood:
 
-Socrates seemed motivated enough. One man, without a drop of carrier inheritance, changed how an entire civilization thinks about virtue, knowledge, and truth. We killed him, and his method survived. We are now proposing to answer this by building a single extraordinary individual and hoping *he* does not die.
+Socrates seemed motivated enough. One man, without a drop of the blood, changed how an entire civilization thinks about virtue, knowledge, and truth. We killed him, and his method survived. We are now proposing to answer this by building a single extraordinary individual and hoping *he* does not die.
 
 The pattern should be obvious. It is not obvious to Pythodoros because he is young, and the young believe in weapons.
 
-Three generations. Seventy-five years. The carrier they are designing will be born around 356 BCE. They do not know his name yet. They believe he will prove that blood memory, properly cultivated and ruthlessly deployed, can do what philosophy never would.
+Three generations. Seventy-five years. The weapon they are designing will be born around 356 BCE. They do not know his name yet. They believe he will prove that the inheritance, properly cultivated and ruthlessly deployed, can do what philosophy never would.
 
 Not just recognize collapse.
 

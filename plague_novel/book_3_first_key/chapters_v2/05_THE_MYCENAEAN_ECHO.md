@@ -13,7 +13,7 @@
 
 Taharqa had been Thrasymedes once, before the collapse took everything.
 
-He stood now in what remained of Tiryns' cyclopean walls, watching smoke rise from Mycenae thirty stadia to the north. Third major palace to burn this season. Pylos had fallen two years ago—his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
+He stood now in what remained of Tiryns' cyclopean walls — the megaron's great hearth cold, frescoes of boar hunts cracking on the walls, overturned pithoi leaking the last of the olive oil across the painted floor — watching smoke rise from Mycenae thirty stadia to the north. Third major palace to burn this season. Pylos had fallen two years ago—his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
 
 All ash now.
 
@@ -23,7 +23,7 @@ Then the palaces started burning. And the dreams changed. Started showing him *w
 
 Mycenaean Greece was the world. The palaces were eternal. His dreams said otherwise.
 
-"Thrasymedes." His assistant approached, tablet in hand. "The latest tribute counts from Argos. They're... not good."
+"Thrasymedes." His assistant approached — a young scribe in a wool chiton pinned at the shoulder with a bone clasp, his seal stone still hanging from his wrist though there was nothing left worth sealing. A tablet in his hand. "The latest tribute counts from Argos. They're... not good."
 
 Taharqa took the clay tablet, scanned the Linear B characters. Tribute down forty percent. Labor conscription failing. Regional centers ceasing communication. The administrative network fragmenting exactly as his dreams predicted.
 
@@ -39,7 +39,7 @@ His assistant stared. "You're planning to run."
 
 "I'm planning to survive. There's a difference."
 
-Six months later, he sailed with two hundred seventeen refugees on twelve ships. The blood memory guided them — trade routes to Egypt, safe harbors, timing to avoid storm seasons. Knowledge encoded from previous migrations his bloodline had survived.
+Six months later, he sailed with two hundred seventeen refugees on twelve hide-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled — a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. The blood memory guided them — trade routes to Egypt, safe harbors, timing to avoid storm seasons. Knowledge encoded from previous migrations his bloodline had survived.
 
 When the navigator called "Land ahead" and the Nile Delta materialized through morning haze, something shifted in Taharqa's chest. Not recognition exactly. Anticipation. The feeling of approaching someone who would understand what he was.
 
@@ -49,13 +49,13 @@ When the navigator called "Land ahead" and the Nile Delta materialized through m
 
 **Avaris, Nile Delta.**
 
-Deborah had been expecting refugees for three years. Her collapse-sight had shown her the Aegean collapse cascading. She'd predicted when survivors would reach Egypt, suspected Greek carriers would be among them.
+Deborah had been expecting refugees for three years. Her collapse-sight had shown her the Aegean collapse cascading. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
 
 She just hadn't expected one this aware.
 
 Thirty years of leading the defensive network since Nefertari's death, and the work had calcified something in her. She'd trained twelve carriers. Buried four. Watched the world burn in a slow arc from Egypt to Greece while her network scrambled to save what they could — which was never enough. Nefertari had believed in the Protocol with a convert's certainty. Deborah believed in it the way a surgeon believed in a tourniquet: it was the best tool available, which was not the same as believing it was good.
 
-The young Mycenaean—he called himself Taharqa now, had adopted an Egyptian name like he knew he'd never return home—sat across from her in the safe house, describing his blood memory with precision that suggested active encoding, not just passive dreams.
+The young Mycenaean — he called himself Taharqa now, had adopted an Egyptian name like he knew he'd never return home — sat across from her in the safe house, a mud-brick room in the Delta with reed mats on the floor and mosquito netting draped over the sleeping corners, the thick humid air carrying the smell of river silt and date palms through the window slits. He was describing his blood memory with precision that suggested deliberate encoding, not just passive dreams.
 
 "I see administrative systems," he said. "Palace economies. Tribute networks. The exact mechanisms that are failing. And I see them failing the same way in different civilizations I've never heard of. Civilizations that shouldn't exist in my memories."
 
@@ -99,11 +99,11 @@ The safe house was quiet except for the distant sound of Egyptian market vendors
 
 "I was right," he said. "I remember that morning. I can't remember what she looked like standing in the doorway. I can't remember her voice saying my name. But I remember the almond in the wine and the laugh she couldn't repeat, and I will carry that until whatever I am stops being."
 
-Deborah was very still. She recognized the shape of his grief — not from her own life, but from the stories Nefertari had told her before she died, and from something older, something carried in the blood. Four generations of loss braided into her inheritance. She didn't know yet that what Taharqa described — the unrepeatable moment, the body reaching for what was gone — was the same wound Nefertari had carried for Amenhotep across forty-seven years. The same ache that would surface in bloodlines three thousand years from now, in people who'd never know whose hands they were mourning.
+Deborah didn't move. She recognized the shape of his grief — not from her own life, but from the stories Nefertari had told her before she died, and from something older, something carried in the blood. Four generations of loss braided into her inheritance. She didn't know yet that what Taharqa described — the unrepeatable moment, the body reaching for what was gone — was the same wound Nefertari had carried for Amenhotep across forty-seven years. The same ache that would surface in bloodlines three thousand years from now, in people who'd never know whose hands they were mourning.
 
-"I know that shape," she said quietly. "Nefertari told me once — at the end, when she was dying — about the man she'd built the Protocol with. Amenhotep. He mispronounced a word in the Per Ankh when they were students. Said *heset* instead of *hesat* — the cow instead of the jar. She laughed, a sound she could never reproduce on purpose. He said, *Do that again.* She couldn't." Deborah's voice was steady but her eyes were distant, carrying someone else's memory. "She spent forty-seven years reaching for that laugh. It was the last thing she spoke about before she died."
+"I know that shape," she said. "Nefertari told me once — at the end, when she was dying — about the man she'd built the Protocol with. Amenhotep. He mispronounced a word in the Per Ankh when they were students. Said *heset* instead of *hesat* — the cow instead of the jar. She laughed, a sound she could never reproduce on purpose. He said, *Do that again.* She couldn't." Deborah's voice was steady but her eyes were distant, carrying someone else's memory. "She spent forty-seven years reaching for that laugh. It was the last thing she spoke about before she died."
 
-The safe house was very quiet.
+Neither of them spoke.
 
 "That's what encodes, Taharqa. Not the philosophy. The laugh you can't reproduce. The hands you see everywhere." She held his gaze. "Your children will carry yours. They won't know whose hands. They won't know whose screaming. But they'll know the shape of collapse. And they'll know the shape of love."
 
@@ -139,7 +139,7 @@ Deborah looked at him sharply. Then her expression shifted — not quite a smile
 
 **One year later.**
 
-Twelve Mycenaean refugees had shown carrier potential. Taharqa gathered them in the safe house courtyard, still carrying the weight of Melantha's almond trees in his chest, and asked them to decide what their children would inherit.
+Twelve Mycenaean refugees had shown the signs. Taharqa gathered them in the safe house courtyard, still carrying the weight of Melantha's almond trees in his chest, and asked them to decide what their children would inherit.
 
 Aristomache, former priestess from Mycenae, asked the question that split the room: "Do we encode what we *lost* or what we *learned*? Because those are different things."
 
@@ -159,13 +159,11 @@ The margin kept Taharqa awake that night, thinking of Melantha. She would have v
 
 **One year later. 1097 BCE.**
 
-Five children had been born to carrier parents since the refugees reached Egypt. Generation 4. They'd never see Mycenaean palaces. Never read Linear B. But they'd *dream* it. And dream it failing.
+Five children had been born to the bloodline since the refugees reached Egypt. Generation 4. They'd never see Mycenaean palaces. Never read Linear B. But they'd *dream* it. And dream it failing.
 
 Taharqa watched them sleeping in the safe house courtyard. One of the girls — Aristomache's daughter, barely two — whimpered in her sleep and turned toward the wall, hands clenching and unclenching. Already dreaming. Already inheriting.
 
-He thought of Philos's argument. *Let future carriers decide what it means.* Easy to say when you weren't watching a toddler clench her fists in her sleep against the memory of burning palaces.
-
-In the courtyard, Aristomache's daughter clenched her fists in her sleep — dreaming palaces she would never see, grieving a world she would never know. Mycenae burning behind eyes that had never seen it standing.
+He thought of Philos's argument. *Let future generations decide what it means.* Easy to say when you weren't watching a toddler clench her fists in her sleep against the memory of burning palaces she would never see, grieving a world she would never know.
 
 *Dead civilization,* Taharqa thought. *Living memory.*
 
@@ -230,7 +228,7 @@ The world is getting larger. I do not know how to make my mother see this.
 
 A field dispatch arrived today. Hieratic script, precise, devastating: twelve ships from collapsed Greek palaces have reached the Nile Delta. Two hundred refugees. Among them, multiple individuals demonstrating collapse-sight consistent with carrier activation. One especially — a former palace scribe, now calling himself Taharqa — has already met with the defensive network at the Avaris safehouse.
 
-Natural carriers. Unengineered. Emerging from bloodlines that survived collapse through sheer luck, their blood memory activated by the same catastrophe that birthed the Protocol.
+Natural carriers. Unengineered. Emerging from bloodlines that survived the fall through sheer luck, their blood memory activated by the same catastrophe that birthed the Protocol.
 
 I brought the dispatch to my mother. She read it without expression, then burned it. That is her way. She runs the network the way Khasekhem did: deliberately, institutionally, through the priesthoods of Upper and Lower Egypt. Sixty-two active carriers on our side. Every one bred, documented, trained. Three generations of meticulous genealogical control.
 
@@ -238,7 +236,7 @@ The defensive network scattered across the Mediterranean with a handful of carri
 
 The universe is providing.
 
-My mother's response was immediate, practical. She sees the Greek branch as a problem to be managed: twelve people today, fifty in five generations, two hundred in ten. Natural carriers appearing across the Aegean, each one recruited into the defensive network's philosophy. She ordered three agents dispatched to Phoenician merchant vessels heading west — settle in Greek refugee communities, learn the language, marry locally, watch for children who dream of burning cities and collapsing trade networks.
+My mother's response was immediate, practical. She sees the Greek branch as a problem to be managed: twelve people today, fifty in five generations, two hundred in ten. Natural carriers appearing across the Aegean, each one recruited into the defensive network's philosophy. She ordered three agents dispatched to Phoenician merchant vessels heading west — settle in Greek refugee communities, learn the language, marry locally, watch for children who dream of burning cities and failing trade networks.
 
 I sealed the orders myself. Sound strategy. Institutional response to an institutional threat.
 

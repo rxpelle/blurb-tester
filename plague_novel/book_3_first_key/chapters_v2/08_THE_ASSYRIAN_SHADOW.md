@@ -31,7 +31,7 @@
 
 Judith bat-Miriam recognized the signs immediately.
 
-The boy stood in the Temple's outer court, surrounded by a growing crowd. Maybe sixteen years old. Judean features, shepherd's clothing, but his eyes—his eyes had that unfocused quality. The look of someone seeing connections they couldn't name. Experiencing the old dreams without the training to understand them.
+The boy stood in the Temple's outer court — packed now with refugees from the countryside, their livestock bleating in makeshift pens, vendors selling bread at siege prices, priests burning offerings on the great bronze altar while smoke climbed into a sky the color of hammered tin. Maybe sixteen years old. Judean features, shepherd's rough wool tunic, but his eyes — his eyes had that unfocused quality. The look of someone seeing connections they couldn't name. Experiencing the old dreams without the training to understand them.
 
 "The plague comes from the north," he was saying, voice cracking with adolescent urgency. "I see it in my dreams. Rats from the grain stores. Soldiers crowded in camps. Dirty water. The Assyrians will die by the thousands, but not from our swords. From invisible death carried on filth and crowding."
 
@@ -53,9 +53,9 @@ The question was the same one carriers had been asking for five centuries: tell 
 
 ## SCENE 2: The Carrier's Dilemma
 
-That evening, Judith found Micah alone on the city wall, staring north toward the Assyrian siege camps. Sennacherib's army surrounded Jerusalem like a python—two hundred thousand men, siege engines, supply wagons stretching to the horizon.
+That evening, Judith found Micah alone on the city wall, staring north toward the Assyrian siege camps. Sennacherib's army surrounded Jerusalem like a python—two hundred thousand men in iron-tipped ranks, their pointed bronze helmets and lamellar armor catching the last light, siege ramps packed with earth and timber rising against Lachish-scarred walls, supply wagons stretching to the horizon.
 
-King Hezekiah had fortified the city. Cut the tunnel to ensure water supply. Prepared for a long siege. But the inheritance showed her the pattern clearly: sieges ended in starvation, plague, or surrender. Jerusalem was following the same trajectory as every failed Bronze Age kingdom.
+King Hezekiah had fortified the city. Cut the tunnel through five hundred cubits of bedrock to channel the Gihon Spring inside the walls. Prepared for a long siege. But the inheritance showed her the pattern clearly: sieges ended in starvation, plague, or surrender. Jerusalem was following the same trajectory as every failed Bronze Age kingdom.
 
 She was tired. Twenty years of nightly dreams, each one layered on the last like scar tissue on scar tissue. Twenty-five years old and already feeling ancient.
 
@@ -71,7 +71,7 @@ Judith sat beside him. "How long?"
 
 Judith watched his face. Sixteen and already burning with it. She'd believed the dreams were divine too, once. Before her mother died gasping and the dreams kept coming anyway.
 
-"The Assyrians will die from plague," Judith said quietly. "You're right about that. I see the same cascade. Crowded camps, poor sanitation, rat populations exploding from stored grain. Disease outbreak is inevitable."
+"The Assyrians will die from plague," Judith said. "You're right about that. I see the same cascade. Crowded camps, poor sanitation, rat populations exploding from stored grain. Disease outbreak is inevitable."
 
 Micah's eyes widened. "Then you're a prophet too?"
 
@@ -97,7 +97,7 @@ She thought about saying something reassuring. That's what her mother would have
 
 Instead she said: "I've been doing this since I was five. I can teach you everything I know, and it will not make it easier. It will make you useful. That's not the same thing."
 
-Micah absorbed this. Below them, a night patrol passed, torches bobbing in the darkness.
+Micah absorbed this. Below them, a night patrol passed along the wall's rampart walk — spearmen in bronze-studded leather jerkins, torches bobbing against the limestone.
 
 "Teach me," he said.
 
@@ -117,7 +117,7 @@ On the third day, they stood on the wall again.
 
 Micah's eyes went unfocused. "Crowding. Latrines too close to water. Rats in the grain stores." He paused. "And something else. A wave — moving through camps. The same sequence from my dreams of Egypt."
 
-"Plague. Probably bubonic. Three days. Maybe four."
+"Plague. The swelling kind — hard lumps in the neck, the groin. Three days. Maybe four."
 
 Micah looked stricken. "We should warn them. Get them to disperse, improve sanitation—"
 
@@ -149,7 +149,7 @@ The city celebrated. Called it a miracle. Divine intervention. God's protection 
 
 Only Judith and Micah knew the truth: it was the old skill at work. The inevitable result of crowding armies in unsanitary conditions during summer heat with high rat populations.
 
-"They think I prophesied this," Micah said quietly. "The priests. The king. They're calling me inspired. Touched by God."
+"They think I prophesied this," Micah said. "The priests. The king. They're calling me inspired. Touched by God."
 
 "You did prophesy it. You saw what was coming and warned them."
 
@@ -159,7 +159,7 @@ Judith had been dreading this question.
 
 "That's your choice. The network won't tell you what to believe." She paused. Her mother would have given a longer answer. A more careful, more diplomatic answer. Judith didn't have the energy. "Keep prophesying. Keep warning about what's coming. But remember what you're really seeing. And when you give warnings, make them actionable—tell people *how* to prevent collapse, not just *that* it's coming."
 
-Micah nodded slowly. "And if they don't listen?"
+Micah took this in. "And if they don't listen?"
 
 "Then you walk away. You can't force people to see what you see. You can only offer the warning."
 
@@ -175,7 +175,7 @@ Judith and Micah would remember rats and crowding and contaminated water.
 
 Three weeks after the plague broke Sennacherib's siege, Micah told Judith he was going into the Assyrian camps.
 
-They were sitting in her small house near the Temple quarter, reviewing the network's latest reports. Judith was writing by lamplight—coded notes for the archive, the kind of meticulous record-keeping that made her hands cramp and her vision blur. Outside, Jerusalem was still celebrating. Inside, she was cataloging the dead.
+They were sitting in her small house near the Temple quarter — a single stone-walled room with a packed-earth floor, a clay oil lamp guttering in its wall niche, a hand mill for grinding barley propped in the corner beside a loom strung with undyed wool. Judith was writing by lamplight on a potsherd — coded notes for the archive in the old Phoenician script, the kind of meticulous record-keeping that made her hands cramp and her vision blur. Outside, Jerusalem was still celebrating. Inside, she was cataloging the dead.
 
 "There are survivors out there," Micah said. "Thousands. Starving, sick, too weak to walk back to Nineveh. The camp followers especially—women, children, slaves who traveled with the army. They didn't choose the siege. They didn't choose the crowding."
 
@@ -187,7 +187,7 @@ Judith set down her stylus. "No."
 
 "You don't know that."
 
-"I do know that. I see the exact same trajectory you do. Bubonic plague in a camp of decomposing bodies and contaminated water. Every carrier instinct I have is screaming that those camps are death. My mother's memories are screaming it. Nefertari's memories are screaming it." She pressed her palms against her eyes—the old gesture, her mother's gesture. "I've been dreaming plague deaths since I was five years old. I know what it looks like when someone walks into a dying camp and doesn't walk out."
+"I do know that. I see the exact same trajectory you do. The swelling plague in a camp of decomposing bodies and contaminated water. Every carrier instinct I have is screaming that those camps are death. My mother's memories are screaming it. Nefertari's memories are screaming it." She pressed her palms against her eyes—the old gesture, her mother's gesture. "I've been dreaming plague deaths since I was five years old. I know what it looks like when someone walks into a dying camp and doesn't walk out."
 
 Micah was quiet for a moment. Then: "You taught me that seeing collapse means responsibility. That the network exists to intervene early, before small problems cascade."
 
@@ -223,7 +223,7 @@ The question was whether the someone had to be him.
 
 ## SCENE 7: The Pattern of His Own Death
 
-Judith watched him go the next morning. Watched from the city wall as he walked north through the wreckage of the siege—abandoned equipment, half-dug trenches, the detritus of two hundred thousand men who'd come to conquer Jerusalem and been conquered instead by rats and crowding and their own waste.
+Judith watched him go the next morning. Watched from the city wall as he walked north through the wreckage of the siege — overturned Assyrian battering rams with their iron-capped beams, half-dug siege trenches littered with broken iron spearheads and strips of lamellar armor, abandoned cook-fires ringed with flat bread stones, the detritus of two hundred thousand men who'd come to conquer Jerusalem and been conquered instead by rats and crowding and their own waste.
 
 She tracked him for five days through network contacts. Merchants who passed the camps. Refugees who'd fled and returned. Fragments of information, like reading a patient's condition through secondhand reports.
 
@@ -237,9 +237,9 @@ Judith knew what that meant. She'd been dreaming plague deaths since she was fiv
 
 She left Jerusalem at dawn on the sixth day.
 
-The smell hit her first. Two miles from the main camp—the sweet-rot stink of decomposition mixed with wood smoke from pyres that hadn't burned hot enough. She wrapped linen across her face, an instinct passed down through twelve generations of carriers who'd treated the sick.
+The smell hit her first. Two miles from the main camp — the sweet-rot stink of decomposition mixed with wood smoke from pyres that hadn't burned hot enough, drifting across the Kidron Valley's dry terraces of olive and fig trees. She wrapped linen across her face, an instinct passed down through twelve generations of carriers who'd treated the sick.
 
-The camp was worse than she'd imagined. Tents collapsed or burned. Cooking fires cold. The organized groups Micah had assembled were still functioning—she could see the sanitation measures he'd taught them, the boiled-water stations, the separation of sick and healthy. His interventions were holding even after he'd stopped enforcing them.
+The camp was worse than she'd imagined. Assyrian military tents — heavy goat-hair panels over wooden ridge poles, each bearing the winged-disc standard of Ashur — collapsed or burned. Cooking fires cold, their iron tripod stands still holding blackened bronze pots. The organized groups Micah had assembled were still functioning—she could see the sanitation measures he'd taught them, the boiled-water stations, the separation of sick and healthy. His interventions were holding even after he'd stopped enforcing them.
 
 At the camp's perimeter, a man stood motionless. Egyptian features beneath a Babylonian merchant's hood. He was watching the tent at the eastern edge — the tent where the survivors had carried the dying prophet. Judith felt the recognition like a hand pressed against her sternum. Offensive carrier. He met her eyes across fifty cubits of corpse-strewn ground. Did nothing. Said nothing. Just watched. She walked past him toward the tent, and when she looked back, he was gone.
 
@@ -249,7 +249,7 @@ He was lying on a soldier's bedroll, soaked in sweat. The buboes had formed over
 
 "Judith." His voice was a rasp. "You shouldn't be here."
 
-"I know." She knelt beside him, felt his forehead. Burning. Pulse rapid and thready. She'd treated fevers before, but not this. Not bubonic plague in active stage. The inheritance was showing her the progression—the progression she'd dreamed since childhood, now playing out in front of her in a boy she'd taught.
+"I know." She knelt beside him, felt his forehead. Burning. Pulse rapid and thready. She'd treated fevers before, but not this. Not the swelling plague in active stage. The inheritance was showing her the progression—the progression she'd dreamed since childhood, now playing out in front of her in a boy she'd taught.
 
 "I can see it," Micah said. His eyes had that unfocused quality again—the old dreams activating, but now showing him his own death. "The infection spreading. Lymph nodes failing. Blood poisoning. I can see exactly how it kills me." A weak laugh. "You were right. Understanding it doesn't make it hurt less."
 
@@ -289,7 +289,7 @@ Her left hand moved — the ring glinting in the dawn light that seeped through 
 
 She didn't cry. Her body was doing something harder than crying: reaching for a comfort it had been denied for centuries, and finding, as always, nothing.
 
-She sat with his body for a long time. The camp was stirring around her — survivors waking, following the sanitation protocols Micah had taught them, boiling water, checking the sick. His interventions working even after he'd stopped breathing.
+She sat with his body until the sun was full up. The camp was stirring around her — survivors waking, following the sanitation protocols Micah had taught them, boiling water, checking the sick. His interventions working even after he'd stopped breathing.
 
 She wrapped him in the soldier's bedroll. Said the words the network said when a carrier died—not prayers, exactly, but an acknowledgment. A recording.
 
@@ -299,7 +299,7 @@ She wrapped him in the soldier's bedroll. Said the words the network said when a
 
 ## SCENE 8: The Encoding
 
-Back in Jerusalem, Judith sat alone and encoded the experience. The heat of his hand. The buboes. The carrier's clarity in his voice on the wall — seeing the cost and walking toward it anyway.
+Back in Jerusalem, Judith sat alone in her stone-walled room, the clay lamp casting its small circle of sesame-oil light, and encoded the experience. The heat of his hand. The buboes. The carrier's clarity in his voice on the wall — seeing the cost and walking toward it anyway.
 
 And she encoded something she hadn't expected: doubt.
 
@@ -315,9 +315,9 @@ She sealed the record and blew out the lamp.
 
 Nekhen watched the boy from the crowd.
 
-The Temple's outer court was packed with the desperate and the faithful -- Judeans seeking reassurance during the siege, priests performing rituals that would do nothing against Sennacherib's two hundred thousand soldiers. But Nekhen wasn't watching the priests. He was watching the shepherd boy who stood on the fountain steps, voice cracking, telling anyone who'd listen about rats and plague and invisible death.
+The Temple's outer court was packed with the desperate and the faithful -- Judeans seeking reassurance during the siege, priests performing rituals that would do nothing against Sennacherib's two hundred thousand soldiers. But Nekhen wasn't looking at the priests. He was looking at the shepherd boy who stood on the fountain steps, voice cracking, telling anyone who'd listen about rats and plague and invisible death.
 
-*Diluted carrier. Fourteen, maybe sixteen. Genetic memory activating under siege stress.*
+*Diluted bloodline. Fourteen, maybe sixteen. Genetic memory activating under siege stress.*
 
 Nekhen was Generation 14, offensive network, stationed in Jerusalem since the Assyrian advance began. His orders from Memphis were straightforward: use the siege chaos to probe the Temple foundations. The Order had known since Khepri's report in 967 BCE that the Pattern Eye was hidden beneath the eastern colonnade. Nearly three centuries they'd waited for the right moment to retrieve it.
 
@@ -331,7 +331,7 @@ He turned his attention back to the boy. The crowd was growing. Someone had told
 
 "Crowding accelerates it," the boy was saying. "Rats carry it. Poor sanitation spreads it."
 
-Nekhen felt the chill of recognition. Not prophecy. Systems analysis. The boy was describing epidemiological dynamics that the offensive network's senior carriers trained for years to master. This untrained shepherd was broadcasting them to the entire market square.
+Nekhen felt the chill of recognition. Not prophecy. Systems analysis. The boy was describing epidemiological dynamics that the Order's senior operatives trained for years to master. This untrained shepherd was broadcasting them to the entire market square.
 
 He composed the message in his mind. He'd send it south with a merchant leaving through the Assyrian lines -- the Order maintained contacts on both sides of every siege.
 
@@ -339,13 +339,13 @@ He composed the message in his mind. He'd send it south with a merchant leaving 
 
 *Secondary observation of greater strategic value: Diluted carrier identified in Jerusalem. Male, approximately sixteen years. Blood memory activating without training, manifesting as public prophecy. Broadcasts epidemiological collapse-sight openly. No defensive network contact observed initially, though a female carrier -- likely Generation 12, Jerusalem branch -- has since made approach.*
 
-*Assessment: Untrained diluted carriers represent a recruitment opportunity the Order has not systematically exploited. This boy's collapse-sight is raw but strong. If the defensive network recruits him, they gain a prophet who moves crowds. If we reach such carriers first, we gain operatives already trusted by the populations they serve.*
+*Assessment: Untrained diluted carriers represent a recruitment opportunity the Order has not systematically exploited. This boy's collapse-sight is raw but strong. If the defensive network recruits him, they gain a prophet who moves crowds. If we reach them first, we gain operatives already trusted by the populations they serve.*
 
 *Recommendation to the Council: Establish systematic identification protocol for diluted carriers manifesting as prophets, mystics, or seers. Every market square prophet broadcasting blood memory publicly is a potential asset. Left unrecruited, they are a liability -- their public pronouncements expose carrier capabilities to anyone clever enough to recognize what they're seeing.*
 
 *The defensive network teaches them. We should recruit them. Every prophet they miss is one we can claim.*
 
-Nekhen watched the female carrier -- Judith, he'd learned her name -- lead the boy away from the crowd that evening. She'd gotten to this one first. The defensive network would teach him their philosophy, show him their methods, add him to their distributed web.
+Nekhen saw the woman -- Judith, he'd learned her name -- lead the boy away from the crowd that evening. She'd gotten to this one first. The defensive network would teach him their philosophy, show him their methods, add him to their distributed web.
 
 But there would be others. There were always others.
 
@@ -359,9 +359,9 @@ On the northern road, he passed a column of Assyrian camp followers moving south
 
 Someone had walked into the dying camps and shown them how to survive.
 
-Nekhen noted this in his dispatch without commentary. But he thought about it for a long time afterward — about a network that would send a carrier into a plague camp to save enemy civilians. About what kind of philosophy produced that. About whether the Order, with all its breeding programs and institutional power, had ever produced a single carrier willing to die for people who weren't useful.
+Nekhen noted this in his dispatch without commentary. But he thought about it for days afterward — about a network that would send one of its own into a plague camp to save enemy civilians. About what kind of philosophy produced that. About whether the Order, with all its breeding programs and institutional power, had ever produced a single person willing to die for people who weren't useful.
 
-He carried a new strategy back to Memphis. And beneath it, lodged like a bone splinter in his professional certainty: the boy had known he would die, and he'd gone anyway, and Nekhen could not name a single offensive carrier who would have done the same.
+He carried a new strategy back to Memphis. And beneath it, lodged like a bone splinter in his professional certainty: the boy had known he would die, and he'd gone anyway, and Nekhen could not name a single one of his own who would have done the same.
 
 ---
 

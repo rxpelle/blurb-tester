@@ -10,7 +10,7 @@
 
 ## SCENE 1: The Old Physician
 
-Nefertari's hands had stopped being steady sometime in her seventy-eighth year, and she'd spent the two years since pretending not to notice. A physician who couldn't hold a scalpel. A woman who'd encoded a three-thousand-year experiment into human blood, standing on a temple terrace in Byblos, watching morning light turn the harbor to bronze and gold while her fingers trembled against the stone balustrade.
+Nefertari's hands had stopped being steady sometime in her seventy-eighth year, and she'd spent the two years since pretending not to notice. A physician who couldn't hold a scalpel. A woman who'd encoded a three-thousand-year experiment into human blood, standing on a temple terrace in Byblos, watching morning light turn the harbor to bronze and gold — cedar-hulled merchant galleys at anchor, fishermen mending nets on the stone quay, the smell of salt and pine pitch rising from the boatyards — while her fingers trembled against the stone balustrade.
 
 Below, the monthly gathering was assembling. Twenty-three families now, spanning four generations. She counted the faces the way she'd once counted pulses — automatically, cataloguing who was present, who was absent, whose children were showing the early signs.
 
@@ -46,13 +46,13 @@ She kept it short. The Sidon archive fire — ten years ago, everything lost, ex
 
 After the teaching, families dispersed. Nefertari remained on the bench, too weary to stand. Deborah sat beside her.
 
-"Tell me about my mother," the girl said quietly. "The parts you haven't written down."
+"Tell me about my mother." The girl's voice was barely there. "The parts you haven't written down."
 
 Nefertari's throat tightened. Tirzah had been dead five years now. A fever, swift and merciless — the same kind of fever that had killed Tausret, as if the blood remembered which diseases to be vulnerable to.
 
 "Your mother chose her own name at twelve years old," Nefertari said. "Standing in the Cyprus archive, covered in sea salt and dust, and I asked her what she wanted to be called. She said *Tirzah.* The one who brings delight." She closed her eyes. "She could have hated all of it. The memory. The running. Me, for putting it in her blood. Instead she turned it into purpose and taught your father to do the same."
 
-"I dream of Pi-Ramesses burning," Deborah whispered. "But Mother taught me to ask *why* it burned."
+"I dream of Pi-Ramesses burning," Deborah said. "But Mother taught me to ask *why* it burned."
 
 Nefertari squeezed her hand. Four generations. Purpose instead of trauma. That was the proof no document could capture.
 
@@ -66,11 +66,11 @@ The bronze disc rested where it had been placed decades ago: sealed in cedar, wr
 
 But today felt right.
 
-"When I die," Nefertari said, voice echoing in the stone chamber, "this key must remain untouched for generations. Centuries, perhaps. Only when a defensive carrier *needs* it—truly needs it—should it be moved."
+"When I die," Nefertari said, voice echoing in the stone chamber, "this key must remain untouched for generations. Centuries, perhaps. Only when one of ours *needs* it—truly needs it—should it be moved."
 
 The priestess nodded. "Our order will guard it. The knowledge passes mother to daughter, priestess to initiate. We've written nothing down—only oral tradition, as you taught us."
 
-"Good." Nefertari knelt slowly, joints protesting, and placed her palm on the cedar box. Through the wood, she felt the bronze's warmth — or imagined she did. Forty-seven years since she'd forged it. The metal remembered heat longer than anything else she'd made.
+"Good." Nefertari knelt, joints protesting, and placed her palm on the cedar box. Through the wood, she felt the bronze's warmth — or imagined she did. Forty-seven years since she'd forged it. The metal remembered heat longer than anything else she'd made.
 
 She looked up at Deborah and saw four generations compressed into one face — Tausret's sharpness, Tirzah's stubbornness, and something new that belonged only to this girl.
 
@@ -80,7 +80,7 @@ She looked up at Deborah and saw four generations compressed into one face — T
 
 ## SCENE 5: The Physician's Final Scroll
 
-That night, in her small room overlooking Byblos harbor, Nefertari pulled a fresh papyrus toward her.
+That night, in her small room overlooking Byblos harbor — a reed mat on a stone floor, a single oil lamp of Phoenician clay shaped like a cupped hand — Nefertari pulled a fresh papyrus toward her and dipped her reed pen into the ink cake she'd ground that morning, mixing soot with gum arabic and a few drops of water.
 
 Her hands shook so badly the first line came out jagged, the reed pen skipping across the grain. She steadied one wrist with the other and tried again.
 
@@ -110,17 +110,17 @@ Nefertari woke to fever. The same fever she'd diagnosed in Tausret a lifetime ag
 
 Deborah was beside her when consciousness returned. The girl's face was calm, trained not to panic.
 
-"How long?" Nefertari whispered.
+"How long?" Nefertari managed.
 
 "Three days, perhaps four." Deborah's voice was steady. "I've sent word to the families. They're gathering."
 
 "Good." Nefertari tried to sit up, failed. "Help me to the terrace. I want to see the harbor."
 
-Together they moved slowly—the dying physician and the seventeen-year-old carrier who would lead the network next. Outside, dawn was breaking over Byblos. Ships in the harbor, cedar-planked and bronze-nailed, ready to carry goods across the Mediterranean. The same routes that had once carried refugees now carried trade, knowledge, stability.
+Together they moved—the dying physician and the seventeen-year-old carrier who would lead the network next. Outside, dawn was breaking over Byblos. Ships in the harbor, cedar-planked and bronze-nailed, ready to carry goods across the Mediterranean. The same routes that had once carried refugees now carried trade, knowledge, stability.
 
 Below, the courtyard was filling. Word had spread faster than she'd expected. Families arriving from Tyre, Sidon, even Cyprus by overnight sail. They'd come to say farewell.
 
-"They love you," Deborah said softly.
+"They love you," Deborah said.
 
 Nefertari watched a young mother teaching her daughter to read pattern diagrams. *Would they know how to do that without me watching?* Forty-seven years and she'd never tested the theory. Never missed a gathering. Never let a decision leave her hands entirely.
 
@@ -168,7 +168,7 @@ Deborah leaned close, her hand on Nefertari's forehead. "Grandmother—"
 
 "He was wrong about everything," Nefertari whispered. "And he cared more than anyone I've ever known. And I loved him the way the lung loves air. Not because it chooses to. Because it was made that way."
 
-"Rest now," Deborah said softly. "Rest."
+"Rest now," Deborah said. "Rest."
 
 Nefertari's breathing slowed. Around her, the network began to hum. Not words. Just sound. A vibration of voices, four generations unified in frequency.
 
@@ -200,7 +200,7 @@ She stood before the gathering. Eighty-four people, waiting.
 
 Sarah, Generation 3, placed a hand on her shoulder. The gathered families murmured agreement — the sound of a practice continuing without a leader.
 
-In the hills above, a cedar tree marked an unmarked tomb, and the defensive network's first generation passed into memory.
+In the hills above, a cedar tree marked an unmarked tomb, and the network's first generation passed into memory.
 
 But the practice endured.
 
@@ -210,7 +210,7 @@ But the practice endured.
 
 **Thebes, Egypt — 1130 BCE**
 
-The message arrived at the Temple of Karnak on a morning when the Nile ran brown with flood silt. Khasekhem read it twice, then set it on the cedar table and pressed both palms flat against the wood.
+The message arrived at the Temple of Karnak on a morning when the Nile ran brown with the inundation silt that meant Akhet had begun. Outside, fellahin were already marking the flood line along their fields. Khasekhem read it twice in his chamber — walls painted with Osiris in his wrappings, a bronze mirror and razor on the washing stand, the shaved head and white linen kilt of a temple priest — then set it on the cedar table and pressed both palms flat against the wood.
 
 Nefertari was dead.
 
@@ -232,7 +232,7 @@ Khasekhem set down the stylus. "Master—"
 
 "Thirty-four years." Amenhotep's eyes were open but focused on something Khasekhem couldn't see. The lamplight caught the wetness on his face. Khasekhem had never seen the old man weep. Had not believed him capable of it. "Thirty-four years and I can still hear exactly how she said it. *Hesat.* Wrong vowel. Wrong word. Right woman." His hand pressed harder against the empty mat. "I chose this. I chose the temple and the breeding program and the keys and the long institutional patience of power. And I was right. I am *right.* The defensive network will scatter and fragment and my approach will persist through priesthoods and hierarchies that don't require love to function."
 
-His breathing changed then. Went shallow and searching — the particular rhythm of lungs looking for a pattern they'd lost decades ago. Khasekhem recognized it only later, years later, when he read the field reports about defensive carriers who breathed in synchronization with people they'd never met. At the time he thought it was simply a dying man's body losing its rhythm.
+His breathing changed then. Went shallow and searching — the particular rhythm of lungs looking for a pattern they'd lost decades ago. Khasekhem recognized it only later, years later, when he read the field reports about those in the defensive bloodline who breathed in synchronization with people they'd never met. At the time he thought it was simply a dying man's body losing its rhythm.
 
 "But she was right too," Amenhotep whispered. "About the one thing that mattered. You can't breed what we had. You can't institutionalize it. You can't put it in a registry or encode it in bronze." His hand on the empty mat curled into a fist, then opened again, fingers searching. "The way she held a grinding stone. The way she read a patient's pulse with two fingers and her eyes closed and her lips moving — counting, always counting. The way she smelled of copper dust and cassia in the mornings. Twenty years. I had twenty years of her and I let her walk away because I believed — I *believe* — that control preserves more lives than compassion."
 
@@ -248,7 +248,7 @@ He'd also witnessed something in the dying man's final hours that no amount of i
 
 Now he was fifty. And the woman who had been the defensive network's architect was gone.
 
-He stood and walked to the window overlooking the temple complex. Karnak in morning light: pylons casting geometric shadows, obelisks catching sun, the sacred lake reflecting a sky empty of clouds. Twelve trained carriers worked within these walls, embedded in the priesthood as physicians, scribes, astronomers. Another eight served in Memphis and Heliopolis. Twenty carriers total, each one documented in the Blood Register, each one's lineage traceable through two generations of deliberate pairing.
+He stood and walked to the window overlooking the temple complex. Karnak in morning light: pylons casting geometric shadows over the avenue of ram-headed sphinxes, obelisks catching sun, the sacred lake reflecting a sky empty of clouds. Priests in white linen moved between the hypostyle hall's forest of painted columns — 134 of them, each thick as four men — carrying offerings of bread, beer, and roasted goose to Amun-Ra's inner sanctuary. Twelve of his people worked within these walls, embedded in the priesthood as physicians, scribes, astronomers. Another eight served in Memphis and Heliopolis. Twenty in all, each one documented in the Blood Register, each one's lineage traceable through two generations of deliberate pairing.
 
 Centralized. Disciplined. Obedient.
 
@@ -284,7 +284,7 @@ But Amenhotep had been wrong about time. He'd had forty years of it and had spen
 
 Khasekhem would not make the same mistake.
 
-He finished the dispatch, sealed it with the temple mark, and set it beside the map. Outside, the morning's ritual procession was forming in the courtyard — priests in white linen, carrying offerings to Amun-Ra. His carriers among them, indistinguishable from their colleagues. Faithful servants of the temple. Faithful servants of a deeper purpose the temple would never know.
+He finished the dispatch, sealed it with the temple mark, and set it beside the map. Outside, the morning's ritual procession was forming in the courtyard — priests in white linen, carrying offerings to Amun-Ra. His people among them, indistinguishable from their colleagues. Faithful servants of the temple. Faithful servants of a deeper purpose the temple would never know.
 
 The architect was gone. The defensive network would discover what Amenhotep had always known: that compassion without authority was sentiment, and sentiment did not survive the passage of centuries.
 

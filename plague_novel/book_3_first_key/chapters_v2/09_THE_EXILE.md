@@ -81,15 +81,15 @@ She'd looked at her infant daughter, sleeping peacefully. Generation 24. Already
 
 **Now: The march begins**
 
-Rachel walked in a column of ten thousand exiles.
+Rachel walked in a column of ten thousand exiles — women in dust-grayed head coverings, men still wearing the undyed wool tunics of Judean hill country, children clutching whatever they'd grabbed before the soldiers came: a clay doll, a wooden comb, a scrap of woven blanket. Babylonian guards flanked the column in bronze scale armor, iron-tipped spears resting against their shoulders, their curled beards oiled in the Mesopotamian fashion. The road east crossed the dry wadis and limestone terraces of the Shephelah, then descended into the flat Syrian steppe — scrub brush, cracked earth, a horizon so wide it made Rachel's chest ache.
 
-Behind them, Jerusalem burned. The Temple—Solomon's Temple, standing for centuries—was ash. The palace was destroyed. The city walls were breached. Everything that made Judah a kingdom was gone.
+Behind them, Jerusalem burned. The Temple — Solomon's Temple, its cedar beams from Lebanon and gold-leafed walls standing for centuries — was ash. The palace was destroyed. The city walls were breached. Everything that made Judah a kingdom was gone.
 
 But Rachel carried something Nebuchadnezzar couldn't burn.
 
 A woman walked beside her. Esther. Another carrier, Generation 22, older than Rachel by fifteen years. Her children were grown, walking somewhere else in the column.
 
-"The old dreams are overwhelming," Esther said quietly. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit—every burning city our bloodline ever witnessed. It's all active right now."
+"The old dreams are overwhelming," Esther said. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit—every burning city our bloodline ever witnessed. It's all active right now."
 
 "I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage traveling downward through her body like something physical. She'd held it together for three days—organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
 
@@ -107,7 +107,7 @@ Centuries of carriers had felt this. None of them knew it was a woman named Nefe
 
 "What's the point of seeing it coming if you can't stop people from walking into it?"
 
-Esther was quiet for a long time. Then: "What do you see now?"
+Esther said nothing for a while. Then: "What do you see now?"
 
 Rachel looked at the burning city behind them, the armed Babylonian guards around them, the thousands of displaced Judeans marching toward an unknown future.
 
@@ -119,7 +119,7 @@ Rachel looked at the burning city behind them, the armed Babylonian guards aroun
 
 The city of Babylon made Jerusalem look like a village.
 
-Rachel stood at the Ishtar Gate, staring at blue-glazed brick walls that seemed to touch the sky. The city was massive—hundreds of thousands of people, multiple temples, a palace complex larger than all of Jerusalem. This was empire. This was what centralized power looked like when it worked.
+Rachel stood at the Ishtar Gate, staring up at blue-glazed brick walls taller than any building in Judah, their surfaces covered in relief lions and aurochs molded in yellow and white against the cobalt glaze. The Processional Way stretched beyond it — lined with more glazed-brick lions, their manes picked out in gold, the road itself paved in red and white limestone. The city smelled of river mud and sesame oil and bitumen — the black pitch Babylonians used to seal everything from rooftops to canal boats. Hundreds of thousands of people filled streets wider than Jerusalem's plazas, merchants hawking dates and barley beer from mudbrick stalls, temple priests in tall conical hats processing toward the ziggurat that loomed above the rooftops like a stepped mountain. This was empire. This was what centralized power looked like when it worked.
 
 And somewhere in this city, the Order—Amenhotep's offensive network—had representatives.
 
@@ -139,9 +139,9 @@ But the defensive network had a different plan.
 
 Thirty-two members of the defensive network had survived the march to Babylon.
 
-They met in a borrowed room, crowded, speaking quietly. Around them, ten thousand Judean exiles tried to rebuild lives from nothing.
+They met in a borrowed room — mudbrick walls sealed with bitumen plaster, reed mats on a packed-earth floor, a single clay oil lamp shaped like a clenched fist throwing unsteady light. Around them, ten thousand Judean exiles tried to rebuild lives from nothing.
 
-"What about the Order?" Esther asked. "I've seen their carriers here. Egyptian priests working for Babylon. They're advising the empire on population management."
+"What about the Order?" Esther asked. "I've seen their people here. Egyptian priests working for Babylon. They're advising the empire on population management."
 
 "Of course they are," Rachel said. "This is exactly what offensive mode is designed for. Control who survives collapse through institutional power."
 
@@ -207,11 +207,11 @@ She crossed the exile quarter in bare feet, moving through dark streets where ot
 
 The network met in Esther's quarters. It always met in Esther's quarters — the older woman kept her lamp burning through the night, a habit she said was practical and Rachel knew was fear of the dark, of the ancestral dreams that came thicker without light.
 
-Three others were already there. Carriers who couldn't sleep. Carriers whose blood wouldn't let them rest when there was work to be done.
+Three others were already there. Others who couldn't sleep. Whose blood wouldn't let them rest when there was work to be done.
 
 Rachel sat down. Took the clay tablet someone handed her — a list of exile families, their skills, their connections, their capacity to carry knowledge forward.
 
-"The Egyptian branch sent word," Esther said quietly. "Phoenician traders carried it. The Pattern Eye is still safe in Byblos."
+"The Egyptian branch sent word," Esther said. "Phoenician traders carried it. The Pattern Eye is still safe in Byblos."
 
 Rachel nodded. Made a mark on the tablet. Moved to the next item.
 
@@ -229,7 +229,7 @@ By the time Leah turned five, Rachel had started taking her to the market distri
 
 Not to buy. To watch.
 
-"What do you see?" Rachel asked, crouching beside her daughter as Judean exiles traded with Babylonians, Persians, Egyptians, Phoenicians. Multiple cultures mixing in the stalls, adapting, creating hybrid practices that would have horrified the temple purists back in Jerusalem.
+"What do you see?" Rachel asked, crouching beside her daughter as Judean exiles traded with Babylonians, Persians, Egyptians, Phoenicians. A Babylonian grain merchant weighed barley on a bronze balance using duck-shaped stone weights. A Phoenician dye trader haggled over murex-purple cloth, his fingers stained the permanent red-violet of the trade. A Judean potter sold oil lamps shaped in the old Jerusalem style — four-spouted, pinched clay — to a Persian buyer who turned one over with genuine curiosity. Multiple cultures mixing in the stalls, adapting, creating hybrid practices that would have horrified the temple purists back in Jerusalem.
 
 Leah studied the merchants with an intensity that made passing traders smile at the serious little girl. "They're trading across groups. Judeans selling to Babylonians. Babylonians buying from Egyptians. Everyone connected."
 
@@ -257,7 +257,7 @@ Not ancestral dreaming — an ordinary childhood fever, the kind that needed coo
 
 The man was already at the river's edge.
 
-She recognized him immediately — the Egyptian from the plaza, weeks ago. The one who'd tracked her with eyes that processed crowds the way she did. He stood ankle-deep in the Euphrates, filling a clay vessel with the careful deliberation of someone who knew exactly how waterborne illness spread.
+She recognized him immediately — the Egyptian from the plaza, weeks ago. The one who'd tracked her with eyes that processed crowds the way she did. He stood ankle-deep in the Euphrates where the brown water moved slow and heavy between mudflats thick with tamarisk scrub, filling a clay vessel with the careful deliberation of someone who knew exactly how waterborne illness spread.
 
 He looked up. Recognized her.
 
@@ -341,11 +341,11 @@ Generation 17, offensive network, he'd traveled from Memphis in eleven days when
 
 Since Khepri stood at Adoniram's funeral in 967 BCE and sent his report south: *Pattern Eye confirmed beneath eastern colonnade, Solomon's Temple, sealed in foundation vault. Defensive network aware of our interest. Retrieval requires either infiltration of priesthood or destruction of structure.*
 
-Generations of Order leadership had debated the approach. Infiltration had failed -- the defensive network's surveillance of the Temple was relentless, carriers positioned inside the priesthood specifically to guard the foundation access. Sixteen attempts over generations. Sixteen failures. The defensive carriers rotated shifts like soldiers on a wall, never leaving the lower foundations unmonitored.
+Generations of Order leadership had debated the approach. Infiltration had failed -- Nefertari's people had made the Temple impenetrable, their own positioned inside the priesthood specifically to guard the foundation access. Sixteen attempts over generations. Sixteen failures. They rotated shifts like soldiers on a wall, never leaving the lower foundations unmonitored.
 
 But now the Temple was burning.
 
-Sethnakht picked his way through debris that was still hot enough to scorch sandal leather. Fallen roof beams. Shattered ceremonial vessels, gold warped by heat. The smell of cedar smoke and something else -- something older, mineral, the limestone itself fracturing from thermal stress.
+Sethnakht picked his way through debris that was still hot enough to scorch sandal leather. Fallen roof beams of Lebanon cedar, their carved cherubim faces blackened beyond recognition. Shattered ceremonial vessels — golden lampstands twisted by heat, bronze incense shovels half-melted, the remains of the showbread table crushed beneath a fallen column drum. The smell of cedar smoke and something else — something older, mineral, the limestone ashlar blocks themselves fracturing from thermal stress, spilling pale dust into air already thick with ash.
 
 He found the eastern colonnade. Or what remained of it. The columns had fallen inward, massive drums of carved stone scattered across the foundation floor. The geometric patterns Khepri had described -- the unusual spacing that marked the vault location -- were barely visible beneath soot and rubble.
 
@@ -407,7 +407,7 @@ Sethnakht sealed the message and gave it to a runner heading south to Memphis. T
 
 Respect.
 
-Not for the defensive network's carriers. For their architect. For the woman who, centuries dead, had just outmaneuvered generations of offensive planning by encoding a single principle into her network's operating doctrine: *When centralized power comes for you, become something it cannot grasp.*
+Not for Nefertari's people. For their architect. For the woman who, centuries dead, had just outmaneuvered generations of offensive planning by encoding a single principle into her network's operating doctrine: *When centralized power comes for you, become something it cannot grasp.*
 
 ---
 

@@ -8,9 +8,9 @@
 
 Tirzah's son was seven years old when he first saw the pattern.
 
-They'd walked to the hillside after the morning meal. Tirzah wore the clothing of a Canaanite farmer's wife now—wool tunic, linen head covering, leather sandals. Twenty-two years since fleeing Egypt and she'd almost forgotten what it felt like to wear pleated linen and faience jewelry. Almost.
+They'd walked to the hillside after the morning meal — flatbread torn from the tabun oven, goat cheese, a handful of olives pressed from last season's harvest. Tirzah wore the clothing of a Canaanite farmer's wife now — undyed wool tunic belted with a woven sash, linen head covering, leather sandals worn thin at the heel from fieldwork. Twenty-two years since fleeing Egypt and she'd almost forgotten what it felt like to wear pleated linen and faience jewelry. Almost.
 
-Below them, terraced fields where drought-resistant barley grew in careful rows. The Canaanite hill country had recovered somewhat since the worst of the collapse—population stabilizing, settlements taking root, trade routes cautiously re-emerging. But everyone who'd survived knew it could collapse again.
+Below them, terraced fields where drought-resistant barley grew in careful rows. The Canaanite hill country had recovered somewhat since the worst years—population stabilizing, settlements taking root, trade routes cautiously re-emerging. But everyone who'd survived knew it could happen again.
 
 "What do you see?" Tirzah asked her son.
 
@@ -32,7 +32,7 @@ She hadn't chosen to be the one teaching this. She'd been twelve years old, a pr
 
 She swallowed it. She always swallowed it.
 
-"Watch," she said. "The soil, the crops, the harvest—it all responds to what you do to it. Overuse creates depletion. Rotation creates renewal. Every action circles back. That's what you're seeing."
+"Watch," she said. "The soil, the crops, the harvest—it all responds to what you do to it. Overuse creates depletion. Rotation creates renewal. Every action returns to its source. That's what you're seeing."
 
 "Good. What else?"
 
@@ -46,7 +46,7 @@ There it was. Not just observation—*seeing the why beneath the what.*
 
 Tirzah knelt beside her son. "Do you remember the stories I've told you? About your grandmother Tausret? About Egypt before we came here?"
 
-"The collapse," Ephraim said quietly. "When the cities burned and everyone fled."
+"The collapse," Ephraim said. His voice was small. "When the cities burned and everyone fled."
 
 "Yes. And do you know why it happened?"
 
@@ -64,7 +64,7 @@ Tirzah thought of Amenhotep, wherever he was now. Egypt, probably. Building his 
 
 "I believe it can," she said. "But only if we recognize it in time. That's why you need to learn this. Not just with your mind—with your blood. With the memory you inherited from Tausret."
 
-Ephraim was quiet for a long moment.
+Ephraim said nothing for a while.
 
 Then: "Does it hurt? The seeing?"
 
@@ -100,21 +100,21 @@ She stood and brushed the dirt from her tunic. "Come. There's more to learn befo
 
 The defensive network had grown slowly over the years since Egypt.
 
-Tirzah sat now with five others—refugees and survivors who'd found their way to the Canaanite hill country after the collapse. They gathered monthly, these survivors. Sharing knowledge. Teaching the next generation. Building practices that could endure even if institutions failed.
+Tirzah sat now with five others in her stone house — oil lamps flickering in wall niches, a loom standing idle in the corner, the smell of lentil stew drifting from the cooking hearth. Refugees and survivors who'd found their way to the Canaanite hill country after the collapse. They gathered monthly at the new moon, these survivors. Sharing knowledge over bread and wine. Teaching the next generation. Building practices that could endure even if institutions failed.
 
-The Phoenician trader spoke—older now, graying, but still sharp. He was studying trade reports on the table, and his expression had changed.
+The Phoenician trader spoke — older now, graying, hands still stained with the murex-shell dye of his profession. He was studying trade reports scratched on potsherds, and his expression had changed.
 
-"Grain prices in Sidon," he said. "Rising faster than drought conditions explain. Could be merchant hoarding. Could be early collapse pattern—resource anxiety triggering selfishness."
+"Grain prices in Sidon," he said. "Rising faster than drought conditions explain. Could be merchant hoarding. Could be the start of something worse—resource anxiety triggering selfishness."
 
 Recognition flashed through her. The trader had no blood memory, no bloodline connection to Tausret. But years of training had taught him to read the signs. The defensive network wasn't just about inheritance—it was about *teaching* the way of seeing.
 
-"You've learned well," Tirzah said quietly.
+"You've learned well," Tirzah said.
 
-The Phoenician looked embarrassed. "I'll never see what you see. No ancestral dreams. No inherited instinct. But you taught me to pay attention. To look for how actions circle back to their source. To recognize when small problems connect into bigger collapse."
+The Phoenician looked embarrassed. "I'll never see what you see. No ancestral dreams. No inherited instinct. But you taught me to pay attention. To trace cause and consequence. To spot when small problems connect into something larger."
 
 "What about your son?" the Ugarit scribe asked Tirzah. "Is he showing signs?"
 
-"Yes." Pride and sadness moved through her together. "He sees the connections. Recognizes how changes circle back through systems. He's having the ancestral dreams—seeing Pi-Ramesses through Tausret's eyes."
+"Yes." Pride and sadness moved through her together. "He sees the connections. Reads how changes ripple through systems. He's having the ancestral dreams—seeing Pi-Ramesses through Tausret's eyes."
 
 "That's early. You didn't start having those until you were twelve."
 
@@ -176,7 +176,7 @@ She stepped into the circle of arguing elders.
 
 They turned to her. Tirzah—the refugee woman from Egypt, healer and midwife, generally respected but not powerful. What did she know about trade policy?
 
-"If we hoard now, we collapse faster," Tirzah continued. "The coastal traders haven't come because Sidon's probably having the same conversation—whether to keep surplus or trade it. If we hoard, they'll hoard. If they hoard, the network breaks. If the network breaks, we're all isolated. Isolated villages can't survive drought or invasion or crop failure."
+"If we hoard now, we break faster," Tirzah continued. "The coastal traders haven't come because Sidon's probably having the same conversation—whether to keep surplus or trade it. If we hoard, they'll hoard. If they hoard, the network breaks. If the network breaks, we're all isolated. Isolated villages can't survive drought or invasion or crop failure."
 
 "That's speculation," one elder said.
 
@@ -200,9 +200,9 @@ Tirzah pushed forward. "Send the grain to the temple anyway. I'll go to the coas
 
 Tirzah returned from the coast with the traders.
 
-The problem had been simple: Sidon was having political instability. New leadership paranoid about surplus leaving the city. Classic early-collapse thinking.
+The problem had been simple: Sidon was having political instability. New leadership paranoid about surplus leaving the city. Classic fear-driven hoarding.
 
-Tirzah had shown them how hoarding accelerated collapse. How cooperation extended survival. How their "local" decision had regional implications they weren't seeing. The Sidonian merchants listened politely. Then asked what guarantee a hill country healer could offer.
+Tirzah had shown them how hoarding accelerated the unraveling. How cooperation extended survival. How their "local" decision had regional implications they weren't seeing. The Sidonian merchants listened politely. Then asked what guarantee a hill country healer could offer.
 
 She'd reached into the linen pouch she wore against her chest and set it on the table. Her mother's faience collar — blue-green glaze, gold clasps, the cartouche of Tausret barely visible under twenty-two years of wear. The last piece of Egypt she owned. The last proof she'd been anyone before she was a refugee farmer grinding grain in Canaan.
 
@@ -274,9 +274,9 @@ Twenty-two years, and the priestesses of Ba'alat Gebal had held their silence. A
 
 He sealed the instructions with temple wax and set them aside for the morning courier.
 
-Outside his window, Memphis hummed with the ordinary business of an empire recovering from collapse. Markets reopening. Trade routes cautiously extending. Children born into a world that had no memory of the catastrophe that had nearly ended everything.
+Outside his window, Memphis hummed with the ordinary business of an empire stitching itself back together. Markets reopening. Trade routes cautiously extending. Children born into a world that had no memory of the catastrophe that had nearly ended everything.
 
-That was the problem with Nefertari's philosophy. She believed in teaching people to recognize collapse. But people didn't want to recognize collapse. They wanted to forget it. Every generation that grew up in stability would feel the blood memory of catastrophe as irrelevant anxiety — a phantom inheritance from ancestors whose suffering seemed increasingly abstract.
+That was the problem with Nefertari's philosophy. She believed in teaching people to see the fall coming. But people didn't want to see it. They wanted to forget it. Every generation that grew up in stability would feel the inherited memory of catastrophe as irrelevant anxiety — a phantom inheritance from ancestors whose suffering seemed increasingly abstract.
 
 His approach didn't require people to care. It required them to obey. And obedience, unlike compassion, could be engineered.
 

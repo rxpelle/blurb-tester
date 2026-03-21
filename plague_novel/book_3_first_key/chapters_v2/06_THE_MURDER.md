@@ -25,7 +25,7 @@
 
 The cedar smelled like home.
 
-Shiphra bat-Hiram ran her hand along the massive beam, freshly arrived from Tyre's forests. Twenty cubits long, straight-grained, perfect for the Temple's northern colonnade. She read the wood like a physician reads a pulse—straight growth meant stable conditions, consistent water, no disease stress, proper forest management. The cedar carried information. Everything did, if you knew how to read the signs. Her father's loggers had chosen well.
+Shiphra bat-Hiram ran her hand along the massive beam, freshly arrived from Tyre's forests on ox-drawn sledges, the bronze-fitted joints still bright where the Phoenician carpenters had drilled them. Twenty cubits long, straight-grained, perfect for the Temple's northern colonnade. The construction site hummed around her — the ring of bronze chisels on limestone, the rasp of stone saws cutting ashlar blocks, corvée laborers hauling dressed stone up wooden scaffolding while Phoenician master craftsmen directed from below, their bare heads sunburned dark above embroidered linen tunics. She read the wood like a physician reads a pulse—straight growth meant stable conditions, consistent water, no disease stress, proper forest management. The cedar carried information. Everything did, if you knew how to read the signs. Her father's loggers had chosen well.
 
 "Magnificent, isn't it?"
 
@@ -83,9 +83,9 @@ But Adoniram shouldn't be having those dreams. Unless—
 
 Shiphra felt her heart tighten. He was already thinking like a defensive carrier—about long-term preservation, about teaching forward, about systems that outlast individuals. That's what made him so dangerous—someone who could have been saved.
 
-*He's activating. Nine generations since Tausret, and diluted carriers are starting to emerge.*
+*He's activating. Nine generations since Tausret, and diluted bloodlines are starting to surface.*
 
-Shiphra had heard reports from the defensive network. Scattered bloodlines—cousins of cousins, distant branches that had split off generations ago—occasionally produced children with faint blood memory. Most never understood what they were experiencing. They became prophets, mystics, philosophers, attributing their visions to gods or madness.
+Shiphra had heard reports. Scattered branches—cousins of cousins, lines that had split off generations ago—occasionally produced children with faint blood memory. Most never understood what they were experiencing. They became prophets, mystics, philosophers, attributing their visions to gods or madness.
 
 Adoniram might be one of them.
 
@@ -101,7 +101,7 @@ Shiphra froze. "What Egyptian priest?"
 
 The Egyptian arrived with the Queen of Sheba's delegation a week earlier. Trade envoys from the south, officially—Arabia, Ethiopia, the Horn of Africa.
 
-But Shiphra had felt the offensive carrier the moment he entered Jerusalem. Not through anything mystical — through observation. The way he positioned himself at gatherings where he could see exits and control points. The way his eyes tracked power structures instead of system stress. She recognized the training. Same blood, different philosophy.
+But Shiphra had felt Amenhotep's man the moment he entered Jerusalem. Not through anything mystical — through observation. The way he positioned himself at gatherings where he could see exits and control points. The way his eyes tracked power structures instead of system stress. She recognized the training. Same blood, opposite philosophy.
 
 His name was Khepri. Egyptian, Generation 9. She'd spotted him three days ago talking to construction workers in the Court of the Gentiles, mapping the Temple project through casual conversation.
 
@@ -123,7 +123,7 @@ Because Khepri carried the same inheritance. Amenhotep's bloodline dreamed the s
 
 *He's recruiting him.*
 
-Shiphra calculated quickly. If Adoniram joined the offensive network, they'd have an architect inside Solomon's Temple. Someone who could reverse-engineer the defensive key locations. Someone who was already noticing the "unusual" foundation patterns.
+Shiphra calculated quickly. If Adoniram joined Amenhotep's side, they'd have an architect inside Solomon's Temple. Someone who could reverse-engineer the defensive key locations. Someone who was already noticing the "unusual" foundation patterns.
 
 But if she revealed the truth—told him about the Genesis Protocol, about defensive and offensive modes, about the Pattern Eye hidden beneath his feet—she'd be bringing an untrained, already-compromised carrier into centuries of defensive work.
 
@@ -141,7 +141,7 @@ Not yet, then. But Khepri was patient. He'd wait. Build trust. Then start asking
 
 He studied her for a long moment. "You know something. About the dreams. About what they mean." It wasn't a question.
 
-Shiphra felt the weight of choice settling onto her shoulders. Tell him nothing, and he'd keep seeking answers—probably from Khepri. Tell him everything, and risk the offensive network learning through him. Recruit him halfway, and create a carrier who knew just enough to be dangerous.
+Shiphra felt the weight of choice settling onto her shoulders. Tell him nothing, and he'd keep seeking answers—probably from Khepri. Tell him everything, and risk the other side learning through him. Recruit him halfway, and create someone who knew just enough to be dangerous.
 
 Or—
 
@@ -167,7 +167,7 @@ And yesterday, she'd seen Khepri again. Talking to Adoniram in the market. The c
 
 The Pattern Eye—one of Nefertari's seven master keys—could amplify the seeing, let carriers access ancestral knowledge more directly. Its bronze-and-obsidian construction somehow resonated with the carrier's own blood, bringing ancestral memories to conscious clarity. With it, defensive carriers could compare current patterns to centuries of encoded collapse recognition, seeing breakdown cascades earlier. But in offensive hands, it became a targeting tool: identify valuable populations, engineer their survival, let the rest die efficiently.
 
-If Amenhotep's network found it, centuries of distributed knowledge would be compromised.
+If the other side found it, centuries of distributed knowledge would be compromised.
 
 Shiphra knelt beside the hidden chamber. The opening sat beneath what would become the eastern foundation's central column. She'd designed it perfectly—sealed stone, geometric markers, accessible only to someone who knew the encoding system.
 
@@ -195,7 +195,7 @@ She could tell him everything — recruit him, hope his loyalty outweighed Khepr
 
 Or she could remove him from the equation entirely.
 
-Nefertari's voice echoed in the inheritance: *Save everyone we can.* But Nefertari had never watched an offensive carrier recruit a diluted carrier who was already standing above hidden knowledge. Had never faced losing six centuries of work because she couldn't bring herself to make one terrible choice.
+Nefertari's voice echoed in the inheritance: *Save everyone we can.* But Nefertari had never watched the other side recruit someone who was already standing above hidden knowledge. Had never faced losing six centuries of work because she couldn't bring herself to make one terrible choice.
 
 Shiphra looked at Adoniram — brilliant, kind, thoroughly compromised — and made her calculation.
 
@@ -277,7 +277,7 @@ Shiphra watched them lower Adoniram into the ground. A good man. A skilled archi
 
 Instead, she'd chosen control. Chosen to manage who survived. Chosen exactly what Amenhotep would have chosen.
 
-The Pattern Eye was safe. The Temple's foundation was completed two months later. The key remained hidden for centuries, exactly as planned.
+The key was safe. The Temple's foundation was completed two months later. The key remained hidden for centuries, exactly as planned.
 
 But in Shiphra's bloodline, the encoding had already begun. The hand on the rope. The stone falling. The face. Every carrier in her line would dream it, and every one would wake with the same question she couldn't answer: *Was it worth it?*
 
@@ -307,7 +307,7 @@ She looked at Shiphra with ancient eyes.
 
 "The moment you pulled that rope, you became what Amenhotep wanted. You chose control over prevention. You killed someone who could have been saved through knowledge."
 
-"He was already compromised," Shiphra said quietly. "The offensive network had him. Teaching him would have meant trusting him against their manipulation."
+"He was already compromised," Shiphra said. "The offensive network had him. Teaching him would have meant trusting him against their manipulation."
 
 "Perhaps. Perhaps you were right that he couldn't be saved." Deborah paused. "But you didn't even try. You calculated. You weighed one life against centuries of work. You made the efficient choice."
 
@@ -343,9 +343,9 @@ Khepri sailed from Jaffa three days after the funeral, on a Phoenician merchant 
 
 He stood at the stern rail as the coastline of Canaan receded into haze, and he let himself think clearly for the first time since the stone fell.
 
-The defensive carrier — Shiphra, Generation 9, architect — had killed a man to protect something hidden in the Temple foundation. Khepri had watched her at the funeral. Watched the careful stillness of her face, the way her hands stayed flat against her thighs as they lowered Adoniram into the ground. The posture of someone holding themselves together through discipline, not peace.
+Shiphra — Generation 9, architect, Nefertari's side — had killed a man to protect something hidden in the Temple foundation. Khepri had watched her at the funeral. Watched the careful stillness of her face, the way her hands stayed flat against her thighs as they lowered Adoniram into the ground. The posture of someone holding themselves together through discipline, not peace.
 
-He'd seen that posture before. In offensive carriers after their first strategic elimination. The body learning to absorb what the conscience couldn't metabolize.
+He'd seen that posture before. In his own people after their first strategic elimination. The body learning to absorb what the conscience couldn't metabolize.
 
 The Mediterranean sun hammered the deck. Sailors adjusted rigging, called to each other in the polyglot pidgin of Phoenician trade routes. Khepri barely heard them.
 
@@ -353,7 +353,7 @@ Adoniram had been useful — a diluted carrier with just enough activation to de
 
 But Shiphra had seen the trajectory. And she'd pulled a rope.
 
-*She killed him.* The thought had a specific weight, like a stone dropped into deep water. *The defensive network — Nefertari's precious prevention-through-compassion network — killed a man because he was getting close to something they wanted hidden.*
+*She killed him.* The thought had a specific weight, like a stone dropped into deep water. *Nefertari's precious prevention-through-compassion philosophy — and they killed a man because he was getting close to something they wanted hidden.*
 
 The Pattern Eye.
 
@@ -361,7 +361,7 @@ Khepri hadn't known it was there. His orders from the current network leadership
 
 But Adoniram's dreams had changed everything. The architect's blood memory — diluted, fragmented, uncontrolled — had been pointing directly at a specific location in the Temple foundation. These weren't random dreams of Bronze Age collapse but targeted dreams of a hidden object. A key.
 
-One of Nefertari's original seven. The offensive network possessed its three. The defensive network had hidden its four across the Mediterranean. Over two centuries, the offensive network had located two: the Memory Bridge in Cyprus and the Distribution Network fragments scattered across Canaanite hill country.
+One of Nefertari's original seven. Khepri's side possessed its three. Nefertari's people had hidden their four across the Mediterranean. Over two centuries, the offensive network had located two: the Memory Bridge in Cyprus and the Distribution Network fragments scattered across Canaanite hill country.
 
 The Pattern Eye's location had been unknown.
 
@@ -395,9 +395,9 @@ Khepri added a final section to his report.
 
 He sealed the papyrus with wax and stored it in the hidden compartment of his traveling chest. When the galley reached the Delta, he would transfer to a Nile barge and be in Memphis within ten days. Djehuti would have the report within the month.
 
-The offensive network now knew where a defensive key was hidden. They could not extract it — not without destroying the Temple and destabilizing the entire region. But they could watch. They could wait. Temples fell eventually. Empires shifted. What was politically sacrosanct in 967 BCE would not be sacrosanct forever.
+Khepri's side now knew where one of Nefertari's keys was hidden. They could not extract it — not without destroying the Temple and destabilizing the entire region. But they could watch. They could wait. Temples fell eventually. Empires shifted. What was politically sacrosanct in 967 BCE would not be sacrosanct forever.
 
-The offensive network had time. That was the one resource Amenhotep had built into its architecture from the beginning: the patience to think in centuries.
+They had time. That was the one resource Amenhotep had built into the architecture from the beginning: the patience to think in centuries.
 
 Khepri lay on his sleeping mat, listening to the creak of the hull and the slap of waves against Phoenician cedar. Above him, the stars that guided Mediterranean navigation wheeled slowly across the sky.
 

@@ -13,7 +13,7 @@
 
 Aristodemos stood with the three hundred Spartans at Thermopylae, knowing exactly how this would end.
 
-The pass stank of sulfur from the hot springs and the animal-hide smell of eight hundred shields stacked against the Phocian wall. Behind them, the sea crashed against rocks that had been worn smooth since before the first carrier drew breath. Ahead, the dust cloud of Xerxes' army darkened the eastern horizon like a second sunset.
+The pass stank of sulfur from the hot springs and the animal-hide smell of eight hundred bronze-faced aspis shields stacked rim-to-rim against the rebuilt Phocian wall. Behind them, the sea crashed against rocks that had been worn smooth since before the first carrier drew breath. Ahead, the dust cloud of Xerxes' army darkened the eastern horizon like a second sunset.
 
 The blood memory had shown him the pattern three nights ago: narrow pass, vastly superior enemy force, defensive position that couldn't hold indefinitely. Small force sacrificing itself to buy time for larger strategic victory.
 
@@ -23,7 +23,7 @@ King Leonidas didn't know he was reenacting an ancient pattern.
 
 But Aristodemos did. And when the memory surged -- the Bronze Age rear guards, the mountain passes, the smell of burning cities -- his left hand found the scar on his right forearm and pressed it, hard, thumb grinding into the ridge of tissue. An old wound from training. He pressed it the way a man bites down on leather during surgery: to anchor himself to the present, to keep the ancestral dead from pulling him under.
 
-"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The Spartan king knew Aristodemos' family carried something—centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the sight.
+"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king stood in his crimson phoinikis cloak, his long hair freshly oiled and combed in the Spartan fashion — warriors grooming for death the way other men groomed for festivals. Behind him, the Three Hundred sat around cook-fires eating melas zomos — the black broth of pork blood, vinegar, and salt that other Greeks found revolting — sharpening the leaf-bladed spear points that would meet Persian flesh at dawn. The Spartan king knew Aristodemos' family carried something—centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the sight.
 
 "The pass will hold for three days," Aristodemos said. "Maybe four if the weather favors us. Then the Persians will find the mountain path. They'll flank us. And everyone who stays will die."
 
@@ -33,7 +33,7 @@ Aristodemos hesitated. The defensive network's protocol was clear: carriers shou
 
 But he was also Spartan. And Sparta didn't retreat.
 
-"I'm Generation twenty-two," Aristodemos said quietly. "My daughter is eleven. Already showing activation signs. The bloodline continues even if I fall."
+"I'm Generation twenty-two," Aristodemos said. "My daughter is eleven. Already showing activation signs. The bloodline continues even if I fall."
 
 Leonidas studied him. "You could leave before the encirclement. Take a message to Athens. Coordinate the naval defense. Your strategic mind would serve Greece better alive than dead in this pass."
 
@@ -53,9 +53,9 @@ The Persian emissary who visited their camp the next morning wasn't Persian.
 
 Aristodemos recognized him immediately—the knowing that came with the seeing. The way the man's eyes scanned the defensive positions, cataloguing weaknesses. The systematic analysis of troop morale, supply lines, tactical options.
 
-Another carrier.
+One of them.
 
-Offensive network.
+Amenhotep's side.
 
 "King Leonidas," the emissary said in perfect Greek. "I bring terms from the Great King Xerxes. Surrender the pass, and your men go free. Resist, and you'll watch your army die slowly over the next week."
 
@@ -95,7 +95,7 @@ When Artemisia turned to leave, the scar on Aristodemos' forearm went cold. He p
 
 Artemisia had spent three weeks tracking him before she'd stepped out of the dark beside the pass. Now that the strange tactical clarity had faded — now that her mind was her own again — she needed to finish what she'd come for.
 
-"The compact says we don't interfere with each other," Aristodemos said quietly, eyes never leaving the Persian campfires in the distance. "Defensive and offensive networks run in parallel. We each prove our approach. No sabotage. No killing enemy carriers."
+"The compact says we don't interfere with each other," Aristodemos said, eyes never leaving the Persian campfires in the distance. "Defensive and offensive networks run in parallel. We each prove our approach. No sabotage. No killing enemy carriers."
 
 "Correct," Artemisia said. "Which is why I'm here."
 
@@ -119,13 +119,13 @@ Aristodemos finally looked at her. His jaw tightened. "You engineered Thermopyla
 
 Dawn broke over the pass. The first day of battle.
 
-The shield wall hit the Persian advance like a door slamming. The impact traveled through Aristodemos' arm, his shoulder, his spine -- bronze on wicker, Spartan oak against Persian reed, and the sound was nothing like what the poets described. Not a clash. A wet, compressive crunch, like stepping on a basket of crabs. Then the screaming started, and the smell -- copper and bowel and the hot-metal reek of bronze grinding on bronze.
+The shield wall hit the Persian advance like a door slamming. Aristodemos locked his aspis against the man on his left, lowered the horsehair crest of his Corinthian helmet until the world narrowed to a bronze slit, and drove forward. The impact traveled through his arm, his shoulder, his spine — bronze-faced oak against Persian wicker gerron, Spartan iron against Persian reed, and the sound was nothing like what the poets described. Not a clash. A wet, compressive crunch, like stepping on a basket of crabs. Then the screaming started, and the smell -- copper and bowel and the hot-metal reek of bronze grinding on bronze.
 
 Aristodemos fought alongside his brothers, the blood overlaying present combat with ancient patterns. He'd seen this before -- through ancestral eyes at Mycenaean palaces, through bloodline memories of the Sea Peoples' invasion. The pattern was always the same: die heroically or retreat strategically.
 
 And defensive carriers always chose death. That was the problem.
 
-He stood breathing hard between engagements, shield arm shaking, while he watched the Persian dead pile up at the narrowest point of the pass. The bodies made the footing treacherous. Flies were already settling. Somewhere in his bloodline, a carrier had stood in a pass just like this one, long before memory, and had not walked out.
+He stood breathing hard between engagements, his bronze greaves slick with blood, shield arm shaking, while he watched the Persian dead — Immortals in their embroidered robes, conscripts in leather caps — pile up at the narrowest point of the pass. The bodies made the footing treacherous. Flies were already settling. Somewhere in his bloodline, a carrier had stood in a pass just like this one, long before memory, and had not walked out.
 
 During a lull in the fighting, Leonidas found him. "The Persian fleet is moving toward Salamis. Your strategic advice about evacuating Athens—the council listened. The civilian population is escaping. Whatever happens here, we've saved thousands."
 
@@ -171,13 +171,13 @@ Then she saw him.
 
 Aristodemos stood on the deck of an Athenian trireme, coordinating the Greek fleet's movements with the old skill that only carriers possessed. He'd survived Thermopylae. Made it to Athens. Applied his strategic mind to the naval defense exactly as Leonidas had ordered.
 
-The defensive network had preserved its carrier. And in doing so, potentially saved Greece.
+The defensive network had preserved its own. And in doing so, potentially saved Greece.
 
 Artemisia felt something unexpected: not anger at losing the battle, but satisfaction at the experiment working as designed. Defensive mode adapted. Chose survival over martyrdom.
 
 But then the battle turned against her directly.
 
-A Greek trireme -- commanded by Aristodemos -- bore down on her flagship. The Spartan's eyes met hers across the waves, carrier recognizing carrier, and she saw his tactical calculation: sinking her ship would demoralize the Persian center. Kill her, and Xerxes lost his best naval advisor.
+A Greek trireme -- commanded by Aristodemos -- bore down on her flagship. The Spartan's eyes met hers across the waves, carrier recognizing carrier, and she saw his tactical calculation: sinking her ship would demoralize the Persian center. Kill her, and Xerxes lost his best admiral.
 
 Strategic victory demanded her death.
 
@@ -225,7 +225,7 @@ He didn't correct them. Didn't explain that Leonidas had ordered him south. Didn
 
 The carrier's curse. He could see the pattern with perfect clarity — survival served the network, served Greece, served the three-thousand-year experiment. And he could *feel* with equal clarity that none of that mattered. That he'd walked away from men who'd died for him. That every carrier in his bloodline for the next fifty generations would dream this walk and wake up reaching for a shield that wasn't there.
 
-His daughter, Damaris, eleven years old, already showing activation signs — she came home from lessons one afternoon with dirt on her chiton and her chin set at the angle he recognized as controlled fury.
+His daughter, Damaris, eleven years old, already showing activation signs — she came home from lessons one afternoon with dirt on her wool peplos and her chin set at the angle he recognized as controlled fury.
 
 "They said you ran," she told him. "Nikias's mother. She said you ran from the pass while real Spartans died."
 
@@ -245,7 +245,7 @@ Because a woman with a Persian accent had told him the experiment needed him ali
 
 But what he said to his daughter was: "Because your grandmother's grandmother's grandmother carried something in her blood that is more important than one battle. And I had to bring it home so I could give it to you."
 
-Damaris looked at him for a long time. Then she said, "They'll never stop calling you trembler."
+Damaris held his gaze. Then she said, "They'll never stop calling you trembler."
 
 "I know."
 
@@ -255,15 +255,15 @@ Damaris looked at him for a long time. Then she said, "They'll never stop callin
 
 She didn't say it was worth it. She was eleven, and already she understood that some prices didn't have values — they were just paid, and you lived with the receipt.
 
-That night — after Damaris had gone to bed, after the house was dark and the scratched letters on the doorpost had been scrubbed and re-scratched and scrubbed again — Aristodemos sat in his courtyard and pressed both thumbs into the scar until the pain in his forearm was louder than the shame. His thumb found the old wound and ground into it the way a drowning man grips a rope. The scar had been his anchor for years — press it, feel the present, keep the ancestral dead from pulling him under. But tonight the scar wasn't pulling him into old memories. It was pulling him into new ones. Into the dark walk south. Into the sound of three hundred men singing a war hymn that grew fainter with every step he took away from them.
+That night — after Damaris had gone to bed, after the house was dark and the scratched letters on the doorpost had been scrubbed and re-scratched and scrubbed again — Aristodemos sat in his courtyard, the stones still warm from the day's heat, the smell of thyme and dry earth rising from the garden wall and pressed both thumbs into the scar until the pain in his forearm was louder than the shame. His thumb found the old wound and ground into it the way a drowning man grips a rope. The scar had been his anchor for years — press it, feel the present, keep the ancestral dead from pulling him under. But tonight the scar wasn't pulling him into old memories. It was pulling him into new ones. Into the dark walk south. Into the sound of three hundred men singing a war hymn that grew fainter with every step he took away from them.
 
 He would go to Plataea. The next battle. He already knew this. He would fight in the front rank and he would not come back. Not because Sparta demanded it — because he couldn't live in this skin anymore. The carrier's protocol said *survive.* His blood said *survive.* But the trembler's shame was louder than both, and it would be louder than both for every generation that carried it, and the only way to silence it was to die so well that the dying drowned out the walking.
 
-The defensive network's council — twelve carriers from across the Mediterranean — met secretly in Athens the following week.
+The defensive network's council — twelve carriers from across the Mediterranean — met secretly in a rented house near the Athenian Agora the following week, seated on low wooden stools around a table of planked olive wood, clay cups of unmixed wine between them.
 
-"Artemisia survived," the Egyptian carrier reported. "Sank one of her own allies to avoid being killed by you. The offensive network values the compact."
+"Artemisia survived," the Egyptian member reported. "Sank one of her own allies to avoid being killed by you. The offensive network values the compact."
 
-The Phoenician carrier wanted to know how many deaths the compact was worth. The others took up the argument -- honor enemy carriers, or eliminate them while they had the chance.
+The Phoenician member wanted to know how many deaths the compact was worth. The others took up the argument -- honor enemy carriers, or eliminate them while they had the chance.
 
 Aristodemos thought about Leonidas. About Artemisia ramming her own ally.
 
@@ -289,7 +289,7 @@ Artemisia wrote back the same night. Two lines.
 
 *Artemisia, Halicarnassus*
 
-She sent it through the same channels. Then sat alone in her chamber overlooking the harbor, and noticed that her battle-sight had gone dull again. The doubled clarity she'd felt beside the pass at Thermopylae — the impossible sharpness, as if two strategic minds were working at once — had faded the moment she'd turned away from him, and it hadn't returned since.
+She sent it through the same channels. Then sat alone in her stone chamber overlooking the harbor of Halicarnassus, an oil lamp guttering on the cedar desk, and noticed that her battle-sight had gone dull again. The doubled clarity she'd felt beside the pass at Thermopylae — the impossible sharpness, as if two strategic minds were working at once — had faded the moment she'd turned away from him, and it hadn't returned since.
 
 She pressed her palm flat against the wooden desk. Wondered if the Spartan's old scar was aching tonight.
 
