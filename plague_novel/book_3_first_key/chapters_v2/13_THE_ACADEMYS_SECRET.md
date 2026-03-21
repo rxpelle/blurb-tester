@@ -15,13 +15,13 @@ Theophrastus knew exactly what Aristotle was. And wasn't.
 
 Twelve years he'd studied under the man — learning botany, logic, the systematic cataloguing of everything from animal locomotion to political constitutions. Twelve years watching the most brilliant mind in Athens dissect the world without once experiencing the dreams, the distant eyes, the compulsive left-hand reaching that marked the blood. Aristotle was the second great philosopher without the inheritance in three generations. First Socrates. Now him. Pure intellectual discipline arriving at the same insights the blood took centuries to encode.
 
-The defensive network had stopped being surprised by this. Xanthe had predicted it seventy years ago, when she'd studied with Plato and refused recruitment: philosophy schools were democratizing the knowledge. Making the old skill teachable without genetic privilege.
+Nefertari's side had stopped being surprised by this. Xanthe had predicted it seventy years ago, when she'd studied with Plato and refused recruitment: philosophy schools were democratizing the knowledge. Making the old skill teachable without genetic privilege.
 
 The network was becoming obsolete. Theophrastus had made peace with that.
 
 What he hadn't made peace with was the young man who entered the Lyceum courtyard on an afternoon in late Thargelion, trailing two Macedonian guards in broad-brimmed kausia hats and chlamys cloaks, and the unmistakable scent of horse sweat and ambition.
 
-Theophrastus felt it before he saw it. The carrier recognition — that deep-blood tremor when one inheritance met another across a crowded room. Not the vague suspicion he'd felt around Aristotle's other students. This was a full activation signature, strong as a shout.
+Theophrastus felt it before he saw it. The recognition — that deep-blood tremor when one inheritance met another across a crowded room. Not the vague suspicion he'd felt around Aristotle's other students. This was a full activation signature, strong as a shout.
 
 The young man approached Aristotle, spoke quietly. Theophrastus caught fragments: "...my father Philip... tutoring position... prepare me to rule..."
 
@@ -37,11 +37,11 @@ Theophrastus saw Alexander shake Aristotle's hand and felt the ground shift unde
 
 **Two weeks later. Mieza, Macedon.**
 
-Theophrastus traveled north under false pretenses — officially to study Macedonian flora for Aristotle's botanical research, actually to investigate Alexander's carrier status. The Nymphaeum at Mieza where Aristotle held his school was a limestone grotto surrounded by vine-covered colonnades and shaded garden walks, cool even in the Macedonian summer, with spring water channeled through stone basins where students soaked their feet while debating philosophy.
+Theophrastus traveled north under false pretenses — officially to study Macedonian flora for Aristotle's botanical research, actually to investigate Alexander's bloodline status. The Nymphaeum at Mieza where Aristotle held his school was a limestone grotto surrounded by vine-covered colonnades and shaded garden walks, cool even in the Macedonian summer, with spring water channeled through stone basins where students soaked their feet while debating philosophy.
 
 What he found terrified him.
 
-Alexander wasn't just a carrier. He was the other side's masterpiece. Generation 27, descended from Amenhotep's carefully managed breeding program, the inheritance activated at age twelve, trained in strategic systems thinking since childhood.
+Alexander wasn't just someone with the blood. He was the other side's masterpiece. Generation 27, descended from Amenhotep's carefully managed breeding program, the inheritance activated at age twelve, trained in strategic systems thinking since childhood.
 
 And they had positioned him perfectly.
 
@@ -49,19 +49,19 @@ Theophrastus discovered this in the royal library, where Alexander kept his priv
 
 But also newer dreams. Recent encodings from his own father's generation.
 
-*How to build an empire that doesn't collapse.*
+*How to build an empire that doesn't break.*
 
 *How to unify fragmented city-states under single authority.*
 
 *How to use military conquest to prevent the systemic failures that killed Bronze Age civilization.*
 
-Alexander wasn't learning to prevent collapse through compassion and early intervention. He was learning to prevent it through conquest and control. Through building an empire so vast, so unified, so centrally managed that regional collapses couldn't cascade into civilizational death.
+Alexander wasn't learning to prevent the fall through compassion and early intervention. He was learning to prevent it through conquest and control. Through building an empire so vast, so unified, so centrally managed that regional crises couldn't cascade into civilizational death.
 
 Centralized control on a scale never attempted before.
 
-"You're the defensive carrier from Athens."
+"You're the one from Athens. Nefertari's side."
 
-Theophrastus spun. Alexander stood in the doorway, carrier recognition making direct confrontation unnecessary. Inheritance facing inheritance. Sixteen years old, already taller than Theophrastus, with the easy confidence of someone who'd never once been proven wrong.
+Theophrastus spun. Alexander stood in the doorway, the blood-deep recognition making direct confrontation unnecessary. Inheritance facing inheritance. Sixteen years old, already taller than Theophrastus, with the easy confidence of someone who'd never once been proven wrong.
 
 "Generation twenty-seven." Theophrastus held the boy's gaze. "Studying with Aristotle. Tracking philosophical approaches to—"
 
@@ -73,7 +73,7 @@ And Alexander — standing in the doorway of his father's library with the light
 
 "By conquering the known world?"
 
-"By *unifying* it. One empire. One authority capable of recognizing and preventing collapse before it cascades." Alexander's eyes burned with the certainty only the very young and the very dangerous possess. "The Bronze Age Collapse happened because power was too distributed. No one had authority to coordinate prevention. I'm going to fix that. I'm sixteen and I already see it more clearly than your network has in eight centuries."
+"By *unifying* it. One empire. One authority capable of recognizing and preventing the break before it cascades." Alexander's eyes burned with the certainty only the very young and the very dangerous possess. "The Bronze Age Collapse happened because power was too distributed. No one had authority to coordinate prevention. I'm going to fix that. I'm sixteen and I already see it more clearly than your network has in eight centuries."
 
 There it was — the arrogance tipping into something almost innocent. The genuine bewilderment that anyone could see the pattern and not act on it immediately.
 
@@ -123,7 +123,7 @@ Theophrastus looked up. Alexander was watching the cyclamen with an expression h
 
 He laughed. It was the laugh of a sixteen-year-old boy. Bright, unguarded, carrying no weight of twenty-seven generations. Just a kid in a garden, barefoot, talking about flowers.
 
-Something cracked open in his chest that had nothing to do with carrier recognition or network loyalties. He liked this boy. Genuinely liked him. Not as a strategic asset or an adversary to be managed, but as a person — brilliant, sharp, funny, capable of gentleness with a flower even while planning to conquer the world.
+Something cracked open in his chest that had nothing to do with bloodline recognition or network loyalties. He liked this boy. Genuinely liked him. Not as a strategic asset or an adversary to be managed, but as a person — brilliant, sharp, funny, capable of gentleness with a flower even while planning to conquer the world.
 
 That was the problem.
 
@@ -145,7 +145,7 @@ Alexander looked at him with an expression that was, for one unguarded moment, y
 
 "Don't tell anyone I moved the beetle," Alexander said. "It would undermine my conquest brand."
 
-They both laughed. And Theophrastus understood, with the clarity that only carriers possessed, that this was the most dangerous thing Amenhotep's side had ever produced. Not a weapon. A person who was also a weapon. A boy who set flowers down gently and planned to conquer the world and didn't see the contradiction because no one had ever told him there was one.
+They both laughed. And Theophrastus understood, with the clarity that only people like him possessed, that this was the most dangerous thing Amenhotep's side had ever produced. Not a weapon. A person who was also a weapon. A boy who set flowers down gently and planned to conquer the world and didn't see the contradiction because no one had ever told him there was one.
 
 ---
 
@@ -157,11 +157,11 @@ Theophrastus found Aristotle in the garden at dusk, cataloguing plant specimens 
 
 They were not alone.
 
-Menestor sat on the low wall bordering the olive grove — Generation 25, Egyptian branch, the oldest active carrier in the defensive network. He'd arrived in Athens three days ago, after Theophrastus' urgent dispatch about Alexander. Beside him, cross-legged on the ground, the Spartan carrier Damophon cleaned his nails with a knife and said nothing. Two more carriers stood in the shadow of the colonnade. The defensive network's senior council, convened not in any formal chamber but here, in a philosopher's garden, because the philosopher was the problem.
+Menestor sat on the low wall bordering the olive grove — Generation 25, Egyptian branch, the oldest active member of the defensive network. He'd arrived in Athens three days ago, after Theophrastus' urgent dispatch about Alexander. Beside him, cross-legged on the ground, the Spartan carrier Damophon cleaned his nails with a knife and said nothing. Two more of their people stood in the shadow of the colonnade. The defensive network's senior council, convened not in any formal chamber but here, in a philosopher's garden, because the philosopher was the problem.
 
 "Tell him," Menestor said to Theophrastus. "What you told us."
 
-"Alexander has the blood," Theophrastus said. "Amenhotep's side. Generation twenty-seven. Bred specifically to inherit Macedonia and use military conquest to prevent collapse through centralized control. And you're training him."
+"Alexander has the blood," Theophrastus said. "Amenhotep's side. Generation twenty-seven. Bred specifically to inherit Macedonia and use military conquest to prevent fragmentation through centralized control. And you're training him."
 
 Aristotle looked up from his specimens. "I know what he is. I've known for three years."
 
@@ -175,15 +175,15 @@ Damophon stopped cleaning his nails. "Then you understand what we're discussing.
 
 "Not kill." Menestor raised a hand. "Intervene. Warn Philip. Disrupt the offensive network's positioning. There are options short of —"
 
-"There aren't." Aristotle stood, brushing soil from his hands. "Alexander will conquer. That's inevitable — inheritance or not, his blood or just his ambition, Macedonia is expanding regardless. I can either teach him to conquer systematically, with the physician's eye and collapse prevention in mind, or let him conquer blindly. Which serves humanity better?"
+"There aren't." Aristotle stood, brushing soil from his hands. "Alexander will conquer. That's inevitable — inheritance or not, his blood or just his ambition, Macedonia is expanding regardless. I can either teach him to conquer systematically, with the physician's eye and crisis prevention in mind, or let him conquer blindly. Which serves humanity better?"
 
 "Neither!" Theophrastus said. "You should be teaching him not to conquer at all!"
 
-"Should I?" Aristotle's voice hardened. "Athens tried distributed democracy. Failed. Sparta tried military discipline. Failed. Persia tried imperial administration. Failed. Every system the defensive network has carefully preserved through 'early intervention' eventually fragments anyway. Maybe Alexander's offensive approach — unified empire, centralized control, systematic prevention at continental scale — maybe that's what humanity actually needs."
+"Should I?" Aristotle's voice hardened. "Athens tried distributed democracy. Failed. Sparta tried military discipline. Failed. Persia tried imperial administration. Failed. Every system your network has carefully preserved through 'early intervention' eventually fragments anyway. Maybe Alexander's offensive approach — unified empire, centralized control, systematic prevention at continental scale — maybe that's what humanity actually needs."
 
 "You sound like you agree with him," Theophrastus said.
 
-"I sound like a philosopher who's spent forty years studying political systems and watching them fail in predictable patterns. The defensive network prevents small collapses. Congratulations. But you haven't prevented the *pattern itself* — just delayed the specific instances. Alexander thinks he can eliminate the pattern entirely through unification. Maybe he's right."
+"I sound like a philosopher who's spent forty years studying political systems and watching them fail in predictable patterns. Your side prevents small collapses. Congratulations. But you haven't prevented the *pattern itself* — just delayed the specific instances. Alexander thinks he can eliminate the pattern entirely through unification. Maybe he's right."
 
 "Or maybe he'll create the biggest collapse in history when his empire fragments after his death."
 
@@ -191,19 +191,19 @@ Damophon stopped cleaning his nails. "Then you understand what we're discussing.
 
 Damophon stood. "Enough philosophy. We have a weapon bred to conquer the known world. We can stop him now or spend the next thirty years managing the damage."
 
-"And become what?" Menestor hadn't moved from the wall. His voice carried the weight of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe. That's the offensive network's doctrine. Word for word."
+"And become what?" Menestor hadn't moved from the wall. His voice carried the heaviness of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe. That's the offensive network's doctrine. Word for word."
 
 The silence in the garden was broken only by moths hitting the oil lamp Aristotle had lit against the gathering dark.
 
-"Alexander isn't just their prize student," Menestor continued. "He's their test. They *want* us to kill him. Because if we embrace strategic murder to stop him from succeeding, we prove their philosophy correct — that when collapse really threatens, everyone abandons principles for pragmatism."
+"Alexander isn't just their prize student," Menestor continued. "He's their test. They *want* us to kill him. Because if we embrace strategic murder to stop him from succeeding, we prove their philosophy correct — that when ruin really threatens, everyone abandons principles for pragmatism."
 
 It clicked into place. "It's a trap. Let Alexander conquer, and offensive mode wins through demonstration. Kill Alexander, and they win by proving we're no different from them."
 
-Aristotle watched the carriers with an expression Theophrastus couldn't read — something between pity and respect. "So what will you do?"
+Aristotle watched them with an expression Theophrastus couldn't read — something between pity and respect. "So what will you do?"
 
-Menestor looked at Damophon. Damophon looked at the carriers in the colonnade. The garden was very quiet.
+Menestor looked at Damophon. Damophon looked at the others in the colonnade. The garden was very quiet.
 
-"We remember that the experiment runs for three thousand years," Menestor said finally. "Not a few centuries. Alexander will conquer. His empire will fragment — the blood shows me that pattern clearly. And when it does, we'll be there. Preventing the collapse from cascading. Saving the knowledge his failure scatters." He turned to Aristotle. "And you'll record what happens. That's why you agreed to teach him, isn't it? Not loyalty to either network. Curiosity."
+"We remember that the experiment runs for three thousand years," Menestor said finally. "Not a few centuries. Alexander will conquer. His empire will fragment — the blood shows me that pattern clearly. And when it does, we'll be there. Preventing the unraveling from cascading. Saving the knowledge his failure scatters." He turned to Aristotle. "And you'll record what happens. That's why you agreed to teach him, isn't it? Not loyalty to either network. Curiosity."
 
 Aristotle said nothing. Which was answer enough.
 
@@ -233,13 +233,13 @@ He thought about Lykon's hands. They'd trained together for two years under Mene
 
 And when the siege pattern formed — when the genetic memory showed him Alexander's army coalescing the way storm clouds coalesce, inevitable and directional — Lykon hadn't fled. Hadn't sent a dispatch to the defensive council requesting extraction. He'd gone to the city council of Thebes and told them what was coming, and then he'd gone to the outlying villages and told them, and then he'd walked back inside the walls because three hundred families in the southern quarter were still packing their things and someone needed to show them which gate was still open.
 
-The defensive council had known. Had known Alexander would march south before turning east. Had known Thebes would resist. Had known Lykon was there, doing what carriers did — seeing the collapse before it arrived, trying to soften the impact, saving who he could.
+The defensive council had known. Had known Alexander would march south before turning east. Had known Thebes would resist. Had known Lykon was there, doing what people like them did — seeing the fall before it arrived, trying to soften the impact, saving who he could.
 
 They could have warned him to leave. Could have ordered a withdrawal. Could have — if they'd chosen differently in that garden — stopped the army that killed him.
 
-But they'd chosen patience. The long experiment. Let the offensive network's weapon prove itself or fail, because interfering would make them no different from what they opposed. Menestor had said it with such calm authority. Damophon had nodded. The carriers in the colonnade had murmured agreement. The logic had settled over him like a blanket — warm, reasonable, principled.
+But they'd chosen patience. The long experiment. Let the offensive network's weapon prove itself or fail, because interfering would make them no different from what they opposed. Menestor had said it with such calm authority. Damophon had nodded. The others in the colonnade had murmured agreement. The logic had settled over him like a blanket — warm, reasonable, principled.
 
-Lykon had paid for that principle with his body in a burning granary, his left hand open on the dirt floor, reaching for someone who wasn't there and had never been there and would never be there — reaching with the old reflex that every carrier's blood remembered but none could explain.
+Lykon had paid for that principle with his body in a burning granary, his left hand open on the dirt floor, reaching for someone who wasn't there and had never been there and would never be there — reaching with the old reflex that everyone's blood remembered but none could explain.
 
 Theophrastus sat in the garden until the shadows reached the far wall. The sun moved. Shadows lengthened across the stone bench. Students passed through the colonnade on their way to evening lectures, and some of them glanced at him — their teacher's assistant, sitting alone, palms flat on stone, face empty — and decided not to ask.
 
@@ -249,7 +249,7 @@ He tried to hold the principle and the grief in the same hand. Tried to believe 
 
 He couldn't.
 
-Not because the principle was wrong. Maybe it was right. Maybe letting Alexander prove or disprove offensive mode was the only honest choice for a network committed to testing rather than fighting. Maybe in three thousand years, scholars would look back and say the defensive network's restraint at Thebes was the moment that preserved the experiment's integrity.
+Not because the principle was wrong. Maybe it was right. Maybe letting Alexander prove or disprove offensive mode was the only honest choice for a network committed to testing rather than fighting. Maybe in three thousand years, scholars would look back and say our restraint at Thebes was the moment that preserved the experiment's integrity.
 
 But Lykon was dead. And the worst of it wasn't grief — grief he could carry. The worst was the doubt. The possibility that principle and cowardice wore the same face, and he couldn't tell them apart. That Menestor's calm wisdom in the garden and a coward's excuse for doing nothing sounded exactly alike, and always would.
 
@@ -265,7 +265,7 @@ Theophrastus visited Aristotle one final time before Alexander marched east.
 
 "I'm inheriting your school," Theophrastus said. "The Lyceum. You're leaving Athens to follow Alexander's campaigns."
 
-"To observe, not to follow." Aristotle looked older than his fifty years. "I need to see if my teaching produces systematic conquest or systematic collapse. Need to know if I created a world-unifier or engineered the next Bronze Age catastrophe."
+"To observe, not to follow." Aristotle looked older than his fifty years. "I need to see if my teaching produces systematic conquest or systematic ruin. Need to know if I created a world-unifier or engineered the next Bronze Age catastrophe."
 
 "You sound uncertain."
 
@@ -273,7 +273,7 @@ Theophrastus visited Aristotle one final time before Alexander marched east.
 
 Theophrastus nodded.
 
-"The other side approached me ten years ago. Offered me everything—funding, position, influence—if I'd train their carrier to conquer systematically. They knew Alexander's blood would activate. Knew he'd have the seeing. Wanted philosophy to amplify the inheritance."
+"The other side approached me ten years ago. Offered me everything—funding, position, influence—if I'd train their prodigy to conquer systematically. They knew Alexander's blood would activate. Knew he'd have the seeing. Wanted philosophy to amplify the inheritance."
 
 "And you accepted?"
 
@@ -283,11 +283,11 @@ Theophrastus nodded.
 
 "Yes. And maybe that's what the experiment always required. Nefertari and Amenhotep split philosophically but never truly tested their approaches against each other at civilizational scale. Just prevented small collapses or managed small populations. Alexander forces both networks to scale up. Forces the real test." Aristotle met his eyes. "I'm not one side or the other. Not even someone with the blood. I'm a philosopher who believes knowledge requires testing. And I'm testing whether centralized control or distributed prevention actually works when civilization itself hangs in the balance."
 
-"And if you're wrong? If Alexander's conquest creates catastrophic collapse?"
+"And if you're wrong? If Alexander's conquest creates catastrophic fragmentation?"
 
 "Then I encode that failure into my writings. Make sure future generations learn from the experiment's results. Pass the knowledge forward through philosophy instead of genetics. Let institutions preserve what bloodlines might lose." Aristotle smiled sadly. "Xanthe was right, three generations ago. Ideas persist better than DNA. So I'm encoding this experiment in text. Making sure someone remembers what happens when centralized control runs at continental scale."
 
-Theophrastus understood then: Aristotle wasn't betraying the defensive network. He was creating a third path. Philosophy as independent observer, recording both approaches, preserving the experiment itself for future analysis.
+Theophrastus understood then: Aristotle wasn't betraying Nefertari's side. He was creating a third path. Philosophy as independent observer, recording both approaches, preserving the experiment itself for future analysis.
 
 "Will you teach me?" Theophrastus asked. "How to observe without interfering? How to record the experiment even when I'm part of it?"
 
@@ -311,7 +311,7 @@ Theophrastus found Alexander in the remains of the Apadana — the great audienc
 
 Alexander was sober. He wore a hybrid costume that would have horrified both Greek and Persian courts — a purple-and-white Persian robe over Macedonian riding boots, a simple gold diadem binding his lion-colored hair where the Great King's upright tiara should have been. Neither Greek nor Persian. Both. That was worse.
 
-"Theophrastus." He turned, and the boy from the garden in Mieza was gone. The face was the same — the same sharp features, the same carrier-bright eyes — but something behind them had been replaced. Not gradually. Not the slow erosion of a man worn down by years of war. Something precise and surgical, as if the part of Alexander that had moved a beetle off a garden path had been identified, classified as a structural weakness, and removed.
+"Theophrastus." He turned, and the boy from the garden in Mieza was gone. The face was the same — the same sharp features, the same bright, knowing eyes — but something behind them had been replaced. Not gradually. Not the slow erosion of a man worn down by years of war. Something precise and surgical, as if the part of Alexander that had moved a beetle off a garden path had been identified, classified as a structural weakness, and removed.
 
 "You burned it," Theophrastus said.
 
@@ -321,7 +321,7 @@ Alexander was sober. He wore a hybrid costume that would have horrified both Gre
 
 "I destroyed a symbol. The art was incidental."
 
-Theophrastus walked through the ruins. His sandals crunched on broken tile. A relief panel lay face-up in the ash — a Lydian dignitary bringing a gift horse, the paint still visible on the horse's mane, blue and gold, two hundred years of craftsmanship in one square cubit of stone.
+Theophrastus walked through the ruins. His sandals crunched on broken tile. A relief panel lay face-up in the ash — a Lydian dignitary bringing a gift horse, the paint yet visible on the horse's mane, blue and gold, two hundred years of craftsmanship in one square cubit of stone.
 
 "At Mieza," Theophrastus said, "you moved a beetle off a garden path."
 
@@ -333,9 +333,9 @@ Alexander's expression didn't change. "I was sixteen."
 
 "No. You're not." Theophrastus picked up the relief fragment. The painted horse stared at him with one blue eye. "What happened to the boy who thought conquest was like medicine? Small doses that heal?"
 
-"He conquered Persia. And learned that the dosage the world requires is larger than he thought." Alexander stepped closer. The carrier recognition hummed between them — the same frequency, the same inherited architecture, but the signal had changed. Hotter. More absolute. The certainty of a man who'd tested his thesis against the largest empire on earth and watched it fall in thirty-six months.
+"He conquered Persia. And learned that the dosage the world requires is larger than he thought." Alexander stepped closer. The blood-deep recognition hummed between them — the same frequency, the same inherited architecture, but the signal had changed. Hotter. More absolute. The certainty of a man who'd tested his thesis against the largest empire on earth and watched it fall in thirty-six months.
 
-"I am going to India," Alexander said. "And then east until I find the edge of the world. And when I've reached it, I'm going to build a system of governance that prevents collapse across every territory I've unified. Roads. Standardized weights. Shared currency. Cultural exchange. Everything the Bronze Age lacked — centralized coordination at civilizational scale."
+"I am going to India," Alexander said. "And then east until I find the edge of the world. And when I've reached it, I'm going to build a system of governance that prevents failure across every territory I've unified. Roads. Standardized weights. Shared currency. Cultural exchange. Everything the Bronze Age lacked — centralized coordination at civilizational scale."
 
 "And everyone who resists?"
 
@@ -347,7 +347,7 @@ Theophrastus looked at the burned palace around them. "Do you still dream the fo
 
 "Do you dream the warmth? The reaching on the left side?"
 
-For the first time, something shifted behind Alexander's eyes. A crack in the architecture. A seam where the boy still lived beneath the conqueror.
+For the first time, something shifted behind Alexander's eyes. A crack in the architecture. A seam where the boy survived beneath the conqueror.
 
 "That's tactical instinct," Alexander said. "The blood telling me where to strike."
 
@@ -355,7 +355,7 @@ For the first time, something shifted behind Alexander's eyes. A crack in the ar
 
 "It's the only explanation that—"
 
-"It's *love,* Alexander. It's an eight-hundred-year-old love between two people who chose differently and never stopped reaching for each other. Every carrier feels it. Every one of us reaches left in the dark and doesn't know why."
+"It's *love,* Alexander. It's an eight-hundred-year-old love between two people who chose differently and never stopped reaching for each other. Everyone with the blood feels it. Every one of us reaches left in the dark and doesn't know why."
 
 Alexander's jaw tightened. "Love doesn't build empires."
 
@@ -377,7 +377,7 @@ He paused in the doorway of the ruined Apadana, silhouetted against Persian dayl
 
 He left. Theophrastus stood alone in the ruins and understood that Amenhotep's people hadn't killed the boy from Mieza. They'd done something worse. They'd taught him to read his own capacity for love as a weapon. To mistake reaching for targeting. To confuse the oldest grief in the bloodline with strategic instinct.
 
-The boy who set flowers down gently was still in there. Still reaching. Still, somewhere beneath the conqueror's architecture, capable of moving a beetle off a path. And that was the thing that would haunt Theophrastus for the rest of his life — not that Alexander had become a monster, but that the monster still contained the boy, and the boy couldn't get out.
+The boy who set flowers down gently was in there. Still reaching. Somewhere beneath the conqueror's architecture, capable of moving a beetle off a path. And that was the thing that would haunt Theophrastus for the rest of his life — not that Alexander had become a monster, but that the monster contained the boy, and the boy couldn't get out.
 
 Theophrastus left Persepolis the next morning and never saw Alexander alive again.
 
@@ -387,13 +387,13 @@ Theophrastus left Persepolis the next morning and never saw Alexander alive agai
 
 **323 BCE. Babylon.**
 
-Alexander died at thirty-two in Nebuchadnezzar's palace in Babylon — the same city where Rachel's exiles had once wept beside the Euphrates, the same blue-glazed walls and bitumen-sealed mudbrick that had swallowed a dozen conquered peoples before the Macedonians arrived. Fever. Thirteen days of it. His empire stretched from Greece to India, and the blood memory was still showing him patterns he'd never have time to prevent when it stopped showing him anything at all.
+Alexander died at thirty-two in Nebuchadnezzar's palace in Babylon — the same city where Rachel's exiles had once wept beside the Euphrates, the same blue-glazed walls and bitumen-sealed mudbrick that had swallowed a dozen conquered peoples before the Macedonians arrived. Fever. Thirteen days of it. His empire stretched from Greece to India, and the blood memory was showing him patterns he'd never have time to prevent when it stopped showing him anything at all.
 
 Theophrastus, now forty-seven and head of the Lyceum for twelve years, received the news in the garden where the defensive council had once debated whether to kill a sixteen-year-old boy. He read the dispatch twice. Set it on the stone bench. Pressed his palms flat against warm stone.
 
 He thought about cyclamen.
 
-He thought about a beetle on a garden path and a boy saying *don't tell anyone* and laughing the way sixteen-year-olds laugh — unburdened, un-encoded, free of every generation that had made him what he was. He thought about Persepolis, and Alexander's hand moving left and then stopping, and the look in his eyes when Theophrastus said the word *love* — that one crack in the architecture where the boy had still been alive, still reaching, still capable of gentleness with a flower.
+He thought about a beetle on a garden path and a boy saying *don't tell anyone* and laughing the way sixteen-year-olds laugh — unburdened, un-encoded, free of every generation that had made him what he was. He thought about Persepolis, and Alexander's hand moving left and then stopping, and the look in his eyes when Theophrastus said the word *love* — that one crack in the architecture where the boy had been alive, reaching, capable of gentleness with a flower.
 
 The dispatch said they'd found Alexander on a couch in Nebuchadnezzar's palace, surrounded by generals already dividing his empire. It did not say whether his left hand had been open or closed. Theophrastus needed to know and would never know and carried the not-knowing for the rest of his life.
 
@@ -403,19 +403,19 @@ Neither side had known the boy. Neither had thought to ask whether the conqueror
 
 Theophrastus sealed his scrolls that night.
 
-He sat alone in the Lyceum's peripatos — the covered walkway where Aristotle had paced while teaching, the stone columns still warm from the day's sun. The night air smelled of olive trees and cooling stone. And a grief he couldn't explain settled over him — heavier than Alexander, heavier than the failed experiment, heavier than anything that belonged to his own life. A bone-deep certainty: *someone I loved chose differently than I did, and we both lost everything.*
+He sat alone in the Lyceum's peripatos — the covered walkway where Aristotle had paced while teaching, the stone columns warm from the day's sun. The night air smelled of olive trees and cooling stone. And a grief he couldn't explain settled over him — heavier than Alexander, heavier than the failed experiment, heavier than anything that belonged to his own life. A bone-deep certainty: *someone I loved chose differently than I did, and we both lost everything.*
 
-He sat on the garden's stone bench. It was warm from the day's sun, still holding heat hours after the source had gone. The warmth felt like someone else's hand, and the feeling was so specific and so old that he knew it didn't belong to him.
+He sat on the garden's stone bench. It was warm from the day's sun, holding heat hours after the source had gone. The warmth felt like someone else's hand, and the feeling was so specific and so old that he knew it didn't belong to him.
 
 Eight hundred fifty-four years. That's how long a love could echo through blood without a name.
 
 He didn't know — couldn't know — that the love would keep building for another three and a half centuries. That it would crescendo in a bloodline that led to a carpenter's son in Galilee who would feel the accumulated weight of twelve hundred years of encoded love and do something no carrier had ever done: speak it aloud. Give it a name. Tell the world that the deepest thing in the blood wasn't the old skill or collapse prevention or strategic thinking — it was *this*. This warmth on stone that should have cooled hours ago. This hand reaching left in the dark.
 
-But that was still centuries away. Tonight, Theophrastus wept without understanding why, and felt — for the first time — that the echo was not fading.
+But that was centuries away. Tonight, Theophrastus wept without understanding why, and felt — for the first time — that the echo was not fading.
 
 It was gathering.
 
-The defensive network was already adapting. Recruiting from philosophy schools. Training carriers in both the old skill and systematic thinking. Creating a hybrid approach that preserved Nefertari's compassion while incorporating Amenhotep's strategy.
+Nefertari's side was already adapting. Recruiting from philosophy schools. Training its people in both the old skill and systematic thinking. Creating a hybrid approach that preserved Nefertari's compassion while incorporating Amenhotep's strategy.
 
 Above Theophrastus, the same stars that had watched Nefertari split the network burned on indifferently. The experiment continued. And somewhere in the bloodlines of both networks, future carriers were already being shaped by this moment — dreaming Alexander's conquests, feeling his empire's collapse, inheriting the question neither side could answer alone. And inheriting something else, too. Something that had no name in any language living or dead — not yet, not for another three hundred and fifty-eight years — but that was building, building, building in the blood. A warmth on the left side. A reaching. A rhythm searching for its match. And a love so old and so deep that when it finally found its voice, it would change the world.
 
@@ -456,7 +456,7 @@ Then a fever. Thirteen days. And the masterpiece was dead at thirty-two.
 
 ---
 
-The emergency council met in Babylon itself -- the first time in the network's history that all regional directors gathered in a single location. Fourteen representatives, Generations 24 through 27, spanning operations across Alexander's entire empire. Egyptian. Persian. Phoenician. Greek. Macedonian. Bactrian. They sat in a requisitioned palace chamber that still smelled of the embalming herbs being applied to Alexander's body two floors above.
+The emergency council met in Babylon itself -- the first time in the network's history that all regional directors gathered in a single location. Fourteen representatives, Generations 24 through 27, spanning operations across Alexander's entire empire. Egyptian. Persian. Phoenician. Greek. Macedonian. Bactrian. They sat in a requisitioned palace chamber that smelled of the embalming herbs being applied to Alexander's body two floors above.
 
 Pharnaces of Persepolis -- Generation 25, the network's chief strategist, old enough to remember when Alexander was a design specification rather than a person -- opened the assessment.
 
@@ -492,7 +492,7 @@ The argument was simple. Elegant. Terrifying.
 
 Individual carriers burned out. Alexander proved that. Empires built on exceptional people collapsed when the person died. That was the offensive network's fatal flaw -- concentrating too much capability in too few people.
 
-But institutions persisted. The philosophy schools Socrates and Plato had built still operated seventy-six years after Socrates' death. The Delphic Oracle had functioned for centuries with rotating personnel. The defensive network itself had survived for centuries without a single indispensable leader.
+But institutions persisted. The philosophy schools Socrates and Plato had built operated seventy-six years after Socrates' death. The Delphic Oracle had functioned for centuries with rotating personnel. The defensive network itself had survived for centuries without a single indispensable leader.
 
 "We don't need another Alexander," Timocrates said. "We need something that produces Alexanders. And survives when they die. Not a person. An *institution.* A system that carries our methodology, our breeding records, our strategic doctrine, our understanding of collapse and control -- carries all of it forward through centuries, regardless of which individuals live or die."
 
@@ -506,7 +506,7 @@ Pharnaces studied the young man in silence. "You're describing something that ha
 
 "And when it's done? When the experiment is won?"
 
-"It's never done." Timocrates' voice was quiet now, carrying the weight of blood memory that stretched back to Amenhotep's founding vision in Pi-Ramesses. "Alexander tried to finish the experiment in one lifetime. That was the error. The experiment runs for three thousand years. Our institution must be designed for exactly that duration. Patient. Adaptive. Immortal in the way only systems can be immortal -- not because any part endures, but because the pattern of replacement is itself the thing that persists."
+"It's never done." Timocrates' voice was quiet now, carrying the burden of blood memory that stretched back to Amenhotep's founding vision in Pi-Ramesses. "Alexander tried to finish the experiment in one lifetime. That was the error. The experiment runs for three thousand years. Our institution must be designed for exactly that duration. Patient. Adaptive. Immortal in the way only systems can be immortal -- not because any part endures, but because the pattern of replacement is itself the thing that persists."
 
 The vote was unanimous.
 

@@ -74,7 +74,7 @@ The priestess nodded. "Our order will guard it. The knowledge passes mother to d
 
 She looked up at Deborah and saw four generations compressed into one face — Tausret's sharpness, Tirzah's stubbornness, and something new that belonged only to this girl.
 
-"Strong enough," Nefertari whispered. "You'll be strong enough."
+"Strong enough," Nefertari said. "You'll be strong enough."
 
 ---
 
@@ -88,7 +88,7 @@ She'd meant to write instructions. Key locations, family rosters, contingency pl
 
 *Deborah —*
 
-*I taught you that no single person should hold everything. That distributed knowledge is what makes us resilient. No single point of failure. I believed this. I still believe it.*
+*I taught you that no single person should hold everything. That distributed knowledge is what makes us resilient. No single point of failure. I believed this. I believe it now.*
 
 *But I failed to practice it. Forty-seven years, and I never truly let go. Every decision ran through me. Every crisis, every teaching, every monthly gathering — I was there, at the center, the one they turned to. I built a philosophy of distribution and made myself indispensable to it.*
 
@@ -116,7 +116,7 @@ Deborah was beside her when consciousness returned. The girl's face was calm, tr
 
 "Good." Nefertari tried to sit up, failed. "Help me to the terrace. I want to see the harbor."
 
-Together they moved—the dying physician and the seventeen-year-old carrier who would lead the network next. Outside, dawn was breaking over Byblos. Ships in the harbor, cedar-planked and bronze-nailed, ready to carry goods across the Mediterranean. The same routes that had once carried refugees now carried trade, knowledge, stability.
+Together they moved—the dying physician and the seventeen-year-old who would lead the network next. Outside, dawn was breaking over Byblos. Ships in the harbor, cedar-planked and bronze-nailed, ready to carry goods across the Mediterranean. The same routes that had once carried refugees now carried trade, knowledge, stability.
 
 Below, the courtyard was filling. Word had spread faster than she'd expected. Families arriving from Tyre, Sidon, even Cyprus by overnight sail. They'd come to say farewell.
 
@@ -128,7 +128,7 @@ She turned to Deborah. "Don't make my mistake, child. Don't become the center."
 
 Before Deborah could answer, the fever surged. Her knees buckled. Deborah caught her, lowered her gently to the terrace stones. Below, someone cried out.
 
-"Get the families," Nefertari whispered.
+"Get the families," Nefertari managed.
 
 ---
 
@@ -160,13 +160,13 @@ That was the memory the fever chose. Not the Protocol. Not the keys. Not the arg
 
 "Amenhotep..." she breathed. The eighty-four faces blurred above her. "Tell him..."
 
-But Amenhotep had been dead for thirteen years. She knew that. Had known it when the news reached Byblos — a seizure, the reports said, his massive frame found rigid on the stone floor. She'd gone to the harbor alone that day and pressed her palms flat against the seawall and held them there until the stone was warm and then held them longer, because she'd learned long ago that her own heat was not enough but it was all she had.
+But Amenhotep had been dead for thirteen years. She knew that. Had known it when the news reached Byblos — a seizure, the reports said, his massive frame found rigid on the stone floor. She'd gone to the harbor alone that day and braced her hands against the seawall and held them there until the stone was warm and then held them longer, because she'd learned long ago that her own heat was not enough but it was all she had.
 
 "Tell him I heard him mispronounce *hesat* and I laughed and I never laughed like that again. Tell him that's what I'm sorry for. Not the split. Not the keys. That I couldn't do it again. That I tried for forty-seven years and I couldn't get back to the place where the laugh lived because you can't reach that place on purpose. You can only be found there by someone who isn't trying."
 
 Deborah leaned close, her hand on Nefertari's forehead. "Grandmother—"
 
-"He was wrong about everything," Nefertari whispered. "And he cared more than anyone I've ever known. And I loved him the way the lung loves air. Not because it chooses to. Because it was made that way."
+"He was wrong about everything." Her voice was barely there. "And he cared more than anyone I've ever known. And I loved him the way the lung loves air. Not because it chooses to. Because it was made that way."
 
 "Rest now," Deborah said. "Rest."
 
@@ -210,7 +210,7 @@ But the practice endured.
 
 **Thebes, Egypt — 1130 BCE**
 
-The message arrived at the Temple of Karnak on a morning when the Nile ran brown with the inundation silt that meant Akhet had begun. Outside, fellahin were already marking the flood line along their fields. Khasekhem read it twice in his chamber — walls painted with Osiris in his wrappings, a bronze mirror and razor on the washing stand, the shaved head and white linen kilt of a temple priest — then set it on the cedar table and pressed both palms flat against the wood.
+The message arrived at the Temple of Karnak on a morning when the Nile ran brown with the inundation silt that meant Akhet had begun. Outside, fellahin were already marking the flood line along their fields. Khasekhem read it twice in his chamber — walls painted with Osiris in his wrappings, a bronze mirror and razor on the washing stand, the shaved head and white linen kilt of a temple priest — then set it on the cedar table and pressed his hands against the wood.
 
 Nefertari was dead.
 
@@ -224,7 +224,7 @@ Then, on the third night, the stylus fell from fingers that could no longer grip
 
 What came next, Khasekhem had never told anyone.
 
-The old man's right hand moved. Not toward the registry. Not toward the bronze keys in their cedar chest. His hand moved to the right side of the sleeping mat — reached across the empty space beside him and pressed flat against the linen, fingers spread, as if testing for warmth that should have been there.
+The old man's right hand moved. Not toward the registry. Not toward the bronze keys in their cedar chest. His hand moved to the right side of the sleeping mat — reached across the empty space beside him and held against the linen, fingers spread, as if testing for warmth that should have been there.
 
 "She mispronounced *hesat*," Amenhotep said. His voice had changed. Not weaker — *younger*. As if some deeper register had surfaced beneath the decades of authority and strategy. "Ebers Papyrus, remedy 482. She meant the jar. She said the cow. And I laughed." A sound came from his throat that might have been a laugh or might have been a sob — Khasekhem couldn't tell, and suspected there was no difference. "I hadn't laughed in... I don't remember. I asked her to do it again. She couldn't. You can't reach that place on purpose."
 
@@ -234,7 +234,7 @@ Khasekhem set down the stylus. "Master—"
 
 His breathing changed then. Went shallow and searching — the particular rhythm of lungs looking for a pattern they'd lost decades ago. Khasekhem recognized it only later, years later, when he read the field reports about those in the defensive bloodline who breathed in synchronization with people they'd never met. At the time he thought it was simply a dying man's body losing its rhythm.
 
-"But she was right too," Amenhotep whispered. "About the one thing that mattered. You can't breed what we had. You can't institutionalize it. You can't put it in a registry or encode it in bronze." His hand on the empty mat curled into a fist, then opened again, fingers searching. "The way she held a grinding stone. The way she read a patient's pulse with two fingers and her eyes closed and her lips moving — counting, always counting. The way she smelled of copper dust and cassia in the mornings. Twenty years. I had twenty years of her and I let her walk away because I believed — I *believe* — that control preserves more lives than compassion."
+"But she was right too," Amenhotep said. "About the one thing that mattered. You can't breed what we had. You can't institutionalize it. You can't put it in a registry or encode it in bronze." His hand on the empty mat curled into a fist, then opened again, fingers searching. "The way she held a grinding stone. The way she read a patient's pulse with two fingers and her eyes closed and her lips moving — counting, always counting. The way she smelled of copper dust and cassia in the mornings. Twenty years. I had twenty years of her and I let her walk away because I believed — I *believe* — that control preserves more lives than compassion."
 
 He turned his head toward Khasekhem. His eyes were clear. Terribly clear.
 
@@ -242,7 +242,7 @@ He turned his head toward Khasekhem. His eyes were clear. Terribly clear.
 
 He died before dawn. In the last minutes, his fingers tapped the sleeping mat. Once. Twice. Three times. The old pattern — one tap meant *look at this*, two meant *start over*, three meant *come here, I need you close.* He tapped three, and his hand went still, and his right hand rested on the empty side of the mat, fingers slightly curled, as if holding a hand that wasn't there. Khasekhem closed the old man's eyes and sat with the body until sunrise, listening to the silence of a room that held no one's breathing.
 
-He'd been twenty-four then. Amenhotep's protege for eleven years. Trained in collapse analysis, population modeling, institutional architecture. The old physician had chosen him at thirteen — a temple orphan with an unusual ability to see numerical relationships in grain distribution records. Not a carrier himself, not yet, but identified as a candidate for the second-generation breeding program. By the time Amenhotep died, Khasekhem was the most capable operative the offensive network had produced.
+He'd been twenty-four then. Amenhotep's protege for eleven years. Trained in collapse analysis, population modeling, institutional architecture. The old physician had chosen him at thirteen — a temple orphan with an unusual ability to see numerical relationships in grain distribution records. Not one of them himself, not yet, but identified as a candidate for the second-generation breeding program. By the time Amenhotep died, Khasekhem was the most capable operative the offensive network had produced.
 
 He'd also witnessed something in the dying man's final hours that no amount of institutional training could explain. A love so deep it had survived thirty-four years of deliberate suppression and surfaced, at the end, with the force of floodwater breaking through a dam. Khasekhem had filed it away the way he filed everything — as data, as observation, as something to be understood later. But he'd never understood it. And some nights, alone in his own chamber, he'd find his right hand resting on the empty side of his sleeping mat and pull it back quickly, as if the gesture were contagious.
 
@@ -272,7 +272,7 @@ Khasekhem pulled a fresh papyrus toward him and began writing.
 
 *First: The Byblos priestesses have held their secret for decades. Test them again. The generation that made the original promise is dying. Their successors inherited obligation, not conviction. Apply financial pressure through the temple's trade dependencies. Identify the youngest priestess with access to the foundation vault. She is our entry point.*
 
-*Second: Expand surveillance of Canaanite hill country settlements. The carrier bloodline — Tirzah's line, now in its fourth generation — has relocated to a village near the Jezreel Valley. Confirm whether the son Ephraim has assumed network coordination. Map his contacts.*
+*Second: Expand surveillance of Canaanite hill country settlements. The bloodline — Tirzah's line, now in its fourth generation — has relocated to a village near the Jezreel Valley. Confirm whether the son Ephraim has assumed network coordination. Map his contacts.*
 
 *Third: The Cyprus archive remains the most vulnerable target. The original archivist is dead. Her successors are refugees, not scholars. A single raid during seasonal storms, when maritime communication is disrupted, could recover the Memory Bridge without alerting the broader network for weeks.*
 

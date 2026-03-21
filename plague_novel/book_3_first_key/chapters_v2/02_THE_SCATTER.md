@@ -118,7 +118,7 @@ She found lodging above a chandler's shop in the harbor district. A narrow room 
 
 The Egyptian merchant from the ship walked past at dusk. Not hurrying. Not looking up. But he walked past twice in the space of an hour, and the second time his companion was with him — the local man from the dock. They were mapping her movements. Establishing her location. The same methodology she'd use to track a disease through a household: observe, record, narrow the possibilities.
 
-They hadn't approached the temple. That was telling. They were tracking her, not the key. Which meant they didn't know yet what she'd hidden or where. They were still in the observation phase.
+They hadn't approached the temple. That was telling. They were tracking her, not the key. Which meant they didn't know yet what she'd hidden or where. They were in the observation phase.
 
 She had until they moved to the intervention phase.
 
@@ -138,7 +138,7 @@ She saw the Egyptian merchant once more, walking the harbor road at first light,
 
 The Cypriote captain agreed to take her north for enough silver to make him not ask questions.
 
-Nefertari stood at the rail, watching Byblos recede in the morning haze. The Pattern Eye was safe — hidden deep enough that Amenhotep's watchers would never find it. But they'd found HER. Which meant the next hiding would need to be faster, messier, more dangerous. She couldn't afford another night in one place. Couldn't afford the luxury of negotiation and philosophical debate with custodians. Every hour she stayed visible was an hour they used to close the distance.
+Nefertari stood at the rail as Byblos receded in the morning haze. The Pattern Eye was safe — hidden deep enough that Amenhotep's watchers would never find it. But they'd found HER. Which meant the next hiding would need to be faster, messier, more dangerous. She couldn't afford another night in one place. Couldn't afford the luxury of negotiation and philosophical debate with custodians. Every hour she stayed visible was an hour they used to close the distance.
 
 And somewhere behind the tactical calculation, the simpler truth: the grief was a liability now. It slowed her thinking, softened her edges. She could outrun it during daylight hours, and that would have to be enough.
 
@@ -164,7 +164,7 @@ Theia's hands stilled on the tablet she was copying. "That's a contradiction."
 
 "Is it? You're copying tablets right now. Preserving knowledge. But how much of what you copy do you actually remember? How much becomes just... text? Words that exist without anyone thinking about them?"
 
-"Everything in an archive is like that," Theia said slowly. "We preserve it because it might matter someday. But we can't hold it all in memory."
+"Everything in an archive is like that," Theia said. "We preserve it because it might matter someday. But we can't hold it all in memory."
 
 "Exactly." Nefertari unwrapped the Memory Bridge. Eight centimeters of bronze, twin to the Pattern Eye she'd hidden in Byblos. "This needs to exist quietly in your archive. Hidden in plain sight. Someday, someone with the right bloodline will need it."
 
@@ -338,11 +338,11 @@ Tirzah was waiting when she returned. The girl had stayed hidden during the hill
 
 "Because others said yes. And they were right to do that, too. Agency means the freedom to refuse—which means the network survives only as long as people choose to maintain it. That's not a flaw. That's the entire point."
 
-Tirzah nodded slowly. Then: "There was a man here. While you were gone. Egyptian. He was asking about you."
+Tirzah nodded. Then: "There was a man here. While you were gone. Egyptian. He was asking about you."
 
 Nefertari went still. "What did you tell him?"
 
-"Nothing. I hid. But he's still searching. I saw him in the next settlement over yesterday."
+"Nothing. I hid. But he's out there searching. I saw him in the next settlement over yesterday."
 
 They couldn't stay. Amenhotep's people had followed them even into the hill country — the same long reach she'd felt in Byblos, in Cyprus, tightening now like a noose drawn slowly across the map. Every day they remained was a risk — not just to themselves, but to the families who'd agreed to protect the Distribution Network fragments.
 
@@ -396,7 +396,7 @@ The girl thought for a long moment. "Tirzah. It's Canaanite. Means 'delight' or 
 
 "No. But they'll inherit the choice you made—and they can choose whether to pass it forward or let it end with them. Every generation makes that choice. That's agency enough."
 
-Nefertari felt tears she didn't expect. This twelve-year-old girl, who'd watched her mother die and her world crumble, who'd been turned into a genetic experiment without consent—she'd found a way to make it meaningful.
+Nefertari felt tears she didn't expect. This twelve-year-old girl, who'd seen her mother die and her world crumble, who'd been turned into a genetic experiment without consent—she'd found a way to make it meaningful.
 
 "Your mother would be proud," Nefertari whispered.
 
@@ -410,7 +410,7 @@ Nefertari felt tears she didn't expect. This twelve-year-old girl, who'd watched
 
 **Two days later: The Final Parting**
 
-Amenhotep returned from Egypt with his three bronze keys still in hand.
+Amenhotep returned from Egypt with his three bronze keys in hand.
 
 They met in the workshop one last time. Twenty years as colleagues. Six months as collaborators. Three months as opponents in a millennia-long experiment.
 

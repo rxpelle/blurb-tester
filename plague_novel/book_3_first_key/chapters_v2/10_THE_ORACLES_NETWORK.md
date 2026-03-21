@@ -15,13 +15,13 @@ The Oracle at Delphi was too accurate. Five years Kleomenes had watched, and the
 
 Diluted bloodlines—distant descendants with weak blood memory—delivered inconsistent prophecies. Sometimes accurate collapse-sight, sometimes complete nonsense, always unreliable. That was the established model. The inheritance degraded with distance from core bloodlines. Prophecy became noise.
 
-But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways diluted carriers shouldn't be.
+But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways a diluted bloodline shouldn't produce.
 
 He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings from every city-state in Greece, tripods and statues gleaming in the mountain light — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them — six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
 Except Kleomenes knew the Oracle wasn't divine.
 
-The current Pythia was Aristonike, age fifty-two, demonstrating blood memory activation consistent with Generation 20 defensive network bloodline. Diluted branch—her lineage traced back to Egyptian carriers from seven generations ago—but active carrier nonetheless.
+The current Pythia was Aristonike, age fifty-two, demonstrating blood memory activation consistent with Generation 20 defensive network bloodline. Diluted branch—her lineage traced back to Egyptian bloodlines from seven generations ago—but active nonetheless.
 
 Which meant she should deliver *some* accurate seeing mixed with plenty of confused visions.
 
@@ -35,9 +35,9 @@ Kleomenes felt cold settling into his bones.
 
 That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Classic collapse-sight—Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
 
-But Aristonike shouldn't have that level of analytical clarity. Not as a diluted carrier.
+But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.
 
-Unless Delphi wasn't just one diluted carrier delivering confused visions.
+Unless Delphi wasn't just one woman with thin blood delivering confused visions.
 
 Unless Delphi was something much more sophisticated.
 
@@ -51,41 +51,41 @@ Three weeks disguised as a minor priest. White linen robes, barley porridge and 
 
 The first thing he noticed: the Hosioi priests — the five who "interpreted" the Pythia's ecstatic utterances — took shifts. Not random shifts. A rotation that ensured at least two were present during every consultation. He watched their eyes during prophecy sessions. The unfocused quality. The micro-expressions of recognition when the Pythia described collapse trajectories.
 
-All carriers. Every one.
+All of them. Every one.
 
 He broke into the restricted archives on a feast night when the temple was loud with celebration — a low stone room behind the adyton, its wooden pigeonhole shelves holding wax tablets and papyrus scrolls, the heavy pivot-socket door sealed with a bronze pin. Found scrolls organized not by date but by *region* — Lydia, Ionia, Egypt, the Levant. Each scroll cross-referencing prophecies with geopolitical outcomes spanning two centuries. Margin notes in carrier shorthand he recognized from the defensive network's communication protocols.
 
-One message, encoded between Delphi and carriers in Sardis:
+One message, encoded between Delphi and operatives in Sardis:
 
 *Lydian expansion matches pre-collapse indicators. Military overextension. Economic strain. Recommend warning through prophecy without direct intervention. Suggest ambiguous wording that allows client to choose interpretation.*
 
 His hands were shaking. Not one oracle. A *network*. Institutional, systematic, scaled. The Pythia was just the public face.
 
-"You're the Athens carrier."
+"You're the one from Athens."
 
-Kleomenes spun. A woman stood in the doorway—mid-fifties, priestess robes, eyes showing the carrier recognition he'd learned to identify.
+Kleomenes spun. A woman stood in the doorway—mid-fifties, priestess robes, eyes showing the recognition he'd learned to identify.
 
 Aristonike. The current Pythia.
 
-"Generation twenty," Kleomenes said carefully. "Defensive network. Investigating why Delphic prophecies are too accurate for diluted carrier status."
+"Generation twenty," Kleomenes said carefully. "Defensive network. Investigating why Delphic prophecies are too accurate for diluted blood."
 
-"Because we're not just diluted carriers." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic."
+"Because we're not just scattered descendants with thin blood." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic."
 
 ---
 
 ## SCENE 3: The Oracle's Secret
 
-Aristonike led him deeper into the temple complex — past the inner cella with its eternal flame and Apollo's gold statue, down a narrow limestone stairway that smelled of sulphur and wet stone, to rooms visitors never saw. She unlocked a heavy door. Inside: five women, ages ranging from early twenties to late sixties, all showing carrier markers. All practicing prophecy delivery.
+Aristonike led him deeper into the temple complex — past the inner cella with its eternal flame and Apollo's gold statue, down a narrow limestone stairway that smelled of sulphur and wet stone, to rooms visitors never saw. She unlocked a heavy door. Inside: five women, ages ranging from early twenties to late sixties, all showing the markers. All practicing prophecy delivery.
 
-"Diluted carriers," Aristonike said. "Recruited. Trained in the seeing. Rotated through the Pythia role, supported by full carrier priests." She watched them with something between pride and grief. "We turned the noise into signal."
+"Diluted bloodlines," Aristonike said. "Recruited. Trained in the seeing. Rotated through the Pythia role, supported by full-blooded priests." She watched them with something between pride and grief. "We turned the noise into signal."
 
 "Rotate?" Kleomenes noticed how the older women's hands trembled, how their eyes had a distant quality even when not prophesying. "Why rotation?"
 
-Aristonike's expression darkened. "The sacred vapors. Pneuma—gases rising from a geological fault beneath the temple. They create the dissociative state needed for prophecy. But prolonged exposure..." She gestured to an elderly woman in the corner, mid-sixties, who rocked slowly while staring at nothing. "Neurological damage. Tremors. Memory loss. Confusion that never fully clears. We limit each Pythia to five-year terms. Some manage seven. None should serve longer than ten."
+Aristonike's expression darkened. "The sacred vapors. Pneuma—gases rising from a geological fault beneath the temple. They create the dissociative state needed for prophecy. But prolonged exposure..." She gestured to an elderly woman in the corner, mid-sixties, who rocked in place while staring at nothing. "Neurological damage. Tremors. Memory loss. Confusion that never fully clears. We limit each Pythia to five-year terms. Some manage seven. None should serve longer than ten."
 
 "And you?" Kleomenes studied Aristonike's face more carefully. The slight tremor in her left hand. The way her eyes sometimes drifted mid-sentence.
 
-"Fifteen years." She said it flatly. "I know. Too long. But I'm a full carrier—the seeing is strong enough in me to distinguish prophetic visions from gas-induced hallucinations. Most diluted carriers can't after a few years."
+"Fifteen years." She said it flatly. "I know. Too long. But I'm full-blooded—the seeing is strong enough in me to distinguish prophetic visions from gas-induced hallucinations. Most with diluted blood can't after a few years."
 
 She paused. Her eyes drifted — not the way they did during prophecy, but sideways, inward, as if chasing something through a corridor she couldn't quite see.
 
@@ -103,13 +103,13 @@ She looked at her hands. The left one was shaking. The right was still.
 
 "I'm serving the network." Her voice hardened. "I have maybe three more years before the damage becomes too severe. Then I'll train my replacement and retire to Athens. Live whatever's left."
 
-"And the offensive network knows about all this."
+"And Amenhotep's side knows about all this."
 
 ---
 
 ## SCENE 4: The Offensive Network's Response (The Twist)
 
-Aristonike led him to another secured room. Inside: encoded correspondence between Delphi and the offensive network.
+Aristonike led him to another secured room. Inside: encoded correspondence between Delphi and the Order.
 
 The messages weren't hostile. They were... *collaborative*.
 
@@ -151,7 +151,7 @@ It terrified them both. Not because it was strange, but because it felt inevitab
 
 "There has to be another way," Kleomenes said.
 
-"There isn't. This is what service costs." She didn't pull away. "Nefertari knew. She encoded the Protocol knowing it would burden carriers for three thousand years. Knowing we'd carry trauma that wasn't ours. Knowing some of us would break under the weight. But she believed the knowledge was worth the cost."
+"There isn't. This is what service costs." She didn't pull away. "Nefertari knew. She encoded the Protocol knowing it would burden her descendants for three thousand years. Knowing we'd carry trauma that wasn't ours. Knowing some of us would break under the cost. But she believed the knowledge was worth the cost."
 
 "And you? Do you believe it's worth this?" He touched her trembling hand.
 
@@ -173,7 +173,7 @@ Aristonike stared at him. "You came here to investigate. You've investigated. Go
 
 He didn't have a good answer. The pulse in his throat was still beating to her rhythm, and every rational argument he'd built over three weeks of investigation was dissolving under the simple fact that her hand had stopped shaking when he was near.
 
-"Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical, the way carriers spoke when the truth was too large for plain language. "And because I don't want you to do this alone."
+"Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical, the way people like them spoke when the truth was too large for plain language. "And because I don't want you to do this alone."
 
 She searched his face. Then she said: "I have three years. Maybe less. The tremors will get worse. I'll start forgetting things. Eventually I won't know who you are."
 
@@ -199,17 +199,17 @@ They stood in the archive room, surrounded by generations of prophecy records, b
 
 Aristonike's proposal divided them immediately.
 
-Kiya — Generation 18, forty years running the Memphis safe house — stood so fast her chair scraped stone. "That's offensive network methodology. Institutional control. Everything Nefertari split from Amenhotep to prevent."
+Kiya — Generation 18, forty years running the Memphis safe house — stood so fast her chair scraped stone. "That's the Order's methodology. Institutional control. Everything Nefertari split from Amenhotep to prevent."
 
 "Nefertari's network advises village councils," Kleomenes said. "Delphi advises kings. We can argue philosophy or we can acknowledge what's working."
 
-"And when it stops working? When a Pythia misreads her visions through toxic gas and a war starts because we were *wrong at scale*?" Kiya looked around the circle. "We survived six centuries because we were small. You want to make us big. Empires collapse under their own weight — that's the first lesson the blood teaches."
+"And when it stops working? When a Pythia misreads her visions through toxic gas and a war starts because we were *wrong at scale*?" Kiya looked around the circle. "We survived six centuries because we were small. You want to make us big. Empires fall under their own burden — that's the first lesson the blood teaches."
 
 The room fractured along the fault line both arguments had exposed. Kleomenes watched the faces — half seeing the opportunity, half seeing the trap.
 
 Eleven to nine.
 
-Approved: institutional prophecy operations and intelligence sharing with the offensive network — by a margin that made Kleomenes' stomach tight.
+Approved: institutional prophecy operations and intelligence sharing with the Order — by a margin that made Kleomenes' stomach tight.
 
 But Kiya extracted a condition: if any temple became a source of collapse rather than prevention, the network retained authority to shut it down. She didn't say *how*. The silence after the word "authority" said enough.
 
@@ -219,7 +219,7 @@ But Kiya extracted a condition: if any temple became a source of collapse rather
 
 **Five years later. 545 BCE. Delphi.**
 
-Kleomenes watched twelve new diluted carriers complete their training—the latest cohort for a network that now spanned fourteen temples, with three more in development. Dodona expanding. Siwa formalizing. Even smaller shrines requesting training protocols.
+Kleomenes watched twelve new recruits complete their training—the latest cohort for a network that now spanned fourteen temples, with three more in development. Dodona expanding. Siwa formalizing. Even smaller shrines requesting training protocols.
 
 Aristonike instructed the trainees from a chair now. Standing for long periods had become difficult. Her hands shook visibly as she gestured, though her voice remained precise — most days.
 
@@ -249,7 +249,7 @@ He told her. She repeated it twice, pressing it into her memory like a seal into
 
 Centuries into a three-thousand-year experiment.
 
-And the prophecy network was just beginning. But the woman who'd built it was already leaving — replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were slowly becoming more real than her own.
+And the prophecy network was just beginning. But the woman who'd built it was already leaving — replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own.
 
 ---
 
@@ -269,13 +269,13 @@ And the prophecy network was just beginning. But the woman who'd built it was al
 
 They met in the corridor behind the adyton — the inner sanctum where the Pythia sat on her bronze tripod above the earth's cleft, breathing the sweet pneuma that rose from the chasm — where the sacred vapors thinned enough to think clearly.
 
-Darius had been stationed at Delphi for six years. Officially, he was a Hosioi -- one of the five priests who interpreted the Pythia's ecstatic utterances into coherent prophecy. Unofficially, he was Generation 19, offensive network, embedded in the Oracle's institutional apparatus to study how the defensive network had managed to scale blood memory into civilizational influence.
+Darius had been stationed at Delphi for six years. Officially, he was a Hosioi -- one of the five priests who interpreted the Pythia's ecstatic utterances into coherent prophecy. Unofficially, he was Generation 19, one of Amenhotep's, embedded in the Oracle's institutional apparatus to study how Nefertari's side had managed to scale blood memory into civilizational influence.
 
 He'd learned a great deal. Enough to admire the system even as he worked to subvert it.
 
 The woman who stepped out of the shadow was not someone he'd expected to meet here.
 
-"You're Darius of Siwa." Not a question. She had the carrier's way of seeing -- eyes that tracked patterns rather than surfaces. Dark hair threaded with grey. Mid-forties, perhaps. Strong hands, steady despite the pneuma exposure that made most people's extremities shake.
+"You're Darius of Siwa." Not a question. She had the blood's way of seeing -- eyes that tracked patterns rather than surfaces. Dark hair threaded with grey. Mid-forties, perhaps. Strong hands, steady despite the pneuma exposure that made most people's extremities shake.
 
 "And you're Aristonike," Darius said. "Current Pythia. Generation 20, defensive network. Fifteen years of service, twelve more than the rotation protocol recommends."
 
@@ -305,7 +305,7 @@ Darius studied her. The tremor was worse than he'd documented in his reports to 
 
 "I've been tracking your keys for four centuries," he said. He hadn't planned to say it, but something about the corridor -- the intimacy of shared knowledge, the thin boundary between rivals who understood each other better than either understood the outside world -- made the truth easier than deception. "We found the Temple vault empty. Searched through rubble while Jerusalem burned. Your founder designed something we still cannot defeat."
 
-Aristonike's expression didn't change. "I know about the Temple search. We moved the Pattern Eye years before the siege. Carrier named Rachel saw the fall coming -- that's what we're trained to do."
+Aristonike's expression didn't change. "I know about the Temple search. We moved the Pattern Eye years before the siege. A woman named Rachel saw the fall coming -- that's what we're trained to do."
 
 "And your breeding programs," she said, and there was something in her voice that wasn't accusation. Something closer to clinical interest. "The people your network produces through controlled marriages. Their raw cognitive capacity exceeds anything our distributed bloodlines generate. Generation for generation, yours are stronger."
 
@@ -321,7 +321,7 @@ Aristonike's expression didn't change. "I know about the Temple search. We moved
 
 "Yes. And that choice is worth preserving."
 
-Darius felt the old argument rising -- the Order's fundamental conviction that allowing choice meant allowing preventable death, that every ignored prophecy represented lives that systematic intervention could have saved. But standing here, in the corridor behind the Oracle, facing a woman who was slowly poisoning herself to maintain an institution that honored human agency even when it led to catastrophe--
+Darius felt the old argument rising -- the Order's fundamental conviction that allowing choice meant allowing preventable death, that every ignored prophecy represented lives that systematic intervention could have saved. But standing here, in the corridor behind the Oracle, facing a woman who was poisoning herself to maintain an institution that honored human agency even when it led to catastrophe--
 
 "Centuries," he said. "And neither network has won."
 
@@ -329,7 +329,7 @@ Darius felt the old argument rising -- the Order's fundamental conviction that a
 
 The torch sputtered. Aristonike straightened, and the tremor in her hand was visible again -- a reminder that this conversation was happening inside a system that consumed the people who served it.
 
-"The Persians will move against Greece within a generation," she said. "Your network and mine both see it coming. When that war arrives, the compact will be tested -- carriers on both sides, fighting for nations that don't know what we are."
+"The Persians will move against Greece within a generation," she said. "Your network and mine both see it coming. When that war arrives, the compact will be tested -- our people on both sides, fighting for nations that don't know what we are."
 
 "The compact holds during war. It's held for six centuries."
 
@@ -343,9 +343,9 @@ She climbed the steps, one hand trailing the wall for balance. Darius watched he
 
 He would include none of this conversation in his report to the Order.
 
-Some things belonged to the corridor. To the space between networks where carriers recognized each other not as enemies but as parallel answers to the same impossible question.
+Some things belonged to the corridor. To the space between networks where they recognized each other not as enemies but as parallel answers to the same impossible question.
 
-He would report the institutional structure. The diluted carrier training program. The prophecy success rates. The operational intelligence the Order needed to maintain its position at Delphi.
+He would report the institutional structure. The training program for diluted bloodlines. The prophecy success rates. The operational intelligence the Order needed to maintain its position at Delphi.
 
 But the conversation -- the moment of mutual recognition between two people carrying centuries of opposing philosophies, standing in a gas-filled corridor beneath a temple built on the premise that knowledge should be offered and choice preserved--
 

@@ -14,7 +14,7 @@ Below them, terraced fields where drought-resistant barley grew in careful rows.
 
 "What do you see?" Tirzah asked her son.
 
-The boy—Ephraim, she'd named him, meaning "fruitful" in the local language—studied the fields below. Seven years old. Bright. Curious. And if Nefertari's encoding had worked, carrying blood memory from Tausret through Tirzah into this third generation.
+The boy—Ephraim, she'd named him, meaning "fruitful" in the local language—studied the fields below. Seven years old. Bright. Curious. And if Nefertari's encoding had worked, carrying the inheritance from Tausret through Tirzah into this third generation.
 
 "Farmers," Ephraim said. "Planting."
 
@@ -46,7 +46,7 @@ There it was. Not just observation—*seeing the why beneath the what.*
 
 Tirzah knelt beside her son. "Do you remember the stories I've told you? About your grandmother Tausret? About Egypt before we came here?"
 
-"The collapse," Ephraim said. His voice was small. "When the cities burned and everyone fled."
+"The fall," Ephraim said. His voice was small. "When the cities burned and everyone fled."
 
 "Yes. And do you know why it happened?"
 
@@ -56,31 +56,31 @@ He shook his head.
 
 "Is that why you're teaching me this? To see the connections?"
 
-"Yes. Because someday—maybe not in your lifetime, maybe not for a thousand years—the collapse will threaten again. And when it does, our descendants need to see it coming. They need to read the warning signs early enough to stop it."
+"Yes. Because someday—maybe not in your lifetime, maybe not for a thousand years—the unraveling will threaten again. And when it does, our descendants need to see it coming. They need to read the warning signs early enough to stop it."
 
-"Can collapse be stopped?"
+"Can it be stopped?"
 
-Tirzah thought of Amenhotep, wherever he was now. Egypt, probably. Building his offensive network. Teaching his carriers that collapse was inevitable and control was the only answer.
+Tirzah thought of Amenhotep, wherever he was now. Egypt, probably. Building his offensive network. Teaching his people that the break was inevitable and control was the only answer.
 
 "I believe it can," she said. "But only if we recognize it in time. That's why you need to learn this. Not just with your mind—with your blood. With the memory you inherited from Tausret."
 
 Ephraim said nothing for a while.
 
-Then: "Does it hurt? The seeing?"
+Then: "Does it hurt? The sight?"
 
 The question caught her off guard. "What do you mean?"
 
 "Sometimes I dream about things I've never seen. A big city with canals. Stone buildings. Lots of people. And then... fire. Screaming. Everyone running." His voice got smaller. "Is that real? Or just nightmares?"
 
-Tirzah pulled him close. The inheritance was activating. He was seeing Pi-Ramesses. Seeing the collapse through Tausret's eyes, filtered through Tirzah's memories, encoded in his own developing mind.
+Tirzah pulled him close. The inheritance was activating. He was seeing Pi-Ramesses. Seeing the fall through Tausret's eyes, filtered through Tirzah's memories, encoded in his own developing mind.
 
-"It's real," she said softly. "Trauma marks the body in ways that pass forward—pulse rhythms, stress responses, even memories themselves. Nefertari amplified those markers, encoded the seeing itself into our blood. You're not imagining Pi-Ramesses. You're remembering it through Tausret's eyes, through my eyes, through three generations of inherited witness."
+"It's real," she said softly. "Trauma marks the body in ways that pass forward—pulse rhythms, stress responses, even memories themselves. Nefertari amplified those markers, encoded the sight itself into our blood. You're not imagining Pi-Ramesses. You're remembering it through Tausret's eyes, through my eyes, through three generations of inherited witness."
 
 She turned his face toward hers. "And yes, sometimes it hurts to carry them. But that pain has a purpose."
 
 "What purpose?"
 
-"To make sure we never forget how bad it can get. So we stay vigilant. So we keep watching for the signs." She touched his chest. "Your grandmother Tausret was a pharaoh. She could have run when the collapse started. Saved herself. But instead she stayed and tried to save everyone. She died doing it. And Nefertari—the physician who saved us—she spent her whole life trying to encode Tausret's compassion into our bloodline. The ability to see suffering and refuse to accept it."
+"To make sure we never forget how bad it can get. So we stay vigilant. So we keep watching for the signs." She touched his chest. "Your grandmother Tausret was a pharaoh. She could have run when the crisis started. Saved herself. But instead she stayed and tried to save everyone. She died doing it. And Nefertari—the physician who saved us—she spent her whole life trying to encode Tausret's compassion into our bloodline. The ability to see suffering and refuse to accept it."
 
 "Did it work?"
 
@@ -100,13 +100,13 @@ She stood and brushed the dirt from her tunic. "Come. There's more to learn befo
 
 The defensive network had grown slowly over the years since Egypt.
 
-Tirzah sat now with five others in her stone house — oil lamps flickering in wall niches, a loom standing idle in the corner, the smell of lentil stew drifting from the cooking hearth. Refugees and survivors who'd found their way to the Canaanite hill country after the collapse. They gathered monthly at the new moon, these survivors. Sharing knowledge over bread and wine. Teaching the next generation. Building practices that could endure even if institutions failed.
+Tirzah sat now with five others in her stone house — oil lamps flickering in wall niches, a loom standing idle in the corner, the smell of lentil stew drifting from the cooking hearth. Refugees and survivors who'd found their way to the Canaanite hill country after the fall. They gathered monthly at the new moon, these survivors. Sharing knowledge over bread and wine. Teaching the next generation. Building practices that could endure even if institutions failed.
 
-The Phoenician trader spoke — older now, graying, hands still stained with the murex-shell dye of his profession. He was studying trade reports scratched on potsherds, and his expression had changed.
+The Phoenician trader spoke — older now, graying, hands stained with the murex-shell dye of his profession. He was studying trade reports scratched on potsherds, and his expression had changed.
 
 "Grain prices in Sidon," he said. "Rising faster than drought conditions explain. Could be merchant hoarding. Could be the start of something worse—resource anxiety triggering selfishness."
 
-Recognition flashed through her. The trader had no blood memory, no bloodline connection to Tausret. But years of training had taught him to read the signs. The defensive network wasn't just about inheritance—it was about *teaching* the way of seeing.
+Recognition flashed through her. The trader had no inherited memory, no bloodline connection to Tausret. But years of training had taught him to read the signs. The defensive network wasn't just about inheritance—it was about *teaching* the physician's eye.
 
 "You've learned well," Tirzah said.
 
@@ -118,15 +118,15 @@ The Phoenician looked embarrassed. "I'll never see what you see. No ancestral dr
 
 "That's early. You didn't start having those until you were twelve."
 
-"The encoding is strengthening," Tirzah said. "Each generation, the blood memory gets clearer. Nefertari predicted this—trauma markers stacking, each generation reinforcing the last. By Generation 10, carriers might remember collapse as vividly as if they'd lived it themselves."
+"The encoding is strengthening," Tirzah said. "Each generation, the genetic memory gets clearer. Nefertari predicted this—trauma markers stacking, each generation reinforcing the last. By Generation 10, those in the bloodline might remember the fall as vividly as if they'd lived it themselves."
 
 The words came out smooth. Practiced. She'd said them so many times she almost believed them. But some nights she heard Ephraim screaming through dreams of a burning city he'd never seen, and the smooth words turned to ash.
 
 "And if Amenhotep's network is teaching the opposite?" the scribe pressed. "If they're using the inheritance to justify control instead of prevention?"
 
-"Then we're in a race," Tirzah said. "Whose philosophy persists longer. Whose carriers stay truer to the original purpose. Which approach actually prevents the next collapse."
+"Then we're in a race," Tirzah said. "Whose philosophy persists longer. Whose people stay truer to the original purpose. Which approach actually prevents what's coming."
 
-Somewhere in Egypt, Amenhotep was teaching his carriers different lessons. The same seeing, opposite purpose.
+Somewhere in Egypt, Amenhotep was teaching his people different lessons. The same sight, opposite purpose.
 
 She looked around the circle. "That's why it has to be more than knowledge. It has to be practice. Priestesses protecting keys for bloodlines they'll never meet. Archivists preserving fragments for descendants a thousand years away. Something that outlasts any one of us."
 
@@ -136,7 +136,7 @@ Tirzah's left hand moved before she could stop it. Reached to the side — towar
 
 "Every day," she said. "I was twelve when they walked in opposite directions. I keep seeing it — the doorway, the two of them moving apart, how neither one turned around." She shook her head. "That's the image I carry. Not a physician's image. A child's."
 
-She looked at her weathered hands. "I'll probably die here. My son will grow up Canaanite, not Egyptian. By Generation 5, our family won't even remember we were royalty once. But the genetic memory will persist. And when collapse threatens again, someone in our bloodline will see it coming."
+She looked at her weathered hands. "I'll probably die here. My son will grow up Canaanite, not Egyptian. By Generation 5, our family won't even remember we were royalty once. But the genetic memory will persist. And when the unraveling threatens again, someone in our bloodline will see it coming."
 
 "You really believe that?" the priestess asked.
 
@@ -168,7 +168,7 @@ Tirzah listened to the pattern. Trade networks disrupting. Resource hoarding sta
 
 But she'd seen this before.
 
-Not personally—she'd been twelve when they fled Egypt, too young to recognize the cascade forming. But through the blood. Through Tausret's eyes. This was how collapse started. Not with invasion. Not with catastrophe. With small breaks in the system that people dismissed as temporary problems until the whole structure failed.
+Not personally—she'd been twelve when they fled Egypt, too young to recognize the cascade forming. But through the blood. Through Tausret's eyes. This was how the break started. Not with invasion. Not with catastrophe. With small breaks in the system that people dismissed as temporary problems until the whole structure failed.
 
 She stepped into the circle of arguing elders.
 
@@ -180,9 +180,9 @@ They turned to her. Tirzah—the refugee woman from Egypt, healer and midwife, g
 
 "That's speculation," one elder said.
 
-"No. It's what the blood carries." Tirzah felt the seeing sharpening her sight. "A generation ago, this whole region collapsed because everyone made local decisions without seeing the system. Each choice made sense locally—hoard food, close borders, protect your own. But when every city does it, trade networks fragment. Then drought hits and no one can share resources. Then invasion comes and no one has allies. Each local decision cascades. That's how civilizations die—not from one catastrophe, but from a thousand rational choices that don't account for the system."
+"No. It's what the blood carries." Tirzah felt it sharpening her sight. "A generation ago, this whole region collapsed because everyone made local decisions without seeing the system. Each choice made sense locally—hoard food, close borders, protect your own. But when every city does it, trade networks fragment. Then drought hits and no one can share resources. Then invasion comes and no one has allies. Each local decision cascades. That's how civilizations die—not from one catastrophe, but from a thousand rational choices that don't account for the system."
 
-"You were a child when the collapse happened."
+"You were a child when the fall happened."
 
 "But my grandmother wasn't. Pharaoh Tausret watched this exact pattern destroy Egypt. And she taught me—through bloodline, through memory—how to recognize it early."
 
@@ -192,7 +192,7 @@ Tirzah pushed forward. "Send the grain to the temple anyway. I'll go to the coas
 
 "And if they won't listen?"
 
-"Then we adapt. Find new trade routes. Build new networks. But we don't break cooperation ourselves. That's how collapse wins."
+"Then we adapt. Find new trade routes. Build new networks. But we don't break cooperation ourselves. That's how ruin wins."
 
 ---
 
@@ -214,13 +214,13 @@ She walked out before they could see her hands shaking.
 
 The traders resumed their routes. The grain flowed to temples and back out to villages. The network held. At harvest, the Sidonian merchants sent a runner with the collar wrapped in cedar cloth. Tirzah held it for a long time before putting it back in the pouch. It felt lighter than she remembered, as if the part of her it had represented had burned off somewhere on the road to the coast.
 
-It was a small victory. Barely noticed. But Tirzah understood: preventing collapse meant catching these small breaks before they cascaded. It meant reading the signs early. It meant intervention before crisis — and crisis always extracted a price.
+It was a small victory. Barely noticed. But Tirzah understood: preventing the unraveling meant catching these small breaks before they cascaded. It meant reading the signs early. It meant intervention before crisis — and crisis always extracted a price.
 
 When she returned home, Ephraim was waiting.
 
 "You stopped it," he said. "The pattern. The thing that was starting."
 
-"I slowed it," Tirzah corrected. "Collapse is always there, waiting. We just have to keep recognizing it in time."
+"I slowed it," Tirzah corrected. "The break is always there, waiting. We just have to keep recognizing it in time."
 
 "Will I have to do this too? When I'm grown?"
 
@@ -258,13 +258,13 @@ The trader had described a settlement in the hill country above the Jezreel Vall
 
 And the son. Seven years old. A boy who watched crop rotations and asked why the soil needed rest. Who noticed when trade routes shifted and told the village elders before they noticed themselves.
 
-The blood memory was activating in Generation 3. Earlier than Amenhotep had predicted. He'd estimated Generation 5 before the encoding produced observable behavioral changes. Either Nefertari's training methods were more effective than he'd given her credit for, or the defensive encoding carried properties neither of them fully understood.
+The inherited memory was activating in Generation 3. Earlier than Amenhotep had predicted. He'd estimated Generation 5 before the encoding produced observable behavioral changes. Either Nefertari's training methods were more effective than he'd given her credit for, or the defensive encoding carried properties neither of them fully understood.
 
 Both possibilities concerned him.
 
 He unrolled a fresh papyrus and began composing instructions for his agent in Sidon.
 
-*Confirm location of Tirzah and her son in the hill country settlements. Do not approach. Do not engage the community. Report quarterly on the boy's development — cognitive patterns, social behavior, any evidence of the seeing activating.*
+*Confirm location of Tirzah and her son in the hill country settlements. Do not approach. Do not engage the community. Report quarterly on the boy's development — cognitive patterns, social behavior, any evidence of the sight activating.*
 
 He paused, stylus hovering.
 

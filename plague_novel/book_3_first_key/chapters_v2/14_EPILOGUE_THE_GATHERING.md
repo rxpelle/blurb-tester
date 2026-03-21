@@ -12,9 +12,9 @@ The warmth had been there as long as he could remember.
 
 Not fever. Not sunlight. Something internal — a heat that lived on the left side of his chest, just beneath the ribs, as if someone had pressed a warm hand there long ago and the skin had never cooled. His mother thought it was a childhood illness when he described it at three. The village healer thought it was digestive trouble at seven. By twelve, Jesus had stopped mentioning it to anyone, because the warmth wasn't a symptom. It was a presence.
 
-He felt it strongest at night. Lying on his sleeping mat in the workshop — wood shavings on the packed-earth floor, the smell of cedar and olive oil, an adze and a bow drill and a bronze plumb line hanging from pegs his father had driven into the limestone wall before he died, a half-finished yoke clamped to the sycamore workbench — Jesus would feel the warmth spread from his left side across his chest, down his arm, into his fingers. And his left hand would move. Not deliberately. The way a sleeping person shifts toward a body that isn't there. His hand would reach to the side, fingers spreading, searching for something his mind couldn't name but his blood remembered with absolute specificity: the exact temperature of another person's skin. The pressure of fingers threading through his. The particular architecture of a hand that fit his the way a key fits a lock — not because they were designed for each other, but because twenty years of proximity had worn them into complementary shapes, the way a river wears stone.
+He felt it strongest at night. Lying on his sleeping mat in the workshop — wood shavings on the packed-earth floor, the smell of cedar and olive oil, an adze and a bow drill and a bronze plumb line hanging from pegs his father had driven into the limestone wall before he died, a half-finished yoke clamped to the sycamore workbench — Jesus would feel the warmth spread from his left side across his chest, down his arm, into his fingers. And his left hand would move. Not deliberately. The way a sleeping person shifts toward a body that isn't there. His hand would reach to the side, fingers spreading, searching for something his mind couldn't name but his body remembered with absolute specificity: the exact temperature of another person's skin. The pressure of fingers threading through his. The particular architecture of a hand that fit his the way a key fits a lock — not because they were designed for each other, but because twenty years of proximity had worn them into complementary shapes, the way a river wears stone.
 
-He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it the way he knew the collapse patterns and the palace fires and the smell of burning papyrus — through blood memory so vivid it was indistinguishable from experience. He had *lived* it. Not as himself. As someone older. As two people, actually — a woman and a man, both physicians, both brilliant, both so completely woven into each other's daily existence that their bodies had become a single system with two hearts.
+He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it the way he knew the collapse patterns and the palace fires and the smell of burning papyrus — through inherited memory so vivid it was indistinguishable from experience. He had *lived* it. Not as himself. As someone older. As two people — a woman and a man, both physicians, both brilliant, both so completely woven into each other's daily existence that their bodies had become a single system with two hearts.
 
 He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus — three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated — shallow, almost silent, a rhythm so specific he could have identified her in a dark room by the sound of her lungs alone.
 
@@ -30,7 +30,7 @@ He felt it all.
 
 The first time it happened, he was teaching beside the lake.
 
-Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass. Fishermen's families, mostly — women with salt-cracked hands in faded linen head coverings, men whose faces had been carved by wind into permanent squints, their rough wool tunics still smelling of the morning's catch, children sitting cross-legged in the dirt pulling grass apart while their parents listened. A Roman tax collector's booth was visible on the road below, and beyond it the lake where tarred fishing boats rocked at anchor beside the stone piers of the fish-salting works. Jesus was explaining a parable about seeds falling on different soil, pacing the way he always paced when the patterns were flowing, bare feet on warm basalt, hands gesturing at the lake and the hills and the terraced fields beyond as if the whole landscape were a text he was reading aloud.
+Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass. Fishermen's families, mostly — women with salt-cracked hands in faded linen head coverings, men whose faces had been carved by wind into permanent squints, their rough wool tunics smelling of the morning's catch, children sitting cross-legged in the dirt pulling grass apart while their parents listened. A Roman tax collector's booth was visible on the road below, and beyond it the lake where tarred fishing boats rocked at anchor beside the stone piers of the fish-salting works. Jesus was explaining a parable about seeds falling on different soil, pacing the way he always paced when the patterns were flowing, bare feet on warm basalt, hands gesturing at the lake and the hills and the terraced fields beyond as if the whole landscape were a text he was reading aloud.
 
 He was mid-sentence — something about roots in shallow ground — when the warmth moved.
 
@@ -74,13 +74,13 @@ A bird called from the scrub near the water. The wind moved through the grass an
 
 People blinked. Wiped faces. Looked at each other with the dazed tenderness of survivors. Nobody spoke. There was nothing to say that wouldn't reduce what had happened to something smaller than it was.
 
-They left slowly. In pairs, in families, holding each other. The woman from the front row walked with both hands pressed to her left side, as if she could hold the warmth there, keep it from fading. The fisherman on the rock stayed after everyone else had gone, staring at the lake, his hand still pressed against his forearm where the phantom wound still bled.
+They left slowly. In pairs, in families, holding each other. The woman from the front row walked with both hands pressed to her left side, as if she could hold the warmth there, keep it from fading. The fisherman on the rock stayed after everyone else had gone, staring at the lake, his hand pressed against his forearm where the phantom wound bled on.
 
 ---
 
 Simon found him at the water's edge after dark.
 
-Jesus was sitting with his feet in the lake, hands braced on the black basalt shore behind him, a beached fishing boat upturned nearby, its hull still wet with lake water and smelling of tar and tilapia. The warmth was quieter now — not gone, never gone, but settled. The way a fire settles after the initial blaze, still hot at the center, still capable of burning.
+Jesus was sitting with his feet in the lake, hands braced on the black basalt shore behind him, a beached fishing boat upturned nearby, its hull wet with lake water and smelling of tar and tilapia. The warmth was quieter now — not gone, never gone, but settled. The way a fire settles after the initial blaze, hot at the center, capable of burning.
 
 Simon sat beside him. Neither of them spoke. The lake moved. Stars emerged.
 
@@ -88,7 +88,7 @@ Simon sat beside him. Neither of them spoke. The lake moved. Stars emerged.
 
 Jesus said nothing.
 
-"I've been a carrier my whole life," Simon said. "I've dreamed the collapse. The burning cities. The refugees. But I never felt — " He gestured at the hillside. At the empty place where forty people had wept together. "That wasn't the old skill. That wasn't the physician's eye. That was — "
+"I've had the blood my whole life," Simon said. "I've dreamed the collapse. The burning cities. The refugees. But I never felt — " He gestured at the hillside. At the empty place where forty people had wept together. "That wasn't the old skill. That wasn't the physician's eye. That was — "
 
 "I don't know what it was."
 
@@ -98,7 +98,7 @@ Simon looked at him.
 
 "Something else."
 
-"I felt them weeping. Forty people. None of them with the blood. None of them bloodline. And it reached them anyway. Moved through people who have no genetic connection to the Protocol, no inherited memory, no reason to feel what they felt." He looked at his hands — carpenter's hands, scarred and calloused, the hands of a man who built things. "If it were only genetic, it would only reach carriers. But it didn't. It reached everyone."
+"I felt them weeping. Forty people. None of them with the blood. None of them bloodline. And it reached them anyway. Moved through people who have no genetic connection to the Protocol, no inherited memory, no reason to feel what they felt." He looked at his hands — carpenter's hands, scarred and calloused, the hands of a man who built things. "If it were only genetic, it would only reach people like us. But it didn't. It reached everyone."
 
 The lake. The stars. The sound of water finding its level in the dark.
 
@@ -114,15 +114,15 @@ Jesus was quiet.
 
 "I'm going to teach the love. Because the love is what survived. Not the systems theory. Not the seeing. Not the keys or the network or the Protocol. The *love*. That's what encoded deeper than anything else. That's what built up across all that time while everything else fragmented and degraded and was forgotten. The knowledge scattered. The keys were lost. The networks split and splintered and barely remember their own origins." His voice was steady now. "But the love is *stronger* than it was at the beginning. It didn't fade. It gathered."
 
-Simon said nothing. His hand was still on his left side, holding the place where the warmth had touched him.
+Simon said nothing. His hand was on his left side, holding the place where the warmth had touched him.
 
 "Love your neighbor as yourself," Jesus said. And then stopped. Because the words, which he'd been carrying for months as a teaching, as a principle, suddenly felt different in his mouth. Not an instruction. Not a commandment. A description of what had happened on the hillside. A name for what the warmth did when it moved through people — dissolved the boundary between self and other, between my grief and your grief, between the love I carry and the love you've been missing. For one moment on that hillside, forty people had loved each other as themselves. Not because they chose to. Because the love chose them.
 
-He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs — quieter now, settled, but still there. Still reaching. Still searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to understand as the voice of God.
+He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs — quieter now, settled, but there. Still reaching. Searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to understand as the voice of God.
 
 ---
 
-He walked home to Nazareth the next morning. A full day on the road through hills still wet with dew — past Roman milestones and donkey caravans and women carrying water jars on their heads, through villages where the smell of baking flatbread drifted from clay tabun ovens, the black basalt dust of the lakeshore giving way to the pale limestone of the ridge above the Jezreel. The sunrise behind him turned the Sea of Galilee to copper, and by the time he reached his door the stars were out again. His workshop was as he'd left it — a flat-roofed stone room beside the house, its doorway facing the narrow Nazareth street, a clay oil lamp still in its wall niche from the night before. Half-finished table on the sycamore bench, tools in their places, wood shavings on the floor that he never swept because they smelled like his father.
+He walked home to Nazareth the next morning. A full day on the road through hills wet with dew — past Roman milestones and donkey caravans and women carrying water jars on their heads, through villages where the smell of baking flatbread drifted from clay tabun ovens, the black basalt dust of the lakeshore giving way to the pale limestone of the ridge above the Jezreel. The sunrise behind him turned the Sea of Galilee to copper, and by the time he reached his door the stars were out again. His workshop was as he'd left it — a flat-roofed stone room beside the house, its doorway facing the narrow Nazareth street, a clay oil lamp in its wall niche from the night before. Half-finished table on the sycamore bench, tools in their places, wood shavings on the floor that he never swept because they smelled like his father.
 
 He stood in the doorway. The warmth was there, in his chest, where it always was. His left hand moved. Reached to the side. Found nothing.
 

@@ -71,7 +71,7 @@ Dying. Tausret was dying.
 
 Skin gray as ash beneath the sweat. Breath rattling in lungs already drowning. The broad gold wesekh collar still circled Tausret's neck — lapis, carnelian, and turquoise in falcon-wing rows — but it looked obscene now, power adorning a corpse. Faience beads scattered across linen sheets where fever tremors had thrown them. The sleeping chamber stank of sickness despite the frankincense burning in bronze braziers, despite the natron and myrrh the servants had placed in clay bowls beneath the bed. Rot and sweat and the particular stench of respiratory fever eating someone from the inside.
 
-Forty-six years old. Eight years as Pharaoh. Survived political coups, foreign invasions, three seasons of drought, the slow-motion collapse of every trading partner Egypt had ever known.
+Forty-six years old. Eight years as Pharaoh. Survived political coups, foreign invasions, three seasons of drought, the slow-motion failure of every trading partner Egypt had ever known.
 
 Dying now from giving water to a refugee.
 
@@ -221,7 +221,7 @@ But somewhere in Nefertari's mind, a different thought was crystallizing:
 
 She didn't know how yet. Only that she had to try.
 
-Because if Tausret's final request had taught her anything, it was this: The only thing worth saving from collapse wasn't buildings or gold or empires.
+Because if Tausret's final request had taught her anything, it was this: The only thing worth saving from the wreckage wasn't buildings or gold or empires.
 
 It was knowing how *not to do this again.*
 
@@ -250,7 +250,7 @@ Now they worked in a borrowed smithy in the Canaanite hills, six months after Ta
 
 But Amenhotep still breathed the same way. And her lungs still followed.
 
-Seven bronze discs lay on the bench between them, each inscribed with a symbolic language encoding collapse patterns into visual form. Not hieroglyphics — something deeper. Bronze that would outlive empires.
+Seven bronze discs lay on the bench between them, each inscribed with a symbolic language encoding the fall's patterns into visual form. Not hieroglyphics — something deeper. Bronze that would outlive empires.
 
 They worked in their old rhythm. She heated the mold; he prepared the inscription template. She poured; he monitored cooling rates. Bodies moving around each other in a space, anticipating, adjusting. The old language of taps and glances, fluent as ever, effortless as ever.
 
@@ -258,7 +258,7 @@ Breaking her heart.
 
 In three days, when the last key was cast, he would take his share and walk back toward Egypt. And something she couldn't name would break.
 
-"The catastrophe clock is ready." Amenhotep's voice came from across the workshop. He held up one of the completed discs, turning it in the lamplight. "Population density thresholds, resource depletion curves, political fragmentation markers. Everything we've documented from the current collapse, encoded."
+"The catastrophe clock is ready." Amenhotep's voice came from across the workshop. He held up one of the completed discs, turning it in the lamplight. "Population density thresholds, resource depletion curves, political fragmentation markers. Everything we've documented from what's happening, encoded."
 
 Nefertari didn't look up from her own work. "And useless unless someone can read it."
 
@@ -340,7 +340,7 @@ Amenhotep wanted to merge them. One unified system, centralized control, managed
 
 She wanted them separated. Scattered. Hidden. Let the future choose which path to take.
 
-"What about Tausret's daughter?" Nefertari asked quietly.
+"What about Tausret's daughter?" Nefertari asked.
 
 "What about her?"
 
@@ -368,7 +368,7 @@ He said nothing. Neither did she.
 
 Finally, Amenhotep nodded. "Four keys to you. Three to me. We split Tausret's bloodline—one daughter stays with you and carries the defensive encoding. I'll find my own carriers for the offensive mode. We build separate networks, separate institutional backing, and we never combine the knowledge again unless—"
 
-"Unless the collapse is so severe that both approaches fail," Nefertari finished. "Then the keys merge, the networks cooperate, and maybe—maybe—humanity survives."
+"Unless the catastrophe is so severe that both approaches fail," Nefertari finished. "Then the keys merge, the networks cooperate, and maybe—maybe—humanity survives."
 
 "Agreed."
 

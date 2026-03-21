@@ -11,7 +11,7 @@
 
 ## SCENE 1: The Last Palace
 
-Taharqa had been Thrasymedes once, before the collapse took everything.
+Taharqa had been Thrasymedes once, before the fall took everything.
 
 He stood now in what remained of Tiryns' cyclopean walls — the megaron's great hearth cold, frescoes of boar hunts cracking on the walls, overturned pithoi leaking the last of the olive oil across the painted floor — watching smoke rise from Mycenae thirty stadia to the north. Third major palace to burn this season. Pylos had fallen two years ago—his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
 
@@ -23,7 +23,7 @@ Then the palaces started burning. And the dreams changed. Started showing him *w
 
 Mycenaean Greece was the world. The palaces were eternal. His dreams said otherwise.
 
-"Thrasymedes." His assistant approached — a young scribe in a wool chiton pinned at the shoulder with a bone clasp, his seal stone still hanging from his wrist though there was nothing left worth sealing. A tablet in his hand. "The latest tribute counts from Argos. They're... not good."
+"Thrasymedes." His assistant approached — a young scribe in a wool chiton pinned at the shoulder with a bone clasp, his seal stone hanging from his wrist though there was nothing left worth sealing. A tablet in his hand. "The latest tribute counts from Argos. They're... not good."
 
 Taharqa took the clay tablet, scanned the Linear B characters. Tribute down forty percent. Labor conscription failing. Regional centers ceasing communication. The administrative network fragmenting exactly as his dreams predicted.
 
@@ -49,11 +49,11 @@ When the navigator called "Land ahead" and the Nile Delta materialized through m
 
 **Avaris, Nile Delta.**
 
-Deborah had been expecting refugees for three years. Her collapse-sight had shown her the Aegean collapse cascading. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
+Deborah had been expecting refugees for three years. Her collapse-sight had shown her the Aegean crisis cascading. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
 
 She just hadn't expected one this aware.
 
-Thirty years of leading the defensive network since Nefertari's death, and the work had calcified something in her. She'd trained twelve carriers. Buried four. Watched the world burn in a slow arc from Egypt to Greece while her network scrambled to save what they could — which was never enough. Nefertari had believed in the Protocol with a convert's certainty. Deborah believed in it the way a surgeon believed in a tourniquet: it was the best tool available, which was not the same as believing it was good.
+Thirty years of leading our side since Nefertari's death, and the work had calcified something in her. She'd trained twelve carriers. Buried four. Watched the world burn in a slow arc from Egypt to Greece while her network scrambled to save what they could — which was never enough. Nefertari had believed in the Protocol with a convert's certainty. Deborah believed in it the way a surgeon believed in a tourniquet: it was the best tool available, which was not the same as believing it was good.
 
 The young Mycenaean — he called himself Taharqa now, had adopted an Egyptian name like he knew he'd never return home — sat across from her in the safe house, a mud-brick room in the Delta with reed mats on the floor and mosquito netting draped over the sleeping corners, the thick humid air carrying the smell of river silt and date palms through the window slits. He was describing his blood memory with precision that suggested deliberate encoding, not just passive dreams.
 
@@ -61,7 +61,7 @@ The young Mycenaean — he called himself Taharqa now, had adopted an Egyptian n
 
 "Your ancestors survived previous collapses," Deborah said. "Encoded the patterns. Passed them forward." She paused. "As did mine. A physician named Nefertari built a system around it — deliberately, across generations. She's been dead thirty years. I run what she built."
 
-Recognition flashed in his eyes. "You dream collapse too."
+Recognition flashed in his eyes. "You dream the fall too."
 
 "I inherited a network of people who do. And you've lost everyone."
 
@@ -79,7 +79,7 @@ Deborah waited.
 
 "Melantha." He said the name like testing a wound. "She was in the women's quarters when the walls came down. The cyclopean stones — you've never seen them. Blocks taller than a man, fitted so tight you couldn't slide a blade between them. They'd stood for four hundred years." His voice went flat. "It took one night for them to become a grave I couldn't open."
 
-He stared at the grain of the table. His hands were shaking, so he pressed them flat against the wood, the way she used to press hers against his chest when he talked too fast — *slow down, I want to hear all of it.*
+He stared at the grain of the table. His hands were shaking, so he held them against the wood, the way she used to hold hers against his chest when he talked too fast — *slow down, I want to hear all of it.*
 
 "She braided olive stems." The words came without permission now. "While she talked. While she listened. While she did nothing at all. Her fingers just moved — winding the stems around each other, making these little wreaths she'd leave everywhere. On the windowsill. On my writing desk. In the folds of my sleeping blankets. I'd find them weeks after she'd made them, dried out and brittle, and I'd know exactly which conversation she'd been having when her fingers shaped that particular knot."
 
@@ -87,7 +87,7 @@ He could see her hands now. Could always see her hands. In the market women weav
 
 "She breathed through her mouth when she slept. This shallow, quick sound, like a bird panting. I hated it the first year. Kept me awake. By the second year I couldn't sleep without it." He swallowed. "On the ships, crossing the Aegean, it was so quiet at night I thought I'd lose my mind. Two hundred people breathing and none of them sounded like her."
 
-His body still reached for her. That was the thing nobody told you about grief — it lived in the muscles, not the mind. He'd roll over in the dark and his arm would extend to the empty space where her warmth should be. His feet would angle toward her side of the room when he stood. His voice would drop to the low murmur he'd only ever used with her, then catch, finding no one to receive it.
+His body reached for her. That was the thing nobody told you about grief — it lived in the muscles, not the mind. He'd roll over in the dark and his arm would extend to the empty space where her warmth should be. His feet would angle toward her side of the room when he stood. His voice would drop to the low murmur he'd only ever used with her, then catch, finding no one to receive it.
 
 "There was a morning," he said. "Maybe three years before the end. She was sitting in the courtyard cracking almonds, and a gecko ran across her foot. She screamed — this absurd, strangled yelp — and threw an almond straight up in the air. It came down in my wine cup. Perfect drop. We both stared at it. And she started laughing. Not her normal laugh. Something that came from so deep in her body it bent her double, tears running, trying to breathe, and every time she looked at the almond in my wine she'd start again."
 
@@ -105,13 +105,13 @@ Deborah didn't move. She recognized the shape of his grief — not from her own 
 
 Neither of them spoke.
 
-"That's what encodes, Taharqa. Not the philosophy. The laugh you can't reproduce. The hands you see everywhere." She held his gaze. "Your children will carry yours. They won't know whose hands. They won't know whose screaming. But they'll know the shape of collapse. And they'll know the shape of love."
+"That's what encodes, Taharqa. Not the philosophy. The laugh you can't reproduce. The hands you see everywhere." She held his gaze. "Your children will carry yours. They won't know whose hands. They won't know whose screaming. But they'll know the shape of ruin. And they'll know the shape of love."
 
 "Is that supposed to comfort me?"
 
 "No. It's supposed to make sure it survives."
 
-Taharqa met her eyes. "The Mycenaean system is dead. So the question is: do I spend my life trying to rebuild it, or learn to build something that doesn't collapse the same way?"
+Taharqa met her eyes. "The Mycenaean system is dead. So the question is: do I spend my life trying to rebuild it, or learn to build something that doesn't break the same way?"
 
 "That's the question we've been working on for seventy-seven years."
 
@@ -121,7 +121,7 @@ Taharqa met her eyes. "The Mycenaean system is dead. So the question is: do I sp
 
 **Three months later.**
 
-Taharqa learned the defensive network operated nothing like Mycenaean palaces. No centralized control. No tribute hierarchies. Everything his palace training said was inefficient.
+Taharqa learned Nefertari's network operated nothing like Mycenaean palaces. No centralized control. No tribute hierarchies. Everything his palace training said was inefficient.
 
 And yet it was *surviving* while the palaces burned.
 
@@ -131,7 +131,7 @@ And yet it was *surviving* while the palaces burned.
 
 "You sound like you're trying to convince yourself."
 
-Deborah looked at him sharply. Then her expression shifted — not quite a smile. "The opposing network still believes centralized control prevents collapse better than what we do. Both approaches running in parallel for over a century." She met his eyes. "Nefertari was certain our way was right. I'm not. But I run it anyway, because someone has to."
+Deborah looked at him sharply. Then her expression shifted — not quite a smile. "The other side believes centralized control prevents the fall better than what we do. Both approaches running in parallel for over a century." She met his eyes. "Nefertari was certain our way was right. I'm not. But I run it anyway, because someone has to."
 
 ---
 
@@ -139,15 +139,15 @@ Deborah looked at him sharply. Then her expression shifted — not quite a smile
 
 **One year later.**
 
-Twelve Mycenaean refugees had shown the signs. Taharqa gathered them in the safe house courtyard, still carrying the weight of Melantha's almond trees in his chest, and asked them to decide what their children would inherit.
+Twelve Mycenaean refugees had shown the signs. Taharqa gathered them in the safe house courtyard, carrying the weight of Melantha's almond trees in his chest, and asked them to decide what their children would inherit.
 
 Aristomache, former priestess from Mycenae, asked the question that split the room: "Do we encode what we *lost* or what we *learned*? Because those are different things."
 
-Deborah's answer was immediate. "Data, not doctrine. The moment we choose which values the blood carries forward, we become the offensive network."
+Deborah's answer was immediate. "Data, not doctrine. The moment we choose which values the blood carries forward, we become the other side."
 
 But Aristomache wouldn't let it go. They'd *watched* the palaces burn. They *knew* why — centralized tribute systems, brittle hierarchies, no adaptation to shock. Encoding raw experience without that interpretation felt like cowardice.
 
-An older man named Philos argued back: the palaces didn't fail because centralization was inherently flawed. They failed because *those particular systems* couldn't adapt to *those particular shocks.* "Encode the experience. Let future carriers decide what it means."
+An older man named Philos argued back: the palaces didn't fail because centralization was inherently flawed. They failed because *those particular systems* couldn't adapt to *those particular shocks.* "Encode the experience. Let future generations decide what it means."
 
 Seven to five. Empirical observation — what happened, not what it meant.
 
@@ -222,37 +222,37 @@ He hoped that would be enough.
 **Private journal of Senbi, son of Nebet — Temple of Amun, Thebes**
 **Year 77 of the Protocol (1100 BCE)**
 
-I have maintained this record since my mother gave me the scriptorium keys. Khasekhem kept no personal journal — said institutional memory mattered more than individual reflection. But Khasekhem is seven years dead, seized in the night with breeding records still clutched in one hand, and I find I need to write what I cannot say aloud.
+I have maintained this record since my mother gave me the scriptorium keys. Khasekhem kept no personal journal — said institutional memory mattered more than individual reflection. But Khasekhem is seven years dead, seized in the night with breeding records clutched in one hand, and I find I need to write what I cannot say aloud.
 
 The world is getting larger. I do not know how to make my mother see this.
 
-A field dispatch arrived today. Hieratic script, precise, devastating: twelve ships from collapsed Greek palaces have reached the Nile Delta. Two hundred refugees. Among them, multiple individuals demonstrating collapse-sight consistent with carrier activation. One especially — a former palace scribe, now calling himself Taharqa — has already met with the defensive network at the Avaris safehouse.
+A field dispatch arrived today. Hieratic script, precise, devastating: twelve ships from collapsed Greek palaces have reached the Nile Delta. Two hundred refugees. Among them, multiple individuals demonstrating collapse-sight consistent with bloodline activation. One especially — a former palace scribe, now calling himself Taharqa — has already met with Nefertari's people at the Avaris safehouse.
 
-Natural carriers. Unengineered. Emerging from bloodlines that survived the fall through sheer luck, their blood memory activated by the same catastrophe that birthed the Protocol.
+Natural inheritors. Unengineered. Emerging from bloodlines that survived the fall through sheer luck, their genetic memory activated by the same catastrophe that birthed the Protocol.
 
-I brought the dispatch to my mother. She read it without expression, then burned it. That is her way. She runs the network the way Khasekhem did: deliberately, institutionally, through the priesthoods of Upper and Lower Egypt. Sixty-two active carriers on our side. Every one bred, documented, trained. Three generations of meticulous genealogical control.
+I brought the dispatch to my mother. She read it without expression, then burned it. That is her way. She runs the network the way Khasekhem did: deliberately, institutionally, through the priesthoods of Upper and Lower Egypt. Sixty-two active operatives on our side. Every one bred, documented, trained. Three generations of meticulous genealogical control.
 
-The defensive network scattered across the Mediterranean with a handful of carriers and trusted the universe to provide more.
+Nefertari's network scattered across the Mediterranean with a handful of people and trusted the universe to provide more.
 
 The universe is providing.
 
-My mother's response was immediate, practical. She sees the Greek branch as a problem to be managed: twelve people today, fifty in five generations, two hundred in ten. Natural carriers appearing across the Aegean, each one recruited into the defensive network's philosophy. She ordered three agents dispatched to Phoenician merchant vessels heading west — settle in Greek refugee communities, learn the language, marry locally, watch for children who dream of burning cities and failing trade networks.
+My mother's response was immediate, practical. She sees the Greek branch as a problem to be managed: twelve people today, fifty in five generations, two hundred in ten. Natural carriers appearing across the Aegean, each one recruited into the defensive network's philosophy. She ordered three agents dispatched to Phoenician merchant vessels heading west — settle in Greek refugee communities, learn the language, marry locally, watch for children who dream of burning cities and failing trade routes.
 
 I sealed the orders myself. Sound strategy. Institutional response to an institutional threat.
 
-But I find myself returning to the dispatch I copied before she burned it. The defensive network wasn't hunting these carriers. It wasn't breeding for them. It wasn't tracking genealogies or managing pairings. It simply existed — scattered, patient, open — and when the Greek carriers washed up on the Delta shore, the network was already there.
+But I find myself returning to the dispatch I copied before she burned it. Nefertari's network wasn't hunting for them. It wasn't breeding for them. It wasn't tracking genealogies or managing pairings. It simply existed — scattered, patient, open — and when the Greek refugees washed up on the Delta shore, the network was already there.
 
 We build. They grow.
 
-I do not write this as doubt. The offensive approach is sound. Breeding produces reliable carriers. Institutions persist. Our sixty-two trained operatives outperform their scattered handful in every measurable way.
+I do not write this as doubt. The offensive approach is sound. Breeding produces reliable operatives. Institutions persist. Our sixty-two trained operatives outperform their scattered handful in every measurable way.
 
-But measurable is the word that troubles me tonight. We measure what we engineer. We cannot measure what arrives uninvited. And the defensive network's greatest advantage may be precisely this: that it does not need to predict where the next carrier will emerge. It only needs to be present when they do.
+But measurable is the word that troubles me tonight. We measure what we engineer. We cannot measure what arrives uninvited. And their greatest advantage may be precisely this: that they do not need to predict where someone with the blood will emerge. It only needs to be present when they do.
 
 The temple priests are chanting the midnight liturgy. The network has embedded itself in these rhythms so completely that the priesthood no longer distinguishes between religious practice and network operations. That was always the point. Institutions persist. Distributed refugees do not.
 
 Except, it seems, when they do.
 
-I will seal this journal and place it with Khasekhem's breeding records. If future carriers read these words through the blood, let them understand: the experiment was evolving. Both sides needed to evolve with it. And one scribe in Thebes, sorting papyrus by lamplight, was not entirely certain his side was evolving fast enough.
+I will seal this journal and place it with Khasekhem's breeding records. If those who come after read these words through the blood, let them understand: the experiment was evolving. Both sides needed to evolve with it. And one scribe in Thebes, sorting papyrus by lamplight, was not entirely certain his side was evolving fast enough.
 
 ---
 

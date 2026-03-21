@@ -11,7 +11,7 @@
 
 ## SCENE 1: The Wrong Prophet
 
-Callias of Athens had been tracking Socrates for three years, waiting for the blood memory to activate.
+Callias of Athens had been tracking Socrates for three years, waiting for the inherited memory to activate.
 
 It never did.
 
@@ -25,9 +25,9 @@ The models had pointed to Socrates.
 
 And they were wrong.
 
-Callias stood now in the Athenian agora — the wide paved square bordered by the Stoa of Zeus and the Painted Stoa with its Marathon battle murals, plane trees casting dappled shade over stone-faced herms, merchants selling figs and olives and wine from open-fronted stalls — watching the old philosopher hold court with his students. Socrates was brilliant—no question. His dialectical method, his systematic questioning, his ability to expose contradictions in others' thinking. All signs of the physician's eye.
+Callias stood now in the Athenian agora — the wide paved square bordered by the Stoa of Zeus and the Painted Stoa with its Marathon battle murals, plane trees casting dappled shade over stone-faced herms, merchants selling figs and olives and wine from open-fronted stalls — observing the old philosopher hold court with his students. Socrates was brilliant—no question. His dialectical method, his systematic questioning, his ability to expose contradictions in others' thinking. All signs of the physician's eye.
 
-But it wasn't the inheritance. Callias would recognize the activation signature—the unfocused eyes during "visions," the dreams they couldn't explain, the compulsion to warn about collapse patterns they'd never personally witnessed.
+But it wasn't the blood. Callias would recognize the activation signature—the unfocused eyes during "visions," the dreams they couldn't explain, the compulsion to warn about collapse patterns they'd never personally witnessed.
 
 Socrates had none of that.
 
@@ -35,7 +35,7 @@ Socrates had none of that.
 
 The students hung on every word. Athens loved Socrates. Hated him. Couldn't ignore him.
 
-But the daimonion wasn't the inheritance. Callias had studied him carefully. It was just... philosophy. Exceptional reasoning. The kind of systematic thinking the defensive network taught, but arrived at independently through pure intellectual discipline.
+But the daimonion wasn't the gift. Callias had studied him carefully. It was just... philosophy. Exceptional reasoning. The kind of systematic thinking the defensive network taught, but arrived at independently through pure intellectual discipline.
 
 Socrates wasn't a diluted carrier.
 
@@ -53,7 +53,7 @@ A woman. Late twenties. Potter by trade, daughter of Athenian craftsmen. Unremar
 
 She was having the dreams.
 
-He stood across the workshop and saw the moment the seeing activated. Her hands stilled on the clay, the amphora's rim wobbling slightly under suddenly purposeless fingers. Eyes went distant. For ten seconds she was somewhere else—some*when* else—experiencing a collapse she'd never lived through.
+He stood across the workshop and saw the moment the sight activated. Her hands stilled on the clay, the amphora's rim wobbling slightly under suddenly purposeless fingers. Eyes went distant. For ten seconds she was somewhere else—some*when* else—experiencing a collapse she'd never lived through.
 
 Then she blinked, shook her head, and returned to her work.
 
@@ -71,7 +71,7 @@ The woman—Xanthe, he'd learned her name was—stared at him with the wariness 
 
 Xanthe's face went pale. "How do you know?"
 
-"Because I've been dreaming it for twenty-eight years. And my mother before me. And her mother before her." Callias stepped closer, lowering his voice. "The blood memory is activating, Xanthe. You're a carrier. And I can teach you what it means."
+"Because I've been dreaming it for twenty-eight years. And my mother before me. And her mother before her." Callias stepped closer, lowering his voice. "The genetic memory is activating, Xanthe. You're one of us. And I can teach you what it means."
 
 ---
 
@@ -81,7 +81,7 @@ Xanthe's face went pale. "How do you know?"
 
 "I don't want it."
 
-Callias stared at Xanthe across the table in the defensive network's Athens safe house. He'd spent two weeks teaching her everything — the Genesis Protocol, the inheritance, the network's structure. Fourteen days in this small room, watching her absorb information the way clay absorbs water — completely, structurally, becoming something new.
+Callias stared at Xanthe across the table in the defensive network's Athens safe house. He'd spent two weeks teaching her everything — the Genesis Protocol, the inheritance, the network's structure. Fourteen days in this small room, seeing her absorb information the way clay absorbs water — completely, structurally, becoming something new.
 
 On the ninth day she'd asked him to describe his worst dream. He'd told her about the physician in the burning city — the founding memory, the one every carrier inherited. Xanthe had listened without interrupting. Then she'd said, "You've been carrying that since you were three years old?" and the way she'd said it — not with pity but with a kind of precise horror, the way you'd react to learning someone had been walking on a broken leg for decades — had made him feel, for the first time, that the weight was visible to someone outside the network.
 
@@ -115,17 +115,17 @@ The realization came with the precision of the physician's eye — pattern recog
 
 Nobody had asked him. Nobody had come to his workshop when he was twenty-eight and said *here's what you're carrying, would you like to continue?* The inheritance had simply *arrived* — colonized his dreams, hijacked his attention, filled his head with the strategic assessments of twenty-four generations of people who'd never asked permission to move in. And now this woman — this *potter* — was being offered the same weight and she was setting it down like a cup she'd decided she didn't want.
 
-He hated her a little for it. The kind of hate that comes from watching someone walk through a door you didn't know existed.
+He hated her a little for it. The kind of hate that comes from seeing someone walk through a door you didn't know existed.
 
 The network had protocols for this. Diluted carriers who refused training were released. No pressure. No recruitment. No exploitation.
 
-But nobody had protocols for the carrier who sat across from the refusal and realized he'd never had the option. That the difference between him and Xanthe wasn't courage or philosophy — it was timing. She was diluted. Late activation. Twenty-eight years of living as herself before the dreams arrived. He'd been three. The blood had gotten to him before he'd had a self to lose.
+But nobody had protocols for the man who sat across from the refusal and realized he'd never had the option. That the difference between him and Xanthe wasn't courage or philosophy — it was timing. She was diluted. Late activation. Twenty-eight years of living as herself before the dreams arrived. He'd been three. The blood had gotten to him before he'd had a self to lose.
 
 "Why did you let me teach you?" he asked. His voice was steady. The jealousy burned beneath it like a coal under ash. "If you knew you'd refuse, why spend two weeks learning?"
 
 Xanthe smiled sadly. "Because I needed to know what I was rejecting. You can't choose ignorance unless you first know what knowledge costs. Now I know. And I choose differently."
 
-*You choose differently because you CAN choose,* Callias thought. *Because the blood didn't get to you first. Because you had twenty-eight years of being a potter before you were a carrier, and I had three years of being a boy before I was a vessel.*
+*You choose differently because you CAN choose,* Callias thought. *Because the blood didn't get to you first. Because you had twenty-eight years of being a potter before the blood found you, and I had three years of being a boy before I was a vessel.*
 
 He said none of this. The physician's eye was merciless in its self-diagnosis: the jealousy was irrational, unworthy, and completely justified.
 
@@ -139,11 +139,11 @@ Callias sat on the wooden benches of the Heliaia — the open-air court near the
 
 The verdict was predetermined. Athens wanted blood.
 
-But what Callias noticed—what made his carrier instincts scream—was who was orchestrating the trial.
+But what Callias noticed—what made his blood-deep instincts scream—was who was orchestrating the trial.
 
 *Amenhotep's people.*
 
-He recognized the seeing in the prosecution's strategy. The systematic dismantling of Socrates' defense. The careful manipulation of jury sentiment. This wasn't just Athenian politics—this was the physician's eye being weaponized against a philosopher who didn't have the blood.
+He recognized the physician's eye in the prosecution's strategy. The systematic dismantling of Socrates' defense. The careful manipulation of jury sentiment. This wasn't just Athenian politics—this was the physician's eye being weaponized against a philosopher who didn't have the blood.
 
 The other side was eliminating Socrates.
 
@@ -153,7 +153,7 @@ Unless—
 
 Callias' blood went cold as the pattern clicked into place.
 
-Socrates was developing philosophy independently. Teaching systematic thinking without the inheritance. Creating a school of thought that could spread the seeing to anyone through pure education.
+Socrates was developing philosophy independently. Teaching systematic thinking without the blood. Creating a school of thought that could spread the sight to anyone through pure education.
 
 Amenhotep's side couldn't allow that. If philosophy schools started teaching collapse prevention to everyone—if the knowledge escaped the bloodlines—their entire breeding program would become obsolete. Control would fragment.
 
@@ -177,7 +177,7 @@ Xanthe's hands stilled. A curl of clay dropped to the floor. "I heard."
 
 "If we let them eliminate every non-carrier who develops systems thinking, knowledge stays locked in bloodlines forever."
 
-"And if I join your network, I'm still someone's tool." She met his eyes. "You're not neutral observers, Callias."
+"And if I join your network, I'm just another tool." She met his eyes. "You're not neutral observers, Callias."
 
 He wanted to argue. He couldn't.
 
@@ -211,13 +211,13 @@ He pulled the cloth back one final time. "Crito, we owe a cock to Asclepius. Pay
 
 Then silence. Then Crito reached over and closed his eyes.
 
-Callias felt the weight of it settling into his blood. This death would encode. Future carriers would dream it. Would feel the pattern: knowledge versus control, distributed versus centralized, bloodline versus institution.
+Callias felt the weight of it settling into his blood. This death would encode. Those who came after would dream it. Would feel the pattern: knowledge versus control, distributed versus centralized, bloodline versus institution.
 
 And beneath the pattern, something that made no sense. His left hand had moved — reached sideways, fingers spread, searching for a hand that wasn't there. He noticed the gesture and couldn't account for it. A philosopher's student trained in Socratic method, and his own body was producing conclusions without premises. *I know you,* his blood was saying to the woman standing beside him, and the knowing had no syllogism behind it, no chain of reasoning he could trace, and that absence of logic disturbed him more than the death they were witnessing.
 
-Xanthe was crying silently beside him, the inheritance overlaying the present with visions of older executions, older martyrs.
+Xanthe was crying silently beside him, what the blood carried overlaying the present with visions of older executions, older martyrs.
 
-"He was right," she whispered. "Philosophy will outlive him. The Academy. The Lyceum. Stoicism. Epicureanism. All the schools that come after. They'll teach the seeing to millions—no special bloodline required. They killed him, but they couldn't kill the idea."
+"He was right," she whispered. "Philosophy will outlive him. The Academy. The Lyceum. Stoicism. Epicureanism. All the schools that come after. They'll teach the sight to millions—no special bloodline required. They killed him, but they couldn't kill the idea."
 
 "And you?" Callias asked. "Still choosing ignorance?"
 
@@ -233,15 +233,15 @@ Outside, in the corridor where nobody could see her face, Xanthe stopped. Presse
 
 She dropped her hand. Straightened. Walked toward Plato's Academy and didn't look back.
 
-Callias watched her go and couldn't reconcile what he felt with what he knew. He barely knew Xanthe. Two weeks of training and a shared vigil over a dying philosopher. The evidence didn't support this — this *certainty* flooding his chest, this conviction that he'd watched someone walk through a doorway like that before. His rational mind rejected it. His body didn't care. His left hand was reaching toward the empty doorway and he couldn't construct a single valid argument for why.
+Callias watched her go and couldn't reconcile what he felt with what he knew. He barely knew Xanthe. Two weeks of training and a shared vigil over a dying philosopher. The evidence didn't support this — this *certainty* flooding his chest, this conviction that he'd seen someone walk through a doorway like that before. His rational mind rejected it. His body didn't care. His left hand was reaching toward the empty doorway and he couldn't construct a single valid argument for why.
 
 He pulled his hand back. Pressed it flat against the prison wall. Held it there until the bewilderment passed, or at least until he could pretend it had.
 
-Callias stayed, watching Plato write furiously, encoding Socrates' teachings not in DNA but in words. Creating a legacy that would outlast bloodlines, outlive carriers, persist through institutions that would still exist two thousand years later.
+Callias stayed, studying Plato as he wrote furiously, encoding Socrates' teachings not in DNA but in words. Creating a legacy that would outlast bloodlines, outlive carriers, persist through institutions that would still exist two thousand years later.
 
 And the jealousy returned — not the hot flash from the safe house but something slower, colder, more permanent. Xanthe would study at the Academy. She would learn philosophy. She would carry the genetic memory like a scar she'd chosen not to treat — present, acknowledged, irrelevant to the life she was building. And on the days when the dreams came, she would wake up and go back to her wheel, center her clay, and live as though the eight hundred years of encoded grief in her blood were a condition to be managed rather than an identity to be surrendered to.
 
-She would be free. Not from the inheritance — nobody was free from that. But from the *network.* From the councils and the protocols and the strategic assessments and the knowledge that every personal decision was also a move in a three-thousand-year experiment. She would make pots. Study dialectic. Dream of burning cities. And the dreams would be hers alone — not reports to be filed, not intelligence to be analyzed, not evidence for which approach prevented collapse better.
+She would be free. Not from what the blood carried — nobody was free from that. But from the *network.* From the councils and the protocols and the strategic assessments and the knowledge that every personal decision was also a move in a three-thousand-year experiment. She would make pots. Study dialectic. Dream of burning cities. And the dreams would be hers alone — not reports to be filed, not intelligence to be analyzed, not evidence for which approach prevented collapse better.
 
 He envied her the way a man born in prison envied someone who'd visited voluntarily and decided to leave.
 
