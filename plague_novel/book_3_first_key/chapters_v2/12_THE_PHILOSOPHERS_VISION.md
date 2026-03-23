@@ -253,15 +253,17 @@ The Persian representative spoke first. "Unacceptable. She carries the inheritan
 
 "The point of what we do is survival. Not philosophy."
 
-A Levantine woman shook her head. "If we force carriers to serve, we're the Order. Different name, same leash."
+The room shifted. Callias could feel it — the old gravity pulling them toward compulsion, toward the certainty that the network's survival mattered more than any single carrier's freedom. He'd felt that gravity himself, every day since Socrates drank the hemlock.
 
-"And if we let every carrier with doubts walk away, the network dies in a generation."
+"There won't be a vote," Callias said.
 
-They argued until the lamps burned low. The Persian wanted a vote to compel. The Levantine wanted to let Xanthe go entirely. Callias proposed the middle: let her study, monitor the schools, learn what philosophy could offer the network.
+Silence.
 
-The vote split eight to four. Xanthe would be allowed to continue her hybrid path.
+"This is my recruitment. My responsibility. And I'm telling you: Xanthe walks free." He looked at the Persian. "If the network can't survive one person saying no, then it deserves to die. That's what Nefertari would have said. That's what Socrates proved. And if you disagree, you can put *me* before a vote instead."
 
-Nearly eight centuries after Nefertari created the Genesis Protocol, the defensive network admitted it might not have all the answers.
+No one moved. The Persian's jaw worked. The Levantine woman was watching Callias with something that might have been respect.
+
+"The philosophy schools stay open to us," Callias continued, quieter now. "We watch. We learn. And we accept that eight centuries after Nefertari created the Genesis Protocol, we might not have all the answers."
 
 ---
 
