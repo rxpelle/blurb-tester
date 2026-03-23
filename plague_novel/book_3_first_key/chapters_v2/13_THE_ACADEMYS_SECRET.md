@@ -155,7 +155,7 @@ Theophrastus found Aristotle in the garden at dusk, cataloguing plant specimens 
 
 They were not alone.
 
-Menestor sat on the low wall bordering the olive grove. Generation 25, Egyptian branch, the oldest active member of the defensive network. He'd arrived in Athens three days ago, after Theophrastus' urgent dispatch about Alexander. Beside him, cross-legged on the ground, the Spartan carrier Damophon cleaned his nails with a knife and said nothing. Two more of their people stood in the shadow of the colonnade. The defensive network's senior council, convened not in any formal chamber but here, in a philosopher's garden, because the philosopher was the problem.
+Menestor sat on the low wall bordering the olive grove. Generation 25, Egyptian branch, the oldest active member of the defensive network. He'd arrived in Athens three days ago, after Theophrastus' urgent dispatch about Alexander. Beside him, cross-legged on the ground, the Spartan carrier Damophon cleaned his nails with a knife and said nothing. Lykon of Thebes sat on the ground beside Damophon, soil still under his fingernails from whatever field he'd been reading that morning — he never arrived at a council meeting clean. One more of their people stood in the shadow of the colonnade. The defensive network's senior council, convened not in any formal chamber but here, in a philosopher's garden, because the philosopher was the problem.
 
 "Tell him," Menestor said to Theophrastus. "What you told us."
 
@@ -190,6 +190,12 @@ Damophon stopped cleaning his nails. "Then you understand what we're discussing.
 Damophon stood. "Enough philosophy. We have a weapon bred to conquer the known world. We can stop him now or spend the next thirty years managing the damage."
 
 "And become what?" Menestor hadn't moved from the wall. His voice carried the heaviness of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe."
+
+Lykon spoke for the first time. "There are three hundred families in the Boeotian plain who survive because I showed them where to dig wells. If Alexander marches south, those families are in his path." He looked at his dirty hands. "I don't care about the experiment. I care about the families."
+
+"Then warn them," Damophon said. "Get them out."
+
+"I will. But that's not what I'm asking." Lykon looked at Menestor. "I'm asking whether this council is going to spend the night debating philosophy while I go home and start knocking on doors."
 
 Moths tapped against the oil lamp Aristotle had lit against the gathering dark. No one spoke.
 
