@@ -225,7 +225,7 @@ She filled her own vessel and walked back to Leah.
 
 In the years that followed, the network rooted deep in Babylon's soil. When Cyrus of Persia conquered the empire in 538 BCE and decreed the exiles could return, Rachel split the network: twenty families back to Judah, twelve staying in Babylon and Persia, the Mediterranean branches continuing independently. Forty-four families across four regions. She stayed. Her daughter stayed. The Living Key went where it could do the most good, and Rachel had learned that diaspora wasn't exile. It was design.
 
-On the morning of the decree, Rachel took the bronze ring from her left hand and slipped it onto Leah's wrist. Too large for a fifteen-year-old's finger, it hung there like a bracelet. Every hand that had worn it had lost someone.
+On the morning of the decree, Rachel took the bronze ring from her left hand and pressed it into Leah's palm. Her daughter was a woman now, gray threading her hair, exile written into the lines around her eyes. Every hand that had worn the ring had lost someone.
 
 "What is it?" Leah asked.
 

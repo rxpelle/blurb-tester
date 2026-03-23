@@ -3,7 +3,7 @@
 
 **Timeline:** 399 BCE
 **Location:** Athens, Greece
-**Generation:** 24 (Callias of Athens, age 31) and diluted carrier (Socrates, age 70)
+**Generation:** 24 (Callias of Athens, age 31) and non-carrier (Socrates, age 70)
 **POV Character:** Callias
 **Historical Context:** Trial and execution of Socrates; Athens recovering from Peloponnesian War defeat
 

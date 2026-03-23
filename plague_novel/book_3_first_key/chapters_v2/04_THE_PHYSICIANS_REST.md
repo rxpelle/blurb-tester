@@ -222,7 +222,7 @@ The old man's right hand moved. Not toward the registry. Not toward the bronze k
 
 "She mispronounced *hesat*," Amenhotep said. His voice had changed. Not weaker. *Younger.* "Ebers Papyrus, remedy 482. She meant the jar. She said the cow. And I laughed." A sound came from his throat that might have been a laugh or might have been a sob. "I asked her to do it again. She couldn't. You can't reach that place on purpose."
 
-His hand pressed harder against the empty mat. "But the thing I built it *on* — the reason I cared whether civilizations collapsed or not—" His voice broke. "That walked out of a workshop in Pi-Ramesses thirty-four years ago and I never got it back."
+His hand pressed harder against the empty mat. "But the thing I built it *on* — the reason I cared whether civilizations collapsed or not—" His voice broke. "That walked out of our workshop thirty-four years ago and I never got it back."
 
 He died before dawn. His fingers tapped the sleeping mat. Once. Twice. Three times. The old pattern — one tap meant *look at this*, two meant *start over*, three meant *come here, I need you close.* He tapped three, and his hand went still. Khasekhem closed the old man's eyes and sat with the body until sunrise.
 

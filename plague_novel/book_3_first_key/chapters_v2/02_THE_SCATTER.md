@@ -432,7 +432,7 @@ They left the borrowed workshop that afternoon.
 
 **OFFENSIVE NETWORK INTERLUDE**
 
-**Memphis, Egypt — 1188 BCE**
+**Memphis, Egypt — months after the split**
 
 Amenhotep spread the trader's report across his knees in the inner courtyard of the Temple of Ptah. Papyrus, water-stained from the crossing.
 

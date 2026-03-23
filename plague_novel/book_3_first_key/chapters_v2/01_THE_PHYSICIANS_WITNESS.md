@@ -1,4 +1,4 @@
-# BOOK 3: CHAPTER 1 - THE COLLAPSE (1189 BCE)
+# BOOK 3: CHAPTER 1 - THE COLLAPSE
 
 ## CHAPTER 1: THE PHYSICIAN'S WITNESS
 
@@ -418,7 +418,7 @@ Amenhotep took his back toward Egypt. Toward the temples and priesthoods that wo
 
 The networks split.
 
-Tausret's daughter slept peacefully, unaware she'd just become the Living Key. The first in a bloodline that would stretch from 1189 BCE to whatever future was coming.
+Tausret's daughter slept peacefully, unaware she'd just become the Living Key. The first in a bloodline that would stretch across centuries, across empires, toward whatever future was coming.
 
 "I'm sorry," Nefertari whispered. "This is too much to carry. But maybe your descendants will recognize the fall early enough to stop it."
 

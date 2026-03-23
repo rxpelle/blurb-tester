@@ -21,7 +21,7 @@
 
 ---
 
-**238 years after the Protocol creation (950 BCE)**
+**950 BCE**
 
 The cedar smelled like home.
 

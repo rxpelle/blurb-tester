@@ -243,7 +243,7 @@ Theophrastus sat in the garden until the shadows reached the far wall. The sun m
 
 *We had the chance,* he thought. *We chose patience. And Lykon is dead.*
 
-He tried to hold the principle and the grief in the same hand. Tried to believe that thirty centuries of experimental patience justified one man dying in a granary with his hand open. That the calculus worked. That Menestor was right.
+He tried to hold the principle and the grief in the same hand. The bronze ring on his left finger — worn smooth by generations of the same grip — pressed into his palm. Tried to believe that thirty centuries of experimental patience justified one man dying in a granary with his hand open. That the calculus worked. That Menestor was right.
 
 He couldn't.
 
@@ -428,7 +428,7 @@ It was gathering.
 
 The messenger reached Sardis eleven days after Alexander stopped breathing in Babylon.
 
-Demetrios read the dispatch in the same undercrypt where his grandfather Darius had once voted to abandon the compact.
+Demetrios read the dispatch in the same undercrypt where his ancestor Darius had once voted to abandon the compact.
 
 *Alexander III of Macedon. Generation 27. Died 10 Daisios, age 32. Fever. Empire extent at death: Greece to the Indus. Successor: none designated. Fragmentation expected.*
 
