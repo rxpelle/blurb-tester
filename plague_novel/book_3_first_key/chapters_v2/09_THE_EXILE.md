@@ -71,7 +71,7 @@ Rachel looked at the burning city behind them, the armed Babylonian guards aroun
 
 The city made Jerusalem look like a village. Blue-glazed walls taller than any building in Judah. Streets wider than Jerusalem's plazas. This was empire. This was what centralized power looked like when it worked.
 
-Across the Ishtar Gate plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd the way hers did — not watching people but watching *patterns.* The same seeing. Different training. He recognized her the same moment she recognized him.
+Across the Ishtar Gate plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd — not watching people but watching *patterns.* The same seeing. Different training. He recognized her the same moment she recognized him.
 
 She turned away, pulled her daughter closer, and disappeared into the refugee settlement.
 
@@ -103,7 +103,7 @@ Silence. Half the room was looking at Esther. The other half was looking at Rach
 
 "She's right," said a voice from the back. Old Yonatan, who rarely spoke. "We followed the rules. We warned the king. We preserved the network. And we lost everything anyway. Maybe the rules are wrong."
 
-Rachel looked around the circle. Thirty-two people who'd lost everything: kingdom, city, homes, status. Esther's argument was clean and sharp and wrong in exactly the way that made it dangerous — because it was half right.
+Rachel looked around the circle. Thirty-two people who'd lost everything: kingdom, city, homes, status. Esther's argument was clean and sharp and half right, which made it dangerous.
 
 "If we break the compact," Rachel said slowly, "we become what they are. Effective. Ruthless. And indistinguishable from the thing we were built to oppose." She met Esther's eyes. "You're right that the agreement was made in different circumstances. But empires fall. Practices persist. If we abandon our principles the first time they cost us something real, they were never principles. They were conveniences."
 
@@ -145,7 +145,7 @@ Rachel sat down. Took the clay tablet someone handed her, a list of exile famili
 
 Rachel nodded. Made a mark on the tablet. Moved to the next item.
 
-She worked until dawn grayed the windows. Then she walked back through the waking exile quarter, past Judean merchants setting up stalls beside Babylonian ones, past children playing in two languages, past a world rebuilding itself from wreckage the way worlds always did.
+She worked until dawn grayed the windows. Then she walked back through the waking exile quarter, past Judean merchants setting up stalls beside Babylonian ones, past children playing in two languages, past a world rebuilding itself from wreckage.
 
 Leah was still sleeping. Rachel lay down beside her daughter, and did not reach left, and did not sleep.
 

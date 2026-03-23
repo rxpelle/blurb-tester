@@ -49,7 +49,7 @@ When the navigator called "Land ahead" and the Nile Delta materialized through m
 
 **Avaris, Nile Delta.**
 
-Deborah had been expecting refugees for three years. She'd watched the Aegean crisis cascading the way a physician watches a fever build — grain shipments slowing, palace inventories shrinking, the trade web pulling apart node by node. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
+Deborah had been expecting refugees for three years. She'd watched the Aegean crisis cascading — grain shipments slowing, palace inventories shrinking, the trade web pulling apart node by node. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
 
 She just hadn't expected one this aware.
 
@@ -127,7 +127,7 @@ And yet it was *surviving* while the palaces burned.
 
 "I don't understand," he told Deborah after a month of training. "The Mycenaean system was more sophisticated. How is *this* working better?"
 
-"Because your palaces needed *everything* to work." She said it flatly, the way she said most things — without the warmth Nefertari had apparently radiated. "Every piece depending on every other piece. Lose one trade route and the bronze stops. Lose the bronze and the army weakens. Lose the army and the raiders come. Beautiful system. One bad year from ruin."
+"Because your palaces needed *everything* to work." She said it flatly — without the warmth Nefertari had apparently radiated. "Every piece depending on every other piece. Lose one trade route and the bronze stops. Lose the bronze and the army weakens. Lose the army and the raiders come. Beautiful system. One bad year from ruin."
 
 "You sound like you're trying to convince yourself."
 

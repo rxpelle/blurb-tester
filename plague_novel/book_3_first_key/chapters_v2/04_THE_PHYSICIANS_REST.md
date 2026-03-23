@@ -12,7 +12,7 @@
 
 Nefertari's hands had stopped being steady sometime in her seventy-eighth year, and she'd spent the two years since pretending not to notice. A physician who couldn't hold a scalpel. A woman who'd encoded a three-thousand-year experiment into human blood, standing on a temple terrace in Byblos, watching morning light turn the harbor to bronze and gold (cedar-hulled galleys at anchor, the smell of salt and pine pitch rising from the boatyards) while her fingers trembled against the stone balustrade.
 
-Below, the monthly gathering was assembling. Twenty-three families now, spanning four generations. She counted the faces the way she'd once counted pulses, automatically, cataloguing who was present, who was absent, whose children were showing the early signs.
+Below, the monthly gathering was assembling. Twenty-three families now, spanning four generations. She counted the faces automatically, cataloguing who was present, who was absent, whose children were showing the early signs.
 
 A young mother in the courtyard was teaching her daughter to read trade route diagrams. The girl couldn't have been older than five. Already learning the patterns.
 

@@ -23,7 +23,7 @@ King Leonidas didn't know he was reenacting an ancient pattern.
 
 But Aristodemos did. And when the memory surged -- the Bronze Age rear guards, the mountain passes, the smell of burning cities -- his left hand found the scar on his right forearm and pressed it, hard, thumb grinding into the ridge of tissue. An old wound from training. He pressed it the way a man bites down on leather during surgery: to anchor himself to the present, to keep the ancestral dead from pulling him under.
 
-"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king's long hair was freshly oiled — warriors grooming for death the way other men groomed for festivals. Behind him, the Three Hundred sat around cook-fires eating melas zomos, sharpening the leaf-bladed spear points that would meet Persian flesh at dawn.
+"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king's long hair was freshly oiled — warriors grooming for death. Behind him, the Three Hundred sat around cook-fires eating melas zomos, sharpening the leaf-bladed spear points that would meet Persian flesh at dawn.
 
 Leonidas knew Aristodemos' family carried something. Centuries of military advisors. Dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the clarity that ran in Aristodemos' bloodline like a second language.
 
@@ -53,7 +53,7 @@ Then the Order arrived.
 
 The Persian emissary who visited their camp the next morning wasn't Persian.
 
-Aristodemos recognized him immediately — the way the man's eyes scanned the defensive positions, cataloguing weaknesses with a precision no ordinary diplomat possessed. The systematic analysis of troop morale, supply lines, tactical options. A carrier's gaze. Unmistakable.
+Aristodemos recognized him immediately. The man's eyes scanned the defensive positions, cataloguing weaknesses with a precision no ordinary diplomat possessed. The systematic analysis of troop morale, supply lines, tactical options. A carrier's gaze. Unmistakable.
 
 One of them.
 
@@ -81,11 +81,11 @@ A woman. Dressed as a Greek camp follower but moving with the controlled precisi
 
 His scar woke up.
 
-The old training wound on his right forearm began to ache — a directional pull, deep in the scar tissue, as if the wound were orienting itself toward her the way a compass needle finds north. When she stepped closer, the sensation sharpened until he could feel his pulse beating specifically *in the scar*.
+The old training wound on his right forearm began to ache — a directional pull, deep in the scar tissue, as if the wound were orienting itself toward her. When she stepped closer, the sensation sharpened until he could feel his pulse beating specifically *in the scar*.
 
 Neither of them mentioned what they felt. They were professionals. They were enemies. They had a battle starting at dawn.
 
-When Artemisia turned to leave, the scar on Aristodemos' forearm went cold. He pressed his thumb into it, hard, the way he always did when the old memories surged. But this wasn't old memory. This was new. And it ached like something that intended to last.
+When Artemisia turned to leave, the scar on Aristodemos' forearm went cold. He pressed his thumb into it, hard. But this wasn't old memory. This was new. And it ached like something that intended to last.
 
 ---
 
@@ -167,7 +167,7 @@ And it was working. She could see the trajectory resolving — the Persian fleet
 
 Then she saw him.
 
-Aristodemos stood on the deck of an Athenian trireme — not commanding, no Spartan could command a ship — but advising, reading the battle's shape the way she was reading it, the same inherited clarity behind his eyes. The Athenian captain shouted orders to the oar-master. Aristodemos told him where to go. He'd survived Thermopylae. Made it to Athens. Applied his strategic mind to the naval defense exactly as Leonidas had ordered.
+Aristodemos stood on the deck of an Athenian trireme — not commanding, no Spartan could command a ship — but advising, reading the battle's shape with the same inherited clarity behind his eyes. The Athenian captain shouted orders to the oar-master. Aristodemos told him where to go. He'd survived Thermopylae. Made it to Athens. Applied his strategic mind to the naval defense exactly as Leonidas had ordered.
 
 Nefertari's people had preserved their own. And in doing so, potentially saved Greece.
 

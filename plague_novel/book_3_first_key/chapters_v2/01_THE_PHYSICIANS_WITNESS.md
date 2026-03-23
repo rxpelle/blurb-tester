@@ -260,7 +260,7 @@ She knew what was coming before he said it. She always knew.
 
 Nefertari finally looked up. "We agreed. The Protocol encodes *the seeing,* not population control."
 
-"We agreed the Protocol needs to survive." Amenhotep set down the disc with deliberate care, the way he handled things when he was angry, precise and slow, the opposite of careless. She'd learned that in year four. "You want to distribute knowledge so widely it can never be lost. Scatter it, fragment it, hope enough pieces survive that someone someday can reassemble the whole. That's defensive thinking."
+"We agreed the Protocol needs to survive." Amenhotep set down the disc with deliberate care — precise and slow, the opposite of careless. She'd learned that in year four. "You want to distribute knowledge so widely it can never be lost. Scatter it, fragment it, hope enough pieces survive that someone someday can reassemble the whole. That's defensive thinking."
 
 "Because collapse should be *prevented,* Amenhotep."
 
@@ -366,7 +366,7 @@ Six bronze discs. One living child. Two networks built from the same truth and a
 
 "We need the activation mechanism," Amenhotep said. "Something that requires both knowledge and bloodline."
 
-"The keys themselves trigger it," Nefertari said. "I've seen it — someone carrying the inheritance holds bronze and remembers things they never learned. But only if the bloodline training provides the framework. Pattern thinking, the way physicians see connections. Not facts. A way of *seeing.*"
+"The keys themselves trigger it," Nefertari said. "I've seen it — someone carrying the inheritance holds bronze and remembers things they never learned. But only if the bloodline training provides the framework. Pattern thinking. Not facts. A way of *seeing.*"
 
 "A weapon," Amenhotep said.
 

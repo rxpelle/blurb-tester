@@ -143,7 +143,7 @@ The smell reached them first: smoke from funeral pyres mixing with something swe
 
 Sennacherib's siege engines stood abandoned. His supply wagons burned. His grand assault on Jerusalem fell apart without a single battle, undone by rats, crowding, fouled water, and the invisible cascade that Micah had seen in his dreams weeks before the first soldier fell.
 
-"One hundred eighty-five thousand dead," Micah whispered. He could feel the number the way you feel a weight settle — the camp sizes, the infection rate, the days of exposure all converging on a figure his body knew before the couriers confirmed it. "Just like the vision."
+"One hundred eighty-five thousand dead," Micah whispered. He could feel the number settling into certainty — the camp sizes, the infection rate, the days of exposure all converging on a figure his body knew before the couriers confirmed it. "Just like the vision."
 
 The city celebrated. Called it a miracle. God's hand shielding Jerusalem.
 
@@ -211,7 +211,7 @@ The question was whether the someone had to be him.
 
 "I'll go with you," she said.
 
-"No. You told me yourself — you're the keeper. If you die, this whole branch dies with you." He said it the way someone says something they've been turning over all night. "I'm — I matter less. To the network. You know that."
+"No. You told me yourself — you're the keeper. If you die, this whole branch dies with you." He'd been turning it over all night. "I'm — I matter less. To the network. You know that."
 
 "Don't say that."
 

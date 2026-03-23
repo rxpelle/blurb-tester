@@ -87,7 +87,7 @@ Aristonike gestured to an elderly woman in the corner, mid-sixties, who rocked i
 
 "Fifteen years." She said it flatly.
 
-She paused. Her eyes drifted — not the way they did during prophecy, but sideways, inward, as if chasing something through a corridor she couldn't quite see.
+She paused. Her eyes drifted — not prophecy, but sideways, inward, as if chasing something through a corridor she couldn't quite see.
 
 "My mother's garden had pomegranates," she said. "The tree was old. Bent. The fruit split open in summer and the wasps came and she'd..." She trailed off. Her face changed. Something in it collapsed and rebuilt itself, and when she looked at Kleomenes again, there was a kind of careful horror in her expression. "That wasn't my mother's garden."
 
@@ -155,7 +155,7 @@ It terrified them both. Not because it was strange, but because it felt inevitab
 
 "And you? Do you believe it's worth this?" He touched her trembling hand.
 
-"Ask me in three years. When I can't remember my own name." She said it flatly, the way you state a medical prognosis you've already accepted.
+"Ask me in three years. When I can't remember my own name." She said it flatly. A prognosis she'd already accepted.
 
 She pulled away from him. Not far. Just enough to stand on her own.
 
@@ -173,7 +173,7 @@ Aristonike stared at him. "You came here to investigate. You've investigated. Go
 
 He didn't have a good answer. The pulse in his throat was still beating to her rhythm, and every rational argument he'd built over three weeks of investigation was dissolving under the simple fact that her hand had gone steady when he was near.
 
-"Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical, the way people like them spoke when the truth was too large for plain language. "And because I don't want you to do this alone."
+"Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical. "And because I don't want you to do this alone."
 
 She searched his face. Then she said: "I have three years. Maybe less. The tremors will get worse. I'll start forgetting things. Eventually I won't know who you are."
 
