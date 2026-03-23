@@ -145,8 +145,6 @@ Rachel sat down. Took the clay tablet someone handed her, a list of exile famili
 
 Rachel nodded. Made a mark on the tablet. Moved to the next item.
 
-This was what people like her did. They converted grief into action.
-
 She worked until dawn grayed the windows. Then she walked back through the waking exile quarter, past Judean merchants setting up stalls beside Babylonian ones, past children playing in two languages, past a world rebuilding itself from wreckage the way worlds always did.
 
 Leah was still sleeping. Rachel lay down beside her daughter, and did not reach left, and did not sleep.
@@ -217,7 +215,7 @@ Rachel thought of Zedekiah. Of Jerusalem burning. Of every warning she'd given t
 
 "Then I'll say this: your network moved the key from a location we'd been watching for four centuries. That takes generational discipline I respect. Our network would have fought to hold a fixed position. Yours simply wasn't there when we arrived." He shouldered the water vessel. "I don't know which approach is right. But yours is harder to kill."
 
-He walked away along the riverbank, toward the quarter where Babylonian officials housed their advisors. Rachel watched him go, a man carrying water for a sick child, the same as her, enemy and mirror, six hundred years of opposing philosophy resolved into nothing more complicated than two parents at a river at dawn.
+He walked away along the riverbank, toward the quarter where Babylonian officials housed their advisors. Rachel watched him go. A man carrying water for a sick child, the same as her.
 
 She filled her own vessel and walked back to Leah.
 

@@ -276,8 +276,6 @@ She knew this wound. Had watched it shape him since they were young.
 
 "Don't." Her voice cut like bronze. "Don't finish that sentence."
 
-A lifetime of collaboration across the workshop between them. Two completely opposite conclusions drawn from the same data.
-
 Amenhotep broke first, turning back to his workbench. His hands found the bronze disc and turned it slowly, the gesture he made when thinking, always turning, always examining from every angle.
 
 His voice dropped. "Do you remember when we met at the Per Ankh? You were fourteen. I was sixteen. You asked me why we studied pulse patterns if we couldn't change them."
@@ -312,7 +310,7 @@ She pulled her hand back. Had to. Because loving him was not enough. Love betwee
 
 "Then we're at an impasse."
 
-The bronze keys lay between them on the bench. Four defensive. Three offensive. The split already made in everything except the words.
+The bronze keys lay between them on the bench. Four defensive. Three offensive.
 
 "I'm sorry," she said. "For what we could have been."
 

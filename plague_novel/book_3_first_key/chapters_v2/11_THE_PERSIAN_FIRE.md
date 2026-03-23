@@ -203,7 +203,7 @@ Aristodemos, bearing down on her original position, understood immediately what 
 
 He spoke to the Athenian captain. The trireme turned away. Let her escape.
 
-Neither spoke. Neither needed to. The compact held across fifty lengths of bloody water, and both of them knew that their children's children would dream this moment — the decision to honor something larger than the war they were fighting.
+Neither spoke.
 
 Later, after the Persian fleet shattered and Xerxes' invasion collapsed, Artemisia stood on the deck of her damaged flagship. Her hands were still shaking from the impact of the ram. The Calyndian sailors she'd killed were still drowning in the strait behind her.
 
@@ -297,7 +297,7 @@ He thought about Leonidas. About Artemisia ramming her own ally to survive. Abou
 
 The room went cold. Aristodemos looked at him. The Phoenician had the grace to look away first.
 
-They voted at dawn, with stones on the olive-wood table. Seven to honor the compact. Five to break it. It was an impossible standard — but it was the standard Nefertari and Amenhotep had set when the Protocol was born.
+They voted at dawn, with stones on the olive-wood table. Seven to honor the compact. Five to break it.
 
 ---
 

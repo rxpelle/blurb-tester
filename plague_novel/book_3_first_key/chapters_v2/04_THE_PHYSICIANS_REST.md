@@ -54,7 +54,7 @@ Nefertari's throat tightened. Tirzah had been dead five years now. A fever, swif
 
 "I dream of Pi-Ramesses burning," Deborah said. "But she taught us to ask *why* it burned."
 
-Nefertari squeezed her hand. Four generations. Purpose instead of trauma. That was the proof no document could capture.
+Nefertari squeezed her hand.
 
 ---
 

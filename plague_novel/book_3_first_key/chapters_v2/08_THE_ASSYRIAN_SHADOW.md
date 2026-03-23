@@ -285,8 +285,6 @@ He died just before dawn. Quietly, like a lamp running out of oil. His breathing
 
 Her left hand moved — the ring glinting in the dawn light that seeped through tent canvas. Reached to the side — not toward Micah's body but past it, toward something further, someone older. The phantom hand. The missing half. A grief so old it had lost its name and become pure sensation. The bronze ring carried the reaching forward, a dead architect's tool on a murderer's hand on a grieving woman's hand on a hand that had held a boy while he died in a plague camp, and all of it — every layer — reaching for the same absence.
 
-She didn't cry. Her body was doing something harder than crying: reaching for a comfort it had been denied for centuries, and finding, as always, nothing.
-
 She sat with his body until the sun was full up. The camp was stirring around her — survivors waking, following the sanitation protocols Micah had taught them, boiling water, checking the sick. His interventions working even after he'd stopped breathing.
 
 She wrapped him in the soldier's bedroll. Said the words the network said when one of their own died. Not prayers, exactly, but an acknowledgment. A recording.

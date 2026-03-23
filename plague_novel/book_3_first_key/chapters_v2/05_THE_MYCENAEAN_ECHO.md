@@ -87,7 +87,7 @@ He could see her hands now. Could always see her hands. In the market women weav
 
 "She breathed through her mouth when she slept. This shallow, quick sound, like a bird panting. I hated it the first year. Kept me awake. By the second year I couldn't sleep without it." He swallowed. "On the ships, crossing the Aegean, it was so quiet at night I thought I'd lose my mind. Two hundred people breathing and none of them sounded like her."
 
-His body reached for her. That was the thing nobody told you about grief: it lived in the muscles, not the mind. He'd roll over in the dark and his arm would extend to the empty space where her warmth should be. His feet would angle toward her side of the room when he stood. His voice would drop to the low murmur he'd only ever used with her, then catch, finding no one to receive it.
+His body reached for her. He'd roll over in the dark and his arm would extend to the empty space where her warmth should be. His feet would angle toward her side of the room when he stood. His voice would drop to the low murmur he'd only ever used with her, then catch, finding no one to receive it.
 
 "There was a morning," he said. "Maybe three years before the end. She was sitting in the courtyard cracking almonds, and a gecko ran across her foot. She screamed — this absurd, strangled yelp — and threw an almond straight up in the air. It came down in my wine cup. Perfect drop. We both stared at it. And she started laughing. Not her normal laugh. Something that came from so deep in her body it bent her double, tears running, trying to breathe, and every time she looked at the almond in my wine she'd start again."
 

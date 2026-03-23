@@ -42,8 +42,6 @@ Ephraim looked longer. "Some families are planting together. Sharing their field
 
 "Because..." Another pause. "Because if one family's food dies, the other families can share?"
 
-There it was. Not just observation—*seeing the why beneath the what.*
-
 Tirzah knelt beside her son. "Do you remember the stories I've told you? About your grandmother Tausret? About Egypt before we came here?"
 
 "The fall," Ephraim said. His voice was small. "When the cities burned and everyone fled."

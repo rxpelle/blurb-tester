@@ -155,7 +155,7 @@ He held up a third finger. Lowered it.
 
 "Your family sees the shape of things better than anyone I've ever known. But seeing isn't acting." He looked toward the colonnade, where the Egyptian stood motionless in the late light. "Your way is kinder, Miriam. Their way works more often."
 
-She couldn't speak. Ten generations of prevention, compassion, trust — and a dying king had weighed it against the alternative with forty years of data and found it lighter.
+She couldn't speak.
 
 "I'm telling you this because Solomon thinks like them, not like you. He builds. Temples, walls, hierarchies. Within a year of my death, they'll have his ear. And your family won't."
 

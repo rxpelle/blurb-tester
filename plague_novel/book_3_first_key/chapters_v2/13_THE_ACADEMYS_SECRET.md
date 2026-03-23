@@ -143,7 +143,7 @@ Alexander looked at him with an expression that was, for one unguarded moment, y
 
 "Don't tell anyone I moved the beetle," Alexander said. "It would undermine my conquest brand."
 
-They both laughed. And Theophrastus understood, with the clarity that only people like him possessed, that this was the most dangerous thing Amenhotep's side had ever produced. Not a weapon. A person who was also a weapon. A boy who set flowers down gently and planned to conquer the world and didn't see the contradiction because no one had ever told him there was one.
+They both laughed. A boy who set flowers down gently and planned to conquer the world and didn't see the contradiction because no one had ever told him there was one.
 
 ---
 
@@ -396,8 +396,6 @@ He thought about a beetle on a garden path and a boy saying *don't tell anyone* 
 The dispatch said they'd found Alexander on a couch in Nebuchadnezzar's palace, surrounded by generals already dividing his empire. It did not say whether his left hand had been open or closed. Theophrastus needed to know and would never know and carried the not-knowing for the rest of his life.
 
 The networks' representatives arrived that evening. Both sides claimed the result. Defensive: fragmentation proves centralized control fails. Offensive: unification proves strategic breeding works. They argued for two hours in the Lyceum's back room while Theophrastus sat in the garden and said nothing.
-
-Neither side had known the boy. Neither had thought to ask whether the conqueror's hand had been open or closed when he died.
 
 Theophrastus sealed his scrolls that night.
 
