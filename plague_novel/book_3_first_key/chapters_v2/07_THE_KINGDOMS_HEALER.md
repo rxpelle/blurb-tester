@@ -71,7 +71,7 @@ She'd been rehearsing this conversation since before dawn. Not the words, the fr
 
 "Your sons." She kept her voice even. "They're positioning for succession. Adonijah thinks he'll be king. Solomon's supporters are gathering resources. Neither side is talking to the other."
 
-She paused — deliberately. Let the silence do the work.
+She paused — deliberately. Let the weight of the words settle into him.
 
 "I know," David said.
 
@@ -137,7 +137,7 @@ He wasn't a carrier. He carried nothing but seventy years and a kingdom and what
 
 She wondered if the Protocol had invented anything at all, or simply found a way to remember what everyone already did.
 
-The silence stretched. Miriam felt the weight of every generation that had sat beside a ruler and waited.
+David's hand drifted on the armrest again, that unconscious reaching. Miriam felt the weight of every generation that had sat beside a ruler and waited.
 
 "I'll make the announcement tomorrow," he said finally. "Solomon will be king. And I want that Egyptian envoy gone from my court by sunset."
 
@@ -169,7 +169,7 @@ He told her anyway.
 
 "The northern secession, twelve years ago. Your aunt mapped the fracture, advised patience. The Egyptian said cut the ringleader's trade access. I took the Egyptian's advice. Secession collapsed in a month." He held up a second finger. "The Moabite alliance. Your cousin recommended diplomacy — gifts, marriages, shared festivals. Two years minimum. The Egyptian said burn one fort. Thirty casualties. Alliance dissolved in a week."
 
-He let the silence sit.
+He held up a third finger. Lowered it.
 
 "Your family sees the shape of things better than anyone I've ever known. But seeing isn't acting." He looked toward the colonnade, where the Egyptian stood motionless in the late light. "Your way is kinder, Miriam. Their way works more often."
 
@@ -195,29 +195,21 @@ He'd seen Judith. Of course he had.
 
 **Memphis. The same morning.**
 
-The same morning Miriam advised King David, an offensive carrier named Khenti stood in Pharaoh Shoshenq's audience chamber in Memphis — three hundred miles south. The hall was vast, its lotus-topped columns rising into shadow, its walls painted with scenes of Shoshenq's Libyan ancestors. The pharaoh sat on a gilded throne beneath the double crown of Upper and Lower Egypt, the crook and flail crossed on his lap, while scribes crouched at his feet with reed pens and papyrus, recording every word.
+The same morning Miriam advised King David, Khenti stood in Pharaoh Shoshenq's audience chamber in Memphis, three hundred miles south.
 
-Like Miriam, Khenti was Generation 10. Like Miriam, he carried the inheritance strong enough to see collapse building before it fully formed. Unlike Miriam, he believed control was the answer.
+"Third consecutive low flood," Shoshenq said, studying grain reports. "If this continues —"
 
-"The Nile flood was weak again this year," Pharaoh Shoshenq said, studying grain reports. "Third consecutive low flood. If this continues —"
+"It will. The next five years will test Egypt's resilience."
 
-"It will," Khenti said. The seeing showed him the sequence clearly. "The next five years will test Egypt's resilience."
+"Then we ration. Restrict trade. Close the borders —"
 
-"Then we need to prepare. Ration grain. Restrict trade. Close the borders —"
-
-"No, Divine One. Hoarding accelerates the unraveling." Khenti kept his voice respectful but firm. "The solution isn't to close Egypt off. It's to manage who survives the shortage. We identify the essential populations: priests, scribes, craftsmen, the best farmers. Allocate grain preferentially. The rest receive subsistence rations. Not enough to thrive, but enough to prevent revolt."
+"No, Divine One. Hoarding accelerates the unraveling." Khenti kept his voice respectful but firm. "We identify the essential populations — priests, scribes, craftsmen, the best farmers. Allocate grain preferentially. The rest receive subsistence rations. Not enough to thrive, but enough to prevent revolt."
 
 Shoshenq hesitated. "That's cold."
 
-"That's survival. Your Majesty has a choice: watch Egypt fragment as everyone fights for dwindling resources, or guide who survives through calculated intervention."
+"That's survival. Not through hope, but through design."
 
-The pharaoh considered this. Then he nodded. "Implement your plan. Discreetly."
-
-"It won't spread. The Order knows how to work quietly." Khenti bowed. "Egypt will survive this, Divine One. Not through hope, but through design."
-
-Centuries into the three-thousand-year experiment, both networks were succeeding.
-
-The question was: which approach would endure?
+The pharaoh nodded. "Implement your plan. Discreetly."
 
 ---
 
@@ -225,7 +217,7 @@ The question was: which approach would endure?
 
 Tonight, twelve members gathered in Miriam's house, seated on low stools around the central room, oil lamps in clay holders casting warm shadows across the whitewashed walls, a jug of wine and a platter of bread, olives, and goat cheese on the stone table between them. Delegates from forty families scattered across Israel, Phoenicia, and Egypt. Including Judith, cross-legged in the corner with her back against the wall, who needed to learn.
 
-Miriam told them about the Egyptian watcher. The room went quiet the way rooms go quiet when someone mentions fire.
+Miriam told them about the Egyptian watcher. Every body around the table shifted — a tightening, a collective held breath, the instinctive contraction of people who'd spent generations invisible and just learned they'd been seen.
 
 "He saw you advise David?" The Egyptian member, a man who'd traveled from Memphis, three generations of network integration, leaned forward. "Directly?"
 
@@ -249,7 +241,7 @@ The Egyptian member delivered the rest of his report: the Order running breeding
 
 "Part of me fears they might be right," Miriam said. "That control works better than compassion."
 
-Silence.
+The oil lamps flickered. Someone's cup scraped against the stone table.
 
 "But David chose on his own today. I showed him the danger and he chose. That's what we protect — the capacity to choose. Even when the choice is imperfect. Even when an engineered succession would be cleaner."
 
@@ -261,11 +253,11 @@ Judith hadn't spoken all evening. She'd sat with her arms wrapped around her kne
 
 "Mother." Her voice was small but steady. "In the dreams, every city that burned had someone like us. Warning them."
 
-The room went quiet. Different quiet than before.
+The Egyptian member set down his cup. Miriam's hand found the ring on her finger and turned it.
 
 "And it burned anyway."
 
-Twelve adults looked at a ten-year-old girl and had nothing to say. The seeing was in her daughter's voice — not analysis, not philosophy, but the raw pattern underneath all of it: carriers warning, collapse coming, cities burning. Ten generations of prevention. And every city burned.
+Twelve adults looked at a ten-year-old girl and had nothing to say. The inheritance was in her daughter's voice — not analysis, not philosophy, but the raw pattern underneath all of it: carriers warning, collapse coming, cities burning. Ten generations of prevention. And every city burned.
 
 Miriam wanted to explain — context, the collapses they'd softened even if they couldn't stop them. But David's voice was in her head: *Your way is kinder. Their way works more often.*
 
@@ -281,85 +273,39 @@ Judith nodded. She didn't argue. She'd inherited that too — the patience to wa
 
 The boy's name was Ipu, and he asked the question on the fifth day of the decan.
 
-It happened in the training hall beneath the Temple of Ptah — a long underground chamber hewn from living rock, its walls carved with images of Ptah the Craftsman at his potter's wheel, stone-cooled even in the worst of the summer heat. Oil lamps in niches threw unsteady light across the shaved heads and white linen kilts of the offensive network's junior carriers as they practiced the disciplines that would make them useful. Genealogical analysis. Collapse-sight training. Strategic resource modeling. The curriculum Amenhotep had designed and ten generations of network leaders had refined into something that resembled, if you squinted, a priesthood's advanced theology course.
+Khenti stood before twenty-three junior carriers in the training hall beneath the Temple of Ptah and delivered the briefing on the grain allocation plan Shoshenq had just approved. Nile flood data. Population projections. The mathematics of managed survival.
 
-Khenti had just returned from Pharaoh Shoshenq's audience chamber, satisfied. The grain allocation plan was approved. Egypt would weather the weak Nile floods through selective distribution: essential populations fed first, marginal populations maintained at subsistence. In five years, when the floods normalized, Egypt would emerge leaner, more efficient, its most productive citizens intact.
+Ipu raised his hand. Seventeen. Son of a temple physician and an administrative scribe, both from carrier bloodlines paired deliberately. His activation had been strong and early, age nine.
 
-Offensive mode working exactly as designed.
+"The subsistence populations," Ipu said. "The ones receiving minimal rations. The projections show a twelve to fifteen percent mortality increase over five years. That's roughly forty thousand people in the Nile Valley alone."
 
-He stood before twenty-three junior carriers, ages fourteen to twenty-two, and delivered the briefing. Nile flood data. Population projections. Grain distribution models. The mathematics of managed survival.
+"Forty thousand who would die *regardless* if no intervention occurs," Khenti said. "Our plan reduces total mortality by sixty percent compared to unmanaged distribution."
 
-"The defensive network would try to save everyone," Khenti said. "Distribute resources equally. Hope compassion prevents violence. Watch the strongest and weakest receive the same ration and wonder why productivity collapses when incentive disappears."
-
-The students nodded.
-
-"We don't hope," Khenti continued. "We calculate. Identify the populations essential to Egypt's recovery. Allocate accordingly. Accept the cost."
-
-Ipu raised his hand.
-
-He was seventeen. Son of a temple physician and an administrative scribe, both from carrier bloodlines that Amenhotep's breeding program had paired deliberately. Third generation of documented selective pairing. His activation in the seeing had been strong and early, age nine, and his scores in the seeing were among the highest in the current cohort.
-
-"What cost, exactly?" Ipu asked.
-
-Khenti paused. "Clarify."
-
-"The subsistence populations. The ones receiving minimal rations. What happens to them during the five years of weak floods?"
-
-"They survive at reduced capacity. Some emigrate. Some don't survive. The mathematics are documented."
-
-"I've read the mathematics." Ipu's voice was steady, almost clinical. A physician's son, trained to observe before diagnosing. "The projections show a twelve to fifteen percent mortality increase in subsistence populations over five years. That's roughly forty thousand people in the Nile Valley alone."
-
-Silence in the training hall. The others followed the exchange with the careful attention of people who sensed dangerous territory.
-
-"Forty thousand who would die *regardless* if the floods fail and no intervention occurs," Khenti said. "Our plan reduces total mortality by sixty percent compared to unmanaged distribution. The alternative, equal allocation, produces short-term equity and long-term disintegration. Everyone eats the same, everyone starves the same, civilization fragments."
-
-"I understand the comparison," Ipu said. "But I'm asking a different question. We've been running selective breeding for ten generations. Centuries. We've produced sixty with strong activation, another hundred and forty with partial. Our genealogical records are meticulous. Our population management models are sophisticated."
-
-"Your point?"
-
-"Has any of it actually prevented a collapse? Or have we just rearranged who dies?"
+"I understand the comparison. But I'm asking a different question." Ipu's voice was steady, almost clinical. "Has any of it actually prevented a collapse? Or have we just rearranged who dies?"
 
 The training hall went still.
 
-Khenti felt the silence the way a physician feels a missed heartbeat, a systemic irregularity signaling something deeper. He'd heard variations of this question before. Every generation produced one or two who confused Nefertari's naive philosophy with intellectual rigor.
+"The experiment requires patience," Khenti said. "Three thousand years. We don't abandon the approach because a seventeen-year-old read the census tallies and felt uncomfortable."
 
-"The experiment requires patience," Khenti said. His voice carried the weight of institutional authority, ten generations of network leadership speaking through him. "Three thousand years. We don't question methodology mid-trial. We refine. We adapt. We accumulate data. But we don't abandon the offensive approach because a seventeen-year-old read the census tallies and felt uncomfortable."
-
-"I don't feel uncomfortable," Ipu said. "I feel curious. The breeding program has produced people who are better at seeing collapse patterns. But seeing patterns isn't the same as preventing collapse. We *see* the weak floods coming. We *see* the population stress building. And our intervention is to choose who eats. Not to prevent the shortage."
+"I don't feel uncomfortable. I feel curious. We *see* the weak floods coming. We *see* the population stress building. And our intervention is to choose who eats. Not to prevent the shortage."
 
 "You can't prevent Nile floods."
 
 "No. But you can dig canals so one bad flood doesn't kill the harvest. You can plant more than just emmer wheat so one blight doesn't starve a province. You can get Memphis talking to Thebes about sharing grain before the crisis hits instead of after." Ipu paused. "That's what Nefertari's side does. They don't pick who lives. They make it harder for everyone to die."
 
-Khenti crossed the distance between them in three steps. Deliberate, not threatening. He stood close enough that Ipu could see the inheritance flickering behind the network leader's pupils.
-
-"The defensive network," Khenti said, "is forty families scattered across three kingdoms. Midwives and scribes and merchants advising village councils. We are embedded in the Egyptian royal court. We have sixty trained operatives, a hundred and forty reserves, and the ear of the Pharaoh. When the next true collapse comes — not a weak flood, not a succession crisis, but a civilizational collapse like the Bronze Age — which network survives? The scattered advisors or the institutional power?"
+Khenti crossed the distance between them in three steps. "The defensive network is forty families scattered across three kingdoms. We are embedded in the Egyptian royal court with sixty trained operatives and the ear of the Pharaoh. When the next civilizational collapse comes, which network survives?"
 
 Ipu held his gaze. "I don't know. That's why I'm asking."
 
-Khenti held the silence for five heartbeats. Then he turned back to the assembled students.
+"The question is noted," Khenti said flatly. "The curriculum continues."
 
-"The question is noted," he said flatly. "The curriculum continues."
-
-They complied. Ipu opened his tablet with the others, stylus moving across clay with the mechanical precision of obedience.
-
-But Khenti tracked him for the rest of the session. Noted the way Ipu's eyes drifted to the mortality projections and lingered.
-
-The Order did not suppress questions. It redirected them. Gave them approved channels. Ensured that intellectual energy served the experiment rather than undermining it.
-
-That was the institutional advantage. Not the absence of doubt, the management of it.
-
-But later that night, alone in his chambers, Khenti unrolled the oldest document in his personal archive: Amenhotep's original protocol notes, copied and recopied through ten generations of network leaders.
+But later that night, alone in his chambers, Khenti unrolled the oldest document in his personal archive: Amenhotep's original protocol notes.
 
 *The experiment runs for three thousand years. Both approaches tested in parallel. The approach that preserves civilization inherits the future.*
 
 Preserves. Not controls. Not manages. *Preserves.*
 
-Khenti rolled the papyrus and returned it to its case.
-
-Amenhotep had written *preserves*.
-
-And the offensive network had spent ten generations learning to *select*.
+Amenhotep had written *preserves*. And the offensive network had spent ten generations learning to *select*.
 
 ---
 

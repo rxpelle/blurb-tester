@@ -8,7 +8,7 @@
 
 Tirzah's son was seven years old when he first saw the pattern.
 
-They'd walked to the hillside after the morning meal, flatbread torn from the tabun oven, goat cheese, a handful of olives pressed from last season's harvest. Tirzah wore the clothing of a Canaanite farmer's wife now, undyed wool tunic belted with a woven sash, linen head covering, leather sandals worn thin at the heel from fieldwork. Twenty-two years since fleeing Egypt and she'd almost forgotten what it felt like to wear pleated linen and faience jewelry. Almost.
+They'd walked to the hillside after the morning meal, flatbread torn from the tabun oven, goat cheese, a handful of olives pressed from last season's harvest. Tirzah dressed like a Canaanite farmer's wife now, sandals worn through at the heel from fieldwork. Twenty-two years since fleeing Egypt and she'd almost forgotten what it felt like to wear pleated linen. Almost.
 
 Below them, terraced fields where drought-resistant barley grew in careful rows. The Canaanite hill country had recovered somewhat since the worst years. Population stabilizing, settlements taking root, trade routes cautiously re-emerging. But everyone who'd survived knew it could happen again.
 
@@ -268,17 +268,11 @@ The trader had been talking for an hour, but Amenhotep had needed only the first
 
 *A woman in the Canaanite hill country. Egyptian accent. A son who sees signs in everything.*
 
-He dismissed the trader with payment and sat alone in his chamber at the Temple of Ptah. Sixty-four years old. His hands had developed a tremor he disguised by keeping them folded in his lap during audiences. His vision blurred at the margins, though the center held sharp enough for reading. The body was failing in the slow, catalogued way he'd watched happen to a hundred patients. He noted the progression with professional detachment.
-
-The offensive network had grown precisely as he'd designed. Twelve trained carriers in three Egyptian temple complexes. Breeding programs entering their second generation, children of the original cohorts now producing children of their own, each pairing selected for cognitive markers and pattern-recognition aptitude. The Blood Register tracked 847 individuals across fourteen bloodlines. All centralized. All documented. All under temple authority that would persist regardless of which pharaoh sat on which throne.
-
-And now, after all these years, confirmation.
+He dismissed the trader with payment and sat alone in his chamber at the Temple of Ptah. Sixty-four years old. His hands had developed a tremor he disguised by keeping them folded in his lap during audiences. The body was failing in the slow, catalogued way he'd watched happen to a hundred patients.
 
 Tirzah. She was calling herself Tirzah.
 
-The trader had described a settlement in the hill country above the Jezreel Valley. Farming families, refugees mostly, building stone houses on terraced slopes. Among them, a woman of Egyptian bearing, mid-thirties, trained as a healer, respected by the community but holding no formal authority.
-
-*Nefertari's design,* Amenhotep thought. *She trained the girl to disappear into ordinary life. To carry the Protocol like a seed buried in common soil.*
+*Nefertari's design,* he thought. *She trained the girl to disappear into ordinary life. To carry the Protocol like a seed buried in common soil.*
 
 And the son. Seven years old. A boy who watched crop rotations and asked why the soil needed rest. Who noticed when trade routes shifted and told the village elders before they noticed themselves.
 
@@ -288,27 +282,13 @@ Both possibilities concerned him.
 
 He unrolled a fresh papyrus and began composing instructions for his agent in Sidon.
 
-*Confirm location of Tirzah and her son in the hill country settlements. Do not approach. Do not engage the community. Report quarterly on the boy's development: cognitive patterns, social behavior, any evidence of the seeing activating.*
+*Confirm location of Tirzah and her son. Do not approach. Report quarterly on the boy's development.*
 
 He paused, stylus hovering.
 
 *Additionally: Confirm current location of Pattern Eye. The Byblos priestesses will talk eventually.*
 
-Twenty-two years, and the priestesses of Ba'alat Gebal had held their silence. Amenhotep respected that. Respected the institutional discipline it represented. But institutional discipline was precisely what he understood best, and every institution had pressure points: financial dependency, succession crises, the slow erosion of purpose across generations. The priestesses who'd made the promise to Nefertari would die. Their replacements would inherit obligation without context. And obligation without context was the most brittle kind of loyalty.
-
-He sealed the instructions with temple wax and set them aside for the morning courier.
-
-Outside his window, Memphis hummed with the ordinary business of an empire stitching itself back together. Markets reopening. Trade routes cautiously extending. Children born into a world that had no memory of the catastrophe that had nearly ended everything.
-
-That was the problem with Nefertari's philosophy. She believed in teaching people to see the fall coming. But people didn't want to see it. They wanted to forget it. Every generation that grew up in stability would feel the inherited memory of catastrophe as irrelevant anxiety — a phantom inheritance from ancestors whose suffering seemed increasingly abstract.
-
-His approach didn't require people to care. It required them to obey. And obedience, unlike compassion, could be engineered.
-
-Amenhotep extinguished his lamp and lay in the darkness, listening to temple priests chanting their evening prayers. The same prayers, the same words, the same cadence that had echoed through these halls for a thousand years. Unchanging. Reliable. Institutional.
-
-*Monitor the boy,* he thought. *Let the defensive network believe it's growing unchecked. Let Tirzah teach her son to see the signs in crop rotations and trade routes.*
-
-*When the time comes, we'll need to know exactly what we're dealing with.*
+Twenty-two years, and the priestesses of Ba'alat Gebal had held their silence. Amenhotep respected that. But every institution had pressure points: financial dependency, succession crises, the slow erosion of purpose across generations. The priestesses who'd made the promise to Nefertari would die. Their replacements would inherit obligation without context. And obligation without context was the most brittle kind of loyalty.
 
 He closed his eyes. Sleep came slowly these days, and the tremor in his hands followed him into dreams where bronze keys turned in locks that opened onto nothing.
 

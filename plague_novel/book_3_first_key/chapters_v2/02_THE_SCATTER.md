@@ -252,7 +252,7 @@ Theia stared at her hands. At the broken tablet fragments. At the cliff edge whe
 
 They hid the body, weighted with stones, dragged into deeper water beyond where fishermen would find it easily. The second agent never found them. Eventually he left the settlement, searching elsewhere. Nefertari stayed hidden in the archive for three days until Theia confirmed the danger had passed.
 
-On the second night, sleepless, she heard a tapping from the archive's storage room. One tap. Then silence. *Look at this,* the old signal, the private language of twenty years. But it was just a beam settling in the cold. Wood contracting. Nothing. No one.
+On the second night, sleepless, she heard a tapping from the archive's storage room. One tap. Then nothing. *Look at this,* the old signal, the private language of twenty years. But it was just a beam settling in the cold. Wood contracting. Nothing. No one.
 
 They built the Memory Bridge into the archive's new storage building during those three days. Sealed in waterproofed leather, placed behind a marked stone. The location recorded in Theia's personal notes, written in a code that blended Mycenaean Linear B with Egyptian hieratic script.
 
@@ -414,7 +414,7 @@ His expression softened. "Good. She deserves that much agency." Then the softnes
 
 He picked up his bronze keys. "You're trusting strangers to guard what matters. I'm making sure it doesn't depend on trust." His jaw tightened. "I hope your way works. I do. But I can't build a three-thousand-year plan on hope."
 
-They stood in silence for a moment.
+They stood there, the space between them carrying the weight of everything they'd built together and were about to lose.
 
 Amenhotep extended his hand. "Three thousand years."
 
@@ -438,9 +438,7 @@ They left the borrowed workshop that afternoon.
 
 **Memphis, Egypt — 1188 BCE**
 
-The Temple of Ptah had survived three dynasties, two invasions, and a famine that had emptied half the Nile Delta. Amenhotep found it a useful place to think.
-
-He sat in the inner courtyard, lotus-topped columns casting precise shadows across the flagstones, the smell of natron and burnt offerings drifting from the sanctuary, cross-legged on stone worn smooth by generations of priests, and spread the trader's report across his knees. A servant had left a clay bowl of beer and emmer bread on the ledge beside him. He hadn't touched it. Papyrus, water-stained from the crossing.
+Amenhotep spread the trader's report across his knees in the inner courtyard of the Temple of Ptah. Papyrus, water-stained from the crossing.
 
 *Byblos. She went to Byblos.*
 
@@ -450,31 +448,15 @@ His mind made room for her arguments. Paused at the places where she'd interrupt
 
 He pressed his thumb against the crease of the report and held it there. One gesture. Then he folded the papyrus and set it aside.
 
-His three bronze keys sat in a cedar chest beneath his sleeping mat: Blood Register, Catastrophe Clock, Culling Method. Safe. Centralized. Under his direct control. The opposite of what she was doing with hers.
+He'd dispatched agents to Phoenicia a month ago. Their orders: follow the physician. Document where she goes. Report what she hides. Do not harm her unless she threatens the Protocol's integrity.
 
-He'd dispatched agents to Phoenicia a month ago. Former military intelligence under Ramesses III, retrained for quiet work. Their orders: follow the physician. Document where she goes. Report what she hides. Do not harm her unless she threatens the Protocol's integrity.
-
-The orders were strategic. The impulse behind them was something else, because tracking her movements was the last form of proximity available to him. He told himself the intelligence was necessary. He told himself the offensive network required knowledge of the defensive network's key placements. Both things were true. Neither was the reason his hands shook slightly when he unrolled a new dispatch.
+The orders were strategic. The impulse behind them was something else, because tracking her movements was the last form of proximity available to him. Both things were true. Neither was the reason his hands shook slightly when he unrolled a new dispatch.
 
 The first report: she'd entered Byblos. Visited the temple. Stayed one night. Then vanished. A woman traveling alone through a port city where Egyptian agents controlled the trade registries, and she'd disappeared like smoke through a lattice window. Something in his chest loosened at that. Not relief exactly. Recognition.
 
-The second agent's report was overdue. Cyprus, probably. The Mycenaean refugee settlements near Enkomi, displaced scholars preserving knowledge in exile. Exactly the kind of distributed custody she believed in.
+The second agent's report was overdue. Cyprus, probably. Exactly the kind of distributed custody she believed in.
 
-Amenhotep stood, joints protesting. He walked to the courtyard's edge and looked out across Memphis toward the river.
-
-Setnakhte's Egypt was stabilizing. The new pharaoh was brutal but competent, purging Tausret's legacy, consolidating military control, restarting grain distribution through temple networks he could monitor. Amenhotep had aligned himself carefully. Not as an ally. As a resource. The priesthood of Ptah needed a physician who understood heredity. Setnakhte needed temples that kept the populace fed and obedient. Amenhotep needed institutional protection for his carriers and his keys.
-
-A triangle of mutual utility. The strongest shape in architecture and politics alike.
-
-He'd already identified three families for the first breeding cohort. Egyptian nobility with strong cognitive markers. A Phoenician merchant dynasty whose children showed unusual aptitude for the seeing. A Mesopotamian priestly line with documented pulse anomalies passing through four generations. Each family would be approached through intermediaries: marriage alliances, temple patronage, trade agreements. Nothing that looked like what it was.
-
-*She'll scatter them across Phoenicia and Cyprus and those goat farms in the hills. And she'll trust strangers to guard them for three thousand years.*
-
-It was a beautiful theory. And it would fail. Distributed systems required something centralized ones didn't: sustained voluntary cooperation across centuries without authority to enforce it. One generation of neglect. One priestess who forgot the oral tradition. One archive that burned. And the chain would break.
-
-His approach was different. Harder. Less noble. But resilient in the way that institutions were resilient: through hierarchy, through obligation, through the quiet weight of power ensuring continuity whether individuals cared or not.
-
-He turned back toward the temple interior. *I need to find them.* Not now. Not this year. Patience was its own kind of weapon. But eventually, Nefertari's hidden keys would need to be located, catalogued, and, when the time came, retrieved or neutralized.
+He'd already identified three families for the first breeding cohort. Egyptian nobility with strong cognitive markers. A Phoenician merchant dynasty whose children dreamed of collapses they'd never witnessed and predicted trade disruptions before the caravans stopped. A Mesopotamian priestly line with documented pulse anomalies passing through four generations. Nothing that looked like what it was.
 
 *I could have gone with her and I chose this instead.*
 

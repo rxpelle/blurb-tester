@@ -339,35 +339,21 @@ And nine generations later, her descendants would still dream it too.
 
 **Jaffa, coast of Canaan — 967 BCE**
 
-Khepri sailed from Jaffa three days after the funeral, on a Phoenician merchant galley carrying Tyrian dye and Israelite olive oil south to the Delta.
+Khepri sailed from Jaffa three days after the funeral, standing at the stern rail as Canaan receded into haze.
 
-He stood at the stern rail as the coastline of Canaan receded into haze, and he let himself think clearly for the first time since the stone fell.
+Shiphra had killed a man to protect something hidden in the Temple foundation. He'd studied her at the funeral — the careful stillness, hands flat against her thighs as they lowered Adoniram into the ground. The posture of someone holding themselves together through discipline, not peace. He'd seen that posture before. In his own people after their first strategic elimination.
 
-Shiphra — Generation 9, architect, Nefertari's side — had killed a man to protect something hidden in the Temple foundation. Khepri had studied her at the funeral. The careful stillness of her face, the way her hands stayed flat against her thighs as they lowered Adoniram into the ground. The posture of someone holding themselves together through discipline, not peace.
+The Pattern Eye. That's what she was hiding. Khepri hadn't known it was there — his orders had been simple reconnaissance. But Adoniram's dreams had pointed straight at it, and Shiphra had killed him to keep it buried.
 
-He'd seen that posture before. In his own people after their first strategic elimination. The body learning to absorb what the conscience couldn't metabolize.
-
-The Mediterranean sun hammered the deck. Sailors adjusted rigging, called to each other in the polyglot pidgin of Phoenician trade routes. Khepri barely heard them.
-
-Adoniram had been useful, someone with just enough of the inheritance to detect the foundation anomalies, just enough trust in Khepri's guidance to keep probing. Another few weeks and the architect would have located whatever Shiphra was hiding. Through his own latent inheritance, not espionage, gently directed by Khepri's questions.
-
-But Shiphra had seen the trajectory. And she'd pulled a rope.
-
-*She killed him.* The thought had a specific weight, like a stone dropped into deep water. *Nefertari's precious prevention-through-compassion philosophy — and her people killed a man because he was getting close to something they wanted hidden.*
-
-The Pattern Eye. Hidden in the foundation of Solomon's Temple. Khepri hadn't known it was there — his orders had been simple reconnaissance. But Adoniram's dreams had pointed straight at it, and Shiphra had killed him to keep it buried.
-
-The galley rounded the cape south of Ashkelon. Khepri descended to his cabin, a narrow space between amphorae of oil, and composed his report by the light of a clay lamp. He wrote precisely: the architect's activation, the midnight meeting in the foundation pit, two lamps descending and only one emerging. The location: eastern foundation, central column.
+In his cabin, he composed the report by clay lamplight. The architect's activation, the midnight meeting in the foundation pit, two lamps descending and only one emerging. The location: eastern foundation, central column.
 
 He added a final section.
 
 *They are already becoming us. The only difference is that they grieve afterward.*
 
-He sealed the papyrus and stored it in the hidden compartment of his traveling chest. They knew where the key was now. They couldn't extract it — not without destroying the Temple and destabilizing the entire Levant. But temples fell eventually. They could be patient.
+He sealed the papyrus. They knew where the key was now. Temples fell eventually. They could be patient.
 
-Khepri lay on his sleeping mat, listening to the creak of the hull and the slap of waves against Phoenician cedar.
-
-He dreamed of a foundation pit. A falling stone. A woman's hand on a rope.
+That night he dreamed of a foundation pit. A falling stone. A woman's hand on a rope.
 
 In the dream, the hand was his own.
 

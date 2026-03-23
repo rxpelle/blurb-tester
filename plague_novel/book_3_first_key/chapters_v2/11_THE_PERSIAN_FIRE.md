@@ -23,7 +23,7 @@ King Leonidas didn't know he was reenacting an ancient pattern.
 
 But Aristodemos did. And when the memory surged -- the Bronze Age rear guards, the mountain passes, the smell of burning cities -- his left hand found the scar on his right forearm and pressed it, hard, thumb grinding into the ridge of tissue. An old wound from training. He pressed it the way a man bites down on leather during surgery: to anchor himself to the present, to keep the ancestral dead from pulling him under.
 
-"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king stood in his crimson phoinikis cloak, his long hair freshly oiled and combed in the Spartan fashion — warriors grooming for death the way other men groomed for festivals. Behind him, the Three Hundred sat around cook-fires eating melas zomos (the black broth of pork blood, vinegar, and salt that other Greeks found revolting), sharpening the leaf-bladed spear points that would meet Persian flesh at dawn. The Spartan king knew Aristodemos' family carried something, centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the seeing.
+"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king's long hair was freshly oiled — warriors grooming for death the way other men groomed for festivals. Behind him, the Three Hundred sat around cook-fires eating melas zomos (the black broth of pork blood, vinegar, and salt that other Greeks found revolting), sharpening the leaf-bladed spear points that would meet Persian flesh at dawn. The Spartan king knew Aristodemos' family carried something, centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the uncanny strategic clarity that ran in Aristodemos' family like a second language.
 
 "The pass will hold for three days," Aristodemos said. "Maybe four if the weather favors us. Then the Persians will find the mountain path. They'll flank us. And everyone who stays will die."
 
@@ -51,7 +51,7 @@ Then the Order arrived.
 
 The Persian emissary who visited their camp the next morning wasn't Persian.
 
-Aristodemos recognized him immediately, the recognition that came with the seeing. The way the man's eyes scanned the defensive positions, cataloguing weaknesses. The systematic analysis of troop morale, supply lines, tactical options.
+Aristodemos recognized him immediately — the way the man's eyes scanned the defensive positions, cataloguing weaknesses with a precision no ordinary diplomat possessed. The systematic analysis of troop morale, supply lines, tactical options. A carrier's gaze. Unmistakable.
 
 One of them.
 
@@ -165,7 +165,7 @@ The Greeks had crammed their fleet into the narrow straits. Lured the Persian sh
 
 Classic defensive thinking: turn your weakness into strength through environmental leverage.
 
-And it was working. The old skill showed her the pattern clearly: this battle would break Xerxes' invasion. Greece would survive.
+And it was working. She could see the trajectory resolving — the Persian fleet fragmenting in the narrows, the supply lines stretching past viability, the morale cracking ship by ship. This battle would break Xerxes' invasion. Greece would survive.
 
 Then she saw him.
 
@@ -177,7 +177,7 @@ Artemisia felt something unexpected: not anger at losing the battle, but satisfa
 
 But then the battle turned against her directly.
 
-A Greek trireme bore down on her flagship, and on its deck she saw the Spartan — not at the helm but standing at the prow, reading the battle the way she read it, pointing her ship out to the Athenian captain. His eyes met hers across the waves, the seeing sparking between them, and she saw his tactical calculation: sinking her ship would demoralize the Persian center. Kill her, and Xerxes lost his best admiral.
+A Greek trireme bore down on her flagship, and on its deck she saw the Spartan — not at the helm but standing at the prow, reading the battle the way she read it, pointing her ship out to the Athenian captain. His eyes met hers across the waves, the inherited clarity sparking between them like flint on iron, and she saw his tactical calculation: sinking her ship would demoralize the Persian center. Kill her, and Xerxes lost his best admiral.
 
 Strategic victory demanded her death.
 
@@ -318,47 +318,43 @@ She hoped that long after her bones were dust, her descendants would understand:
 
 *Artemisia of Halicarnassus to Darius of Sardis. Forty days after Salamis.*
 
-I rammed the Calyndian ship rather than allow the Spartan to sink mine. The compact held. The experiment continues.
+I rammed the Calyndian ship rather than allow the Spartan to sink mine. The compact held.
 
-You will want details. Here are the ones that matter: The Spartan, Aristodemos, Generation 22, recognized me at Thermopylae. I gave him the strategic argument for leaving the pass alive. He left. He then commanded a trireme at Salamis and bore down on my flagship with every tactical advantage. I had three seconds to decide. I chose the Calyndian hull over my own death.
+The Spartan, Aristodemos, Generation 22, recognized me at Thermopylae. I gave him the strategic argument for leaving the pass alive. He left. He then bore down on my flagship at Salamis with every tactical advantage. I had three seconds. I chose the Calyndian hull over my own death.
 
-Xerxes, watching from shore, believed I'd sunk a Greek vessel. He praised my courage. He will never know I killed his allies to save his enemy.
+Xerxes, watching from shore, believed I'd sunk a Greek vessel. He will never know I killed his allies to save his enemy.
 
-I am not troubled by this. The compact exists for reasons older than Persia. But I want you to understand something I did not expect: the Spartan let me escape. He turned his trireme away when he could have pursued. He chose the experiment over the battle.
+But here is what I did not expect: the Spartan let me escape. He turned his trireme away when he could have pursued. He chose the experiment over the battle.
 
-We are not enemies, Darius. We are collaborators testing opposite hypotheses. The experiment requires us both.
+We are not enemies, Darius. We are collaborators testing opposite hypotheses.
 
 ---
 
 *Darius of Sardis to Artemisia of Halicarnassus. Reply composed but never sent. Found in Darius's private archive after his death, 461 BCE.*
 
-Artemisia —
+Artemisia --
 
-I have read your letter four times. The intelligence is valuable. Your survival is welcome. Your language alarms me.
+I have read your letter four times. Your survival is welcome. Your language alarms me.
 
-"Collaborators." You write about a Spartan you met once in the dark beside a mountain pass, and the word you choose is "collaborators." Not "enemy operative." Not "opposing agent." Collaborators.
+"Collaborators." You write about a Spartan you met once in the dark beside a mountain pass, and the word you choose is *collaborators.*
 
-I pulled the census this morning. Forty-seven active members of Nefertari's side across the Mediterranean. Scattered across twelve city-states, four kingdoms, a dozen tribal confederations. No central command. No institutional base. No military capacity. We have three hundred and twelve. Embedded in the Persian Empire's administrative apparatus. Backed by the most powerful military force in the known world. The compact protects their scattered network from our concentrated power. Without it, we could eliminate every last one of them in two seasons. Three at most.
+I pulled the census this morning. Forty-seven of theirs across the Mediterranean. We have three hundred and twelve, embedded in the Persian Empire's administrative apparatus. The compact protects their weakness from our strength. Without it, we could eliminate every last one of them in two seasons.
 
-The compact is a cage we built for ourselves and called principle.
+I brought this to council. The vote was seven to five. Maintain.
 
-I brought this to council. Twelve of us, Generations 19 through 23, in the undercrypt beneath the satrap's palace. Megabyzus argued for maintaining: the experiment requires both networks, eliminating them proves only that force destroys what it touches, which no one disputes. I argued for reassessment: the defensive network grows more sophisticated every generation. Delphic Oracle networks. Essene communities forming in the Levant. Philosophy schools in Athens. We give them breathing room and call it honor.
-
-The vote was seven to five. Maintain.
-
-I am recording the dissent. Future generations will read this through the inherited memory and understand: the compact protects their weakness from our strength. Their distribution is their only advantage. When the strategic calculus changes, this question returns.
+I am recording the dissent. When the strategic calculus changes, this question returns.
 
 But there is a second concern I did not raise in council, and I raise it here, in a letter I will never send.
 
-Your letter reads like love, Artemisia. Not for the Spartan; I am not so crude. But for the *idea* of him. For the notion that the experiment is sacred. That honoring the compact is not strategy but morality. That we and they are, in some fundamental way, the same.
+Your letter reads like love, Artemisia. Not for the Spartan -- I am not so crude. But for the *idea* of him. For the notion that the experiment is sacred. That honoring the compact is not strategy but morality. That we and they are, in some fundamental way, the same.
 
 That is the danger. Strategic compacts can be abandoned when strategy demands it. Moral commitments calcify into weakness. I am watching our best operative develop sympathy for the enemy's philosophy, and I do not know how to stop it without destroying the qualities that make her our best.
 
-The Persian Empire will endure for another century. The compact will hold for longer than that. But the crack — five voices for elimination, seven for patience, and a letter from Halicarnassus that reads more like love than strategy — that crack will widen.
+The crack -- five voices for elimination, seven for patience, and a letter from Halicarnassus that reads more like love than strategy -- that crack will widen.
 
 It always does.
 
-— D.
+-- D.
 
 ---
 

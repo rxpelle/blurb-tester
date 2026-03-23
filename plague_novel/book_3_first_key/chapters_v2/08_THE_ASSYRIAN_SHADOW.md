@@ -109,7 +109,7 @@ They had six days before the plague hit.
 
 Tamar taught him the way Hannah had taught her: not theory but observation. Watch grain markets for hoarding. Watch refugees for where the unraveling spreads next. Watch the sick for what crowding does to a population.
 
-Micah learned fast. The old skill was strong in him, stronger than Tamar had seen in anyone from a diluted line.
+Micah learned fast. He read grain markets the way scribes read tablets — fluently, instinctively, his eyes finding the hoarding patterns before Tamar could point them out. Stronger intuition than she'd seen in anyone from a diluted line.
 
 On the third day, they stood on the wall again.
 
@@ -143,11 +143,11 @@ The smell reached them first: smoke from funeral pyres mixing with something swe
 
 Sennacherib's siege engines stood abandoned. His supply wagons burned. His grand assault on Jerusalem fell apart without a single battle, undone by rats, crowding, fouled water, and the invisible cascade that Micah had seen in his dreams weeks before the first soldier fell.
 
-"One hundred eighty-five thousand dead," Micah whispered. The seeing was showing him the final count before official reports confirmed it. "Just like the vision."
+"One hundred eighty-five thousand dead," Micah whispered. He could feel the number the way you feel a weight settle — the camp sizes, the infection rate, the days of exposure all converging on a figure his body knew before the couriers confirmed it. "Just like the vision."
 
 The city celebrated. Called it a miracle. God's hand shielding Jerusalem.
 
-Only Tamar and Micah knew the truth: it was the old skill at work, the inevitable result of crowding armies in unsanitary conditions during summer heat with high rat populations.
+Only Tamar and Micah knew the truth: rats, crowding, fouled water, summer heat. The inevitable arithmetic of bodies packed too close together for too long.
 
 "They think I prophesied this," Micah said. "The priests. The king. They're calling me inspired. Touched by God."
 
@@ -197,7 +197,7 @@ Micah was quiet for a moment. Then: "You taught me that seeing collapse means re
 
 "The network prevents civilizational collapse. We don't throw sixteen-year-olds into plague camps to prove a point about compassion."
 
-"I'm not proving a point." His voice was steady. Calm in a way that frightened her, because she recognized it—the clarity, the moment when the seeing locks in and the path forward becomes inevitable. She'd seen it in her mother's eyes when Hannah made the same calculation over siege preparations. She'd felt it herself when she decided to approach Micah in the Temple court.
+"I'm not proving a point." His voice was steady. Calm in a way that frightened her, because she recognized it — the pupils going still, the jaw settling, the body quieting into the particular focus that came when the trajectory resolved and every variable pointed at one conclusion. She'd seen it in her mother's eyes when Hannah made the same calculation over siege preparations. She'd felt it herself when she decided to approach Micah in the Temple court.
 
 He saw the trajectory. The intervention point. And he was going.
 
@@ -207,7 +207,7 @@ He saw the trajectory. The intervention point. And he was going.
 
 "You taught me about Nefertari. How she made sure what she knew would outlive her." He met her eyes. "You already gave me everything I need. I can read the signs. I can show them what to do — boil the water, burn the bedding, separate the sick. And if I don't come back —" His voice caught. He was sixteen. For a moment he looked it. Then: "You remember me. You pass it forward. That's how this works."
 
-Tamar wanted to argue. Wanted to tell him he was sixteen and stupid and confusing martyrdom with purpose. But the old skill was showing her something she didn't want to see: he was right about the intervention. The camp followers could be saved—some of them—if someone showed them the basic plague-prevention measures that anyone carrying the old skill learned as a child.
+Tamar wanted to argue. Wanted to tell him he was sixteen and stupid and confusing martyrdom with purpose. But she could already see the intervention working — the boiled water, the burned bedding, the separation protocol, the death rate dropping from catastrophic to survivable. He was right. The camp followers could be saved — some of them — if someone showed them the basic plague-prevention measures her mother had taught her before she could read.
 
 The question was whether the someone had to be him.
 
@@ -315,51 +315,19 @@ She sealed the record and blew out the lamp.
 
 Nekhen observed the boy from the crowd.
 
-The Temple's outer court was packed with the desperate and the faithful -- Judeans seeking reassurance during the siege, priests performing rituals that would do nothing against Sennacherib's two hundred thousand soldiers. But Nekhen wasn't looking at the priests. He was looking at the shepherd boy who stood on the fountain steps, voice cracking, telling anyone who'd listen about rats and plague and invisible death.
-
 *Diluted bloodline. Fourteen, maybe sixteen. Genetic memory activating under siege stress.*
 
-Nekhen was Generation 14, offensive network, stationed in Jerusalem since the Assyrian advance began. His orders from Memphis were straightforward: use the siege chaos to probe the Temple foundations. The Order had known since Khepri's report in 967 BCE that the Pattern Eye was hidden beneath the eastern colonnade. Nearly three centuries they'd waited for the right moment to retrieve it.
+Generation 14, offensive network, Nekhen had been stationed in Jerusalem to probe the Temple foundations during the siege chaos. The Order had known since Khepri's report in 967 BCE that the Pattern Eye was hidden beneath the eastern colonnade. Nearly three centuries they'd waited. But Nefertari's side had positioned people at every access point to the lower chambers, running shifts with quiet efficiency. He hadn't gotten within fifty cubits.
 
-A siege was the right moment. Guards distracted. The city's attention fixed on the walls. Who would notice a priest-scholar examining foundation stones?
+So he turned his attention to the boy. Standing on the fountain steps, voice cracking, describing epidemiological dynamics that the Order's senior operatives trained for years to master. This untrained shepherd was broadcasting them to the entire market square.
 
-But Nefertari's side had thought of this too.
+He composed his dispatch: *Temple probe failed. Secondary observation of greater strategic value -- diluted carrier identified, manifesting as public prophecy. Untrained carriers represent a recruitment opportunity the Order has not systematically exploited. Every prophet they miss is one we can claim.*
 
-Nekhen had tried twice in the past week to access the Temple's lower foundations. Both times, their people had appeared -- not confronting him, simply present, watching, making it impossible to work unobserved. They were positioned at every access point to the lower chambers, running shifts with quiet efficiency. The siege had made them more vigilant, not less.
+He watched the woman -- Tamar -- lead the boy away that evening. She'd gotten to this one first.
 
-He turned his attention back to the boy. The crowd was growing. Someone had told the king's officials, and now an officer stood listening with the expression of a man deciding whether to call this treason or prophecy.
-
-"Crowding accelerates it," the boy was saying. "Rats carry it. Poor sanitation spreads it."
-
-Nekhen felt the chill of recognition. Not prophecy. Systems analysis. The boy was describing epidemiological dynamics that the Order's senior operatives trained for years to master. This untrained shepherd was broadcasting them to the entire market square.
-
-He composed the message in his mind. He'd send it south with a merchant leaving through the Assyrian lines -- the Order maintained contacts on both sides of every siege.
-
-*Jerusalem Temple probe: Failed. Defensive network maintaining constant surveillance of foundation access points during siege. Recommend deferral until political conditions change.*
-
-*Secondary observation of greater strategic value: Diluted carrier identified in Jerusalem. Male, approximately sixteen years. Genetic memory activating without training, manifesting as public prophecy. Broadcasts epidemiological collapse-sight openly. No defensive network contact observed initially, though a woman from their side -- likely Generation 12, Jerusalem branch -- has since made approach.*
-
-*Assessment: Untrained diluted carriers represent a recruitment opportunity the Order has not systematically exploited. This boy's collapse-sight is raw but strong. If Nefertari's people recruit him, they gain a prophet who moves crowds. If we reach them first, we gain operatives already trusted by the populations they serve.*
-
-*Recommendation to the Council: Establish systematic identification protocol for diluted carriers manifesting as prophets, mystics, or seers. Every market square prophet broadcasting the encoded memories publicly is a potential asset. Left unrecruited, they are a liability -- their public pronouncements expose carrier capabilities to anyone clever enough to recognize what they're seeing.*
-
-*The other side teaches them. We should recruit them. Every prophet they miss is one we can claim.*
-
-Nekhen saw the woman -- Tamar, he'd learned her name -- lead the boy away from the crowd that evening. She'd gotten to this one first. They would teach him their philosophy, show him their methods, add him to their distributed web.
-
-But there would be others. There were always others.
-
-Diluted bloodlines were spreading across the Mediterranean. The original families had intermarried for centuries, scattering it into populations who'd never know what they carried. Prophets in Judah. Oracles in Greece. Seers in Phoenicia. Every generation produced more of them.
-
-The Order had been focused on breeding pure bloodlines through controlled marriages. But perhaps the real resource wasn't purity. Perhaps it was reach.
-
-Nekhen left Jerusalem three weeks later, after the plague killed Sennacherib's army and the siege broke. Their surveillance of the Temple foundations never wavered, even during the worst of the crisis. He hadn't gotten within fifty cubits of the eastern colonnade.
-
-On the northern road, he passed a column of Assyrian camp followers moving south: women, children, slaves. They were boiling their water. Separating the sick from the healthy. Following sanitation protocols no Assyrian army physician had taught them.
+Nekhen left Jerusalem three weeks later, after the plague broke the siege. On the northern road, he passed a column of Assyrian camp followers moving south. They were boiling their water. Separating the sick from the healthy. Following sanitation protocols no Assyrian army physician had taught them.
 
 Someone had walked into the dying camps and shown them how to survive.
-
-Nekhen noted this in his dispatch without commentary. But he thought about it for days afterward. About a network that would send one of its own into a plague camp to save enemy civilians. About what kind of philosophy produced that. About whether the Order, with all its breeding programs and institutional power, had ever produced a single person willing to die for people who weren't useful.
 
 He carried a new strategy back to Memphis. And beneath it, lodged like a bone splinter in his professional certainty: the boy had known he would die, and he'd gone anyway, and Nekhen could not name a single one of his own who would have done the same.
 

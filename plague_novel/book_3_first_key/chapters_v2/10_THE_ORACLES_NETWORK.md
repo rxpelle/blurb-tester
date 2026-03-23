@@ -33,7 +33,7 @@ The crowd murmured. Croesus smiled. Clear prophecy: attack Persia, destroy their
 
 Kleomenes felt cold settling into his bones.
 
-That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Classic collapse-sight: Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
+That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Kleomenes could read the same trajectory: Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
 
 But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.
 
@@ -211,7 +211,7 @@ Eleven to nine.
 
 Approved: institutional prophecy operations and intelligence sharing with the Order — by a margin that made Kleomenes' stomach tight.
 
-But Kiya extracted a condition: if any temple became a source of collapse rather than prevention, the network retained authority to shut it down. She didn't say *how*. The silence after the word "authority" said enough.
+But Kiya extracted a condition: if any temple became a source of collapse rather than prevention, the network retained authority to shut it down. She didn't say *how*. The look she gave across the council table said enough.
 
 ---
 
@@ -239,7 +239,7 @@ They stood on Delphi's temple steps, the mountain air sharp with laurel and pine
 
 She was quiet for a moment. Then: "Kleomenes. What's my mother's name?"
 
-He went still.
+His hand tightened on her arm.
 
 "I can see her face," Aristonike said. "I can see her hands. She grew herbs. Or — someone grew herbs. Someone's mother." The tremor in her voice was worse than the tremor in her hands. "I have seventeen mothers in my head and I can't find which one is mine."
 
@@ -267,89 +267,49 @@ And the prophecy network was just beginning. But the woman who'd built it was al
 
 **OFFENSIVE NETWORK INTERLUDE**
 
-They met in the corridor behind the adyton — the inner sanctum where the Pythia sat on her bronze tripod above the earth's cleft, breathing the sweet pneuma that rose from the chasm — where the sacred vapors thinned enough to think clearly.
+They met in the corridor behind the adyton, where the sacred vapors thinned enough to think clearly.
 
-Darius had been stationed at Delphi for six years. Officially, he was a Hosioi -- one of the five priests who interpreted the Pythia's ecstatic utterances into coherent prophecy. Unofficially, he was Generation 19, one of Amenhotep's, embedded in the Oracle's institutional apparatus to study how Nefertari's side had managed to scale inherited memory into civilizational influence.
-
-He'd learned a great deal. Enough to admire the system even as he worked to subvert it.
+Darius had been stationed at Delphi for six years. Officially a Hosioi priest. Unofficially, Generation 19, one of Amenhotep's, embedded to study how Nefertari's side had scaled inherited memory into civilizational influence.
 
 The woman who stepped out of the shadow was not someone he'd expected to meet here.
 
-"You're Darius of Siwa." Not a question. She had the old way of seeing -- eyes that tracked patterns rather than surfaces. Dark hair threaded with grey. Mid-forties, perhaps. Strong hands, steady despite the pneuma exposure that made most people's extremities shake.
+"You're Darius of Siwa." Not a question. Dark hair threaded with grey. Strong hands, steady despite the pneuma exposure that made most people's extremities shake.
 
-"And you're Aristonike," Darius said. "Current Pythia. Generation 20, defensive network. Fifteen years of service, twelve more than the rotation protocol recommends."
+"And you're Aristonike. Current Pythia. Fifteen years of service, twelve more than the rotation protocol recommends."
 
-"You've been thorough."
+"How long has the Order had someone in the Hosioi?"
 
-"It's what we do."
+"Two generations at least. Possibly three." He paused. "You knew."
 
-They stood three paces apart in the limestone corridor, torchlight making their shadows stretch and merge on the wall. Two people from rival networks, separated by philosophy, connected by inherited architecture older than empires.
-
-"How long has the Order had someone in the Hosioi?" Aristonike asked.
-
-"Longer than you'd like to know. Two generations at least. Possibly three -- the records before my predecessor are ambiguous."
-
-She didn't look surprised. "And Siwa? Is it yours entirely, or do we still have people there?"
-
-"Yours. Mostly. We share the Oracle of Ammon the way we share Delphi -- parallel operations, neither side fully in control." He paused. "You knew."
-
-"I've known since my third year. Your predecessors were careful, but the recognition isn't something you can hide from one of us. Not at close range. Not when you're breathing the same vapors and interpreting the same visions." She leaned against the corridor wall. The torchlight caught the fine tremor in her left hand. "I chose not to expose you."
+"I've known since my third year. The recognition isn't something you can hide at close range. Not when you're breathing the same vapors." The torchlight caught the fine tremor in her left hand. "I chose not to expose you."
 
 "Why?"
 
 "Because the prophecies improved."
 
-Silence. The sound of the sacred spring echoing through subterranean channels.
+The sacred spring echoed through subterranean channels. Neither of them moved.
 
-Darius studied her. The tremor was worse than he'd documented in his reports to the Order. The pneuma damage was accelerating. Three years, perhaps less, before it consumed her cognitive function entirely.
+The tremor was worse than he'd documented in his reports. Three years, perhaps less, before it consumed her cognitive function entirely.
 
-"I've been tracking your keys for four centuries," he said. He hadn't planned to say it, but something about the corridor -- the intimacy of shared knowledge, the thin boundary between rivals who understood each other better than either understood the outside world -- made the truth easier than deception. "We found the Temple vault empty. Searched through rubble while Jerusalem burned. Your founder designed something we still cannot defeat."
+"I've been tracking your keys for four centuries," he said. Something about the corridor -- the intimacy of shared knowledge, the thin boundary between rivals who understood each other better than either understood the outside world -- made truth easier than deception. "We found the Temple vault empty. Searched through rubble while Jerusalem burned. Your founder designed something we still cannot defeat."
 
-Aristonike's expression didn't change. "I know about the Temple search. We moved the Pattern Eye years before the siege. A woman named Rachel saw the fall coming -- that's what we're trained to do."
+Aristonike's expression didn't change. "We moved the Pattern Eye years before the siege. A woman named Rachel saw the fall coming."
 
-"And your breeding programs," she said, and there was something in her voice that wasn't accusation. Something closer to clinical interest. "The people your network produces through controlled marriages. Their raw cognitive capacity exceeds anything our distributed bloodlines generate. Generation for generation, yours are stronger."
-
-"Stronger isn't better. Your diluted lines cover more ground. We produce ten exceptional minds per generation. You produce hundreds of adequate ones."
-
-"And then we organize them." Aristonike gestured toward the temple above them, where twelve oracles and five interpreter-priests delivered systematic prophecy to the Mediterranean world. "Institutional scale. Your methodology, our philosophy."
-
-"Is that what Delphi is? A hybrid?"
-
-"Delphi is proof that the experiment isn't binary. Defensive versus offensive. Prevention versus control. Those were the terms Nefertari and Amenhotep agreed on centuries ago. But prophecy doesn't fit either category. We provide knowledge without coercion. Foresight without population management. We show the collapse coming and let them choose."
-
-"And they choose wrong nearly half the time."
+"And they choose wrong nearly half the time," Darius said. "The kings. The supplicants. They hear the prophecy and choose wrong."
 
 "Yes. And that choice is worth preserving."
 
-Darius felt the old argument rising -- the Order's fundamental conviction that allowing choice meant allowing preventable death, that every ignored prophecy represented lives that systematic intervention could have saved. But standing here, in the corridor behind the Oracle, facing a woman who was poisoning herself to maintain an institution that honored human agency even when it led to catastrophe--
+The torch sputtered. Aristonike straightened, the tremor visible again.
 
-"Centuries," he said. "And neither network has won."
-
-"Perhaps that's the point."
-
-The torch sputtered. Aristonike straightened, and the tremor in her hand was visible again -- a reminder that this conversation was happening inside a system that consumed the people who served it.
-
-"The Persians will move against Greece within a generation," she said. "Your network and mine both see it coming. When that war arrives, the compact will be tested -- our people on both sides, fighting for nations that don't know what we are."
+"The Persians will move against Greece within a generation," she said. "When that war arrives, the compact will be tested -- our people on both sides, fighting for nations that don't know what we are."
 
 "The compact holds during war. It's held for six centuries."
 
-"It's held because neither side has been desperate enough to break it." She met his eyes. "But if Persia conquers Greece, your network loses its institutional base here. If Greece survives, our collaborative model at Delphi proves that hybrid approaches work better than either pure philosophy. Both outcomes change the experiment."
+"It's held because neither side has been desperate enough to break it." She turned toward the temple stairs. "Accurate isn't the problem. It never has been. The problem is whether anyone listens."
 
-"Then we'd better make sure the prophecies are accurate."
+She climbed the steps, one hand trailing the wall for balance. Darius watched her go.
 
-"Accurate isn't the problem. It never has been." She turned toward the temple stairs. "The problem is whether anyone listens."
-
-She climbed the steps, one hand trailing the wall for balance. Darius watched her go -- a woman destroying herself in service to a system that combined both networks' strengths, delivering knowledge to a civilization that would choose its own fate regardless.
-
-He would include none of this conversation in his report to the Order.
-
-Some things belonged to the corridor. To the space between networks where they recognized each other not as enemies but as parallel answers to the same impossible question.
-
-He would report the institutional structure. The training program for diluted bloodlines. The prophecy success rates. The operational intelligence the Order needed to maintain its position at Delphi.
-
-But the conversation -- the moment of mutual recognition between two people carrying centuries of opposing philosophies, standing in a gas-filled corridor beneath a temple built on the premise that knowledge should be offered and choice preserved--
-
-That, he would keep.
+He would include none of this conversation in his report to the Order. Some things belonged to the corridor. To the space between networks where they recognized each other not as enemies but as parallel answers to the same impossible question.
 
 ---
 

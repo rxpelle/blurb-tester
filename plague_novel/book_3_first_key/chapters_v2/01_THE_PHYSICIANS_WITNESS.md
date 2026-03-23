@@ -398,7 +398,7 @@ Six bronze discs. One living child. Seven keys total. Two networks built from th
 
 "A warning system," Nefertari corrected.
 
-They worked in silence for an hour, encoding the final sequences. Nefertari inscribed her four defensive keys with symbols that emphasized distribution, resilience, early warning. Amenhotep marked his three offensive keys with optimization curves, control hierarchies, survival calculations.
+They worked without speaking for an hour, encoding the final sequences. Nefertari inscribed her four defensive keys with symbols that emphasized distribution, resilience, early warning. Amenhotep marked his three offensive keys with optimization curves, control hierarchies, survival calculations.
 
 The same source material, six months of documenting the fall in excruciating detail, filtered through completely opposite philosophical lenses.
 

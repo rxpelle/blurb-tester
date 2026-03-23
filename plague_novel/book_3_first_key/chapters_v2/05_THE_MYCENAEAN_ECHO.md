@@ -23,7 +23,7 @@ Then the palaces started burning. And the dreams changed. Started showing him *w
 
 Mycenaean Greece was the world. The palaces were eternal. His dreams said otherwise.
 
-"Thrasymedes." His assistant approached, a young scribe in a wool chiton pinned at the shoulder with a bone clasp, his seal stone hanging from his wrist though there was nothing left worth sealing. A tablet in his hand. "The latest tribute counts from Argos. They're... not good."
+"Thrasymedes." His assistant approached, seal stone hanging from his wrist though there was nothing left worth sealing. A tablet in his hand. "The latest tribute counts from Argos. They're... not good."
 
 Taharqa took the clay tablet, scanned the Linear B characters. Tribute down forty percent. Labor conscription failing. Regional centers ceasing communication. The administrative network fragmenting exactly as his dreams predicted.
 
@@ -39,7 +39,7 @@ His assistant stared. "You're planning to run."
 
 "I'm planning to survive. There's a difference."
 
-Six months later, he sailed with two hundred seventeen refugees on twelve hide-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. The old skill guided them, trade routes to Egypt, safe harbors, timing to avoid storm seasons. Knowledge encoded from previous migrations his bloodline had survived.
+Six months later, he sailed with two hundred seventeen refugees on twelve hide-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. He knew which harbors were deep enough without checking charts, knew the storm seasons by a calendar no one had taught him, knew which trade routes still functioned because something in his blood had navigated this water before. Knowledge encoded from previous migrations his bloodline had survived.
 
 When the navigator called "Land ahead" and the Nile Delta materialized through morning haze, his breath caught. Not recognition exactly. Anticipation. The feeling of approaching someone who would understand what he was.
 
@@ -49,7 +49,7 @@ When the navigator called "Land ahead" and the Nile Delta materialized through m
 
 **Avaris, Nile Delta.**
 
-Deborah had been expecting refugees for three years. Her collapse-sight had shown her the Aegean crisis cascading. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
+Deborah had been expecting refugees for three years. She'd watched the Aegean crisis cascading the way a physician watches a fever build — grain shipments slowing, palace inventories shrinking, the trade web pulling apart node by node. She'd predicted when survivors would reach Egypt, suspected others like her would be among them.
 
 She just hadn't expected one this aware.
 
@@ -163,7 +163,7 @@ Philos — an older man, former palace administrator, the kind of steady pragmat
 
 "We're guessing either way!" Aristomache's voice cracked. "Raw data without interpretation is just — it's just *screaming.* It's burning palaces and drowning children and no context for any of it. You want to fill their dreams with horrors and let them figure it out alone?"
 
-The courtyard went quiet. Someone's lamp hissed and dimmed. In the distance, an Egyptian market vendor called out prices for fish that none of them could afford.
+Someone's lamp hissed and dimmed. In the distance, an Egyptian market vendor called out prices for fish that none of them could afford.
 
 "Vote," Taharqa said. His voice came out rougher than he intended.
 
@@ -250,37 +250,23 @@ He hoped that would be enough.
 **Private journal of Senbi, son of Nebet — Temple of Amun, Thebes**
 **Year 77 of the Protocol (1100 BCE)**
 
-I have maintained this record since my mother gave me the scriptorium keys. Khasekhem kept no personal journal, said institutional memory mattered more than individual reflection. But Khasekhem is seven years dead, seized in the night with breeding records clutched in one hand, and I find I need to write what I cannot say aloud.
+Khasekhem kept no personal journal, said institutional memory mattered more than individual reflection. But Khasekhem is seven years dead, and I find I need to write what I cannot say aloud.
 
-The world is getting larger. I do not know how to make my mother see this.
+A field dispatch arrived today. Twelve ships from collapsed Greek palaces have reached the Nile Delta. Two hundred refugees. Among them, multiple individuals demonstrating collapse-sight consistent with bloodline activation. One especially, a former palace scribe calling himself Taharqa, has already met with Nefertari's people at the Avaris safehouse.
 
-A field dispatch arrived today. Hieratic script, precise, devastating: twelve ships from collapsed Greek palaces have reached the Nile Delta. Two hundred refugees. Among them, multiple individuals demonstrating collapse-sight consistent with bloodline activation. One especially, a former palace scribe, now calling himself Taharqa, has already met with Nefertari's people at the Avaris safehouse.
+Natural inheritors. Unengineered. Emerging from bloodlines that survived the fall through sheer luck.
 
-Natural inheritors. Unengineered. Emerging from bloodlines that survived the fall through sheer luck, their genetic memory activated by the same catastrophe that birthed the Protocol.
+I brought the dispatch to my mother. She read it without expression, then burned it. She ordered three agents dispatched to Greek refugee communities — settle, learn the language, marry locally, watch for children who dream of burning cities.
 
-I brought the dispatch to my mother. She read it without expression, then burned it. That is her way. She runs the network the way Khasekhem did: deliberately, institutionally, through the priesthoods of Upper and Lower Egypt. Sixty-two active operatives on our side. Every one bred, documented, trained. Three generations of meticulous genealogical control.
+I sealed the orders myself. Sound strategy.
 
-Nefertari's network scattered across the Mediterranean with a handful of people and trusted the universe to provide more.
-
-The universe is providing.
-
-My mother's response was immediate, practical. She sees the Greek branch as a problem to be managed: twelve people today, fifty in five generations, two hundred in ten. Natural carriers appearing across the Aegean, each one recruited into the defensive network's philosophy. She ordered three agents dispatched to Phoenician merchant vessels heading west — settle in Greek refugee communities, learn the language, marry locally, watch for children who dream of burning cities and failing trade routes.
-
-I sealed the orders myself. Sound strategy. Institutional response to an institutional threat.
-
-But I find myself returning to the dispatch I copied before she burned it. Nefertari's network wasn't hunting for them. It wasn't breeding for them. It wasn't tracking genealogies or managing pairings. It simply existed, scattered, patient, open, and when the Greek refugees washed up on the Delta shore, the network was already there.
+But I find myself returning to the dispatch I copied before she burned it. Nefertari's network wasn't hunting for these people. It wasn't breeding for them. It simply existed, scattered, patient, open, and when the Greek refugees washed up on the Delta shore, the network was already there.
 
 We build. They grow.
 
-I do not write this as doubt. The offensive approach is sound. Breeding produces reliable operatives. Institutions persist. Our sixty-two trained operatives outperform their scattered handful in every measurable way.
+Our sixty-two trained operatives outperform their scattered handful in every measurable way. But *measurable* is the word that troubles me tonight. We measure what we engineer. We cannot measure what arrives uninvited.
 
-But measurable is the word that troubles me tonight. We measure what we engineer. We cannot measure what arrives uninvited. And their greatest advantage may be precisely this: that they do not need to predict where someone with the seeing will emerge. It only needs to be present when they do.
-
-The temple priests are chanting the midnight liturgy. The network has embedded itself in these rhythms so completely that the priesthood no longer distinguishes between religious practice and network operations. That was always the point. Institutions persist. Distributed refugees do not.
-
-Except, it seems, when they do.
-
-I will seal this journal and place it with Khasekhem's breeding records. If those who come after read these words through the seeing, let them understand: the experiment was evolving. Both sides needed to evolve with it. And one scribe in Thebes, sorting papyrus by lamplight, was not entirely certain his side was evolving fast enough.
+I will seal this journal and place it with Khasekhem's breeding records. One scribe in Thebes, sorting papyrus by lamplight, was not entirely certain his side was evolving fast enough.
 
 ---
 

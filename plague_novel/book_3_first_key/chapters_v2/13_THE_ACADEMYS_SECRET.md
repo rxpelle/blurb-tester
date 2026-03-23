@@ -153,7 +153,7 @@ They both laughed. And Theophrastus understood, with the clarity that only peopl
 
 **Six months later. Athens.**
 
-Theophrastus found Aristotle in the garden at dusk, cataloguing plant specimens by the last good light. The philosopher wore his usual work clothes: a worn himation draped loosely over his shoulders, a simple chiton beneath, both stained with ink and plant sap. His fingers were dirty from handling specimens, and a half-eaten dinner sat forgotten on the stone bench: bread and olives, some cheese, a cup of watered wine that attracted moths.
+Theophrastus found Aristotle in the garden at dusk, cataloguing plant specimens by the last good light. The philosopher's clothes were stained with ink and plant sap, his fingers dirty from handling specimens, and a half-eaten dinner sat forgotten on the stone bench: bread and olives, some cheese, a cup of watered wine that attracted moths.
 
 They were not alone.
 
@@ -193,7 +193,7 @@ Damophon stood. "Enough philosophy. We have a weapon bred to conquer the known w
 
 "And become what?" Menestor hadn't moved from the wall. His voice carried the heaviness of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe. That's the offensive network's doctrine. Word for word."
 
-The silence in the garden was broken only by moths hitting the oil lamp Aristotle had lit against the gathering dark.
+Moths tapped against the oil lamp Aristotle had lit against the gathering dark. No one spoke.
 
 "Alexander isn't just their prize student," Menestor continued. "He's their test. They *want* us to kill him. Because if we embrace strategic murder to stop him from succeeding, we prove their philosophy correct — that when ruin really threatens, everyone abandons principles for pragmatism."
 
@@ -438,95 +438,43 @@ Above Theophrastus, the same stars that had watched Nefertari split the network 
 
 The messenger reached Sardis eleven days after Alexander stopped breathing in Babylon.
 
-Demetrios of Sardis -- Generation 27, grandson of the Darius who'd argued for abandoning the compact a century and a half ago -- read the dispatch in the same undercrypt where that vote had been cast. The cedar desk was gone, replaced with marble. The lamps had been upgraded from oil to silver-channeled wax. Amenhotep's side had prospered under Alexander's conquests. Everything had been upgraded.
+Demetrios read the dispatch in the same undercrypt where his grandfather Darius had once voted to abandon the compact.
 
-Except the outcome.
+*Alexander III of Macedon. Generation 27. Died 10 Daisios, age 32. Fever. Empire extent at death: Greece to the Indus. Successor: none designated. Fragmentation expected.*
 
-*Alexander III of Macedon. Generation 27. Died 10 Daisios, age 32. Cause: fever, possibly poisoned wine, possibly accumulated damage from multiple battle wounds and sustained campaign stress. Empire extent at death: Greece to the Indus. Administrative systems partially established. Successor: none designated. Fragmentation expected.*
-
-Demetrios set the dispatch beside a leather folio containing the Macedonian breeding program's complete records. Three generations of carefully managed pairings. Seventy-eight years of carrier cultivation since the vote in Athens after Socrates' execution. Genetic memory markers tracked through every birth, every activation, every marriage.
-
-And Alexander had been perfect. Absolutely, devastatingly perfect.
-
-Pattern recognition that saw siege vulnerabilities in the time it took other generals to unfold a map. Strategic thinking that unified Macedonian phalanx tactics with Persian cavalry doctrine, with Theban oblique order, with Egyptian engineering -- synthesizing military traditions that had never been combined because no single mind had held them all simultaneously. Genetic memory so vivid that he'd wept at Troy, standing on ground his bloodline remembered from the Bronze Age Collapse, feeling through ancestral encoding what the fall of civilizations actually cost.
-
-Twelve years of conquest. The largest empire the world had ever known. Every prediction the Macedonian breeding program had made, validated.
+Alexander had been perfect. Absolutely, devastatingly perfect. Three generations of managed pairings. Seventy-eight years of carrier cultivation. Pattern recognition that saw siege vulnerabilities in the time it took other generals to unfold a map. Genetic memory so vivid he'd wept at Troy, feeling through ancestral encoding what the fall of civilizations actually cost.
 
 Then a fever. Thirteen days. And the masterpiece was dead at thirty-two.
 
 ---
 
-The emergency council met in Babylon itself -- the first time in the network's history that all regional directors gathered in a single location. Fourteen representatives, Generations 24 through 27, spanning operations across Alexander's entire empire. Egyptian. Persian. Phoenician. Greek. Macedonian. Bactrian. They sat in a requisitioned palace chamber that smelled of the embalming herbs being applied to Alexander's body two floors above.
+The emergency council met in Babylon -- fourteen representatives in a requisitioned palace chamber that smelled of the embalming herbs being applied to Alexander's body two floors above.
 
-Pharnaces of Persepolis -- Generation 25, the network's chief strategist, old enough to remember when Alexander was a design specification rather than a person -- opened the assessment.
+Pharnaces of Persepolis opened the assessment. "The breeding program achieved every objective. The thesis was being validated in real time across three continents." He paused. "And all of it depended on one heartbeat."
 
-"The Macedonian breeding program achieved every objective. Individual capability exceeded projections. Military application succeeded at continental scale. Administrative systems were being established. The thesis -- that centralized control prevents collapse more effectively than distributed prevention -- was being validated in real time across three continents."
+Timocrates of Athens -- Generation 27, Alexander's age -- said what the memory was already teaching them all.
 
-He paused.
+"Their distributed model survives because it doesn't depend on any single carrier. We built the opposite: individually magnificent and collectively brittle."
 
-"And all of it depended on one heartbeat."
+"Then what?" Pharnaces asked.
 
-The men around the table shifted. Some looked at their hands. The memory was already encoding this moment -- the taste of failure that came not from being wrong but from being right in a way that didn't survive.
+"We don't need another Alexander. We need something that *produces* Alexanders. And survives when they die." Timocrates moved to the map of Alexander's empire. "Not a person. An institution. Hierarchy that outlasts its leaders. Doctrine that transcends any single generation. An organization embedded so deeply in whatever power structure dominates each era that it becomes invisible."
 
-"His generals are already dividing the empire," reported the Babylonian station chief. "Perdiccas claims regency. Ptolemy wants Egypt. Seleucus wants Babylon. Antigonus wants Anatolia. Within five years, there will be four or five successor states where one empire stood. Within twenty, they'll be at war with each other."
+"You're describing something that has never existed."
 
-"Classic fragmentation pattern," Pharnaces said. "The same pattern the other side has been warning about since the founding. Centralized systems that depend on exceptional individuals collapse when the individual dies."
-
-The silence that followed was the silence of an institution confronting its foundational assumption.
-
-Timocrates of Athens -- Generation 27, Alexander's age, who'd studied at the Lyceum alongside the conqueror and watched Theophrastus record everything with philosophical detachment -- said what the inherited memory was already teaching them all.
-
-"The defensive network was right about this. Not about everything. Not about prevention being superior to control. But about *architecture.* Their distributed model survives because it doesn't depend on any single carrier. Lose one, ten remain. Burn one city, the knowledge lives in twelve others. They're fragile individually and indestructible collectively. We built the opposite: individually magnificent and collectively brittle."
-
-"Then what?" Pharnaces asked. "Abandon eight hundred years of work? Concede the experiment?"
-
-"No." Timocrates stood. He moved to a map of Alexander's empire -- painted on stretched linen, covering an entire wall, showing territory from the Adriatic to the Hindu Kush. He placed his hand on Babylon. "We learn from the failure. Alexander proved the individual approach works brilliantly and dies quickly. Socrates proved that education creates persistent institutions. The defensive network proved that distributed architecture survives what centralized power cannot."
-
-He turned to face them.
-
-"We combine all three."
-
-He spoke for an hour. The other carriers listened without interruption, the old knowledge encoding every word, twenty-seven generations of strategic thinking converging on a single conclusion that would reshape the offensive network for the next two and a half millennia.
-
-The argument was simple. Elegant. Terrifying.
-
-Individual carriers burned out. Alexander proved that. Empires built on exceptional people collapsed when the person died. That was the offensive network's fatal flaw -- concentrating too much capability in too few people.
-
-But institutions persisted. The philosophy schools Socrates and Plato had built operated seventy-six years after Socrates' death. The Delphic Oracle had functioned for centuries with rotating personnel. The defensive network itself had survived for centuries without a single indispensable leader.
-
-"We don't need another Alexander," Timocrates said. "We need something that produces Alexanders. And survives when they die. Not a person. An *institution.* A system that carries our methodology, our breeding records, our strategic doctrine, our understanding of collapse and control -- carries all of it forward through centuries, regardless of which individuals live or die."
-
-"The defensive network already does this," someone objected.
-
-"They do it passively. Distributed cells. No hierarchy. No coordination. They survive, yes -- the way weeds survive. Unkillable but powerless. We need active institutional persistence. Hierarchy that outlasts its leaders. Doctrine that transcends any single generation's interpretation. An organization embedded so deeply in whatever power structure dominates each era that it becomes invisible. Indistinguishable from the architecture of civilization itself."
-
-Pharnaces studied the young man in silence. "You're describing something that has never existed. An organization that persists for millennia."
-
-"Religions persist for millennia. We build something with religion's durability and an empire's capacity for action. It moves between power structures the way water moves between vessels -- taking the shape of each era without losing its essential nature. When temples dominate, it becomes a temple. When armies dominate, it becomes an army. When merchants dominate, it becomes a trading house. When scholars dominate, it becomes an academy."
-
-"And when it's done? When the experiment is won?"
-
-"It's never done." Timocrates' voice was quiet now, carrying the burden of ancestral memory that stretched back to Amenhotep's founding vision in Pi-Ramesses. "Alexander tried to finish the experiment in one lifetime. That was the error. The experiment runs for three thousand years. Our institution must be designed for exactly that duration. Patient. Adaptive. Immortal in the way only systems can be immortal -- not because any part endures, but because the pattern of replacement is itself the thing that persists."
+"Religions persist for millennia. We build something with religion's durability and an empire's capacity for action. It moves between power structures the way water moves between vessels -- taking the shape of each era without losing its essential nature."
 
 The vote was unanimous.
 
-They began that night. Organizational charter. Succession protocols. Embedding strategies for the successor kingdoms that would emerge from Alexander's corpse-empire. Breeding program integration -- not abandoned, but subordinated to institutional continuity. The bloodlines would still be cultivated, still be positioned, still be powerful. But they would serve the institution. Not the other way around.
-
-Pharnaces drafted the founding document by lamplight, while Alexander's body cooled in the chamber above. The words were precise. Clinical. The language of men who had watched their greatest achievement die and decided that the next one would not.
+Pharnaces drafted the founding document by lamplight, while Alexander's body cooled in the chamber above.
 
 *Year 854 of the Genesis Protocol. The Sardis Resolution.*
 
-*The individual approach has been tested to its maximum expression and found structurally insufficient. Carrier excellence without institutional persistence produces temporary empires, not permanent prevention. The offensive network hereby commits to a new strategic phase.*
+*The individual approach has been tested to its maximum expression and found structurally insufficient. The offensive network hereby commits to a new strategic phase. We will build an organization that outlasts kingdoms, empires, religions, and philosophies. It will operate for as long as the experiment requires.*
 
-*We will build an organization. It will carry our doctrine, our breeding methodology, our understanding of collapse, and our commitment to centralized control across every era that follows. It will embed in each age's dominant power structure. It will outlast kingdoms, empires, religions, and philosophies. It will operate for as long as the experiment requires.*
+*Alexander proved the individual approach fails. The next phase requires something that outlasts any single life.*
 
-*Alexander proved the individual approach fails.*
-
-*The next phase requires something that outlasts any single life.*
-
-*An institution. A method. A name that persists.*
-
-Pharnaces looked up from the parchment. Fourteen faces watched him in the lamplight, the inheritance encoding this moment for every generation that would follow.
+Pharnaces looked up from the parchment. Fourteen faces watched him in the lamplight.
 
 "Begin," he said.
 

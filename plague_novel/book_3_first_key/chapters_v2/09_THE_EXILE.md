@@ -55,7 +55,7 @@ So Rachel had done what her family always did when kings wouldn't listen. She'd 
 
 **Now: The march begins**
 
-Rachel walked in a column of ten thousand exiles — women in dust-grayed head coverings, men still wearing the undyed wool tunics of Judean hill country, children clutching whatever they'd grabbed before the soldiers came: a clay doll, a wooden comb, a scrap of woven blanket. Babylonian guards flanked the column in bronze scale armor, iron-tipped spears resting against their shoulders, their curled beards oiled in the Mesopotamian fashion. The road east crossed the dry wadis and limestone terraces of the Shephelah, then descended into the flat Syrian steppe: scrub brush, cracked earth, a horizon so wide it made Rachel's chest ache.
+Rachel walked in a column of ten thousand exiles — dust-grayed, stumbling, children clutching whatever they'd grabbed before the soldiers came: a clay doll, a wooden comb, a scrap of woven blanket. Babylonian guards in bronze scale armor flanked the column, their oiled beards and iron-tipped spears a world away from the hill-country wool the exiles wore. The road east crossed the dry wadis and limestone terraces of the Shephelah, then descended into the flat Syrian steppe: scrub brush, cracked earth, a horizon so wide it made Rachel's chest ache.
 
 Behind them, Jerusalem burned. The Temple — Solomon's Temple, its cedar beams from Lebanon and gold-leafed walls standing for centuries — was ash. The palace was destroyed. The city walls were breached. Everything that made Judah a kingdom was gone.
 
@@ -305,81 +305,31 @@ On the morning of the decree, Rachel took the bronze ring from her left hand and
 
 The fire was warm when Sethnakht reached the Temple.
 
-Three days since Nebuchadnezzar's army breached the walls. Two days since the burning started. Jerusalem was ash and rubble and the sound of chains as Babylonian soldiers herded survivors into columns for the long march east. The Temple of Solomon -- centuries of accumulated sanctity, cedar and gold and limestone -- was a skeleton of blackened stone.
+Three days since Nebuchadnezzar's army breached the walls. Jerusalem was ash and rubble and the sound of chains. The Temple of Solomon was a skeleton of blackened stone.
 
-And Sethnakht was running.
-
-Generation 17, offensive network, he'd traveled from Memphis in eleven days when word arrived that Nebuchadnezzar's siege had broken through. Eleven days of killing horses and bribing caravan masters, because the Order had waited centuries for this.
-
-Since Khepri stood at Adoniram's funeral in 967 BCE and sent his report south: *Pattern Eye confirmed beneath eastern colonnade, Solomon's Temple, sealed in foundation vault. Defensive network aware of our interest. Retrieval requires either infiltration of priesthood or destruction of structure.*
-
-Generations of Order leadership had debated the approach. Infiltration had failed -- Nefertari's people had made the Temple impenetrable, their own positioned inside the priesthood specifically to guard the foundation access. Sixteen attempts over generations. Sixteen failures. They rotated shifts like soldiers on a wall, never leaving the lower foundations unmonitored.
+Generation 17, offensive network, he'd traveled from Memphis in eleven days, killing horses and bribing caravan masters. The Order had waited four centuries for this -- since Khepri's report confirmed the Pattern Eye beneath the eastern colonnade. Sixteen infiltration attempts over generations. Sixteen failures. Nefertari's people had never left the lower foundations unmonitored.
 
 But now the Temple was burning.
 
-Sethnakht picked his way through debris that was still hot enough to scorch sandal leather. Fallen roof beams of Lebanon cedar, their carved cherubim faces blackened beyond recognition. Shattered ceremonial vessels: golden lampstands twisted by heat, bronze incense shovels half-melted, the remains of the showbread table crushed beneath a fallen column drum. The smell of cedar smoke and something else, something older, mineral, the limestone ashlar blocks themselves fracturing from thermal stress, spilling pale dust into air already thick with ash.
+Sethnakht picked his way through debris still hot enough to scorch sandal leather. His team worked through the night, levering fallen stone from the eastern colonnade, clearing the foundation floor.
 
-He found the eastern colonnade. Or what remained of it. The columns had fallen inward, massive drums of carved stone scattered across the foundation floor. The geometric patterns Khepri had described -- the unusual spacing that marked the vault location -- were barely visible beneath soot and rubble.
-
-Sethnakht had brought tools. Iron pry bars, rope, a small team of Order operatives disguised as Babylonian soldiers authorized for salvage. They worked through the night, levering fallen stone, clearing the foundation floor to expose what lay beneath.
-
-At dawn, they found the vault.
-
-The opening was exactly where Khepri's four-hundred-year-old report said it would be. Beneath the central eastern column, a sealed chamber cut into bedrock, covered by a fitted stone cap that required two men to lift.
-
-Sethnakht lowered himself into the chamber with a torch. The space was small -- barely enough to stand. Cedar-lined walls, now charred. A stone shelf, cut to hold something specific.
+At dawn, they found the vault. Exactly where Khepri's four-hundred-year-old report said it would be. Beneath the central eastern column, a sealed chamber cut into bedrock.
 
 Empty.
 
-He stared at the shelf. Ran his fingers along the depression where a bronze disc had rested. The linen wrapping was still there -- brittle fragments, centuries old, shaped by what they'd held.
+He ran his fingers along the depression where a bronze disc had rested. The linen wrapping was still there -- brittle fragments, centuries old, shaped by what they'd held. But the Pattern Eye was gone.
 
-But the Pattern Eye was gone.
+They searched for three days. No Pattern Eye.
 
-He climbed out and stood in the ruined Temple, torch in one hand, centuries of his network's patience crumbling like the ash around him.
+"They moved it," a younger operative said. "Before the siege. The defensive network reads the signs earlier than anyone. They'd have seen Jerusalem's fall coming years before it happened."
 
-"Search the surrounding chambers," he told his team. "Every vault, every foundation space, every sealed room in this complex."
+Sethnakht threw the torch into the rubble. Of course. Rachel bat-Yonah had split the network three days before the breach -- Judah, Egypt, Babylon. The key could be anywhere. Which was everywhere.
 
-They searched for three days. Found ritual objects, temple records, gold that Nebuchadnezzar's soldiers had missed. No Pattern Eye.
-
-On the fourth day, one of his operatives -- a younger carrier, Generation 18, sharp -- presented a theory.
-
-"They moved it. Before the siege."
-
-"When?"
-
-"Could have been anytime in the last century. The Babylonian threat wasn't sudden -- Nebuchadnezzar's father was already pressuring Judah twenty years ago. The defensive network reads the signs earlier than anyone. They'd have seen Jerusalem's fall coming years before it happened."
-
-Sethnakht closed his eyes. Of course. That was exactly what the defensive network was designed to do. See collapse coming. Prepare. Distribute.
-
-"Rachel bat-Yonah," the younger carrier continued. "Generation 23. She organized the network's dispersal three days before the breach. Split them into three groups -- Judah, Egypt, Babylon. The key could be with any of them."
-
-"Or none of them. It could be in Phoenicia. Cyprus. Anywhere the defensive network has contacts."
-
-"Which is everywhere."
-
-Sethnakht threw the torch into the rubble. It guttered and died among the ashes of Solomon's Temple.
-
-The report he composed that night was the most difficult communication the Order's Jerusalem station had ever sent.
-
-*Temple vault located. Eastern colonnade, foundation level, precisely as documented. Chamber intact but empty. Pattern Eye removed prior to siege -- timing unknown, possibly years prior. Defensive network executed pre-planned dispersal under carrier Rachel bat-Yonah (Generation 23). Network split across three regions: remnant in Judah, refugees to Egypt, exiles to Babylon.*
-
-*Assessment: The key could be in any of three regions or none. The defensive network's founder designed this system specifically to resist centralized search. We are now tracking a distributed, diaspora-spread organization across three empires simultaneously.*
-
-He paused. Dipped the reed pen again.
-
-*Personal observation: Nefertari designed this centuries ago. Distribution as defense. Scatter when threatened. We have spent generations planning to retrieve a single object from a single location, and she anticipated exactly this vulnerability in our approach. We built our strategy around centralized control -- one vault, one key, one moment of retrieval. She built hers around the assumption that any center will eventually fall.*
+That night he composed the hardest report the Order's Jerusalem station had ever sent. He wrote the operational details. Then he dipped the reed pen again.
 
 *We are not chasing a key. We are chasing a philosophy. And a philosophy has no fixed address.*
 
-*Recommend: Full restructuring of search operations. Abandon single-target retrieval. Develop multi-regional intelligence networks capable of tracking distributed defensive cells across Babylon, Egypt, and the Mediterranean. This will require generational commitment.*
-
-*The game has changed. Act accordingly.*
-
-Sethnakht sealed the message and gave it to a runner heading south to Memphis. Then he walked back through burning Jerusalem, past columns of chained exiles, past Babylonian soldiers looting what remained, and felt something he'd rarely experienced in his career as an Order operative.
-
-Respect.
-
-Not for Nefertari's people. For their architect. For the woman who, centuries dead, had just outmaneuvered generations of offensive planning by encoding a single principle into her network's operating doctrine: *When centralized power comes for you, become something it cannot grasp.*
+He sealed the message and walked back through burning Jerusalem, past columns of chained exiles, and felt something rare in his career as an Order operative: respect. Not for Nefertari's people. For their architect. For the woman who, centuries dead, had outmaneuvered generations of offensive planning by encoding a single principle into her network's doctrine: *When centralized power comes for you, become something it cannot grasp.*
 
 ---
 
