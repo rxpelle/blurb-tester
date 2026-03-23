@@ -65,7 +65,9 @@ Theophrastus spun. Alexander stood in the doorway, the deep recognition making d
 
 He said it the way boys announce they'll be the greatest swordsman in the world. Except this boy might actually do it.
 
-And Alexander — standing in the doorway of his father's library with the light behind him and every inherited certainty burning clean and bright — knew it too. Twenty-seven generations poured through him like a river with no silt: siege angles from commanders whose names his conscious mind had never learned, trade route vulnerabilities mapped by ancestors before Phoenicia existed in its current form, the exact pitch of a crowd's noise before a city surrenders versus the pitch before it fights. All of it crystalline. All of it *his.* A headache that was actually clarity, telling him everything: where empires fractured, where supply lines failed, where to strike and when to wait and how to hold three continents in a single grip. But there was something else, too. A warmth along his left side that he'd learned to read as tactical instinct: *here, now, move.* It was the one signal he never questioned and never examined. Because Alexander could see everything the inheritance had to teach him about collapse and control and conquest. Everything except what the warmth was.
+And Alexander — standing in the doorway with the light behind him — knew it too. He could feel them all. Twenty-seven generations, not as history but as *skill:* siege angles he'd never studied, trade routes he'd never walked, the exact sound a city makes before it surrenders versus the sound before it fights. A headache that was actually clarity. All of it *his.*
+
+There was something else, too. A warmth along his left side that he'd learned to read as tactical instinct: *here, now, move.* He never questioned it and never examined it. Because Alexander could see everything the inheritance had to teach him about collapse and control and conquest. Everything except what the warmth was.
 
 "By conquering the known world?"
 

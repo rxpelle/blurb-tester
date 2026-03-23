@@ -174,7 +174,9 @@ They turned to her. Tirzah, the refugee woman from Egypt, healer and midwife, ge
 
 "That's speculation," one elder said.
 
-"No. It's what the blood carries." Tirzah felt it sharpening her sight. "A generation ago, this whole region collapsed because everyone made local decisions without seeing the system. Each choice made sense locally: hoard food, close borders, protect your own. But when every city does it, trade networks fragment. Then drought hits and no one can share resources. Then invasion comes and no one has allies. Each local decision cascades. That's how civilizations die, not from one catastrophe, but from a thousand rational choices that don't account for the system."
+"No. It's what the blood carries." Tirzah felt it sharpening her sight. "My grandmother watched Egypt die. You know what killed it? Not one thing. Everyone hoarding. Everyone closing borders. Every city deciding *we'll keep ours,* and then when the drought hit—" She snapped her fingers. "No trade. No allies. No one left to ask for help."
+
+She stepped closer. "That's what you're doing right now. You just don't see it yet because the drought hasn't come."
 
 "You were a child when the fall happened."
 

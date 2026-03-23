@@ -115,11 +115,11 @@ On the third day, they stood on the wall again.
 
 "The Assyrian camps," Tamar said. "What do you see?"
 
-Micah's eyes went unfocused. "Crowding. Latrines too close to water. Rats in the grain stores." He paused. "And something else. A wave — moving through camps. The same sequence from my dreams of Egypt."
+Micah's eyes went unfocused. "They're — the latrines are right next to the water supply. And the rats..." He swallowed. "There's something moving through the camps. Like a wave. I've seen this before. In the dreams. Egypt."
 
-"Plague. The swelling kind, hard lumps in the neck, the groin. Three days. Maybe four."
+"Plague," Tamar said. "The swelling kind, hard lumps in the neck, the groin. Three days. Maybe four."
 
-Micah looked stricken. "We should warn them. Get them to disperse, improve sanitation—"
+Micah's face went white. "Then we have to warn them. Get them to move the camps, do *something*—"
 
 "No."
 
