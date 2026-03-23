@@ -153,17 +153,23 @@ Every generation of inherited memory encoded it as the most shameful decision an
 
 ## SCENE 5: The Naval Battle (Artemisia POV)
 
-The Battle of Salamis was systematic chaos.
+Artemisia smelled the battle before she entered it — pitch smoke and brine and the copper tang of blood diffusing through salt water.
 
-The straits stank of pitch and salt and the oily smoke pouring off a burning Phoenician trireme fifty yards to starboard. Oar-spray soaked Artemisia's face as her flagship drove into the channel, one of five ships she commanded in Xerxes' fleet -- the only woman admiral in the Persian navy. The Order had cultivated her family for twelve generations, breeding for strategic thinking and naval expertise.
+Her flagship was one of five she commanded in Xerxes' fleet, the only woman admiral in the Persian navy. The Order had cultivated her family for twelve generations, breeding for strategic thinking and naval expertise. She'd earned the ships. Everything else she'd inherited.
 
-Now she watched Nefertari's strategy unfold with grudging admiration.
+"Hard to port. Hold the channel's south edge." She gripped the rail as the oar-master bellowed the stroke change, forty oars biting water in unison, the hull swinging. A burning Phoenician trireme drifted across their bow — abandoned, its oar-banks shattered, flames crawling up the mast rigging. She read the wreckage the way a physician reads a wound: the Phoenician had tried to turn in the narrows and a Greek ram had caught it amidships. The hull was split along the waterline. Dead in the water before the fire started.
 
-The Greeks had crammed their fleet into the narrow straits. Lured the Persian ships into confined waters where numbers became disadvantage. Smaller, more maneuverable vessels darting between the heavy Persian warships like wolves around oxen. The sound was deafening -- wood splintering, bronze rams punching through hulls, the rhythmic screaming of oar-masters driving their rowers into ramming speed. Seawater churned pink in the shallows where capsized crews thrashed and drowned.
+"Signal the second and fourth ships — pull back to the mouth. They're too deep in the channel." Her signal officer raised the painted shield. Too late for the third. She could see it three hundred yards ahead, hemmed in between two Greek triremes, its oars fouled on debris, the hull shuddering as bronze rams punched through from both sides. Timbers screamed. The sea poured in through a gash she could have put her arm through.
 
-Classic defensive thinking: turn your weakness into strength through environmental leverage.
+She was calculating. Always calculating. The channel was eleven hundred yards wide at this point, narrowing to eight hundred ahead. Persian ships needed twelve hundred yards to maneuver effectively — their heavier hulls and longer oar-banks required wider turning arcs. The Greeks had known this. Had chosen this water. Had crammed their fleet into a space that turned Persian numerical superiority into a liability, because in the narrows, the extra ships couldn't deploy. They stacked up behind each other, fouling oars, blocking escape routes, turning an armada into a traffic jam.
 
-And it was working. She could see the trajectory resolving — the Persian fleet fragmenting in the narrows, the supply lines stretching past viability, the morale cracking ship by ship. This battle would break Xerxes' invasion. Greece would survive.
+Classic defensive thinking: turn your weakness into strength through environmental leverage. She recognized Nefertari's architecture in the tactic — the same distributed resilience, the same refusal to meet strength with strength. And it was working.
+
+The trajectory was resolving. She could see it the way the blood showed her everything — not as hope or fear but as cascading certainty. The Persian fleet fragmenting in the narrows. The supply galleys unable to reach the fighting ships. Morale cracking hull by hull as captains watched the ships ahead of them sink and understood they'd be next. This battle would break Xerxes' invasion. Greece would survive.
+
+Her job now was to get her remaining ships out alive.
+
+"Reverse stroke — back us out of the channel. Signal the fifth to—"
 
 Then she saw him.
 

@@ -23,15 +23,37 @@ The models had pointed to Socrates.
 
 And they were wrong.
 
-Callias stood now in the Athenian agora — the wide paved square bordered by the Stoa of Zeus and the Painted Stoa with its Marathon battle murals, plane trees casting dappled shade over stone-faced herms, merchants selling figs and olives and wine from open-fronted stalls — observing the old philosopher hold court with his students. Socrates was brilliant, no question. His dialectical method, his systematic questioning, his ability to expose contradictions in others' thinking. All signs of the physician's eye.
+Callias stood now in the Athenian agora — the wide paved square bordered by the Stoa of Zeus and the Painted Stoa with its Marathon battle murals, plane trees casting dappled shade over stone-faced herms, merchants selling figs and olives and wine from open-fronted stalls — observing the old philosopher hold court with his students.
 
-But it wasn't the blood. Callias would recognize the activation signature — and Socrates had none of it.
+A young man — Callicles, wealthy, confident, the kind of Athenian who wore his himation draped to show one muscled shoulder — was arguing that the strong should rule the weak. Natural law. The powerful take what they can.
 
-"The daimonion speaks to me," Socrates was saying to a young student named Plato. "An inner voice. It never tells me what to do—only what not to do. It warns me away from actions that would lead to harm."
+Socrates listened. Nodded. Then: "You admire the strong, Callicles?"
+
+"Of course."
+
+"And the strong are those who get what they want?"
+
+"Yes."
+
+"And a man who is thirsty and drinks — he's getting what he wants?"
+
+"Obviously."
+
+"And a man who is thirsty and *keeps* drinking — past the point of need, past the point of pleasure, past the point where the water makes him sick — is he still getting what he wants?"
+
+Callicles hesitated.
+
+"Because if strength is getting what you want," Socrates said, "and the strong man drinks until he's ill, then the strongest man is the one who can't stop drinking. The man enslaved to his own appetite." He paused. Let it settle. "Or perhaps strength isn't about getting what you want. Perhaps it's about knowing when to stop."
+
+Callicles opened his mouth. Closed it. Opened it again. Found nothing.
+
+Callias watched this happen and felt the hair rise on his arms. He'd seen carriers do this — strip a system down to its contradiction, expose the fracture line where the whole structure would fail. But Socrates wasn't reading collapse patterns through inherited memory. He was reasoning his way there, in real time, in public, using nothing but questions and a stonecutter's patience. The same destination. No blood required.
+
+"The daimonion speaks to me," Socrates was saying to a young student named Plato. "An inner voice. It never tells me what to do — only what not to do. It warns me away from actions that would lead to harm."
 
 The students hung on every word. Athens loved Socrates. Hated him. Couldn't ignore him.
 
-But the daimonion wasn't the seeing. Callias had tested every hypothesis: latent activation, suppressed inheritance, a mutation the models hadn't predicted. Each one failed. The conclusion was simple and destabilizing: Socrates had arrived at the network's insights through pure reasoning. No blood required. Which raised the question Callias couldn't answer — if the thinking could be learned, what was the bloodline *for*?
+But the daimonion wasn't the seeing. Callias had tested every hypothesis: latent activation, suppressed inheritance, a mutation the models hadn't predicted. Each one failed. The conclusion was simple and destabilizing: Socrates had arrived at the network's insights through pure reasoning. No blood required. Which raised the question Callias couldn't answer — if the thinking could be taught to anyone willing to sit in a square and listen, what was the bloodline *for*?
 
 Socrates wasn't a diluted carrier.
 

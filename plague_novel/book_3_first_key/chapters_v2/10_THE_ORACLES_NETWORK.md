@@ -237,9 +237,41 @@ She left. The door closed. The room held sixteen people where twenty had sat, an
 
 ## SCENE 7: The Prophet Factory (Epilogue)
 
-**Five years later. 545 BCE. Delphi.**
+**Year one. 549 BCE.**
 
-Kleomenes watched twelve new recruits complete their training, the latest cohort for a network that now spanned fourteen temples, with three more in development. Dodona expanding. Siwa formalizing. Even smaller shrines requesting training protocols.
+The network grew. Fourteen temples, three more in development. Dodona expanding. Siwa formalizing. Even smaller shrines requesting training protocols. Aristonike had built something that would outlast her.
+
+The first sign was the language.
+
+Kleomenes was reviewing intelligence summaries with her in the archive room when she stopped mid-sentence and continued in Egyptian. Not hesitation, not confusion — a clean switch, as if she'd simply changed registers. Fluid. Grammatical. A language she'd never studied.
+
+"Aristonike."
+
+She looked at him. "What?"
+
+"You were speaking Egyptian."
+
+Her face went still. She looked down at the scroll in her hand, then at the margin notes she'd been writing. Egyptian hieratic. Precise, archaic, the hand of someone who'd learned to write in a temple school that had been dust for centuries.
+
+She set the stylus down very carefully. Her left hand was trembling.
+
+"It's getting harder," she said. "To stay in front."
+
+**Year three. 547 BCE.**
+
+She called him Demetrios on a Tuesday morning. Said it naturally, turning from the training session to ask him something about the duty rotation, and the name came out without a stumble. Demetrios. Nobody either of them knew.
+
+"Who's Demetrios?" he asked.
+
+Aristonike opened her mouth. Closed it. Her eyes went through the sequence he'd learned to dread — the flicker, the searching, the moment when seventeen lifetimes of memory competed for the surface. "I don't know," she said. "Someone's. Someone who mattered."
+
+After that, it happened more. Names surfacing from other lives, attached to his face. She'd catch herself, sometimes, correct the name mid-syllable. Other times she wouldn't notice, and he'd answer to whatever she called him, because correcting her meant watching her realize she'd lost another piece.
+
+He started keeping a list. Not for the network. For himself. Every name she called him. Every language that surfaced without warning. Every morning she woke up and asked where she was before her eyes focused and Delphi came back.
+
+The list grew faster than the network.
+
+**Year four. 546 BCE.**
 
 Aristonike instructed the trainees from a chair now. Standing for long periods had become difficult. Her hands shook visibly as she gestured, though her voice remained precise. Most days.
 
@@ -251,11 +283,13 @@ She blinked. Her face rearranged itself — recognition flooding back in like wa
 
 He said nothing either. But his hands were shaking now, and hers were not.
 
+**Year five. 545 BCE.**
+
 They stood on Delphi's temple steps, the mountain air sharp with laurel and pine. Below them, pilgrims gathered on the Sacred Way: kings with their retinues, merchants in woolen himations, farmers in rough-spun chitons clutching small clay votives, all seeking knowledge about futures they couldn't see.
 
 "Nefertari would be proud," he said.
 
-"Nefertari would be terrified," Aristonike corrected. "We've done exactly what she split from Amenhotep to avoid. Put the knowledge in one place. Made the world come to us." She leaned against him, and he steadied her without thinking — it had become automatic. "But we trained the carriers to think for themselves. Gave them authority to refuse. Made the whole thing so that if Delphi burned tomorrow, the people we trained would still know what to do." She watched the pilgrims below. "Maybe that's the difference. Not whether you gather the knowledge, but whether it can survive losing the place where you gathered it."
+"Nefertari would be terrified," Aristonike corrected. Her voice was slower now. Each word chosen carefully, tested before release, the way you test a bridge before crossing. "We've done exactly what she split from Amenhotep to avoid. Put the knowledge in one place. Made the world come to us." She leaned against him, and he steadied her without thinking — it had become automatic. "But we trained the carriers to think for themselves. Gave them authority to refuse. Made the whole thing so that if Delphi burned tomorrow, the people we trained would still know what to do." She watched the pilgrims below. "Maybe that's the difference. Not whether you gather the knowledge, but whether it can survive losing the place where you gathered it."
 
 She was quiet for a moment. Then: "Kleomenes. What's my mother's name?"
 
@@ -267,9 +301,7 @@ He told her. She repeated it twice, pressing it into her memory like a seal into
 
 "Two more years," she said. "Then you'll have to start telling me my own name too."
 
-Centuries into a three-thousand-year experiment.
-
-And the prophecy network was just beginning. But the woman who'd built it was already leaving, replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own.
+He held her on the temple steps and felt the truth of it settling: the woman who'd built the prophecy network was already leaving, replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own. The network would survive. The network would grow. And Aristonike would vanish inside it, the way a river vanishes into the sea it feeds.
 
 ---
 
