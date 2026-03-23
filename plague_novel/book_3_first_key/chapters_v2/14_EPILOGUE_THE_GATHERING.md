@@ -108,7 +108,7 @@ The lake. The stars. The sound of water finding its level in the dark.
 
 Jesus was quiet.
 
-"Maybe they won't be entirely wrong," he said. "What do you call something that started between two people and grew until it could hold forty strangers on a hillside? That outlived the people who made it, outlived their names, outlived the empire they lived in?" He pressed his palm against the stone. It was warm. "I'm a carpenter, Simon. I know what happens when you build something well. It holds weight you never planned for. Walls you framed for a family end up holding a whole community's grain through a drought." He was quiet. "Maybe that's what they built. And maybe God is just the word we use when something holds more than it was made for."
+"Maybe they won't be entirely wrong," he said. "What do you call something that started between two people and grew until it could hold forty strangers on a hillside? That outlived the people who made it, outlived their names, outlived the empire they lived in?" He pressed his palm against the stone. It was warm. "Maybe God is just the word we use when something holds more than it was made for."
 
 "But you're going to teach it."
 
