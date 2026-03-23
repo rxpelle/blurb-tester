@@ -285,47 +285,61 @@ But in Shiphra's bloodline, the encoding had already begun. The hand on the rope
 
 **Three months later. Tyre, Phoenicia.**
 
-Shiphra stood before the council. Twenty-three families represented. Their people and trained students, spread across Phoenicia, Cyprus, Israel, Egypt.
+They made her stand.
 
-She'd confessed everything.
+Twenty-three families seated in a half-circle on the stone floor of the safe house cellar, oil lamps throwing long shadows against the walls. Shiphra stood in the center, hands at her sides, the bronze ring warm on her left finger. No one had told her to stand. No one had offered her a seat.
 
-The diluted bloodline. The other side's recruitment. The impossible choice. The hand on the rope.
+On the floor between her and the council lay a coil of rope. The same gauge she'd used in the foundation pit. Someone had placed it there before she arrived.
 
-Some wanted her executed. Some wanted her expelled from the network. Others argued she'd made the only logical choice, one life versus centuries of work.
+She told them everything. The diluted bloodline. The offensive network's recruitment. The midnight meeting. The hand on the rope. The stone falling. The sound.
 
-Yael bat-Levi, Generation 8, the network's senior elder, spoke for the majority.
+Then she stopped talking. And the silence that followed was the worst sound she'd ever heard, because it was twenty-three families deciding what she was.
 
-"Shiphra bat-Hiram protected the Pattern Eye. She prevented Amenhotep's people from gaining an architectural expert inside Solomon's Temple. By the cold mathematics of prevention, she made the correct choice."
+Yael bat-Levi, Generation 8, the network's senior elder, spoke first. By tradition, the eldest spoke first. The others would follow, one voice per family, in order of bloodline.
 
-Silence around the circle.
+"Who here would have done the same?"
 
-"But the Genesis Protocol isn't built on cold mathematics. It's built on the belief that seeing the crisis coming means we can prevent it for everyone. Not manage who survives. Not engineer who lives. *Prevent it for everyone.*"
+No one moved. No one breathed.
 
-She looked at Shiphra with steady eyes.
+"I asked a question."
 
-"The moment you pulled that rope, you became what Amenhotep wanted. You chose control over prevention. You killed someone who could have been saved through knowledge."
+A hand rose near the back. Ezra of the Cypriot branch. Then another — Mattan, whose family guarded the Memory Bridge. Two of twenty-three.
 
-"He was already compromised," Shiphra said. "They had him. Teaching him would have meant trusting him against their manipulation."
+Yael counted them. Nodded. "Two. And the rest?"
 
-"Perhaps. Perhaps you were right." Yael paused. "But you didn't even try. You calculated. You weighed one life against centuries of work. You made the efficient choice."
+Silence. Which was its own answer.
 
-"What should I have done?"
+"Shiphra bat-Hiram." Yael's voice carried the weight of eight generations. "You protected the Pattern Eye. You prevented the offensive network from gaining an architectural expert inside Solomon's Temple. By the cold mathematics of prevention, you made the correct choice."
 
-"Failed, if necessary. Moved the key, even if it risked exposure. Recruited him anyway and accepted the risk. Abandoned the hiding entirely and found another way." Yael's voice hardened. "Anything except become the thing we're trying to prevent."
+Shiphra's chest loosened a fraction. Then Yael continued.
 
-The council deliberated through the night.
+"But the Genesis Protocol is not built on cold mathematics. It is built on the belief that seeing the crisis means we prevent it — for *everyone*. The moment you pulled that rope, you became what Amenhotep wanted. You chose who lives. You chose control."
 
-At dawn, they delivered their judgment:
+Shiphra stared at the rope on the floor. "He was already compromised. They had him."
 
-Shiphra would remain. Her architectural expertise was too valuable to lose. But her bloodline would carry the blood encoding as warning; every descendant would dream the murder, feel the choice, understand the cost.
+"You didn't try to teach him. You didn't try to move the key. You calculated." Yael's eyes were steady. "You made the efficient choice. And efficiency is their word, not ours."
 
-And Nefertari's side would adopt the First Protocol Amendment:
+Shiphra said nothing more. There was nothing more to say.
 
-*Never kill to protect knowledge. If we cannot save someone through teaching, we have already failed. The moment we choose who lives, we become the thing we oppose. Prevention means saving everyone we can, even when it costs us everything.*
+The families spoke. One voice each. Some were brief — a single sentence, judgment delivered like a stone dropped into water. Miriam of the hill country families: "She did what she believed was right, and it was wrong." Others spoke longer. None repeated what another had said. The discipline of the form demanded that each family find its own words for what had happened, and by the fifteenth speaker Shiphra understood that this was part of the punishment — standing still while twenty-three different voices named what she'd done, each from a slightly different angle, so that no corner of it remained in shadow.
 
-Yael looked at the bronze ring on Shiphra's left hand. "Keep wearing it," she said. "Let it teach your descendants what you learned too late."
+The last speaker was the youngest elder. Tamar bat-Ezra, seventeen, barely old enough to represent her family. She looked at Shiphra for a long time.
 
-Shiphra accepted the judgment. She would continue her work. Design resilient architecture across the Mediterranean. Train the next generation. And wear the ring — always, sleeping and waking, the dead man's bronze on the hand that reached in the night for someone who was never there.
+"I dream the collapse every night," she said. "I dream cities burning and refugees dying and people making impossible choices. And every morning I wake up and choose not to become the people in those dreams." Her voice didn't waver. "You stopped choosing."
+
+Dawn light was creeping through the cellar's high window slits when Yael stood.
+
+"The judgment. Shiphra bat-Hiram remains in the network. Her knowledge is ours and we will not waste it. But the murder will encode. Your descendants will dream the rope and the stone and the face. Every generation will carry the cost of what you chose, so that every generation remembers what we are not."
+
+She paused. Let the silence hold.
+
+"And from this day, the First Amendment to the Genesis Protocol: *Never kill to protect knowledge. If we cannot save someone through teaching, we have already failed. The moment we choose who lives, we become the thing we oppose.*"
+
+She looked at the bronze ring on Shiphra's left hand.
+
+"Keep wearing it. Let it teach your descendants what you learned too late."
+
+Shiphra accepted the judgment. She had been standing for nine hours and her legs had gone numb and she accepted it because there was nothing else to accept. She would continue her work. Design resilient architecture. Train the next generation. And wear the ring — always, sleeping and waking, the dead man's bronze on the hand that reached in the night for someone who was never there.
 
 Every night for the rest of her life, she dreamed of Adoniram's face in that final moment. The confusion. The betrayal. The understanding.
 

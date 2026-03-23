@@ -102,27 +102,11 @@ Outside the temple, Nefertari sat on the harbor wall and let herself breathe for
 
 Her left hand reached to the side, feeling for a workbench that wasn't there. For a tool already placed. For a hand that knew where hers would go before she did. The gesture was so automatic she didn't catch it until her fingers closed on empty air.
 
-She stood, slung her pack over one shoulder, and headed toward the market district to find lodging. One key hidden. Three more to go.
+One key hidden. Three more to go.
 
----
+She found lodging above a chandler's shop. By dusk, the Egyptian merchant from the ship had walked past twice, the second time with his companion from the dock. They hadn't approached the temple. They were tracking her, not the key.
 
-She found lodging above a chandler's shop in the harbor district. A narrow room smelling of tallow and rope fiber. She bolted the door, set her pack against the wall, and ate cold bread standing at the window where she could watch the street below.
-
-The Egyptian merchant from the ship walked past at dusk. Not hurrying. Not looking up. But he walked past twice in the space of an hour, and the second time his companion was with him, the local man from the dock. They hadn't approached the temple. They were tracking her, not the key.
-
-Nefertari closed the shutters. Sat on the sleeping mat in the dark.
-
-Her left hand moved across the linen. The muscles remembering a motion they'd performed ten thousand times. Her fingers found cool cloth. The temperature of a mat no one else had warmed.
-
-She pressed her hand flat and held it there. Then she pulled it back, lay down on the left side of the mat, and closed her eyes.
-
----
-
-Before dawn she was moving.
-
-The watchers would expect her to take a ship from the main harbor, the obvious route, the one a fleeing woman would choose. Instead she left through the chandler's back entrance, moved through the pre-dawn streets where only bakers and fishermen stirred, and made her way to the smaller northern cove where Cypriot cargo vessels loaded timber.
-
-She saw the Egyptian merchant once more, walking the harbor road at first light, checking the ship manifests. He moved with the unhurried efficiency of a man who believed his quarry was still sleeping. By the time he realized she wasn't, her ship would be rounding the headland.
+Before dawn she was moving. Out through the chandler's back entrance, through pre-dawn streets where only bakers and fishermen stirred, to the smaller northern cove where Cypriot cargo vessels loaded timber. The Egyptian merchant was walking the harbor road at first light, checking ship manifests with the unhurried efficiency of a man who believed his quarry was still sleeping. By the time he realized she wasn't, her ship would be rounding the headland.
 
 The Cypriote captain agreed to take her north for enough silver to make him not ask questions.
 
@@ -140,9 +124,9 @@ Nefertari had planned to sail directly to Cyprus's main port, spend time establi
 
 None of the other passengers were watching her. But Amenhotep wouldn't make the same approach twice.
 
-The Mycenaean refugee settlement clung to Cyprus's eastern coast near Enkomi, where Greek refugees had built a new archive from salvaged tablets and fresh memory. The scriptorium they'd erected was meticulous. Nefertari stood watching scribes copy decaying Linear B tablets onto fresh clay, pressing the reed stylus into wet surfaces with the careful triangular strokes the palace system demanded. The air smelled of wet clay and sesame-oil lamps. Preservation made tangible. Exactly the kind of practice that might endure.
+The Mycenaean refugee settlement near Enkomi had built an archive from salvaged tablets and fresh memory. Scribes copied decaying Linear B onto fresh clay. The air smelled of wet clay and sesame-oil lamps.
 
-She approached the head archivist, a woman named Theia who'd been a palace scribe in Mycenae before everything burned.
+The head archivist, Theia, had been a palace scribe in Mycenae before everything burned.
 
 "I need to hide something in your archive," Nefertari said directly. She unwrapped the Memory Bridge, eight centimeters of bronze, twin to the Pattern Eye she'd hidden in Byblos. "This needs to exist quietly. Hidden among everything else. Someday, someone with the right bloodline will need it."
 
@@ -234,23 +218,15 @@ Theia stared at her hands. At the broken tablet fragments. At the cliff edge whe
 
 "Maybe it is now. When preserving knowledge means protecting the people who preserve it."
 
-They hid the body, weighted with stones, dragged into deeper water beyond where fishermen would find it easily. The second agent never found them. Eventually he left the settlement, searching elsewhere. Nefertari stayed hidden in the archive for three days until Theia confirmed the danger had passed.
+The second agent never found them. Nefertari stayed hidden in the archive for three days until Theia confirmed the danger had passed.
 
 On the second night, sleepless, she heard a tapping from the archive's storage room. One tap. Then nothing. *Look at this,* the old signal, the private language of twenty years. But it was just a beam settling in the cold. Wood contracting. Nothing. No one.
 
-They built the Memory Bridge into the archive's new storage building during those three days. Sealed in waterproofed leather, placed behind a marked stone. The location recorded in Theia's personal notes, written in a code that blended Mycenaean Linear B with Egyptian hieratic script.
+They built the Memory Bridge into the archive wall during those three days. Sealed in waterproofed leather, placed behind a marked stone. The location recorded in Theia's personal notes, written in a code that blended Mycenaean Linear B with Egyptian hieratic script.
 
-On the third day, before Nefertari left, Theia asked: "Was it worth it? Killing a man to hide a piece of bronze?"
+Before Nefertari left, Theia asked: "Was it worth it? Killing a man to hide a piece of bronze?"
 
-Nefertari had asked herself the same question for three days. "I don't know. Ask me in three thousand years."
-
-"I won't be here in three thousand years."
-
-"Neither will I. But someone will. And they'll either have the tools to see it coming — or they won't." Nefertari shouldered her pack. "That man died protecting the system that causes collapse. You killed him protecting knowledge that might prevent it. If we're both wrong about the Protocol, then we're murderers for nothing. But if we're right..."
-
-"Then maybe his death saved millions."
-
-"Maybe."
+"I don't know. Ask me in three thousand years."
 
 Theia straightened. "I'll preserve the key. And I'll carry this choice. Both are my responsibility now."
 
@@ -258,11 +234,11 @@ Theia straightened. "I'll preserve the key. And I'll carry this choice. Both are
 
 **The Canaanite hill country, one month later**
 
-Nefertari traveled carefully after Cyprus. No direct routes. No established trade paths. She moved through the margins — hill country settlements, refugee camps, places where Egyptian authority had dissolved and new social structures were emerging. Twice she'd changed her route after seeing signs: a settlement where the headman's wife described Egyptian travelers asking about a woman physician, a crossroads where the dust showed hoofprints too recent and too military for trade animals.
+Nefertari traveled carefully after Cyprus. No direct routes. No established trade paths. Through the margins — hill country settlements, refugee camps, places where Egyptian authority had dissolved. Twice she'd changed her route after settlements reported Egyptian travelers asking about a woman physician.
 
-The Distribution Network was different from the other keys, fragmentary by design. Pieces scattered across multiple families, none complete alone. She'd spent the month traveling between proto-Israelite settlements in the hill country, meeting families who'd fled Egyptian control, Canaanite city-state collapse, Philistine invasion. Each received a bronze fragment inscribed with what looked like tribal markers. When assembled, all seven formed the Distribution Network key: methods for scattering knowledge, building resilient information networks, organizing distributed resistance.
+The Distribution Network was different from the other keys: fragmentary by design. She'd spent a month scattering bronze fragments across seven proto-Israelite families in the hill country. Each received a piece inscribed with what looked like tribal markers. Assembled, all seven formed the key — methods for building resilient networks, organizing distributed resistance.
 
-She sat now with the seventh family, in a stone house with a packed-earth floor and a flat roof where figs dried in the sun. Below, terraced hillsides where drought-resistant barley and emmer wheat grew in defiance of collapse, the stone terraces held together with packed rubble in the Canaanite fashion. A clay oven squatted in the courtyard, still warm from the morning's bread.
+She sat now with the seventh family, in a stone house with a packed-earth floor and a flat roof where figs dried in the sun. Below, terraced hillsides where drought-resistant barley grew in defiance of collapse. A clay oven squatted in the courtyard, still warm from the morning's bread.
 
 "Why us?" the family patriarch asked. Young, maybe thirty, but his eyes held the exhaustion of someone who'd rebuilt from nothing. "We're nobody. Hill farmers."
 
@@ -318,23 +294,7 @@ They couldn't stay. Amenhotep's people had followed them even into the hill coun
 
 They'd returned to collect their belongings before the final departure. Tirzah sat by the oil lamp, reading the texts Nefertari had left her.
 
-"Where have you been?" Tirzah asked when Nefertari entered.
-
-"Hiding keys. Running from agents. Watching someone die protecting knowledge." Nefertari set down her pack, exhausted. Nine weeks since leaving this place. Phoenicia, Cyprus, a dozen hill country villages.
-
-Tirzah closed her scroll. "I've been reading the heredity observations. You're encoding two things: how to think and what to look for. Together they make carriers who already know what to look for before anyone teaches them."
-
-Something loosened in Nefertari's chest. The girl understood.
-
-"But there's a problem," Tirzah continued. "If collapse is cyclical, eventually we'll face one we can't prevent. What then?"
-
-"Then my approach fails. And Amenhotep's becomes the only option." Nefertari pulled out the protocol schema. "Unless both fail simultaneously. That's the failsafe: catastrophe so severe that neither prevention nor control works alone. The seven keys combine. Defensive and offensive knowledge merges."
-
-Tirzah studied the schema. "You're building a cooperation clause into a split."
-
-"I'm building an escape hatch into a divorce."
-
-The girl was silent for a while. Then: "What should I call myself?"
+Tirzah closed her scroll when Nefertari entered. "What should I call myself?"
 
 "What?"
 
@@ -370,43 +330,23 @@ Nefertari felt tears she didn't expect. This twelve-year-old girl, who'd seen he
 
 ---
 
-**Two days later: The Final Parting**
+**Two days later**
 
-Amenhotep returned from Egypt with his three bronze keys in hand.
+Amenhotep came for his keys. Blood Register, Catastrophe Clock, Culling Method — three bronze discs that would travel back to Egypt, into temple vaults, into breeding programs she couldn't think about without her stomach turning.
 
-They met in the workshop one last time. Twenty years as colleagues. Six months as collaborators. Three months as opponents in a millennia-long experiment.
+"Tirzah," he said, reading the name from the girl's pack. "So she chose."
 
-"I'm leaving tomorrow," Amenhotep said. "Setnakhte's priesthood has agreed to protect my carriers. Blood Register, Catastrophe Clock, Culling Method. Temple vaults. Three bloodlines. Breeding programs start within the year."
+"She chose."
 
-"What happens to everyone else?"
-
-"They adapt or they don't. That's what collapse means." Amenhotep set his three keys on the workbench. "Your keys are hidden?"
-
-"Scattered. Waiting for Tirzah's descendants to find them when collapse threatens."
-
-"Tirzah. So the girl has a name now."
-
-"She chose it herself."
-
-His expression softened. "Good. She deserves that much agency." Then the softness left. "But you're betting on institutions that don't even know they're part of your experiment. Farmers and priestesses and refugee archivists. Your network survives through ignorance. Mine survives through knowledge."
-
-"And when your knowledgeable keepers decide they'd rather use the Protocol than preserve it?"
-
-He picked up his bronze keys. "You're trusting strangers to guard what matters. I'm making sure it doesn't depend on trust." His jaw tightened. "I hope your way works. I do. But I can't build a three-thousand-year plan on hope."
-
-They stood there, the space between them carrying the weight of everything they'd built together and were about to lose.
-
-Amenhotep extended his hand. "Three thousand years."
+He nodded. Extended his hand. "Three thousand years."
 
 Nefertari shook it.
 
 He left at dawn. She watched from the workshop doorway as his caravan disappeared west toward Egypt, her hand pressed flat against the doorframe. The wood was warm from the morning sun. She held it there until she couldn't tell the difference between her heat and the wood's.
 
-She turned back to the workshop. Tirzah was packing.
+Tirzah was packing when she turned back. "Do you think we'll win?"
 
-"Do you think we'll win?" Tirzah asked.
-
-"I think that's the wrong question." Nefertari lifted her own pack. "The right one is whether we can encode this deeply enough that three thousand years from now, someone has the tools to stop it."
+"I think that's the wrong question. The right one is whether we can encode this deeply enough that three thousand years from now, someone has the tools to stop it."
 
 "Then let's make sure the answer is yes."
 
@@ -664,25 +604,24 @@ And Amenhotep walked alone into a temple that would outlast them both, carrying 
 - **Violence**: Murder to protect knowledge fits Bronze Age political realities
 
 ### Word Count & Pacing ✅
-- **Previous draft**: ~4,200 words
-- **Revised chapter**: ~8,900 words
-- **Additions**:
-  - Chase/murder sequence: ~1,200 words
-  - Deepened philosophical debates: ~800 words
-  - Failed hiding attempt: ~400 words
-  - Strengthened Amenhotep scene: ~300 words
-  - Tirzah mysterious memory ending: ~200 words
-  - Editorial refinements throughout: ~1,800 words
+- **Previous draft**: ~8,900 words
+- **Revised chapter**: ~7,400 words (~1,500 words cut)
+- **Cuts applied**:
+  - Byblos night lodging/reaching-left scene: removed (3rd instance in 100 lines, redundant)
+  - Scriptorium description: trimmed
+  - Cyprus aftermath: body disposal cut, "Was it worth it?" compressed
+  - Hill country travel logistics: compressed
+  - Workshop return recap + merge condition re-explanation: cut (established in Ch 1)
+  - Amenhotep final parting: philosophical re-debate cut, human moments kept (Tirzah name, handshake, doorframe)
 
 **Pacing Analysis:**
 - Opening: Efficient (ship to Byblos) - INTELLECTUAL THRILLER PACE ✅
 - Byblos: Philosophical debate with priestess - IDEAS PROPEL PLOT ✅
-- Chase: Thriller sequence - ACTION SERVES STAKES ✅
-- Cyprus: Archive paradox + murder - PHILOSOPHY + CONSEQUENCE ✅
+- Byblos escape: Compressed from 3 scenes to 1 - MOMENTUM ✅
+- Cyprus: Archive + murder - PHILOSOPHY + CONSEQUENCE ✅
 - Hill country: Failed hiding + redundancy - COMPLICATION + ADAPTATION ✅
-- Workshop: Tirzah naming + merge condition - CHARACTER + CONCEPT ✅
-- Amenhotep: Ideological debate - PHILOSOPHICAL CLIMAX ✅
-- Ending: Mysterious memory - SERIES HOOK ✅
+- Workshop: Tirzah naming - CHARACTER ✅
+- Amenhotep: Compressed parting + offensive interlude - EMOTIONAL CLIMAX ✅
 
 **Genre Fit**: STRONG A (92/100)
 - Intellectual content drives plot ✅
