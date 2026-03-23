@@ -356,23 +356,15 @@ Finally, Amenhotep nodded. "Four keys to you. Three to me. We split Tausret's bl
 
 They shook hands like traders sealing a contract. Like scholars agreeing on experimental parameters.
 
-The bronze keys lay on her bench. Seven impossible things she'd poured her life into, each one dangerous enough to reshape the world.
+The bronze keys lay on her bench. Seven impossible things she'd poured her life into.
 
-Nefertari touched them one by one. Four were hers.
-
-The Pattern Eye: every collapse marker she'd documented in two years of watching civilization die, compressed into symbols on bronze. Drought ratios. Trade network fragmentation sequences. The precise population density at which cities turned on themselves. Give this to a trained mind and they'd see the next fall coming decades before the first granary emptied.
-
-The Memory Bridge, the one that still frightened her. A method for linking carriers across generations, grandmother to granddaughter, so that memories could pass forward through blood like eye color or bone structure. If it worked, a woman born a thousand years from now could remember things Nefertari had seen with her own eyes.
-
-The Distribution Network: not knowledge itself but the architecture for scattering it so widely that no single fire, no single tyrant, no single catastrophe could destroy it all. Seven fragments. Seven families. Burn six and the seventh could rebuild.
+Nefertari touched them one by one. Four were hers. The Pattern Eye: every collapse marker she'd documented, compressed into symbols on bronze — give this to a trained mind and they'd see the next fall coming decades before the first granary emptied. The Memory Bridge, the one that still frightened her: a method for linking carriers across generations, so that memories could pass forward through blood like eye color or bone structure. A distribution architecture for scattering knowledge so widely no single catastrophe could destroy it all.
 
 And the Living Key. Not bronze at all. A sleeping twelve-year-old girl in the next room whose bloodline would carry the Protocol forward through centuries. The most fragile key and the most powerful, because bronze could be melted down, but blood remembered.
 
-Amenhotep's three were darker.
+Amenhotep's three were darker. Breeding calculations. Collapse prediction turned into advantage. And the Culling Method — Nefertari couldn't even hold this disc without her stomach turning — protocols for deciding who survived and who didn't.
 
-The Blood Register: breeding calculations for engineering bloodlines, optimizing carriers like livestock. The Catastrophe Clock: collapse prediction turned into advantage, positioning the right people to seize power when civilizations fractured. The Culling Method (and Nefertari couldn't even hold this disc without her stomach turning) protocols for deciding who survived and who didn't. Triage scaled to nations.
-
-Six bronze discs. One living child. Seven keys total. Two networks built from the same truth and aimed at completely opposite futures.
+Six bronze discs. One living child. Two networks built from the same truth and aimed at completely opposite futures.
 
 "We need the activation mechanism," Amenhotep said. "Something that requires both knowledge and bloodline."
 

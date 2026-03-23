@@ -98,9 +98,7 @@ She stood and brushed the dirt from her tunic. "Come. There's more to learn befo
 
 **That evening, in Tirzah's stone house**
 
-The defensive network had grown slowly over the years since Egypt.
-
-Tirzah sat now with five others in her stone house, oil lamps flickering in wall niches, a loom standing idle in the corner, the smell of lentil stew drifting from the cooking hearth. Refugees and survivors who'd found their way to the Canaanite hill country after the fall. They gathered monthly at the new moon, these survivors. Sharing knowledge over bread and wine. Teaching the next generation. Building practices that could endure even if institutions failed.
+The defensive network had grown slowly over the years since Egypt. Six people gathering monthly at the new moon in Tirzah's stone house: refugees and survivors who'd found their way to the Canaanite hill country after the fall.
 
 The Phoenician trader spoke, older now, graying, hands stained with the murex-shell dye of his profession. He was studying trade reports scratched on potsherds, and his expression had changed.
 
@@ -135,60 +133,6 @@ She looked at her weathered hands. "I'll probably die here. My son will grow up 
 "You really believe that?" the priestess asked.
 
 "I have to. Otherwise Tausret died for nothing. Otherwise we're just refugees hiding in hills instead of people building something that lasts."
-
----
-
-**Three days later: The first test**
-
-Ephraim came running from the village, seven years old and breathless.
-
-"Mother! Mother, something's wrong!"
-
-Tirzah looked up from grinding grain. "What is it?"
-
-"The traders. The ones who come from the coast every month. They didn't come this time. And I heard the elders talking. Three villages to the south stopped sending grain to the temple. Everyone's keeping their surplus."
-
-Tirzah's pulse quickened. "Show me."
-
-She followed Ephraim to the village center where elders were arguing. Raised voices. Fear beneath the anger.
-
-"—can't trust the coastal cities anymore—"
-
-"—if Sidon won't trade, we're cut off—"
-
-"—better to hoard what we have—"
-
-Tirzah listened to the pattern. Trade networks disrupting. Resource hoarding starting. Local cooperation breaking down. Small problems. Seemingly isolated.
-
-But she'd seen this before.
-
-Not personally; she'd been twelve when they fled Egypt, too young to recognize the cascade forming. But through the inherited memory. Through Tausret's eyes. This was how the break started. Not with invasion. Not with catastrophe. With small breaks in the system that people dismissed as temporary problems until the whole structure failed.
-
-She stepped into the circle of arguing elders.
-
-"Stop hoarding," she said clearly.
-
-They turned to her. Tirzah, the refugee woman from Egypt, healer and midwife, generally respected but not powerful. What did she know about trade policy?
-
-"If we hoard now, we break faster," Tirzah continued. "The coastal traders haven't come because Sidon's probably having the same conversation, whether to keep surplus or trade it. If we hoard, they'll hoard. If they hoard, the network breaks. If the network breaks, we're all isolated. Isolated villages can't survive drought or invasion or crop failure."
-
-"That's speculation," one elder said.
-
-"No. It's what the blood carries." Tirzah felt it sharpening her sight. "My grandmother watched Egypt die. You know what killed it? Not one thing. Everyone hoarding. Everyone closing borders. Every city deciding *we'll keep ours,* and then when the drought hit—" She snapped her fingers. "No trade. No allies. No one left to ask for help."
-
-She stepped closer. "That's what you're doing right now. You just don't see it yet because the drought hasn't come."
-
-"You were a child when the fall happened."
-
-"But my grandmother wasn't. Pharaoh Tausret watched this exact pattern destroy Egypt. And she taught me, through bloodline, through memory, how to recognize it early."
-
-The elders looked skeptical but uncertain.
-
-Tirzah pushed forward. "Send the grain to the temple anyway. I'll go to the coast. I'll find out what's stopping the traders. And I'll make sure they understand: cooperation is how we survive. Breaking the network is how we die."
-
-"And if they won't listen?"
-
-"Then we adapt. Find new trade routes. Build new networks. But we don't break cooperation ourselves. That's how ruin wins."
 
 ---
 

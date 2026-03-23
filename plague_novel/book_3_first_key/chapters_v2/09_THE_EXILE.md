@@ -35,22 +35,6 @@ And Rachel had to make a choice: try to preserve the network through displacemen
 
 ---
 
-**Three days earlier: The warning**
-
-She'd tried. Three times she'd stood before Zedekiah, and three times the king had smiled at her the way men smiled at women who saw too clearly.
-
-"God will protect Jerusalem," he'd said at their final audience. "The Temple cannot fall."
-
-So Rachel had done what her family always did when kings wouldn't listen. She'd gathered her twenty families, split them into three groups — one to stay in Judah, one to Egypt, one to walk into exile with the rest — and she'd strapped her infant daughter to her chest and chosen Babylon.
-
-"You're walking into exile," someone had said.
-
-"I'm walking into survival."
-
----
-
-**Now: The march begins**
-
 Rachel walked in a column of ten thousand exiles — dust-grayed, stumbling, children clutching whatever they'd grabbed before the soldiers came: a clay doll, a wooden comb, a scrap of woven blanket. Babylonian guards in bronze scale armor flanked the column, their oiled beards and iron-tipped spears a world away from the hill-country wool the exiles wore. The road east crossed the dry wadis and limestone terraces of the Shephelah, then descended into the flat Syrian steppe: scrub brush, cracked earth, a horizon so wide it made Rachel's chest ache.
 
 Behind them, Jerusalem burned. The Temple — Solomon's Temple, its cedar beams from Lebanon and gold-leafed walls standing for centuries — was ash. The palace was destroyed. The city walls were breached. Everything that made Judah a kingdom was gone.
@@ -65,7 +49,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "You're shaking," Esther said.
 
-"I'm angry." Rachel didn't try to soften it. "I told him. I told his advisors. I told the priestesses. I wrote it down and put it in front of the royal council. *This is the collapse. This is what it looks like. This is what happens next.* And they chose theology over evidence."
+"I'm angry." Rachel didn't try to soften it. "Three times I stood before Zedekiah. Three times he smiled at me the way men smile at women who see too clearly. *God will protect Jerusalem. The Temple cannot fall.* And they chose theology over evidence."
 
 "He was the king. You couldn't have—"
 
@@ -85,21 +69,11 @@ Rachel looked at the burning city behind them, the armed Babylonian guards aroun
 
 **Two weeks later: Babylon**
 
-The city of Babylon made Jerusalem look like a village.
+The city made Jerusalem look like a village. Blue-glazed walls taller than any building in Judah. Streets wider than Jerusalem's plazas. This was empire. This was what centralized power looked like when it worked.
 
-Rachel stood at the Ishtar Gate, staring up at blue-glazed brick walls taller than any building in Judah, relief lions and aurochs molded in yellow and white against the cobalt glaze. The city smelled of river mud and sesame oil. Hundreds of thousands of people filled streets wider than Jerusalem's plazas, temple priests in tall conical hats processing toward the ziggurat that loomed above the rooftops like a stepped mountain. This was empire. This was what centralized power looked like when it worked.
-
-And somewhere in this city, the Order, Amenhotep's people, had representatives.
-
-Across the plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd the way hers did — not watching people but watching *patterns.* Exits, power structures, flow of movement. The same seeing. Different training.
-
-He recognized her the same moment she recognized him.
+Across the Ishtar Gate plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd the way hers did — not watching people but watching *patterns.* The same seeing. Different training. He recognized her the same moment she recognized him.
 
 She turned away, pulled her daughter closer, and disappeared into the refugee settlement.
-
-The Babylonian authorities had assigned the Judean exiles to specific districts. Crowded. Controlled. But not imprisoned. Babylon's strategy was assimilation, not annihilation. Let the exiles work, trade, intermarry. Give it two generations and Judeans would become Babylonians.
-
-But Nefertari's people had a different plan.
 
 ---
 
@@ -137,35 +111,13 @@ Esther sat down. She didn't agree. Rachel could see that. But she sat down.
 
 ---
 
-**Three months later: The encoding continues**
-
-Rachel's daughter (Leah, she'd named her) was six months old when the blood memory first activated.
-
-Rachel woke to her crying. Not normal infant distress. Something deeper. Leah's eyes were unfocused, seeing something that wasn't there.
-
-Rachel recognized it immediately. Ancestral trauma surfacing. The inheritance activating earlier than any previous generation.
-
-She held Leah close, humming the lullaby her own mother had taught her. The one passed down through twenty-three generations. She didn't know all the words anymore. Nobody did. But the melody held.
-
-Leah calmed. Her breathing slowed. Her small hands unclenched.
-
-Six months old, and already carrying memories that predated her by six centuries.
-
-Rachel held her daughter in the dark of their exile quarters and felt the anger rise again, not at Zedekiah this time, but at the cost of it. At what this child would carry. At the fact that seeing clearly meant watching clearly, and watching clearly meant remembering everything, and remembering everything meant your six-month-old daughter woke screaming from memories of cities she'd never seen.
-
-*I chose this for you,* Rachel thought. *I chose to carry the bloodline forward, and that means you inherit all of it. The burning cities and the ignored warnings and the collapses we saw coming and couldn't stop.*
-
-She hummed the lullaby until Leah slept. Then she sat in the dark, dry-eyed and furious, and did not sleep at all.
-
----
-
 **One night in Babylon**
 
 Rachel woke reaching left.
 
 Her hand found the sleeping mat, the rough wool blanket, the packed-earth floor. Not what she was reaching for. Never what she was reaching for. Here, displaced, the ache had grown teeth — as if the inheritance recognized exile, recognized *this specific grief*, and was leaning into it.
 
-Beside her, Leah breathed in the shallow rhythm of a child deep in ancestral dreaming. Five years old now. Growing fast, growing strange. Already asking questions Rachel didn't know how to answer. Already waking some mornings with a look behind her eyes that was too old, too weighted, too familiar.
+Beside her, Leah breathed in the shallow rhythm of a child deep in ancestral dreaming. Five years old now. She'd been waking from ancestral nightmares since she was six months old — the blood memory activating earlier than any previous generation. Growing fast, growing strange. Already asking questions Rachel didn't know how to answer. Already waking some mornings with a look behind her eyes that was too old, too weighted, too familiar.
 
 Rachel lay quiet and listened to Babylon.
 
@@ -198,32 +150,6 @@ This was what people like her did. They converted grief into action.
 She worked until dawn grayed the windows. Then she walked back through the waking exile quarter, past Judean merchants setting up stalls beside Babylonian ones, past children playing in two languages, past a world rebuilding itself from wreckage the way worlds always did.
 
 Leah was still sleeping. Rachel lay down beside her daughter, and did not reach left, and did not sleep.
-
----
-
-**The marketplace**
-
-By the time Leah turned five, Rachel had started taking her to the market district.
-
-Not to buy. To watch.
-
-"What do you see?" Rachel asked, crouching beside her daughter as Judean exiles traded with Babylonians, Persians, Egyptians, Phoenicians. A Babylonian grain merchant weighed barley on a bronze balance using duck-shaped stone weights. A Phoenician dye trader haggled over murex-purple cloth, his fingers stained the permanent red-violet of the trade. A Judean potter sold oil lamps shaped in the old Jerusalem style — four-spouted, pinched clay — to a Persian buyer who turned one over with genuine curiosity. Multiple cultures mixing in the stalls, adapting, creating hybrid practices that would have horrified the temple purists back in Jerusalem.
-
-Leah studied the merchants with an intensity that made passing traders smile at the serious little girl. "They're trading across groups. Judeans selling to Babylonians. Babylonians buying from Egyptians. Everyone connected."
-
-"Why does that matter?"
-
-Leah's brow furrowed. "Because when everyone trades with everyone, if one group has problems... the others help? The network is resilient."
-
-Rachel's throat tightened. She hadn't taught her that word. The old knowledge had.
-
-"This is distribution," Rachel said. "This is what survival looks like when it works. We're not centralized in Jerusalem anymore. We're scattered across the empire. Harder to destroy."
-
-Leah looked up. "Will we ever go home?"
-
-Rachel touched her daughter's hair. "Home isn't a place, love. It's a practice. It's the knowledge we carry." She took Leah's hand — small fingers curling around hers, the ring pressing between their palms. "As long as the network persists, we're home."
-
-It was a thing she said. She was working on believing it.
 
 ---
 
