@@ -205,43 +205,77 @@ Miriam told them about the Egyptian watcher. Every body around the table shifted
 
 "He observed the entire conversation. And David noticed him. Had the man expelled from court by sunset."
 
-"Then they know." The Egyptian member's voice was flat. "Amenhotep's side now knows one of ours is embedded in the Israelite court. They'll map your methods. They'll position their own advisor, with Adonijah, probably, since you pushed David toward Solomon."
+"Then they know." The Egyptian member's voice was flat. "Amenhotep's side now knows one of ours is embedded in the Israelite court. They'll map your methods. They'll position their own advisor — with Adonijah, probably, since you pushed David toward Solomon."
 
 "I didn't push. I showed him the pattern. He chose."
 
 "The distinction won't matter to them."
 
-Miriam felt the cost of it. Ten generations of anonymity, and she'd burned it in a single courtyard conversation. Their advantage had always been invisibility, scattered families advising quietly, never consolidating enough power to be noticed. Now she was noticed.
+Miriam's hands were still. She looked at the twelve faces in the lamplight and made a decision she'd been turning over since the courtyard emptied.
 
-"Should we pull back?" someone asked. "Go quiet for a generation?"
+"There's more."
 
-"And let the succession crisis unfold without us? After I've already intervened?" Miriam shook her head. "We can't unring this bell. David announces Solomon tomorrow. Adonijah will react. The other side will try to position someone in the aftermath. We need to be ready."
+Something in her voice stopped the side conversations. The Egyptian member set down his cup.
 
-"Ready how? We're forty families. They have sixty operatives embedded in the Egyptian priesthood."
+"David knows about us. Not suspicions. Not fragments. He's tracked three generations of this family — my grandmother, my mother, me. He described our method: the pause, the eyes going elsewhere, the information we shouldn't have." She kept her voice level. "He's known for forty years."
 
-The Egyptian member delivered the rest of his report: the Order running breeding programs, keeping genealogical records, their people advising Pharaoh on grain distribution. Offensive mode scaling up while defensive mode stayed deliberately small.
+The room didn't just tighten. It broke open. Twelve people who'd built their lives on invisibility learning they'd been visible for decades.
 
-"Part of me fears they might be right," Miriam said. "That control works better than compassion."
+"That's not possible," someone said. "We've been —"
 
-The oil lamps flickered. Someone's cup scraped against the stone table.
+"He also knows about them." Miriam nodded toward the Egyptian member. "Different faces, same method. Thirty years of comparison. He's been using both networks. Playing us against each other."
 
-"But David chose on his own today. I showed him the danger and he chose. That's what we protect — the capacity to choose. Even when the choice is imperfect. Even when an engineered succession would be cleaner."
+The Egyptian member's face had gone gray. "What did he say about our methods versus theirs?"
 
-"And if Adonijah revolts anyway?"
+This was the part that had been sitting in Miriam's chest like a stone since the courtyard.
 
-"Then we learn something." Miriam looked at Judith, ten years old, silent in the corner. Already carrying what the rest of them carried. "We keep doing what we're doing. And we trust that our descendants will remember why we chose the harder way."
+"He gave two examples. The northern secession, twelve years ago. My aunt mapped the fracture and advised patience. Their operative said cut the ringleader's trade access. David took their advice. Secession collapsed in a month." She forced herself to continue. "The Moabite alliance. My cousin recommended diplomacy — gifts, marriages, shared festivals. Two years minimum. Their operative said burn one fort. Thirty casualties. Alliance dissolved in a week."
+
+Silence. Not the held-breath kind from before. The kind that comes when something you've believed for generations meets evidence it can't absorb.
+
+"He said our way is kinder." Miriam's voice was steady, but the ring was cutting into her finger where she gripped it. "He said their way works more often."
+
+The Egyptian member stood up. "Then maybe it does."
+
+Every head turned.
+
+"I've spent three years in Memphis watching the Order operate." His voice was rough. "Breeding programs. Genealogical records. Sixty operatives embedded in the priesthood. They're advising Pharaoh on grain distribution right now — choosing who eats and who doesn't. And it's *working*, Miriam. Egypt isn't fracturing. Egypt isn't about to lose its kingdom to a succession crisis because its advisors were too principled to engineer the outcome."
+
+"Sit down, Keret."
+
+"David is telling you the truth and you don't want to hear it. Ten generations we've been doing this. Ten generations of showing people the danger and letting them choose. And the kingdom is splitting anyway. Solomon will build his temple and tax the north into revolt and the whole thing will crack in two within a generation. I've seen the pattern. You've seen it. We all dream the same collapses." He was breathing hard. "Maybe it's time we stopped advising and started acting."
+
+"Acting how?" Miriam said. "Burning forts? Cutting trade access? Choosing who eats?"
+
+"Choosing outcomes. The way they do. The way that *works.*"
+
+The oil lamps flickered in a draft from the doorway. Nobody moved.
+
+"If we do that," Miriam said, "we become the thing Nefertari built us to oppose. And we can't undo it. You don't go back from engineering outcomes. You just find better reasons to keep doing it."
+
+"And if we don't, we watch another kingdom fall while we hold our principles like a blanket over a corpse."
+
+Miriam looked around the table. She could see the fracture — not everyone, not even most, but enough. Three faces that wouldn't meet her eyes. Two who were watching Keret with something that looked like relief, the relief of hearing someone say the thing they'd been thinking.
+
+"David chose on his own today," she said. "I showed him the danger and he chose. That's what we protect — the capacity to choose. Even when the choice is imperfect. Even when an engineered succession would be cleaner."
+
+"David chose Solomon because you showed him the Egyptian." Keret's voice was flat. "You shaped the outcome, Miriam. You just used a longer lever."
+
+She had no answer for that. Because he wasn't wrong.
 
 Judith hadn't spoken all evening. She'd sat with her arms wrapped around her knees, those too-old eyes moving from face to face — eyes that had been dreaming since she was five.
 
 "Mother." Her voice was small but steady. "In the dreams, every city that burned had someone like us. Warning them."
 
-The Egyptian member set down his cup. Miriam's hand found the ring on her finger and turned it.
+The room went still. Keret, still standing, looked down at the girl.
 
 "And it burned anyway."
 
-Twelve adults looked at a ten-year-old girl and had nothing to say.
+Twelve adults looked at a ten-year-old girl and had nothing to say. The question hung there — not an accusation, not despair, just the clean blade of a child who'd inherited the evidence and read it without flinching.
 
-Miriam wanted to explain — context, the collapses they'd softened even if they couldn't stop them. But David's voice was in her head: *Your way is kinder. Their way works more often.*
+Keret sat down. Not because he'd been answered. Because the girl had said what he'd been saying, stripped of strategy, stripped of anger, and it was worse that way.
+
+Miriam wanted to explain — context, the collapses they'd softened even if they couldn't stop them. But David's voice was in her head, and Keret's voice was in her head, and her daughter's voice was in her head, and none of them were saying the same thing, and all of them were right.
 
 "We'll talk about it tomorrow," Miriam said. Which was what her mother had said, and her grandmother before that.
 

@@ -135,17 +135,41 @@ Rachel got up.
 
 She crossed the exile quarter in bare feet, moving through dark streets where other displaced families slept in borrowed rooms. Past the communal well. Past the grain stores the Babylonian authorities allocated — enough to stabilize, not enough to recover. The rations of a field hospital, not a home. Past a doorway where she heard someone weeping in Hebrew, and didn't stop, because she'd learned that stopping meant absorbing someone else's grief on top of the freight she already carried, and some nights the load was already too heavy to bear and stay upright.
 
+She almost missed it. A mark on a doorframe — small, precise, chalked at knee height where an adult wouldn't look but a child crouching might notice. A symbol she recognized from the Archive: the old notation for *early activation*. Not their notation. The Order's.
+
+Rachel stopped. Crouched. Touched the chalk line with her fingertip. Fresh. A day old at most.
+
+She looked down the street. Checked the next doorframe. Nothing. Crossed to the opposite row. Third door: another mark. Different symbol — *physician lineage, female*. Fourth door, further down: *scribe lineage, male, adolescent*.
+
+They were mapping the exile quarter.
+
+Not randomly. Not broadly. They were marking doors the way a census taker marks households — systematically, by skill, by bloodline. Cataloging which families had knowledge worth preserving. Which children showed early signs. The same cold triage Khenti had run on grain supplies in Memphis two centuries ago, applied to people instead of wheat.
+
+Rachel's hands were shaking. Not from fear. From the recognition of a method she'd studied in the Archive — Amenhotep's original protocol notes, the breeding program, the genealogical records, the selection of essential populations. The Order wasn't just advising Babylon. They were using the exile as a harvest.
+
+She scraped the chalk from the doorframe with her thumbnail. Moved to the next mark and scraped that too. Then the next. Working her way down the street in bare feet, erasing their notation house by house, her pulse hard in her throat.
+
 The network met in Esther's quarters. It always met in Esther's quarters — the older woman kept her lamp burning through the night, a habit she said was practical and Rachel knew was fear of the dark, of the ancestral dreams that came thicker without light.
 
 Three others were already there. Others who couldn't sleep. Whose inheritance wouldn't let them rest when there was work to be done.
 
-Rachel sat down. Took the clay tablet someone handed her, a list of exile families, their skills, their connections, their capacity to carry knowledge forward.
+"They're inside the quarter," Rachel said. No preamble. "Chalk marks on doorframes. The Order's notation — bloodline assessments, skill classifications. They're cataloging our families."
 
-"The Egyptian branch sent word," Esther said. "Phoenician traders carried it. The Pattern Eye is still safe in Byblos."
+The room changed. Esther's hand went to the table edge. One of the others stood up.
+
+"How many marks?"
+
+"I found seven on one street. There will be more." Rachel sat down. Took the clay tablet someone handed her — a list of exile families, their skills, their connections, their capacity to carry knowledge forward. The same list the Order was building in chalk on their doorframes. "We need to move families. Rotate quarters. Break the pattern before they finish the survey."
+
+"The Egyptian branch sent word," Esther said, her voice steadier than her hands. "Phoenician traders carried it. The Pattern Eye is still safe in Byblos."
 
 Rachel nodded. Made a mark on the tablet. Moved to the next item.
 
-She worked until dawn grayed the windows. Then she walked back through the waking exile quarter, past Judean merchants setting up stalls beside Babylonian ones, past children playing in two languages, past a world rebuilding itself from wreckage.
+They worked until dawn, but the work was different now. Not cataloging — countermapping. Identifying which families to move, which streets to avoid, which children showed early activation and needed to be hidden before the Order's chalk marks led to a conversation, a recruitment, an offer that sounded like rescue and worked like a trap.
+
+Rachel walked back through the waking exile quarter as the sky grayed. Past Judean merchants setting up stalls beside Babylonian ones. Past children playing in two languages. Past a doorframe she'd scraped clean six hours ago — already re-marked. Fresh chalk. A new symbol she hadn't seen before: a single vertical line. *Identified. Approach pending.*
+
+She scraped it again. Knowing it would be back tomorrow.
 
 Leah was still sleeping. Rachel lay down beside her daughter, and did not reach left, and did not sleep.
 
@@ -189,7 +213,7 @@ Rachel's pulse spiked. But she kept her hands steady on the water vessel. "And?"
 
 "No. I'm here because my daughter has a fever." He lifted the water vessel. "Not ancestral. Not encoded. Just a fever. She's three."
 
-The symmetry hit Rachel beneath the ribs. Two physicians from rival schools, both at a river at dawn with sick daughters, because fevers didn't care about ideology. She looked at this man and made a diagnosis she hadn't expected: the same exhaustion she saw in her own face. The particular erosion of someone who'd been treating a patient that refused to heal.
+The symmetry hit Rachel beneath the ribs. Two physicians from rival schools, both at a river at dawn with sick daughters, because fevers didn't care about ideology. She looked at this man — the man whose network was chalking her people's doors in the dark — and made a diagnosis she hadn't expected: the same exhaustion she saw in her own face. The particular erosion of someone who'd been treating a patient that refused to heal.
 
 "Do you believe you're right?" she asked.
 

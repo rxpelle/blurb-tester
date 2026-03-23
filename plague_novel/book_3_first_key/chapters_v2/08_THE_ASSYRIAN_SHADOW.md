@@ -29,7 +29,7 @@
 
 ## SCENE 1: The Prophet in the Temple Court
 
-Tamar bat-Hannah recognized the signs immediately.
+Tamar bat-Hannah recognized the signs immediately — and so did the man standing twenty paces to her left.
 
 The boy stood in the Temple's outer court, packed now with refugees from the countryside, their livestock bleating in makeshift pens, vendors selling bread at siege prices, priests burning offerings on the great bronze altar while smoke climbed into a sky the color of hammered tin. Maybe sixteen years old. Judean features, shepherd's rough wool tunic, but his eyes, his eyes had that unfocused quality. The look of someone seeing connections they couldn't name. Experiencing the old dreams without the training to understand them.
 
@@ -37,59 +37,73 @@ The boy stood in the Temple's outer court, packed now with refugees from the cou
 
 Someone carrying the inheritance. Had to be.
 
-Tamar had been tracking him for three days now, ever since reports reached her people about a young "prophet" having visions during the siege. Her mother Hannah had died two years ago (fever, sudden and merciless), leaving Tamar as Generation 12, the Israeli branch's primary keeper.
+And the man to her left knew it too. She'd noticed him three days ago, the same morning reports reached her about the young prophet. Egyptian features beneath a Judean merchant's headcloth, dressed well enough to pass, but his eyes gave him away — the systematic scanning, exits mapped, crowd dynamics read, threat assessment running beneath a surface of mild interest. He wasn't watching the boy the way the priests watched him, with suspicion or fascination. He was watching the boy the way you watch a resource. Measuring what he could become.
 
-And now this boy was broadcasting what the body carried to anyone who would listen.
+Her mother Hannah had died two years ago (fever, sudden and merciless), leaving Tamar as Generation 12, the Israeli branch's primary keeper. And now she was in a race she hadn't expected — not to find the boy, but to reach him first.
 
 "How do you know this?" an elderly priest demanded. "Have you been to the Assyrian camps?"
 
-"I see it," Micah—that was his name, she'd learned—touched his forehead with trembling fingers. "In my sleep. I watch cities fall to invisible death. See physicians trying to stop it. Feel it building." He looked directly at Tamar, as if sensing what she was. "Crowding accelerates it. Rats carry it. Poor sanitation spreads it. It's happened before. It will happen again."
+"I see it," Micah — that was his name, she'd learned — touched his forehead with trembling fingers. "In my sleep. I watch cities fall to invisible death. See physicians trying to stop it. Feel it building." He looked directly at Tamar, as if sensing what she was. "Crowding accelerates it. Rats carry it. Poor sanitation spreads it. It's happened before. It will happen again."
 
-The crowd murmured. Some called him inspired. Others, mad.
+The crowd murmured. Some called him inspired. Others, mad. The Egyptian didn't murmur. He was writing something on a scrap of linen pressed against his thigh, below the crowd's sightline. A dispatch. He'd already moved from observation to reporting.
 
-The question was the same one people like her had been asking for five centuries: tell him or let him keep believing it was God?
+Tamar made her decision. Not the question she'd been turning over for three days — tell the boy or let him keep believing it was God. A different question, more urgent: get to him now, or lose him to people who would use what he carried instead of teaching him to understand it.
 
 ---
 
-## SCENE 2: The Carrier's Dilemma
+## SCENE 2: The Wall
 
-That evening, Tamar found Micah alone on the city wall, staring north toward the Assyrian siege camps. Sennacherib's army surrounded Jerusalem like a python: two hundred thousand men in iron-tipped ranks, their pointed bronze helmets and lamellar armor catching the last light, siege ramps packed with earth and timber rising against Lachish-scarred walls, supply wagons stretching to the horizon.
+She intercepted Micah as he left the Temple court that afternoon, not that evening. Couldn't afford the evening. She'd watched the Egyptian trail the boy through the market streets for an hour before falling back — mapping his route home, his patterns, his contacts. The systematic preparation of someone building an approach.
 
-King Hezekiah had fortified the city. Cut the tunnel through five hundred cubits of bedrock to channel the Gihon Spring inside the walls. Prepared for a long siege. But the blood showed her the pattern clearly: sieges ended in starvation, plague, or surrender, and Jerusalem was following the same trajectory as every failed Bronze Age kingdom.
+"Walk with me," Tamar said, falling into step beside Micah on the narrow street that climbed toward the western wall. "Don't look back. Don't stop."
 
-She was tired. Twenty years of nightly dreams, each one layered on the last like scar tissue on scar tissue. Twenty-five years old and already feeling ancient.
+Micah looked startled but didn't argue. Something in her voice — or something in his blood that recognized authority when it came from the right source.
 
-"You feel it too," Micah said without turning. "Like watching a wall crack. You can see where every stone will land before it falls."
+She led him up through the residential quarter, past stone houses packed with refugee families, up the worn steps to the rampart walk. The wall gave them sightlines in every direction. Nobody could approach without being seen. Below, Sennacherib's army surrounded Jerusalem: two hundred thousand men in iron-tipped ranks, their pointed bronze helmets and lamellar armor catching the late light, siege ramps packed with earth and timber rising against Lachish-scarred walls, supply wagons stretching to the horizon.
 
-Tamar sat beside him. "How long?"
+She checked behind them. The street below was empty.
 
-"Three months. Since my fourteenth birthday." He kept staring at the distant campfires. "Dreams of places I've never been. A woman, a physician, trying to save everyone from plague in a collapsing city."
+"There's a man watching you," Tamar said. "Egyptian. He's been tracking you since you started prophesying. He'll approach you soon — within days. He'll tell you he understands what you're experiencing. He'll offer to train you. He'll be kind. Patient. Everything you need to hear."
+
+Micah's face had gone wary. "How do you know?"
+
+"Because his people have been doing it for five hundred years. And so have mine." She was tired. Twenty years of nightly dreams, each one layered on the last like scar tissue on scar tissue. Twenty-five years old and already feeling ancient. She didn't have the energy for a gentle approach. "You're dreaming things that happened. Not visions. Memories. Inherited from people who survived collapse and encoded what they learned into their blood. There are two groups who carry this inheritance. One teaches people to see. The other uses them."
+
+"You feel it too," Micah said. Not a question. "Like watching a wall crack. You can see where every stone will land before it falls."
+
+"Yes."
+
+"How long?"
+
+"Since I was five." She kept scanning the streets below. "You?"
+
+"Three months. Since my fourteenth birthday. Dreams of places I've never been. A woman, a physician, trying to save everyone from plague in a collapsing city."
 
 *Nefertari.* He was dreaming the founding physician's memories.
 
-"The priests say I'm inspired," Micah continued. "That God speaks through dreams." He finally looked at her. "You have them too. I can tell."
+"The priests say I'm inspired," Micah continued. "That God speaks through dreams." He studied her face. "But you're saying it's not God."
 
-Tamar studied his face. Sixteen and already burning with it. She'd believed the dreams were divine too, once. Before her mother died gasping and the dreams kept coming anyway.
+"I'm saying it's older than any god you've been taught about. And the man watching you doesn't care whether you think it's divine or genetic. He cares that you're broadcasting plague predictions to anyone who'll listen, which means you're useful."
 
-"The Assyrians will die from plague," Tamar said. "You're right about that. I see the same cascade. Crowded camps, poor sanitation, rat populations exploding from stored grain. Disease outbreak is inevitable."
+"Useful to who?"
 
-Micah's eyes widened. "Then you're a prophet too?"
+"To people who believe the best way to survive collapse is to control who lives through it." She met his eyes. "I believe differently. But I won't pretend my way is easier or that it's worked better. I can only tell you what you are and let you choose."
 
-"No." Tamar took a breath. Time to decide. "I'm something else. And so are you."
+Micah was quiet. Below them, the Assyrian campfires were beginning to glow in the falling dusk — thousands of them, a constellation on the valley floor.
+
+"The Assyrians will die from plague," Tamar said. "You're right about that. I see the same cascade. Crowded camps, poor sanitation, rat populations exploding from stored grain. It's already started."
+
+Micah's eyes widened. "Then we have to —"
+
+"First you have to decide. I can teach you what you're seeing. What the dreams mean. How to read the patterns. Or you can wait for the Egyptian to find you and hear his version." She paused. "But that's a choice you make today. Not tomorrow."
 
 ---
 
-## SCENE 3: The Truth Revealed
+## SCENE 3: The Truth
 
-She told him on the wall, with the Assyrian campfires burning below like a field of fallen stars.
+Micah sat on the wall for a long time. The Assyrian campfires burned below like a field of fallen stars.
 
-"Your dreams come from ancestors who survived collapse. You inherited their sight. There are others like us." She paused. "I can teach you what you're seeing. Or I can walk away and let you keep believing you're divinely inspired."
-
-Micah said nothing. When he finally spoke, his voice was small. "So I'm not... chosen?"
-
-"You're rare. Sixteen generations of encoded trauma, and you're still dreaming it." Tamar rubbed her eyes. "That's more miraculous than divine inspiration. That's human memory transcending death itself." She let him sit with it. "I can teach you. But the dreams never stop. They intensify."
-
-"Will it hurt less? If I understand it?"
+"Will it hurt less?" he asked. "If I understand it?"
 
 "No." The word came out harder than she intended, but she didn't soften it. "It will hurt more. Because you'll know exactly what you're seeing. Every dream will be someone's real death."
 
@@ -97,9 +111,9 @@ She thought about saying something reassuring. That's what her mother would have
 
 Instead she said: "I've been doing this since I was five. I can teach you everything I know, and it will not make it easier. It will make you useful. That's not the same thing."
 
-Micah absorbed this. Below them, a night patrol passed along the wall's rampart walk, spearmen in bronze-studded leather jerkins, torches bobbing against the limestone.
+Below them, a night patrol passed along the rampart walk, spearmen in bronze-studded leather jerkins, torches bobbing against the limestone. In the city below, a merchant in a Judean headcloth walked toward the northern gate, unhurried. He'd find the boy eventually. Everyone found everyone in a besieged city.
 
-"Teach me," he said.
+"Teach me," Micah said. "Before he does."
 
 ---
 
@@ -319,7 +333,13 @@ So he turned his attention to the boy. Standing on the fountain steps, voice cra
 
 He composed his dispatch: *Temple probe failed. Secondary observation of greater strategic value -- diluted carrier identified, manifesting as public prophecy. Untrained carriers represent a recruitment opportunity the Order has not systematically exploited. Every prophet they miss is one we can claim.*
 
-He watched the woman -- Tamar -- lead the boy away that evening. She'd gotten to this one first.
+He'd been building his approach for three days — mapping the boy's routines, his contacts, his vulnerabilities. Patient work. The kind of cultivation the Order trained its operatives to execute over weeks.
+
+The woman moved faster. She intercepted the boy that same afternoon, pulled him out of the market street and up toward the wall before Nekhen had finished his dispatch. No gradual approach. No cultivation. She'd spotted him watching and simply *taken* the boy, the way you pull a child from a road when you see the cart coming.
+
+Nekhen could have followed. Could have made his own approach that night, or the next day, offered the boy a different version of the same truth. But he recognized the look in the woman's eyes when she'd glanced back at the street from the rampart walk — not fear, not anger, but the cold focus of someone protecting something she couldn't afford to lose. She knew what he was. She'd known from the first morning.
+
+She'd gotten to this one first. And she'd done it by refusing to be patient.
 
 Nekhen left Jerusalem three weeks later, after the plague broke the siege. On the northern road, he passed a column of Assyrian camp followers moving south. They were boiling their water. Separating the sick from the healthy. Following sanitation protocols no Assyrian army physician had taught them.
 
