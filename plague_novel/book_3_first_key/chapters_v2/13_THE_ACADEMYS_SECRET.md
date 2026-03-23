@@ -403,6 +403,10 @@ The dispatch said they'd found Alexander on a couch in Nebuchadnezzar's palace, 
 
 The networks' representatives arrived that evening. Both sides claimed the result. Defensive: fragmentation proves centralized control fails. Offensive: unification proves strategic breeding works. They argued for two hours in the Lyceum's back room while Theophrastus sat in the garden and said nothing.
 
+He thought about Xanthe. Three generations since she'd walked away from Callias and the network and into Plato's Academy. Her grandchildren were potters and teachers in Athens now — carriers who dreamed the old dreams and went to work in the morning. No councils. No votes. No experiments. Just people living with what the blood gave them and choosing, every day, not to let it become an institution. The third path. The one neither network could claim or defeat because it didn't *want* anything except to be left alone.
+
+Maybe she'd been the only one who got it right.
+
 Theophrastus sealed his scrolls that night.
 
 He sat alone in the Lyceum's peripatos, the covered walkway where Aristotle had paced while teaching. The night air smelled of olive trees and cooling stone. And a grief he couldn't explain settled over him — heavier than Alexander, heavier than the failed experiment, heavier than anything that belonged to his own life. A bone-deep certainty: *someone I loved chose differently than I did, and we both lost everything.*
