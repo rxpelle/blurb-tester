@@ -33,7 +33,7 @@ But it wasn't the blood. Callias would recognize the activation signature — an
 
 The students hung on every word. Athens loved Socrates. Hated him. Couldn't ignore him.
 
-But the daimonion wasn't the seeing. Callias had studied him carefully. It was just... philosophy. Exceptional reasoning. The kind of systematic thinking the defensive network taught, but arrived at independently through pure intellectual discipline.
+But the daimonion wasn't the seeing. Callias had tested every hypothesis: latent activation, suppressed inheritance, a mutation the models hadn't predicted. Each one failed. The conclusion was simple and destabilizing: Socrates had arrived at the network's insights through pure reasoning. No blood required. Which raised the question Callias couldn't answer — if the thinking could be learned, what was the bloodline *for*?
 
 Socrates wasn't a diluted carrier.
 
@@ -105,7 +105,7 @@ Something cold settled in his chest. "The Protocol Amendment says we offer train
 
 "Then that's on me," Xanthe said firmly. "My choice. My consequences. But at least they'll be *mine.* Mine, instead of inherited. Instead of encoded. Instead of programmed into my blood by a physician who died centuries ago."
 
-Callias sat back, and the thing that moved through him wasn't confusion. It was older than that. Uglier.
+Callias sat back, and before his mind could construct a noble interpretation — respect for her autonomy, admiration for her courage — his body delivered the honest verdict. It was older than confusion. Uglier.
 
 He was jealous.
 
@@ -125,7 +125,7 @@ Xanthe smiled sadly. "Because I had to see it. All of it. What you carry, what i
 
 *You choose differently because you CAN choose,* Callias thought. *Because the seeing didn't get to you first. Because you had twenty-eight years of being a potter before the inheritance found you, and I had three years of being a boy before I was a vessel.*
 
-He said none of this. The physician's eye was merciless in its self-diagnosis: the jealousy was irrational, unworthy, and completely justified.
+He said none of this. The dialectic was merciless when turned inward: the jealousy was irrational (premise), unworthy of the network's principles (counter-premise), and completely justified (conclusion). Socrates would have appreciated the contradiction.
 
 ---
 
@@ -199,7 +199,7 @@ He pulled the cloth back one final time. "Crito, we owe a cock to Asclepius. Pay
 
 Then silence. Then Crito reached over and closed his eyes.
 
-Callias felt the weight of it settling into his memory. This death would encode. Those who came after would dream it. Would feel the pattern: knowledge versus control, distributed versus centralized, bloodline versus institution.
+Callias felt it encoding — settling into the blood the way an argument settles into memory, premise by premise. Those who came after would dream this death. Would inherit the contradiction it posed: knowledge versus control, distributed versus centralized, bloodline versus the school that might replace it.
 
 And beneath the pattern, something that made no sense. His left hand had moved — reached sideways, fingers spread, searching for a hand that wasn't there. He noticed the gesture and couldn't account for it. A philosopher's student trained in Socratic method, and his own body was producing conclusions without premises. *I know you,* his blood was saying to the woman standing beside him, and the knowing had no syllogism behind it, no chain of reasoning he could trace, and that absence of logic disturbed him more than the death they were witnessing.
 
@@ -243,27 +243,43 @@ What he didn't understand — what his training in dialectic would never explain
 
 **Three months later. Defensive network council meeting.**
 
-Callias stood before the assembled carriers, representatives from twelve families, spanning Greece, Egypt, Persia, and the Levantine coast.
+Callias stood before the assembled carriers. Sixteen families now — twelve Greek, the four remaining Mediterranean branches. The Egyptian families hadn't sent representatives since the Delphi vote, and that absence sat in the room like a missing tooth.
 
 "Xanthe, daughter of Hyperion refuses formal recruitment," Callias reported. "She acknowledges her carrier status. Accepts the inherited memory. But declines network membership. She's studying at Plato's Academy instead."
 
-The Persian representative spoke first. "Unacceptable. She carries the inheritance. She has a responsibility."
+Dariush of Persepolis spoke first. Generation 22, the Persian families' senior representative. "Unacceptable. She carries the inheritance. She has a responsibility."
 
 "She has a *choice,*" Callias said. "That's the entire point of what we do."
 
-"The point of what we do is survival. Not philosophy."
+"The point of what we do is survival. Not philosophy." Dariush looked around the room. "We've already lost the Egyptian branch because this council chose principle over cohesion. Now you're telling us a carrier can simply walk away? What holds this network together if anyone can leave?"
 
-The room shifted. Callias could feel it — the old gravity pulling them toward compulsion, toward the certainty that the network's survival mattered more than any single carrier's freedom. He'd felt that gravity himself, every day since Socrates drank the hemlock.
+"The same thing that's always held it together. The choice to stay."
+
+"Kiya chose not to stay. Three families chose not to stay. And now a carrier with active inheritance chooses not to serve." Dariush's voice hardened. "I count a pattern, Callias. Do you? Or does the dialectic only work in one direction?"
+
+The room shifted. Callias could feel the argument forming before anyone spoke it: the network's survival outweighs any single carrier's freedom. A valid premise. He'd spent every day since Socrates drank the hemlock constructing the counter-argument. But Dariush had found the flaw in it — the counter-argument assumed the network would survive the freedom. What if it couldn't?
 
 "There won't be a vote," Callias said.
 
-Silence.
+"Then you've answered my question." Dariush stood. "You won't compel Xanthe. You wouldn't compel Kiya. You won't compel anyone, because compelling people is what the other side does." He paused. "And the other side controls empires while we control a room that gets smaller every year."
 
-"This is my recruitment. My responsibility. And I'm telling you: Xanthe walks free." He looked at the Persian. "If the network can't survive one person saying no, then it deserves to die. That's what Nefertari would have said. That's what Socrates proved. And if you disagree, you can put *me* before a vote instead."
+"Dariush —"
 
-No one moved. The Persian's jaw worked. The Levantine woman was watching Callias with something that might have been respect.
+"The Persian families withdraw." He said it the way he'd said everything else — measured, precise, the voice of a man who'd calculated the cost before he walked in. "Not to Kiya's faction. We're done pretending distributed fragments can compete with institutional power. The Order has made us an offer. We're taking it."
 
-"The philosophy schools stay open to us," Callias continued, quieter now. "We watch. We learn. And we accept that eight centuries after Nefertari created the Genesis Protocol, we might not have all the answers."
+The silence that followed was not like the silence after Kiya's departure. That had been shock. This was something worse. This was understanding.
+
+"You're defecting," Callias said. "To Amenhotep's side."
+
+"I'm choosing the approach that works. Eight centuries, Callias. Eight centuries of compassion and distributed knowledge, and we're sitting in a room that held twenty families and now holds twelve. The offensive network has temples, empires, breeding programs. We have *principles.*" His mouth curved. "Principles and an ever-shrinking circle of people who'd rather be right than effective."
+
+No one spoke. Callias searched for the counter-argument — the dialectic, the clean logical rebuttal that would expose the flaw in Dariush's reasoning. He couldn't find it. Because Dariush wasn't wrong about the math. He was wrong about what the math meant, but Callias couldn't articulate why, not here, not with the room bleeding out, not with twelve families where twenty had sat a year ago.
+
+"Xanthe walks free," Callias said quietly. "And so do you."
+
+Dariush left. Two families went with him. The Anatolian branch stayed — barely — the woman who led it gripping the edge of the table as if physically holding herself in her seat.
+
+The philosophy schools stayed open. The network endured. And Callias sat in the shrinking circle and understood what Socrates had taught him without meaning to: that the hardest thing about being right was watching it cost you everything, and choosing it anyway.
 
 ---
 

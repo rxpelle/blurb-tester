@@ -31,9 +31,9 @@ The Oracle spoke: "*If Croesus crosses the Halys, he will destroy a great empire
 
 The crowd murmured. Croesus smiled. Clear prophecy: attack Persia, destroy their empire, expand Lydian power.
 
-Kleomenes felt cold settling into his bones.
+Kleomenes went cold.
 
-That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Kleomenes could read the same trajectory: Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
+That wasn't prophecy. That was an intelligence product — ambiguous enough to pass as divine approval, precise enough to warn anyone trained to read it. Croesus was overextended. Persia was consolidating. The prophecy had just told a king to destroy himself, and he'd smiled.
 
 But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.
 
@@ -47,7 +47,7 @@ Unless Delphi was something much more sophisticated.
 
 **Three weeks later. Kleomenes investigating temple records.**
 
-Three weeks disguised as a minor priest. White linen robes, barley porridge and goat cheese at dawn, purification in the cold water of the Castalian Spring before each day's duties, burning laurel leaves and barley meal on the great altar while chanting hymns to Apollo. The routine had lulled the other priests into accepting his presence.
+Three weeks under cover as a minor priest. White linen robes, barley porridge at dawn, purification in the Castalian Spring, laurel and barley meal on the great altar. He'd built the routine carefully — consistent enough to pass, unremarkable enough to forget.
 
 The first thing he noticed: the Hosioi priests — the five who "interpreted" the Pythia's ecstatic utterances — took shifts. Not random shifts. A rotation that ensured at least two were present during every consultation. He watched their eyes during prophecy sessions. The unfocused quality. The micro-expressions of recognition when the Pythia described collapse trajectories.
 
@@ -59,7 +59,7 @@ One message, encoded between Delphi and operatives in Sardis:
 
 *Lydian expansion matches pre-collapse indicators. Military overextension. Economic strain. Recommend warning through prophecy without direct intervention. Suggest ambiguous wording that allows client to choose interpretation.*
 
-His hands were shaking. Not one oracle. A *network*. Institutional, systematic, scaled. The Pythia was just the public face.
+His hands were shaking. Not one oracle. A full operational network — institutional cover, systematic intelligence collection, scaled across regions. The Pythia was a front.
 
 "You're the one from Athens."
 
@@ -129,7 +129,7 @@ Re: Lydian expansion patterns*
 
 *Response: Agreed. Outcome: Croesus interpreted favorably, attacked Persia, destroyed his own empire exactly as patterns predicted. Knowledge was offered. Choice was preserved. Collapse was preventable but not prevented. Both networks' principles honored.*
 
-Kleomenes stared at the letter. "You're running a hybrid experiment. Defensive warning plus offensive strategy. And calling it prophecy so neither network takes credit or blame."
+Kleomenes stared at the letter. "You're running a joint operation. Defensive intelligence plus offensive analysis, packaged as prophecy. Plausible deniability for both networks."
 
 Aristonike smiled grimly. "The Oracle doesn't prevent collapse. We just show it coming. Whether civilization listens is their choice."
 
@@ -141,13 +141,13 @@ Aristonike smiled grimly. "The Oracle doesn't prevent collapse. We just show it 
 
 They stood in the archive room, Aristonike's hand on his arm from where he'd steadied her after a tremor nearly sent her into the scroll racks.
 
-Kleomenes' pulse changed. Not gradually. Immediately. His heart found a rhythm that wasn't his own, locking into a frequency his body had no business knowing. He felt it in his throat, his wrists, the backs of his knees — every pulse point suddenly beating in time with the woman beside him. As if his cardiovascular system had been waiting twenty years for proximity to hers and now refused to maintain its own tempo.
+Kleomenes' pulse changed. Not gradually. Immediately. His heart locked into a rhythm that wasn't his — her rhythm, matching without permission. He felt it in his throat, his wrists, the backs of his knees. Every trained instinct told him to step back, assess, maintain operational distance. His body refused the order.
 
 He didn't understand it. His blood did.
 
 And Aristonike — whose hands had trembled for three years, whose fingers shook too badly some mornings to hold a stylus — went still. The tremor stopped. Not diminished. *Stopped*. She stared at her own hand on his arm. Steady. For the first time in longer than she could remember, completely steady.
 
-It terrified them both. Not because it was strange, but because it felt inevitable — as if the blood already knew how this ended and was telling them anyway: *this will be worth it. And it will cost everything.*
+It terrified him. Not the strangeness — he'd spent his career in strange places. The loss of control. His body had made a decision his mind hadn't authorized, and no amount of training could override it.
 
 "There has to be another way," Kleomenes said.
 
@@ -171,7 +171,7 @@ Aristonike stared at him. "You came here to investigate. You've investigated. Go
 
 "Why?"
 
-He didn't have a good answer. The pulse in his throat was still beating to her rhythm, and every rational argument he'd built over three weeks of investigation was dissolving under the simple fact that her hand had gone steady when he was near.
+He didn't have a good answer. Three weeks of careful investigation, and his objectivity was compromised by a single fact he couldn't file in any report: her hand went steady when he was near.
 
 "Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical. "And because I don't want you to do this alone."
 
@@ -205,13 +205,35 @@ Kiya — Generation 18, forty years running the Memphis safe house — stood so 
 
 "And when it stops working? When a Pythia misreads her visions through toxic gas and a war starts because we were *wrong at scale*?" Kiya looked around the circle. "We survived six centuries because we were small. You want to make us big. Empires fall under their own burden — that's the first lesson the inheritance teaches."
 
-The room fractured along the fault line both arguments had exposed. Kleomenes watched the faces — half seeing the opportunity, half seeing the trap.
+"Delphi is already big. I'm asking you to acknowledge what exists."
+
+"You're asking us to *formalize collaboration with the offensive network.*" Kiya's voice went flat. "Say it plainly, Kleomenes. Intelligence sharing. Joint operations. With the people who burned the Temple vault looking for our keys."
+
+The room split. Kleomenes read the faces — counted the votes before they were cast. Six committed to Aristonike's model, five opposed, the rest undecided and leaning toward whoever spoke last.
 
 Eleven to nine.
 
-Approved: institutional prophecy operations and intelligence sharing with the Order — by a margin that made Kleomenes' stomach tight.
+Approved: institutional prophecy operations and intelligence sharing with the Order — by a margin of two votes.
 
-But Kiya extracted a condition: if any temple became a source of collapse rather than prevention, the network retained authority to shut it down. She didn't say *how*. The look she gave across the council table said enough.
+Kiya didn't extract a condition. She stood, and the room went quiet.
+
+"Then the Egyptian branch withdraws."
+
+Kleomenes felt the floor shift. "Kiya —"
+
+"Forty years I've run the Memphis safe house. My mother ran it before me. Her mother before her. The Egyptian families are the oldest continuous lineage in this network — twelve generations unbroken since Tirzah." Her voice was steady. The steadiness was worse than anger. "You've just voted to become the thing we split from. I won't watch it happen from the inside."
+
+"You're breaking the network over a two-vote margin."
+
+"You broke it when you brought the proposal." She looked around the circle. "Anyone who wants to continue Nefertari's work as she designed it — distributed, independent, small — is welcome in Memphis."
+
+Three families stood with her. The Cypriot branch. The Levantine coastal families. And old Menestor, who'd been silent the entire debate, who now rose with the careful dignity of a man who'd outlived his willingness to compromise.
+
+Five of twenty. A quarter of the network, walking out.
+
+Kiya paused at the door. "When this goes wrong — and it will go wrong, because centralized systems always do — we'll still be there. Doing the work the way it was meant to be done."
+
+She left. The door closed. The room held sixteen people where twenty had sat, and Kleomenes understood with operational clarity that he'd won the vote and split the network, and that both of those things were true at once.
 
 ---
 

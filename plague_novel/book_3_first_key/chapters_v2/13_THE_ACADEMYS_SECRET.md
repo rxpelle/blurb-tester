@@ -15,7 +15,7 @@ Theophrastus knew exactly what Aristotle was. And wasn't.
 
 Twelve years he'd studied under the man, learning botany, logic, the systematic cataloguing of everything from animal locomotion to political constitutions. Twelve years watching the most brilliant mind in Athens dissect the world without once experiencing the dreams, the distant eyes, the compulsive left-hand reaching that marked a carrier. Aristotle was the second great philosopher without the inheritance in three generations. First Socrates. Now him. Pure intellectual discipline arriving at the same insights that eight and a half centuries of accumulated ancestral memory had given the rest of them. Eight and a half centuries since a physician and a scholar had poured their grief into bronze in a Canaanite smithy, and here was a man from Stagira reaching the same conclusions with nothing but his own mind.
 
-The network was becoming obsolete. Theophrastus had made peace with that.
+The network was becoming obsolete — and shrinking. The Egyptian branch had walked out a generation ago over the Delphi vote. The Persian families had defected to the Order entirely. Twelve families where twenty had once sat. Theophrastus had made peace with that.
 
 What he hadn't made peace with was the young man who entered the Lyceum courtyard on an afternoon in late Thargelion, trailing two Macedonian guards in broad-brimmed kausia hats and chlamys cloaks, and the unmistakable scent of horse sweat and ambition
 
@@ -438,7 +438,7 @@ Then a fever. Thirteen days. And the masterpiece was dead at thirty-two.
 
 The emergency council met in Babylon -- fourteen representatives in a requisitioned palace chamber that smelled of the embalming herbs being applied to Alexander's body two floors above.
 
-Pharnaces of Persepolis opened the assessment. "The breeding program achieved every objective. The thesis was being validated in real time across three continents." He paused. "And all of it depended on one heartbeat."
+Pharnaces of Persepolis opened the assessment. His family had joined the Order two generations ago, defectors from the defensive network who'd grown tired of principle without power. They'd brought carrier bloodlines, regional contacts, and a detailed understanding of how the other side thought. The breeding program had been their idea. "The breeding program achieved every objective. The thesis was being validated in real time across three continents." He paused. "And all of it depended on one heartbeat."
 
 Timocrates of Athens -- Generation 27, Alexander's age -- said what the memory was already teaching them all.
 

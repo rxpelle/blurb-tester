@@ -23,11 +23,11 @@
 
 Rachel bat-Yonah walked through burning Jerusalem with the old dreams screaming in her mind.
 
-Her own memories and beyond, because watching the Babylonian army torch the Temple was only the surface. *Ancestral* memories were layered beneath. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, stacked and reinforcing, flooding her consciousness as her own city died.
+Her own memories and beneath them, older ones — the way infection layers on top of injury. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, each one compounding the last, the accumulated trauma flooding her like a fever she couldn't break.
 
-She was thirty-one. A physician and midwife, her daughter strapped to her chest, and the ancestral memory so vivid she could barely distinguish past from present.
+She was thirty-one. A physician and midwife, her daughter strapped to her chest, and the ancestral memory so acute it was like double vision — two cities burning at once, twelve centuries apart, and her trained eye unable to tell which patient was dying in front of her.
 
-*I told him.* The thought came hard and hot, burning brighter than the archive where she'd hidden medical scrolls. *I told Zedekiah exactly what would happen. I showed him the pattern: trade routes breaking, alliances fragmenting, the same cascade that killed the Bronze Age. And he smiled at me like I was a child afraid of thunder.*
+*I told him.* The thought came hard and hot, burning brighter than the archive where she'd hidden medical scrolls. *I told Zedekiah exactly what would happen. I showed him the symptoms: trade routes failing, alliances going septic, the same cascade that killed the Bronze Age. I gave him the diagnosis and the prognosis and he chose prayer over treatment.*
 
 Around her, thousands of Judeans were being herded into columns for the march to Babylon. The Babylonian Exile had begun.
 
@@ -45,7 +45,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "The old dreams are overwhelming," Esther said. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit. Every burning city our bloodline ever witnessed. It's all active right now."
 
-"I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage traveling downward through her body like something physical. She'd held it together for three days, organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
+"I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage moving through her body the way a physician tracks a symptom — jaw first, then shoulders, then fists. She'd held it together for three days, organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
 
 "You're shaking," Esther said.
 
@@ -53,7 +53,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "He was the king. You couldn't have—"
 
-"I could *see it*, Esther. That's what this bloodline is for. Twenty-three generations of encoding, six centuries of what the blood taught us, and when it mattered most — when I could read the signs as clearly as I see your face — I couldn't make a single person listen." Her voice cracked. She pressed her lips against her daughter's head and breathed until the trembling stopped. But the trembling didn't stop. It changed — became something different, something that didn't belong to her anger at Zedekiah. A deeper tremor. The grief of a woman who had loved someone so completely that her body had forgotten how to be singular, and had chosen principle over that person, and had never been whole again.
+"I could *see it*, Esther. That's what this bloodline is for. Twenty-three generations of encoding, six centuries of what the blood taught us, and when it mattered most — when I could read the signs as clearly as I see your face — I couldn't make a single person listen." Her voice cracked. She pressed her lips against her daughter's head and breathed until the trembling stopped. But the trembling didn't stop. It changed — shifted deeper, below the anger, into something chronic. The old grief. Not hers. A woman's body that had never healed from an amputation no surgeon had performed.
 
 Her left hand moved. The reaching — the old one, the one that didn't belong to her. She caught herself and pulled her hand back against her daughter's body, but the ache remained.
 
@@ -69,7 +69,7 @@ Rachel looked at the burning city behind them, the armed Babylonian guards aroun
 
 **Two weeks later: Babylon**
 
-The city made Jerusalem look like a village. Blue-glazed walls taller than any building in Judah. Streets wider than Jerusalem's plazas. This was empire. This was what centralized power looked like when it worked.
+The city made Jerusalem look like a village. Blue-glazed walls taller than any building in Judah. Streets wider than Jerusalem's plazas. A healthy organism at peak function — and Rachel's trained eye could already see where the inflammation would start.
 
 Across the Ishtar Gate plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd — not watching people but watching *patterns.* The same seeing. Different training. He recognized her the same moment she recognized him.
 
@@ -125,7 +125,7 @@ Wrong sounds. All of it. The night birds were wrong — not the owls that had ne
 
 *This is not home. This will never be home. I will die in this city and my bones will lie in foreign dirt and my daughter will grow up speaking Aramaic with a Babylonian accent and none of that — none of it — had to happen.*
 
-The rage found her the way it always did, in the quiet hours. Not the hot fury of the march, when she could aim it at Zedekiah, at the council, at every man who'd chosen faith over evidence. This was the other anger. The slow one. The one that lived beneath the grief and fed on it. She was angry at the inheritance itself — at the cost it extracted, at the way it had stolen her daughter's sleep since infancy, at the fact that *seeing clearly* meant watching your own city burn in perfect comprehension of every decision that fed the fire.
+The rage found her in the quiet hours. Not the acute fury of the march — that she could aim, could use. This was the chronic kind. The low-grade inflammation that lived beneath the grief and fed on it. She was angry at the inheritance itself — at the cost it extracted, at the way it had stolen her daughter's sleep since infancy, at the fact that *seeing clearly* meant watching your own city burn in perfect comprehension of every decision that fed the fire.
 
 She was angry that she couldn't tell where her grief ended and Nefertari's began. Angry that some nights the reaching in her left hand felt more real than her own memories. Angry that generations of women had carried this burden and the world hadn't gotten any better at listening.
 
@@ -133,7 +133,7 @@ Leah made a small sound. Rachel's hand moved to her daughter's back — automati
 
 Rachel got up.
 
-She crossed the exile quarter in bare feet, moving through dark streets where other displaced families slept in borrowed rooms. Past the communal well. Past the grain stores the Babylonian authorities allocated — enough to survive, not enough to thrive, the mathematics of controlled assimilation. Past a doorway where she heard someone weeping in Hebrew, and didn't stop, because she'd learned that stopping meant absorbing someone else's grief on top of the freight she already carried, and some nights the load was already too heavy to bear and stay upright.
+She crossed the exile quarter in bare feet, moving through dark streets where other displaced families slept in borrowed rooms. Past the communal well. Past the grain stores the Babylonian authorities allocated — enough to stabilize, not enough to recover. The rations of a field hospital, not a home. Past a doorway where she heard someone weeping in Hebrew, and didn't stop, because she'd learned that stopping meant absorbing someone else's grief on top of the freight she already carried, and some nights the load was already too heavy to bear and stay upright.
 
 The network met in Esther's quarters. It always met in Esther's quarters — the older woman kept her lamp burning through the night, a habit she said was practical and Rachel knew was fear of the dark, of the ancestral dreams that came thicker without light.
 
@@ -173,7 +173,7 @@ Neither of them ran.
 
 "Rachel. Twenty-three."
 
-He absorbed this. Six generations between them. Nefertari's side scattered wider, more branches, more children carrying the line forward loosely, while Amenhotep's concentrated the bloodline into fewer, more carefully selected carriers. Different strategies, different math, same inheritance.
+He absorbed this. Six generations between them. Nefertari's side had spread the bloodline wide — inoculation through dispersal, as many carriers as possible, knowing most would dilute. Amenhotep's had concentrated it. Quarantine thinking: fewer carriers, stronger doses. Different treatments for the same disease.
 
 "I was in the Temple," Sethnakht said. "After the burning. We found the vault."
 
@@ -189,7 +189,7 @@ Rachel's pulse spiked. But she kept her hands steady on the water vessel. "And?"
 
 "No. I'm here because my daughter has a fever." He lifted the water vessel. "Not ancestral. Not encoded. Just a fever. She's three."
 
-The symmetry hit Rachel like a fist beneath the ribs. Two of them, two sick daughters, two parents at a river at dawn because some things were simpler than inherited memory and older than philosophy. She looked at this man — this enemy, this rival, this man bearing the same impossible inheritance — and saw what she saw in her own reflection: someone ground to powder by seeing clearly in a world that preferred blindness.
+The symmetry hit Rachel beneath the ribs. Two physicians from rival schools, both at a river at dawn with sick daughters, because fevers didn't care about ideology. She looked at this man and made a diagnosis she hadn't expected: the same exhaustion she saw in her own face. The particular erosion of someone who'd been treating a patient that refused to heal.
 
 "Do you believe you're right?" she asked.
 

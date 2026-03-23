@@ -10,7 +10,7 @@ Tirzah's son was seven years old when he first saw the pattern.
 
 They'd walked to the hillside after the morning meal, flatbread torn from the tabun oven, goat cheese, a handful of olives pressed from last season's harvest. Tirzah dressed like a Canaanite farmer's wife now, sandals worn through at the heel from fieldwork. Twenty-two years since fleeing Egypt and she'd almost forgotten what it felt like to wear pleated linen. Almost.
 
-Below them, terraced fields where drought-resistant barley grew in careful rows. The Canaanite hill country had recovered somewhat since the worst years. Population stabilizing, settlements taking root, trade routes cautiously re-emerging. But everyone who'd survived knew it could happen again.
+Below them, terraced fields where drought-resistant barley grew in careful rows. The Canaanite hill country had recovered somewhat since the worst years. Barley coming back in the terraces, olive saplings taking hold where the old groves had burned, a few traders risking the coast road again. But everyone who'd survived knew it could happen again.
 
 "What do you see?" Tirzah asked her son.
 
@@ -28,7 +28,7 @@ He squinted. Then: "They're planting in different places than last year. Moving 
 
 Her heart quickened.
 
-She hadn't chosen to be the one teaching this. She'd been twelve years old, a princess, when the world ended and Nefertari shoved this responsibility into her bloodline like a brand. Some days the resentment rose so fast she had to look away from Ephraim before he saw it in her face, this boy she loved more than breathing, whom she was shaping into a vessel for someone else's war.
+She hadn't chosen this. Twelve years old, a princess, and Nefertari had planted this in her blood like a seed she never asked to carry. Some days the resentment hit so fast she had to turn away from Ephraim before he saw it — this boy she'd kill for, whom she was breaking to someone else's yoke.
 
 She swallowed it. She always swallowed it.
 
@@ -50,15 +50,15 @@ Tirzah knelt beside her son. "Do you remember the stories I've told you? About y
 
 He shook his head.
 
-"Because people stopped seeing connections like the ones you just described. They kept planting the same crops in the same soil until the earth couldn't feed them anymore. They kept building cities that required trade networks, but didn't notice when those networks started failing. They saw each problem as separate (drought here, invasion there, crop failure somewhere else) instead of seeing how everything connected."
+"Because people stopped paying attention. They planted the same crops in the same soil until the earth gave out. They built cities that needed trade, and when the trade dried up they blamed the gods instead of looking at their own fields. Drought here, raiders there, a bad harvest somewhere else — and nobody saw it was all the same rot, spreading."
 
 "Is that why you're teaching me this? To see the connections?"
 
-"Yes. Because someday, maybe not in your lifetime, maybe not for a thousand years, the unraveling will threaten again. And when it does, our descendants need to see it coming. They need to read the warning signs early enough to stop it."
+"Yes. Because the rot comes back. Maybe not in your life, maybe not for a thousand years. But it comes back. And when it does, someone in this family needs to smell it early enough to do something."
 
 "Can it be stopped?"
 
-Tirzah thought of Amenhotep, wherever he was now. Egypt, probably. Building his offensive network. Teaching his people that the break was inevitable and control was the only answer.
+Tirzah thought of Amenhotep. Egypt, probably. Sitting in a stone room, training his people to grip tighter while she knelt in the dirt teaching a seven-year-old to watch barley grow.
 
 "I believe it can," she said. "But only if we recognize it in time. That's why you need to learn this. Not just with your mind, with your blood. With the memory you inherited from Tausret."
 
@@ -70,7 +70,7 @@ The question caught her off guard. "What do you mean?"
 
 "Sometimes I dream about things I've never seen. A big city with canals. Stone buildings. Lots of people. And then... fire. Screaming. Everyone running." His voice got smaller. "Is that real? Or just nightmares?"
 
-Tirzah pulled him close. The inheritance was activating. He was seeing Pi-Ramesses. Seeing the fall through Tausret's eyes, filtered through Tirzah's memories, encoded in his own developing mind.
+Tirzah pulled him close. He was seeing it. Pi-Ramesses. The fire, the screaming — the same nightmare she'd carried since she was his age, now rooting in him.
 
 "It's real," she said softly. "The city you're seeing, it was real. Your grandmother Tausret lived there. I dream it too." She held him tighter. "Sometimes the people who came before us leave things behind. Not just stories or songs. Deeper things. Things the body remembers even when the mind forgets. Nefertari found a way to make those memories stronger. So they'd pass from mother to child. That's what you're feeling. You're remembering through *us*."
 
@@ -88,7 +88,7 @@ Ephraim thought about it. "Like... like I want to help too. Like their survival 
 
 *Good,* Tirzah thought. And then, unwanted: *I'm sorry.*
 
-Because she knew what that feeling would cost him. What it had cost her. A life spent watching for cracks in the world instead of simply living in it. She'd been a princess once. She could have been anything. Instead she was a farmer in a foreign country, teaching her seven-year-old to carry ancestral nightmares.
+Because she knew what it cost. What it was still costing her. Calluses instead of linen. Grinding grain instead of reading in a palace library. She could have been anything. Instead she was on her knees in foreign dirt, feeding her son nightmares and calling it a legacy.
 
 She stood and brushed the dirt from her tunic. "Come. There's more to learn before dark."
 
@@ -102,7 +102,7 @@ The Phoenician trader spoke, older now, graying, hands stained with the murex-sh
 
 "Grain prices in Sidon," he said. "Rising faster than drought conditions explain. Could be merchant hoarding. Could be the start of something worse, resource anxiety triggering selfishness."
 
-Recognition flashed through her. The trader had no inherited memory, no bloodline connection to Tausret. But years of training had taught him to read the signs.
+Something loosened in her chest. No blood in him, no dreams. But she'd spent years teaching him to read rot before it spread, and now he could.
 
 "You've learned well," Tirzah said.
 
@@ -126,11 +126,11 @@ Tirzah's left hand moved before she could stop it. Reached to the side, toward a
 
 "Every day," she said. "I was twelve when they walked in opposite directions. I keep seeing it, the doorway, the two of them moving apart, how neither one turned around." She shook her head. "That's the image I carry. Not a physician's image. A child's."
 
-She looked at her weathered hands. "I'll probably die here. My son will grow up Canaanite, not Egyptian. By Generation 5, our family won't even remember we were royalty once. But the genetic memory will persist. And when the unraveling threatens again, someone in our bloodline will see it coming."
+She looked at her weathered hands. "I'll die here. My son will grow up Canaanite, not Egyptian. Five generations out, nobody will remember we were royalty. But the seed Nefertari planted — that'll still be growing. And when the rot comes back, someone in this line will taste it in the soil before anyone else."
 
 "You really believe that?" the priestess asked.
 
-"I have to. Otherwise Tausret died for nothing. Otherwise we're just refugees hiding in hills instead of people building something that lasts."
+"I have to. Otherwise my mother died for nothing and we're just refugees with dirty hands."
 
 ---
 
@@ -154,7 +154,7 @@ Abdi-Milki studied her. "Who are you?"
 
 "This healer does."
 
-He folded his arms. Behind him, through the open courtyard, she could see Sidon's harbor, twenty-three merchant vessels at anchor, half of them sitting idle because their captains couldn't fill the holds. The city was already bleeding. It just hadn't admitted it yet.
+He folded his arms. Behind him, through the open courtyard, she could see Sidon's harbor, twenty-three merchant vessels at anchor, half of them sitting idle because their captains couldn't fill the holds. The city was already rotting. It just hadn't smelled itself yet.
 
 "Even if you're right," he said, "I can't convince the council to resume the routes on the word of a woman from the hills. They're scared. Scared men hoard. That's human nature."
 
@@ -192,7 +192,7 @@ Within a month, the grain was moving again.
 
 At harvest, a runner arrived from Sidon with the collar wrapped in cedar cloth and a sealed potsherd from Abdi-Milki: *The healer from the hills was right. The routes held. So did we.*
 
-Tirzah held the collar for a long time. It felt lighter than she remembered, as if the part of her it had represented (the princess, the daughter, the girl who'd been somebody) had burned off somewhere on the road to the coast and come back as something else. Something harder and less beautiful and more useful.
+Tirzah held the collar for a long time. It felt lighter. The girl who'd worn it — the princess, the daughter — had burned off somewhere on the road, the way you burn a field to make the next crop stronger.
 
 When she returned home, Ephraim was waiting.
 
