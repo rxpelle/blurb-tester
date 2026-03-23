@@ -191,11 +191,11 @@ Damophon stood. "Enough philosophy. We have a weapon bred to conquer the known w
 
 "And become what?" Menestor hadn't moved from the wall. His voice carried the heaviness of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe."
 
-Lykon spoke for the first time. "There are three hundred families in the Boeotian plain who survive because I showed them where to dig wells. If Alexander marches south, those families are in his path." He looked at his dirty hands. "I don't care about the experiment. I care about the families."
+Lykon spoke for the first time. "There are three hundred families in the Boeotian plain who survive because I showed them where to dig wells. If Alexander marches south, those families are in his path." He looked at his dirty hands. "I don't care about the experiment. I care about the water table under those farms and the people drinking from it."
 
 "Then warn them," Damophon said. "Get them out."
 
-"I will. But that's not what I'm asking." Lykon looked at Menestor. "I'm asking whether this council is going to spend the night debating philosophy while I go home and start knocking on doors."
+"I will. But that's not what I'm asking." Lykon picked soil from under his thumbnail — the gesture of a man who'd spent more of his life underground than in rooms like this. "I'm asking whether this council is going to spend the night debating philosophy while I go home and start knocking on doors."
 
 Moths tapped against the oil lamp Aristotle had lit against the gathering dark. No one spoke.
 

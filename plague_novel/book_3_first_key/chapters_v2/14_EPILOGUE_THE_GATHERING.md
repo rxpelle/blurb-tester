@@ -130,7 +130,7 @@ He stood in the doorway. The warmth was there, in his chest, where it always was
 
 Jesus closed his eyes. Felt the reaching. Felt the weight of all those generations — every hand that had opened on empty air, every lung that had searched for a missing rhythm, every body that had carried the shape of a love it had never lived. All of it in him. All of it building.
 
-All of it about to spill into the world as teaching, as parable, as the simple radical claim that love was the force beneath everything — beneath systems, beneath empires, beneath the rise and fall of civilizations — and that it had been traveling for a very long time to reach this particular morning, this particular doorway, this particular carpenter standing with his hand extended into empty air. His heart so full of other people's love that he thought it might kill him. Knowing it wouldn't, because the love had survived everything else — death, exile, empire, a thousand years of silence — and it would survive him too.
+All of it about to spill into the world as teaching, as parable, as the simple radical claim that love was the force beneath everything — beneath systems, beneath empires, beneath the rise and fall of civilizations — and that it had been traveling for a very long time to reach this particular morning, this particular doorway, this particular carpenter standing with his hand extended into empty air. His heart so full of other people's love that his hands shook with it. Knowing it wouldn't break him, because the love had survived everything else — death, exile, empire, a thousand years of silence — and it would survive him too.
 
 He opened his eyes. Lowered his hand. Picked up his tools.
 

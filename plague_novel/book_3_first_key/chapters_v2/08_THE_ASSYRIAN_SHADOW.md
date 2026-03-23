@@ -289,7 +289,7 @@ She sat with his body until the sun was full up. The camp was stirring around he
 
 She wrapped him in the soldier's bedroll. Said the words the network said when one of their own died. Not prayers, exactly, but an acknowledgment. A recording.
 
-*Micah ben-Ezra. Generation 16, diluted line. Age sixteen. The seeing activated age fourteen. Died of plague while aiding Assyrian survivors. 701 BCE. His warnings saved Jerusalem. His interventions saved twelve hundred camp followers. His compassion killed him.*
+*Micah ben-Ezra. Sixteen years old. The seeing came to him at fourteen. He died of plague in a camp outside Jerusalem, 701 BCE, because he would not leave people who were dying. His warnings saved the city. His hands saved twelve hundred lives. His compassion killed him.*
 
 ---
 
