@@ -17,7 +17,7 @@ The pass stank of sulfur from the hot springs and the animal-hide smell of eight
 
 The ancestral memory had shown him the pattern three nights ago: narrow pass, vastly superior enemy force, defensive position that couldn't hold indefinitely. Small force sacrificing itself to buy time for larger strategic victory.
 
-It was the same pattern encoded in his bloodline from the Bronze Age Collapse. Cities buying time for refugees to escape. Rear guards holding mountain passes while civilization fled. Individual sacrifice for collective survival.
+It was the same pattern encoded in his bloodline from the Bronze Age Collapse. Cities buying time for refugees to escape. Rear guards holding mountain passes while civilization fled.
 
 King Leonidas didn't know he was reenacting an ancient pattern.
 
@@ -64,8 +64,6 @@ Amenhotep's side.
 "Spartans also don't waste lives on symbolic gestures." The emissary's eyes found Aristodemos across the camp. Held his gaze. "Strategic advisors understand this. Sometimes retreat serves victory better than death."
 
 A message within the message. Carrier to carrier.
-
-*The experiment requires both networks surviving. Don't die here.*
 
 Aristodemos felt it settling over him. Amenhotep's side was offering him an exit. Not out of compassion, but out of respect for the three-thousand-year experiment. Nefertari and Amenhotep's agreement: both approaches run in parallel, both networks survive to test their philosophies.
 

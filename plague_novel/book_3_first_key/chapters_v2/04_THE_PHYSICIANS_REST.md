@@ -106,7 +106,7 @@ Deborah would find this in the morning.
 
 ## SCENE 6: The Harbor at Dawn
 
-Nefertari woke to fever. The same fever she'd diagnosed in Tausret a lifetime ago, refugee-borne, swift, merciless. Fitting, somehow. The physician killed by the same collapse she'd spent her life preventing.
+Nefertari woke to fever. The same fever she'd diagnosed in Tausret a lifetime ago, refugee-borne, swift, merciless. The physician killed by the same collapse she'd spent her life preventing.
 
 Deborah was beside her when consciousness returned. The girl's face was calm, trained not to panic.
 
@@ -156,7 +156,7 @@ It never did. Not like that.
 
 That was the memory the fever chose. Not the Protocol. Not the keys. Not the argument or the hand-hold or the split. A mispronounced word and a laugh she could never repeat and the way his face had looked in lamplight when he heard it.
 
-*That* was what would survive her. That was what would pass forward through the bloodline — not the philosophy, not the old skill, but the shape of a love so deep it had no name in any language she knew. Her descendants would inherit it without knowing what it was. They'd feel something stir — a warmth behind the ribs, an ache in the throat, a reaching for someone who wasn't there — and they'd think it was their own feeling. Their own loss. They'd never know it was hers. Nefertari's. Carried forward through three thousand years of blood because the body remembers what the mind cannot hold.
+*That* was what would survive her. That was what would pass forward through the bloodline — not the philosophy, not the old skill, but the shape of a love so deep it had no name in any language she knew. Her descendants would inherit it without knowing what it was. They'd feel something stir — a warmth behind the ribs, an ache in the throat, a reaching for someone who wasn't there — and they'd think it was their own feeling. Their own loss. They'd never know it was hers.
 
 "Amenhotep..." she breathed. The eighty-four faces blurred above her. "Tell him..."
 
@@ -166,7 +166,7 @@ But Amenhotep had been dead for thirteen years. She knew that. Had known it when
 
 Deborah leaned close, her hand on Nefertari's forehead. "Grandmother—"
 
-"He was wrong about everything." Her voice was barely there. "And he cared more than anyone I've ever known. And I loved him the way the lung loves air. Not because it chooses to. Because it was made that way."
+"He was wrong about everything." Her voice was barely there. "And he cared more than anyone I've ever known. And I loved him the way the lung loves air."
 
 "Rest now," Deborah said. "Rest."
 

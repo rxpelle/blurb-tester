@@ -145,7 +145,7 @@ Kleomenes' pulse changed. Not gradually. Immediately. His heart found a rhythm t
 
 He didn't understand it. His blood did.
 
-And Aristonike — whose hands had trembled for three years, whose fingers shook too badly some mornings to hold a stylus — went still. The tremor stopped. Not diminished. *Stopped*. As if his proximity had quieted something in her damaged nervous system that fifteen years of pneuma exposure had set permanently vibrating. She stared at her own hand on his arm. Steady. For the first time in longer than she could remember, completely steady.
+And Aristonike — whose hands had trembled for three years, whose fingers shook too badly some mornings to hold a stylus — went still. The tremor stopped. Not diminished. *Stopped*. She stared at her own hand on his arm. Steady. For the first time in longer than she could remember, completely steady.
 
 It terrified them both. Not because it was strange, but because it felt inevitable — as if the blood already knew how this ended and was telling them anyway: *this will be worth it. And it will cost everything.*
 

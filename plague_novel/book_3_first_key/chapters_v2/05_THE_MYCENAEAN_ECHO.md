@@ -39,7 +39,7 @@ His assistant stared. "You're planning to run."
 
 "I'm planning to survive. There's a difference."
 
-Six months later, he sailed with two hundred seventeen refugees on twelve hide-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. He knew which harbors were deep enough without checking charts, knew the storm seasons by a calendar no one had taught him, knew which trade routes still functioned because something in his blood had navigated this water before. Knowledge encoded from previous migrations his bloodline had survived.
+Six months later, he sailed with two hundred seventeen refugees on twelve hide-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. He knew which harbors were deep enough without checking charts, knew the storm seasons by a calendar no one had taught him, knew which trade routes still functioned because something in his blood had navigated this water before.
 
 When the navigator called "Land ahead" and the Nile Delta materialized through morning haze, his breath caught. Not recognition exactly. Anticipation. The feeling of approaching someone who would understand what he was.
 
@@ -99,7 +99,7 @@ The safe house was quiet except for the distant sound of Egyptian market vendors
 
 "I was right," he said. "I remember that morning. I can't remember what she looked like standing in the doorway. I can't remember her voice saying my name. But I remember the almond in the wine and the laugh she couldn't repeat, and I will carry that until whatever I am stops being."
 
-Deborah didn't move. She recognized the shape of his grief — not from her own life, but from the stories Nefertari had told her before she died, and from something older, something carried in the inheritance. Four generations of loss braided into her inheritance. She didn't know yet that what Taharqa described — the unrepeatable moment, the body reaching for what was gone — was the same wound Nefertari had carried for Amenhotep across forty-seven years. The same ache that would surface in bloodlines three thousand years from now, in people who'd never know whose hands they were mourning.
+Deborah didn't move. She recognized the shape of his grief — not from her own life, but from the stories Nefertari had told her before she died, and from something older, something carried in the inheritance.
 
 "I know that shape," she said. "Nefertari told me once — at the end, when she was dying — about the man she'd built the Protocol with. Amenhotep. He mispronounced a word in the Per Ankh when they were students. Said *heset* instead of *hesat* — the cow instead of the jar. She laughed, a sound she could never reproduce on purpose. He said, *Do that again.* She couldn't." Deborah's voice was steady but her eyes were distant, carrying someone else's memory. "She spent forty-seven years reaching for that laugh. It was the last thing she spoke about before she died."
 

@@ -26,7 +26,7 @@ He squinted. Then: "They're planting in different places than last year. Moving 
 
 "Because..." He paused, thinking. "Because if you plant the same thing in the same soil too many times, the earth gets tired. You have to let it rest. Rotate."
 
-Her heart quickened. That was pattern thinking, the way physicians learned to see connections. Recognizing how actions circle back. Understanding how overuse depletes resources and creates cascading failures.
+Her heart quickened.
 
 She hadn't chosen to be the one teaching this. She'd been twelve years old, a princess, when the world ended and Nefertari shoved this responsibility into her bloodline like a brand. Some days the resentment rose so fast she had to look away from Ephraim before he saw it in her face, this boy she loved more than breathing, whom she was shaping into a vessel for someone else's war.
 
@@ -106,7 +106,7 @@ The Phoenician trader spoke, older now, graying, hands stained with the murex-sh
 
 "Grain prices in Sidon," he said. "Rising faster than drought conditions explain. Could be merchant hoarding. Could be the start of something worse, resource anxiety triggering selfishness."
 
-Recognition flashed through her. The trader had no inherited memory, no bloodline connection to Tausret. But years of training had taught him to read the signs. The defensive network wasn't just about inheritance; it was about *teaching* the physician's eye.
+Recognition flashed through her. The trader had no inherited memory, no bloodline connection to Tausret. But years of training had taught him to read the signs.
 
 "You've learned well," Tirzah said.
 

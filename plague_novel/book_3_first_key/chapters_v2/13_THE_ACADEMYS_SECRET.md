@@ -401,19 +401,13 @@ Neither side had known the boy. Neither had thought to ask whether the conqueror
 
 Theophrastus sealed his scrolls that night.
 
-He sat alone in the Lyceum's peripatos, the covered walkway where Aristotle had paced while teaching, the stone columns warm from the day's sun. The night air smelled of olive trees and cooling stone. And a grief he couldn't explain settled over him — heavier than Alexander, heavier than the failed experiment, heavier than anything that belonged to his own life. A bone-deep certainty: *someone I loved chose differently than I did, and we both lost everything.*
+He sat alone in the Lyceum's peripatos, the covered walkway where Aristotle had paced while teaching. The night air smelled of olive trees and cooling stone. And a grief he couldn't explain settled over him — heavier than Alexander, heavier than the failed experiment, heavier than anything that belonged to his own life. A bone-deep certainty: *someone I loved chose differently than I did, and we both lost everything.*
 
 He sat on the garden's stone bench. It was warm from the day's sun, holding heat hours after the source had gone. The warmth felt like someone else's hand, and the feeling was so specific and so old that he knew it didn't belong to him.
 
-Eight hundred fifty-four years. That's how long a love could echo through blood without a name.
-
-He didn't know — couldn't know — that the love would keep building for another three and a half centuries. That it would crescendo in a bloodline that led to a carpenter's son in Galilee who would feel the accumulated weight of twelve hundred years of encoded love and do something no carrier had ever done: speak it aloud. Give it a name. Tell the world that the deepest thing in the blood wasn't the old skill or collapse prevention or strategic thinking — it was *this*. This warmth on stone that should have cooled hours ago. This hand reaching left in the dark.
-
-But that was centuries away. Tonight, Theophrastus wept without understanding why, and felt — for the first time — that the echo was not fading.
+Theophrastus wept without understanding why, and felt — for the first time — that the echo was not fading.
 
 It was gathering.
-
-Above Theophrastus, the same stars that had watched Nefertari split the network burned on indifferently. The experiment continued. And somewhere in the bloodlines of both networks, future carriers were already being shaped by this moment, dreaming Alexander's conquests, feeling his empire's collapse, inheriting the question neither side could answer alone. And inheriting something else, too. Something that had no name in any language living or dead — not yet, not for another three hundred and fifty-eight years — but that was building, building, building in the inheritance. A warmth on the left side. A reaching. A rhythm searching for its match. And a love so old and so deep that when it finally found its voice, it would change the world.
 
 ---
 

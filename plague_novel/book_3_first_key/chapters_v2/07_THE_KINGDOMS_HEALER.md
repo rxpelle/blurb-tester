@@ -69,7 +69,7 @@ She paused — deliberately. Let the weight of the words settle into him.
 
 David waved a hand, dismissive, kingly. "Nathan says God will make His choice known. The prophet sees further than the physician."
 
-Miriam kept her face still. Nathan saw visions. She saw systems. The difference was that systems didn't care whether you believed in them.
+Miriam kept her face still. Nathan saw visions. She saw systems.
 
 "Nathan sees comfort," she said carefully. "I see trade routes. Northern tribes are already operating independently. Phoenician alliances are shifting. Three caravans rerouted through Megiddo last month instead of Jerusalem, hedging against instability. If Israel fractures, it destabilizes the whole region."
 
@@ -114,12 +114,6 @@ Miriam said nothing. Let the king arrive at the prescription himself.
 "That's what you wanted me to see." David's voice was flat. "Not the succession crisis. The foreign hand waiting to shape it."
 
 "I wanted you to see all of it. The choice is yours."
-
-In Egypt, Amenhotep's people would have already made the choice for him. Identified the optimal son, eliminated the competition, engineered the succession. Efficient. Ruthless. Certain.
-
-Miriam's way was messier. She could show David the trajectory, let him choose. Risk that he'd choose wrong, that Adonijah would revolt anyway, that the Egyptian would outmaneuver them both.
-
-Even when control would be easier. Even when the man at the colonnade was already composing his report.
 
 David turned back to his arguing sons. His left hand drifted on the armrest, slow, unconscious, reaching toward the empty space beside him on the bench. The gesture was barely there. But Miriam's inheritance recognized it before her mind did, and her own hand tightened on the ring.
 
@@ -245,7 +239,7 @@ The Egyptian member set down his cup. Miriam's hand found the ring on her finger
 
 "And it burned anyway."
 
-Twelve adults looked at a ten-year-old girl and had nothing to say. The inheritance was in her daughter's voice — not analysis, not philosophy, but the raw pattern underneath all of it: carriers warning, collapse coming, cities burning. Ten generations of prevention. And every city burned.
+Twelve adults looked at a ten-year-old girl and had nothing to say.
 
 Miriam wanted to explain — context, the collapses they'd softened even if they couldn't stop them. But David's voice was in her head: *Your way is kinder. Their way works more often.*
 

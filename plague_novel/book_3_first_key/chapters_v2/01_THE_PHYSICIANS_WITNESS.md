@@ -213,15 +213,7 @@ Nefertari began gathering scrolls.
 
 Outside, Pi-Ramesses continued its slow unraveling. Refugees kept arriving. Disease kept spreading. The Bronze Age kept dying.
 
-But somewhere in Nefertari's mind, a different thought was crystallizing:
-
-*If knowledge can be encoded in blood, then the fall becomes survivable. If memory can be made genetic, then civilizations can learn from their deaths. If the pattern can be preserved, then maybe — maybe — the next time won't end like this.*
-
 She didn't know how yet. Only that she had to try.
-
-Because if Tausret's final request had taught her anything, it was this: The only thing worth saving from the wreckage wasn't buildings or gold or empires.
-
-It was knowing how *not to do this again.*
 
 Nefertari rolled the last scroll, secured it, and headed for the door.
 
@@ -284,7 +276,7 @@ She knew this wound. Had watched it shape him since they were young.
 
 "Don't." Her voice cut like bronze. "Don't finish that sentence."
 
-A lifetime of collaboration across the workshop between them. Two completely opposite conclusions drawn from the same data. And the terrible knowledge (which neither would say aloud) that they might both be right.
+A lifetime of collaboration across the workshop between them. Two completely opposite conclusions drawn from the same data.
 
 Amenhotep broke first, turning back to his workbench. His hands found the bronze disc and turned it slowly, the gesture he made when thinking, always turning, always examining from every angle.
 
@@ -362,7 +354,7 @@ Finally, Amenhotep nodded. "Four keys to you. Three to me. We split Tausret's bl
 
 "Agreed."
 
-They shook hands like traders sealing a contract. Like scholars agreeing on experimental parameters. Like two people who'd once been colleagues acknowledging they were now opponents in a game that would last three thousand years.
+They shook hands like traders sealing a contract. Like scholars agreeing on experimental parameters.
 
 The bronze keys lay on her bench. Seven impossible things she'd poured her life into, each one dangerous enough to reshape the world.
 

@@ -43,7 +43,7 @@ It was true. They'd been planning Solomon's Temple for three years now, designin
 
 But she also brought something else. Something Adoniram didn't know about.
 
-The Pattern Eye lay hidden in a sealed chamber beneath where they stood, waiting for the foundation stone that would protect it for generations. Generation 9 of Nefertari's side, and Shiphra was doing what her bloodline had done since the beginning: hiding keys, preserving knowledge, preventing the fall.
+The Pattern Eye lay hidden in a sealed chamber beneath where they stood, waiting for the foundation stone that would protect it for generations. Generation 9 of Nefertari's side.
 
 "I wanted to check the eastern foundation measurements," Adoniram said, unrolling his tablets. "The column placements. Something about the spacing seems... unusual."
 

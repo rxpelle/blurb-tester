@@ -193,7 +193,7 @@ Rachel sat down. Took the clay tablet someone handed her, a list of exile famili
 
 Rachel nodded. Made a mark on the tablet. Moved to the next item.
 
-This was what people like her did. They converted grief into action. They took the rage and the loss and the phantom ache in the left hand and they turned it into lists, into networks, into the patient work of making sure that when the next collapse came — and it would come, it always came — someone would be positioned to see it, to warn, to preserve what mattered.
+This was what people like her did. They converted grief into action.
 
 She worked until dawn grayed the windows. Then she walked back through the waking exile quarter, past Judean merchants setting up stalls beside Babylonian ones, past children playing in two languages, past a world rebuilding itself from wreckage the way worlds always did.
 
