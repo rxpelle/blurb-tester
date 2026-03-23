@@ -283,7 +283,7 @@ In the last hours, he spoke in fragments — Nefertari's memories mixing with hi
 
 He died just before dawn. Quietly, like a lamp running out of oil. His breathing stopped, and Tamar's lungs kept searching for the rhythm — expanding, pausing, listening for the inhale that would tell her body when to exhale. Finding nothing. Just her own air in a tent that smelled of fever and pyres and the particular silence of a person no longer breathing beside her.
 
-Her left hand moved — the ring glinting in the dawn light that seeped through tent canvas. Reached to the side — not toward Micah's body but past it, toward something further, someone older. The phantom hand. The missing half. A grief so old it had lost its name and become pure sensation. The bronze ring carried the reaching forward, a dead architect's tool on a murderer's hand on a grieving woman's hand on a hand that had held a boy while he died in a plague camp, and all of it — every layer — reaching for the same absence.
+Her left hand moved — the ring glinting in the dawn light that seeped through tent canvas. Reached to the side — not toward Micah's body but past it, toward something further, someone older. A grief so old it had lost its name and become pure sensation. The bronze ring on her finger, warm from a dead boy's hand, reaching for the same absence it had always reached for.
 
 She sat with his body until the sun was full up. The camp was stirring around her — survivors waking, following the sanitation protocols Micah had taught them, boiling water, checking the sick. His interventions working even after he'd stopped breathing.
 

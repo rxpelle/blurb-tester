@@ -17,9 +17,7 @@ It never did.
 
 That was the problem.
 
-The defensive network's records showed a diluted carrier bloodline in Athens, descendants of a Mycenaean palace scribe who'd fled during the Bronze Age Collapse, joined Tirzah's generation, married into Greek refugee families. The bloodline had diluted over twenty-four generations, scattered across Athens, Sparta, Thebes. Most branches showed no activation at all.
-
-But the network's models predicted one carrier would activate in Athens around 420 BCE. Strong inheritance. Philosophical temperament. Natural systems thinker.
+The network's models had predicted an activation in Athens around 420 BCE. Strong inheritance. Philosophical temperament. Natural systems thinker.
 
 The models had pointed to Socrates.
 

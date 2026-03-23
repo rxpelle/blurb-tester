@@ -13,9 +13,7 @@
 
 The Oracle at Delphi was too accurate. Five years Kleomenes had watched, and the pattern refused to make sense.
 
-Diluted bloodlines delivered inconsistent prophecies — that was the established model.
-
-But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways a diluted bloodline shouldn't produce.
+A diluted branch shouldn't produce this level of consistency. But Delphi was *systematically accurate* — and that meant something else was operating.
 
 He stood now in the crowd along the Sacred Way, watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The Phaedriades cliffs towered behind the temple like broken walls. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
