@@ -112,12 +112,12 @@
 ### Chapter 8 - The Assyrian Shadow (~6,400 + ~850 interlude) — REVISED
 **Date:** 701 BCE
 **Location:** Jerusalem under Assyrian siege
-**POV:** Judith / Micah
+**POV:** Tamar / Micah
 - Micah the prophet as diluted carrier during Sennacherib's siege
-- Micah's death dramatized on-page: goes to plague camps, Judith finds him with buboes, dies before dawn
-- Judith's distinct voice: exhausted doubt, first carrier to question whether the enterprise is worth the cost
+- Micah's death dramatized on-page: goes to plague camps, Tamar finds him with buboes, dies before dawn
+- Tamar's distinct voice: exhausted doubt, first carrier to question whether the enterprise is worth the cost
 - Jesus teaser epilogue removed
-- Diluted Carrier Protocol emerges through Judith's internal reflection, not meeting
+- Diluted Carrier Protocol emerges through Tamar's internal reflection, not meeting
 **Interlude:** Nekhen (offensive) tries to probe Temple for Pattern Eye during siege. Defensive surveillance blocks him. Discovers diluted carrier recruitment strategy: "Every prophet they miss is one we can claim."
 **Continuity:** TBD
 

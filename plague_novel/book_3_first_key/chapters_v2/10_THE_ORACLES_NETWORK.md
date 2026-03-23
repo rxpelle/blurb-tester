@@ -1,7 +1,7 @@
 # BOOK 3: THE FIRST KEY - CHAPTER 10
 ## "The Oracle's Network"
 
-**Timeline:** 550 BCE (638 years after Genesis Protocol creation)
+**Timeline:** 550 BCE
 **Location:** Delphi, then Athens
 **Generation:** 20 (Pythia Aristonike, age 52) and 20 (Kleomenes of Athens, age 38)
 **POV Character:** Kleomenes
@@ -13,15 +13,15 @@
 
 The Oracle at Delphi was too accurate. Five years Kleomenes had watched, and the pattern refused to make sense.
 
-Diluted bloodlines—distant descendants with weak blood memory—delivered inconsistent prophecies. Sometimes accurate collapse-sight, sometimes complete nonsense, always unreliable. That was the established model. The inheritance degraded with distance from core bloodlines. Prophecy became noise.
+Diluted bloodlines (distant descendants with weak inherited memory) delivered inconsistent prophecies. Sometimes accurate collapse-sight, sometimes complete nonsense, always unreliable. That was the established model. The inheritance degraded with distance from core bloodlines. Prophecy became noise.
 
 But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways a diluted bloodline shouldn't produce.
 
-He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings from every city-state in Greece, tripods and statues gleaming in the mountain light — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them — six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
+He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings from every city-state in Greece, tripods and statues gleaming in the mountain light — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them, six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
 Except Kleomenes knew the Oracle wasn't divine.
 
-The current Pythia was Aristonike, age fifty-two, demonstrating blood memory activation consistent with Generation 20 defensive network bloodline. Diluted branch—her lineage traced back to Egyptian bloodlines from seven generations ago—but active nonetheless.
+The current Pythia was Aristonike, age fifty-two, demonstrating ancestral memory activation consistent with Generation 20 defensive network bloodline. Diluted branch (her lineage traced back to Egyptian bloodlines from seven generations ago) but active nonetheless.
 
 Which meant she should deliver *some* accurate seeing mixed with plenty of confused visions.
 
@@ -29,15 +29,15 @@ Instead, Delphi delivered systematic geopolitical analysis disguised as divine p
 
 The Oracle spoke: "*If Croesus crosses the Halys, he will destroy a great empire.*"
 
-The crowd murmured. Croesus smiled. Clear prophecy—attack Persia, destroy their empire, expand Lydian power.
+The crowd murmured. Croesus smiled. Clear prophecy: attack Persia, destroy their empire, expand Lydian power.
 
 Kleomenes felt cold settling into his bones.
 
-That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Classic collapse-sight—Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
+That wasn't prophecy. That was *strategy*. Deliberately ambiguous wording that would seem like divine approval while actually warning of self-destruction. Classic collapse-sight: Croesus' empire was overextended, Persia was consolidating, war would destroy Lydia, not Persia.
 
 But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.
 
-Unless Delphi wasn't just one woman with thin blood delivering confused visions.
+Unless Delphi wasn't just one woman with a thin line delivering confused visions.
 
 Unless Delphi was something much more sophisticated.
 
@@ -53,7 +53,7 @@ The first thing he noticed: the Hosioi priests — the five who "interpreted" th
 
 All of them. Every one.
 
-He broke into the restricted archives on a feast night when the temple was loud with celebration — a low stone room behind the adyton, its wooden pigeonhole shelves holding wax tablets and papyrus scrolls, the heavy pivot-socket door sealed with a bronze pin. Found scrolls organized not by date but by *region* — Lydia, Ionia, Egypt, the Levant. Each scroll cross-referencing prophecies with geopolitical outcomes spanning two centuries. Margin notes in carrier shorthand he recognized from the defensive network's communication protocols.
+He broke into the restricted archives on a feast night when the temple was loud with celebration — a low stone room behind the adyton, its wooden pigeonhole shelves holding wax tablets and papyrus scrolls, the heavy pivot-socket door sealed with a bronze pin. Found scrolls organized not by date but by *region*: Lydia, Ionia, Egypt, the Levant. Each scroll cross-referencing prophecies with geopolitical outcomes spanning two centuries. Margin notes in carrier shorthand he recognized from the defensive network's communication protocols.
 
 One message, encoded between Delphi and operatives in Sardis:
 
@@ -63,13 +63,13 @@ His hands were shaking. Not one oracle. A *network*. Institutional, systematic, 
 
 "You're the one from Athens."
 
-Kleomenes spun. A woman stood in the doorway—mid-fifties, priestess robes, eyes showing the recognition he'd learned to identify.
+Kleomenes spun. A woman stood in the doorway. Mid-fifties, priestess robes, eyes showing the recognition he'd learned to identify.
 
 Aristonike. The current Pythia.
 
-"Generation twenty," Kleomenes said carefully. "Defensive network. Investigating why Delphic prophecies are too accurate for diluted blood."
+"Generation twenty," Kleomenes said carefully. "Defensive network. Investigating why Delphic prophecies are too accurate for a diluted line."
 
-"Because we're not just scattered descendants with thin blood." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic."
+"Because we're not just scattered descendants with thin inheritance." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic."
 
 ---
 
@@ -77,15 +77,15 @@ Aristonike. The current Pythia.
 
 Aristonike led him deeper into the temple complex — past the inner cella with its eternal flame and Apollo's gold statue, down a narrow limestone stairway that smelled of sulphur and wet stone, to rooms visitors never saw. She unlocked a heavy door. Inside: five women, ages ranging from early twenties to late sixties, all showing the markers. All practicing prophecy delivery.
 
-"Diluted bloodlines," Aristonike said. "Recruited. Trained in the seeing. Rotated through the Pythia role, supported by full-blooded priests." She watched them with something between pride and grief. "We turned the noise into signal."
+"Diluted bloodlines," Aristonike said. "Recruited. Trained in the seeing. Rotated through the Pythia role." She watched them with something between pride and grief. "We turned the noise into signal."
 
 "Rotate?" Kleomenes noticed how the older women's hands trembled, how their eyes had a distant quality even when not prophesying. "Why rotation?"
 
-Aristonike's expression darkened. "The sacred vapors. Pneuma—gases rising from a geological fault beneath the temple. They create the dissociative state needed for prophecy. But prolonged exposure..." She gestured to an elderly woman in the corner, mid-sixties, who rocked in place while staring at nothing. "Neurological damage. Tremors. Memory loss. Confusion that never fully clears. We limit each Pythia to five-year terms. Some manage seven. None should serve longer than ten."
+Aristonike gestured to an elderly woman in the corner, mid-sixties, who rocked in place while staring at nothing. "The sacred vapors. Prolonged exposure does that. Tremors. Memory loss. Confusion that never fully clears. We limit each Pythia to five-year terms. None should serve longer than ten."
 
 "And you?" Kleomenes studied Aristonike's face more carefully. The slight tremor in her left hand. The way her eyes sometimes drifted mid-sentence.
 
-"Fifteen years." She said it flatly. "I know. Too long. But I'm full-blooded—the seeing is strong enough in me to distinguish prophetic visions from gas-induced hallucinations. Most with diluted blood can't after a few years."
+"Fifteen years." She said it flatly.
 
 She paused. Her eyes drifted — not the way they did during prophecy, but sideways, inward, as if chasing something through a corridor she couldn't quite see.
 
@@ -93,7 +93,7 @@ She paused. Her eyes drifted — not the way they did during prophecy, but sidew
 
 "Whose was it?"
 
-"I don't know. Someone's. One of theirs. One of the ones who came before." She pressed her fingers against her temple — hard, the way you press a wound to stop bleeding. "It happens more now. Three, four times a day. I'll be in the middle of a prophecy session and suddenly I'm certain — *certain* — that I grew up near a river with reeds and someone was teaching me to grind herbs and my name was — it wasn't Aristonike. And then it passes and I don't know if it was the pneuma or the blood or if there's even a difference anymore."
+"I don't know. Someone's. One of theirs. One of the ones who came before." She pressed her fingers against her temple — hard, the way you press a wound to stop bleeding. "It happens more now. Three, four times a day. I'll be in the middle of a prophecy session and suddenly I'm certain — *certain* — that I grew up near a river with reeds and someone was teaching me to grind herbs and my name was — it wasn't Aristonike. And then it passes and I don't know if it was the pneuma or the ancestral memory or if there's even a difference anymore."
 
 She looked at her hands. The left one was shaking. The right was still.
 
@@ -141,7 +141,7 @@ Aristonike smiled grimly. "The Oracle doesn't prevent collapse. We just show it 
 
 They stood in the archive room, Aristonike's hand on his arm from where he'd steadied her after a tremor nearly sent her into the scroll racks.
 
-Kleomenes' pulse changed. Not gradually — immediately. His heart found a rhythm that wasn't his own, locking into a frequency his body had no business knowing. He felt it in his throat, his wrists, the backs of his knees — every pulse point suddenly beating in time with the woman beside him. As if his cardiovascular system had been waiting twenty years for proximity to hers and now refused to maintain its own tempo.
+Kleomenes' pulse changed. Not gradually. Immediately. His heart found a rhythm that wasn't his own, locking into a frequency his body had no business knowing. He felt it in his throat, his wrists, the backs of his knees — every pulse point suddenly beating in time with the woman beside him. As if his cardiovascular system had been waiting twenty years for proximity to hers and now refused to maintain its own tempo.
 
 He didn't understand it. His blood did.
 
@@ -203,7 +203,7 @@ Kiya — Generation 18, forty years running the Memphis safe house — stood so 
 
 "Nefertari's network advises village councils," Kleomenes said. "Delphi advises kings. We can argue philosophy or we can acknowledge what's working."
 
-"And when it stops working? When a Pythia misreads her visions through toxic gas and a war starts because we were *wrong at scale*?" Kiya looked around the circle. "We survived six centuries because we were small. You want to make us big. Empires fall under their own burden — that's the first lesson the blood teaches."
+"And when it stops working? When a Pythia misreads her visions through toxic gas and a war starts because we were *wrong at scale*?" Kiya looked around the circle. "We survived six centuries because we were small. You want to make us big. Empires fall under their own burden — that's the first lesson the inheritance teaches."
 
 The room fractured along the fault line both arguments had exposed. Kleomenes watched the faces — half seeing the opportunity, half seeing the trap.
 
@@ -219,9 +219,9 @@ But Kiya extracted a condition: if any temple became a source of collapse rather
 
 **Five years later. 545 BCE. Delphi.**
 
-Kleomenes watched twelve new recruits complete their training—the latest cohort for a network that now spanned fourteen temples, with three more in development. Dodona expanding. Siwa formalizing. Even smaller shrines requesting training protocols.
+Kleomenes watched twelve new recruits complete their training, the latest cohort for a network that now spanned fourteen temples, with three more in development. Dodona expanding. Siwa formalizing. Even smaller shrines requesting training protocols.
 
-Aristonike instructed the trainees from a chair now. Standing for long periods had become difficult. Her hands shook visibly as she gestured, though her voice remained precise — most days.
+Aristonike instructed the trainees from a chair now. Standing for long periods had become difficult. Her hands shook visibly as she gestured, though her voice remained precise. Most days.
 
 After the session, he brought her water. She took the cup and looked at him, and for three seconds her eyes were blank. Not the prophetic distance he'd grown used to. Not the pneuma haze. Just — absence. As if the woman behind the eyes had stepped out of the room and someone else was looking through them, someone who didn't recognize the man holding the cup.
 
@@ -231,11 +231,11 @@ She blinked. Her face rearranged itself — recognition flooding back in like wa
 
 He said nothing either. But his hands were shaking now, and hers were not.
 
-They stood on Delphi's temple steps, the mountain air sharp with laurel and pine. Below them, pilgrims gathered on the Sacred Way — kings with their retinues, merchants in woolen himations, farmers in rough-spun chitons clutching small clay votives, all seeking knowledge about futures they couldn't see.
+They stood on Delphi's temple steps, the mountain air sharp with laurel and pine. Below them, pilgrims gathered on the Sacred Way: kings with their retinues, merchants in woolen himations, farmers in rough-spun chitons clutching small clay votives, all seeking knowledge about futures they couldn't see.
 
 "Nefertari would be proud," he said.
 
-"Nefertari would be terrified," Aristonike corrected. "We're building exactly the kind of centralized power she split from Amenhotep to avoid. But we're building it with distributed redundancy. Carrier autonomy. Institutional resilience." She leaned against him, and he steadied her without thinking—it had become automatic. "Maybe that's the lesson. Not that centralization is bad, but that centralization without resilience is fragile."
+"Nefertari would be terrified," Aristonike corrected. "We've done exactly what she split from Amenhotep to avoid. Put the knowledge in one place. Made the world come to us." She leaned against him, and he steadied her without thinking — it had become automatic. "But we trained the carriers to think for themselves. Gave them authority to refuse. Made the whole thing so that if Delphi burned tomorrow, the people we trained would still know what to do." She watched the pilgrims below. "Maybe that's the difference. Not whether you gather the knowledge, but whether it can survive losing the place where you gathered it."
 
 She was quiet for a moment. Then: "Kleomenes. What's my mother's name?"
 
@@ -249,7 +249,7 @@ He told her. She repeated it twice, pressing it into her memory like a seal into
 
 Centuries into a three-thousand-year experiment.
 
-And the prophecy network was just beginning. But the woman who'd built it was already leaving — replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own.
+And the prophecy network was just beginning. But the woman who'd built it was already leaving, replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own.
 
 ---
 
@@ -269,13 +269,13 @@ And the prophecy network was just beginning. But the woman who'd built it was al
 
 They met in the corridor behind the adyton — the inner sanctum where the Pythia sat on her bronze tripod above the earth's cleft, breathing the sweet pneuma that rose from the chasm — where the sacred vapors thinned enough to think clearly.
 
-Darius had been stationed at Delphi for six years. Officially, he was a Hosioi -- one of the five priests who interpreted the Pythia's ecstatic utterances into coherent prophecy. Unofficially, he was Generation 19, one of Amenhotep's, embedded in the Oracle's institutional apparatus to study how Nefertari's side had managed to scale blood memory into civilizational influence.
+Darius had been stationed at Delphi for six years. Officially, he was a Hosioi -- one of the five priests who interpreted the Pythia's ecstatic utterances into coherent prophecy. Unofficially, he was Generation 19, one of Amenhotep's, embedded in the Oracle's institutional apparatus to study how Nefertari's side had managed to scale inherited memory into civilizational influence.
 
 He'd learned a great deal. Enough to admire the system even as he worked to subvert it.
 
 The woman who stepped out of the shadow was not someone he'd expected to meet here.
 
-"You're Darius of Siwa." Not a question. She had the blood's way of seeing -- eyes that tracked patterns rather than surfaces. Dark hair threaded with grey. Mid-forties, perhaps. Strong hands, steady despite the pneuma exposure that made most people's extremities shake.
+"You're Darius of Siwa." Not a question. She had the old way of seeing -- eyes that tracked patterns rather than surfaces. Dark hair threaded with grey. Mid-forties, perhaps. Strong hands, steady despite the pneuma exposure that made most people's extremities shake.
 
 "And you're Aristonike," Darius said. "Current Pythia. Generation 20, defensive network. Fifteen years of service, twelve more than the rotation protocol recommends."
 

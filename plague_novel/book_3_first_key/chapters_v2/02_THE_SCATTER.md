@@ -6,21 +6,21 @@
 
 **Three weeks after the split**
 
-She caught herself leaving space on her right side again — enough room for a second person to sit.
+She caught herself leaving space on her right side again, enough room for a second person to sit.
 
 Three weeks at sea, and the body still hadn't learned. Sleeping pressed to the left edge of her mat. Eating with an empty place beside her. Turning to say something and finding only salt air. Twenty years of shared space. The body didn't forget in three weeks. Maybe it never would.
 
 The Phoenician trader's ship smelled of cedar and salt, fish oil and unwashed wool. The hull was built from Lebanon cedar planks joined with mortise-and-tenon pegs, the single square sail patched with linen in three places. Nefertari sat cross-legged on the deck among amphorae of Tyrian purple dye and bales of Byblos papyrus, sharing the midday meal with the crew. Hard emmer bread dipped in olive oil, grilled mackerel, watered wine from a goatskin. She'd traded her medical satchel for a simple traveler's pack, her green-striped linen for undyed wool that wouldn't mark her as Egyptian. Three weeks had weathered her enough that the crew treated her like cargo that could talk. Good. Invisibility was safer than attention.
 
-At the stern, a passenger she hadn't noticed before was watching the same coastline. Young. Egyptian coloring beneath a Phoenician merchant's robe. He'd boarded at Sidon — she remembered because he'd carried no trade goods. A merchant with nothing to sell. His hands were clean, nails trimmed short, the hands of someone who worked with documents, not dye or metal or grain. And he kept his weight on the balls of his feet. Military posture dressed in civilian cloth.
+At the stern, a passenger she hadn't noticed before was watching the same coastline. Young. Egyptian coloring beneath a Phoenician merchant's robe. He'd boarded at Sidon; she remembered because he'd carried no trade goods. A merchant with nothing to sell. His hands were clean, nails trimmed short, the hands of someone who worked with documents, not dye or metal or grain. And he kept his weight on the balls of his feet. Military posture dressed in civilian cloth.
 
-Nefertari looked away. Chewed her bread. Tracked him in the polished bronze of her water cup — the same old skill a physician used to observe a patient who didn't want to be observed. He wasn't studying the coastline. He was studying her.
+Nefertari looked away. Chewed her bread. Tracked him in the polished bronze of her water cup, the same old skill a physician used to observe a patient who didn't want to be observed. He wasn't studying the coastline. He was studying her.
 
-She'd expected this. Amenhotep knew her well enough to guess her first moves, and Amenhotep had institutional resources — temple networks, military contacts, the kind of quiet men who tracked people for copper and asked no questions. Three weeks was long enough for a dispatch from Memphis to reach a Phoenician port. Long enough for someone to board the right ship.
+She'd expected this. Amenhotep knew her well enough to guess her first moves, and Amenhotep had institutional resources: temple networks, military contacts, the kind of quiet men who tracked people for copper and asked no questions. Three weeks was long enough for a dispatch from Memphis to reach a Phoenician port. Long enough for someone to board the right ship.
 
 The question was whether he was sent to follow or to stop.
 
-Rocky harbors, fishing villages, the occasional ruin of what had once been a thriving Bronze Age port. The collapse had reached here too, but Phoenicia was adapting faster than most — their ships still sailed, their trade networks functioned, their cities stood.
+Rocky harbors, fishing villages, the occasional ruin of what had once been a thriving Bronze Age port. The collapse had reached here too, but Phoenicia was adapting faster than most. Their ships still sailed, their trade networks functioned, their cities stood.
 
 That's why she'd chosen this place for the first key. But now the hiding would need to be faster than planned.
 
@@ -30,7 +30,7 @@ The question was: where?
 
 "We approach Byblos," the ship captain said, joining her at the rail. An older man, weathered by decades of Mediterranean trade. "You said you needed a temple. There are three. Ba'alat Gebal's—the patron goddess of Byblos—is oldest."
 
-At the stern, the Egyptian merchant was rolling his sleeping mat. Unhurried. Not looking at her. Which was its own kind of looking — the studied casualness of a man who'd been told to observe without being observed. Nefertari had seen the same behavior in palace guards pretending not to watch Tausret's movements. The body always betrayed the discipline. His shoulders stayed angled toward her even when his face turned away.
+At the stern, the Egyptian merchant was rolling his sleeping mat. Unhurried. Not looking at her. Which was its own kind of looking, the studied casualness of a man who'd been told to observe without being observed. Nefertari had seen the same behavior in palace guards pretending not to watch Tausret's movements. The body always betrayed the discipline. His shoulders stayed angled toward her even when his face turned away.
 
 "How old?"
 
@@ -44,17 +44,17 @@ Nefertari nodded. Durability mattered. The key needed to survive not just time, 
 
 Perfect.
 
-She'd learned this from the fall: institutions failed, but practices persisted. The priestesses might not understand what the Pattern Eye was, but if she could convince them it was sacred—something to be protected and passed down—they'd guard it for generations.
+She'd learned this from the fall: institutions failed, but practices persisted. The priestesses might not understand what the Pattern Eye was, but if she could convince them it was sacred, something to be protected and passed down, they'd guard it for generations.
 
 And somewhere, centuries from now, when Tausret's bloodline needed it, the key would be waiting.
 
 ---
 
-She disembarked first, before the Egyptian merchant, and moved through the harbor market at a pace that looked like browsing but covered ground. Stopped at a dye merchant's stall. Examined fabric she didn't want. Used the pause to scan the dock behind her. The merchant was disembarking now, speaking to a second man — local, Phoenician dress, but the way they stood together had the geometry of report and instruction. Two of them, then.
+She disembarked first, before the Egyptian merchant, and moved through the harbor market at a pace that looked like browsing but covered ground. Stopped at a dye merchant's stall. Examined fabric she didn't want. Used the pause to scan the dock behind her. The merchant was disembarking now, speaking to a second man, local, Phoenician dress, but the way they stood together had the geometry of report and instruction. Two of them, then.
 
 She changed her route. Took the temple road through the textile quarter instead of the direct harbor approach, doubling back once through a potter's workshop where the owner let her pass without comment in exchange for diagnosing his daughter's fever. By the time she reached the temple district, she was reasonably certain she'd lost them. Reasonably. Not completely.
 
-The Temple of Ba'alat Gebal: massive stone blocks fitted so precisely Nefertari couldn't slide a blade between them, columns carved with symbols older than hieroglyphics. The courtyard smelled of burnt offerings — ox fat and barley and the resinous smoke of juniper — and the stone basins at the entrance still held water for ritual purification. A high priestess met her at the threshold—elderly, sharp-eyed, wearing robes that marked her as someone who'd survived regime changes by being essential.
+The Temple of Ba'alat Gebal: massive stone blocks fitted so precisely Nefertari couldn't slide a blade between them, columns carved with symbols older than hieroglyphics. The courtyard smelled of burnt offerings (ox fat and barley and the resinous smoke of juniper) and the stone basins at the entrance still held water for ritual purification. A high priestess met her at the threshold, elderly, sharp-eyed, wearing robes that marked her as someone who'd survived regime changes by being essential.
 
 "You carry something sacred," the priestess said in accented Egyptian. Not a question. An observation.
 
@@ -72,7 +72,7 @@ She unwrapped the Pattern Eye, let the priestess see it in the temple's diffused
 
 "It's a cipher," Nefertari explained. "A map to knowledge that must be preserved. Tausret asked that it be hidden in a place that would outlast empires."
 
-The priestess took the disc, turning it in her weathered hands. Eight centimeters across—the size standardized across all seven keys. "Why here? Why not Egypt's temples?"
+The priestess took the disc, turning it in her weathered hands. Eight centimeters across, the size standardized across all seven keys. "Why here? Why not Egypt's temples?"
 
 "Because Egypt's temples will burn. Setnakhte is purging Tausret's legacy. Anything associated with her reign will be destroyed within a generation." Nefertari met the woman's eyes. "But Phoenicia endures. Your cities trade with everyone, fight with no one. You adapt."
 
@@ -80,33 +80,33 @@ The priestess took the disc, turning it in her weathered hands. Eight centimeter
 
 "Protection. Secrecy. And a promise: that this disc stays hidden until someone from Tausret's bloodline comes asking for it. Could be a hundred years. Could be a thousand."
 
-The priestess turned the bronze key in her hands. When she spoke, her voice carried an edge. "You're asking us to preserve something we don't understand. To protect knowledge we can't use. That makes us custodians—not practitioners. You're turning sacred responsibility into blind obedience."
+The priestess turned the bronze key in her hands. When she spoke, her voice carried an edge. "You're asking us to preserve something we don't understand. To protect knowledge we can't use. That makes us custodians, not practitioners. You're turning sacred responsibility into blind obedience."
 
 Nefertari felt the argument shift beneath her feet. "Isn't that what priesthoods always do? Guard mysteries?"
 
 "No. We guard mysteries we COMPREHEND. The goddess speaks through ritual, through symbol, through practice we enact daily. Your disc speaks to no one. It's silent knowledge. Dead knowledge." The priestess set it down. "Why should we become a tomb for Egyptian secrets?"
 
-"Because institutions that preserve what they don't use survive longer than institutions that guard only what empowers them." Nefertari leaned forward. "You're asking: what's in it for us? I'm saying: three thousand years from now, when every empire claiming divine mandate has fallen, the temple that guarded useless mysteries will still stand. That's the reward—irrelevance makes you unkillable."
+"Because the temples that survive are never the ones holding the swords." Nefertari leaned forward. "Every empire in this region has claimed divine mandate. Every one has fallen. But the temples that kept the old rites, the ones nobody bothered to raid because the knowledge inside was useless to generals, those are still standing. You want to know what protects you? Not power. The fact that nobody wants what you're guarding."
 
 The priestess's expression shifted. Consideration, not agreement.
 
 "How will we know Tausret's bloodline?"
 
-Nefertari had anticipated this. She pulled a small scroll from her pack—papyrus inscribed with a code only Tausret's descendants would recognize. "They'll present this cipher. Or something like it. The exact symbols might change, but the structure will be recognizable. Fractal. Recursive. Like looking at the same shape at different scales."
+Nefertari had anticipated this. She pulled a small scroll from her pack, papyrus inscribed with a code only Tausret's descendants would recognize. "They'll present this cipher. Or something like it. The exact symbols might change, but the structure will be recognizable. Fractal. Recursive. Like looking at the same shape at different scales."
 
 "How does it work?"
 
-"The inscriptions are mnemonic triggers. They don't contain the knowledge — that's encoded in bloodline carriers. But when a carrier sees these inscriptions, the memory unlocks. Disc without bloodline is useless. Bloodline without disc is incomplete."
+"The inscriptions are mnemonic triggers. They don't contain the knowledge; that's encoded in bloodline carriers. But when a carrier sees these inscriptions, the memory unlocks. Disc without bloodline is useless. Bloodline without disc is incomplete."
 
 The priestess inclined her head. "We can do this. Ba'alat Gebal has guarded stranger things."
 
 They hid the Pattern Eye that afternoon, deep in the temple's foundation vault. A stone chamber beneath the altar, accessible only through a concealed passage. The priestess marked the location in temple records using code that would mean nothing to outsiders but would persist in their oral traditions.
 
-Outside the temple, Nefertari sat on the harbor wall and let herself breathe for the first time in hours. Her hands were shaking. She'd just given the Pattern Eye — three years of work, Tausret's final vision — to a stranger. To a woman who would die long before the key was ever used. She'd built the first link in a three-thousand-year chain and had no way to verify it would hold.
+Outside the temple, Nefertari sat on the harbor wall and let herself breathe for the first time in hours. Her hands were shaking. She'd just given the Pattern Eye, three years of work, Tausret's final vision, to a stranger. To a woman who would die long before the key was ever used. She'd built the first link in a three-thousand-year chain and had no way to verify it would hold.
 
 Her left hand reached to the side, feeling for a workbench that wasn't there. For a tool already placed. For a hand that knew where hers would go before she did. The gesture was so automatic she didn't catch it until her fingers closed on empty air.
 
-*I would have told you about the priestess,* she thought. *You would have said she's too smart to be trusted and too proud to be managed, and I would have said that's exactly why she'll keep the key, and you would have laughed — that short laugh you make when I'm right and you don't want to admit it. And we would have worked through the night refining the approach, and our breathing would have synchronized without either of us noticing, and in the morning you would have handed me the fine-point stylus before I reached for it.*
+*I would have told you about the priestess,* she thought. *You would have said she's too smart to be trusted and too proud to be managed, and I would have said that's exactly why she'll keep the key, and you would have laughed, that short laugh you make when I'm right and you don't want to admit it. And we would have worked through the night refining the approach, and our breathing would have synchronized without either of us noticing, and in the morning you would have handed me the fine-point stylus before I reached for it.*
 
 But that was the point, wasn't it? Trust without verification. Networks without central control. Carrying this alone because the person who should have carried it with her believed in a different kind of carrying.
 
@@ -116,7 +116,7 @@ She stood, slung her pack over one shoulder, and headed toward the market distri
 
 She found lodging above a chandler's shop in the harbor district. A narrow room smelling of tallow and rope fiber. She bolted the door, set her pack against the wall, and ate cold bread standing at the window where she could watch the street below.
 
-The Egyptian merchant from the ship walked past at dusk. Not hurrying. Not looking up. But he walked past twice in the space of an hour, and the second time his companion was with him — the local man from the dock. They were mapping her movements. Establishing her location. The same methodology she'd use to track a disease through a household: observe, record, narrow the possibilities.
+The Egyptian merchant from the ship walked past at dusk. Not hurrying. Not looking up. But he walked past twice in the space of an hour, and the second time his companion was with him, the local man from the dock. They were mapping her movements. Establishing her location. The same methodology she'd use to track a disease through a household: observe, record, narrow the possibilities.
 
 They hadn't approached the temple. That was telling. They were tracking her, not the key. Which meant they didn't know yet what she'd hidden or where. They were in the observation phase.
 
@@ -132,13 +132,13 @@ She pressed her hand flat and held it there. Then she pulled it back, lay down o
 
 Before dawn she was moving.
 
-The watchers would expect her to take a ship from the main harbor — that was the obvious route, the one a fleeing woman would choose. Instead she left through the chandler's back entrance, moved through the pre-dawn streets where only bakers and fishermen stirred, and made her way to the smaller northern cove where Cypriot cargo vessels loaded timber.
+The watchers would expect her to take a ship from the main harbor, the obvious route, the one a fleeing woman would choose. Instead she left through the chandler's back entrance, moved through the pre-dawn streets where only bakers and fishermen stirred, and made her way to the smaller northern cove where Cypriot cargo vessels loaded timber.
 
 She saw the Egyptian merchant once more, walking the harbor road at first light, checking the ship manifests. He moved with the unhurried efficiency of a man who believed his quarry was still sleeping. By the time he realized she wasn't, her ship would be rounding the headland.
 
 The Cypriote captain agreed to take her north for enough silver to make him not ask questions.
 
-Nefertari stood at the rail as Byblos receded in the morning haze. The Pattern Eye was safe — hidden deep enough that Amenhotep's watchers would never find it. But they'd found HER. Which meant the next hiding would need to be faster, messier, more dangerous. She couldn't afford another night in one place. Couldn't afford the luxury of negotiation and philosophical debate with custodians. Every hour she stayed visible was an hour they used to close the distance.
+Nefertari stood at the rail as Byblos receded in the morning haze. The Pattern Eye was safe, hidden deep enough that Amenhotep's watchers would never find it. But they'd found HER. Which meant the next hiding would need to be faster, messier, more dangerous. She couldn't afford another night in one place. Couldn't afford the luxury of negotiation and philosophical debate with custodians. Every hour she stayed visible was an hour they used to close the distance.
 
 And somewhere behind the tactical calculation, the simpler truth: the grief was a liability now. It slowed her thinking, softened her edges. She could outrun it during daylight hours, and that would have to be enough.
 
@@ -150,57 +150,37 @@ The pursuit changed everything.
 
 Nefertari had planned to sail directly to Cyprus's main port, spend time establishing trust with the refugee archivists, hide the Memory Bridge carefully. But Amenhotep's watchers had forced her onto a smaller ship to a smaller port. Less conspicuous. Less safe.
 
-She'd spent the crossing reading the other passengers the way she read patients — posture, eye movement, the involuntary tells of a body carrying a purpose it wanted to hide. A grain merchant who scratched his left ear when he lied about his cargo. A Phoenician woman traveling with a child who wasn't hers — the child flinched when the woman touched her shoulder, the wrong kind of familiarity. An old sailor whose tremor worsened on the left side, early signs of a palsy that would kill him within two years.
+She'd spent the crossing reading the other passengers the way she read patients: posture, eye movement, the involuntary tells of a body carrying a purpose it wanted to hide. A grain merchant who scratched his left ear when he lied about his cargo. A Phoenician woman traveling with a child who wasn't hers; the child flinched when the woman touched her shoulder, the wrong kind of familiarity. An old sailor whose tremor worsened on the left side, early signs of a palsy that would kill him within two years.
 
-None of them were watching her. But the absence of surveillance didn't mean the absence of pursuit. It meant the pursuit had changed shape — from the visible watcher on the Byblos ship to something she couldn't yet see. Amenhotep wouldn't make the same approach twice. He'd adjust. He always adjusted.
+None of them were watching her. But the absence of surveillance didn't mean the absence of pursuit. It meant the pursuit had changed shape, from the visible watcher on the Byblos ship to something she couldn't yet see. Amenhotep wouldn't make the same approach twice. He'd adjust. He always adjusted.
 
-The Mycenaean refugee settlement clung to Cyprus's eastern coast near Enkomi, where Greek refugees had built a new archive from salvaged tablets and fresh memory. Their houses were rough mudbrick, nothing like the painted Mycenaean palaces they'd fled — no frescoes of dolphins and bull-leapers, no plastered floors, just packed earth and reed roofing. But the scriptorium they'd erected was meticulous. Nefertari stood watching scribes copy decaying Linear B tablets onto fresh clay, pressing the reed stylus into wet surfaces with the careful triangular strokes the palace system demanded. The air smelled of wet clay and sesame-oil lamps — preservation made tangible. Exactly the kind of practice that might endure.
+The Mycenaean refugee settlement clung to Cyprus's eastern coast near Enkomi, where Greek refugees had built a new archive from salvaged tablets and fresh memory. Their houses were rough mudbrick, nothing like the painted Mycenaean palaces they'd fled: no frescoes of dolphins and bull-leapers, no plastered floors, just packed earth and reed roofing. But the scriptorium they'd erected was meticulous. Nefertari stood watching scribes copy decaying Linear B tablets onto fresh clay, pressing the reed stylus into wet surfaces with the careful triangular strokes the palace system demanded. The air smelled of wet clay and sesame-oil lamps. Preservation made tangible. Exactly the kind of practice that might endure.
 
-She approached the head archivist—a woman named Theia who'd been a palace scribe in Mycenae before everything burned.
+She approached the head archivist, a woman named Theia who'd been a palace scribe in Mycenae before everything burned.
 
-"I need to hide something in your archive," Nefertari said directly. "Something that must be preserved but forgotten."
+"I need to hide something in your archive," Nefertari said directly. She unwrapped the Memory Bridge, eight centimeters of bronze, twin to the Pattern Eye she'd hidden in Byblos. "This needs to exist quietly. Hidden among everything else. Someday, someone with the right bloodline will need it."
 
-Theia's hands stilled on the tablet she was copying. "That's a contradiction."
+Theia took the bronze disc, studying its inscriptions the way she studied damaged tablets, turning it in the lamplight, tracing the symbols with a scribe's fingertip. "What does it do?"
 
-"Is it? You're copying tablets right now. Preserving knowledge. But how much of what you copy do you actually remember? How much becomes just... text? Words that exist without anyone thinking about them?"
-
-"Everything in an archive is like that," Theia said. "We preserve it because it might matter someday. But we can't hold it all in memory."
-
-"Exactly." Nefertari unwrapped the Memory Bridge. Eight centimeters of bronze, twin to the Pattern Eye she'd hidden in Byblos. "This needs to exist quietly in your archive. Hidden in plain sight. Someday, someone with the right bloodline will need it."
-
-Theia took the bronze disc, studying its inscriptions. "What does it do?"
-
-"Links genetic carriers across generations. You've fled collapse. Imagine if that memory could be encoded so deeply your descendants recognize the next collapse before it repeats."
+"Links carriers across generations. You've fled collapse. Imagine if that memory could be encoded so deeply your descendants recognize the next collapse before it repeats."
 
 "That sounds like a curse."
 
 "Or a warning system."
 
-Theia set the disc down carefully. "You're asking me to hide something in an archive designed to make things findable. That's perverse."
+Theia set the disc down carefully. "Why trust us? We're refugees. We might be dead in five years."
 
-"Is it? How many tablets in your collection have been copied but never read? How much knowledge exists in preservation without comprehension?"
+"You're refugees who brought your archives when you fled." Nefertari let that sit. "You carried clay tablets onto boats while your city burned. You know what matters and what doesn't. And you're building something new here, mixed, adaptive, the kind of place that survives when empires don't."
 
-Theia's hands stilled. "Most of it. We copied the Mycenaean palace records because they were dying. But half are administrative—grain shipments, textile counts, servant rosters. Who cares about Pylos's barley inventory when Pylos is ash?"
+Theia looked at the disc again. At the scriptorium full of tablets nobody would read for centuries. At the woman who'd sailed from Egypt carrying secrets she couldn't keep alone.
 
-"Future scholars might. Or they might not. That's the point. You preserve without judging utility. That makes you perfect custodians for knowledge that might be useless for centuries." Nefertari leaned forward. "The moment you decide what matters, you become vulnerable to regime change. New rulers burn what contradicts their truth. But if you preserve everything—even the incomprehensible—you're just... archivists. Harmless."
+"We can do this," she said. "We've preserved stranger things than bronze."
 
-"Harmless enough to survive."
-
-"Exactly."
-
-"Why trust us? We're refugees. We might be dead in five years."
-
-"You're refugees who brought your archives when you fled," Nefertari countered. "That means you understand: knowledge outlasts kingdoms. And your settlement is building something new here. Mixed population—Mycenaean, Cypriot, Egyptian refugees like me. If civilization survives, it'll be because of places like this. Hybrid cultures. Adaptive populations."
-
-"And if we don't survive?"
-
-"Then the collapse wins. But I don't think it will. I think you'll build something here that lasts."
-
-They were negotiating the location—foundation wall, marked stone, waterproofed leather—when the commotion started outside.
+They were working out the location (foundation wall, marked stone, waterproofed leather) when the commotion started outside.
 
 Shouts. Running feet. Someone screaming in Egyptian-accented Greek.
 
-Nefertari's blood went cold. They'd found her again. Different men — not the merchant from the ship — but the same geometry of pursuit. Amenhotep's network reaching across the sea.
+Nefertari's blood went cold. They'd found her again. Different men, not the merchant from the ship, but the same geometry of pursuit. Amenhotep's network reaching across the sea.
 
 "Hide this," she said, pressing the Memory Bridge into Theia's hands. "Build it into the wall. Mark it in your records. But do it NOW."
 
@@ -208,7 +188,7 @@ Nefertari's blood went cold. They'd found her again. Different men — not the m
 
 "Amenhotep's people want to know where I've hidden the keys. That includes eliminating anyone who's seen them."
 
-Nefertari moved to the scriptorium's entrance, looked out into the settlement's main square. Two men — Egyptian military bearing despite civilian dress — questioning refugees. Aggressive. One held a papyrus with writing she couldn't read from this distance, but she knew what it was.
+Nefertari moved to the scriptorium's entrance, looked out into the settlement's main square. Two men, Egyptian military bearing despite civilian dress, questioning refugees. Aggressive. One held a papyrus with writing she couldn't read from this distance, but she knew what it was.
 
 A description. Of her.
 
@@ -222,7 +202,7 @@ Theia pointed to a back passage that led between buildings. "Through the storage
 
 "I'm what they're looking for. If I'm not here, maybe they'll leave."
 
-But Nefertari knew that wasn't true. Amenhotep's approach was thorough — she'd seen him build intelligence networks for years, knew the methodology. These weren't Setnakhte's political enforcers. These were men who understood the Protocol, who'd been briefed on what the keys meant. They wouldn't stop at finding her. They'd eliminate anyone who might have knowledge of what she'd hidden.
+But Nefertari knew that wasn't true. Amenhotep's approach was thorough; she'd seen him build intelligence networks for years, knew the methodology. These weren't Setnakhte's political enforcers. These were men who understood the Protocol, who'd been briefed on what the keys meant. They wouldn't stop at finding her. They'd eliminate anyone who might have knowledge of what she'd hidden.
 
 She moved through the back passages, emerged near the settlement's edge. Planned to lead them away from the archive, away from Theia and the refugees who'd agreed to help her.
 
@@ -234,11 +214,11 @@ But one of the Egyptian agents was already there. Waiting. He'd anticipated her 
 
 "I'm a physician. I've committed no crime against any throne."
 
-"You scattered the defensive keys without authorization. You're building a network that undermines the Protocol's integrity." He drew a bronze blade — Egyptian military issue. "The master physician would prefer you alive. But the preference isn't absolute."
+"You scattered the defensive keys without authorization. You're building a network that undermines the Protocol's integrity." He drew a bronze blade, Egyptian military issue. "The master physician would prefer you alive. But the preference isn't absolute."
 
 She ran.
 
-Not away from the settlement—that would lead him into refugee homes, endanger families. Instead she ran toward the coast, toward the rocky shoreline where fishing boats launched. If she could reach the harbor, steal a boat, disappear into the maritime trade networks Phoenicia and Cyprus maintained—
+Not away from the settlement; that would lead him into refugee homes, endanger families. Instead she ran toward the coast, toward the rocky shoreline where fishing boats launched. If she could reach the harbor, steal a boat, disappear into the maritime trade networks Phoenicia and Cyprus maintained—
 
 The agent was faster. Military training. He caught her at the cliff edge overlooking the harbor.
 
@@ -252,7 +232,7 @@ The agent was faster. Military training. He caught her at the cliff edge overloo
 
 "The master physician preserves order. You chose chaos." He stepped closer, blade ready. "Last chance. Tell me about the keys."
 
-Behind him, Theia emerged from between buildings. She held a clay tablet—heavy, rectangular, solid. She swung it like a club.
+Behind him, Theia emerged from between buildings. She held a clay tablet, heavy, rectangular, solid. She swung it like a club.
 
 The tablet shattered against the agent's skull. He staggered, turned—and Nefertari pushed.
 
@@ -270,9 +250,9 @@ Theia stared at her hands. At the broken tablet fragments. At the cliff edge whe
 
 "Maybe it is now. When preserving knowledge means protecting the people who preserve it."
 
-They hid the body — weighted with stones, dragged into deeper water beyond where fishermen would find it easily. The second agent never found them. Eventually he left the settlement, searching elsewhere. Nefertari stayed hidden in the archive for three days until Theia confirmed the danger had passed.
+They hid the body, weighted with stones, dragged into deeper water beyond where fishermen would find it easily. The second agent never found them. Eventually he left the settlement, searching elsewhere. Nefertari stayed hidden in the archive for three days until Theia confirmed the danger had passed.
 
-On the second night, sleepless, she heard a tapping from the archive's storage room. One tap. Then silence. *Look at this* — the old signal, the private language of twenty years. But it was just a beam settling in the cold. Wood contracting. Nothing. No one.
+On the second night, sleepless, she heard a tapping from the archive's storage room. One tap. Then silence. *Look at this,* the old signal, the private language of twenty years. But it was just a beam settling in the cold. Wood contracting. Nothing. No one.
 
 They built the Memory Bridge into the archive's new storage building during those three days. Sealed in waterproofed leather, placed behind a marked stone. The location recorded in Theia's personal notes, written in a code that blended Mycenaean Linear B with Egyptian hieratic script.
 
@@ -290,35 +270,35 @@ Nefertari had asked herself the same question for three days. "I don't know. Ask
 
 Theia straightened. "I'll preserve the key. And I'll carry this choice. Both are my responsibility now."
 
-Two keys hidden. One murder on both their souls. One more key to scatter — but this time, Nefertari knew the stakes. This wasn't academic anymore. Amenhotep's pursuit was active, relentless, closing in. Every hiding risked lives beyond her own.
+Two keys hidden. One murder on both their souls. One more key to scatter, and this time Nefertari knew the stakes. This wasn't academic anymore. Amenhotep's pursuit was active, relentless, closing in. Every hiding risked lives beyond her own.
 
 ---
 
 **The Canaanite hill country, one month later**
 
-Nefertari traveled carefully after Cyprus. No direct routes. No established trade paths. She moved through the margins — hill country settlements, refugee camps, places where Egyptian authority had dissolved and new social structures were emerging. She'd learned to read a village's safety the way she read a patient's vitals: who watched the roads, how quickly strangers were reported, whether the settlement had the closed-body posture of a place that had recently been visited by men asking questions.
+Nefertari traveled carefully after Cyprus. No direct routes. No established trade paths. She moved through the margins: hill country settlements, refugee camps, places where Egyptian authority had dissolved and new social structures were emerging. She'd learned to read a village's safety the way she read a patient's vitals: who watched the roads, how quickly strangers were reported, whether the settlement had the closed-body posture of a place that had recently been visited by men asking questions.
 
-Twice she'd changed her planned route after seeing signs — a settlement where the headman's wife described Egyptian travelers asking about a woman physician, a crossroads where the dust showed hoofprints too recent and too military for trade animals. Amenhotep's reach was longer than she'd calculated. Amenhotep had more agents than the two she'd seen in Byblos, and they were spreading out, casting a net across the eastern Mediterranean.
+Twice she'd changed her planned route after seeing signs: a settlement where the headman's wife described Egyptian travelers asking about a woman physician, a crossroads where the dust showed hoofprints too recent and too military for trade animals. Amenhotep's reach was longer than she'd calculated. Amenhotep had more agents than the two she'd seen in Byblos, and they were spreading out, casting a net across the eastern Mediterranean.
 
-The Distribution Network was different from the other keys — fragmentary by design. Pieces scattered across multiple families, none complete alone. She'd spent the month traveling between proto-Israelite settlements in the hill country, meeting families who'd fled Egyptian control, Canaanite city-state collapse, Philistine invasion. Each received a bronze fragment inscribed with what looked like tribal markers. When assembled, all seven formed the Distribution Network key: methods for scattering knowledge, building resilient information networks, organizing distributed resistance.
+The Distribution Network was different from the other keys, fragmentary by design. Pieces scattered across multiple families, none complete alone. She'd spent the month traveling between proto-Israelite settlements in the hill country, meeting families who'd fled Egyptian control, Canaanite city-state collapse, Philistine invasion. Each received a bronze fragment inscribed with what looked like tribal markers. When assembled, all seven formed the Distribution Network key: methods for scattering knowledge, building resilient information networks, organizing distributed resistance.
 
 She sat now with the seventh family, in a stone house with a packed-earth floor and a flat roof where figs dried in the sun. Below, terraced hillsides where drought-resistant barley and emmer wheat grew in defiance of collapse, the stone terraces held together with packed rubble in the Canaanite fashion. A clay oven squatted in the courtyard, still warm from the morning's bread.
 
-"Why us?" the family patriarch asked. Young — maybe thirty — but his eyes held the exhaustion of someone who'd rebuilt from nothing. "We're nobody. Hill farmers."
+"Why us?" the family patriarch asked. Young, maybe thirty, but his eyes held the exhaustion of someone who'd rebuilt from nothing. "We're nobody. Hill farmers."
 
-"You're the people who survive when empires fall. Pharaohs die and dynasties crumble, but farmers persist. That's not 'nobody.' That's everyone who matters when the world breaks." She placed the bronze fragment in his hand. "One-seventh of a key. The other six pieces are with families like yours. Someday those fragments will need to come together — knowledge about building networks that can't be destroyed by killing a single leader or burning a single library."
+"You're the people who survive when empires fall. Pharaohs die and dynasties crumble, but farmers persist. That's not 'nobody.' That's everyone who matters when the world breaks." She placed the bronze fragment in his hand. "One-seventh of a key. The other six pieces are with families like yours. Someday those fragments will need to come together: knowledge about building networks that can't be destroyed by killing a single leader or burning a single library."
 
 "What if we lose it? What if one of the families dies out?"
 
-"It's like a body. Lose one kidney, you survive. Lose both kidneys and your liver, you're dead. The inscriptions overlap — lose two fragments and five can still reconstruct the whole. Lose four and the network collapses. But that requires destroying more than half the families."
+"It's like a body. Lose one kidney, you survive. Lose both kidneys and your liver, you're dead. The inscriptions overlap; lose two fragments and five can still reconstruct the whole. Lose four and the network collapses. But that requires destroying more than half the families."
 
 He closed his hand around it. "We'll keep it. Pass it down."
 
 ---
 
-But the eighth family — farmers in a valley north of the settlement — refused.
+But the eighth family, farmers in a valley north of the settlement, refused.
 
-"We don't want any part of this," the matriarch said. Hadara, the other families called her. She was older than the others, harder — a burn scar running from her left wrist to her elbow where she'd pulled her youngest from a granary fire during the last Egyptian raid. She'd buried two sons and rebuilt her farmstead twice. "You say these fragments will bring ruin. We've had enough of ruin. We're building a life where our children don't carry ancient burdens."
+"We don't want any part of this," the matriarch said. Hadara, the other families called her. She was older than the others, harder, a burn scar running from her left wrist to her elbow where she'd pulled her youngest from a granary fire during the last Egyptian raid. She'd buried two sons and rebuilt her farmstead twice. "You say these fragments will bring ruin. We've had enough of ruin. We're building a life where our children don't carry ancient burdens."
 
 "Then don't think of it as a burden," Nefertari tried. "Think of it as—"
 
@@ -326,9 +306,9 @@ But the eighth family — farmers in a valley north of the settlement — refuse
 
 The woman was right. Nefertari WAS imposing transgenerational burden. The entire Protocol was premised on making descendants responsible for ancestors' failures.
 
-She left without arguing further. Revised the design: seven fragments instead of eight. Lower redundancy threshold — four minimum instead of five. More fragile, but perhaps that was fitting. The network should be as fragile as the trust that sustained it.
+She left without arguing further. Revised the design: seven fragments instead of eight. Lower redundancy threshold, four minimum instead of five. More fragile, but perhaps that was fitting. The network should be as fragile as the trust that sustained it.
 
-Tirzah was waiting when she returned. The girl had stayed hidden during the hill country negotiations — too recognizable, too vulnerable if Amenhotep's agents found them.
+Tirzah was waiting when she returned. The girl had stayed hidden during the hill country negotiations, too recognizable, too vulnerable if Amenhotep's agents found them.
 
 "What happened?" Tirzah asked.
 
@@ -336,7 +316,7 @@ Tirzah was waiting when she returned. The girl had stayed hidden during the hill
 
 "Then why continue?"
 
-"Because others said yes. And they were right to do that, too. Agency means the freedom to refuse—which means the network survives only as long as people choose to maintain it. That's not a flaw. That's the entire point."
+"Because others said yes. And they were right to do that, too. Agency means the freedom to refuse, which means the network survives only as long as people choose to maintain it. That's not a flaw. That's the entire point."
 
 Tirzah nodded. Then: "There was a man here. While you were gone. Egyptian. He was asking about you."
 
@@ -344,7 +324,7 @@ Nefertari went still. "What did you tell him?"
 
 "Nothing. I hid. But he's out there searching. I saw him in the next settlement over yesterday."
 
-They couldn't stay. Amenhotep's people had followed them even into the hill country — the same long reach she'd felt in Byblos, in Cyprus, tightening now like a noose drawn slowly across the map. Every day they remained was a risk — not just to themselves, but to the families who'd agreed to protect the Distribution Network fragments.
+They couldn't stay. Amenhotep's people had followed them even into the hill country, the same long reach she'd felt in Byblos, in Cyprus, tightening now like a noose drawn slowly across the map. Every day they remained was a risk — not just to themselves, but to the families who'd agreed to protect the Distribution Network fragments.
 
 "We leave tonight," Nefertari decided. "North. Deeper into territory Egypt can't control."
 
@@ -360,15 +340,15 @@ They'd returned to collect their belongings before the final departure. Tirzah s
 
 "Where have you been?" Tirzah asked when Nefertari entered.
 
-"Hiding keys. Running from agents. Watching someone die protecting knowledge." Nefertari set down her pack, exhausted. Nine weeks since leaving this place — Phoenicia, Cyprus, a dozen hill country villages.
+"Hiding keys. Running from agents. Watching someone die protecting knowledge." Nefertari set down her pack, exhausted. Nine weeks since leaving this place. Phoenicia, Cyprus, a dozen hill country villages.
 
-Tirzah closed her scroll. "I've been reading the heredity observations. You're encoding two things — how to think and what to look for. Together they make carriers who come pre-loaded with relevant data."
+Tirzah closed her scroll. "I've been reading the heredity observations. You're encoding two things: how to think and what to look for. Together they make carriers who come pre-loaded with relevant data."
 
 Something loosened in Nefertari's chest. The girl understood.
 
 "But there's a problem," Tirzah continued. "If collapse is cyclical, eventually we'll face one we can't prevent. What then?"
 
-"Then my approach fails. And Amenhotep's becomes the only option." Nefertari pulled out the protocol schema. "Unless both fail simultaneously. That's the failsafe — catastrophe so severe that neither prevention nor control works alone. The seven keys combine. Defensive and offensive knowledge merges."
+"Then my approach fails. And Amenhotep's becomes the only option." Nefertari pulled out the protocol schema. "Unless both fail simultaneously. That's the failsafe: catastrophe so severe that neither prevention nor control works alone. The seven keys combine. Defensive and offensive knowledge merges."
 
 Tirzah studied the schema. "You're building a cooperation clause into a split."
 
@@ -388,15 +368,17 @@ The girl thought for a long moment. "Tirzah. It's Canaanite. Means 'delight' or 
 
 "Tirzah." Nefertari tested the name. "It fits."
 
-"Good. Because I'm not just carrying your Protocol anymore. I'm choosing it. Choosing to be the Living Key. Choosing to encode this knowledge in my bloodline and pass it forward." Tirzah's eyes—so much like Tausret's—fixed on Nefertari. "But I'm doing it my way. Not as a burden. As a gift to my descendants."
+"Good. Because I'm not just carrying it anymore." Tirzah's eyes, so much like Tausret's, fixed on Nefertari. "I'm choosing it. The dreams. The keys. All of it. I want to pass it forward."
 
 "How?"
 
-"By teaching them it's not a curse to see collapse coming. It's a responsibility. And responsibilities can be carried with joy if you believe they matter. But they won't have chosen it," she said, her voice dropping. "Not the way I'm choosing it now."
+Tirzah was quiet for a moment. Picking at the hem of her tunic the way twelve-year-olds do when they're thinking harder than they want to show.
+
+"My mother didn't know what was happening to her. The dreams scared her. Nobody explained." She looked up. "I'll explain. I'll make sure my children know it's not a curse. That it matters." Then, quieter: "But they won't get to choose. Not like I'm choosing now. They'll just... have it."
 
 "No. But they'll inherit the choice you made—and they can choose whether to pass it forward or let it end with them. Every generation makes that choice. That's agency enough."
 
-Nefertari felt tears she didn't expect. This twelve-year-old girl, who'd seen her mother die and her world crumble, who'd been turned into a genetic experiment without consent—she'd found a way to make it meaningful.
+Nefertari felt tears she didn't expect. This twelve-year-old girl, who'd seen her mother die and her world crumble, who'd been turned into a genetic experiment without consent, she'd found a way to make it meaningful.
 
 "Your mother would be proud," Nefertari whispered.
 
@@ -414,7 +396,7 @@ Amenhotep returned from Egypt with his three bronze keys in hand.
 
 They met in the workshop one last time. Twenty years as colleagues. Six months as collaborators. Three months as opponents in a millennia-long experiment.
 
-"I'm leaving tomorrow," Amenhotep said. "Setnakhte's priesthood has agreed to protect my carriers. Blood Register, Catastrophe Clock, Culling Method — temple vaults. Three bloodlines. Breeding programs start within the year."
+"I'm leaving tomorrow," Amenhotep said. "Setnakhte's priesthood has agreed to protect my carriers. Blood Register, Catastrophe Clock, Culling Method. Temple vaults. Three bloodlines. Breeding programs start within the year."
 
 "What happens to everyone else?"
 
@@ -430,7 +412,7 @@ His expression softened. "Good. She deserves that much agency." Then the softnes
 
 "And when your knowledgeable keepers decide they'd rather use the Protocol than preserve it?"
 
-He picked up his bronze keys. "You're preserving hope. I'm engineering survival. History will judge which we needed more."
+He picked up his bronze keys. "You're trusting strangers to guard what matters. I'm making sure it doesn't depend on trust." His jaw tightened. "I hope your way works. I do. But I can't build a three-thousand-year plan on hope."
 
 They stood in silence for a moment.
 
@@ -458,41 +440,41 @@ They left the borrowed workshop that afternoon.
 
 The Temple of Ptah had survived three dynasties, two invasions, and a famine that had emptied half the Nile Delta. Amenhotep found it a useful place to think.
 
-He sat in the inner courtyard — lotus-topped columns casting precise shadows across the flagstones, the smell of natron and burnt offerings drifting from the sanctuary — cross-legged on stone worn smooth by generations of priests, and spread the trader's report across his knees. A servant had left a clay bowl of beer and emmer bread on the ledge beside him. He hadn't touched it. Papyrus, water-stained from the crossing.
+He sat in the inner courtyard, lotus-topped columns casting precise shadows across the flagstones, the smell of natron and burnt offerings drifting from the sanctuary, cross-legged on stone worn smooth by generations of priests, and spread the trader's report across his knees. A servant had left a clay bowl of beer and emmer bread on the ledge beside him. He hadn't touched it. Papyrus, water-stained from the crossing.
 
 *Byblos. She went to Byblos.*
 
 The Temple of Ba'alat Gebal. Of course. Old women guarding old mysteries, too irrelevant to attract conquest. He could almost hear her reasoning. *Hide the key where power doesn't look.*
 
-His mind made room for her arguments. Paused at the places where she'd interrupt, one knuckle rapping the workbench — *wait, you're assuming the system needs a center* — and he'd have to stop and account for the gap she'd found before he could proceed. Twenty years of that. The thinking hadn't stopped when she left.
+His mind made room for her arguments. Paused at the places where she'd interrupt, one knuckle rapping the workbench (*wait, you're assuming the system needs a center*) and he'd have to stop and account for the gap she'd found before he could proceed. Twenty years of that. The thinking hadn't stopped when she left.
 
 He pressed his thumb against the crease of the report and held it there. One gesture. Then he folded the papyrus and set it aside.
 
-His three bronze keys sat in a cedar chest beneath his sleeping mat — Blood Register, Catastrophe Clock, Culling Method. Safe. Centralized. Under his direct control. The opposite of what she was doing with hers.
+His three bronze keys sat in a cedar chest beneath his sleeping mat: Blood Register, Catastrophe Clock, Culling Method. Safe. Centralized. Under his direct control. The opposite of what she was doing with hers.
 
 He'd dispatched agents to Phoenicia a month ago. Former military intelligence under Ramesses III, retrained for quiet work. Their orders: follow the physician. Document where she goes. Report what she hides. Do not harm her unless she threatens the Protocol's integrity.
 
-The orders were strategic. The impulse behind them was something else — because tracking her movements was the last form of proximity available to him. He told himself the intelligence was necessary. He told himself the offensive network required knowledge of the defensive network's key placements. Both things were true. Neither was the reason his hands shook slightly when he unrolled a new dispatch.
+The orders were strategic. The impulse behind them was something else, because tracking her movements was the last form of proximity available to him. He told himself the intelligence was necessary. He told himself the offensive network required knowledge of the defensive network's key placements. Both things were true. Neither was the reason his hands shook slightly when he unrolled a new dispatch.
 
-The first report: she'd entered Byblos. Visited the temple. Stayed one night. Then vanished. A woman traveling alone through a port city where Egyptian agents controlled the trade registries — and she'd disappeared like smoke through a lattice window. Something in his chest loosened at that. Not relief exactly. Recognition.
+The first report: she'd entered Byblos. Visited the temple. Stayed one night. Then vanished. A woman traveling alone through a port city where Egyptian agents controlled the trade registries, and she'd disappeared like smoke through a lattice window. Something in his chest loosened at that. Not relief exactly. Recognition.
 
-The second agent's report was overdue. Cyprus, probably. The Mycenaean refugee settlements near Enkomi — displaced scholars preserving knowledge in exile. Exactly the kind of distributed custody she believed in.
+The second agent's report was overdue. Cyprus, probably. The Mycenaean refugee settlements near Enkomi, displaced scholars preserving knowledge in exile. Exactly the kind of distributed custody she believed in.
 
 Amenhotep stood, joints protesting. He walked to the courtyard's edge and looked out across Memphis toward the river.
 
-Setnakhte's Egypt was stabilizing. The new pharaoh was brutal but competent — purging Tausret's legacy, consolidating military control, restarting grain distribution through temple networks he could monitor. Amenhotep had aligned himself carefully. Not as an ally. As a resource. The priesthood of Ptah needed a physician who understood heredity. Setnakhte needed temples that kept the populace fed and obedient. Amenhotep needed institutional protection for his carriers and his keys.
+Setnakhte's Egypt was stabilizing. The new pharaoh was brutal but competent, purging Tausret's legacy, consolidating military control, restarting grain distribution through temple networks he could monitor. Amenhotep had aligned himself carefully. Not as an ally. As a resource. The priesthood of Ptah needed a physician who understood heredity. Setnakhte needed temples that kept the populace fed and obedient. Amenhotep needed institutional protection for his carriers and his keys.
 
 A triangle of mutual utility. The strongest shape in architecture and politics alike.
 
-He'd already identified three families for the first breeding cohort. Egyptian nobility with strong cognitive markers. A Phoenician merchant dynasty whose children showed unusual aptitude for the seeing. A Mesopotamian priestly line with documented pulse anomalies passing through four generations. Each family would be approached through intermediaries — marriage alliances, temple patronage, trade agreements. Nothing that looked like what it was.
+He'd already identified three families for the first breeding cohort. Egyptian nobility with strong cognitive markers. A Phoenician merchant dynasty whose children showed unusual aptitude for the seeing. A Mesopotamian priestly line with documented pulse anomalies passing through four generations. Each family would be approached through intermediaries: marriage alliances, temple patronage, trade agreements. Nothing that looked like what it was.
 
 *She'll scatter them across Phoenicia and Cyprus and those goat farms in the hills. And she'll trust strangers to guard them for three thousand years.*
 
 It was a beautiful theory. And it would fail. Distributed systems required something centralized ones didn't: sustained voluntary cooperation across centuries without authority to enforce it. One generation of neglect. One priestess who forgot the oral tradition. One archive that burned. And the chain would break.
 
-His approach was different. Harder. Less noble. But resilient in the way that institutions were resilient — through hierarchy, through obligation, through the quiet weight of power ensuring continuity whether individuals cared or not.
+His approach was different. Harder. Less noble. But resilient in the way that institutions were resilient: through hierarchy, through obligation, through the quiet weight of power ensuring continuity whether individuals cared or not.
 
-He turned back toward the temple interior. *I need to find them.* Not now. Not this year. Patience was its own kind of weapon. But eventually, Nefertari's hidden keys would need to be located, catalogued, and — when the time came — retrieved or neutralized.
+He turned back toward the temple interior. *I need to find them.* Not now. Not this year. Patience was its own kind of weapon. But eventually, Nefertari's hidden keys would need to be located, catalogued, and, when the time came, retrieved or neutralized.
 
 *I could have gone with her and I chose this instead.*
 

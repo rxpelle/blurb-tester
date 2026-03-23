@@ -3,11 +3,11 @@
 
 ---
 
-*From the Archive of Carriers, entry of Judith bat-Miriam, Generation 12, 700 BCE:*
+*From the Archive of Carriers, entry of Tamar bat-Hannah, Generation 12, 700 BCE:*
 
 *His name was Micah. He was sixteen.*
 
-*I taught him everything I knew in six days, and on the seventh he walked into a plague camp to save people who were trying to kill us a week earlier. I told him not to go. He went anyway. He told me to encode it — to make sure future carriers felt his choice, not just knew about it.*
+*I taught him everything I knew in six days, and on the seventh he walked into a plague camp to save people who were trying to kill us a week earlier. I told him not to go. He went anyway. He told me to encode it, to make sure future carriers felt his choice, not just knew about it.*
 
 *I held his hand while he died. Our breathing synchronized and I do not know how. Something in the blood knew how to match another carrier's rhythm, and when his breathing stopped, mine kept searching for it.*
 
@@ -19,19 +19,19 @@
 
 *But he is dead, and I am writing this, and I do not know if he was right enough.*
 
-*— Judith*
+*— Tamar*
 
 ---
 
-**602 years after the Protocol creation (586 BCE)**
+**586 BCE**
 
 Rachel bat-Yonah walked through burning Jerusalem with the old dreams screaming in her mind.
 
-Her own memories and beyond—because watching the Babylonian army torch the Temple was only the surface. *Ancestral* memories were layered beneath. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, stacked and reinforcing, flooding her consciousness as her own city died.
+Her own memories and beyond, because watching the Babylonian army torch the Temple was only the surface. *Ancestral* memories were layered beneath. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, stacked and reinforcing, flooding her consciousness as her own city died.
 
-She was thirty-one years old. Generation 23 from Tausret. A physician and midwife, like every woman in her family line for longer than cities lasted. And right now, carrying two things: her infant daughter wrapped against her chest, and the blood memory so vivid she could barely distinguish past from present.
+She was thirty-one years old. Generation 23 from Tausret. Six hundred years the Protocol had been running, longer than Jerusalem had existed, longer than David's kingdom had lasted, longer than any institution she could name except the river and the stones. A physician and midwife, like every woman in her family line for longer than cities lasted. And right now, carrying two things: her infant daughter wrapped against her chest, and the ancestral memory so vivid she could barely distinguish past from present.
 
-*I told him.* The thought came hard and hot, burning brighter than the archive where she'd hidden medical scrolls. *I told Zedekiah exactly what would happen. I showed him the pattern—trade routes breaking, alliances fragmenting, the same cascade that killed the Bronze Age. And he smiled at me like I was a child afraid of thunder.*
+*I told him.* The thought came hard and hot, burning brighter than the archive where she'd hidden medical scrolls. *I told Zedekiah exactly what would happen. I showed him the pattern: trade routes breaking, alliances fragmenting, the same cascade that killed the Bronze Age. And he smiled at me like I was a child afraid of thunder.*
 
 Around her, thousands of Judeans were being herded into columns for the march to Babylon. The Babylonian Exile had begun.
 
@@ -41,39 +41,13 @@ And Rachel had to make a choice: try to preserve the network through displacemen
 
 **Three days earlier: The warning**
 
-Rachel had seen it coming.
+She'd tried. Three times she'd stood before Zedekiah and pointed at the pattern — trade routes breaking, alliances fragmenting, the same cascade that killed the Bronze Age — and three times the king had smiled at her the way men smiled at women who saw too clearly.
 
-Not the specific timing—Nebuchadnezzar's siege had been unpredictable. But the pattern. The *collapse pattern* that every woman in her bloodline had learned to recognize.
+"God will protect Jerusalem," he'd said at their final audience. "The Temple cannot fall."
 
-She'd tried warning the king. Tried explaining that Jerusalem's resistance strategy was following the same trajectory as every failed Bronze Age kingdom: isolate, hoard resources, refuse diplomatic compromise, fragment internal alliances. Classic behavior before the fall.
+So Rachel had done what her family always did when kings wouldn't listen. She'd gathered her twenty families, split them into three groups — one to stay in Judah, one to Egypt, one to walk into exile with the rest — and she'd strapped her infant daughter to her chest and chosen Babylon.
 
-King Zedekiah hadn't listened.
-
-She'd tried other approaches. Warnings through his advisors. Testimony before the temple priestesses. Even a written analysis of historical crises, presented to the royal council. Each attempt met the same response: faith would overcome evidence, divine protection would trump what the blood carried.
-
-"Your family has been advising Judah's kings for generations," he'd said at their final audience. "But this time, you're wrong. God will protect Jerusalem. The Temple cannot fall."
-
-Rachel had wanted to scream: *I can see it. I can see what's coming as clearly as I see your face. Twenty-three generations of women have died to give me this sight, and you won't even look where I'm pointing.*
-
-But she'd stayed quiet. Done what her family had always done: prepared for the worst while hoping for prevention.
-
-She'd gathered her people—twenty families in Judah now, descendants of those who came before or their trained students. Forty-eight people who knew about the Genesis Protocol, understood the bronze keys, carried fragments of the knowledge.
-
-"The exile is coming," Rachel had told them. "Probably within the week. We need to disperse the knowledge now, before Babylon takes us."
-
-"Disperse how?" one member had asked. An archivist, elderly, terrified.
-
-"Three groups. One stays in Judah—there will be a remnant population, and they'll need the network. One goes to Egypt—the Phoenician and Cypriot branches are still active there. One goes to Babylon with the exiles—we can't abandon our people."
-
-"What about the keys?"
-
-Rachel had thought about this carefully. "The Pattern Eye is safe in Byblos—Phoenicia isn't involved in this war. The Memory Bridge is in Cyprus—also safe. The Distribution Network fragments are with families across the region. But we need to protect the bloodline itself."
-
-She'd looked at her infant daughter, sleeping peacefully. Generation 24. Already showing signs of the inheritance activating—crying at night with what Rachel recognized as ancestral nightmares.
-
-"The Living Key goes to Babylon with me," Rachel had said. "My daughter carries Tausret's full bloodline. I won't abandon that."
-
-"You're walking into exile."
+"You're walking into exile," someone had said.
 
 "I'm walking into survival."
 
@@ -81,7 +55,7 @@ She'd looked at her infant daughter, sleeping peacefully. Generation 24. Already
 
 **Now: The march begins**
 
-Rachel walked in a column of ten thousand exiles — women in dust-grayed head coverings, men still wearing the undyed wool tunics of Judean hill country, children clutching whatever they'd grabbed before the soldiers came: a clay doll, a wooden comb, a scrap of woven blanket. Babylonian guards flanked the column in bronze scale armor, iron-tipped spears resting against their shoulders, their curled beards oiled in the Mesopotamian fashion. The road east crossed the dry wadis and limestone terraces of the Shephelah, then descended into the flat Syrian steppe — scrub brush, cracked earth, a horizon so wide it made Rachel's chest ache.
+Rachel walked in a column of ten thousand exiles — women in dust-grayed head coverings, men still wearing the undyed wool tunics of Judean hill country, children clutching whatever they'd grabbed before the soldiers came: a clay doll, a wooden comb, a scrap of woven blanket. Babylonian guards flanked the column in bronze scale armor, iron-tipped spears resting against their shoulders, their curled beards oiled in the Mesopotamian fashion. The road east crossed the dry wadis and limestone terraces of the Shephelah, then descended into the flat Syrian steppe: scrub brush, cracked earth, a horizon so wide it made Rachel's chest ache.
 
 Behind them, Jerusalem burned. The Temple — Solomon's Temple, its cedar beams from Lebanon and gold-leafed walls standing for centuries — was ash. The palace was destroyed. The city walls were breached. Everything that made Judah a kingdom was gone.
 
@@ -89,9 +63,9 @@ But Rachel carried something Nebuchadnezzar couldn't burn.
 
 A woman walked beside her. Esther. Generation 22, one of theirs, older than Rachel by fifteen years. Her children were grown, walking somewhere else in the column.
 
-"The old dreams are overwhelming," Esther said. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit—every burning city our bloodline ever witnessed. It's all active right now."
+"The old dreams are overwhelming," Esther said. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit. Every burning city our bloodline ever witnessed. It's all active right now."
 
-"I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage traveling downward through her body like something physical. She'd held it together for three days—organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
+"I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage traveling downward through her body like something physical. She'd held it together for three days, organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
 
 "You're shaking," Esther said.
 
@@ -101,7 +75,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "I could *see it*, Esther. That's what this bloodline is for. Twenty-three generations of encoding, six centuries of what the blood taught us, and when it mattered most — when I could read the signs as clearly as I see your face — I couldn't make a single person listen." Her voice cracked. She pressed her lips against her daughter's head and breathed until the trembling stopped. But the trembling didn't stop. It changed — became something different, something that didn't belong to her anger at Zedekiah. A deeper tremor. The grief of a woman who had loved someone so completely that her body had forgotten how to be singular, and had chosen principle over that person, and had never been whole again.
 
-Rachel didn't know whose grief it was. It came from below her own rage, from a place the blood had encoded so deep it had no images, no name, no story attached — only a sensation. A reaching. Her left hand moved without permission — the bronze ring warm against her finger, the ring that had traveled through Shiphra and Miriam and Judith to reach her, carrying murder and guilt and a boy's last breath — feeling for something beside her. For a hand. For the specific architecture of another person's fingers threaded through hers. She caught herself and pulled her hand back against her daughter's body, but the ache remained — an incompleteness, as if her bones remembered a shape they'd never held.
+Rachel didn't know whose grief it was. It came from below her own rage, from a place the blood had encoded so deep it had no images, no name, no story attached — only a sensation. A reaching. Her left hand moved without permission — the bronze ring warm against her finger, the ring that had traveled through Shiphra and Hannah and Tamar to reach her, carrying murder and guilt and a boy's last breath — feeling for something beside her. For a hand. For the specific architecture of another person's fingers threaded through hers. She caught herself and pulled her hand back against her daughter's body, but the ache remained — an incompleteness, as if her bones remembered a shape they'd never held.
 
 Centuries of women in the bloodline had felt this. None of them knew it was a woman named Nefertari reaching for a man named Amenhotep in a workshop that no longer existed. They only knew that loss had a physical address in the body — left side, open hand, empty air — and that some grief was older than the person grieving.
 
@@ -111,7 +85,7 @@ Esther said nothing for a while. Then: "What do you see now?"
 
 Rachel looked at the burning city behind them, the armed Babylonian guards around them, the thousands of displaced Judeans marching toward an unknown future.
 
-"Diaspora," she said. "Judah as a centralized kingdom is ending. But Judeans as a people will persist. Scattered. Adapted. Carrying practices instead of power."
+"The kingdom is done," she said. Her voice was flat. Exhausted. "But the people aren't. We've been scattered before and we survived. Not because of walls or armies. Because of what we carry in our heads — the laws, the stories, the ways of doing things." She looked at her daughter sleeping against Esther's chest. "You don't need a city for that."
 
 ---
 
@@ -119,11 +93,11 @@ Rachel looked at the burning city behind them, the armed Babylonian guards aroun
 
 The city of Babylon made Jerusalem look like a village.
 
-Rachel stood at the Ishtar Gate, staring up at blue-glazed brick walls taller than any building in Judah, their surfaces covered in relief lions and aurochs molded in yellow and white against the cobalt glaze. The Processional Way stretched beyond it — lined with more glazed-brick lions, their manes picked out in gold, the road itself paved in red and white limestone. The city smelled of river mud and sesame oil and bitumen — the black pitch Babylonians used to seal everything from rooftops to canal boats. Hundreds of thousands of people filled streets wider than Jerusalem's plazas, merchants hawking dates and barley beer from mudbrick stalls, temple priests in tall conical hats processing toward the ziggurat that loomed above the rooftops like a stepped mountain. This was empire. This was what centralized power looked like when it worked.
+Rachel stood at the Ishtar Gate, staring up at blue-glazed brick walls taller than any building in Judah, their surfaces covered in relief lions and aurochs molded in yellow and white against the cobalt glaze. The Processional Way stretched beyond it, lined with more glazed-brick lions, their manes picked out in gold, the road itself paved in red and white limestone. The city smelled of river mud and sesame oil and bitumen, the black pitch Babylonians used to seal everything from rooftops to canal boats. Hundreds of thousands of people filled streets wider than Jerusalem's plazas, merchants hawking dates and barley beer from mudbrick stalls, temple priests in tall conical hats processing toward the ziggurat that loomed above the rooftops like a stepped mountain. This was empire. This was what centralized power looked like when it worked.
 
-And somewhere in this city, the Order—Amenhotep's people—had representatives.
+And somewhere in this city, the Order, Amenhotep's people, had representatives.
 
-Across the plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd the way hers did — not watching people but watching *patterns.* Exits, power structures, flow of movement. The same sight. Different training.
+Across the plaza, a man watched her. Egyptian features beneath a Babylonian priest's robes. His eyes tracked the crowd the way hers did — not watching people but watching *patterns.* Exits, power structures, flow of movement. The same seeing. Different training.
 
 He recognized her the same moment she recognized him.
 
@@ -139,7 +113,7 @@ But Nefertari's people had a different plan.
 
 Thirty-two of their people had survived the march to Babylon.
 
-They met in a borrowed room — mudbrick walls sealed with bitumen plaster, reed mats on a packed-earth floor, a single clay oil lamp shaped like a clenched fist throwing unsteady light. Around them, ten thousand Judean exiles tried to rebuild lives from nothing.
+They met in a borrowed room, mudbrick walls sealed with bitumen plaster, reed mats on a packed-earth floor, a single clay oil lamp shaped like a clenched fist throwing unsteady light. Around them, ten thousand Judean exiles tried to rebuild lives from nothing.
 
 "What about the Order?" Esther asked. "I've seen their people here. Egyptian priests working for Babylon. They're advising the empire on population management."
 
@@ -151,7 +125,7 @@ They met in a borrowed room — mudbrick walls sealed with bitumen plaster, reed
 
 "But what if they succeed? What if centralized control actually works better than prevention?"
 
-Rachel looked around the circle. Thirty-two people who'd lost everything—kingdom, city, homes, status. But they carried the knowledge. Read the warning signs. Understood their purpose.
+Rachel looked around the circle. Thirty-two people who'd lost everything: kingdom, city, homes, status. But they carried the knowledge. Read the warning signs. Understood their purpose.
 
 "Then we learn something," she said. "But empires fall. Practices persist. We're here. That's enough for now."
 
@@ -159,23 +133,21 @@ Rachel looked around the circle. Thirty-two people who'd lost everything—kingd
 
 **Three months later: The encoding continues**
 
-Rachel's daughter—Leah, she'd named her—was six months old when the blood memory first activated.
+Rachel's daughter (Leah, she'd named her) was six months old when the blood memory first activated.
 
 Rachel woke to her crying. Not normal infant distress. Something deeper. Leah's eyes were unfocused, seeing something that wasn't there.
 
 Rachel recognized it immediately. Ancestral trauma surfacing. The inheritance activating earlier than any previous generation.
 
-She held Leah close, humming the lullaby her own mother had taught her. The one passed down through twenty-three generations. The one that wasn't just music—it was mnemonic. It encoded the fall into rhythm. It taught systems thinking through melody.
-
-*This is the lesson,* the song said in code. *Recognition before crisis. Intervention before cascade. Compassion before control.*
+She held Leah close, humming the lullaby her own mother had taught her. The one passed down through twenty-three generations. She didn't know all the words anymore. Nobody did. But the melody held.
 
 Leah calmed. Her breathing slowed. Her small hands unclenched.
 
 Six months old, and already carrying memories that predated her by six centuries.
 
-Rachel held her daughter in the dark of their exile quarters and felt the anger rise again—not at Zedekiah this time, but at the cost of it. At what this child would carry. At the fact that seeing clearly meant watching clearly, and watching clearly meant remembering everything, and remembering everything meant your six-month-old daughter woke screaming from memories of cities she'd never seen.
+Rachel held her daughter in the dark of their exile quarters and felt the anger rise again, not at Zedekiah this time, but at the cost of it. At what this child would carry. At the fact that seeing clearly meant watching clearly, and watching clearly meant remembering everything, and remembering everything meant your six-month-old daughter woke screaming from memories of cities she'd never seen.
 
-*I chose this for you,* Rachel thought. *I chose to carry the bloodline forward, and that means you inherit all of it. Every burning city. Every ignored warning. Every unraveling we couldn't prevent.*
+*I chose this for you,* Rachel thought. *I chose to carry the bloodline forward, and that means you inherit all of it. The burning cities and the ignored warnings and the collapses we saw coming and couldn't stop.*
 
 She hummed the lullaby until Leah slept. Then she sat in the dark, dry-eyed and furious, and did not sleep at all.
 
@@ -207,9 +179,9 @@ She crossed the exile quarter in bare feet, moving through dark streets where ot
 
 The network met in Esther's quarters. It always met in Esther's quarters — the older woman kept her lamp burning through the night, a habit she said was practical and Rachel knew was fear of the dark, of the ancestral dreams that came thicker without light.
 
-Three others were already there. Others who couldn't sleep. Whose blood wouldn't let them rest when there was work to be done.
+Three others were already there. Others who couldn't sleep. Whose inheritance wouldn't let them rest when there was work to be done.
 
-Rachel sat down. Took the clay tablet someone handed her — a list of exile families, their skills, their connections, their capacity to carry knowledge forward.
+Rachel sat down. Took the clay tablet someone handed her, a list of exile families, their skills, their connections, their capacity to carry knowledge forward.
 
 "The Egyptian branch sent word," Esther said. "Phoenician traders carried it. The Pattern Eye is still safe in Byblos."
 
@@ -237,7 +209,7 @@ Leah studied the merchants with an intensity that made passing traders smile at 
 
 Leah's brow furrowed. "Because when everyone trades with everyone, if one group has problems... the others help? The network is resilient."
 
-Rachel's throat tightened. She hadn't taught her that word. The blood had.
+Rachel's throat tightened. She hadn't taught her that word. The old knowledge had.
 
 "This is distribution," Rachel said. "This is what survival looks like when it works. We're not centralized in Jerusalem anymore. We're scattered across the empire. Harder to destroy."
 
@@ -253,11 +225,11 @@ It was a thing she said. She was working on believing it.
 
 Rachel went to the river because Leah had a fever.
 
-Not ancestral dreaming — an ordinary childhood fever, the kind that needed cool water and clean cloth and a mother's hand on a forehead. The kind that had nothing to do with blood encoding or three-thousand-year experiments or the particular grief of carrying someone else's memories. Just a sick child. Just water.
+Not ancestral dreaming. An ordinary childhood fever, the kind that needed cool water and clean cloth and a mother's hand on a forehead. The kind that had nothing to do with encoded memory or three-thousand-year experiments or the particular grief of carrying someone else's memories. Just a sick child. Just water.
 
 The man was already at the river's edge.
 
-She recognized him immediately — the Egyptian from the plaza, weeks ago. The one who'd tracked her with eyes that processed crowds the way she did. He stood ankle-deep in the Euphrates where the brown water moved slow and heavy between mudflats thick with tamarisk scrub, filling a clay vessel with the careful deliberation of someone who knew exactly how waterborne illness spread.
+She recognized him immediately. The Egyptian from the plaza, weeks ago. The one who'd tracked her with eyes that processed crowds the way she did. He stood ankle-deep in the Euphrates where the brown water moved slow and heavy between mudflats thick with tamarisk scrub, filling a clay vessel with the careful deliberation of someone who knew exactly how waterborne illness spread.
 
 He looked up. Recognized her.
 
@@ -271,7 +243,7 @@ Neither of them ran.
 
 "Rachel. Twenty-three."
 
-He absorbed this. Six generations between them — Amenhotep's side bred faster, concentrated the bloodline, while Nefertari's let it scatter and thin. Different strategies, different math, same inheritance.
+He absorbed this. Six generations between them. Nefertari's side scattered wider, more branches, more children carrying the line forward loosely, while Amenhotep's concentrated the bloodline into fewer, more carefully selected carriers. Different strategies, different math, same inheritance.
 
 "I was in the Temple," Sethnakht said. "After the burning. We found the vault."
 
@@ -281,13 +253,13 @@ Rachel's pulse spiked. But she kept her hands steady on the water vessel. "And?"
 
 "That's what she designed it for."
 
-"I know." He looked at the river. The Euphrates moved the way rivers move — patient, indifferent to the civilizations rotting on its banks. "I wrote in my report that we're not chasing a key. We're chasing a philosophy."
+"I know." He looked at the river. The Euphrates moved the way rivers move, patient, indifferent to the civilizations rotting on its banks. "I wrote in my report that we're not chasing a key. We're chasing a philosophy."
 
 "Are you here to chase it?"
 
 "No. I'm here because my daughter has a fever." He lifted the water vessel. "Not ancestral. Not encoded. Just a fever. She's three."
 
-The symmetry hit Rachel like a fist beneath the ribs. Two of them, two sick daughters, two parents at a river at dawn because some things were simpler than blood memory and older than philosophy. She looked at this man — this enemy, this rival, this man bearing the same impossible inheritance — and saw what she saw in her own reflection: someone ground to powder by seeing clearly in a world that preferred blindness.
+The symmetry hit Rachel like a fist beneath the ribs. Two of them, two sick daughters, two parents at a river at dawn because some things were simpler than inherited memory and older than philosophy. She looked at this man — this enemy, this rival, this man bearing the same impossible inheritance — and saw what she saw in her own reflection: someone ground to powder by seeing clearly in a world that preferred blindness.
 
 "Do you believe you're right?" she asked.
 
@@ -295,11 +267,11 @@ He was quiet long enough that the river filled the silence.
 
 "I believe the experiment hasn't run long enough to know." He met her eyes. "Do you?"
 
-Rachel thought of Zedekiah. Of Jerusalem burning. Of every warning she'd given that hit a wall of faith and bounced. She thought of Micah — Judith's entry in the Archive, the boy who walked into a plague camp at sixteen because seeing collapse and standing on the wall to watch wasn't prevention, it was cowardice with better information. She'd never met him. But she could feel his breathing if she listened for it.
+Rachel thought of Zedekiah. Of Jerusalem burning. Of every warning she'd given that hit a wall of faith and bounced. She thought of Micah — Tamar's entry in the Archive, the boy who walked into a plague camp at sixteen because seeing collapse and standing on the wall to watch wasn't prevention, it was cowardice with better information. She'd never met him. But she could feel his breathing if she listened for it.
 
 "I believe compassion is harder than control," she said. "And I believe the harder thing is usually the right one. But I don't have proof. Not after six hundred years."
 
-"Six hundred years and neither of us has proof." Sethnakht's mouth curved — not a smile, not quite. Something older. The expression of a man acknowledging an absurdity too enormous to laugh at. "Amenhotep and Nefertari would be furious."
+"Six hundred years and neither of us has proof." Sethnakht's mouth curved, not a smile, not quite. Something older. The expression of a man acknowledging an absurdity too enormous to laugh at. "Amenhotep and Nefertari would be furious."
 
 "Nefertari would say the experiment needs more time."
 
@@ -313,15 +285,15 @@ Rachel thought of Zedekiah. Of Jerusalem burning. Of every warning she'd given t
 
 "Then I'll say this: your network moved the key from a location we'd been watching for four centuries. That takes generational discipline I respect. Our network would have fought to hold a fixed position. Yours simply wasn't there when we arrived." He shouldered the water vessel. "I don't know which approach is right. But yours is harder to kill."
 
-He walked away along the riverbank, toward the quarter where Babylonian officials housed their advisors. Rachel watched him go — a man carrying water for a sick child, the same as her, enemy and mirror, six hundred years of opposing philosophy resolved into nothing more complicated than two parents at a river at dawn.
+He walked away along the riverbank, toward the quarter where Babylonian officials housed their advisors. Rachel watched him go, a man carrying water for a sick child, the same as her, enemy and mirror, six hundred years of opposing philosophy resolved into nothing more complicated than two parents at a river at dawn.
 
 She filled her own vessel and walked back to Leah.
 
 ---
 
-In the years that followed, the network rooted deep in Babylon's soil. When Cyrus of Persia conquered the empire in 538 BCE and decreed the exiles could return, Rachel split the network: twenty families back to Judah, twelve staying in Babylon and Persia, the Mediterranean branches continuing independently. Forty-four families across four regions. She stayed. Her daughter stayed. The Living Key went where it could do the most good — and Rachel had learned that diaspora wasn't exile. It was design.
+In the years that followed, the network rooted deep in Babylon's soil. When Cyrus of Persia conquered the empire in 538 BCE and decreed the exiles could return, Rachel split the network: twenty families back to Judah, twelve staying in Babylon and Persia, the Mediterranean branches continuing independently. Forty-four families across four regions. She stayed. Her daughter stayed. The Living Key went where it could do the most good, and Rachel had learned that diaspora wasn't exile. It was design.
 
-On the morning of the decree, Rachel took the bronze ring from her left hand and slipped it onto Leah's wrist. Too large for a fifteen-year-old's finger — it hung there like a bracelet, the craftsman's tool that had measured columns in Solomon's Temple and lay in a dead man's blood and pressed between a grieving woman's palm and a dying boy's hand in a plague camp outside Jerusalem.
+On the morning of the decree, Rachel took the bronze ring from her left hand and slipped it onto Leah's wrist. Too large for a fifteen-year-old's finger, it hung there like a bracelet, the craftsman's tool that had measured columns in Solomon's Temple and lay in a dead man's blood and pressed between a grieving woman's palm and a dying boy's hand in a plague camp outside Jerusalem.
 
 "What is it?" Leah asked.
 
@@ -345,7 +317,7 @@ Generations of Order leadership had debated the approach. Infiltration had faile
 
 But now the Temple was burning.
 
-Sethnakht picked his way through debris that was still hot enough to scorch sandal leather. Fallen roof beams of Lebanon cedar, their carved cherubim faces blackened beyond recognition. Shattered ceremonial vessels — golden lampstands twisted by heat, bronze incense shovels half-melted, the remains of the showbread table crushed beneath a fallen column drum. The smell of cedar smoke and something else — something older, mineral, the limestone ashlar blocks themselves fracturing from thermal stress, spilling pale dust into air already thick with ash.
+Sethnakht picked his way through debris that was still hot enough to scorch sandal leather. Fallen roof beams of Lebanon cedar, their carved cherubim faces blackened beyond recognition. Shattered ceremonial vessels: golden lampstands twisted by heat, bronze incense shovels half-melted, the remains of the showbread table crushed beneath a fallen column drum. The smell of cedar smoke and something else, something older, mineral, the limestone ashlar blocks themselves fracturing from thermal stress, spilling pale dust into air already thick with ash.
 
 He found the eastern colonnade. Or what remained of it. The columns had fallen inward, massive drums of carved stone scattered across the foundation floor. The geometric patterns Khepri had described -- the unusual spacing that marked the vault location -- were barely visible beneath soot and rubble.
 
