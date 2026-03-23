@@ -91,7 +91,7 @@ She paused. Her eyes drifted — not prophecy, but sideways, inward, as if chasi
 
 "Whose was it?"
 
-"I don't know. Someone's. One of theirs. One of the ones who came before." She pressed her fingers against her temple — hard, the way you press a wound to stop bleeding. "It happens more now. Three, four times a day. I'll be in the middle of a prophecy session and suddenly I'm certain — *certain* — that I grew up near a river with reeds and someone was teaching me to grind herbs and my name was — it wasn't Aristonike. And then it passes and I don't know if it was the pneuma or the ancestral memory or if there's even a difference anymore."
+"I don't know. Someone's. One of theirs. One of the ones who came before." She pressed her fingers against her temple — hard, holding something in. "It happens more now. Three, four times a day. I'll be in the middle of a prophecy session and suddenly I'm certain — *certain* — that I grew up near a river with reeds and someone was teaching me to grind herbs and my name was — it wasn't Aristonike. And then it passes and I don't know if it was the pneuma or the ancestral memory or if there's even a difference anymore."
 
 She looked at her hands. The left one was shaking. The right was still.
 

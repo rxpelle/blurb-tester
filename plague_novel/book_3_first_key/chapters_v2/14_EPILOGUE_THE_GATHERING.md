@@ -14,7 +14,7 @@ Not fever. Not sunlight. Something internal, a heat that lived on the left side 
 
 He felt it strongest at night. Lying on his sleeping mat in the workshop, wood shavings on the packed-earth floor, the smell of cedar and olive oil, an adze and a bow drill and a bronze plumb line hanging from pegs his father had driven into the limestone wall before he died, a half-finished yoke clamped to the sycamore workbench — he would feel it spread from his left side across his chest, down his arm, into his fingers. And his left hand would move. Not deliberately. The way a sleeping person shifts toward a body that isn't there, fingers spreading, searching for something his mind couldn't name but his body remembered with absolute specificity: the exact temperature of another person's skin. The pressure of fingers threading through his. The particular architecture of a hand that fit his — not because they were designed for each other, but because twenty years of proximity had worn them into complementary shapes, the way a river wears stone.
 
-He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it the way he knew the collapse patterns and the palace fires and the smell of burning papyrus — through inherited memory so vivid it was indistinguishable from experience.
+He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it as certainly as he knew the collapse patterns and the palace fires and the smell of burning papyrus — through inherited memory so vivid it was indistinguishable from experience.
 
 He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus: three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated — shallow, almost silent, a rhythm so specific he could have identified her in a dark room by the sound of her lungs alone.
 
@@ -34,7 +34,7 @@ Small crowd. Maybe forty people on a hillside above the Capernaum shore, where b
 
 He was mid-sentence — something about roots in shallow ground — when it moved.
 
-Not stayed in his chest where it always lived. *Moved.* The way a dam gives. He felt it leave his ribcage, pour through his shoulders and down his arms and out through his palms and the soles of his feet into the stone he stood on, and then *past* him — past the boundary of his skin entirely — expanding outward the way heat expands from a kiln when you open the door, except this wasn't heat, it was something he had no word for, something that had been pooling in his bloodline for generations, rising a little with each life — and now the dam had broken and it was all moving at once.
+Not stayed in his chest where it always lived. *Moved.* The way a dam gives. He felt it leave his ribcage, pour through his shoulders and down his arms and out through his palms and the soles of his feet into the stone he stood on, and then *past* him — past the boundary of his skin entirely — expanding outward like heat from a kiln when you open the door, except this wasn't heat, it was something he had no word for, something that had been pooling in his bloodline for generations, rising a little with each life — and now the dam had broken and it was all moving at once.
 
 It reached the woman in the front row first.
 
@@ -46,7 +46,7 @@ Her face changed. Not gradually — all at once, the way a landscape changes whe
 
 Her husband turned to her. Opened his mouth to ask what was wrong. And then it reached him too.
 
-Jesus watched it happen to his face. The same shift. The same sudden presence of something enormous behind the eyes. The man's jaw worked. His hand found his wife's hand and gripped it — hard, desperately, the way you grip someone when the ground moves — and his breathing changed. Went deep and searching. As if his lungs were looking for another rhythm. As if somewhere in his body, a knowledge older than his own life had woken up and was telling him: *this is what you do when love is present. You match your breath to it. You let it hold you.*
+Jesus watched it happen to his face. The same shift. The same sudden presence of something enormous behind the eyes. The man's jaw worked. His hand found his wife's hand and gripped it — hard, desperately, as if the ground had moved beneath them — and his breathing changed. Went deep and searching. As if his lungs were looking for another rhythm. As if somewhere in his body, a knowledge older than his own life had woken up and was telling him: *this is what you do when love is present. You match your breath to it. You let it hold you.*
 
 They were both weeping now. Holding each other in the front row of a hillside teaching, forty people around them, weeping with the stunned helplessness of people ambushed by an emotion they didn't choose and couldn't name.
 
@@ -56,7 +56,7 @@ A young mother three rows back pulled her infant closer to her body and bent her
 
 The fisherman on the rock at the edge of the group was the one who broke Jesus.
 
-A hard man. Scarred hands. The kind of face that had been hit enough times to learn not to show pain. He sat with his jaw clenched and his eyes locked on the middle distance and tears running freely down weathered cheeks that had probably not been wet since childhood. He wasn't fighting it. He was enduring it — the way you endure a wave that's too large to swim through, the way you endure a grief that's too old to have a name. His right hand had moved to his left forearm and was pressing there, hard, the way you press a wound to stop the bleeding. And his chest was moving in a rhythm that had nothing to do with his own breathing — rising and falling in the pattern of someone else's lungs, someone who wasn't there, someone who might never have been there but whose absence his body recognized the way a phantom limb recognizes the hand it used to have.
+A hard man. Scarred hands. The kind of face that had been hit enough times to learn not to show pain. He sat with his jaw clenched and his eyes locked on the middle distance and tears running freely down weathered cheeks that had probably not been wet since childhood. He wasn't fighting it. He was enduring it — the way you endure a wave that's too large to swim through, a grief that's too old to have a name. His right hand had moved to his left forearm and was pressing there, hard, holding something shut. And his chest was moving in a rhythm that had nothing to do with his own breathing — rising and falling in the pattern of someone else's lungs, someone who wasn't there, someone who might never have been there but whose absence his body recognized the way a phantom limb recognizes the hand it used to have.
 
 His lips moved. No sound came out. But Jesus, watching from seven paces away, could read the shape of the word on his mouth, not a name, not a prayer, just a single syllable repeated like a heartbeat. The fisherman didn't know what he was saying. Didn't know that his body was trying to pronounce a word it had never learned, a word from a language dead for a thousand years, a vowel sound that had once made someone in a workshop look up from his bench and say *Do that again.* The fisherman only knew that something inside him was speaking and the sound it made was the sound of missing someone he'd never met.
 
@@ -70,7 +70,7 @@ He didn't know how long it lasted. Minutes. Maybe longer. The lake lapped at the
 
 When it finally settled — not ended, never ended, just returned to the place beneath his ribs where it always lived — the hillside was very quiet.
 
-A bird called from the scrub near the water. The wind moved through the grass and the grass bent and recovered and bent again. Somewhere down the shore, a boat knocked gently against its mooring. The ordinary sounds of the world continuing, patient, unhurried, the way the world always continues after something enormous passes through it and leaves everything looking the same while nothing is.
+A bird called from the scrub near the water. The wind moved through the grass and the grass bent and recovered and bent again. Somewhere down the shore, a boat knocked gently against its mooring. The ordinary sounds of the world continuing, patient, unhurried, as it always continues after something enormous passes through it and leaves everything looking the same while nothing is.
 
 People blinked. Wiped faces. Looked at each other with the dazed tenderness of survivors. Nobody spoke. There was nothing to say that wouldn't reduce what had happened to something smaller than it was.
 

@@ -231,7 +231,7 @@ The oil lamps flickered. Someone's cup scraped against the stone table.
 
 "Then we learn something." Miriam looked at Judith, ten years old, silent in the corner. Already carrying what the rest of them carried. "We keep doing what we're doing. And we trust that our descendants will remember why we chose the harder way."
 
-Judith hadn't spoken all evening. She'd sat with her arms wrapped around her knees, watching the adults the way she watched everything — with those too-old eyes that had been dreaming since she was five.
+Judith hadn't spoken all evening. She'd sat with her arms wrapped around her knees, those too-old eyes moving from face to face — eyes that had been dreaming since she was five.
 
 "Mother." Her voice was small but steady. "In the dreams, every city that burned had someone like us. Warning them."
 

@@ -460,7 +460,7 @@ Timocrates of Athens -- Generation 27, Alexander's age -- said what the memory w
 
 "You're describing something that has never existed."
 
-"Religions persist for millennia. We build something with religion's durability and an empire's capacity for action. It moves between power structures the way water moves between vessels -- taking the shape of each era without losing its essential nature."
+"Religions persist for millennia. We build something with religion's durability and an empire's capacity for action. It moves between power structures like water between vessels — taking the shape of each era without losing its essential nature."
 
 The vote was unanimous.
 
