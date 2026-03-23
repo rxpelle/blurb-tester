@@ -110,15 +110,25 @@ Something loosened in her chest. No blood in him, no dreams. But she'd spent yea
 
 "We don't intervene." Tirzah's voice was flat. "We warn. We teach. We don't control grain markets."
 
-"Nefertari would have —"
+"I already sent word."
 
-"Nefertari didn't have a network of five people in a hill village." Tirzah cut her off. "We're not strong enough to act directly. And even if we were, that's their approach, not ours."
+The room shifted. Tirzah looked at the priestess and felt something cold settle in her chest.
 
-The priestess held her gaze. "There's a line between principled restraint and letting people starve because you're afraid of becoming Amenhotep."
+"Three days ago," the priestess said. Her chin was up. "To our contact in the merchant quarter. Told him which grain stores were sitting full while the hill families went short. Told him to spread it — names, quantities, which merchants were hoarding and how much."
 
-No one spoke. The oil lamp guttered. Finally Tirzah said, "Send word to the Phoenician coastal families. They can decide locally whether to act. That's how distributed knowledge works — we don't make the call for them."
+"You had no authority to —"
 
-They covered the rest quickly — Cyprus, a rumored offensive agent in the Sinai, Ephraim's progress. Routine.
+"The Reuben family lost their youngest last week. Fever, but she would have survived it with proper food. She was three." The priestess's voice didn't waver. "How many three-year-olds do you want me to watch die while we warn and teach and wait for the grain merchants to discover their own conscience?"
+
+Nobody moved. The oil lamp guttered. Tirzah could feel the room tilting — not toward the priestess, not yet, but away from certainty. The trader was studying the table. The others wouldn't meet her eyes.
+
+"If Amenhotep's people find out we're manipulating trade in Sidon," Tirzah said, "they map our contacts. They find the network. Twenty-two years of invisibility, gone."
+
+"And if we do nothing, sixty families starve through winter and there's no network left to find." The priestess leaned back. "There's a line between principled restraint and letting children die because you're afraid of becoming Amenhotep."
+
+Tirzah held the silence as long as she could bear it. Then: "What's done is done. But next time you act without the group, you act alone. That's not a threat. It's the difference between us and them — we decide together or we're just another hierarchy."
+
+The priestess nodded. She didn't apologize. Tirzah hadn't expected her to.
 
 Then the Phoenician studied her. "Do you miss her?"
 
@@ -140,7 +150,19 @@ Tirzah returned from the coast with the traders. But the story she told Ephraim 
 
 The road to Sidon had taken four days on foot. She'd walked it alone, through hill country she knew and coastal lowlands she didn't, sleeping in the open because the settlements along the route had closed their doors to strangers. Already. The hoarding instinct was spreading faster than drought.
 
-She'd arrived at the merchant quarter sunburned and dust-covered, a hill country farmer asking to speak with men who controlled the grain routes between three kingdoms. The first merchant refused to see her. The second listened for two minutes, then called for his servant to show her out. The third, an older man named Abdi-Milki, with ink-stained fingers and the permanent squint of someone who'd spent decades reading shipping manifests by lamplight, let her talk.
+She'd arrived at the merchant quarter sunburned and dust-covered, a hill country farmer asking to speak with men who controlled the grain routes between three kingdoms. The first merchant refused to see her. The second, a heavy man with oiled hair and a courtyard full of sealed grain jars, listened for two minutes. She was explaining the trade-route cascade when he raised a hand.
+
+"You're the healer from the hills." Not a question. The priestess's message had reached Sidon faster than Tirzah had. "The one whose people have been telling my customers where my grain stores are."
+
+Tirzah's stomach dropped. The priestess. The unauthorized contact. Already here, already making her job harder.
+
+"I came to talk about reopening the routes —"
+
+"You came to tell me my business." He called for his servant. "Show her out."
+
+She stood in the street with dust on her face and the merchant's door closed behind her and thought: *This is what insubordination costs. She acts without the group, and I walk into a room already poisoned against me.*
+
+The third merchant, an older man named Abdi-Milki, with ink-stained fingers and the permanent squint of someone who'd spent decades reading shipping manifests by lamplight, let her talk.
 
 She laid it out the way Nefertari had taught her. Not as prophecy. Not as philosophy. As arithmetic.
 
@@ -204,13 +226,19 @@ When she returned home, Ephraim was waiting.
 
 Tirzah knelt beside her son. "You and your children and your children's children. For as long as the bloodline persists."
 
-"It sounds hard."
+"What if I don't want to?"
 
-"It is hard. But it's also important."
+The question hit her harder than anything the merchant or the priestess had thrown. Because she'd asked it herself, at twelve, standing in a doorway watching two people walk in opposite directions, and nobody had answered her either.
 
-Ephraim thought about this. Then, with seven-year-old seriousness: "I'll try. I want to see what you see."
+"Then the dreams come anyway," she said. "The burning cities. The screaming. You'll see the patterns whether you choose to or not. The only choice is what you do with them."
 
-Tirzah hugged him. "That's all I ask."
+Ephraim's face was working — not crying, but close. The face of a child absorbing something too heavy for his frame. "That's not really a choice."
+
+"No," Tirzah said. "It's not."
+
+He was quiet for a long time. Then, with seven-year-old seriousness that broke her heart precisely because it shouldn't have been necessary: "I'll try. I want to see what you see."
+
+Tirzah hugged him. Held on longer than she meant to.
 
 ---
 

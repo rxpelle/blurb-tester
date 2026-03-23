@@ -101,15 +101,15 @@ The safe house was quiet except for the distant sound of Egyptian market vendors
 
 Deborah didn't move. She recognized the shape of his grief — not from her own life, but from the stories Nefertari had told her before she died, and from something older, something carried in the inheritance.
 
-"I know that shape," she said. "Nefertari told me once — at the end, when she was dying — about the man she'd built the Protocol with. Amenhotep. He mispronounced a word in the Per Ankh when they were students. Said *heset* instead of *hesat* — the cow instead of the jar. She laughed, a sound she could never reproduce on purpose. He said, *Do that again.* She couldn't." Deborah's voice was steady but her eyes were distant, carrying someone else's memory. "She spent forty-seven years reaching for that laugh. It was the last thing she spoke about before she died."
+"Nefertari told me once — at the end, when she was dying — about the man she'd built the Protocol with. Amenhotep. He mispronounced a word in the Per Ankh when they were students. Said *heset* instead of *hesat* — the cow instead of the jar. She laughed, a sound she could never reproduce on purpose. He said, *Do that again.* She couldn't." Deborah's voice was flat, clinical, delivering it the way she delivered everything — like a field report. "She spent forty-seven years reaching for that laugh. It was the last thing she spoke about before she died."
 
 Neither of them spoke.
 
-"That's what survives, Taharqa. Not the philosophy. The laugh you can't reproduce. The hands you see everywhere." She held his gaze. "Your children will carry yours. They won't know whose hands. They won't know whose screaming. But they'll know the shape of ruin. And they'll know the shape of love."
+"That's what the encoding preserves. Not the philosophy. The irreproducible moments. The laugh. The hands." She said it without warmth, without comfort, the way a surgeon names what the body carries. "Your children will inherit yours. They won't know whose hands. They won't know whose screaming. But the encoding will hold it."
 
 "Is that supposed to comfort me?"
 
-"No. It's supposed to make sure it survives."
+"I don't do comfort. I do preservation."
 
 Taharqa met her eyes. "The Mycenaean system is dead. So the question is: do I spend my life trying to rebuild it, or learn to build something that doesn't break the same way?"
 
@@ -117,25 +117,7 @@ Taharqa met her eyes. "The Mycenaean system is dead. So the question is: do I sp
 
 ---
 
-## SCENE 3: The Training Begins
-
-**Three months later.**
-
-Taharqa learned Nefertari's network operated nothing like Mycenaean palaces. No centralized control. No tribute hierarchies. Everything his palace training said was inefficient.
-
-And yet it was *surviving* while the palaces burned.
-
-"I don't understand," he told Deborah after a month of training. "The Mycenaean system was more sophisticated. How is *this* working better?"
-
-"Because your palaces needed *everything* to work." She said it flatly — without the warmth Nefertari had apparently radiated. "Every piece depending on every other piece. Lose one trade route and the bronze stops. Lose the bronze and the army weakens. Lose the army and the raiders come. Beautiful system. One bad year from ruin."
-
-"You sound like you're trying to convince yourself."
-
-Deborah looked at him sharply. Then her expression shifted — not quite a smile. "Nefertari was certain our way was right. I'm not. But I run it anyway, because someone has to."
-
----
-
-## SCENE 4: The Greek Branch
+## SCENE 3: The Greek Branch Decision
 
 **One year later.**
 
@@ -157,21 +139,37 @@ Deborah cut in from the doorway. "Give them what happened. Not what you think it
 
 Aristomache turned to the room. "She wants us to give our children the fire without telling them it burns."
 
-A murmur ran through the twelve. Taharqa watched their faces — refugees who'd lost everything making a decision about everything that came after. Nikos, who'd carried his dead son's wooden horse onto the ship, leaned forward. Thekla, whose burns still hadn't healed, gripped her own elbows. These weren't scholars debating abstractions. These were people deciding what kind of haunting they'd pass to their children.
+A murmur ran through the twelve. Taharqa watched their faces — refugees who'd lost everything making a decision about everything that came after.
+
+Nikos spoke next. He'd carried his dead son's wooden horse onto the ship. He still carried it — Taharqa had seen it tucked into his belt, the paint worn to bare wood by a hand that couldn't stop reaching for it. "My boy was four." His voice was controlled in the way that meant it could stop being controlled at any moment. "He dreamed the fires before they started. Woke up screaming about walls falling. We thought it was nightmares." He paused. "If I'd known what he was seeing — if someone had given me the *lesson*, not just the image — I might have gotten him out in time."
+
+Aristomache's hand found his arm. She didn't look at him. Her fingers gripped and held.
+
+"I vote for the lesson," Nikos said. "I don't care what the purists say. You give a child a burning palace and no explanation, you give him what my boy had. Screaming. In the dark. Alone."
 
 Philos — an older man, former palace administrator, the kind of steady pragmatist who'd survived by being useful to whoever held power — raised his hand. "I ran Tiryns' grain stores for twenty years. The palaces didn't fall because someone in a room like this made the wrong decision. They fell because the rains changed and the tin stopped coming and the Sea People showed up all in the same decade." He looked at Aristomache. "If we tell our grandchildren *palaces killed us*, they'll believe it. And they'll be wrong. The drought killed us. The trade collapse killed us. If we give them the wrong story, they'll spend their lives guarding against the wrong thing."
 
-"We're guessing either way!" Aristomache's voice cracked. "Raw data without interpretation is just — it's just *screaming.* It's burning palaces and drowning children and no context for any of it. You want to fill their dreams with horrors and let them figure it out alone?"
+Thekla stood up. Her burns ran from her left wrist to her shoulder — the shiny, tight skin of someone who'd been pulled from a building that was already gone. She hadn't spoken all evening. When she did, her voice was rough, barely above a whisper.
+
+"I was under the roof when it fell. That's in me now. That's in my blood." She held up her scarred arm. "If my daughter inherits this, I want her to inherit *what happened.* Not what I think it meant. Because I was on fire, and I didn't understand anything. And I don't trust my understanding now. I trust what my body saw."
 
 Someone's lamp hissed and dimmed. In the distance, an Egyptian market vendor called out prices for fish that none of them could afford.
 
+"We're guessing either way!" Aristomache's voice cracked. "Raw data without interpretation is just — it's just *screaming.* It's burning palaces and drowning children and no context for any of it. You want to fill their dreams with horrors and let them figure it out alone?"
+
+Thekla looked at her. "I'd rather give them the truth and let them be wrong than give them the lesson and make them certain."
+
+The courtyard went quiet. Twelve people breathing in the Delta wind, the weight of unborn generations sitting on their shoulders.
+
 "Vote," Taharqa said. His voice came out rougher than he intended.
 
-They voted with stones, white for empirical data, black for interpreted lessons. Taharqa watched each hand reach into the bowl. Aristomache's fingers trembled when she dropped her black stone. Philos placed his white one with the deliberate calm of a man who'd administered palace stores for thirty years.
+They voted with stones, white for empirical data, black for interpreted lessons. Taharqa watched each hand reach into the bowl. Nikos dropped his black stone without hesitation. Aristomache's fingers trembled when she dropped hers. Thekla placed her white one with the burned hand, steady. Philos placed his with the deliberate calm of a man who'd administered palace stores for thirty years.
 
 Seven white. Five black.
 
-Aristomache stared at the bowl. Then she looked up at Deborah with an expression that would haunt Taharqa for years — not anger but grief, the particular grief of someone who'd just lost a fight over what her daughter would dream.
+Two votes. The margin between *give them the data and trust them* and *give them the lesson and protect them.* The margin between Thekla's scarred certainty and Nikos's grief. Two stones in a bowl in a borrowed house, and three thousand years of dreaming children on the other side.
+
+Aristomache stared at the bowl. Then she looked up at Taharqa — not Deborah, Taharqa, the one who'd called the vote — with an expression that would haunt him for years. Not anger but grief, the particular grief of someone who'd just lost a fight over what her daughter would dream.
 
 "My girl will inherit the screaming," she said quietly. "And she'll have to figure out what it means by herself."
 
@@ -183,7 +181,7 @@ But Melantha was under cyclopean stones in a country that no longer existed. And
 
 ---
 
-## SCENE 5: The First Greek Encoding
+## SCENE 4: The First Greek Encoding
 
 **One year later. 1097 BCE.**
 
