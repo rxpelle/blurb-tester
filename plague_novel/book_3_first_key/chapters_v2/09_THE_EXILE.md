@@ -75,9 +75,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "I could *see it*, Esther. That's what this bloodline is for. Twenty-three generations of encoding, six centuries of what the blood taught us, and when it mattered most — when I could read the signs as clearly as I see your face — I couldn't make a single person listen." Her voice cracked. She pressed her lips against her daughter's head and breathed until the trembling stopped. But the trembling didn't stop. It changed — became something different, something that didn't belong to her anger at Zedekiah. A deeper tremor. The grief of a woman who had loved someone so completely that her body had forgotten how to be singular, and had chosen principle over that person, and had never been whole again.
 
-Rachel didn't know whose grief it was. It came from below her own rage, from a place the blood had encoded so deep it had no images, no name, no story attached — only a sensation. A reaching. Her left hand moved without permission — the bronze ring warm against her finger, the ring that had traveled through Shiphra and Hannah and Tamar to reach her, carrying murder and guilt and a boy's last breath — feeling for something beside her. For a hand. For the specific architecture of another person's fingers threaded through hers. She caught herself and pulled her hand back against her daughter's body, but the ache remained — an incompleteness, as if her bones remembered a shape they'd never held.
-
-Centuries of women in the bloodline had felt this. None of them knew it was a woman named Nefertari reaching for a man named Amenhotep in a workshop that no longer existed. They only knew that loss had a physical address in the body — left side, open hand, empty air — and that some grief was older than the person grieving.
+Her left hand moved. The reaching — the old one, the one that didn't belong to her. She caught herself and pulled her hand back against her daughter's body, but the ache remained.
 
 "What's the point of seeing it coming if you can't stop people from walking into it?"
 
@@ -169,7 +167,7 @@ She hummed the lullaby until Leah slept. Then she sat in the dark, dry-eyed and 
 
 Rachel woke reaching left.
 
-Her hand found the sleeping mat, the rough wool blanket, the packed-earth floor of their quarters in the exile district. Not what she was reaching for. Never what she was reaching for. The ache in her left side flared — that phantom incompleteness, the body's memory of a hand it had never held, an absence so old it predated her own birth by six centuries. She'd felt it before, in Jerusalem. But here, displaced, the sensation had grown teeth. As if whatever lived in the bloodline's oldest encoding recognized exile — recognized *this specific grief* — and was leaning into it. A woman torn from everything she'd built, lying in the dark in a city that wasn't hers. The inheritance knew that feeling. Knew it in the bones.
+Her hand found the sleeping mat, the rough wool blanket, the packed-earth floor. Not what she was reaching for. Never what she was reaching for. Here, displaced, the ache had grown teeth — as if the inheritance recognized exile, recognized *this specific grief*, and was leaning into it.
 
 Beside her, Leah breathed in the shallow rhythm of a child deep in ancestral dreaming. Five years old now. Growing fast, growing strange. Already asking questions Rachel didn't know how to answer. Already waking some mornings with a look behind her eyes that was too old, too weighted, too familiar.
 

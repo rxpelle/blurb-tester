@@ -147,8 +147,6 @@ Sennacherib's siege engines stood abandoned. His supply wagons burned. His grand
 
 The city celebrated. Called it a miracle. God's hand shielding Jerusalem.
 
-Only Tamar and Micah knew the truth: rats, crowding, fouled water, summer heat. The inevitable arithmetic of bodies packed too close together for too long.
-
 "They think I prophesied this," Micah said. "The priests. The king. They're calling me inspired. Touched by God."
 
 "You did prophesy it. You saw what was coming and warned them."

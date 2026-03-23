@@ -395,7 +395,7 @@ He thought about a beetle on a garden path and a boy saying *don't tell anyone* 
 
 The dispatch said they'd found Alexander on a couch in Nebuchadnezzar's palace, surrounded by generals already dividing his empire. It did not say whether his left hand had been open or closed. Theophrastus needed to know and would never know and carried the not-knowing for the rest of his life.
 
-The networks' representatives arrived that evening. Both sides claimed the result. Defensive: fragmentation proves centralized control fails. Offensive: unification proves strategic breeding works. They argued for two hours in the Lyceum's back room while Theophrastus sat in the garden and thought about a boy who'd moved a beetle off a path so it wouldn't be stepped on.
+The networks' representatives arrived that evening. Both sides claimed the result. Defensive: fragmentation proves centralized control fails. Offensive: unification proves strategic breeding works. They argued for two hours in the Lyceum's back room while Theophrastus sat in the garden and said nothing.
 
 Neither side had known the boy. Neither had thought to ask whether the conqueror's hand had been open or closed when he died.
 

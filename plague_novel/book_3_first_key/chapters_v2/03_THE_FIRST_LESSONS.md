@@ -250,8 +250,6 @@ At harvest, a runner arrived from Sidon with the collar wrapped in cedar cloth a
 
 Tirzah held the collar for a long time. It felt lighter than she remembered, as if the part of her it had represented (the princess, the daughter, the girl who'd been somebody) had burned off somewhere on the road to the coast and come back as something else. Something harder and less beautiful and more useful.
 
-It was a small victory. Barely noticed. But Tirzah understood: preventing the unraveling meant catching these small breaks before they cascaded. It meant reading the signs early. It meant intervention before crisis, and crisis always extracted a price.
-
 When she returned home, Ephraim was waiting.
 
 "You stopped it," he said. "The pattern. The thing that was starting."

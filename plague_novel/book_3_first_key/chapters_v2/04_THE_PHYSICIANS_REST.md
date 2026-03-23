@@ -152,7 +152,7 @@ He'd set down the stylus. "Then I'll have to keep mispronouncing things until yo
 
 She'd smiled. He'd gone back to reading. And for the rest of that night — three more hours, until the lamp finally died and they sat in darkness finishing a discussion about wound care, she'd felt his attention on her like a second lamp, warm and steady, waiting for the laugh to come back.
 
-It never did. Not like that. Not the involuntary, unguarded version that came from a place she hadn't known existed until his mispronunciation found it. She'd laughed many times in the years that followed — at his arguments, at his stubbornness, at the way he cracked his knuckles before difficult calculations. But never again the laugh that had made him look like a man seeing light. And she'd carried that loss for decades, the knowledge that somewhere inside her was a sound that had moved him more than any words she'd ever spoken, and she could never reach it on purpose.
+It never did. Not like that.
 
 That was the memory the fever chose. Not the Protocol. Not the keys. Not the argument or the hand-hold or the split. A mispronounced word and a laugh she could never repeat and the way his face had looked in lamplight when he heard it.
 

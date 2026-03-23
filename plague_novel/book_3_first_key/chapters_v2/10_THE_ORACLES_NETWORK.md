@@ -155,7 +155,7 @@ It terrified them both. Not because it was strange, but because it felt inevitab
 
 "And you? Do you believe it's worth this?" He touched her trembling hand.
 
-"Ask me in three years. When I can't remember my own name." She said it flatly, the way you state a medical prognosis you've already accepted. "It's already started. Last month I woke up and couldn't remember the word for *pomegranate.* Not the Greek. Not any language. The thing itself — red, seeded, sweet — I knew everything about it except what to call it. And while I was reaching for the word, another word came instead. An Egyptian word. *Inhmn.* A word I've never learned, in a language I've never spoken, for a fruit I ate in a garden I've never visited. And for thirty seconds that felt right. That felt like *my* word."
+"Ask me in three years. When I can't remember my own name." She said it flatly, the way you state a medical prognosis you've already accepted.
 
 She pulled away from him. Not far. Just enough to stand on her own.
 
@@ -171,7 +171,7 @@ Aristonike stared at him. "You came here to investigate. You've investigated. Go
 
 "Why?"
 
-He didn't have a good answer. The pulse in his throat was still beating to her rhythm, and every rational argument he'd built over three weeks of investigation was dissolving under the simple fact that her hand had stopped shaking when he was near.
+He didn't have a good answer. The pulse in his throat was still beating to her rhythm, and every rational argument he'd built over three weeks of investigation was dissolving under the simple fact that her hand had gone steady when he was near.
 
 "Because you need someone who can learn the system before you can't run it anymore." He kept his voice clinical, the way people like them spoke when the truth was too large for plain language. "And because I don't want you to do this alone."
 
@@ -183,7 +183,7 @@ She searched his face. Then she said: "I have three years. Maybe less. The tremo
 
 "It's what we have."
 
-She kissed him. Not gently. With the desperation of someone who'd spent fifteen years serving the network without anyone seeing the cost. Her hands — trembling again now, the stillness already fading — gripped his shoulders.
+She kissed him. Not gently. With the desperation of someone who'd spent fifteen years serving the network without anyone seeing the cost. Her hands gripped his shoulders, unsteady again, the stillness already fading.
 
 When they broke apart, she said: "You can't prevent pneuma poisoning."
 
@@ -241,7 +241,7 @@ She was quiet for a moment. Then: "Kleomenes. What's my mother's name?"
 
 His hand tightened on her arm.
 
-"I can see her face," Aristonike said. "I can see her hands. She grew herbs. Or — someone grew herbs. Someone's mother." The tremor in her voice was worse than the tremor in her hands. "I have seventeen mothers in my head and I can't find which one is mine."
+"I can see her face," Aristonike said. "I can see her hands. She grew herbs. Or — someone grew herbs. Someone's mother." Her voice broke worse than her hands ever had. "I have seventeen mothers in my head and I can't find which one is mine."
 
 He told her. She repeated it twice, pressing it into her memory like a seal into wax.
 
@@ -281,7 +281,7 @@ The woman who stepped out of the shadow was not someone he'd expected to meet he
 
 "Two generations at least. Possibly three." He paused. "You knew."
 
-"I've known since my third year. The recognition isn't something you can hide at close range. Not when you're breathing the same vapors." The torchlight caught the fine tremor in her left hand. "I chose not to expose you."
+"I've known since my third year. The recognition isn't something you can hide at close range. Not when you're breathing the same vapors." Her left hand curled against her side. "I chose not to expose you."
 
 "Why?"
 
@@ -299,7 +299,7 @@ Aristonike's expression didn't change. "We moved the Pattern Eye years before th
 
 "Yes. And that choice is worth preserving."
 
-The torch sputtered. Aristonike straightened, the tremor visible again.
+The torch sputtered. Aristonike straightened, her composure resettling like a mask.
 
 "The Persians will move against Greece within a generation," she said. "When that war arrives, the compact will be tested -- our people on both sides, fighting for nations that don't know what we are."
 
