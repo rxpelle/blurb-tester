@@ -13,7 +13,7 @@
 
 Taharqa had been Thrasymedes once, before the fall took everything.
 
-He stood now in what remained of Tiryns' cyclopean walls (the megaron's great hearth cold, frescoes of boar hunts cracking on the walls, overturned pithoi leaking the last of the olive oil across the painted floor) watching smoke rise from Mycenae thirty stadia to the north. Third major palace to burn this season. Pylos had fallen two years ago, his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
+He stood now in what remained of Tiryns' cyclopean walls (the megaron's great hearth cold, frescoes of boar hunts cracking on the walls, overturned pithoi leaking the last of the olive oil across the painted floor) watching smoke rise from Mycenae to the north. Third major palace to burn this season. Pylos had fallen two years ago, his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
 
 All ash now.
 
@@ -39,7 +39,7 @@ His assistant stared. "You're planning to run."
 
 "I'm planning to survive. There's a difference."
 
-Six months later, he sailed with two hundred seventeen refugees on twelve hide-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. He knew which harbors were deep enough without checking charts, knew the storm seasons by a calendar no one had taught him, knew which trade routes still functioned because something in his blood had navigated this water before.
+Six months later, he sailed with two hundred seventeen refugees on twelve linen-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. He knew which harbors were deep enough without checking charts, knew the storm seasons by a calendar no one had taught him, knew which trade routes still functioned because something in his blood had navigated this water before.
 
 When the navigator called "Land ahead" and the Nile Delta materialized through morning haze, his breath caught. Not recognition exactly. Anticipation. The feeling of approaching someone who would understand what he was.
 

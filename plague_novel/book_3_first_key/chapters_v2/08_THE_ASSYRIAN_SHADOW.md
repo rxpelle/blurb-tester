@@ -117,7 +117,7 @@ On the third day, they stood on the wall again.
 
 Micah's eyes went unfocused. "They're — the latrines are right next to the water supply. And the rats..." He swallowed. "There's something moving through the camps. Like a wave. I've seen this before. In the dreams. Egypt."
 
-"Plague," Tamar said. "The swelling kind, hard lumps in the neck, the groin. Three days. Maybe four."
+"Plague," Tamar said. "The camp fever — swelling, delirium, the body shutting down. Three days. Maybe four."
 
 Micah's face went white. "Then we have to warn them. Get them to move the camps, do *something*—"
 
@@ -243,15 +243,15 @@ At the camp's perimeter, a man stood motionless. Egyptian features beneath a Bab
 
 She found him in a tent at the camp's eastern edge. The survivors had put him there, the prophet who'd saved them, now needing saving himself.
 
-He was lying on a soldier's bedroll, soaked in sweat. The buboes had formed overnight: hard, swollen lumps in his neck and groin, the signature of plague that the inherited memories had shown him a hundred times in other people's deaths. His skin had the gray-yellow cast she'd seen in Nefertari's memories of Pi-Ramesses.
+He was lying on a soldier's bedroll, soaked in sweat. The swelling had formed overnight: hard, hot lumps in his neck and under his arms, the body turning against itself in the pattern the inherited memories had shown him a hundred times in other people's deaths. His skin had the gray-yellow cast she'd seen in Nefertari's memories of Pi-Ramesses.
 
 "Tamar." His voice was a rasp. "You shouldn't be here."
 
-"I know." She knelt beside him, felt his forehead. Burning. Pulse rapid and thready. She'd treated fevers before, but not this. Not the swelling plague in active stage. The inheritance was showing her the progression, the progression she'd dreamed since childhood, now playing out in front of her in a boy she'd taught.
+"I know." She knelt beside him, felt his forehead. Burning. Pulse rapid and thready. She'd treated fevers before, but not this. Not camp fever in active stage. The inheritance was showing her the progression, the progression she'd dreamed since childhood, now playing out in front of her in a boy she'd taught.
 
-"I can see it," Micah said. His eyes had that unfocused quality again — the old dreams activating, but now showing him his own death. "The swelling. What comes after." A weak laugh that turned into a cough. "Funny. I can see exactly how it goes. Doesn't help."
+"I can see it," Micah said. His eyes had that unfocused quality again — the old dreams activating, but now showing him his own death. "The fever. What comes after." A weak laugh that turned into a cough. "Funny. I can see exactly how it goes. Doesn't help."
 
-Tamar checked the buboes. Hard, hot, the size of eggs. There was nothing she could do. No intervention that stopped plague once it reached this stage.
+Tamar checked the swelling. Hard, hot. There was nothing she could do. No intervention that stopped the fever once it reached this stage.
 
 "How many did you save?" she asked.
 
@@ -295,7 +295,7 @@ She wrapped him in the soldier's bedroll. Said the words the network said when o
 
 ## SCENE 8: The Encoding
 
-Back in Jerusalem, Tamar sat alone in her stone-walled room, the clay lamp casting its small circle of sesame-oil light, and encoded the experience. The heat of his hand. The buboes. The clarity in his voice on the wall, seeing the cost and walking toward it anyway.
+Back in Jerusalem, Tamar sat alone in her stone-walled room, the clay lamp casting its small circle of sesame-oil light, and encoded the experience. The heat of his hand. The swelling. The clarity in his voice on the wall, seeing the cost and walking toward it anyway.
 
 And she encoded something she hadn't expected: doubt.
 

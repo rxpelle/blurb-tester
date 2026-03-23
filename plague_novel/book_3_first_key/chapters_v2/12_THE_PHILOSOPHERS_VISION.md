@@ -133,7 +133,7 @@ He said none of this. The physician's eye was merciless in its self-diagnosis: t
 
 **Four weeks later. The trial.**
 
-Callias sat on the wooden benches of the Heliaia, the open-air court near the agora, five hundred one citizens chosen by lot, each holding a bronze ballot disc with a hollow tube for guilty and a solid one for acquittal. Three obols' pay for a day's jury duty, barely enough for bread and wine. The charges were vague — corrupting the youth, impiety, introducing new gods. Everyone knew the real reason: Socrates made powerful people look stupid.
+Callias sat on the wooden benches of the Heliaia, the open-air court near the agora, five hundred one citizens chosen by lot, each holding two bronze voting tokens — one with a hollow axle for guilty, one solid for acquittal. Three obols' pay for a day's jury duty, barely enough for bread and wine. The charges were vague — corrupting the youth, impiety, introducing new gods. Everyone knew the real reason: Socrates made powerful people look stupid.
 
 The verdict was predetermined. Athens wanted blood.
 
