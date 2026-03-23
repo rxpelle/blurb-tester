@@ -6,7 +6,7 @@
 
 The smell reached Nefertari before the sound: refugees from across the sea, flooding Pi-Ramesses in waves. Mycenaeans fleeing collapsed cities. Hittites walking hundreds of miles from burned empires. Disease waiting to happen.
 
-She stood at the city's eastern edge where the canal met the reed marshes, physician's bag heavy with willow bark and honey, her green-striped linen already damp in the Delta heat. Twenty years at the Per Ankh had taught her how to read a pulse, set a bone, compound 700 remedies from the Ebers Papyrus: henna for headaches, acacia gum for burns, ground date stones mixed with fat for wound packing. But lately she'd been tracking something else: how children of scribes learned symbols faster, how famine victims' children weakened even when fed, how pulse rhythms echoed through bloodlines. Perhaps the metu (those vessels carrying life force) also carried something else. Some imprint that passed forward through blood itself.
+She stood at the city's eastern edge where the canal met the reed marshes, physician's bag heavy with willow bark and honey, her green-striped linen already damp in the Delta heat. Twenty years at the Per Ankh had taught her how to read a pulse, set a bone, compound 700 remedies from the Ebers Papyrus. But lately she'd been tracking something else: how children of scribes learned symbols faster, how famine victims' children weakened even when fed, how pulse rhythms echoed through bloodlines. Perhaps the metu — those vessels carrying life force — also carried something else. Some imprint that passed forward through blood itself.
 
 None of it could cure the end of the world.
 

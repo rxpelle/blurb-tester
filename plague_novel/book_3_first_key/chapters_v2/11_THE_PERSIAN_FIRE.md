@@ -23,7 +23,9 @@ King Leonidas didn't know he was reenacting an ancient pattern.
 
 But Aristodemos did. And when the memory surged -- the Bronze Age rear guards, the mountain passes, the smell of burning cities -- his left hand found the scar on his right forearm and pressed it, hard, thumb grinding into the ridge of tissue. An old wound from training. He pressed it the way a man bites down on leather during surgery: to anchor himself to the present, to keep the ancestral dead from pulling him under.
 
-"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king's long hair was freshly oiled — warriors grooming for death the way other men groomed for festivals. Behind him, the Three Hundred sat around cook-fires eating melas zomos (the black broth of pork blood, vinegar, and salt that other Greeks found revolting), sharpening the leaf-bladed spear points that would meet Persian flesh at dawn. The Spartan king knew Aristodemos' family carried something, centuries of military advisors, uncanny strategic insight, dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the uncanny strategic clarity that ran in Aristodemos' family like a second language.
+"You're certain?" Leonidas asked him privately, the night before the Persian army arrived. The king's long hair was freshly oiled — warriors grooming for death the way other men groomed for festivals. Behind him, the Three Hundred sat around cook-fires eating melas zomos, sharpening the leaf-bladed spear points that would meet Persian flesh at dawn.
+
+Leonidas knew Aristodemos' family carried something. Centuries of military advisors. Dreams that predicted battle outcomes. He didn't know about the inheritance, but he trusted the clarity that ran in Aristodemos' bloodline like a second language.
 
 "The pass will hold for three days," Aristodemos said. "Maybe four if the weather favors us. Then the Persians will find the mountain path. They'll flank us. And everyone who stays will die."
 
@@ -249,9 +251,11 @@ Damaris held his gaze. Then she said, "They'll never stop calling you trembler."
 
 "Yes."
 
-She didn't say it was worth it. She was eleven, and already she understood that some prices didn't have values; they were just paid, and you lived with the receipt.
+She didn't say it was worth it. She was eleven, and already she understood that some prices didn't have values. They were just paid.
 
-That night — after Damaris had gone to bed, after the house was dark and the scratched letters on the doorpost had been scrubbed and re-scratched and scrubbed again — Aristodemos sat in his courtyard, the stones still warm from the day's heat, the smell of thyme and dry earth rising from the garden wall and pressed both thumbs into the scar until the pain in his forearm was louder than the shame. His thumb found the old wound and ground into it the way a drowning man grips a rope. The scar had been his anchor for years: press it, feel the present, keep the ancestral dead from pulling him under. But tonight the scar wasn't pulling him into old memories. It was pulling him into new ones. Into the dark walk south. Into the sound of three hundred men singing a war hymn that grew fainter with every step he took away from them.
+That night — after Damaris had gone to bed, after the house was dark and the scratched letters on the doorpost had been scrubbed and re-scratched and scrubbed again — Aristodemos sat in his courtyard. The stones were still warm from the day's heat. Thyme and dry earth rose from the garden wall.
+
+He pressed both thumbs into the scar until the pain was louder than the shame. The scar had been his anchor for years: press it, feel the present, keep the ancestral dead from pulling him under. But tonight it wasn't pulling him into old memories. It was pulling him into new ones. Into the dark walk south. Into the sound of three hundred men singing a war hymn that grew fainter with every step he took away from them.
 
 His spear was leaning against the courtyard wall. He hadn't touched it since Thermopylae. He stood, crossed the stones, and picked it up. The weight was familiar and wrong at the same time — the weapon of a man who'd walked away from a fight.
 

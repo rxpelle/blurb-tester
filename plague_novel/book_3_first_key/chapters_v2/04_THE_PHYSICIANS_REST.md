@@ -38,7 +38,7 @@ The courtyard fell silent as Nefertari settled onto the teaching bench. Eighty-f
 
 She kept it short. The Sidon archive fire, ten years ago, everything lost, except it wasn't lost because Cyprus had copies and Tyre had copies. The Byblos grain crisis, pattern recognized three months before the shortage hit, trade routes redirected, no one starved. Sixteen interventions across nearly half a century. Not guesses. Not prophecy. Documented prevention.
 
-"Evidence," she said again. She looked at Deborah, who was transcribing every word. "That's what we leave behind. Not arguments. Proof."
+"Evidence," she said again. She looked at Deborah, who was transcribing every word. "That's what we leave behind. What we can prove."
 
 ---
 

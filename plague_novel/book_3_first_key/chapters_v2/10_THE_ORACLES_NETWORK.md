@@ -17,11 +17,11 @@ Diluted bloodlines delivered inconsistent prophecies — that was the establishe
 
 But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways a diluted bloodline shouldn't produce.
 
-He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them, six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
+He stood now in the crowd along the Sacred Way, watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The Phaedriades cliffs towered behind the temple like broken walls. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
 Except Kleomenes knew the Oracle wasn't divine.
 
-The current Pythia was Aristonike, age fifty-two, demonstrating ancestral memory activation consistent with Generation 20 defensive network bloodline. Diluted branch (her lineage traced back to Egyptian bloodlines from seven generations ago) but active nonetheless.
+The current Pythia was Aristonike, age fifty-two. Generation 20, defensive side. Diluted branch — her lineage traced back to Egyptian bloodlines from seven generations ago — but active nonetheless.
 
 Which meant she should deliver *some* accurate seeing mixed with plenty of confused visions.
 
