@@ -115,7 +115,7 @@ Adoniram looked uncomfortable. "He approached me two nights ago. After I'd told 
 
 "I don't know what I believe. But he described my dreams. The city on water. The physician trying to save people. The shape of it: trade routes failing, resources hoarded, alliances fragmenting. He knew things I'd never told anyone."
 
-Because Khepri carried the same inheritance. Amenhotep's bloodline dreamed the same Bronze Age catastrophe that Nefertari's did. Different philosophy, same memory.
+Because Khepri carried the same inheritance.
 
 "What did he want?" Shiphra asked.
 

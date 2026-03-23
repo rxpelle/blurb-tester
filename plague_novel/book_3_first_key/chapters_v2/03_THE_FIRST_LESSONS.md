@@ -110,7 +110,19 @@ Recognition flashed through her. The trader had no inherited memory, no bloodlin
 
 "You've learned well," Tirzah said.
 
-They covered the rest quickly — reports from Cyprus, a rumored offensive agent in the Sinai, Ephraim's progress. Routine. The kind of work that didn't make for stories but kept the network breathing.
+"So what do we do about it?" The priestess leaned forward, firelight catching the scar on her jaw. "If Sidon's hoarding, we intervene. Send word to our contacts. Break the hoarding before it cascades."
+
+"We don't intervene." Tirzah's voice was flat. "We warn. We teach. We don't control grain markets."
+
+"Nefertari would have —"
+
+"Nefertari didn't have a network of five people in a hill village." Tirzah cut her off. "We're not strong enough to act directly. And even if we were, that's their approach, not ours."
+
+The priestess held her gaze. "There's a line between principled restraint and letting people starve because you're afraid of becoming Amenhotep."
+
+No one spoke. The oil lamp guttered. Finally Tirzah said, "Send word to the Phoenician coastal families. They can decide locally whether to act. That's how distributed knowledge works — we don't make the call for them."
+
+They covered the rest quickly — Cyprus, a rumored offensive agent in the Sinai, Ephraim's progress. Routine.
 
 Then the Phoenician studied her. "Do you miss her?"
 

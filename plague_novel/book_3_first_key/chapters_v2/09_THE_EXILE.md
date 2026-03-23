@@ -29,7 +29,7 @@ Rachel bat-Yonah walked through burning Jerusalem with the old dreams screaming 
 
 Her own memories and beyond, because watching the Babylonian army torch the Temple was only the surface. *Ancestral* memories were layered beneath. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, stacked and reinforcing, flooding her consciousness as her own city died.
 
-She was thirty-one years old. Generation 23 from Tausret. Six hundred years the Protocol had been running, longer than Jerusalem had existed, longer than David's kingdom had lasted, longer than any institution she could name except the river and the stones. A physician and midwife, like every woman in her family line for longer than cities lasted. And right now, carrying two things: her infant daughter wrapped against her chest, and the ancestral memory so vivid she could barely distinguish past from present.
+She was thirty-one. A physician and midwife, her daughter strapped to her chest, and the ancestral memory so vivid she could barely distinguish past from present.
 
 *I told him.* The thought came hard and hot, burning brighter than the archive where she'd hidden medical scrolls. *I told Zedekiah exactly what would happen. I showed him the pattern: trade routes breaking, alliances fragmenting, the same cascade that killed the Bronze Age. And he smiled at me like I was a child afraid of thunder.*
 
@@ -117,17 +117,29 @@ They met in a borrowed room, mudbrick walls sealed with bitumen plaster, reed ma
 
 "What about the Order?" Esther asked. "I've seen their people here. Egyptian priests working for Babylon. They're advising the empire on population management."
 
-"Of course they are," Rachel said. "This is exactly what offensive mode is designed for. Control who survives the crisis through institutional power."
+"Of course they are," Rachel said. "This is exactly what offensive mode is designed for."
 
 "Should we interfere?"
 
-"No. We honor the original agreement. They test their approach, we test ours. Non-interference unless catastrophic failure."
+"No. We honor the original agreement."
 
-"But what if they succeed? What if centralized control actually works better than prevention?"
+Esther stood. "Rachel. We just watched Jerusalem burn. Twenty-three generations of work, and we're sitting in a mudbrick room in Babylon while the Order advises the people who destroyed us." Her voice cracked. "The agreement was made when both sides had something to lose. They have an empire now. We have *this.*"
 
-Rachel looked around the circle. Thirty-two people who'd lost everything: kingdom, city, homes, status. But they carried the knowledge. Read the warning signs. Understood their purpose.
+She gestured at the room. The reed mats. The single lamp. Thirty-two refugees.
 
-"Then we learn something," she said. "But empires fall. Practices persist. We're here. That's enough for now."
+"Esther —"
+
+"I'm not finished." Esther's chin was up, and Rachel saw her own mother's stubbornness in the set of it. "I watched Nebuchadnezzar's men burn the Temple library. Three hundred years of medical texts. Gone. And someone from the Order was *cataloguing* what survived. Taking our knowledge while our city burned. At what point does non-interference become complicity in our own destruction?"
+
+Silence. Half the room was looking at Esther. The other half was looking at Rachel.
+
+"She's right," said a voice from the back. Old Yonatan, who rarely spoke. "We followed the rules. We warned the king. We preserved the network. And we lost everything anyway. Maybe the rules are wrong."
+
+Rachel looked around the circle. Thirty-two people who'd lost everything: kingdom, city, homes, status. Esther's argument was clean and sharp and wrong in exactly the way that made it dangerous — because it was half right.
+
+"If we break the compact," Rachel said slowly, "we become what they are. Effective. Ruthless. And indistinguishable from the thing we were built to oppose." She met Esther's eyes. "You're right that the agreement was made in different circumstances. But empires fall. Practices persist. If we abandon our principles the first time they cost us something real, they were never principles. They were conveniences."
+
+Esther sat down. She didn't agree. Rachel could see that. But she sat down.
 
 ---
 

@@ -257,19 +257,47 @@ She didn't say it was worth it. She was eleven, and already she understood that 
 
 That night — after Damaris had gone to bed, after the house was dark and the scratched letters on the doorpost had been scrubbed and re-scratched and scrubbed again — Aristodemos sat in his courtyard, the stones still warm from the day's heat, the smell of thyme and dry earth rising from the garden wall and pressed both thumbs into the scar until the pain in his forearm was louder than the shame. His thumb found the old wound and ground into it the way a drowning man grips a rope. The scar had been his anchor for years: press it, feel the present, keep the ancestral dead from pulling him under. But tonight the scar wasn't pulling him into old memories. It was pulling him into new ones. Into the dark walk south. Into the sound of three hundred men singing a war hymn that grew fainter with every step he took away from them.
 
-He would go to Plataea. The next battle. He already knew this. He would fight in the front rank and he would not come back. Not because Sparta demanded it, because he couldn't live in this skin anymore. The protocol said *survive.* His blood said *survive.* But the trembler's shame was louder than both, and it would be louder than both for every generation that carried it, and the only way to silence it was to die so well that the dying drowned out the walking.
+His spear was leaning against the courtyard wall. He hadn't touched it since Thermopylae. He stood, crossed the stones, and picked it up. The weight was familiar and wrong at the same time — the weapon of a man who'd walked away from a fight.
+
+He turned it over. Tested the edge with his thumb. Drew blood.
+
+*Plataea.* The word surfaced like a body in shallow water. The next battle. The Persians weren't finished, and Sparta would march again, and when it did, the front rank would be open to any man willing to stand in it.
+
+He set the spear by the door. Not hidden. Not stored. Ready.
+
+The protocol said *survive.* His blood said *survive.* But the trembler's shame was louder than both, and it would be louder than both for every generation that carried it. He could feel the weight of what he'd pass to Damaris — not just the carrier's inheritance but this, the walking, the doorpost scratched with coward's marks, the lifetime of being the man who left.
+
+Unless.
+
+He looked at the spear. He looked at his daughter's closed door.
+
+He chose the spear.
 
 Nefertari's council, twelve members from across the Mediterranean, met secretly in a rented house near the Athenian Agora the following week, seated on low wooden stools around a table of planked olive wood, clay cups of unmixed wine between them.
 
 "Artemisia survived," the Egyptian member reported. "Sank one of her own allies to avoid being killed by you. The other side values the compact."
 
-The Phoenician member wanted to know how many deaths the compact was worth. The others took up the argument -- honor the other side, or eliminate them while they had the chance.
+"How many deaths is the compact worth?" the Phoenician member asked. He hadn't sat down since arriving. "Thermopylae. Salamis. The battles still coming. Their side is advising Persian generals. Our people are dying. And we're supposed to — what? Respect the experiment?"
 
-Aristodemos thought about Leonidas. About Artemisia ramming her own ally.
+"Yes," said the Egyptian member.
 
-"The experiment is bigger than any single war," he said. "If we start killing each other, it ends. And we never learn which approach actually prevents the fall."
+"I buried my nephew last month. He was at the Hot Gates. Do I tell his mother the experiment required it?"
 
-The council voted at dawn. The compact would be honored. Even during wars. It was an impossible standard -- but it was the standard Nefertari and Amenhotep had set when the Protocol was born.
+No one answered.
+
+"We know where their coordinators are," the Phoenician pressed. "Athens, Sardis, Memphis. We could end the offensive network in a season. One coordinated strike and a thousand years of interference stops."
+
+Aristodemos hadn't spoken. He was watching the others — the way half the room leaned toward the Phoenician, hungry for action, and the other half sat rigid, afraid of what they might decide.
+
+He thought about Leonidas. About Artemisia ramming her own ally to survive. About the walk south, three hundred voices fading behind him.
+
+"The experiment is bigger than any single war," he said. His voice was rough, and every head turned. "If we start killing each other, it ends. And we never learn which approach actually prevents the fall."
+
+"Easy for the trembler to counsel patience," the Phoenician said.
+
+The room went cold. Aristodemos looked at him. The Phoenician had the grace to look away first.
+
+They voted at dawn, with stones on the olive-wood table. Seven to honor the compact. Five to break it. It was an impossible standard — but it was the standard Nefertari and Amenhotep had set when the Protocol was born.
 
 ---
 

@@ -249,11 +249,21 @@ Callias stood before the assembled carriers, representatives from twelve familie
 
 "Xanthe, daughter of Hyperion refuses formal recruitment," Callias reported. "She acknowledges her carrier status. Accepts the inherited memory. But declines network membership. She's studying at Plato's Academy instead."
 
-The council debated for hours.
+The Persian representative spoke first. "Unacceptable. She carries the inheritance. She has a responsibility."
 
-Finally, they voted: Xanthe would be allowed to continue her hybrid path. The defensive network would monitor the philosophy schools—not to control them, but to learn from them.
+"She has a *choice,*" Callias said. "That's the entire point of what we do."
 
-And nearly eight centuries after Nefertari created the Genesis Protocol, the defensive network admitted it might not have all the answers.
+"The point of what we do is survival. Not philosophy."
+
+A Levantine woman shook her head. "If we force carriers to serve, we're the Order. Different name, same leash."
+
+"And if we let every carrier with doubts walk away, the network dies in a generation."
+
+They argued until the lamps burned low. The Persian wanted a vote to compel. The Levantine wanted to let Xanthe go entirely. Callias proposed the middle: let her study, monitor the schools, learn what philosophy could offer the network.
+
+The vote split eight to four. Xanthe would be allowed to continue her hybrid path.
+
+Nearly eight centuries after Nefertari created the Genesis Protocol, the defensive network admitted it might not have all the answers.
 
 ---
 

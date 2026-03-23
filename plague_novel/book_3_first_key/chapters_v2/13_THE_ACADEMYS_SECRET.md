@@ -55,8 +55,6 @@ But also newer dreams. Recent encodings from his own father's generation.
 
 *How to use military conquest to prevent the systemic failures that killed Bronze Age civilization.*
 
-Alexander wasn't learning to prevent the fall through compassion and early intervention. He was learning to prevent it through conquest and control. Through building an empire so vast, so unified, so centrally managed that regional crises couldn't cascade into civilizational death.
-
 Centralized control on a scale never attempted before.
 
 "You're the one from Athens. Nefertari's side."

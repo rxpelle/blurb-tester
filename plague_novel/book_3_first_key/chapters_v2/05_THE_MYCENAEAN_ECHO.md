@@ -131,7 +131,7 @@ And yet it was *surviving* while the palaces burned.
 
 "You sound like you're trying to convince yourself."
 
-Deborah looked at him sharply. Then her expression shifted — not quite a smile. "The other side believes centralized control prevents the fall better than what we do. Both approaches running in parallel for over a century." She met his eyes. "Nefertari was certain our way was right. I'm not. But I run it anyway, because someone has to."
+Deborah looked at him sharply. Then her expression shifted — not quite a smile. "Nefertari was certain our way was right. I'm not. But I run it anyway, because someone has to."
 
 ---
 
