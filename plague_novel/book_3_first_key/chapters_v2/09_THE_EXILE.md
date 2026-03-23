@@ -7,11 +7,7 @@
 
 *His name was Micah. He was sixteen.*
 
-*I taught him everything I knew in six days, and on the seventh he walked into a plague camp to save people who were trying to kill us a week earlier. I told him not to go. He went anyway. He told me to encode it, to make sure future carriers felt his choice, not just knew about it.*
-
-*I held his hand while he died. Our breathing synchronized and I do not know how. Something in the blood knew how to match another carrier's rhythm, and when his breathing stopped, mine kept searching for it.*
-
-*He saved twelve hundred people. Assyrian camp followers. Women and children who had nothing to do with the siege. He saw the intervention point and he walked into it knowing it would kill him.*
+*I held his hand while he died. Our breathing synchronized and I do not know how. When his breathing stopped, mine kept searching for it.*
 
 *The ring was on my hand the whole time. Shiphra's ring, then my mother's ring, now mine. I clutched it so hard the bronze bit into my finger and I could not tell where the old guilt ended and the new grief began.*
 
@@ -41,7 +37,7 @@ And Rachel had to make a choice: try to preserve the network through displacemen
 
 **Three days earlier: The warning**
 
-She'd tried. Three times she'd stood before Zedekiah and pointed at the pattern — trade routes breaking, alliances fragmenting, the same cascade that killed the Bronze Age — and three times the king had smiled at her the way men smiled at women who saw too clearly.
+She'd tried. Three times she'd stood before Zedekiah, and three times the king had smiled at her the way men smiled at women who saw too clearly.
 
 "God will protect Jerusalem," he'd said at their final audience. "The Temple cannot fall."
 
@@ -91,7 +87,7 @@ Rachel looked at the burning city behind them, the armed Babylonian guards aroun
 
 The city of Babylon made Jerusalem look like a village.
 
-Rachel stood at the Ishtar Gate, staring up at blue-glazed brick walls taller than any building in Judah, their surfaces covered in relief lions and aurochs molded in yellow and white against the cobalt glaze. The Processional Way stretched beyond it, lined with more glazed-brick lions, their manes picked out in gold, the road itself paved in red and white limestone. The city smelled of river mud and sesame oil and bitumen, the black pitch Babylonians used to seal everything from rooftops to canal boats. Hundreds of thousands of people filled streets wider than Jerusalem's plazas, merchants hawking dates and barley beer from mudbrick stalls, temple priests in tall conical hats processing toward the ziggurat that loomed above the rooftops like a stepped mountain. This was empire. This was what centralized power looked like when it worked.
+Rachel stood at the Ishtar Gate, staring up at blue-glazed brick walls taller than any building in Judah, relief lions and aurochs molded in yellow and white against the cobalt glaze. The city smelled of river mud and sesame oil. Hundreds of thousands of people filled streets wider than Jerusalem's plazas, temple priests in tall conical hats processing toward the ziggurat that loomed above the rooftops like a stepped mountain. This was empire. This was what centralized power looked like when it worked.
 
 And somewhere in this city, the Order, Amenhotep's people, had representatives.
 

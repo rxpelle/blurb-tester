@@ -84,7 +84,7 @@ Jesus was sitting with his feet in the lake, hands braced on the black basalt sh
 
 Simon sat beside him. Neither of them spoke. The lake moved. Stars emerged.
 
-"I felt it," Simon said finally. His voice was rough. "From the back of the crowd. When it hit me, I — " He stopped. Swallowed. "My breathing changed. Found a rhythm that wasn't mine. And I saw — not with my eyes, not inherited memory — I *felt* — two people. Standing together. Working together. Breathing together. And then not." His hand moved to his left side. "And then twelve hundred years of *not*."
+"I felt it," Simon said finally. His voice was rough. "Two people. Standing together. Working together. Breathing together. And then not." His hand moved to his left side. "And then twelve hundred years of *not*."
 
 Jesus said nothing.
 
@@ -122,7 +122,7 @@ He didn't say any of this. He sat with Simon beside the dark water and listened 
 
 ---
 
-He walked home to Nazareth the next morning. A full day on the road through hills wet with dew, past Roman milestones and donkey caravans and women carrying water jars on their heads, through villages where the smell of baking flatbread drifted from clay tabun ovens, the black basalt dust of the lakeshore giving way to the pale limestone of the ridge above the Jezreel. The sunrise behind him turned the Sea of Galilee to copper, and by the time he reached his door the stars were out again. His workshop was as he'd left it: a flat-roofed stone room beside the house, its doorway facing the narrow Nazareth street, a clay oil lamp in its wall niche from the night before. Half-finished table on the sycamore bench, tools in their places, wood shavings on the floor that he never swept because they smelled like his father.
+He walked home to Nazareth the next morning. A full day on the road, the black basalt of the lakeshore giving way to pale limestone, the sunrise behind him turning the Sea of Galilee to copper. By the time he reached his door the stars were out again. His workshop was as he'd left it: a flat-roofed stone room beside the house, its doorway facing the narrow Nazareth street, a clay oil lamp in its wall niche from the night before. Half-finished table on the sycamore bench, tools in their places, wood shavings on the floor that he never swept because they smelled like his father.
 
 He stood in the doorway. The warmth was there, in his chest, where it always was. His left hand moved. Reached to the side. Found nothing.
 

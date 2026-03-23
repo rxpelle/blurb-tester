@@ -74,7 +74,7 @@ The question caught her off guard. "What do you mean?"
 
 Tirzah pulled him close. The inheritance was activating. He was seeing Pi-Ramesses. Seeing the fall through Tausret's eyes, filtered through Tirzah's memories, encoded in his own developing mind.
 
-"It's real," she said softly. "The city you're seeing, it was real. Your grandmother Tausret lived there. I dream it too." She held him tighter. "Sometimes the people who came before us leave things behind. Not just stories or songs. Deeper things. Things the body remembers even when the mind forgets. Nefertari, the physician who saved us, she found a way to make those memories stronger. So they'd pass from mother to child. That's what you're feeling. You're remembering through *us*."
+"It's real," she said softly. "The city you're seeing, it was real. Your grandmother Tausret lived there. I dream it too." She held him tighter. "Sometimes the people who came before us leave things behind. Not just stories or songs. Deeper things. Things the body remembers even when the mind forgets. Nefertari found a way to make those memories stronger. So they'd pass from mother to child. That's what you're feeling. You're remembering through *us*."
 
 She turned his face toward hers. "And yes, sometimes it hurts to carry them. But that pain has a purpose."
 

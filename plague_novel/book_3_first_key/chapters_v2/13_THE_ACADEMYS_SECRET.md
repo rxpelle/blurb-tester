@@ -15,8 +15,6 @@ Theophrastus knew exactly what Aristotle was. And wasn't.
 
 Twelve years he'd studied under the man, learning botany, logic, the systematic cataloguing of everything from animal locomotion to political constitutions. Twelve years watching the most brilliant mind in Athens dissect the world without once experiencing the dreams, the distant eyes, the compulsive left-hand reaching that marked a carrier. Aristotle was the second great philosopher without the inheritance in three generations. First Socrates. Now him. Pure intellectual discipline arriving at the same insights that eight and a half centuries of accumulated ancestral memory had given the rest of them. Eight and a half centuries since a physician and a scholar had poured their grief into bronze in a Canaanite smithy, and here was a man from Stagira reaching the same conclusions with nothing but his own mind.
 
-Nefertari's side had stopped being surprised by this. Xanthe had predicted it sixty years ago, when she'd studied with Plato and refused recruitment: philosophy schools were democratizing the knowledge. Making the old skill teachable without genetic privilege.
-
 The network was becoming obsolete. Theophrastus had made peace with that.
 
 What he hadn't made peace with was the young man who entered the Lyceum courtyard on an afternoon in late Thargelion, trailing two Macedonian guards in broad-brimmed kausia hats and chlamys cloaks, and the unmistakable scent of horse sweat and ambition
@@ -189,7 +187,7 @@ Damophon stopped cleaning his nails. "Then you understand what we're discussing.
 
 Damophon stood. "Enough philosophy. We have a weapon bred to conquer the known world. We can stop him now or spend the next thirty years managing the damage."
 
-"And become what?" Menestor hadn't moved from the wall. His voice carried the heaviness of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe. That's the offensive network's doctrine. Word for word."
+"And become what?" Menestor hadn't moved from the wall. His voice carried the heaviness of a man who'd been alive long enough to watch three generations make the same mistake. "Strategic killing to prevent larger catastrophe."
 
 Moths tapped against the oil lamp Aristotle had lit against the gathering dark. No one spoke.
 
@@ -412,8 +410,6 @@ He didn't know — couldn't know — that the love would keep building for anoth
 But that was centuries away. Tonight, Theophrastus wept without understanding why, and felt — for the first time — that the echo was not fading.
 
 It was gathering.
-
-Nefertari's side was already adapting. Recruiting from philosophy schools. Training its people in both the old skill and systematic thinking. Creating a hybrid approach that preserved Nefertari's compassion while incorporating Amenhotep's strategy.
 
 Above Theophrastus, the same stars that had watched Nefertari split the network burned on indifferently. The experiment continued. And somewhere in the bloodlines of both networks, future carriers were already being shaped by this moment, dreaming Alexander's conquests, feeling his empire's collapse, inheriting the question neither side could answer alone. And inheriting something else, too. Something that had no name in any language living or dead — not yet, not for another three hundred and fifty-eight years — but that was building, building, building in the inheritance. A warmth on the left side. A reaching. A rhythm searching for its match. And a love so old and so deep that when it finally found its voice, it would change the world.
 

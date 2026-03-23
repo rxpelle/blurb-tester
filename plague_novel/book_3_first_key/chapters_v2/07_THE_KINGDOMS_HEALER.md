@@ -25,23 +25,13 @@
 
 **950 BCE**
 
-Miriam woke gasping, the taste of ash coating her tongue. Pi-Ramesses again, the fire, the screaming, the physician who saw it coming and couldn't stop it. The dreams were getting worse. Stronger every year, and starting earlier in each generation. Her daughter Judith was already having them at five.
+Miriam woke gasping. Both dreams again — the burning city and the murder. She touched the ring. Her left hand had moved in the night, reaching for someone who wasn't there. Some mornings the reaching almost felt like prayer.
 
-She pressed her palms against her eyes, steadied her breathing, and waited for the dead city to fade.
+"Mother?" Judith stood in the doorway, ten years old, studying her with eyes that saw too much. "The dream again?"
 
-She touched the ring. Every morning she recited the names: Tausret to Tirzah to Ephraim to Deborah, through five more whose faces she knew from dreams but whose voices she would never hear. The chain held. Ten generations. Over two centuries since two physicians had split their life's work in a borrowed smithy and walked in opposite directions. Miriam could feel every one of those years in the weight of the dreams — heavier now, denser, as if each generation added another layer of sediment to the riverbed of memory.
+"Both of them." Miriam's hands were shaking. "The murder dream too."
 
-But something else lingered beneath the dream. Her left hand had moved in the night, reaching for someone who wasn't there, the bronze ring catching lamplight as her fingers extended. Shiphra's ring. Adoniram's ring, before that. Her mother had given it to her with one instruction: *Never take it off.* The warmth on her left side, the phantom warmth of a hand she'd never held. Ten generations had passed it forward, and somewhere in the chain the name had been lost.
-
-She pulled her hand back. The ring pressed against her finger like a second pulse. Some mornings the reaching almost felt like prayer.
-
-"Mother?" Judith stood in the doorway, their limestone house in the upper city, the courtyard beyond dark, the clay oil lamp in its wall niche throwing her shadow long across the packed-earth floor. Ten years old, studying her with eyes that saw too much. "The dream again?"
-
-"Both of them." Miriam's hands were shaking. The second dream, Shiphra's hand on the rope, the stone falling, Adoniram's face, clung harder than the visions of fire and ruin. Nine generations of guilt encoded so deep it woke her every time. "The murder dream too."
-
-Judith climbed onto the sleeping mat. She knew what that one meant. They all did. Everyone in the bloodline since Shiphra had inherited the memory as a warning: the hand on the rope, the stone falling, the cost of choosing control over prevention.
-
-"The Pattern Eye is still safe?" Judith asked, the practical question, the one that mattered.
+"The Pattern Eye is still safe?" The practical question. The one that mattered.
 
 "Hidden in the Temple foundation. Still ours to protect." Miriam stood, pulling her healer's robe from its hook. "But right now, we have David's succession crisis to navigate. And a kingdom to prevent from collapsing."
 
@@ -137,8 +127,6 @@ He wasn't a carrier. He carried nothing but seventy years and a kingdom and what
 
 She wondered if the Protocol had invented anything at all, or simply found a way to remember what everyone already did.
 
-David's hand drifted on the armrest again, that unconscious reaching. Miriam felt the weight of every generation that had sat beside a ruler and waited.
-
 "I'll make the announcement tomorrow," he said finally. "Solomon will be king. And I want that Egyptian envoy gone from my court by sunset."
 
 "That will create other problems."
@@ -215,7 +203,7 @@ The pharaoh nodded. "Implement your plan. Discreetly."
 
 **That evening: Defensive network gathering**
 
-Tonight, twelve members gathered in Miriam's house, seated on low stools around the central room, oil lamps in clay holders casting warm shadows across the whitewashed walls, a jug of wine and a platter of bread, olives, and goat cheese on the stone table between them. Delegates from forty families scattered across Israel, Phoenicia, and Egypt. Including Judith, cross-legged in the corner with her back against the wall, who needed to learn.
+Twelve members gathered in Miriam's house. Delegates from forty families scattered across Israel, Phoenicia, and Egypt. Including Judith, cross-legged in the corner, who needed to learn.
 
 Miriam told them about the Egyptian watcher. Every body around the table shifted — a tightening, a collective held breath, the instinctive contraction of people who'd spent generations invisible and just learned they'd been seen.
 

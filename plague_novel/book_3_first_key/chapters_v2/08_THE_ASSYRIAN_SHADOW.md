@@ -221,7 +221,7 @@ The question was whether the someone had to be him.
 
 ## SCENE 7: The Pattern of His Own Death
 
-Tamar followed him with her eyes the next morning. Stood on the city wall as he walked north through the wreckage of the siege: overturned Assyrian battering rams with their iron-capped beams, half-dug siege trenches littered with broken iron spearheads and strips of lamellar armor, abandoned cook-fires ringed with flat bread stones, the detritus of two hundred thousand men who'd come to conquer Jerusalem and been conquered instead by rats and crowding and their own waste.
+Tamar followed him with her eyes the next morning. Stood on the city wall as he walked north through the wreckage of the siege: overturned battering rams, abandoned cook-fires ringed with flat bread stones, the detritus of two hundred thousand men who'd come to conquer Jerusalem and been conquered instead by rats and crowding and their own waste.
 
 She tracked him for five days through network contacts. Merchants who passed the camps. Refugees who'd fled and returned. Fragments of information, like reading a patient's condition through secondhand reports.
 
@@ -251,7 +251,7 @@ He was lying on a soldier's bedroll, soaked in sweat. The buboes had formed over
 
 "I can see it," Micah said. His eyes had that unfocused quality again — the old dreams activating, but now showing him his own death. "The swelling. What comes after." A weak laugh that turned into a cough. "Funny. I can see exactly how it goes. Doesn't help."
 
-Tamar checked the buboes. Hard, hot, the size of eggs. There was nothing she could do. No intervention that stopped plague once it reached this stage. The physician's eye showed you the collapse; it didn't reverse it.
+Tamar checked the buboes. Hard, hot, the size of eggs. There was nothing she could do. No intervention that stopped plague once it reached this stage.
 
 "How many did you save?" she asked.
 

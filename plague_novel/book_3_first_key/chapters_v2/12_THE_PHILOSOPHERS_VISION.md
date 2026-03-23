@@ -27,9 +27,7 @@ And they were wrong.
 
 Callias stood now in the Athenian agora — the wide paved square bordered by the Stoa of Zeus and the Painted Stoa with its Marathon battle murals, plane trees casting dappled shade over stone-faced herms, merchants selling figs and olives and wine from open-fronted stalls — observing the old philosopher hold court with his students. Socrates was brilliant, no question. His dialectical method, his systematic questioning, his ability to expose contradictions in others' thinking. All signs of the physician's eye.
 
-But it wasn't the blood. Callias would recognize the activation signature: the unfocused eyes during "visions," the dreams they couldn't explain, the compulsion to warn about collapse patterns they'd never personally witnessed.
-
-Socrates had none of that.
+But it wasn't the blood. Callias would recognize the activation signature — and Socrates had none of it.
 
 "The daimonion speaks to me," Socrates was saying to a young student named Plato. "An inner voice. It never tells me what to do—only what not to do. It warns me away from actions that would lead to harm."
 
@@ -81,7 +79,7 @@ Xanthe's face went pale. "How do you know?"
 
 "I don't want it."
 
-Callias stared at Xanthe across the table in the defensive network's Athens safe house. He'd spent two weeks teaching her everything: the Genesis Protocol, the inheritance, the network's structure. Fourteen days in this small room, seeing her absorb information the way clay absorbs water — completely, structurally, becoming something new.
+Callias stared at Xanthe across the table in the defensive network's Athens safe house. He'd spent two weeks teaching her everything.
 
 On the ninth day she'd asked him to describe his worst dream. He'd told her about the physician in the burning city — the founding memory, the one every carrier inherited. Xanthe had listened without interrupting. Then she'd said, "You've been carrying that since you were three years old?" and the way she'd said it, not with pity but with a kind of precise horror, the way you'd react to learning someone had been walking on a broken leg for decades — had made him feel, for the first time, that the weight was visible to someone outside the network.
 

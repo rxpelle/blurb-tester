@@ -67,8 +67,6 @@ The Pharaoh lay on her bed, and the sight broke something in Nefertari's chest.
 
 Dying. Tausret was dying.
 
-(She'd known it the moment the runner appeared. Had known it in her bones. But knowing and seeing were different animals entirely.)
-
 Skin gray as ash beneath the sweat. Breath rattling in lungs already drowning. The broad gold wesekh collar still circled Tausret's neck (lapis, carnelian, and turquoise in falcon-wing rows) but it looked obscene now, power adorning a corpse. Faience beads scattered across linen sheets where fever tremors had thrown them. The sleeping chamber stank of sickness despite the frankincense burning in bronze braziers, despite the natron and myrrh the servants had placed in clay bowls beneath the bed. Rot and sweat and the particular stench of respiratory fever eating someone from the inside.
 
 Forty-six years old. Eight years as Pharaoh. Survived political coups, foreign invasions, three seasons of drought, the slow-motion failure of every trading partner Egypt had ever known.
@@ -331,12 +329,6 @@ The bronze keys lay between them on the bench. Four defensive. Three offensive. 
 He didn't finish. They both knew what it meant.
 
 Nefertari looked at the seven bronze discs cooling on her bench. Seven keys to unlock the old knowledge. Six inscribed in bronze, one encoded in flesh, and between them, enough power to either save the world or control it.
-
-She'd designed them as *choices.* Access one set, you prevent the fall. Access the other, you engineer who survives it.
-
-Amenhotep wanted to merge them. One unified system, centralized control, managed populations.
-
-She wanted them separated. Scattered. Hidden. Let the future choose which path to take.
 
 "What about Tausret's daughter?" Nefertari asked.
 

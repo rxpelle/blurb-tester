@@ -127,7 +127,7 @@ And yet it was *surviving* while the palaces burned.
 
 "I don't understand," he told Deborah after a month of training. "The Mycenaean system was more sophisticated. How is *this* working better?"
 
-"Because your palaces needed *everything* to work." She said it flatly, the way she said most things — without the warmth Nefertari had apparently radiated. Deborah had heard enough secondhand stories about Nefertari's conviction to know she'd never match it. "Every piece depending on every other piece. Lose one trade route and the bronze stops. Lose the bronze and the army weakens. Lose the army and the raiders come. Beautiful system. One bad year from ruin."
+"Because your palaces needed *everything* to work." She said it flatly, the way she said most things — without the warmth Nefertari had apparently radiated. "Every piece depending on every other piece. Lose one trade route and the bronze stops. Lose the bronze and the army weakens. Lose the army and the raiders come. Beautiful system. One bad year from ruin."
 
 "You sound like you're trying to convince yourself."
 

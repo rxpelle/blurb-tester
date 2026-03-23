@@ -165,7 +165,7 @@ She'd tracked him all week. Noted his "casual" questions about foundation engine
 
 And yesterday, she'd spotted Khepri again. Talking to Adoniram in the market. The conversation looked friendly. Mentor and student. Recruiter and mark.
 
-The Pattern Eye—one of Nefertari's seven master keys—could amplify the seeing, let carriers access ancestral knowledge more directly. Its bronze-and-obsidian construction somehow resonated with what the carrier's body held, bringing ancestral memories to conscious clarity. With it, defensive carriers could compare current signs to centuries of encoded recognition, seeing breakdown cascades earlier. But in offensive hands, it became a targeting tool: identify valuable populations, engineer their survival, let the rest die efficiently.
+The Pattern Eye — one of Nefertari's seven master keys — amplified the seeing. In offensive hands, it became a targeting tool: identify valuable populations, engineer their survival, let the rest die efficiently.
 
 If Amenhotep's people found it, centuries of distributed knowledge would be compromised.
 
@@ -195,7 +195,7 @@ She could tell him everything — recruit him, hope his loyalty outweighed Khepr
 
 Or she could remove him from the equation entirely.
 
-Nefertari's voice echoed in the inheritance: *Save everyone we can.* But Nefertari had never seen the other side recruit someone who was already standing above hidden knowledge. Had never faced losing six centuries of work because she couldn't bring herself to make one terrible choice.
+Nefertari's voice echoed in the inheritance: *Save everyone we can.*
 
 Shiphra looked at Adoniram — brilliant, kind, thoroughly compromised — and made her calculation.
 
@@ -223,15 +223,13 @@ Shiphra picked it up. She told herself it was evidence. Something that could pla
 
 She put it on her left hand. It fit as if it had been made for her.
 
-The sound—wet and final—would encode into Shiphra's blood so deeply that centuries of descendants would dream it. Trauma marked the body—stress hormones altering gene expression, creating chemical signatures that passed to children, and their children after. Nefertari had amplified this natural process. Shiphra's descendants wouldn't just inherit anxiety. They'd inherit the specific moment: hand on rope, stone falling, moral choice crystallizing. They'd feel the rope in their hands. Hear the stone hit. Remember the choice.
-
 She stood motionless, hand still on the rope, as blood pooled in the foundation pit's dirt.
 
-Her left hand opened — the ring shifting on her finger, still warm from a dead man's hand. Reached to the side — not for the rope, not for a tool, but for something else. Someone. As if a hand should be there, waiting. As if someone should be standing at her left, close enough to pass a tool or steady her or simply *be there* while the worst thing she'd ever done settled into her bones. The gesture came from nowhere she recognized — from somewhere below memory, below training, below the nine generations of encoding that had shaped her. A reaching. An incompleteness. The particular ache of a body that remembered being half of something and couldn't recall when or how.
+Her left hand opened — the ring shifting on her finger, still warm from a dead man's hand. Reached to the side — not for the rope, not for a tool, but for someone. As if a hand should be there, waiting. The gesture came from somewhere below memory, below training, below the nine generations of encoding that had shaped her. A reaching. An incompleteness.
 
-Her fingers closed on empty air. And for one moment — standing in a foundation pit in Jerusalem with blood on the stone and murder on her hands — Shiphra felt something that had nothing to do with guilt. A warmth on her left side. A presence. As if the hand she was reaching for was almost there, separated from hers by something thinner than air but harder than stone. Generations of distance. Generations of carriers reaching for that hand in their darkest moments and feeling the same devastating almost-contact — the fingertips that never quite touched, the warmth that never quite became a body, the love that was always *there* but never *here*.
+Her fingers closed on empty air.
 
-Her breathing changed. Went searching. Looking for a rhythm it had never found in her own life but that her blood remembered — two lungs in synchronization, two people breathing as one, the particular intimacy of shared air in a workshop where everything that mattered was built and everything that mattered was lost.
+Her breathing changed. Went searching. Looking for a rhythm it had never found in her own life but that her blood remembered — two lungs in synchronization, two people breathing as one.
 
 "Forgive me," she whispered. To Adoniram. To Nefertari. To the unnamed ache in her left hand that would pass to her children and their children and their children, growing stronger with each generation, until someday one of them would feel the reaching and finally understand whose hand they were looking for. "I chose wrong."
 

@@ -13,11 +13,11 @@
 
 The Oracle at Delphi was too accurate. Five years Kleomenes had watched, and the pattern refused to make sense.
 
-Diluted bloodlines (distant descendants with weak inherited memory) delivered inconsistent prophecies. Sometimes accurate collapse-sight, sometimes complete nonsense, always unreliable. That was the established model. The inheritance degraded with distance from core bloodlines. Prophecy became noise.
+Diluted bloodlines delivered inconsistent prophecies — that was the established model.
 
 But Delphi wasn't inconsistent. Delphi was *systematically accurate* in ways a diluted bloodline shouldn't produce.
 
-He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings from every city-state in Greece, tripods and statues gleaming in the mountain light — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them, six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
+He stood now in the crowd along the Sacred Way — the steep zigzag path up Mount Parnassus, lined with marble treasuries and bronze votive offerings — watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The temple itself rose above them, six Doric columns across its front, the pediment carved with Apollo's arrival at Delphi, the Phaedriades cliffs towering behind like broken walls. Below, the Pleistos valley dropped away in olive groves to the distant sea. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
 
 Except Kleomenes knew the Oracle wasn't divine.
 
@@ -151,7 +151,7 @@ It terrified them both. Not because it was strange, but because it felt inevitab
 
 "There has to be another way," Kleomenes said.
 
-"There isn't. This is what service costs." She didn't pull away. "Nefertari knew. She encoded the Protocol knowing it would burden her descendants for three thousand years. Knowing we'd carry trauma that wasn't ours. Knowing some of us would break under the cost. But she believed the knowledge was worth the cost."
+"There isn't. This is what service costs." She didn't pull away.
 
 "And you? Do you believe it's worth this?" He touched her trembling hand.
 

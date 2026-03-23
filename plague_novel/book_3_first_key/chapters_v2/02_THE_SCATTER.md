@@ -106,10 +106,6 @@ Outside the temple, Nefertari sat on the harbor wall and let herself breathe for
 
 Her left hand reached to the side, feeling for a workbench that wasn't there. For a tool already placed. For a hand that knew where hers would go before she did. The gesture was so automatic she didn't catch it until her fingers closed on empty air.
 
-*I would have told you about the priestess,* she thought. *You would have said she's too smart to be trusted and too proud to be managed, and I would have said that's exactly why she'll keep the key, and you would have laughed, that short laugh you make when I'm right and you don't want to admit it. And we would have worked through the night refining the approach, and our breathing would have synchronized without either of us noticing, and in the morning you would have handed me the fine-point stylus before I reached for it.*
-
-But that was the point, wasn't it? Trust without verification. Networks without central control. Carrying this alone because the person who should have carried it with her believed in a different kind of carrying.
-
 She stood, slung her pack over one shoulder, and headed toward the market district to find lodging. One key hidden. Three more to go.
 
 ---
@@ -342,7 +338,7 @@ They'd returned to collect their belongings before the final departure. Tirzah s
 
 "Hiding keys. Running from agents. Watching someone die protecting knowledge." Nefertari set down her pack, exhausted. Nine weeks since leaving this place. Phoenicia, Cyprus, a dozen hill country villages.
 
-Tirzah closed her scroll. "I've been reading the heredity observations. You're encoding two things: how to think and what to look for. Together they make carriers who come pre-loaded with relevant data."
+Tirzah closed her scroll. "I've been reading the heredity observations. You're encoding two things: how to think and what to look for. Together they make carriers who already know what to look for before anyone teaches them."
 
 Something loosened in Nefertari's chest. The girl understood.
 

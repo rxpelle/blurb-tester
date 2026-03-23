@@ -81,9 +81,7 @@ A woman. Dressed as a Greek camp follower but moving with the controlled precisi
 
 His scar woke up.
 
-The old training wound on his right forearm — healed for a decade, silent for years — began to ache. Not the dull throb of weather change or overuse. A directional pull, deep in the scar tissue, as if the wound were orienting itself toward her the way a compass needle finds north. When she shifted left, the ache shifted left. When she stepped closer to pass a map of the straits, the sensation sharpened until he could feel his pulse beating specifically *in the scar*, as though his body had decided this was the part of him that needed to know where she was.
-
-He didn't know what she felt. Couldn't have. But later — much later — he would learn that she'd experienced something parallel: a tactical clarity that made no sense, positions resolving, battle-sight doubling, three moves ahead where before she'd seen one. She would tell herself it was adrenaline. She would be wrong about what it was. But she would be right that it was useful.
+The old training wound on his right forearm began to ache — a directional pull, deep in the scar tissue, as if the wound were orienting itself toward her the way a compass needle finds north. When she stepped closer, the sensation sharpened until he could feel his pulse beating specifically *in the scar*.
 
 Neither of them mentioned what they felt. They were professionals. They were enemies. They had a battle starting at dawn.
 

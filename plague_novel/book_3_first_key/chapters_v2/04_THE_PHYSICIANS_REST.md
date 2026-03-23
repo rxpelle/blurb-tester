@@ -10,7 +10,7 @@
 
 ## SCENE 1: The Old Physician
 
-Nefertari's hands had stopped being steady sometime in her seventy-eighth year, and she'd spent the two years since pretending not to notice. A physician who couldn't hold a scalpel. A woman who'd encoded a three-thousand-year experiment into human blood, standing on a temple terrace in Byblos, watching morning light turn the harbor to bronze and gold (cedar-hulled merchant galleys at anchor, fishermen mending nets on the stone quay, the smell of salt and pine pitch rising from the boatyards) while her fingers trembled against the stone balustrade.
+Nefertari's hands had stopped being steady sometime in her seventy-eighth year, and she'd spent the two years since pretending not to notice. A physician who couldn't hold a scalpel. A woman who'd encoded a three-thousand-year experiment into human blood, standing on a temple terrace in Byblos, watching morning light turn the harbor to bronze and gold (cedar-hulled galleys at anchor, the smell of salt and pine pitch rising from the boatyards) while her fingers trembled against the stone balustrade.
 
 Below, the monthly gathering was assembling. Twenty-three families now, spanning four generations. She counted the faces the way she'd once counted pulses, automatically, cataloguing who was present, who was absent, whose children were showing the early signs.
 
@@ -171,8 +171,6 @@ Deborah leaned close, her hand on Nefertari's forehead. "Grandmother—"
 "Rest now," Deborah said. "Rest."
 
 Nefertari's breathing slowed. Around her, the network began to hum. Not words. Just sound. A vibration of voices, four generations unified in frequency.
-
-She'd heard this before. In Pi-Ramesses, among physicians coordinating during the refugee crisis. In Byblos, when the first gathering had successfully prevented a trade collapse. In Cyprus, when Tirzah had scattered Distribution Network fragments to families who'd sworn to protect them.
 
 *Did I hold on too long?* she wondered. *Did I make them need me when I should have made them need each other?*
 
