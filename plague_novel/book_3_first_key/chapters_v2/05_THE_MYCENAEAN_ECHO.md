@@ -13,7 +13,7 @@
 
 Taharqa had been Thrasymedes once, before the fall took everything.
 
-He stood now in what remained of Tiryns' cyclopean walls (the megaron's great hearth cold, frescoes of boar hunts cracking on the walls, overturned pithoi leaking the last of the olive oil across the painted floor) watching smoke rise from Mycenae to the north. Third major palace to burn this season. Pylos had fallen two years ago, his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
+He stood now in what remained of Tiryns' cyclopean walls, watching smoke rise from Mycenae to the north. The megaron's great hearth had gone cold. Frescoes of boar hunts cracked on the walls. Overturned pithoi leaked the last of the olive oil across the painted floor. Third major palace to burn this season. Pylos had fallen two years ago, his birthplace, his training ground, the administrative center where he'd learned to read Linear B and manage tribute records.
 
 All ash now.
 
@@ -39,6 +39,14 @@ His assistant stared. "You're planning to run."
 
 "I'm planning to survive. There's a difference."
 
+He never told them about the night Tiryns fell. He was at the harbor loading the last ship when he heard the cyclopean walls give. Stone shrieked against stone, four centuries of weight finding gravity. He knew the women's quarters were on the east side. He knew which walls were failing. The encoding showed him the geometry — which stones would fall in what sequence, how long before the corridor collapsed, whether a man running at full speed could reach the east wing and get back to the harbor before the ships had to launch.
+
+He could. Barely. If nothing went wrong. If she was near the door. If the refugees on twelve loaded ships waited for him in a harbor that was already burning.
+
+Two hundred seventeen people on one side. Melantha on the other. The pattern-sight held both numbers in front of him with perfect clarity and would not let him look away from either.
+
+He turned toward the harbor. He heard the east wall come down behind him. He kept walking.
+
 Six months later, he sailed with two hundred seventeen refugees on twelve linen-sailed merchant galleys, the decks loaded with dried barley cakes, water skins, and whatever the refugees had grabbed as they fled: a child's wooden horse, a woman's bronze mirror, bundles of unwoven wool. He knew which harbors were deep enough without checking charts, knew the storm seasons by a calendar no one had taught him, knew which trade routes still functioned because something in his blood had navigated this water before.
 
 When the navigator called "Land ahead" and the Nile Delta materialized through morning haze, his breath caught. Not recognition exactly. Anticipation. The feeling of approaching someone who would understand what he was.
@@ -53,7 +61,7 @@ Deborah had been expecting refugees for three years. She'd watched the Aegean cr
 
 She just hadn't expected one this aware.
 
-Thirty years of leading our side since Nefertari's death, and the work had calcified something in her. She'd trained twelve carriers. Buried four. Watched the world burn in a slow arc from Egypt to Greece while her network scrambled to save what they could, which was never enough. Nefertari had believed in the Protocol with a convert's certainty. Deborah believed in it the way a surgeon believed in a tourniquet: it was the best tool available, which was not the same as believing it was good.
+Thirty years of leading our side since Nefertari's death, and the work had calcified something in her. She'd trained twelve carriers, buried four, watched the world burn from Egypt to Greece while her network scrambled to save what they never could — enough. Nefertari had believed in the Protocol with a convert's certainty. Deborah believed in it the way a surgeon believed in a tourniquet: it was the best tool available, which was not the same as believing it was good.
 
 The young Mycenaean (he called himself Taharqa now, had adopted an Egyptian name like he knew he'd never return home) sat across from her in the safe house, a mud-brick room in the Delta with reed mats on the floor and mosquito netting draped over the sleeping corners, the thick humid air carrying the smell of river silt and date palms through the window slits. He was describing the ancestral memory with precision that suggested deliberate encoding, not just passive dreams.
 
@@ -78,6 +86,16 @@ Deborah's hand moved across the table, not quite touching his. The gesture of so
 Deborah waited.
 
 "Melantha." He said the name like testing a wound. "She was in the women's quarters when the walls came down. The cyclopean stones — you've never seen them. Blocks taller than a man, fitted so tight you couldn't slide a blade between them. They'd stood for four hundred years." His voice went flat. "It took one night for them to become a grave I couldn't open."
+
+He stopped. The next part was the part he hadn't told anyone. The part that lived in his chest like a stone he'd swallowed and couldn't pass.
+
+"I was at the harbor. I heard the east wall going. I knew where she was. I knew the geometry — which corridor, how long before it closed." He looked at his hands. "The encoding showed me the calculation. Two hundred seventeen people on loaded ships. One woman in a collapsing building. The math was clear."
+
+Deborah's face didn't change. She was watching him the way a physician watches a wound being cleaned.
+
+"I walked to the ships," he said. "I heard the wall come down. And I kept walking."
+
+The silence was different now. Not the silence of grief. The silence of confession.
 
 He stared at the grain of the table. His hands were shaking, so he held them against the wood, the way she used to hold hers against his chest when he talked too fast — *slow down, I want to hear all of it.*
 
@@ -141,7 +159,7 @@ Aristomache turned to the room. "She wants us to give our children the fire with
 
 A murmur ran through the twelve. Taharqa watched their faces — refugees who'd lost everything making a decision about everything that came after.
 
-Nikos spoke next. He'd carried his dead son's wooden horse onto the ship. He still carried it — Taharqa had seen it tucked into his belt, the paint worn to bare wood by a hand that couldn't stop reaching for it. "My boy was four." His voice was controlled in the way that meant it could stop being controlled at any moment. "He dreamed the fires before they started. Woke up screaming about walls falling. We thought it was nightmares." He paused. "If I'd known what he was seeing — if someone had given me the *lesson*, not just the image — I might have gotten him out in time."
+Nikos spoke next. He'd carried his dead son's wooden horse onto the ship. He still carried it — Taharqa had seen it tucked into his belt, the paint worn to bare wood by a hand that couldn't stop reaching for it. "My boy was four." His voice stayed controlled — barely. "He dreamed the fires before they started. Woke up screaming about walls falling. We thought it was nightmares." He paused. "If I'd known what he was seeing — if someone had given me the *lesson*, not just the image — I might have gotten him out in time."
 
 Aristomache's hand found his arm. She didn't look at him. Her fingers gripped and held.
 
@@ -185,15 +203,23 @@ But Melantha was under cyclopean stones in a country that no longer existed. And
 
 **One year later. 1097 BCE.**
 
-Five children had been born to the bloodline since the refugees reached Egypt. Generation 4. They'd never see Mycenaean palaces. Never read Linear B. But they'd *dream* it. And dream it failing.
+The bloodline had produced five children since the refugees reached Egypt. Generation 4. They'd never see Mycenaean palaces. Never read Linear B. But they'd *dream* it. And dream it failing.
 
 Taharqa watched them sleeping in the safe house courtyard. One of the girls, Aristomache's daughter, barely two, whimpered in her sleep and turned toward the wall, hands clenching and unclenching. Already dreaming. Already inheriting.
 
 He thought of Philos's argument. *Let future generations decide what it means.* Easy to say when you weren't watching a toddler clench her fists in her sleep against the memory of burning palaces she would never see, grieving a world she would never know.
 
-*Dead civilization,* Taharqa thought. *Living memory.*
+He'd voted for data. Seven white stones to five black. Give them what happened, not what we think it means. Trust them to find their own understanding.
 
-He hoped that would be enough.
+But sitting here in the dark, watching a two-year-old fight walls she'd never touched, he understood what he'd really voted for. Data didn't include shame. Data was the walls falling, the stones crushing, the harbor burning. Data was not a man standing at the waterline doing arithmetic with his wife's life. Data was not the choice.
+
+If they'd voted for lessons — Aristomache's way — the lesson would have to include the hardest one. That sometimes the seeing forces you to calculate who lives and who dies. That you choose correctly. That choosing correctly is the thing that breaks you. That the gift and the wound are the same.
+
+He'd voted to withhold that. He'd called it empiricism. It was cowardice.
+
+Aristomache's daughter whimpered again. She would dream the walls falling for the rest of her life. She would never know that someone stood outside them and chose not to go back in.
+
+*Dead civilization,* Taharqa thought. *Living memory. And the one lesson I couldn't bear to put in the blood.*
 
 ---
 

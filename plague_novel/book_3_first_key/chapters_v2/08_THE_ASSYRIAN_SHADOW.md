@@ -209,9 +209,7 @@ Micah was quiet for a moment. Then: "You taught me that seeing collapse means re
 
 "The network prevents civilizational collapse. We don't throw sixteen-year-olds into plague camps to prove a point about compassion."
 
-"I'm not proving a point." His voice was steady. Calm in a way that frightened her, because she recognized it — the pupils going still, the jaw settling, the body quieting into the particular focus that came when the trajectory resolved and every variable pointed at one conclusion. She'd seen it in her mother's eyes when Hannah made the same calculation over siege preparations. She'd felt it herself when she decided to approach Micah in the Temple court.
-
-He saw the trajectory. The intervention point. And he was going.
+"I'm not proving a point." His voice was steady. Calm in a way that frightened her, because she recognized it — the pupils going still, the jaw settling, the body quieting into the particular focus that came when the trajectory resolved and every variable pointed at one conclusion. She'd seen it in her mother's eyes, felt it herself when she decided to approach Micah in the Temple court. He saw the trajectory, the intervention point. And he was going.
 
 "The seeing shows me exactly what will happen," Micah said. "Exposure, infection, death. I'm not immune. Not protected. I know the cost." He paused. "But I also see which survivors can be saved if someone teaches them basic sanitation. Boil the water. Burn the contaminated bedding. Separate the sick from the healthy. Move upwind of the pyres. Simple interventions, the kind Nefertari would have made."
 
@@ -261,7 +259,7 @@ He was lying on a soldier's bedroll, soaked in sweat. The swelling had formed ov
 
 "Tamar." His voice was a rasp. "You shouldn't be here."
 
-"I know." She knelt beside him, felt his forehead. Burning. Pulse rapid and thready. She'd treated fevers before, but not this. Not camp fever in active stage. The inheritance was showing her the progression, the progression she'd dreamed since childhood, now playing out in front of her in a boy she'd taught.
+"I know." She knelt beside him, felt his forehead. Burning. Pulse rapid and thready. She'd treated fevers before, but not this — never camp fever in active stage. The inheritance showed her the progression, the same one she'd dreamed since childhood, now playing out in a boy she'd taught.
 
 "I can see it," Micah said. His eyes had that unfocused quality again — the old dreams activating, but now showing him his own death. "The fever. What comes after." A weak laugh that turned into a cough. "Funny. I can see exactly how it goes. Doesn't help."
 
@@ -295,7 +293,7 @@ She'd never breathed with anyone this way before. But her body knew how.
 
 In the last hours, he spoke in fragments — Nefertari's memories mixing with his own, the founding physician's voice layering over a sixteen-year-old shepherd's, both of them dying of plague five centuries apart.
 
-He died just before dawn. Quietly, like a lamp running out of oil. His breathing stopped, and Tamar's lungs kept searching for the rhythm — expanding, pausing, listening for the inhale that would tell her body when to exhale. Finding nothing. Just her own air in a tent that smelled of fever and pyres and the particular silence of a person no longer breathing beside her.
+He died just before dawn. Quietly, his breathing simply stopping. And Tamar's lungs kept searching for the rhythm — expanding, pausing, listening for the inhale that would tell her body when to exhale. Finding nothing. Just her own air in a tent that smelled of fever and pyres and the particular silence of a person no longer breathing beside her.
 
 Her left hand moved — the ring glinting in the dawn light that seeped through tent canvas. Reached to the side — not toward Micah's body but past it, toward something further, someone older. A grief so old it had lost its name and become pure sensation. The bronze ring on her finger, warm from a dead boy's hand, reaching for the same absence it had always reached for.
 

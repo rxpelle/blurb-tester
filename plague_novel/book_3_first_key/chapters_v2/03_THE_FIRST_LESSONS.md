@@ -36,7 +36,25 @@ She swallowed it. She always swallowed it.
 
 "Good. What else?"
 
-Ephraim looked longer. "Some families are planting together. Sharing their fields. Is that new?"
+Ephraim looked longer. But not at the fields.
+
+"Mama." His voice was careful. "Who used to stand there?"
+
+He was looking at her left hand. She hadn't noticed it — her fingers reaching sideways, cupping empty air at the height where another hand should be. The reaching-left. She'd done it unconsciously, the way she always did when she was teaching, or afraid, or missing someone so badly the body moved before the mind could stop it.
+
+She pulled her hand back. Pressed it flat against her thigh.
+
+"Someone I loved," she said. "A long time ago."
+
+Ephraim studied her face with an expression that didn't belong on a seven-year-old. "You do it every day. When you think I'm not watching. You reach for someone who isn't there."
+
+The hillside was quiet. Wind through the barley. A goat bleating somewhere below.
+
+He was reading patterns, all right. But the first pattern he'd read wasn't in the fields. It was in her.
+
+*He sees me,* she thought, and the pride and the horror of it were the same feeling.
+
+"Some families are planting together," Ephraim said, turning back to the terraces as if he understood, at seven, that he'd touched something he should leave alone. "Sharing their fields. Is that new?"
 
 "Yes. Started two seasons ago. Why do you think?"
 
@@ -120,7 +138,7 @@ The room shifted. Tirzah looked at the priestess and felt something cold settle 
 
 "The Reuben family lost their youngest last week. Fever, but she would have survived it with proper food. She was three." The priestess's voice didn't waver. "How many three-year-olds do you want me to watch die while we warn and teach and wait for the grain merchants to discover their own conscience?"
 
-Nobody moved. The oil lamp guttered. Tirzah could feel the room tilting — not toward the priestess, not yet, but away from certainty. The trader was studying the table. The others wouldn't meet her eyes.
+Nobody moved. The oil lamp guttered. Someone's cup scraped against stone. Tirzah could feel the room tilting — not toward the priestess, not yet, but away from certainty. The trader was studying the table. The others wouldn't meet her eyes.
 
 "If Amenhotep's people find out we're manipulating trade in Sidon," Tirzah said, "they map our contacts. They find the network. Twenty-two years of invisibility, gone."
 
@@ -214,7 +232,13 @@ Within a month, the grain was moving again.
 
 At harvest, a runner arrived from Sidon with the collar wrapped in cedar cloth and a sealed potsherd from Abdi-Milki: *The healer from the hills was right. The routes held. So did we.*
 
-Tirzah held the collar for a long time. It felt lighter. The girl who'd worn it — the princess, the daughter — had burned off somewhere on the road, the way you burn a field to make the next crop stronger.
+Tirzah held the collar for a long time. Then, alone in the house with the door closed, she lifted it to her throat.
+
+It didn't clasp.
+
+She tried twice, fingers working the gold hooks she'd fastened a thousand times in the dark. The collar was the same. She wasn't. Twenty-two years of grinding grain and hauling water and sleeping on stone had thickened her neck, broadened her shoulders, built a farmer's body around a princess's bones. The girl who'd worn this collar was gone. Not traded to a merchant and returned. Just gone. Worn away so gradually she hadn't noticed until she reached for the proof and it wouldn't close around who she'd become.
+
+She set it down. She didn't cry. She'd burned that out of herself years ago, the way you burn a field to make the next crop stronger.
 
 When she returned home, Ephraim was waiting.
 
@@ -230,6 +254,16 @@ Tirzah knelt beside her son. "You and your children and your children's children
 
 The question hit her harder than anything the merchant or the priestess had thrown. Because she'd asked it herself, at twelve, standing in a doorway watching two people walk in opposite directions, and nobody had answered her either.
 
+She opened her mouth to give him the answer. The right answer. The one about duty and legacy and the bloodline persisting. The words were right there, shaped and ready, the same words Nefertari had used on her.
+
+Instead what came out was: "Ephraim, I don't —"
+
+She stopped. Her throat had closed around something she couldn't say in front of him. *I don't know if I'm saving you or ruining you. I don't know if this is love or if I've just learned to call it that because the alternative is admitting I'm doing to you exactly what was done to me.*
+
+He was watching her. Reading her. The way he'd read her hand reaching left on the hillside.
+
+She found the answer. Not the true one. The one he needed.
+
 "Then the dreams come anyway," she said. "The burning cities. The screaming. You'll see the patterns whether you choose to or not. The only choice is what you do with them."
 
 Ephraim's face was working — not crying, but close. The face of a child absorbing something too heavy for his frame. "That's not really a choice."
@@ -238,7 +272,7 @@ Ephraim's face was working — not crying, but close. The face of a child absorb
 
 He was quiet for a long time. Then, with seven-year-old seriousness that broke her heart precisely because it shouldn't have been necessary: "I'll try. I want to see what you see."
 
-Tirzah hugged him. Held on longer than she meant to.
+Tirzah hugged him. Held on longer than she meant to. Over his shoulder, her left hand reached into empty air and stayed there.
 
 ---
 
@@ -258,7 +292,7 @@ Tirzah. She was calling herself Tirzah.
 
 And the son. Seven years old. A boy who watched crop rotations and asked why the soil needed rest. Who noticed when trade routes shifted and told the village elders before they noticed themselves.
 
-The inherited memory was activating in Generation 3. Earlier than Amenhotep had predicted. He'd estimated Generation 5 before the encoding produced observable behavioral changes. Either Nefertari's training methods were more effective than he'd given her credit for, or the defensive encoding carried properties neither of them fully understood.
+The boy was showing the signs — reading patterns, asking questions no seven-year-old should think to ask. It was happening faster than Amenhotep had predicted. He'd thought it would take five generations for Nefertari's encoding to bloom this clearly. Either her methods were more effective than he'd given her credit for, or the defensive encoding carried properties neither of them fully understood.
 
 Both possibilities concerned him.
 

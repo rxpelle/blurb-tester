@@ -34,11 +34,27 @@ But her legs disagreed. Deborah caught her elbow as she steadied herself, and to
 
 The courtyard fell silent as Nefertari settled onto the teaching bench. Eighty-four people. She remembered when it had been six.
 
-"Today I want to tell you what we've accomplished," she began, voice carrying despite its rasp. "Not philosophy. Evidence."
+"Today I tell you what we've accomplished," she said, voice carrying despite its rasp. "Not philosophy. Evidence."
 
 She kept it short. The Sidon archive fire, ten years ago, everything lost, except it wasn't lost because Cyprus had copies and Tyre had copies. The Byblos grain crisis, pattern recognized three months before the shortage hit, trade routes redirected, no one starved. Sixteen interventions across nearly half a century. Not guesses. Not prophecy. Documented prevention.
 
-"Evidence," she said again. She looked at Deborah, who was transcribing every word. "That's what we leave behind. What we can prove."
+"Evidence," she said again. "That's what we leave behind. What we can prove."
+
+She paused to let the words settle. Into the pause, Deborah spoke.
+
+"The Tyre intervention is the strongest example." Deborah's voice was clear, pitched to carry the way Nefertari had taught her. She stood, writing board tucked under her arm. "Three families identified the grain hoarding independently. No one coordinated them. No one told them what to look for. They'd internalized the patterns so deeply that when the signs appeared, they acted without —"
+
+"That's not quite right." The words left Nefertari's mouth before she knew they were coming. "Mira sent a runner to the other two families. It wasn't independent — it was coordinated through her. The families spotted the pattern on their own, but they all sent word to Mira — the *response* still ran through a single person."
+
+The courtyard was quiet. Not the respectful quiet of eighty-four people listening to their teacher. A different quiet. The quiet of eighty-four people watching a seventeen-year-old stand in front of them with her mouth still half-open around the sentence she'd been cut from.
+
+Deborah sat down. She didn't argue. She picked up her stylus and made a note on her writing board, and the note was worse than an argument because it meant she was used to this.
+
+Nefertari felt it then — the thing she'd done. Not the correction. The correction was accurate. That was the problem. She was always accurate, and she always interrupted, and she'd been doing it for seventeen years, and the girl had learned to sit down.
+
+*You built a system that doesn't need a center,* she thought. *And you made yourself the center of it anyway. Not with force. With accuracy. With always being right at exactly the moment someone else was learning to be.*
+
+She looked at Deborah's bent head, the stylus moving steadily, and understood that the girl wasn't transcribing her words anymore. She was transcribing around the silence where her own words had been.
 
 ---
 
@@ -48,7 +64,7 @@ After the teaching, families dispersed. Nefertari remained on the bench, too wea
 
 "Tell me about Tirzah." The girl's voice was barely there. "The parts you haven't written down."
 
-Nefertari's throat tightened. Tirzah had been dead five years now. A fever, swift and merciless. The same kind of fever that had killed Tausret, as if the inheritance remembered which diseases to be vulnerable to.
+The words caught in Nefertari's chest. Tirzah had been dead five years now. A fever, swift and merciless. The same kind of fever that had killed Tausret, as if the inheritance remembered which diseases to be vulnerable to.
 
 "Your grandmother chose her own name at twelve years old," Nefertari said. "Standing in a borrowed workshop in Canaan, covered in road dust and cooking smoke, and I asked her what she wanted to be called. She said *Tirzah.* The one who brings delight." She closed her eyes. "She could have hated all of it. The memory. The running. Me, for putting it in her body. Instead she turned it into purpose and taught your grandfather to do the same."
 
@@ -62,7 +78,7 @@ Nefertari squeezed her hand.
 
 That afternoon, Deborah helped Nefertari descend into the temple's foundation vault. The High Priestess of Ba'alat Gebal, now an elderly woman herself, forty years older than the young priestess who'd first accepted the Pattern Eye, held the lamp.
 
-The bronze disc rested where it had been placed decades ago: sealed in cedar, wrapped in linen, hidden beneath the temple's central column. Nefertari had visited it only three times in nearly five decades. Too dangerous to draw attention.
+The bronze disc rested where she had placed it decades ago: sealed in cedar, wrapped in linen, hidden beneath the temple's central column. Nefertari had visited it only three times in nearly five decades. Too dangerous to draw attention.
 
 But today felt right.
 
@@ -88,11 +104,15 @@ She'd meant to write instructions. Key locations, family rosters, contingency pl
 
 *Deborah —*
 
-*I taught you that no single person should hold everything. That distributed knowledge is what makes us resilient. No single point of failure. I believed this. I believe it now.*
+*Today you stood in front of eighty-four people and started to teach. You were right. The Tyre intervention was the strongest example, and your reading of it was better than mine — you saw the independence where I saw the coordination, and independence was the point. The whole point. The thing I spent forty-seven years building toward.*
 
-*But I failed to practice it. Forty-seven years, and I never truly let go. Every decision ran through me. Every crisis, every teaching, every monthly gathering, I was there, at the center, the one they turned to. I built a philosophy of distribution and made myself indispensable to it.*
+*And I silenced you. In front of everyone. Because being right had become more important to me than letting you be.*
 
-*You must do what I could not. Let the network belong to itself.*
+*I have done this to you for seventeen years and called it mentorship. Every correction, every interruption, every time I took back a thought you were learning to finish — I told myself I was teaching precision. I was teaching you to sit down.*
+
+*You must do what I could not. Let the network belong to itself. Let them be wrong sometimes. Let them find accuracy through practice instead of receiving it from you. The moment you become the person they wait for before acting, you have failed — no matter how right you are.*
+
+*I'm sorry I couldn't show you. I'm telling you instead, which is the lesser gift.*
 
 *— Nefertari*
 
@@ -190,13 +210,25 @@ And finally, dying, she did.
 
 They laid her in a simple tomb in the hills above Byblos, marked only by a cedar tree and a bronze disc embedded in stone. No inscription. Nothing to draw attention. Just as she'd wanted.
 
-Deborah had found the scroll that morning, four lines in a shaking hand. She read them once, alone, then folded the papyrus and tucked it into her sash. Some things didn't need to be shared aloud. They needed to be *lived*.
+Deborah had found the scroll that morning. Not four lines. More than that. She read it once, alone, and her hands were steady until the second paragraph and then they weren't.
+
+*Today you stood in front of eighty-four people and started to teach. You were right.*
+
+She folded the papyrus and tucked it into her sash. Pressed her palm against it until she could feel the ink through the linen.
 
 She stood before the gathering. Eighty-four people, waiting.
 
 "Next month, we gather again," Deborah said. Her voice cracked on the first word and steadied on the last. "Same courtyard, same time. But I won't be standing where she stood. We'll take turns. That's how it works now."
 
-Sarah, Generation 3, placed a hand on her shoulder. The gathered families murmured agreement, the sound of a practice continuing without a leader.
+Sarah, Generation 3, nodded. "We should start with the families who've been here longest. They know the —"
+
+"Actually, we should start with the newest." The correction was out of Deborah's mouth before she heard it. The same reflex. The same automatic precision. She heard Nefertari's voice in her own and stopped cold.
+
+Eighty-four faces watching her. The same silence she'd sat down into three days ago. The papyrus burned against her ribs.
+
+"Sarah's right," Deborah said. "Start with the longest-standing families. They know what works." She swallowed. "I'll go last."
+
+Sarah placed a hand on her shoulder. The gathered families murmured agreement, the sound of a practice continuing without a leader.
 
 In the hills above, a cedar tree marked an unmarked tomb, and the network's first generation passed into memory.
 

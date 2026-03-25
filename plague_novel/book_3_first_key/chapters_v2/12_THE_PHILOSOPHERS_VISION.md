@@ -139,7 +139,7 @@ The network had protocols for this. Diluted carriers who refused training were r
 
 But nobody had protocols for the man who sat across from the refusal and realized he'd never had the option. That the difference between him and Xanthe wasn't courage or philosophy — it was timing. She was diluted. Late activation. Twenty-eight years of living as herself before the dreams arrived. He'd been three. The inheritance had gotten to him before he'd had a self to lose.
 
-"Why did you let me teach you?" he asked. His voice was steady. The jealousy burned beneath it like a coal under ash. "If you knew you'd refuse, why spend two weeks learning?"
+"Why did you let me teach you?" he asked. His voice was steady. The jealousy burned beneath his steady voice. "If you knew you'd refuse, why spend two weeks learning?"
 
 Xanthe smiled sadly. "Because I had to see it. All of it. What you carry, what it costs, what it does to people." She folded her hands in her lap. "Now I've seen it. And I know it's not for me."
 
@@ -168,6 +168,18 @@ And then the why hit him so hard his vision blurred. Socrates wasn't a carrier. 
 They were killing a man for giving away what they wanted to own.
 
 And the defensive network was sitting back and letting it happen.
+
+Callias sat on the bench and ran the calculation. He had the intelligence. Three years of tracking Socrates meant three years of tracking the people tracking Socrates. He knew the names of the Order's proxies on the jury. He knew which witnesses had been coached. He knew the prosecution's case was built on manufactured outrage, not genuine impiety, and he could prove it — walk to the front of the Heliaia, lay out the conspiracy, name the foreign agents manipulating Athenian justice to eliminate a man whose only crime was teaching people to think.
+
+He could save Socrates.
+
+And the network would burn. Eight hundred years of invisibility, gone in one afternoon. Every safe house mapped. Every family exposed. Twelve remaining branches, visible, vulnerable, finished.
+
+One philosopher on one side. Eight centuries of preservation on the other. The math was the same math Taharqa had run at the harbor. The same math Miriam had run in David's courtyard. The same math every carrier eventually faced: one life against the system that was supposed to protect all of them.
+
+He stayed on the bench. He held his voting token — the solid one, the acquittal — and when it was his turn, he dropped it in the urn with five hundred others, knowing it wouldn't be enough, knowing the verdict was engineered, knowing that his single honest vote was the most useless gesture in the history of the network's principles.
+
+The offensive network was killing a man to protect their control of knowledge. Callias was letting it happen to protect his network's existence. Different institutions. Same calculation. Same man dead at the end of it.
 
 ---
 
@@ -215,7 +227,15 @@ The hemlock worked from the ground up. Socrates pressed his own shin and noted t
 
 Beneath the cloth, his breathing changed. Slowed. Caught.
 
-He pulled the cloth back one final time. "Crito, we owe a cock to Asclepius. Pay the debt and don't forget."
+He pulled the cloth back one final time. His eyes moved across the room — students, friends, the jailer standing respectfully by the wall. And then they found the doorway. Found Callias.
+
+Socrates didn't know him. Had never spoken to him. But the philosopher's gaze held — three seconds, maybe four — with the particular stillness of a man who'd spent his life asking questions he already knew the answers to. He looked at Callias the way he'd looked at Callicles in the agora. The way he'd looked at every man who claimed to be doing the right thing. Not accusation. Inquiry. The final Socratic question, delivered without a word.
+
+*You were here. You knew. What stopped you?*
+
+Callias couldn't look away. Couldn't construct a defense. Every premise he'd built on the bench at the Heliaia — the network's survival, the long game, the eight hundred years — dissolved under that gaze the way Callicles' argument had dissolved in the agora. Because the question underneath was the same one Socrates always asked: *Is the thing you're protecting worth the cost of protecting it?*
+
+"Crito, we owe a cock to Asclepius. Pay the debt and don't forget."
 
 Then silence. Then Crito reached over and closed his eyes.
 
@@ -299,7 +319,19 @@ No one spoke. Callias searched for the counter-argument — the dialectic, the c
 
 Dariush left. Two families went with him. The Anatolian branch stayed — barely — the woman who led it gripping the edge of the table as if physically holding herself in her seat.
 
-The philosophy schools stayed open. The network endured. And Callias sat in the shrinking circle and understood what Socrates had taught him without meaning to: that the hardest thing about being right was watching it cost you everything, and choosing it anyway.
+The philosophy schools stayed open. The network endured. And Callias sat in the shrinking circle — twelve families in a room built for forty — and tried to construct the syllogism that separated them from the other side.
+
+*We preserve choice. They engineer outcomes.* But he'd chosen silence at the Heliaia to preserve the network, and a man had died for it. The offensive network had engineered the trial to preserve their control, and the same man had died for it. Different premises. Same conclusion. Same body on a stone bench with hemlock climbing his legs.
+
+*We distribute knowledge. They centralize it.* But the man who'd distributed knowledge most effectively in eight hundred years — given it away for free, in a public square, to anyone who'd listen — had been a stonemason's son with no drop of anyone's bloodline. And both networks had watched him die. One had pulled the lever. The other had let it fall.
+
+Socrates would have found the flaw in his reasoning. Would have sat across from him in this shrinking room and asked the questions that stripped the argument to its skeleton. *You say your network exists to protect the capacity to choose. Did you protect Socrates' capacity to choose?* No. *Did you protect his students' capacity to choose their teacher?* No. *Then what did you protect?* The network. *And what did the offensive network protect?* The network. *And the difference between these two acts of protection is —*
+
+Silence. The same silence that had followed Callicles in the agora. The silence of a man who'd run out of premises.
+
+The difference between the two networks wasn't method. It wasn't philosophy. It was the story each told itself about why the sacrifice was necessary. And stories, Socrates would have said, are not arguments.
+
+Callias sat in the shrinking circle and understood what the philosopher had taught him without meaning to: that the hardest thing about being right was watching it cost you everything, and choosing it anyway. And the second hardest thing was admitting you might not be right at all.
 
 ---
 

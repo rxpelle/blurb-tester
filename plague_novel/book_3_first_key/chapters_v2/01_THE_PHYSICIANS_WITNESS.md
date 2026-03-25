@@ -6,7 +6,7 @@
 
 The smell reached Nefertari before the sound: refugees from across the sea, flooding Pi-Ramesses in waves. Mycenaeans fleeing collapsed cities. Hittites walking hundreds of miles from burned empires. Disease waiting to happen.
 
-She stood at the city's eastern edge where the canal met the reed marshes, physician's bag heavy with willow bark and honey, her green-striped linen already damp in the Delta heat. Twenty years at the Per Ankh had taught her how to read a pulse, set a bone, compound 700 remedies from the Ebers Papyrus. But lately she'd been tracking something else: how children of scribes learned symbols faster, how famine victims' children weakened even when fed, how pulse rhythms echoed through bloodlines. Perhaps the metu — those vessels carrying life force — also carried something else. Some imprint that passed forward through blood itself.
+She stood at the city's eastern edge where the canal met the reed marshes, physician's bag heavy with willow bark and honey, her green-striped linen already damp in the Delta heat. Twenty years at the Per Ankh taught her to read a pulse, set a bone, compound 700 remedies from the Ebers Papyrus. But lately she'd been tracking something else: how children of scribes learned symbols faster, how famine victims' children weakened even when fed, how pulse rhythms echoed through bloodlines. Perhaps the metu — those vessels carrying life force — also carried something else. Some imprint that passed forward through blood itself.
 
 None of it could cure the end of the world.
 
@@ -33,7 +33,7 @@ Two years of the world ending in slow motion. Mycenae burned, then Pylos, then K
 
 She'd asked Amenhotep that question last week. Her colleague from the Per Ankh, though *colleague* was a word that had always been too small for what they were. All those years of shared laboratories and shared meals and a shared courtyard in the scholars' quarters where they'd argued about pulse theory until the lamp oil ran out and kept arguing in the dark because neither wanted to be the one to say goodnight. The neighbors called them married. The ration rolls listed them as one household. They'd never corrected anyone. The truth was more complicated than marriage and simpler than friendship and neither of them had ever found a word for it in Egyptian or any other language.
 
-Brilliant and difficult. That was Amenhotep. A mind that could hold six variables simultaneously and a heart that had frozen shut the year his family died in the grain riots. He'd spent a lifetime studying the same texts she had and drawn completely opposite conclusions.
+Brilliant and difficult. That was Amenhotep. A mind that could hold six variables simultaneously and a heart that had calcified the year his family died in the grain riots. He'd spent a lifetime studying the same texts she had and drawn completely opposite conclusions.
 
 "You don't save the world, Nefertari," he'd said, standing in the doorway of her chamber, close enough that she could smell the copper dust on his hands. "You save who matters. You choose who survives."
 
@@ -47,7 +47,7 @@ Into blood itself.
 
 Movement at her vision's edge. A runner, wearing royal livery, pushing through the crowds. Pharaoh Tausret's colors.
 
-The runner spotted her, stumbled to a stop, gasping. "Physician Nefertari. The Pharaoh—fever since dawn. She's asking for you. Please. Hurry."
+The runner spotted her, stumbled to a stop. "Physician Nefertari. The Pharaoh—fever since dawn. She's asking for you. Please. Hurry."
 
 Nefertari was already moving, her bag clutched tight. Behind her, the refugee mother called out thanks that she didn't hear. Her mind raced ahead, through canal-side streets, past the temple complex, toward the royal palace where Tausret—the last stable power in Egypt—lay burning with the same fever killing refugees in the streets.
 
@@ -67,7 +67,7 @@ The Pharaoh lay on her bed, and the sight broke something in Nefertari's chest.
 
 Dying. Tausret was dying.
 
-Skin gray as ash beneath the sweat. Breath rattling in lungs already drowning. The broad gold wesekh collar still circled Tausret's neck (lapis, carnelian, and turquoise in falcon-wing rows) but it looked obscene now, power adorning a corpse. Faience beads scattered across linen sheets where fever tremors had thrown them. The sleeping chamber stank of sickness despite the frankincense burning in bronze braziers, despite the natron and myrrh the servants had placed in clay bowls beneath the bed. Rot and sweat and the particular stench of respiratory fever eating someone from the inside.
+Skin gray beneath the sweat. Breath rattling in lungs already drowning. The broad gold wesekh collar still circled Tausret's neck (lapis, carnelian, and turquoise in falcon-wing rows) but it looked obscene now, power adorning a corpse. Faience beads scattered across linen sheets where fever tremors had thrown them. The sleeping chamber stank of sickness despite frankincense burning in bronze braziers, despite natron and myrrh in clay bowls beneath the bed. Rot and sweat and the particular stench of respiratory fever eating someone from the inside.
 
 Forty-six years old. Eight years as Pharaoh. Survived political coups, foreign invasions, three seasons of drought, the slow-motion failure of every trading partner Egypt had ever known.
 
@@ -338,7 +338,7 @@ Nefertari sat beside the child through the long hours after he left, listening t
 
 She placed one hand on the girl's forehead. Warm living flesh. The most fragile key and the most powerful, because bronze could be melted down, but blood remembered.
 
-And she began the encoding.
+And she began the encoding — voice low, hands steady, speaking patterns into the dark that no one else alive would understand.
 
 ---
 

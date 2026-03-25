@@ -7,11 +7,13 @@
 
 *I killed a man tonight.*
 
-*His name was Adoniram. He was brilliant and kind and he was standing above the Pattern Eye asking questions that would have led him straight to it. The offensive network had already reached him. He was already dreaming our dreams without knowing whose body gave them to him.*
+*His name was Adoniram. He was brilliant and kind and he helped me build the vault. Three years we worked together — he designed the stone channels, calculated the load-bearing walls, showed me how to hide a chamber beneath a foundation so perfectly that the temple above would never shift. He was my collaborator. My friend. The only person outside the network I trusted with the architecture of what we were protecting, if not the thing itself.*
+
+*His questions started six months ago. Not threats — curiosity. The curiosity of a craftsman who'd built a vault and wanted to understand what it held. The offensive network hadn't sent him. He'd arrived at the questions on his own, through loyalty, through the same intelligence that made him useful to us. He was about to protect the Pattern Eye the wrong way — by understanding it, by talking about it, by being brilliant in public about a thing that survived by being invisible.*
 
 *I pulled a rope. A stone fell. It was quick. He looked at me and understood everything in the space between heartbeats, and then he was gone.*
 
-*I wear his ring now. The council says I must. Bronze, the width of a barley stalk, a craftsman's measuring ring he used to check column widths. It was lying in his blood when the lamp stopped swinging. I picked it up and I cannot tell you why.*
+*I wear his ring now. The council says I must. Bronze, the width of a barley stalk, a craftsman's measuring ring he used to check column widths. It was lying in his blood when the lamp stopped swinging. I picked it up and I cannot tell you why. I can tell you that three years of friendship fit inside a bronze circle, and that the circle is warm in the morning and cold at night, and that I deserve both.*
 
 *It fits my left hand. The hand that pulled the rope. The hand that reaches in the night for someone I've never met.*
 
@@ -27,19 +29,19 @@
 
 Miriam woke gasping. Both dreams again — the burning city and the murder. She touched the ring. Her left hand had moved in the night, reaching for someone who wasn't there. Some mornings the reaching almost felt like prayer.
 
-"Mother?" Judith stood in the doorway, ten years old, studying her with eyes that saw too much. "The dream again?"
+"Mother?" Judith appeared in the doorway, ten years old, studying her with eyes that saw too much. "The dream again?"
 
 "Both of them." Miriam's hands were shaking. "The murder dream too."
 
 "The Pattern Eye is still safe?" The practical question. The one that mattered.
 
-"Hidden in the Temple foundation. Still ours to protect." Miriam stood, pulling her healer's robe from its hook. "But right now, we have David's succession crisis to navigate. And a kingdom to prevent from collapsing."
+"Hidden in the Temple foundation. Still ours to protect." Miriam rose, pulling her healer's robe from its hook. "But right now, we have David's succession crisis to navigate. And a kingdom to prevent from collapsing."
 
 ---
 
 King David was dying.
 
-Not immediately. He'd probably live another year, maybe two. But Miriam had seen enough death to recognize the trajectory. Seventy years old, weakening, struggling to maintain control over a kingdom that was already fracturing beneath him.
+Not immediately — he'd probably live another year, maybe two — but Miriam had seen enough death to recognize the trajectory. Seventy years old, weakening, struggling to maintain control over a kingdom that was already fracturing beneath him.
 
 She found him in the palace courtyard, painted columns in red and blue, incense smoke drifting from bronze stands, monarchy announced in carved cedar beams shipped from Lebanon. A servant fanned him with a palm frond while another held a tray of honeyed figs untouched. He sat wrapped in blankets despite the warm morning, a lyre player silent in the corner, his gaze following his sons as they argued.
 
@@ -55,9 +57,9 @@ She sat down beside David. The Egyptian shifted closer to the colonnade's edge, 
 
 "Manageable. Your willow bark tea helps." He tracked her work with shrewd eyes. "But you're not here about my health, are you? You have that look. The one you get when you see things others miss."
 
-Miriam had served David's household for fifteen years. He'd learned to trust her instincts, which meant she'd learned exactly how to use them. A king didn't want prophecy. A king wanted a problem he could solve and a reason to solve it now.
+Miriam had served David's household for fifteen years. He'd learned to trust her instincts, which meant she'd learned how to use them. A king didn't want prophecy. A king wanted a problem he could solve and a reason to solve it now.
 
-She'd been rehearsing this conversation since before dawn. Not the words, the framing. David responded to threats he could act on, not abstractions about civilizational decay. She needed him to feel the succession crisis as a wound he could stitch closed, not a cancer already metastasized.
+She'd been rehearsing this conversation since before dawn. Not the words, the framing. David responded to threats he could act on, not abstractions about civilizational decay. She needed him to feel the succession crisis as a wound he could stitch closed, not poison already in the blood.
 
 "Your sons." She kept her voice even. "They're positioning for succession. Adonijah thinks he'll be king. Solomon's supporters are gathering resources. Neither side is talking to the other."
 
@@ -87,6 +89,8 @@ The criticism landed. Miriam's mother had made that call. It was the right analy
 
 This was the moment. The pivot from diagnosis to prescription. Say it wrong and he'd defer another month, wait for Nathan's vision, let the fracture lines deepen. The Egyptian at the colonnade had moved again, closer now, close enough to hear. Whatever Miriam said next, Amenhotep's people would know within the week.
 
+The ring warmed on her finger. It did that sometimes — a flush of heat she couldn't explain, always at the moments when she was choosing what to show and what to withhold. Shiphra's ring. Adoniram's ring. The ring of a friend killed for asking the right questions at the wrong time.
+
 She could soften it. Hedge. Protect her methods from enemy analysis. Or she could be honest and accept the exposure.
 
 "I'm not seeing Adonijah's response," she admitted. "I can tell you the kingdom splits without clear succession. I can't tell you whether naming Solomon prevents the split or accelerates it. Adonijah has military support. If he feels cornered —"
@@ -109,11 +113,13 @@ Miriam's stomach dropped. David had noticed the watcher. Of course he had. Seven
 
 David's jaw tightened. "And if I name Solomon tomorrow — publicly, before the Egyptian can position himself — I take that option away from him."
 
-Miriam said nothing. Let the king arrive at the prescription himself.
+Miriam said nothing. Let the king arrive at the prescription himself. The ring tightened — or her finger swelled beneath it, she could never tell which — and she thought of Adoniram, who had also arrived at conclusions on his own, guided by someone who stayed silent at the right moments.
 
 "That's what you wanted me to see." David's voice was flat. "Not the succession crisis. The foreign hand waiting to shape it."
 
 "I wanted you to see all of it. The choice is yours."
+
+*Is it?* The ring asked the question she wouldn't.
 
 David turned back to his arguing sons. His left hand drifted on the armrest, slow, unconscious, reaching toward the empty space beside him on the bench. The gesture was barely there. But Miriam's inheritance recognized it before her mind did, and her own hand tightened on the ring.
 
@@ -181,7 +187,7 @@ The same morning Miriam advised King David, Khenti stood in Pharaoh Shoshenq's a
 
 "Third consecutive low flood," Shoshenq said, studying grain reports. "If this continues —"
 
-"It will. The next five years will test Egypt's resilience."
+"It will," Khenti replied. "The next five years will test Egypt's resilience."
 
 "Then we ration. Restrict trade. Close the borders —"
 
@@ -262,6 +268,16 @@ Miriam looked around the table. She could see the fracture — not everyone, not
 "David chose Solomon because you showed him the Egyptian." Keret's voice was flat. "You shaped the outcome, Miriam. You just used a longer lever."
 
 She had no answer for that. Because he wasn't wrong.
+
+The ring burned. She looked down at it — bronze, the width of a barley stalk, warm from her skin or warm from something older — and heard Shiphra's voice through the inheritance, clear as if the woman were sitting beside her: *the moment when prevention became control.*
+
+The offensive network engineered outcomes with force. They burned forts. Cut trade access. Chose who ate. They knew what they were. Miriam engineered outcomes with silence and timing and the careful appearance of choice. She showed David the Egyptian at the exact moment that would push him toward Solomon. She let him "arrive at the prescription himself" the way a shepherd lets a flock "choose" the gate he's already opened.
+
+She'd spent ten generations calling that different. The ring said otherwise. Adoniram had arrived at his own conclusions too. Guided by a friend who stayed silent at the right moments. Until the silence wasn't enough, and a stone fell.
+
+*The difference between us and them,* Miriam thought, *is that they admit what they're doing.*
+
+She couldn't hold that thought. It was too large and too true and it would break everything she'd built if she let it settle. So she did what carriers had always done with unbearable knowledge: she carried it.
 
 Judith hadn't spoken all evening. She'd sat with her arms wrapped around her knees, those too-old eyes moving from face to face — eyes that had been dreaming since she was five.
 

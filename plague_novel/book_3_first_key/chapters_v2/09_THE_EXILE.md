@@ -27,7 +27,7 @@ Her own memories and beneath them, older ones — the way infection layers on to
 
 She was thirty-one. A physician and midwife, her daughter strapped to her chest, and the ancestral memory so acute it was like double vision — two cities burning at once, twelve centuries apart, and her trained eye unable to tell which patient was dying in front of her.
 
-*I told him.* The thought came hard and hot, burning brighter than the archive where she'd hidden medical scrolls. *I told Zedekiah exactly what would happen. I showed him the symptoms: trade routes failing, alliances going septic, the same cascade that killed the Bronze Age. I gave him the diagnosis and the prognosis and he chose prayer over treatment.*
+*I told him.* The thought came hard and hot, searing through her. *I told Zedekiah exactly what would happen. I showed him the symptoms: trade routes failing, alliances going septic, the same cascade that killed the Bronze Age. I gave him the diagnosis and the prognosis and he chose prayer over treatment.*
 
 Around her, thousands of Judeans were being herded into columns for the march to Babylon. The Babylonian Exile had begun.
 
@@ -45,7 +45,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "The old dreams are overwhelming," Esther said. "I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit. Every burning city our bloodline ever witnessed. It's all active right now."
 
-"I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage moving through her body the way a physician tracks a symptom — jaw first, then shoulders, then fists. She'd held it together for three days, organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
+"I know." Rachel adjusted her daughter's wrap. The infant was fussing, small fists clenching and unclenching, and Rachel realized her own jaw was clenched too. Rage moving through her body — jaw first, then shoulders, then fists. She'd held it together for three days, organizing the dispersal, packing the coded records, making sure everyone knew their routes. But now, walking away from everything, the fury was finding her.
 
 "You're shaking," Esther said.
 
@@ -53,7 +53,7 @@ A woman walked beside her. Esther. Generation 22, one of theirs, older than Rach
 
 "He was the king. You couldn't have—"
 
-"I could *see it*, Esther. That's what this bloodline is for. Twenty-three generations of encoding, six centuries of what the blood taught us, and when it mattered most — when I could read the signs as clearly as I see your face — I couldn't make a single person listen." Her voice cracked. She pressed her lips against her daughter's head and breathed until the trembling stopped. But the trembling didn't stop. It changed — shifted deeper, below the anger, into something chronic. The old grief. Not hers. A woman's body that had never healed from an amputation no surgeon had performed.
+"I could *see it*, Esther. That's what this bloodline is for. Twenty-three generations of encoding, six centuries of what the blood taught us, and when it mattered most — when I could read the signs like symptoms on a patient's skin — I couldn't make a single person listen." Her voice cracked. She pressed her lips against her daughter's head and breathed until the trembling stopped. But the trembling didn't stop. It changed — shifted deeper, below the anger, into something chronic. The old grief. Not hers. A woman's body that had never healed from an amputation no surgeon had performed.
 
 Her left hand moved. The reaching — the old one, the one that didn't belong to her. She caught herself and pulled her hand back against her daughter's body, but the ache remained.
 
@@ -135,9 +135,27 @@ Rachel got up.
 
 She crossed the exile quarter in bare feet, moving through dark streets where other displaced families slept in borrowed rooms. Past the communal well. Past the grain stores the Babylonian authorities allocated — enough to stabilize, not enough to recover. The rations of a field hospital, not a home. Past a doorway where she heard someone weeping in Hebrew, and didn't stop, because she'd learned that stopping meant absorbing someone else's grief on top of the freight she already carried, and some nights the load was already too heavy to bear and stay upright.
 
-She almost missed it. A mark on a doorframe — small, precise, chalked at knee height where an adult wouldn't look but a child crouching might notice. A symbol she recognized from the Archive: the old notation for *early activation*. Not their notation. The Order's.
+The mudbrick wall beside her shifted. Not physically — behind her eyes. The Babylonian plaster became Egyptian limestone, white in moonlight, and the street narrowed into a corridor she'd never walked but knew by heart. Pi-Ramesses. The inheritance was leaking through.
 
-Rachel stopped. Crouched. Touched the chalk line with her fingertip. Fresh. A day old at most.
+She kept walking. Forced her eyes to the ground — packed earth, Babylonian earth, *now*. But the sounds were wrong. The night birds were sharpening into a frequency she recognized from dreams older than her grandmother's grandmother. The weeping behind the doors was in a language she'd never spoken but understood completely. And the smoke — there was no smoke in the exile quarter tonight, but she could smell it. Acacia wood and reed thatch and something underneath that was not wood.
+
+She stopped in the middle of the street. Both hands against a wall. Breathing.
+
+It wasn't one city. It was all of them. Pi-Ramesses and Mycenae and Ugarit and Jerusalem, layered on top of each other like transparencies held to the same lamp. Twenty-three generations of women walking away from burning cities, and Rachel was carrying every one of them in a body that had room for one.
+
+The street in front of her was Babylonian and Egyptian and Mycenaean and Canaanite all at once. She could see the blue-glazed walls *and* the cyclopean stones *and* the cedar columns *and* the limestone terraces, all occupying the same space, all burning simultaneously in fires that had happened centuries apart.
+
+*I'm losing it,* she thought, but the thought came in a voice she didn't recognize — or recognized too well, a composite voice, the averaged frequency of every carrier who'd ever walked away from a home that was already ash.
+
+Her knees buckled. She caught herself against the doorframe, fingers scraping down mudbrick, and her fingertip touched something that wasn't plaster. Cool. Gritty. Present tense.
+
+Chalk.
+
+The cities fell away. The corridor became a street. The smoke dissolved. Rachel was crouching in the exile quarter in Babylon with her fingers on a small, precise mark at knee height — a symbol she recognized from the Archive: the old notation for *early activation*. Not their notation. The Order's.
+
+Her breath came back in a gasp. The chalk was *now*. The chalk was the only thing in this street that belonged to 586 BCE and no other year. None of the ancestors had carried this. None of the burning cities had this mark on their doors. It was new, it was real, and her fingers were touching it.
+
+She pressed harder. Felt the grit of it. Let the present tense hold her until her heartbeat slowed.
 
 She looked down the street. Checked the next doorframe. Nothing. Crossed to the opposite row. Third door: another mark. Different symbol — *physician lineage, female*. Fourth door, further down: *scribe lineage, male, adolescent*.
 
@@ -171,7 +189,17 @@ Rachel walked back through the waking exile quarter as the sky grayed. Past Jude
 
 She scraped it again. Knowing it would be back tomorrow.
 
-Leah was still sleeping. Rachel lay down beside her daughter, and did not reach left, and did not sleep.
+Leah was still sleeping. Rachel lay down beside her daughter and watched the shallow rise and fall of the child's breathing — the rhythm that had been dreaming since six months old, the earliest activation in twenty-three generations.
+
+Twenty-four, when Leah carried it forward. Twenty-four generations of burning cities in a body that would be smaller than Rachel's.
+
+She'd almost not come back tonight. The double vision had nearly swallowed her — not the controlled overlay she'd lived with since childhood, the two-cities-at-once that a trained carrier could manage, but a flood. Every ancestor at once. Every exile at once. The system Nefertari had designed for three, maybe five generations of accumulated memory, loaded with twenty-three. Rachel had felt the architecture of it buckling, the way a physician feels a fever cross the threshold from manageable to critical.
+
+Leah would carry more. Leah, who already woke with a look behind her eyes that was too old. Leah, who at five could identify pattern fractures Rachel hadn't seen at fifteen. Leah, whose inheritance was already running hotter than any carrier in the Archive.
+
+The question the chapter of her life was writing wasn't whether the bloodline would persist. It was whether the carriers could survive their own inheritance. Whether Nefertari's experiment had a weight limit she'd never calculated because she'd never imagined it running this long, through this much loss, in a body this small.
+
+Rachel did not reach left. She reached forward, and put her hand on her daughter's chest, and felt the heartbeat, and did not sleep.
 
 ---
 

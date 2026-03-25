@@ -117,7 +117,7 @@ Aristodemos finally looked at her. His jaw tightened. "You engineered Thermopyla
 
 Dawn broke over the pass. The first day of battle.
 
-The shield wall hit the Persian advance like a door slamming. Aristodemos locked his aspis against the man on his left, lowered the horsehair crest of his Corinthian helmet until the world narrowed to a bronze slit, and drove forward. The impact traveled through his arm, his shoulder, his spine — bronze-faced oak against Persian wicker gerron, Spartan iron against Persian reed, and the sound was nothing like what the poets described. Not a clash. A wet, compressive crunch, like stepping on a basket of crabs. Then the screaming started, and the smell -- copper and bowel and the hot-metal reek of bronze grinding on bronze.
+The shield wall hit the Persian advance like a door slamming. Aristodemos locked his aspis against the man on his left, lowered the horsehair crest of his Corinthian helmet until the world narrowed to a bronze slit, and drove forward. The impact traveled through his arm, his shoulder, his spine — bronze-faced oak against Persian wicker, and the sound was nothing like what the poets described. Not a clash. A wet, compressive crunch, like stepping on a basket of crabs. Then the screaming started, and the smell -- copper and bowel and the hot-metal reek of bronze grinding on bronze.
 
 Aristodemos fought alongside his brothers, the old memories overlaying present combat with ancient patterns. He'd seen this before -- through ancestral eyes at Mycenaean palaces, through bloodline memories of the Sea Peoples' invasion. The pattern was always the same: die heroically or retreat strategically.
 
@@ -229,7 +229,7 @@ He didn't correct them. Didn't explain that Leonidas had ordered him south. Didn
 
 The curse of the seeing. He could see the pattern with perfect clarity — survival served the network, served Greece, served the three-thousand-year experiment. And he could *feel* with equal clarity that none of that mattered. That he'd walked away from men who'd died for him. That every descendant in his bloodline for the next fifty generations would dream this walk and wake up reaching for a shield that wasn't there.
 
-His daughter, Damaris, eleven years old, already showing activation signs, came home from lessons one afternoon with dirt on her wool peplos and her chin set at the angle he recognized as controlled fury.
+His daughter, Damaris, eleven years old, already showing activation signs, came home from lessons one afternoon with dirt on her wool dress and her chin set at the angle he recognized as controlled fury.
 
 "They said you ran," she told him. "Nikias's mother. She said you ran from the pass while real Spartans died."
 

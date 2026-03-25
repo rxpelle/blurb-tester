@@ -12,7 +12,7 @@ Three weeks at sea, and the body still hadn't learned. Sleeping pressed to the l
 
 The Phoenician trader's ship smelled of cedar and salt, fish oil and unwashed wool. Nefertari sat cross-legged on the deck among amphorae of Tyrian purple dye and bales of Byblos papyrus, sharing the midday meal with the crew. She'd traded her green-striped linen for undyed wool that wouldn't mark her as Egyptian. Three weeks had weathered her enough that the crew treated her like cargo that could talk. Good.
 
-At the stern, a passenger she hadn't noticed before was watching the same coastline. Young. Egyptian coloring beneath a Phoenician merchant's robe. He'd boarded at Sidon; she remembered because he'd carried no trade goods. A merchant with nothing to sell. His hands were clean, nails trimmed short, the hands of someone who worked with documents, not dye or metal or grain. And he kept his weight on the balls of his feet. Military posture dressed in civilian cloth.
+At the stern, a passenger she hadn't noticed before was studying the same coastline. Young. Egyptian coloring beneath a Phoenician merchant's robe. He'd boarded at Sidon; she remembered because he'd carried no trade goods. A merchant with nothing to sell. His hands were clean, nails trimmed short, the hands of someone who worked with documents, not dye or metal or grain. And he kept his weight on the balls of his feet. Military posture dressed in civilian cloth.
 
 Nefertari looked away. Chewed her bread. Tracked him in the polished bronze of her water cup, the same old skill a physician used to observe a patient who didn't want to be observed. He wasn't studying the coastline. He was studying her.
 
@@ -28,7 +28,7 @@ The question was: where?
 
 "We approach Byblos," the ship captain said, joining her at the rail. An older man, weathered by decades of Mediterranean trade. "You said you needed a temple. There are three. Ba'alat Gebal's—the patron goddess of Byblos—is oldest."
 
-At the stern, the Egyptian merchant was rolling his sleeping mat. Unhurried. Not looking at her. Which was its own kind of looking, the studied casualness of a man who'd been told to observe without being observed. Nefertari had seen the same behavior in palace guards pretending not to watch Tausret's movements. The body always betrayed the discipline. His shoulders stayed angled toward her even when his face turned away.
+At the stern, the Egyptian merchant was rolling his sleeping mat. Unhurried. Not looking at her. Which was its own kind of looking, the studied casualness of a man told to watch without being noticed. Nefertari had seen the same behavior in palace guards pretending not to watch Tausret's movements. The body always betrayed the discipline. His shoulders stayed angled toward her even when his face turned away.
 
 "How old?"
 

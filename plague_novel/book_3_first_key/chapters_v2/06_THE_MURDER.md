@@ -29,7 +29,7 @@ Shiphra bat-Hiram ran her hand along the massive beam, freshly arrived from Tyre
 
 "Magnificent, isn't it?"
 
-She turned. Adoniram stood in the foundation pit's entrance, clay tablets tucked under one arm, bronze measuring cord in his free hand. A small ring glinted on his right index finger, bronze, the width of a barley stalk, a craftsman's tool for checking column diameters. He'd worn it so long the metal had shaped itself to his knuckle. King Solomon's chief architect, technically her superior on this project, though they collaborated more than commanded.
+She turned. Adoniram stood in the foundation pit's entrance, clay tablets tucked under one arm, bronze measuring cord in his free hand. Bronze glinted on his right index finger — a measuring ring worn so long the metal had shaped to his knuckle. King Solomon's chief architect, technically her superior on this project, though they collaborated more than commanded.
 
 "Your father's finest work," Adoniram continued, descending the earthen ramp. "I've never seen cedar this quality outside Phoenicia itself."
 
@@ -57,11 +57,11 @@ Shiphra's pulse quickened. The "unusual" spacing encoded geometric markers for t
 
 Shiphra kept her expression neutral. "The foundation's stress center. All weight channels there. We can't afford failure."
 
-Adoniram looked up, and for a moment his eyes seemed distant. Unfocused. Like he was seeing something beyond the present.
+Adoniram looked up, and for a moment his eyes went distant. Unfocused. Seeing something beyond the present.
 
 "Do you ever dream about places you've never been?" His voice dropped.
 
-The question landed like a stone in still water.
+The question hit like cold metal against bone.
 
 "What do you mean?"
 
@@ -213,7 +213,7 @@ The physics were simple. Mass times gravity. The rope's tension released. The st
 
 Adoniram's expression shifted from relief to confusion to realization in the space of a heartbeat. He looked up. Saw the stone. Saw Shiphra's hand on the rope.
 
-Betrayal flashed in his eyes.
+His eyes widened.
 
 Then impact.
 
