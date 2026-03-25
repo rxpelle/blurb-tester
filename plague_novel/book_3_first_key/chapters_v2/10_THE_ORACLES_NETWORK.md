@@ -141,7 +141,11 @@ They stood in the archive room, Aristonike's hand on his arm from where he'd ste
 
 Kleomenes' pulse changed. Not gradually. Immediately. His heart locked into a rhythm that wasn't his — her rhythm, matching without permission. He felt it in his throat, his wrists, the backs of his knees. Every trained instinct told him to step back, assess, maintain operational distance. His body refused the order.
 
-He didn't understand it. His blood did.
+He didn't understand it. His blood did. And that was the part that frightened him — because if the blood understood before the mind, then the feeling wasn't his. It was inherited. A pattern encoded centuries ago, replaying through two bodies that happened to be standing close enough to activate it. The synchronized breathing. The pulse locking into someone else's rhythm. He'd read the Archive entries. He knew what Nefertari and Amenhotep had been to each other. He knew the encoding carried the deepest emotional imprints forward.
+
+What if this wasn't Kleomenes and Aristonike? What if this was the original pair, running through descendants like water through old channels, and the two of them were just the latest vessels to mistake the echo for something new?
+
+He pushed the thought down. It didn't stay down.
 
 And Aristonike — whose hands had trembled for three years, whose fingers shook too badly some mornings to hold a stylus — went still. The tremor stopped. Not diminished. *Stopped*. She stared at her own hand on his arm. Steady. For the first time in longer than she could remember, completely steady.
 
@@ -259,17 +263,35 @@ She set the stylus down very carefully. Her left hand was trembling.
 
 **Year three. 547 BCE.**
 
-She called him Demetrios on a Tuesday morning. Said it naturally, turning from the training session to ask him something about the duty rotation, and the name came out without a stumble. Demetrios. Nobody either of them knew.
+She called him Amenhotep.
 
-"Who's Demetrios?" he asked.
+Not a stumble. Not a confusion. She turned from the training session to ask him something about the duty rotation, and the name came out with a tenderness she'd never used with his actual name. Her eyes were soft, unfocused, looking at someone behind his face.
 
-Aristonike opened her mouth. Closed it. Her eyes went through the sequence he'd learned to dread — the flicker, the searching, the moment when seventeen lifetimes of memory competed for the surface. "I don't know," she said. "Someone's. Someone who mattered."
+"The lamp's going out," she said. "Can you read the next remedy? Your pronunciation is terrible but I like hearing you try."
+
+Kleomenes didn't move.
+
+She was in the Per Ankh. Eight hundred years ago. Sitting across a workbench from a man she'd loved enough to encode the feeling into human blood. And she was looking at Kleomenes with Nefertari's eyes, and her hand was reaching for his arm the way the Archive described — the reaching-left, the gesture every carrier recognized — except it wasn't left. It was toward him. Directly. With the certainty of a woman who knew exactly who she was reaching for.
+
+"Aristonike."
+
+The name hit her like cold water. Her eyes refocused. The softness drained. She looked at her own hand, extended toward him, and pulled it back as if she'd touched a hot surface.
+
+"What did I —" She stopped. Read his face. "Whose name did I say?"
+
+He told her.
+
+The sound she made wasn't a word. It was the sound of a woman discovering that the deepest love she'd felt in three years might not have been hers. That the tenderness she'd shown him — the unguarded, unconscious reaching — had belonged to someone eight centuries dead, playing through her body like a song through an instrument that couldn't choose its own music.
+
+"It felt real," she whispered. "It felt like mine."
+
+He couldn't answer that. Because he'd felt it too — the warmth when she looked at him that way, the certainty that this mattered. And now he didn't know if she'd been looking at him or through him, at a man in a lamplit laboratory who'd mispronounced *hesat* and made a woman laugh.
 
 After that, it happened more. Names surfacing from other lives, attached to his face. She'd catch herself, sometimes, correct the name mid-syllable. Other times she wouldn't notice, and he'd answer to whatever she called him, because correcting her meant watching her realize she'd lost another piece.
 
 He started keeping a list. Not for the network. For himself. Every name she called him. Every language that surfaced without warning. Every morning she woke up and asked where she was before her eyes focused and Delphi came back.
 
-The list grew faster than the network.
+The list grew faster than the network. But Amenhotep was the name he circled. Because none of the others came with tenderness.
 
 **Year four. 546 BCE.**
 
@@ -301,7 +323,17 @@ He told her. She repeated it twice, pressing it into her memory like a seal into
 
 "Two more years," she said. "Then you'll have to start telling me my own name too."
 
-He held her on the temple steps and felt the truth of it settling: the woman who'd built the prophecy network was already leaving, replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own. The network would survive. The network would grow. And Aristonike would vanish inside it, the way a river vanishes into the sea it feeds.
+He held her on the temple steps and felt the question he'd been carrying for three years settle beside them like a third person.
+
+If the love was inherited — if the pulse locking, the hand going steady, the tenderness she'd shown him with Nefertari's eyes — then none of it was theirs. They were performing a love story written eight centuries ago by two people in a lamplit laboratory, and the performance was so convincing they'd mistaken it for life.
+
+But.
+
+The encoding hadn't told him to stay. No inheritance had forced him to learn Aristonike's system, to train her replacements, to answer to names that weren't his, to hold a list of everything she was losing and carry it when she couldn't. The feeling might be Nefertari's. The choice to stay was his. Every morning for three years — his. Not because the blood said so. Because she forgot which mother grew herbs, and he stayed. Because she called him Amenhotep with tenderness she'd never shown Kleomenes, and he stayed. Because the distinction between an inherited feeling and a chosen one was the only distinction that mattered in the whole three-thousand-year experiment, and he was going to stand on the right side of it until she couldn't recognize him at all.
+
+The woman who'd built the prophecy network was already leaving, replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own. The network would survive. The network would grow. And Aristonike would vanish inside it, the way a river vanishes into the sea it feeds.
+
+But someone would remember her name. Not the seventeen names living inside her. Hers. And that someone had chosen to, which was more than the blood had ever asked of him.
 
 ---
 
