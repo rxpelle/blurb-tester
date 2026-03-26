@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 8 revised to 9/10)
+**Last updated:** 2026-03-26 (Ch 11 revised to 8/10)
 
 ## Scorecard
 
@@ -17,12 +17,12 @@
 | Ch 8: The Crisis | 9 | 9 | 9 | 8 | 8 | **9** |
 | Ch 9: The Keys Gathered | 5 | 4 | 5 | 4 | 5 | **5** |
 | Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
-| Ch 11: The Betrayal | 6 | 5 | 5 | 5 | 7 | **5** |
+| Ch 11: The Betrayal | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 12: The Execution | 7 | 7 | 7 | 6 | 6 | **7** |
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 7.5/10**
+**Manuscript average: 7.7/10**
 
 ---
 
@@ -101,8 +101,8 @@ Worst pacing. Series bible disguised as chapter. Key-system mechanics (two keys 
 ### Ch 10: The Decision — 5/10
 Most frustrating — best exchange and worst repetitions. Mary challenging Jesus's martyrdom motives is electrifying. Then squandered by returning to same arguments from Ch 7-9. Sarah as miniature philosopher strains credibility.
 
-### Ch 11: The Betrayal — 5/10
-"Not X. Y." tic at its worst. Scene 3 reads as military briefing document. Judas is the redemption — failed-rescuer conceit is elegant, suicide is specific and restrained. Marcus remains a camera. Capernaum during festival should overwhelm senses but doesn't.
+### Ch 11: The Betrayal — 8/10 (revised from 5)
+Two passes. Cut from 7 scenes to 5, ~8,200 to ~4,800 words. Scene 3 (military briefing with bolded headers) and Scene 7 (Temple interrogation/Malchus — overlaps Ch 12) cut entirely. All 7 "Not X. Y." constructions eliminated. All parable decodings cut ("Three servants. Generations 39, 40, 41"). All Last Supper decodings cut ("Surface question: theological challenge"). Scattering compressed from 80 lines to 20. Sukkot sensory detail added (roasting lamb, citron, lulav rattling like bones, shofar cutting through festival noise). Marcus given Thracian cohort memory ("watching men he'd trained walk into deaths he could have prevented"). Sarah watching adults over cup rim. Judas's suicide preserved — strongest section, elegantly restrained. Remaining gap to 9: chapter covers enormous ground (festival → parable → supper → arrest → scattering → suicide) and the parable is necessarily familiar territory.
 
 ### Ch 12: The Execution — 7/10
 Strongest second-half chapter. Crucifixion prose has genuine power — physicality earned. Mary's vigil is the manuscript's best sustained writing. Marcus finally shows cracks. Jesus's personal flashbacks work because they're personal, not generational. Simon of Cyrene's "Thank you" is exactly the right length.
