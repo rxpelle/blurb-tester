@@ -350,13 +350,13 @@ The twelve men were disciples, Jesus explained. Network descendants who'd been t
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "Generation 42, Branch 3. Strong inheritance. She's been experiencing overwhelming visions without context or training. That changes tonight."
 
-Peter—one of the disciples, Simon's brother—looked skeptical. "She's a woman. The network elders always said carriers were patrilineal."
+Peter — one of the disciples, Simon's brother — crossed his arms. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. "She's a woman. My grandfather said the bloodline runs through sons."
 
-"The network elders lost most of the original knowledge during the Babylonian exile," Jesus said calmly. "Nefertari—the physician who founded the defensive network in Pi-Ramesses—was a woman. Her first cohort of eighty-four people included twenty-three women. Blood memory doesn't care about gender. It cares about genetics."
+"Your grandfather lost half the knowledge during the exile," Jesus said calmly. "Nefertari — the physician who started all of this — was a woman. Nearly a quarter of her first students were women. The blood doesn't care about gender."
 
-Andrew shifted uncomfortably. "But teaching a woman—is that appropriate?"
+Andrew shifted uncomfortably. "But teaching a woman — is that appropriate?"
 
-"Teaching everyone who can learn is appropriate. Defensive mode only works through maximum distribution." Jesus's voice had an edge now. "We're preparing for diaspora. When Rome burns Jerusalem and everyone scatters, we need carriers embedded in every refugee stream. That means training women and men. Unless you'd prefer to lose half the distribution network because of cultural bias?"
+"When Jerusalem burns and everyone scatters, do you want half the people who can carry this forward sitting at home because we decided they were the wrong sex?" Jesus's voice had an edge now. "We teach everyone who can learn. That's how the knowledge survives."
 
 Silence. The disciples looked uncomfortable but didn't argue further.
 
@@ -374,7 +374,7 @@ When Mary opened her eyes, Jesus was smiling. "Exactly right. Every detail accur
 
 "But why?" Mary asked. "Why do I remember this?"
 
-"Because your ancestor was there. One of Nefertari's eighty-four. She learned pattern recognition before Pi-Ramesses fell. Survived the Bronze Age Collapse by joining a scattered network that carried defensive knowledge west. That knowledge encoded in her children genetically—trauma inheritance, epigenetic memory. Forty-two generations later, you're experiencing what she experienced. Seeing what she saw. Learning what she learned."
+"Because your ancestor was there. One of Nefertari's eighty-four students. She survived the collapse and fled west with what she'd learned. And what she learned went so deep it passed to her children. And their children. Forty-two generations later, you're seeing what she saw. Remembering what she lived through."
 
 John spoke up: "If the memories are that old, shouldn't they degrade? Forty-two generations of transmission—the knowledge should fragment."
 
