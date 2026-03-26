@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 9 revised to 8/10)
+**Last updated:** 2026-03-26 (Ch 10 revised to 8/10 — ALL CHAPTERS REVISED)
 
 ## Scorecard
 
@@ -16,13 +16,13 @@
 | Ch 7: The Teachings Spread | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 8: The Crisis | 9 | 9 | 9 | 8 | 8 | **9** |
 | Ch 9: The Keys Gathered | 8 | 8 | 8 | 7 | 8 | **8** |
-| Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
+| Ch 10: The Decision | 8 | 9 | 9 | 7 | 8 | **8** |
 | Ch 11: The Betrayal | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 12: The Execution | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 13: The Resurrection | 8 | 8 | 9 | 7 | 8 | **8** |
 | Ch 14: The Scatter | 8 | 8 | 8 | 7 | 8 | **8** |
 
-**Manuscript average: 8.3/10**
+**Manuscript average: 8.5/10**
 
 ---
 
@@ -98,8 +98,8 @@ Two passes. Cut from 7 scenes to 4, ~8,900 to ~3,200 words. Scene 7 (network mee
 ### Ch 9: The Keys Gathered — 8/10 (revised from 5)
 Cut from 7 scenes to 5, ~6,900 to ~1,300 words (manuscript text). Key Inventory scene (pure game-design documentation) cut entirely. Lost Keys meeting cut entirely — fourth repetition of keyless-access debate. Nefertari vision compressed from 60 lines to 6 — keeps the scent of cooling bronze, cuts the RPG stat block. Helena arrival compressed from 100 lines to 20. Unlocking trauma cascade preserved as the chapter's one real moment — numbered five-layer system replaced with progressive visceral experience. Clinical debrief after unlocking cut entirely. Teaching montage compressed — Sarah's "the stories have two meanings" is the keeper. Mary's conflict (wanting to protect Jesus vs. accepting his calculation) stated once, not four times. Remaining gap to 9: the key-system mechanics are inherently expository — even compressed, the chapter is more mechanism than story.
 
-### Ch 10: The Decision — 5/10
-Most frustrating — best exchange and worst repetitions. Mary challenging Jesus's martyrdom motives is electrifying. Then squandered by returning to same arguments from Ch 7-9. Sarah as miniature philosopher strains credibility.
+### Ch 10: The Decision — 8/10 (revised from 5)
+Cut from 7 scenes to 2, ~7,200 to ~750 words. Teaching montage cut (repeats Ch 7-9). Network meeting cut (repeats Ch 9). Last Supper cut (belongs in Ch 11). Final night Nefertari cascade cut (already done in Ch 9). Pattern Eye handover cut (happens offscreen). Sarah-as-philosopher reduced to one devastating line: "Then his dying doesn't stop it." Mary's challenge preserved as the chapter's core — "Don't pretend this is pure wisdom when it's also pride, stubbornness." Jesus's admission — "You're right" — gives him real interiority for the first time. Marcus's observation about motives mattering to legacy stated once, lands hard. Character score 9 because this is the manuscript's strongest character writing — three people being honest with each other about death. Remaining gap to 9: the chapter is very short, which means it functions more as a scene than a chapter.
 
 ### Ch 11: The Betrayal — 8/10 (revised from 5)
 Two passes. Cut from 7 scenes to 5, ~8,200 to ~4,800 words. Scene 3 (military briefing with bolded headers) and Scene 7 (Temple interrogation/Malchus — overlaps Ch 12) cut entirely. All 7 "Not X. Y." constructions eliminated. All parable decodings cut ("Three servants. Generations 39, 40, 41"). All Last Supper decodings cut ("Surface question: theological challenge"). Scattering compressed from 80 lines to 20. Sukkot sensory detail added (roasting lamb, citron, lulav rattling like bones, shofar cutting through festival noise). Marcus given Thracian cohort memory ("watching men he'd trained walk into deaths he could have prevented"). Sarah watching adults over cup rim. Judas's suicide preserved — strongest section, elegantly restrained. Remaining gap to 9: chapter covers enormous ground (festival → parable → supper → arrest → scattering → suicide) and the parable is necessarily familiar territory.
