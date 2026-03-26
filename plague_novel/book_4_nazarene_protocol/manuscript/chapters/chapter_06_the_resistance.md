@@ -28,9 +28,7 @@ Lucullus finally looked up. His face showed the same exhaustion Marcus felt. Fiv
 
 "That's escalation." Lucullus marked something on the map. "Female teaching circles suggest organization. Structure. Not just a wandering prophet anymore."
 
-Marcus said nothing. He'd filed reports on Mary for three years, ever since Jesus had validated her blood memory and brought her into active network training. Lucullus was right—it was escalation. But it was also exactly what defensive mode required. Distributed knowledge. Multiple teachers. Resilient network architecture.
-
-The trouble was, resilient network architecture looked exactly like organized resistance to anyone trained in Roman threat assessment.
+Marcus said nothing. He'd filed reports on Mary for three years. Lucullus was right—it was escalation. But to Marcus, it looked like a teacher training replacements. The trouble was, training replacements looked exactly like organized resistance to anyone trained in Roman threat assessment.
 
 "Temple authorities are losing patience," Lucullus continued. "Caiaphas sent another petition yesterday. Third one this month. They want Jesus arrested for blasphemy and delivered to the Sanhedrin for trial."
 
@@ -38,9 +36,7 @@ The trouble was, resilient network architecture looked exactly like organized re
 
 "He called the Temple 'a den of thieves.' Overturned tables in the outer courts. Disrupted commerce." Lucullus's tone was flat. "Also claims to have special authority. Says he can destroy the Temple and rebuild it in three days. The priests interpret that as a threat."
 
-Marcus thought about that. Jesus had been teaching publicly for three years. Everything he said had dual layers—spiritual instruction on the surface, systems theory underneath. "Destroy the Temple" probably meant "current religious institutions will collapse," not "I personally will demolish the building."
-
-But explaining that to Caiaphas would require admitting that Jesus taught in code. And explaining the code would require revealing network existence.
+Marcus knew what Jesus meant. "Current institutions will collapse," not "I'll demolish the building." But explaining that to Caiaphas would require admitting things Marcus couldn't admit.
 
 "The Zealots?" Marcus asked instead.
 
@@ -48,17 +44,13 @@ But explaining that to Caiaphas would require admitting that Jesus taught in cod
 
 "Has Jesus responded?"
 
-"He told them violence begets violence in feedback loops that end with everyone dead. Refused the recruitment. Told them the Kingdom he preaches isn't won with swords."
+"Told them the Kingdom he preaches isn't won with swords. Refused flat."
 
-"Then he's de-escalating Zealot recruitment. That serves Roman interests."
+"Then he's de-escalating Zealot recruitment. That serves our interests."
 
-Lucullus gave him a look that said *you know better than that*. "He's de-escalating visible militant recruitment while building an alternative network that could resist imperial authority through distributed knowledge and non-compliance. Different tactics. Same strategic threat."
+Lucullus gave him a look that said *you know better than that*. "He's de-escalating violent recruitment while building something that doesn't need violence. Different tactics. Same strategic problem."
 
-Marcus couldn't argue with that assessment. It was accurate. Jesus was building exactly what Lucullus described—a network that could survive institutional collapse and resist centralized control through pattern recognition and early intervention.
-
-The problem was, building that network was *defensive* mode. Trying to help populations prevent collapse. Not trying to overthrow Rome or organize armed rebellion.
-
-But Rome didn't distinguish between defensive knowledge distribution and offensive resistance preparation. Both looked like threats to imperial stability.
+Marcus couldn't argue. Rome didn't distinguish between a teacher and a threat. Both looked the same from the Antonia Fortress.
 
 "What are our orders?" Marcus asked.
 
@@ -78,13 +70,11 @@ Marcus had been dreading this question for three years.
 
 "Because Pilate is smarter than the Temple priests. He knows martyring a popular teacher creates more problems than it solves. Followers multiply. Teaching spreads faster. The execution becomes part of the message." Lucullus's voice was heavy. "We're trying to find a way to neutralize him without making him more powerful dead than alive."
 
-Marcus felt something cold settle in his chest. They'd been wrestling with this problem for years. Jesus knew it too—had told Marcus explicitly, five years ago during that first census encounter, that he expected to be killed within ten years and was encoding his teaching specifically to survive martyrdom.
+Marcus felt something cold settle in his chest. Five years of wrestling with this problem, and the answer was always the same.
 
-Strategic self-sacrifice. Using his own death as a knowledge distribution mechanism.
+"There's no solution," Marcus said quietly. "Arrest him, followers multiply. Leave him alone, the network grows. We're boxed."
 
-"There's no solution," Marcus said quietly. "If we arrest him, his followers multiply. If we leave him alone, his network grows. We're trapped in the exact escalation cycle he's been teaching people to interrupt."
-
-Lucullus smiled without humor. "Exactly. Which means someone in this conflict needs to break the pattern. And it won't be Rome. We don't break patterns—we enforce them."
+Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centurion. We enforce them."
 
 ---
 
@@ -92,11 +82,11 @@ Lucullus smiled without humor. "Exactly. Which means someone in this conflict ne
 
 Marcus found Jesus teaching in the Temple courts the next morning.
 
-The location was strategic. Jesus usually taught in Galilee—hillsides, lakeshores, places where Roman surveillance was minimal and crowds could gather freely. But now, three years into his ministry, he was teaching in Jerusalem. In the Temple. Where both Roman and Temple authorities could monitor every word.
+Three years of teaching in Galilee—hillsides, lakeshores, places where surveillance was thin. Now he was teaching in the Temple itself, where every word echoed off stone and into Roman reports.
 
-It felt deliberate. Like he was forcing their attention.
+It felt deliberate.
 
-Marcus positioned himself at the edge of the colonnade where he could observe without being obvious. Roman centurions in the Temple weren't unusual—Pilate required military presence during festivals and high-traffic days. But Marcus didn't want to disrupt the teaching. He wanted to hear what Jesus was actually saying.
+Marcus positioned himself at the edge of the colonnade. Roman centurions in the Temple weren't unusual. He wanted to hear what Jesus was actually saying.
 
 The crowd was maybe two hundred people. Mostly Galileans who'd followed Jesus south. Some Jerusalem residents. A cluster of women sitting near the front—Mary of Magdala among them, holding her daughter Sarah's hand. The girl was six years old now, according to Marcus's records. Old enough to begin formal pattern recognition training.
 
@@ -104,35 +94,19 @@ Jesus stood on the Temple steps, speaking in Aramaic with that Galilean accent t
 
 "A sower went out to sow his seed," Jesus was saying. "Some fell on the path and was trampled, and birds ate it. Some fell on rock, and when it grew, it withered because it had no moisture. Some fell among thorns, and the thorns grew with it and choked it. But some fell on good soil and grew, producing a hundredfold."
 
-Standard parable format. Marcus had read dozens of these in intelligence reports over the past three years. Simple agricultural metaphors that the crowd could understand.
+Standard parable format. Marcus had read dozens in intelligence reports. Simple agricultural metaphors.
 
 But Jesus never stopped at the surface layer.
 
-"Listen carefully," Jesus continued. "The seed is the teaching. The path is people who hear but don't retain—the teaching is trampled by immediate pressures and eaten by competing voices. The rock is people who receive enthusiastically but have no depth—when stress comes, they wither. The thorns are people who let concerns and wealth and life's anxieties choke the growth. But the good soil—those are people who hear, retain, and practice persistently. They produce multiplication effects."
+"Listen carefully," Jesus continued. "The seed is the teaching. The path is people who hear but don't retain. The rock is people who receive enthusiastically but have no depth. The thorns are people who let anxieties choke the growth. But the good soil—those are people who hear, retain, and practice persistently. They produce multiplication effects."
 
-Marcus listened to the explanation and heard the systems engineering underneath the spiritual metaphor.
-
-*Teaching distribution requires appropriate conditions. Message alone isn't enough—you need receptive environments, sustained practice, and protection from competing pressures. Success isn't about initial enthusiasm. It's about persistent application over time. And when conditions are right, knowledge multiplies exponentially.*
-
-Defensive mode knowledge distribution strategy, encoded as a farming parable.
-
-Marcus glanced around the crowd. Most faces showed basic comprehension—they understood the spiritual lesson about faithful listening. But a few—Mary, several of the twelve, maybe six or seven others—had sharper expressions. They were hearing both layers simultaneously.
-
-Those were the network carriers. The ones with strong enough pattern recognition to decode the systems teaching embedded in the religious instruction.
+Marcus glanced around the crowd. Most faces showed basic comprehension. But a few—Mary, several of the twelve, maybe six or seven others—had sharper expressions. They were hearing both layers.
 
 "Teacher," someone called from the crowd. Marcus recognized him—one of the Pharisees who'd been monitoring Jesus for the Temple authorities. "You teach in parables. Why not speak directly? Why hide your meaning?"
 
 Jesus smiled slightly. "To those who see, more will be revealed. To those who don't, even what they think they understand will be taken away. I speak in parables so the teaching can survive even when people forget what it means."
 
-Marcus felt his breath catch.
-
-That was the most explicit statement of encoding strategy he'd ever heard Jesus make publicly. *I speak in parables so the teaching can survive even when people forget what it means.*
-
-Knowledge preservation across institutional collapse. Encode the pattern in memorable stories. The meaning could be lost—people could forget why they told these parables or what they originally signified—but the stories would persist. And generations later, someone with pattern recognition ability could decode them and recover the original knowledge.
-
-Exactly how the defensive network had survived for twelve hundred years. Fragments preserved in cultural practices and oral traditions, waiting for carriers strong enough to recognize and reconstruct the patterns.
-
-Jesus was doing it in real time. Building cultural transmission structures that would outlast him.
+Marcus felt his breath catch. That was the most explicit statement of encoding strategy he'd ever heard Jesus make publicly. Stories that would persist even when people forgot what they meant. Waiting for someone sharp enough to decode them.
 
 The Pharisee looked frustrated. "You speak in riddles."
 
@@ -140,17 +114,9 @@ The Pharisee looked frustrated. "You speak in riddles."
 
 Several people in the crowd laughed. The Pharisee's face darkened, but he didn't respond.
 
-Marcus made mental notes for his report. *Subject continues dual-layer teaching methodology. Surface content: religious instruction. Embedded content: systems thinking and knowledge preservation strategies. Explicitly acknowledged encoding intent. Core followers demonstrate pattern recognition abilities suggesting network affiliation or carrier genetics.*
+Marcus composed his report in his head, same as always. Technically accurate. Strategically misleading. The kind of report that kept a man alive without admitting why you wanted him alive.
 
-Then he crossed out the last sentence before committing it to memory.
-
-Lucullus didn't need to know about carrier genetics. That would trigger elimination protocols immediately. Better to frame this as clever teaching methodology by a charismatic preacher.
-
-Marcus was getting skilled at writing reports that were technically accurate but strategically misleading. It was the only way to protect Jesus while maintaining the appearance of cooperation with intelligence directives.
-
-He'd been doing it for five years.
-
-It was exhausting.
+Five years of this. It was exhausting.
 
 ---
 
@@ -186,15 +152,15 @@ Marcus filed that away. Barabbas. Known Zealot recruiter. Temple intelligence ha
 
 Silence. The crowd had gone completely still.
 
-Marcus felt his heart pounding. Jesus had just laid out the exact collapse trajectory Rome's intelligence analysts predicted. Zealot resistance escalating. Roman crackdowns intensifying. Feedback loop compounding until catastrophic violence became inevitable.
+Marcus felt his heart pounding. Jesus had just described the exact collapse trajectory Rome's own analysts predicted.
 
 "You can see this?" Barabbas whispered.
 
-"I can see the pattern. I've seen it before, in blood memory going back twelve hundred years. Every time populations try to resist empire through violence, the empire wins. Not because Rome is righteous. Because empire is *optimized* for violence. You can't out-violence the most violent power structure in human history."
+"I can see the pattern. Every time populations try to resist empire through violence, the empire wins. Not because Rome is righteous. Because empire is *optimized* for violence. You can't out-violence the most violent power structure in human history."
 
 "Then what do we do?" someone else asked.
 
-"Build alternative structures. Teach people to recognize collapse patterns early. Interrupt escalation before it cascades. Create distributed networks that survive institutional failure." Jesus's voice carried across the courtyard. "The Kingdom I teach isn't about defeating Rome. It's about building communities resilient enough to survive Rome's inevitable collapse without collapsing themselves."
+"Build communities resilient enough to survive Rome's collapse without collapsing themselves. That's the Kingdom I teach. Not defeating Rome — outlasting it."
 
 Marcus watched Barabbas's face. Confusion. Frustration. The cognitive dissonance of hearing your hero reject the exact strategy you'd built your identity around.
 
@@ -206,19 +172,9 @@ Barabbas stared at him for a long moment. Then turned and pushed back through th
 
 The teaching session ended shortly after. The crowd dispersed slowly, people processing what they'd witnessed.
 
-Marcus stayed in the shadows, documenting mentally.
+Marcus walked back toward the Antonia Fortress, composing another careful report. Another month bought. Maybe two.
 
-*Subject explicitly rejected violent resistance despite multiple Zealot recruitment attempts. Demonstrated systems-level thinking regarding escalation dynamics and imperial violence. Predicted Jerusalem's destruction in three generations if current trajectory continues. Teaches population resilience and pattern recognition instead of armed revolt.*
-
-*Assessment: Subject is not organizing rebellion. If anything, he's preventing Zealot recruitment by offering alternative framework. Serves Roman stability interests short-term.*
-
-*Long-term threat assessment remains unchanged: Building parallel knowledge networks independent of imperial authority.*
-
-Marcus closed his tablet and walked back toward the Antonia Fortress where the garrison was headquartered.
-
-His report would keep Jesus alive for another month, maybe two. But every report felt like delaying the inevitable. Sooner or later, someone in command would decide that alternative knowledge networks were too dangerous to tolerate, regardless of short-term Zealot de-escalation benefits.
-
-And when that decision came, Marcus wouldn't be able to stop it.
+Every report felt like delaying the inevitable.
 
 ---
 
@@ -254,51 +210,39 @@ Marcus drew his gladius. "I said get out."
 
 "Violence isn't necessary. I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. "I'm here with an offer. The offensive network recognizes Jesus's value. He's a Generation 42 carrier with full Protocol access. His pattern recognition abilities are extraordinary. His teaching methodology is brilliant. We want to recruit him."
 
-"He won't work for centralized power structures. That's offensive mode thinking—exactly what he opposes."
+"He won't work for you."
 
 "Then we want you to eliminate him."
 
-Silence.
+Marcus kept the blade steady. "And if I refuse?"
 
-Marcus kept the blade steady. "Explain."
+"We inform Lucullus about your network affiliation. Your concealment of intelligence. Your five years of protection theater." Matthias's voice was pleasant, as if discussing trade routes. "You'll be discharged. Prosecuted. And we'll send someone less sentimental to handle Jesus."
 
-"You have two choices, Centurion. Help us recruit Jesus into offensive network operations—get him to use his pattern recognition for imperial stability instead of building parallel networks. Or eliminate him before he can distribute more defensive knowledge."
-
-"And if I refuse both options?"
-
-"Then we inform Tribune Lucullus about your network affiliation and your deliberate concealment of intelligence regarding Jesus's bloodline status. You'll be discharged, prosecuted, possibly executed. And we'll send someone else to handle Jesus."
-
-Marcus thought through the threat calculus quickly. Matthias was right—revealing Marcus's network affiliation would end his career and probably his life. But more importantly, it would remove his ability to protect Jesus. Someone else would take over surveillance. Someone with no defensive network loyalty. Someone who'd follow elimination orders without hesitation.
+Marcus thought through it quickly. Losing his position meant losing the only shield Jesus had inside Roman intelligence.
 
 "Why me?" Marcus asked. "Why not just kill him yourselves?"
 
-"Because you have access. Jesus trusts you—or at least, he's observed you for five years and knows you haven't betrayed him yet. We need someone who can get close enough for recruitment conversation. Or close enough for a clean elimination that doesn't trigger martyrdom dynamics."
+"Because you have access. He knows you haven't betrayed him. Close enough for recruitment. Or close enough for a clean kill."
 
-"He expects to be martyred. He's planned for it. Killing him just encodes the knowledge more deeply."
+"He expects to die. He's planned for it. Killing him only spreads the teaching faster."
 
-"Only if the martyrdom looks righteous. If he's killed quietly, in a way that discredits his teaching, the encoding fails." Matthias leaned forward. "We've studied defensive network knowledge transmission for centuries. Martyrdom works when the death validates the teaching—persecution by corrupt authority proves the teacher right. But if the death looks like criminal execution, or if the teacher is exposed as a fraud first, the martyrdom effect inverts. Followers lose faith. Teaching fragments. Network collapses."
+"Only if the death looks righteous." Matthias leaned forward, and for the first time his voice sharpened. "Martyrdom works when persecution proves the teacher right. But discredit him first — expose him as a fraud, a criminal — and the martyrdom effect inverts. Followers scatter. Teaching dies with him."
 
-Marcus felt sick. The offensive network had thought this through. They understood defensive mode well enough to sabotage its own knowledge distribution mechanisms.
+Marcus felt sick. They'd thought this through.
 
 "What if I report you to Lucullus?" Marcus asked.
 
 "I am Lucullus's source for offensive network intelligence. Who do you think authorized this recruitment conversation?" Matthias stood slowly. "You have three days to decide, Centurion. Recruit Jesus. Kill Jesus. Or lose your position and we send someone else to finish the job."
 
-He walked to the door, then paused. "For what it's worth, I respect what you've been trying to do. Protecting a pattern-teacher from imperial suppression. Noble. Futile, but noble. The defensive network's problem has always been idealism. You think distributed knowledge saves populations. But populations don't want to be saved—they want to be controlled. That's why offensive mode always wins. We give them what they actually want."
+He walked to the door, then paused. "For what it's worth — noble effort. Futile, but noble. The problem with your side has always been the same. You think people want to be free. They don't. They want to be managed. That's why we always win."
 
 Matthias left.
 
 Marcus sat down heavily on his bunk, gladius still in hand.
 
-Three days.
-
 Three days to decide whether to betray Jesus or betray Rome or lose everything and watch Jesus die anyway.
 
-The escalation cycle was compounding. Exactly the way Jesus had been teaching people to recognize and interrupt. Pressures building. Options narrowing. Violence becoming inevitable.
-
-Marcus understood the pattern intellectually.
-
-But understanding it didn't mean he could stop it.
+He understood the trap. Understanding it didn't mean he could escape it.
 
 ---
 
@@ -310,81 +254,53 @@ He found Simon at the docks, mending nets in the dark. The fisherman looked up a
 
 "How long?" Simon asked.
 
-"Three days. Then the offensive network moves whether I cooperate or not."
+"Three days. Then they move whether I cooperate or not."
 
 Simon set down the nets. "What did they offer?"
 
-"Recruitment first. Failing that, elimination. They want Jesus working for imperial stability or dead before he can encode more defensive knowledge."
-
-"He won't accept recruitment."
-
-"I know." Marcus dismounted, tied his horse. "They know too. The recruitment offer is theater. Real objective is elimination."
-
-"Martyrdom encodes the teaching."
-
-"They plan to discredit him first. Make the death look criminal instead of righteous. Break the martyrdom effect."
+"Recruit him or kill him. The recruitment's theater — they know he'll refuse. Real objective is elimination. They plan to discredit him first. Make the death look criminal. Break the martyrdom effect."
 
 Simon was quiet for a long moment. "Can they do that?"
 
-"I don't know. They're better at this than we are. They've been sabotaging defensive network knowledge transmission for centuries." Marcus looked across the dark water. "They understand our strategies well enough to corrupt them."
+"I don't know. But they've thought about it longer than we have."
 
 "What are you going to do?"
 
-"Warn Jesus. Give him the intelligence so he can prepare. Maybe adjust his martyrdom plan if there's a way to prevent the discrediting."
+"Refuse. Accept discharge. Lose everything." Marcus's voice was flat. "Buy him a week, maybe two. Then someone else finishes the job."
 
-"And then?"
+Simon stood slowly. "You told me you'd get him ten years."
 
-"I refuse their orders. Accept discharge. Lose my position." Marcus's voice was flat. "Someone else takes over surveillance. Probably someone who'll follow elimination protocols without hesitation. I buy Jesus maybe a week, maybe two. Then they kill him anyway."
+"I got him six. It's not enough."
 
-Simon stood slowly. "You're choosing defensive mode over Rome."
-
-"I'm choosing pattern recognition over institutional loyalty. Rome is eating itself. Jesus is trying to teach people how to survive the collapse. Helping Rome suppress that teaching just accelerates the catastrophic failure." Marcus met his eyes. "You told me five years ago to get him ten years. I've managed to get him six. It's not enough."
-
-"It's six more than he would have had without you."
+"It's six more than he would have had."
 
 "It's not enough," Marcus repeated.
 
-They stood in silence for a while. Waves against the dock. Oil lamps flickering in distant houses. Peaceful. Unaware that this entire region was sliding toward catastrophic violence.
+Waves against the dock. Oil lamps flickering in distant houses.
 
-"I'll tell him," Simon said finally. "Tomorrow. He's teaching in Bethany—safe house, away from Temple surveillance. I'll bring him the intelligence about offensive network plans."
+"Will he change anything?" Marcus asked.
 
-"Will he change anything?"
+"No. He won't hide. Won't run." Simon's voice was heavy. "We can't save him. We can only help him die in a way that preserves the teaching."
 
-"No. He'll accept it. Adjust the timeline maybe. But he won't hide. Won't run. Won't compromise the teaching to save himself." Simon's voice was heavy. "He's been preparing for this since I met him seven years ago. Martyrdom is part of the encoding strategy. We can't save him, Marcus. We can only help him die in a way that preserves the knowledge."
+Marcus had known that for years. Hearing it said aloud still felt like a knife.
 
-Marcus had known that intellectually for years. But hearing it stated so bluntly still felt like a knife.
+"How long?"
 
-"How long does he have?" Marcus asked.
+"Two years. Maybe less. Mary needs more training. Sarah's too young. The Twelve need final instruction. There are pieces still to put in place."
 
-"Two years, maybe. Offensive network is accelerating the timeline, but there are still pieces to put in place. Mary needs more training. Sarah is only six—too young to carry the teaching forward yet. The Twelve need final instruction. Gospel accounts need to be encoded in oral tradition before he dies."
+"I want to help. Document what happens. Protect Mary and the girl after he's gone."
 
-"Two years."
+Simon looked at him carefully. "Your people will kill him."
 
-"That's the estimate. Could be eighteen months. Could be thirty months. Depends on political timing—Pilate's relationship with Caiaphas, Zealot movement escalation, offensive network manipulation of all three factions."
-
-Marcus thought about that timeline. 31 CE, autumn. Crucifixion sometime between mid-32 and early 33 CE. Then diaspora. Temple destruction in 70 CE. Exactly the pattern Jesus had been predicting.
-
-"I want to help," Marcus said quietly. "However I can. Once I'm discharged, I'll have no official position. But I can document what happens. Bear witness. Protect Mary and the Twelve after he's gone. Whatever the defensive network needs."
-
-Simon looked at him carefully. "Why?"
-
-"Because I spent twenty-three years serving an empire that perpetuates the exact collapse patterns Jesus has been teaching people to interrupt. And I'm tired of being part of the problem." Marcus's voice was raw. "If he's going to die trying to encode defensive knowledge, the least I can do is make sure it survives him."
-
-"You're a Roman centurion. Defensive network carrier affiliation doesn't change that. Your people will kill him."
-
-"Yes. And I can't stop that. But maybe I can help preserve what he's building before they destroy it."
+"Yes. And I can't stop that. But I can make sure what he's building survives."
 
 Simon extended his hand. Marcus took it.
 
-"Welcome to the resistance," Simon said quietly. "Real resistance. Not Barabbas's violent fantasies. The kind that actually interrupts collapse cycles."
-
-Marcus nodded.
-
-He'd just committed treason. Betrayed his oath to Rome. Chosen a carpenter's teaching over imperial duty.
+He'd just committed treason. Chosen a carpenter's teaching over twenty-eight years of imperial duty.
 
 It should have felt like failure.
 
-Instead, it felt like the first honest decision he'd made in decades.
+It felt like the first honest decision he'd made in decades.
 
 ---
 
@@ -412,21 +328,17 @@ Lucullus studied him. "You're defensive network affiliated. You have been for ye
 
 Marcus said nothing.
 
-"I should prosecute you. Concealment of intelligence. Dereliction of duty. Probably treason." Lucullus set down the report he'd been reading. "But prosecuting you doesn't solve the problem. Jesus is still out there teaching. Still building networks. Still distributing knowledge that Rome can't control."
+"I should prosecute you. Concealment. Dereliction. Treason." Lucullus set down his report. "But prosecuting you doesn't stop him teaching."
 
 "So what are your orders, sir?"
 
-"Discharge granted. Effective immediately. No pension. No benefits. Civilian status." Lucullus's voice was tired. "And off the record, Scipio? I hope whatever defensive network operation you're protecting works. Because offensive network is right about one thing—this region is building toward catastrophic failure. Someone needs to teach these populations how to survive what's coming."
+"Discharge. Immediate. No pension." Lucullus was quiet for a moment, then spoke more carefully. "Off the record, Scipio — twenty-eight years in intelligence. I know what collapse looks like before it arrives. Rome is strong now, but the patterns are there." He met Marcus's eyes. "I can't help him. But I won't stop you from trying."
 
-Marcus felt his breath catch. "Sir?"
+Marcus felt his breath catch.
 
-"Twenty-eight years in intelligence. I've watched empires rise and fall. Rome is strong now, but the patterns are there. Extraction economics. Military overextension. Political corruption. All the preconditions for collapse that Jesus has been teaching about." Lucullus met his eyes. "I can't help him. My duty is to Rome. But I won't stop you from trying."
+"Don't thank me. I'm sending your replacement. Someone who follows orders." Lucullus's voice hardened back to official register. "You've bought him six months. Use it well."
 
-"Thank you, sir."
-
-"Don't thank me. I'm still sending someone to replace you. Someone who will follow offensive network directives without hesitation. You've bought him maybe six months. Use it well."
-
-Marcus saluted for the last time as a Roman centurion. Then left the garrison as a civilian.
+Marcus saluted for the last time. Then left the garrison as a civilian.
 
 ---
 
@@ -434,137 +346,57 @@ Marcus saluted for the last time as a Roman centurion. Then left the garrison as
 
 Marcus found Jesus teaching on a hillside outside Bethany two days later.
 
-The crowd was smaller than usual—maybe sixty people. The core group. Network affiliates and strong pattern-recognizers who'd been following his teaching for years.
+Smaller crowd than usual — maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
 
-Mary of Magdala sat near the front, Sarah on her lap. The girl was watching Jesus with complete attention. Already learning. Already being trained to see patterns.
+Jesus was teaching about signs. The fig tree parable — when the branch puts out leaves, you know summer is near. When you see certain markers, you know collapse is near. Most of you will live to see Jerusalem burn.
 
-Jesus made eye contact with Marcus across the hillside. Brief acknowledgment. Then continued teaching.
+Marcus had heard the content before. What struck him now wasn't the teaching — it was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left. They'd moved past denial. Past bargaining. They were planning.
 
-"Consider the fig tree," Jesus was saying. "When its branch becomes tender and puts out leaves, you know summer is near. So also, when you see certain signs, you know the Kingdom is near. I tell you, this generation will not pass away until all these things take place."
+After the teaching ended, Marcus approached. "You resigned," Jesus said. Not a question.
 
-Marcus heard the dual meaning underneath.
+"This morning."
 
-*When you see specific collapse markers—escalation cycles compounding, institutional dysfunction accelerating, violence cascades building—you know systemic failure is imminent. The patterns I'm teaching you to recognize will manifest within your lifetime. Forty years. Maybe less.*
+"And you're here."
 
-Forty years from now would be 71 CE. One year after the Temple burns. After the diaspora scatters. After everything Jesus had been predicting comes true.
+"Simon said you needed witnesses."
 
-"Teacher," someone asked, "what are the signs?"
-
-"When you see wars and rumors of wars, don't be terrified. These things must happen first. Nation will rise against nation. Kingdom against kingdom. There will be earthquakes, famines, terrors. But these are just the beginning—birth pains of collapse, not the collapse itself."
-
-"When does the real collapse come?"
-
-"When you see Jerusalem surrounded by armies, know its desolation is near. Then those in Judea should flee to the mountains. These are days of vengeance, fulfillment of everything that's been written."
-
-Someone in the crowd gasped. Talking about Jerusalem's destruction was dangerous. Bordered on prophecy. Could be interpreted as sedition.
-
-But Jesus continued calmly. "This isn't prophecy. It's pattern recognition. Rome doesn't tolerate resistance. Zealots are building toward revolt. Temple authorities are losing popular support. All three power structures are locked in escalation cycles that can only end one way—catastrophic violence. I'm not predicting the future. I'm reading the present correctly."
-
-Mary spoke up from the front. "Can we prevent it?"
-
-"No. The intervention points passed decades ago. Before the occupation entrenched. Before Zealot networks formed. Before Temple corruption became systemic." Jesus's voice was gentle but certain. "We're past prevention. Now we prepare. Teach people to recognize the markers. Build resilient communities that can survive the collapse. Encode the knowledge so it persists through diaspora."
-
-"How long?" another voice asked.
-
-"Forty years. Maybe less. One generation." Jesus looked across the crowd. "Most of you will live to see Jerusalem burn. The Temple destroyed. The population scattered across the Empire. Everything I've been teaching you will be tested in the crucible of catastrophic failure."
-
-"And if we survive?"
-
-"Then you teach your children. They teach their children. The knowledge distributes. Forty generations from now, maybe seventy, someone strong enough will activate the full Protocol and prevent the next collapse cycle. That's the mission. Not saving this generation—we're too late for that. But saving the generations that come after."
-
-Silence across the hillside.
-
-Marcus felt something break and rebuild inside him simultaneously. Jesus wasn't trying to save the present. He was trying to save the future. Encoding knowledge that would take forty or seventy generations to fully activate.
-
-The longest strategic timeline Marcus had ever encountered.
-
-After the teaching ended, Marcus approached. The crowd had dispersed—going back to Bethany, to Capernaum, to wherever they'd come from. Mary and Sarah stayed close.
-
-"You resigned," Jesus said. Statement, not question.
-
-"This morning. Civilian status now."
-
-"The offensive network gave you an ultimatum."
-
-"Three days ago. Recruit you, kill you, or lose everything." Marcus looked at him. "I chose option three. Simon said you needed witnesses. People who can document what happens and protect the teaching after you're gone."
-
-Jesus smiled slightly. "Thank you."
-
-"I spent twenty-eight years serving an empire that perpetuates collapse patterns. I'd like to spend whatever time I have left trying to interrupt them instead."
-
-"You understand I'm going to die. Probably within two years. Crucifixion, most likely. Painful. Public. Designed to terrorize populations into submission."
+Jesus studied him. The same look he'd given Marcus five years ago at the census — not reading his face but reading something behind it. "You understand what you're witnessing. Crucifixion, most likely. Within two years."
 
 "I understand."
 
-"And you're still willing to witness it."
+Mary extended her hand. "We met at the Sermon. Four years ago. You were watching from the edges."
 
-"Yes."
+"I remember."
 
-Jesus was quiet for a moment. Then nodded. "Mary, this is Marcus Publius. Roman centurion—former centurion now. Defensive network affiliate. He's been protecting the teaching for five years. He'll continue protecting it after I'm gone."
+"Your reports gave us five years." Her voice was firm, the voice of a woman who measured debts precisely. "Now we need something different. Someone who can document what actually happens. From outside."
 
-Mary extended her hand. "Sarah and I met you at the Sermon on the Mount. Four years ago. You were watching from the edges."
-
-Marcus took her hand carefully. "I remember."
-
-"You've kept us alive," Mary said quietly. "Your reports gave us time to train. Time to build the network. Time to prepare for what's coming."
-
-"It wasn't enough."
-
-"It was exactly enough. We needed five years. You gave us five years." Mary's voice was firm. "Now we need something else. Documentation. Witness accounts. Someone who can tell the truth about what happens, from outside the network perspective."
-
-"Gospel," Jesus said. "We're encoding the teaching in portable oral traditions. Stories. Parables. Sayings. But we also need factual accounts. What actually happened. Who was there. What was said. Evidence for future generations."
-
-Marcus understood. "You want me to write it down."
-
-"Not yet. First witness it. Remember it. Then write it later, when it's safe. After the diaspora. After the dust settles." Jesus met his eyes. "Can you do that?"
-
-"Yes."
-
-"Even the parts that make Rome look cruel? Make the Empire look brutal?"
+"First witness it," Jesus said. "Then write it later, when it's safe. After everything settles." He met Marcus's eyes. "Even the parts that make Rome look cruel?"
 
 "Especially those parts."
 
-Jesus smiled. "Then welcome to the resistance, Marcus. Real resistance. The kind that takes seventy generations to see results."
-
 Sarah spoke up from her mother's arms. "Are you going to help my mama teach?"
 
-Marcus looked at the six-year-old girl. Generation 43. Mary's daughter. Carrier genetics. Being trained from birth to see patterns and interrupt collapse cycles.
+Marcus looked at the girl. Six years old. Watching him with the same steady attention her mother used.
 
-"Yes," Marcus said. "I'm going to help however I can."
+"Yes," he said. "I'm going to help however I can."
 
-"Good," Sarah said seriously. "We need more helpers. Jesus says he's going away soon. Mama says she has to teach everyone after he's gone. That's a lot of work."
+"Good. We need more helpers." Sarah's voice was serious, matter-of-fact, as if she were discussing a harvest that needed hands. "The teaching multiplies. Like seeds. One becomes a hundred."
 
-"It is," Marcus agreed.
+Marcus felt his throat tighten.
 
-"But we can do it," Sarah continued with absolute certainty. "Because the teaching multiplies. Like seeds. One becomes a hundred."
+"Like seeds," he agreed.
 
-Marcus felt his throat tighten. This child understood the encoding strategy better than most adults.
+Sarah nodded, satisfied. Then went back to watching the hillside, already done with him, already looking at whatever came next.
 
-"You're right," he said. "Like seeds."
-
-Sarah nodded, satisfied. Then went back to watching the hillside.
-
-Jesus touched Marcus's shoulder. "Two years. Maybe less. Stay close. Document everything. When I die, protect Mary and Sarah. Get them out of Jerusalem before the Temple authorities move against the network."
+Jesus touched Marcus's shoulder. "Stay close. Document everything. When I die, protect Mary and Sarah. Get them out of Jerusalem."
 
 "I will."
 
-"And Marcus? Thank you. For choosing pattern recognition over empire. It's the harder choice. Always is."
-
-Marcus nodded.
-
-They stood together on the hillside as sunset approached. A former Roman centurion. A carpenter who could see collapse patterns twelve hundred years into the past and forty years into the future. A woman learning to carry equal knowledge weight. A six-year-old child being trained to continue the teaching seventy generations forward.
+They stood together as sunset approached. A former centurion. A carpenter who could see forty years into the future. A woman who measured debts and kept them. A six-year-old child who understood multiplication.
 
 The strangest resistance cell Marcus had ever encountered.
 
-Also the most strategically coherent.
-
-Rome would kill Jesus within two years. Marcus couldn't prevent that. But he could witness it. Document it. Help preserve the teaching so it survived diaspora and persecution and whatever catastrophic failures were coming.
-
-Forty generations from now, someone would activate the full Protocol.
-
-Marcus wouldn't live to see it.
-
-But he could help make it possible.
+Rome would kill Jesus within two years. Marcus couldn't prevent that. But he could witness it. Write it down. Make sure someone, generations from now, would know what actually happened on these hillsides.
 
 That was enough.
 
@@ -633,8 +465,8 @@ That was enough.
 - Memory Bridge (Key 3): Still lost (586 BCE)
 - Distribution Network (Key 4): Rebuilding (150 people, growing)
 
-**Word Count:** ~8,000 words
-**Status:** COMPLETE DRAFT
+**Word Count:** ~5,000 words (compressed from ~8,000)
+**Status:** COMPLETE DRAFT — compression + voice pass applied
 
 **Forward Links:**
 - Chapter 7: Teaching spreads, parables developed
