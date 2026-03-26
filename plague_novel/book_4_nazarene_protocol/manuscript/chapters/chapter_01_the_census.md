@@ -132,7 +132,7 @@ Marcus glanced at Lucius. The scribe was watching the conversation with mild int
 
 That phrasing again. *Stable outcomes*. Not "violence is wrong" or "Rome is too powerful to fight." Stable outcomes. Systems language.
 
-Marcus felt something click in his mind—the same recognition sense that had flagged Simon the fisherman and the woman in Cana.
+Marcus felt the recognition lock into place—the same sense that had flagged Simon the fisherman and the woman in Cana.
 
 Bloodline marker.
 
