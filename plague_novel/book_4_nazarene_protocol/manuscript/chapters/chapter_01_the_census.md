@@ -10,11 +10,7 @@
 
 ## SCENE 1: The Census Taker
 
-Marcus Publius Scipio had identified three potential threats to Rome this winter. He was about to find a fourth—one that would make him question everything he'd spent twenty-three years defending.
-
-But first, the census.
-
-He stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Rome's gift to the provinces: extracting tribute dressed as civic duty.
+Marcus Publius Scipio stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Rome's gift to the provinces: extracting tribute dressed as civic duty.
 
 "Name," Marcus said in Aramaic. His accent was terrible, but functional. Twenty years in the legions, half of them in eastern provinces, taught you to butcher local languages well enough to collect taxes and quell riots.
 
@@ -26,23 +22,23 @@ This was his third census rotation in Judea. He knew the pattern: most locals co
 
 The Zealots would come later, after dark, when the census takers had left. They'd burn the registration records if they could get to them, kill collaborators if they couldn't. Then Rome would send more soldiers, the cycle would escalate, and in twenty years this whole province would explode into the kind of revolt Marcus had seen in Pannonia and Thrace.
 
-He could see the pattern building. Occupation economics grinding down local autonomy. Resistance movements forming in response. Crackdowns breeding more resistance. Standard imperial dynamics, playing out predictably.
+He could see where it was heading. He'd seen it in Pannonia, in Thrace—the same sequence, every time. Squeeze the province. Wait for the fist. Send the legions. Call it peace.
 
 But Marcus wasn't here to prevent revolts. He was here to count people and identify threats.
 
 "Name."
 
-The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly—widow, two adult sons, small plot of land, no outstanding debts. Marcus nodded her through.
+The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly—widow, two adult sons, small plot of land, no outstanding debts. Marcus nodded her through, but something in the way she held her shoulders—braced, like a woman expecting a blow—stayed with him. Her sons were military age. When the revolt came, Rome would conscript or kill them. She probably knew this. She'd stood in line anyway, because the alternative was worse.
 
-The census work was mind-numbing. Ten hours a day of names and numbers. Marcus didn't mind. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, blood steaming in the snow. His sword arm still twitched sometimes when the wind shifted.
+The census work was mind-numbing. Ten hours a day of names and numbers. Marcus preferred it that way. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, a boy soldier outside Carnuntum who'd dropped his shield and raised both hands, palms out, and Marcus had killed him anyway because his centurion was watching. The boy's face surfaced sometimes in the gap between one registrant and the next. Fifteen. Maybe sixteen.
 
-He'd requested census duty specifically. Paperwork over bloodshed. He was too old for glory and too cynical for patriotism. Seven more years of service, then a farm somewhere quiet where nobody expected him to enforce imperial policy at sword-point.
+He'd requested census duty specifically. Paperwork over bloodshed. Seven more years of service, then a farm somewhere quiet where he could stop being the man who'd killed a boy with open hands.
 
 "Next."
 
 But then the secondary mission complicated things.
 
-Marcus's other assignment — the classified one — was to identify individuals with specific genealogical markers. Ancient knowledge-keeping families, scattered across the eastern Mediterranean, occasionally producing individuals with unusual pattern-recognition abilities. The ability to see cause-and-effect chains most people missed.
+Marcus's other assignment—the one his tribune had given him privately, in a closed room, with no scribe present—was to watch for certain families. Old bloodlines, scattered across the eastern Mediterranean, that occasionally produced individuals who could see things others couldn't. Not prophecy, exactly. More like an instinct for what was coming—the way a sailor reads weather in the shape of a cloud.
 
 Rome's orders were simple: identify, observe, report.
 
@@ -64,13 +60,11 @@ True. Nazareth had a reputation for producing troublemakers. Small town, religio
 
 "Name," he called to the next man in line.
 
-This one was different.
+Marcus's hand moved to his stylus and stopped. The way a dog's ears flatten before thunder arrives.
 
-Marcus noticed immediately—the way you notice after twenty years of evaluating threats. Not dangerous-different. Not Zealot posture or concealed-weapon stance. Just... *present* in a way most people weren't. Like he was paying attention to more dimensions of reality than ordinary perception allowed.
+The man was mid-thirties, carpenter by the wood dust ground into his knuckles and the calluses that wrapped his palms like leather. Average height. Dark hair, sun-weathered skin, lean from labor. Nothing remarkable except his eyes.
 
-The man was mid-thirties, carpenter by the wood dust on his clothes and the calluses on his hands. Average height for the region. Dark hair, sun-weathered skin, lean build from manual labor. Nothing remarkable except his eyes.
-
-He was looking at Marcus the way Marcus looked at military terrain—assessing angles, calculating possibilities, seeing past surface details into underlying structure.
+They weren't threatening. They were *reading* him. The way Marcus read military terrain—assessing what was there, what was underneath, what would happen next. In twenty years of evaluating people, Marcus had met perhaps three who looked at the world like that. Two were dead.
 
 "Name," Marcus repeated.
 
@@ -86,7 +80,7 @@ Lucius was already writing. Marcus studied the carpenter more carefully.
 
 "Mother still living. Father deceased eight years ago. Four brothers, two sisters. All married except me. I can provide their names if you're tracking extended family."
 
-"Not necessary." Marcus paused. Something was nagging at him. Pattern recognition training from his network contact in Caesarea. "You're unmarried? At thirty-two?"
+"Not necessary." Marcus paused. Something tugged at the back of his mind—training from his contact in Caesarea, the briefings about what to watch for. "You're unmarried? At thirty-two?"
 
 "Correct."
 
@@ -98,17 +92,17 @@ Which left deliberate choice.
 
 "Religious vows?" Marcus asked, though he knew Nazareth had no formal monastic communities.
 
-"My path requires complete dedication. Family obligations would divide my attention from what I must accomplish."
+"My work doesn't leave room for a wife." A pause. "And it wouldn't be fair to her."
 
-Interesting phrasing. Not "can't afford it" or "haven't found the right person." A deliberate, strategic choice. Like a soldier taking a vow before a campaign he didn't expect to survive.
+The way he said *her*—not abstractly, not philosophically. Like there was a specific woman he'd thought about and decided against. Marcus recognized the tone. He'd heard it from soldiers who refused to marry before campaigns they didn't expect to survive.
 
 "Profession?" Marcus knew the answer but wanted to hear how Jesus described it.
 
-"I build things. Houses, furniture, tools. Repair work mostly. Some custom construction."
+"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands—scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Olive wood. Terrible to work with—splits if you look at it wrong—but it's what she can afford, so." He shrugged. The gesture was so ordinary it almost made Marcus forget the eyes.
 
 "Trade inherited from your father?"
 
-"Yes. He taught me from age seven."
+"Yes. He taught me from age seven. I was terrible at first. He was patient."
 
 Marcus glanced at Lucius. The scribe was watching the conversation with mild interest—this was taking longer than normal, but nothing alarming.
 
@@ -116,97 +110,91 @@ Marcus glanced at Lucius. The scribe was watching the conversation with mild int
 
 "No." Jesus's expression didn't change. "I'm not a Zealot, if that's what you're asking. Hitting back just makes the other side hit harder. The cycle never ends unless someone refuses to swing."
 
-That phrasing. Not "violence is wrong" or "Rome is too powerful to fight." He was describing the mechanics of escalation—cause and effect, action and reaction. Systems thinking, wrapped in plain language.
+Marcus's stylus stopped. That wasn't a peasant's fatalism or a rabbi's piety. That was someone who'd watched the cycle from above—who could see the whole mechanism, not just the gears closest to him. The same quality that had flagged Simon, the same quality that had stopped Marcus cold in front of the woman in Cana.
 
-The recognition hit like cold water down his spine. Marcus's stylus froze mid-stroke. The same instinct that had flagged Simon the fisherman and the woman in Cana—but stronger this time. Much stronger.
+But stronger. Much stronger.
 
-Bloodline marker. Primary line.
+"You have unusual views for someone in Nazareth," Marcus said carefully.
 
-"You have unusual views for someone in Nazareth," Marcus said carefully, switching from procedural questions to assessment mode.
-
-Jesus smiled slightly. "I have unusual perspectives on many things. Family inheritance."
+Jesus's mouth twitched—not quite a smile, more like a man who'd made a joke he couldn't share. "I have unusual perspectives on many things. Family inheritance."
 
 *Family inheritance.*
 
-That was network language. Marcus's contact in Caesarea had used similar phrasing—knowledge passed through families, inherited like eye color or height, but invisible to people who didn't know what to look for.
+Marcus's pulse kicked. His contact in Caesarea had used that exact phrasing—knowledge passed through families, carried in the blood like eye color or height, but invisible to people who didn't know what to look for.
 
-Marcus made a decision. Protocol said he should flag this man for follow-up assessment and move on. But something about this carpenter made him want to push further.
+His orders were clear: note the name, file it with Caesarea, move on.
 
-"Lucius," Marcus said in Latin, "take a break. Get water. I'll handle the next few registrations."
+"Lucius," Marcus said in Latin, "take a break. Get water. I'll handle the next few."
 
-His scribe looked surprised but didn't argue. When Lucius was out of earshot, Marcus leaned forward slightly.
+His scribe looked surprised but didn't argue. When Lucius was out of earshot, Marcus set down the official stylus and picked up his personal one—the one whose notes went to no file.
 
-"Jesus ben Yosef. Your genealogy. Can you trace your lineage back more than three generations?"
+"Jesus ben Yosef." Marcus kept his voice low. "Your family. How far back can you trace it?"
 
-Most people couldn't. Record-keeping was oral in this region. Beyond grandfathers, memories blurred into tribal mythology.
+Most people couldn't answer past their grandfathers. Beyond that, memory blurred into tribal legend.
 
-Jesus's eyes sharpened. "Why would a Roman census-taker care about genealogy beyond taxation purposes?"
+Jesus's expression didn't change, but something shifted behind his eyes. A gate closing. "Why would a Roman census-taker care about genealogy beyond taxation purposes?"
 
-"Because I'm not just a census-taker." Marcus kept his voice low.
+"Curiosity."
 
-Silence. Jesus studied him—the same careful evaluation Marcus had been running in reverse. Two people circling each other, neither willing to show their hand first.
+"No." Jesus's voice was quiet but certain. "You asked that question the way someone asks who already knows the answer. Or suspects it."
 
-"You know the fisherman in Capernaum," Jesus said. Not a question.
+They studied each other. Two men circling, neither willing to show his hand.
 
-Marcus's pulse jumped. "Which fisherman?"
+Marcus tried a different approach. "I've been posted in this province three years. I've met a fisherman in Capernaum who keeps nets he never uses."
 
-"The one who keeps nets he doesn't need." A test. Simon's cover—a fisherman who maintained equipment for a boat he rarely used.
+Nothing. Jesus's face gave nothing. But his hands—his carpenter's hands—went still on his belt. The kind of stillness that required effort.
 
-"Simon," Marcus said quietly. "He recognized something in you."
+"Lots of fishermen in Capernaum," Jesus said.
 
-Jesus relaxed slightly. Not much—the shift of a man accustomed to guarding himself. "You're affiliated."
+"This one mends nets for a boat he sold two years ago. Keeps up the cover anyway." Marcus held the pause. "Simon."
 
-"Five years. Recruited in Caesarea." Marcus gestured at the census line. "This province is building toward revolt. You can see it if you know where to look."
+A long silence. Lake wind moved through the square, carrying the smell of charcoal and animal dung. A child cried somewhere in the waiting line.
 
-"I've been seeing it since I was three years old."
+"Simon recognized something in you," Marcus said. "Two years ago. He's the only one who has. Until now."
 
-Marcus's breath caught. Three years old. That was carrier-level blood memory—not trained, inherited. There were maybe fifty active carriers in the entire eastern Mediterranean.
+Jesus's jaw tightened. Then, slowly, the gate opened—not wide, just a crack. "You're affiliated."
 
-And he'd just found one in a carpenter's workshop in nowhere Nazareth.
+"Five years. Recruited in Caesarea."
 
-"Generation?" Marcus asked, using network terminology.
+Another silence, longer. Jesus looked at the census line—forty families still waiting, shifting impatiently in the cold. When he looked back, the wariness was still there, but underneath it, exhaustion. The kind that sleep doesn't fix.
 
-"Forty-two. Absolute count from Tausret."
+"I've been dreaming of burning cities since I was three years old," he said quietly. "Not my cities. My ancestors'. I see what they saw—walls falling, people running, the knowledge being packed into baskets and carried out before the fire reaches it. Not from training. From the blood." He paused. "There are maybe fifty of us left who carry it. Most don't know what the dreams mean."
 
-Primary bloodline. Twelve hundred years to the founding.
+Marcus's breath caught. Not trained. Born with it. The rarest kind.
 
-"Have you had contact with other network families?"
+"Generation?" Marcus asked.
 
-"Simon recognized the markers two years ago. He's the only one." Jesus's voice was steady, but Marcus heard exhaustion underneath. "The fruit is already set on the tree, centurion." Jesus's voice dropped. "When the harvest comes—and it will come within a generation—the seeds will scatter to distant soil. I carry the memory of every civilization that's burned this way."
+"Forty-two. From Tausret."
 
-"Can you prevent it?"
+Twelve hundred years to the founding. Primary bloodline. And he'd been walking around Nazareth for thirty-two years with nobody to tell him what it meant except a fisherman.
 
-"The rot started fifty years ago. You don't save a wall by pointing at the crack after the foundation's shifted." Jesus glanced at the census line—forty families still waiting. "So I'm teaching instead. Wrapping the knowledge in stories. Parables. The technical language won't survive what's coming, but stories pass from mouth to mouth like fire."
+"So I'm teaching," Jesus said. "Stories. Parables. Stories pass from mouth to mouth like fire—they survive what empires don't."
 
-"Do they understand?"
+"Do they understand what you're really teaching?"
 
-"Some hear religion. A few hear both layers." Jesus met his eyes. "Those few will scatter when Jerusalem falls. Carry the teaching forward even if they don't fully grasp what they're carrying."
+"Most hear religion." He looked past Marcus at the census line. "A few hear something underneath. Those few will scatter when Jerusalem falls."
 
-"I need to report this," Marcus said. "You're exactly what my intelligence briefing told me to flag."
+"I need to report this," Marcus said. "You're exactly what my orders from Caesarea described."
 
-"I know. Do what you need to do." Jesus's voice was quiet but not fearful. "But I'm not a threat to Rome. I'm giving people an alternative to the sword. Violence is like salt water—the more you drink, the thirstier you become. I'm teaching people to find the well instead."
+"I know." Jesus's voice didn't waver, but his hands clenched at his sides—the carpenter's grip, knuckles whitening around nothing. "Do what you need to do."
 
-"'Love your enemies.' That's what I hear you're preaching. Doesn't sound like it survives first contact with a Roman gladius."
+"If I report you, three things can happen. Recruitment. Surveillance. Or elimination."
 
-"It's not a battle tactic. It's the only thing that outlasts empires." Jesus glanced past Marcus at the waiting families. "You should finish your census. People are getting restless."
+Jesus was quiet for a moment. When he spoke again, the composure was gone—no teacher, no prophet, just a carpenter standing in a cold square with mud on his sandals and something heavy behind his eyes.
 
-"If I report you as a primary bloodline carrier, one of three things happens. Recruitment. Surveillance. Or elimination."
+"If I hide, the knowledge dies with me." His voice was rough now. "If I teach openly, it scatters. Survives." He looked down at his carpenter's hands—the scarred palms, the blackened thumbnail. "I dream about my grandfather's grandfather. He taught until they killed him too. I don't know how long I have. I just know the feeling—like a roof beam that's taken too much weight. You can hear the wood starting to talk before it splits." He swallowed. "I wake up every morning and think—was yesterday enough? And the answer is always no."
 
-"I'm aware." Jesus's voice was steady, but his carpenter's hands clenched briefly at his sides—the only crack in his composure. "If I hide, the knowledge dies with me. If I teach openly, it scatters. Survives." He paused. "I have maybe ten more years before someone kills me. Every morning I wake up and think—will today be enough? Will I have said what needed saying?"
+Marcus stared at him. The man wasn't calm. He was terrified and doing it anyway—the way the boy at Carnuntum had raised his hands, knowing it wouldn't save him, doing it anyway because it was all he had left.
 
-Marcus stared at him. The man wasn't calm. He was terrified and doing it anyway.
+"Violence is like salt water," Jesus said, steadier now. "The more you drink, the thirstier you become. I'm trying to show people where the well is."
 
 "I still have to report you."
 
-"Do your duty." Jesus turned to leave, then looked back. "But consider this — if Rome recognized that some teachers are trying to *prevent* violence, maybe the cycle breaks."
+"Then report me." He turned to leave, then stopped. His shoulders rose and fell with a breath that cost him something. "But you've seen the pattern too, centurion. You know how this ends. Rome will handle me wrong. They always handle it wrong. I had to try anyway."
 
-"You think Rome is capable of that?"
+He walked back into the line of waiting families. Just another carpenter. Nobody looked twice.
 
-"No. That's why the collapse is inevitable. But I had to try."
-
-Jesus walked away into the crowd of waiting families.
-
-Marcus sat frozen at the census table. He'd just met a man planning to die teaching peasants to see what he saw. And Rome would absolutely handle it wrong.
+Marcus sat frozen at the census table, stylus pressed into wax, the impression of a name he'd never be able to forget.
 
 ---
 
@@ -214,47 +202,43 @@ Marcus sat frozen at the census table. He'd just met a man planning to die teach
 
 Marcus rode hard through the afternoon, reaching Capernaum as the sun touched the lake.
 
-He found Simon's house as the last light bled from the sky—limestone walls still warm from the day, olive branches scraping overhead. The fisherman sat cross-legged on reed matting, fingers working through torn netting. The air smelled of fish scales and tar.
+He found Simon's house as the last light bled from the sky—limestone walls still warm from the day, olive branches scraping overhead. The fisherman sat cross-legged on reed matting, fingers working through torn netting with the patience of a man who'd been mending things his whole life. The air smelled of fish scales and tar. Lake water lapped against stone steps below.
 
-"Centurion." Simon set down the nets, unsurprised. "You found him."
+"Centurion." Simon didn't look up from his nets. "You found him."
 
-"Jesus ben Yosef. Generation 42." Marcus dismounted. "He expects to be killed within ten years."
+"Generation 42. Primary line." Marcus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it the way a man talks about weather he can see building on the horizon."
 
-"He's probably right. Temple sees blasphemy. Zealots see cowardice. Rome sees instability. Three factions, three reasons to want him dead." Simon looked at Marcus. "You're going to report him."
+"They're already coming." Simon's hands stilled on the netting. "Temple already sent someone to listen to his teaching. A scribe from Jerusalem, watching from the back of the crowd. Taking notes." He looked up. "And now Rome knows too. Because you reported him."
 
-"I have orders."
+"I haven't filed my report yet."
 
-"And what happens to a carrier teaching thousands of peasants that Empire is a collapse pattern?" Simon's voice was harder than Marcus had ever heard it. "You report him, and Rome grinds him down. Surveillance first, then recruitment, then a quiet disappearance. You know the progression."
+Simon studied him. The lamp between them threw his face into sharp relief—the deep lines around his mouth, the scarred hands. A fisherman who'd spent twenty years pretending to be less intelligent than he was.
 
-Marcus didn't answer.
+"Don't protect him, Marcus. Protect the network."
 
-"Can you protect him?" he asked instead. "Network resources?"
+Marcus hadn't expected that. "What?"
 
-"He won't accept protection. Says hiding kills the knowledge as surely as a Roman sword." Simon set aside the nets, his hands stilling. "I've tried. He told me to stop wasting resources on one man when there are twelve hundred years of knowledge to preserve."
+"You heard me." Simon's voice was flat, stripped of sentiment. "One carrier is one carrier. He's brilliant—I've never met anyone who reads the blood like he does—but the network survived the fall of Egypt, Babylon, Persia, and Alexander. It'll survive losing him. What it can't survive is a Roman centurion getting caught filing false reports. They'll interrogate you. They'll get names. And then they'll come for the families."
 
-Marcus paced the courtyard, then stopped at the low wall. Below, the lake stretched dark, fishing boats knocking gently against stone moorings. He stared at the water for a long time. Twenty-three years of following orders. Twenty-three years of Rome first, always Rome first.
+The words landed like stones. Marcus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
 
-"I won't report him." The words came out hoarse. "Standard census report. Nothing about bloodline markers. Nothing about the network."
+"He knows this," Simon continued. "Why do you think he won't accept protection? He's not being noble. He's being practical. If the network burns its resources protecting him and they catch him anyway, they lose both."
 
-Simon stared at him. "You'd risk your career for a carpenter you met today?"
+Marcus paced to the low wall. Below, the lake stretched dark, fishing boats knocking gently against stone moorings. Somewhere a woman was singing to a child—a lullaby he couldn't understand, the melody old enough to precede the language carrying it.
 
-"He's doing more to prevent the coming war than my entire legion. But it only works if the Temple and Zealots leave him alone long enough to teach. Can you guarantee that?"
+"He teaches people to stop swinging." Marcus's throat was tight. "And you're telling me to file the report that puts a target on him."
 
-"He's going to die, Marcus. The only question is whether he dies after two years of teaching or ten. I'm trying to get him ten."
+"I'm telling you the network matters more than any one life. Including yours. Including mine." Simon picked up his nets again, as if the conversation were about fish. "File the report. Standard census. Harmless carpenter. No concerns. But don't do it because you want to save him. Do it because a false report is quieter than an omission. An omission someone will notice."
 
-The same age Marcus was now. Twenty-three years of military service. Every war he'd fought had generated the conditions for the next war.
+Marcus stared at the dark water. The fisherman was right. And he hated him for it.
 
-At least Jesus was trying to break the pattern.
+"Keep him alive as long as you can," Marcus said, moving toward his horse. "However many years that turns out to be."
 
-"Keep him alive as long as possible," Marcus said, moving toward his horse. "Network families, safe houses, early warning. Get him those ten years."
+"That's what I've been doing." Simon's voice followed him into the dark. "But Marcus—if they come for him, let them. Don't intervene. Don't be in the room. The network needs you alive more than it needs him protected."
 
-"We'll try."
+Marcus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
 
-Marcus rode out of Capernaum as full darkness fell. He'd just committed to protecting a carpenter who expected to be martyred.
-
-Smartest decision of his career, or the stupidest.
-
-He'd find out within ten years.
+He would file the false report. Not because he was brave. Because Simon had shown him the mathematics of survival, and the answer was ugly, and it was right.
 
 ---
 
@@ -266,7 +250,7 @@ Military intelligence headquarters. Not the census offices.
 
 Someone had noticed something.
 
-Caesarea gleamed white and gold—Herod's monument to Roman engineering. The marble corridors of the harbor compound echoed with each footstep. Incense couldn't mask the smell of old parchment and something sharper underneath—the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back, damp with sweat that had nothing to do with the coastal heat. Tribune Gaius Lucullus met him in a map room.
+Caesarea gleamed white and gold—Herod's monument to Roman engineering, built on the bones of whatever had stood here before. The marble corridors of the harbor compound amplified every footstep into accusation. Incense couldn't mask the smell of old parchment and something sharper underneath—the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His left knee ached from three days of riding, and he could feel his pulse in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored, as if the geography of the conversation wouldn't matter.
 
 Marcus snapped to attention, fist to chest. "Centurion Scipio reporting, Tribune."
 
@@ -282,11 +266,11 @@ Marcus felt the trap closing. His census report—harmless carpenter, no concern
 
 "Then why did you omit him from your report?" Lucullus leaned forward. "I think he shows every marker of a high-level bloodline carrier. And I think you recognized those markers and deliberately buried them."
 
-Marcus met his eyes. "I assessed him as non-threatening. His teaching promotes non-violence. That serves Roman stability."
+Marcus met his eyes. "He teaches people to put down their swords. That's fewer Zealots for us to fight."
 
-"Short-term." Lucullus's voice hardened. "The network's goal is surviving imperial collapse. That makes them structurally opposed to imperial authority. I don't care if this carpenter de-escalates Zealots today. If he's distributing knowledge that helps populations survive without Rome — that's a threat that outlasts us all."
+"Short-term." Lucullus's voice hardened. "These families have been hiding knowledge since before Rome existed. They survived Egypt. They survived Babylon. They don't need us, and they're teaching others not to need us either." He leaned back. "I don't care if this carpenter calms the Zealots today. A province that can feed itself, govern itself, pass its own wisdom to its children without Roman schools or Roman gods—that's a threat no legion can answer."
 
-Marcus stared at him. Twenty-three years of suspecting this truth but never hearing it spoken aloud. Lucullus was confirming what Marcus had tried not to see in Germania, in Thrace, in every province where *order* meant obedience and *stability* meant dependence. Rome would rather provoke collapse than allow populations to develop resilience independent of imperial control.
+Marcus tasted something metallic at the back of his throat. He thought of Germania—the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. He thought of Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Twenty-three years of suspecting why, and here was Lucullus saying it plainly: a population that could feed itself, teach itself, survive without the eagle's shadow—that was the threat Rome could never forgive.
 
 "What are your orders, sir?" Marcus kept his voice level.
 
@@ -294,29 +278,27 @@ Marcus stared at him. Twenty-three years of suspecting this truth but never hear
 
 Surveillance. Not elimination. Yet.
 
-"And Scipio — if you're network-affiliated yourself, declare it now. Concealment is grounds for discharge and prosecution."
+"And Scipio—" Lucullus's voice dropped, conversational now, which was worse. "If you're network-affiliated yourself, declare it now. Concealment is grounds for discharge and prosecution."
+
+Marcus felt the boy at Carnuntum again—the raised hands, the open palms. The moment before Marcus had done what was expected of him.
 
 "I'm not network-affiliated, sir."
 
-Partial truth. The best lies always were.
+His voice held steady. His hands, clasped behind his back, did not.
 
-Lucullus held his gaze, then nodded. "Dismissed."
+Lucullus held his gaze for three heartbeats. Then nodded. "Dismissed."
 
-Marcus rode north toward Galilee. By the time he reached Capernaum three days later, he'd decided: he would file reports that made Jesus look harmless. Omit systems language. Downplay crowd sizes. Give Jesus as much time as possible before Rome's patience ran out.
+Marcus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one—primary bloodline carrier, Generation 42, teaching thousands—and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
 
-Treason, probably.
+Simon had been right about one thing: a quiet lie was safer than a loud omission.
 
-Also the first honest choice he'd made in twenty-three years.
+He found Jesus teaching a crowd of maybe two hundred on a hillside overlooking the lake. Late afternoon light made the water look like hammered bronze. Marcus dismounted at a distance, pulled out his wax tablet, and began writing the version of events that would keep this man alive a little longer.
 
-He found Jesus teaching a crowd of maybe two hundred on a hillside overlooking the lake. Marcus dismounted at a distance, pulled out his wax tablet, and began documenting.
-
-Not what Jesus was actually teaching. What Rome needed to hear to leave him alone.
-
-But as Marcus watched the crowd, his trained eye caught something. A woman standing at the edge of the gathering—not listening the way the others listened. She was watching Jesus the way Marcus had watched him at the census table. Evaluating. Recognizing.
+Then his trained eye caught something else. A woman at the edge of the gathering—not listening the way the others listened. She stood apart, arms wrapped around herself as if holding something in, and she was watching Jesus the way Marcus had watched him at the census table—the same still, measuring look of someone who recognized what she was seeing.
 
 Another carrier.
 
-Marcus's hand tightened on the stylus. If there were two of them in Galilee, there might be more. And if Rome's intelligence network was already tracking Jesus, it was only a matter of time before they found the others.
+Marcus's stylus stopped. The wax cooled under his hand. If there were two of them in Galilee, there might be more. And Rome was already watching.
 
 ---
 

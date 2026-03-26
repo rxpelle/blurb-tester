@@ -1,0 +1,120 @@
+# The Nazarene Protocol — NYT-Caliber Chapter Reviews
+
+**Last updated:** 2026-03-26 (Ch 1 revised to 9/10)
+
+## Scorecard
+
+| Chapter | Prose | Pacing | Character | Historical | Intellectual | Overall |
+|---|---|---|---|---|---|---|
+| Preface: The Gathering | 8 | 7 | 7 | 6 | 9 | **8** |
+| Ch 1: The Census | 8 | 8 | 8 | 8 | 9 | **9** |
+| Ch 2: The Madness | 6 | 5 | 7 | 6 | 6 | **6** |
+| Ch 3: The Baptism | 6 | 7 | 7 | 5 | 7 | **6** |
+| Ch 4: The Teaching Begins | 5 | 5 | 5 | 5 | 6 | **5** |
+| Ch 5: The Unlocking | 5 | 4 | 5 | 5 | 6 | **5** |
+| Ch 6: The Resistance | 6 | 7 | 7 | 5 | 7 | **6** |
+| Ch 7: The Teachings Spread | 5 | 5 | 5 | 5 | 6 | **5** |
+| Ch 8: The Crisis | 6 | 6 | 7 | 5 | 6 | **6** |
+| Ch 9: The Keys Gathered | 5 | 4 | 5 | 4 | 5 | **5** |
+| Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
+| Ch 11: The Betrayal | 6 | 5 | 5 | 5 | 7 | **5** |
+| Ch 12: The Execution | 7 | 7 | 7 | 6 | 6 | **7** |
+| Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
+| Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
+
+**Manuscript average: 5.7/10**
+
+---
+
+## Six Recurring Problems
+
+1. **Exposition disguised as dialogue.** Characters explain mythology to each other. Needs action, image, implication — not sitting-down-and-explaining.
+2. **Absence of sustained conflict.** Character arrives → conversation with Jesus → understands and accepts. Nobody resists. Nobody is wrong.
+3. **Repetition of thesis.** Martyrdom-as-strategy stated ~25 times. Say it once. Trust the reader.
+4. **The "Not X. Y." construction.** Dozens of instances. Exhausting.
+5. **Marcus as non-character.** A Roman defector who documents truth should be compelling. Instead he's a tripod.
+6. **Sensory poverty.** First-century Judea should assault the senses. Researched but not inhabited.
+
+---
+
+## What Works
+
+- Central conceit (blood memory, love encoded across centuries) is genuinely compelling
+- Judas-as-failed-rescuer — elegant, tragic revisionism
+- Mary's garden encounter: "She just needed him to have said her name"
+- Mary's Gospel integration — real Nag Hammadi text, real scholarship
+- Resurrection-as-multiple-simultaneous-truths — intellectually honest
+- Mary's death in Gaul — beautiful writing
+- Preface demonstrates the prose ceiling the rest of the manuscript should reach
+
+---
+
+## Best Lines
+
+- "the exact temperature of another person's skin... the way a river wears stone" (Preface)
+- "his chest was moving in a rhythm that had nothing to do with his own breathing" (Preface)
+- "Wealth couldn't protect you from a community that had decided you were cursed" (Ch 2)
+- "Three years. He tasted the number. Bitter as the locusts he'd been eating" (Ch 3)
+- "You cannot out-fight the greatest killing machine in human history" (Ch 6)
+- "One year. Maybe less. He's going to die and I'm supposed to carry all of this alone" (Ch 8)
+- "Don't pretend this is pure wisdom when it's also pride, stubbornness" (Ch 10)
+- "His hands shook as he knotted the rope. Twelve years of training guiding fingers that could barely hold steady" (Ch 11)
+- "Iron through flesh, through bone, through wood... metal on metal, then the wet sound underneath" (Ch 12)
+- "She held his gaze... the way you hold someone's hand when they're dying — except she couldn't reach him, so she held him with her eyes instead" (Ch 12)
+- "She just needed him to have said her name" (Ch 13)
+- "died in a stone house in Gaul with her daughter's hand in hers and the smell of lavender through the window and the sea continuing its patient work against the shore" (Ch 14)
+
+---
+
+## Chapter-by-Chapter Notes
+
+### Preface: The Gathering — 8/10
+Strongest writing in the manuscript. The hillside warmth scene is the novel's most ambitious set piece. Establishes a prose ambition the subsequent chapters don't sustain. The closing dedication is bold — barely works but does work.
+
+### Ch 1: The Census — 9/10 (revised from 5)
+Three revision passes. Carnuntum boy memory threads through all three scenes. Jesus encounter rebuilt as a dance. Simon scene has real conflict ("Don't protect him. Protect the network."). Olive wood roof beam gives Jesus carpenter-humanity. Jesus's self-awareness grounded in ancestral dreams and carpenter metaphors ("roof beam that's taken too much weight") rather than historical knowledge. Marcus's realization about Rome grounded in specific memories (Germania grain trade, Thrace library) rather than political theory. Lucullus speaks in concrete Roman terms. CIA vocabulary eliminated. Remaining gap to 10: the "family inheritance" / network terminology is inherently modern — the novel's structural conceit requires it.
+
+### Ch 2: The Madness — 6/10
+Mary's introduction is strong — merchant losing everything to "demon" diagnosis has genuine tension. Too long for its single plot movement (Magdala to Capernaum). Meeting with Jesus repeats Ch 1's too-fast recognition. Grounding exercise is well-handled.
+
+### Ch 3: The Baptism — 6/10
+John the Baptist is the most interesting character. His envy gives him interiority others lack. Baptism has physical stakes. Vision sequence is the weak point — twelve centuries dispatched in paragraphs. Post-baptism conversation is stronger.
+
+### Ch 4: The Teaching Begins — 5/10
+Weakest first-half chapter. Three problems: repetition (dual-layer recognition already in Ch 2), training scene with no tension, Mary as idealized student told not shown. Pharisee confrontation resolved too quickly.
+
+### Ch 5: The Unlocking — 5/10
+Most ambitious scope, least dramatic tension. Qumran revelation delivered as a library visit — no conflict, no cost. Prophecy eliminates suspense by telling the reader the plot. Pattern Eye recovery happens offscreen. Growth by declaration, not demonstration.
+
+### Ch 6: The Resistance — 6/10
+Best pacing in the mid-section. Barabbas confrontation is the standout. Marcus's resignation builds tension through restraint. Roman intelligence reads anachronistically bureaucratic. Matthias scene sounds CIA, not first-century.
+
+### Ch 7: The Teachings Spread — 5/10
+Weakest chapter overall. Dramatizes teaching process — undramatic. Parable → reaction → debrief → "But the deeper meaning is..." becomes numbing. Feeding of 5,000 makes Jesus a marketing strategist. "Blood memory" / "deeper layer" vocabulary deadening.
+
+### Ch 8: The Crisis — 6/10
+Mary's breakdown is the emotional high point of the middle. Her fear of inadequacy more compelling than Jesus's stoic acceptance. Jesus-Marcus conversation overwritten — martyrdom argument stated three ways. "Twelve months" refrain seven times.
+
+### Ch 9: The Keys Gathered — 5/10
+Worst pacing. Series bible disguised as chapter. Key-system mechanics (two keys give this, seven give everything) is game-design documentation. Trauma cascade is the one embodied moment — then killed by clinical debrief. Offensive network subplot most alive, least space.
+
+### Ch 10: The Decision — 5/10
+Most frustrating — best exchange and worst repetitions. Mary challenging Jesus's martyrdom motives is electrifying. Then squandered by returning to same arguments from Ch 7-9. Sarah as miniature philosopher strains credibility.
+
+### Ch 11: The Betrayal — 5/10
+"Not X. Y." tic at its worst. Scene 3 reads as military briefing document. Judas is the redemption — failed-rescuer conceit is elegant, suicide is specific and restrained. Marcus remains a camera. Capernaum during festival should overwhelm senses but doesn't.
+
+### Ch 12: The Execution — 7/10
+Strongest second-half chapter. Crucifixion prose has genuine power — physicality earned. Mary's vigil is the manuscript's best sustained writing. Marcus finally shows cracks. Jesus's personal flashbacks work because they're personal, not generational. Simon of Cyrene's "Thank you" is exactly the right length.
+
+### Ch 13: The Resurrection — 6/10
+Garden encounter is the emotional peak of the novel. Caiaphas monologue is the most significant misstep — essay disguised as fiction. Empty tomb told three times. Resurrection-as-multiple-truths is sophisticated but stated fifteen times.
+
+### Ch 14: The Scatter — 6/10
+Mary's death sentence earns its length. Mary's Gospel integration is the most daring historical move. Peter's late self-awareness about erasing women is complex. Paul is a caricature. Jerusalem burns in two pages after a full novel building toward it. Peter speaks as a 21st-century scholar.
+
+---
+
+## Bottom Line
+
+There's a good 40,000-word literary thriller buried inside 110,000 words of repetitive exposition. The novel knows what it wants to say. It needs to say it once, trust the reader, and get back to the story.
