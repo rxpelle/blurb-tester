@@ -324,127 +324,29 @@ Because that's what the Protocol required.
 
 ## SCENE 3: THE KEY INVENTORY
 
-The meeting gathered that evening in the secure room—upper chamber in a follower's house, far enough from the main teaching spaces that conversation wouldn't be overheard, close enough to Capernaum's center that unusual activity wouldn't draw attention.
+That evening, Helena laid out the strategic landscape for Jesus, Mary, and Simon.
 
-Jesus, Mary, Helena, and Simon. Four people who understood the stakes. Four people who needed clarity about what resources existed before attempting dangerous Protocol access.
+Seven bronze keys total. Defensive network held two — the ones she'd brought. Offensive network held three — guarded in Temple vaults, used by Caiaphas and his predecessors for twelve hundred years to coordinate persecution of carriers. Two had been lost during the Bronze Age Collapse, somewhere in the Mediterranean — Crete, Carthage, the network had been searching for centuries.
 
-Helena spread a cloth on the table and arranged seven small carved tokens in a line—visual representation of the key distribution.
+Progressive unlocking: two keys gave enhanced recognition and teaching capability. Three keys gave partial systems map. Five gave what Nefertari herself had accessed. Seven gave complete, unambiguous Protocol — the ability to teach defensive mode to *anyone*, regardless of genetics.
 
-"Seven bronze keys," Helena began, her voice carrying the cadence of someone who'd explained this many times across many years. "Created by Nefertari in the final weeks before Bronze Age collapse. Designed for progressive Protocol unlocking."
+"But there's another possibility," Helena said carefully. "Perfect carrier — forty-one unbroken generations — might access complete Protocol without keys. Keys are training aids. Tools for organizing blood memory. A carrier strong enough might not need the tools."
 
-She touched the first token. "One key gives fragment access. Recognizing patterns, accessing basic blood memory, understanding that defensive knowledge exists. This is what most carriers achieve naturally through genetic inheritance. No key required for this level, but having the key makes it clearer. Less overwhelming."
+"Has that been tested?" Simon asked.
 
-Second token. "Two keys provide enhanced pattern recognition. Deeper systems view. Ability to see long-timeline trajectories with clarity. Strategic thinking across generations rather than years. This is where teaching capability becomes sophisticated—encoding dual-layer parables, creating distribution networks, designing resilience systems."
+"No. Because a perfect forty-one generation carrier has never existed." Helena looked at Jesus. "Until now."
 
-She looked at Jesus. "This is the level you'll reach with our two keys. What Nefertari intended for advanced carriers who needed to teach during persecution."
+The room went quiet.
 
-Third token. "Three keys unlock partial systems map. Beginning to see how defensive mode and offensive mode interact across millennia. Understanding collapse patterns. Recognizing when civilizations approach critical failure points."
+"It could also kill you," Helena added. "Blood memory overload without keys to organize it. Like trying to drink an ocean. Might work perfectly. Might destroy your mind."
 
-Helena's expression darkened. "The offensive network controls these three keys. Held in Temple vaults. Caiaphas and his predecessors have guarded them for centuries. They use the partial systems view to coordinate persecution. To identify defensive carriers. To time eliminations for maximum disruption."
+Jesus was quiet a moment. "We proceed with two-key unlocking at Qumran first. Safe enhancement. If it's sufficient, I continue with two keys. If it's insufficient — I reassess."
 
-Fourth and fifth tokens. "Five keys together would provide majority Protocol access. Complete defensive methodology. Comprehensive understanding of how knowledge preservation works across civilizations. This is what Nefertari herself accessed when she created the Protocol."
+Mary caught his arm as they left. "You're going to attempt keyless access regardless. Aren't you?"
 
-She paused. "No one has accessed five-key level since Nefertari died. The defensive network has never held more than two keys simultaneously. The offensive network has never held more than three. The keys have been deliberately separated since Bronze Age collapse."
+"Not unless two keys prove insufficient. I promise. Two keys first. Test the proven method."
 
-Sixth and seventh tokens. "Seven keys unlock complete, unambiguous Protocol. Everything Nefertari encoded. Every system. Every strategy. Every pattern she recognized during Bronze Age collapse. This level would allow carrier to teach defensive mode to anyone—no genetic predisposition required. Perfect knowledge transmission."
-
-Helena looked around the table. "But we've never had all seven keys in one place. Two were lost during Bronze Age collapse. We've searched for twelve hundred years."
-
-Simon spoke for the first time. "Where do we think the lost keys are?"
-
-"Archaeological evidence suggests one went to Crete. Minoan civilization was collapsing simultaneously with Bronze Age Mediterranean. Defensive network had outpost there. Records indicate key was transported for safekeeping but never recovered. Either buried in earthquake destruction, or taken by survivors to unknown location."
-
-"And the second lost key?"
-
-"Carthage or Sicily. Trade routes during collapse period suggest defensive carriers fled west. North Africa, southern Italy, somewhere along that corridor. But three thousand years of searching has found nothing."
-
-Jesus had been quiet, listening. Now he asked, "What happens if carrier is strong enough without keys? Perfect bloodline. Forty-one generations unbroken. Would that carrier need keys at all?"
-
-Helena considered the question. "Nefertari's notes—preserved fragments, incomplete—suggest keys are training aids. Tools for organizing blood memory that would otherwise overwhelm. Perfect carrier might access what seven keys unlock without needing the keys themselves."
-
-"Has that been tested?"
-
-"No. Because perfect forty-one generation carrier has never existed." Helena looked at him directly. "Until now."
-
-The room fell silent.
-
-Mary broke it. "You're saying Jesus might be able to access complete Protocol without keys. Just from genetics."
-
-"I'm saying it's possible. Theoretically. But untested and potentially fatal."
-
-"Fatal how?" Simon asked sharply.
-
-Helena's expression was grim. "Blood memory without keys to organize it is overwhelming. Twelve hundred years of inherited trauma, persecution, collapse, violence—all flooding the carrier's consciousness simultaneously. Most carriers can't handle it. They break. Lose coherence. The ones who survive fragment access describe it as barely controlled chaos."
-
-She gestured to Jesus. "He has fragment access naturally. Has learned to manage it through meditation, training, Pattern Eye use. But attempting complete access—accessing what seven keys are supposed to unlock, without the keys to organize the information—could be like trying to drink an ocean. The knowledge exists in his bloodline. But accessing all of it at once might destroy his mind before he could process it."
-
-Jesus set his hand flat on the table. "Or it might work. Might give me complete Protocol immediately instead of waiting for five more keys we don't have and can't acquire."
-
-"It might kill you before Passover," Helena countered. "Before you finish teaching. Before knowledge is adequately distributed. Martyrdom is strategic only if it happens after sufficient encoding. Early death is just waste."
-
-"And insufficient access is waste of the time I have left," Jesus replied. "Nine months with two-key enhanced recognition versus nine months with complete Protocol—which serves defensive knowledge better?"
-
-Mary wanted to intervene. Wanted to say *don't risk it, stay alive, teach with what you have.* But that was emotion speaking, not strategy.
-
-"The question," Mary said carefully, "is whether attempting keyless complete access is more likely to succeed or more likely to kill you. And we don't have data to answer that question."
-
-"No," Helena agreed. "We don't. That's why I brought two keys instead of encouraging keyless attempt. Two keys are proven enhancement. Safe. Effective. Immediate benefit without catastrophic risk."
-
-Jesus picked up one of the tokens Helena had used to represent the lost keys. "But limited. Two keys let me teach better. Seven keys—or keyless equivalent—let me teach perfectly. Complete transmission. No gaps. Everything Nefertari encoded, accessible and teachable in nine months."
-
-"If the attempt doesn't kill you," Simon said quietly.
-
-"Yes. If."
-
-They sat with the uncertainty. Four people weighing strategic decision that could enhance defensive knowledge preservation or waste the most important carrier in twelve hundred years.
-
-Finally Jesus said, "We proceed with two-key unlocking at Qumran. See what access level that provides. If it's sufficient for comprehensive teaching in nine months, I continue with two keys. If it's insufficient—if I can see that complete Protocol would make critical difference in knowledge distribution—I consider keyless access attempt afterward."
-
-"And if two-key unlocking itself is overwhelming?" Mary asked.
-
-"Then keyless attempt would certainly be fatal, and the question answers itself."
-
-Helena began collecting the tokens. "Three days to Qumran. I'll coordinate with Essene elders for isolation space and network security. You prepare mentally for blood memory cascade that will exceed anything you've experienced before."
-
-She looked at Jesus with something that might have been respect or might have been pity. "The defensive network has waited twelve hundred years for carrier like you. Don't waste the opportunity by dying prematurely. But also don't waste it by teaching insufficiently. Balance is everything."
-
-"Understood."
-
-The meeting dispersed. Helena to make travel arrangements. Simon to coordinate protection. Jesus and Mary returning to the teaching house where evening session waited.
-
-But Mary caught Jesus's arm before he descended the stairs.
-
-"You're going to attempt keyless access regardless of what two-key unlocking shows. Aren't you?"
-
-Jesus was quiet for a moment. "If I can access complete Protocol—everything Nefertari encoded, perfectly clear, immediately teachable—I can compress twelve hundred years of knowledge into nine months. Can train you and the others to accuracy that would otherwise take generations. Can encode defensive mode so comprehensively that persecution won't matter because the knowledge will be too widely distributed to eliminate."
-
-"Or you'll die trying, and we'll lose everything."
-
-"You won't lose everything. You have blood memory. Training. Pattern Eye. Two-key enhanced teaching that I'll complete before attempting keyless access if I do attempt it. And you have other carriers. Redundancy. No single point of failure."
-
-"Except you're the single best carrier we have."
-
-Jesus took her hand gently. "I'm going to die in nine months anyway, Mary. Execution is certain. The only question is how much I can encode before Passover. If keyless access lets me encode more—even at risk of early death—it might be worth attempting."
-
-"Might be."
-
-"Yes. Might be. Which is why I'm trying two keys first. To see if safer enhancement is sufficient. If it is, I won't risk keyless attempt. If it isn't—if I can see that complete access would make critical difference—then risk becomes acceptable."
-
-Mary understood the logic. Hated it, but understood it.
-
-Defensive mode thinking. Long timeline. Knowledge preservation prioritized over individual survival.
-
-Three days to Qumran. To enhanced access attempt that might be sufficient or might prove that more dangerous option was necessary.
-
-And Mary would witness it. Would document the outcome.
-
-Would prepare herself for the possibility that Jesus's attempt to access complete Protocol might kill him months before Rome scheduled his execution.
-
-Would prepare herself to lead alone even sooner than she'd feared.
-
-That's what defensive mode required.
-
-Even when it felt impossible.
+Mary accepted this. Hated the possibility underneath it, but accepted.
 
 ---
 
@@ -518,49 +420,23 @@ Jesus took a breath. Tried to organize the cascade into words.
 
 "Complete defensive methodology. Comprehensive systems view. Rome's exact collapse trajectory—70 CE Temple destruction, 476 CE political disintegration. Offensive network structure visible as pattern. And"—he paused—"Nefertari's direct experience. What she felt encoding the Protocol. Why she accepted martyrdom. How she prepared her daughter for continuation."
 
-"Is it sufficient?" Helena asked. The critical question. "Can you teach complete defensive mode in nine months with two-key access?"
+"Is it sufficient?" Helena asked. "Can you teach complete defensive mode in nine months with two-key access?"
 
-Jesus considered. The honest answer was complex.
-
-"I can teach comprehensively. Can encode dual-layer parables with precision I couldn't achieve before. Can train Mary and the others to accuracy that would take years without keys. Can create distribution network robust enough to survive persecution."
+"I can teach comprehensively. Encode dual-layer parables with precision I couldn't achieve before. Train Mary and the others. Create a distribution network robust enough to survive persecution."
 
 "But?" Mary heard it in his voice.
 
-"But complete Protocol—seven-key access or keyless equivalent—would let me teach *anyone*. Not just carriers with genetic predisposition. Two-key access enhances teaching for people who already have fragment-level blood memory. Complete access would let me activate defensive mode in people with no carrier genetics at all. Universal transmission. Immediate distribution to thousands instead of gradual distribution to carriers over generations."
+"Complete Protocol—seven-key or keyless equivalent—would let me teach *anyone*. Not just carriers. Universal transmission."
 
-The cave fell silent except for oil lamp flicker.
+Helena spoke carefully. "Universal activation is theoretical. Teaching non-carriers means knowledge doesn't pass to their children automatically. Breaks the blood memory chain."
 
-Helena spoke carefully. "Universal activation is theoretical. Nefertari designed the Protocol for genetic carriers because she needed transmission continuity across collapse. Teaching people without carrier genetics means knowledge doesn't pass to their children automatically. Breaks the blood memory chain."
+"But creates broader distribution. Redundancy through multiplication rather than genetics."
 
-"But creates broader distribution," Jesus countered. "Instead of two hundred carriers preserving knowledge, two thousand people with trained understanding preserve it. Redundancy through multiplication rather than genetics."
+Mary said quietly, "Two-key access is working. It's sufficient for training carriers across generations. That was Nefertari's design. Trust the design."
 
-"With loss of blood memory verification. How do non-carriers confirm they're teaching accurately?"
+Jesus picked up the keys again. "I'm not deciding now. If two keys prove sufficient for what needs encoding in nine months, I won't attempt keyless access."
 
-"Documentation. Multiple written accounts. Cross-verification through community practice. Pattern recognition taught as skill instead of inherited as instinct."
-
-Mary understood what he was considering. Two-key access let him perfect the genetic transmission network—carrier to carrier, blood memory verified, defensive mode activated through inheritance. Seven-key or keyless access would let him bypass genetics entirely, teach defensive methodology as learnable practice, distribute to anyone capable of understanding patterns.
-
-Different strategies. Different trade-offs.
-
-"Jesus," Mary said quietly. "Two-key access is working. It's safe. It's sufficient for training carriers who'll preserve knowledge across generations. That was Nefertari's design. Trust the design."
-
-"Nefertari designed for Bronze Age collapse," Jesus replied. "Scattered populations, communication broken, genetic preservation the only reliable transmission method. But Roman Empire is interconnected. Roads, trade routes, literacy higher than Bronze Age. Different context. Maybe different optimal strategy."
-
-"Or maybe twelve hundred years of genetic transmission proves the design works," Helena said sharply. "You're considering keyless access. Attempting seven-key equivalent without the keys. That could kill you before you finish even carrier-level teaching. For what? Hypothetical broader distribution that might not work?"
-
-Jesus picked up the keys again. Felt the blood memory resonance, stronger now that initial unlocking had established connection.
-
-"I'm not deciding now," he said. "I need to teach with two-key access first. See what level of clarity it provides. Train Mary and the others. Begin comprehensive encoding. If two keys prove sufficient for what needs encoding in nine months, I won't attempt keyless access. Risk isn't justified."
-
-"And if they're not sufficient?"
-
-"Then I reassess. Weigh risk of keyless attempt against benefit of complete universal teaching capability."
-
-He looked at Mary. "But you're right that two-key access is working. I can feel the organization, the clarity, the systematic understanding I didn't have before. This is usable. This is teachable. This is enough to encode defensive mode comprehensively for carriers."
-
-Mary nodded slowly. The fear didn't disappear—fear that Jesus would attempt keyless access and die before Passover, before adequate encoding, before she was ready to lead alone. But the immediate crisis was resolved. Two-key access was successful. Enhanced without being overwhelming. Effective without being fatal.
-
-For now.
+Mary nodded. The fear didn't disappear. But the immediate crisis was resolved. Two-key access was successful. Enhanced without being overwhelming. Effective without being fatal.
 
 "How do you feel physically?" Simon asked, practical concern.
 
@@ -586,15 +462,7 @@ Mary nodded. "Then we work. We teach. We prepare."
 
 "We work," Jesus agreed.
 
-Outside, Judean wilderness stretched under spring stars. Same stars that had watched Nefertari encode the Protocol. Same stars that would watch Jesus's crucifixion nine months from now. Same stars that would watch defensive carriers preserve knowledge for forty more generations.
-
-Long timeline. Multigenerational thinking. Knowledge preservation across collapse.
-
-That's what two-key access had clarified.
-
-That's what Jesus would teach for nine months.
-
-And that's what Mary would continue after Passover 33 CE, when she led alone.
+Outside, Judean wilderness stretched under spring stars. Same stars that had watched Nefertari encode the Protocol. Same stars that would watch Jesus's crucifixion nine months from now.
 
 If she was strong enough.
 
@@ -692,328 +560,108 @@ Simon needed to know. Helena needed to know. Jesus needed to know.
 
 Two-key access was acceptable risk to the offensive network. Seven-key access was elimination trigger.
 
-And whatever Jesus had accessed at Qumran—whatever enhanced clarity the two keys had provided—it had been noticed. The offensive network was responding.
+Marcus walked through Jerusalem's afternoon crowds. Nine months to Passover if Jesus taught carefully. Weeks if the offensive network decided he'd accessed too much.
 
-Coordinating. Securing their own keys. Preparing for accelerated timeline if necessary.
+The machinery was tightening. Rome, Temple, Zealots—all watching for signs that Jesus had accessed complete Protocol. All ready to accelerate execution the moment he proved too dangerous.
 
-Marcus walked through Jerusalem's afternoon crowds thinking about timing. Nine months to Passover if Jesus taught carefully, avoided demonstrating complete access, maintained appearance of enhanced-but-limited understanding. Weeks if the offensive network decided he'd accessed too much.
-
-Strategic ambiguity was critical now. Teach comprehensively but not perfectly. Encode deeply but not completely. Demonstrate enough to preserve knowledge without demonstrating so much that execution accelerated.
-
-Defensive mode thinking. Survival through careful calibration of visible threat.
-
-Marcus hoped Jesus understood that. Hoped enhanced Protocol access included strategic restraint in teaching display.
-
-Because nine months was barely adequate for comprehensive knowledge encoding.
-
-Weeks would be catastrophically insufficient.
-
-And the offensive network was watching. Calculating. Preparing to move if Jesus showed too much capacity.
-
-The machinery was tightening around him. Rome, Temple, Zealots—all coordinated by offensive forces that had eliminated defensive carriers for three thousand years.
-
-All watching for sign that Jesus had accessed complete Protocol.
-
-All ready to accelerate execution the moment he proved too dangerous.
-
-Marcus needed to warn them.
-
-Needed to make sure Jesus knew: Enhanced teaching was valuable. Complete teaching was fatal.
-
-The line between them was narrow.
-
-And crossing it meant dying months before the teaching was ready to survive without him.
+Marcus needed to warn them. Enhanced teaching was valuable. Complete teaching was fatal. The line between them was narrow.
 
 ---
 
 ## SCENE 6: THE LOST KEYS QUESTION
 
-The emergency network meeting gathered two days after Jesus returned from Qumran—not in Capernaum where Roman and Temple spies watched too closely, but in the teaching house Mary had established in a smaller Galilean town. Secure. Private. Protected by defensive network guards.
+The emergency network meeting gathered two days later—not in Capernaum where spies watched, but in the teaching house Mary had established in a smaller Galilean town.
 
-Jesus, Mary, Helena, Simon, Marcus, and the three women with Protocol access—Leah, Rachel, Abigail. Ten people who needed strategic clarity about enhanced access, offensive network response, and timeline compression threat.
+Marcus delivered his intelligence. The offensive network had moved their three keys. Caiaphas was discussing timeline acceleration. If Jesus demonstrated seven-key access, arrest within weeks instead of months.
 
-Marcus delivered his intelligence first. "The offensive network moved their three keys immediately after learning Jesus accessed enhanced Protocol at Qumran. Secured them in Zealot-controlled warehouse. Temple spies reported Jesus teaching with unprecedented clarity. Caiaphas discussing timeline acceleration if Jesus demonstrates seven-key access."
+"Can they confirm access level?" Simon asked.
 
-"How much acceleration?" Helena asked.
+"They're watching teaching content and pattern complexity. As long as Jesus appears enhanced-but-limited, they'll maintain Passover timeline."
 
-"Weeks instead of months. Immediate arrest if they confirm complete Protocol access."
+Jesus nodded slowly. "So I teach comprehensively but imperfectly. Strategic ambiguity."
 
-The room fell silent.
+Helena raised the harder question: "Do we search for the two lost keys?"
 
-Simon spoke carefully. "Can they confirm access level? Do they understand blood memory mechanics well enough to measure capability?"
+"We've searched for twelve hundred years," Simon said. "What makes you think we'd find them now?"
 
-"No," Marcus said. "They're watching teaching content. Pattern complexity. Network coordination. Observable indicators, not genetic testing. As long as Jesus appears to have enhanced-but-limited access, they'll maintain Passover timeline. If he teaches too perfectly, demonstrates too much systems clarity, they'll move immediately."
+"Desperation. We've never had a carrier this strong with timeline this compressed."
 
-Jesus had been quiet, listening. Now he said, "So I need to teach comprehensively enough to encode defensive knowledge, but imperfectly enough to avoid triggering acceleration."
+Jesus shook his head. "No. Probability near zero, expeditions draw attention we can't afford, and I don't need more keys. The limitation isn't understanding—it's time. Get Mary and the carriers to more cities. Damascus, Antioch, Alexandria. Geographic redundancy serves us better than chasing artifacts."
 
-"Strategic ambiguity," Marcus confirmed. "Calibrated threat display."
+"What about keyless access?" Simon asked quietly. The question everyone had been avoiding.
 
-Mary understood the impossible position. Teach too little, defensive knowledge preservation fails. Teach too much, execution happens before encoding is complete. Navigate narrow space between inadequate and fatal.
+Jesus looked at Mary. She knew what he was asking—permission, validation, confirmation she could continue if the attempt killed him.
 
-"Can you do that?" Helena asked Jesus directly. "Teach with restraint? Hold back complete clarity even when you have it?"
+"What would it give you that two-key access doesn't?"
 
-Jesus considered. "Two-key access gives me enhanced understanding. But I'm not demonstrating seven-key capability yet. I can teach systematically without teaching perfectly. Encode comprehensively without encoding completely. The parables already have dual-layer structure—I just make surface layer more accessible, encoded layer more subtle."
-
-"For nine months?"
-
-"If necessary."
-
-Helena leaned forward. "Which brings us to strategic question: Do we search for the two lost keys?"
-
-The question hung in the air. Mary felt everyone processing it—the possibility that additional keys existed, recoverable, accessible with enough effort.
-
-"We've searched for twelve hundred years," Simon said quietly. "What makes you think we'd find them now in nine months?"
-
-"Desperation," Helena replied bluntly. "We've never had carrier this strong with timeline this compressed. Finding even one more key—bringing Jesus to three-key access—would enhance teaching without triggering seven-key alarm. Might be worth the attempt."
-
-Jesus shook his head. "Where would you even search? Mediterranean is vast. Bronze Age collapse scattered artifacts across three continents. You said the best evidence suggests Crete and Carthage, but those are educated guesses based on twelve-hundred-year-old fragmentary records."
-
-"Crete is three weeks' travel," Helena said. "Carthage is six. I could coordinate search expeditions. Defensive network has resources, contacts in both locations. Archaeological sites where Bronze Age defensive carriers might have hidden artifacts."
-
-"And if you find nothing?" Mary asked.
-
-"Then we've wasted weeks that could have been spent on teaching distribution. But if we find even one key—if we bring Jesus to three-key access before Passover—the enhancement might make difference between adequate and comprehensive encoding."
-
-Jesus was quiet for a long moment. Mary could see him calculating—weighing enhanced access benefit against time cost, network resource diversion, probability of success.
-
-"No," he said finally.
-
-Helena looked surprised. "No?"
-
-"We don't search for lost keys. Three reasons." Jesus counted on his fingers. "First: Probability of finding keys in nine months when defensive network hasn't found them in twelve hundred years is near zero. That's not pessimism, it's mathematics. You'd be spending network resources on unlikely recovery instead of certain teaching distribution.
-
-"Second: Sending network coordinators on Mediterranean expeditions right now—when offensive network is actively tracking our movements, watching for threat escalation—draws attention we can't afford. They'll interpret search expeditions as evidence we're attempting higher access. Might trigger acceleration we're trying to avoid.
-
-"Third: I don't need more keys. Two-key access is sufficient for comprehensive carrier training. The limitation isn't my understanding—it's the time available for teaching multiplication. More keys wouldn't give me more time. Would actually cost time through distraction and resource diversion."
-
-He looked at Helena. "I appreciate that defensive network wants maximum enhancement. But strategic priority right now is teaching distribution, not access enhancement. Get Mary and the other carriers to more cities. Establish networks in Damascus, Antioch, Alexandria. Multiply teaching circles. Create geographic redundancy. That serves defensive knowledge better than searching for keys that probably don't exist or can't be found."
-
-Helena absorbed this. "You're right that probability is low. But the potential benefit—"
-
-"Isn't worth the certain cost," Jesus interrupted gently. "Helena, I understand network thinking. You've preserved these keys for twelve hundred years. You see carrier with forty-one generation genetics and want to give him every possible advantage. But I'm telling you: Time is more valuable than enhancement. Nine months of focused teaching beats nine months minus expedition time with maybe one more key."
-
-Mary recognized the strategic clarity. Two-key access showing in how Jesus articulated priorities, weighed costs and benefits, calculated optimal resource allocation.
-
-"What about keyless access?" Simon asked quietly. "If keys aren't the constraint, if you can access complete Protocol through genetics alone—should you attempt it?"
-
-The question everyone had been avoiding.
-
-Jesus looked at Mary. She knew what he was asking—permission, validation, confirmation that she could continue if keyless attempt killed him before Passover.
-
-She wanted to say no. Wanted to demand he stay with safe two-key access, teach for nine months, accept martyrdom when scheduled instead of risking early death through dangerous Protocol unlocking.
-
-But defensive mode didn't allow that. Strategic thinking required honest assessment, not emotional preference.
-
-"What would keyless access give you that two-key access doesn't?" Mary asked.
-
-"Universal teaching capability. Ability to activate defensive mode in non-carriers. Immediate distribution to thousands instead of gradual transmission through carrier genetics."
-
-"How confident are you that universal teaching would work? That non-carriers could learn and preserve defensive methodology accurately?"
-
-Jesus was quiet. "I don't know. Nefertari designed for genetic transmission. I'd be attempting something untested. Might work brilliantly. Might fail completely."
+"Universal teaching capability. Non-carriers could learn defensive methodology directly."
 
 "And the physical risk?"
 
-"Blood memory overload without keys to organize it. Could kill me. Could break my coherence. Could work perfectly. Unprecedented attempt—no data."
+"Blood memory overload without keys to organize it. Could kill me. Could work perfectly. No data."
 
-Mary looked around the room. "Then we don't attempt keyless access unless two-key teaching proves insufficient. Test the proven method first. If nine months of two-key enhanced teaching successfully distributes defensive knowledge to carrier network with adequate redundancy, keyless attempt is unnecessary risk. If two-key teaching is insufficient—if we reach month eight and can see knowledge preservation failing—reassess then."
+"Then we don't attempt it unless two-key teaching proves insufficient," Mary said. "Test the proven method first."
 
-Jesus nodded slowly. "Agreed. Prioritize certain methodology over uncertain enhancement."
+Jesus agreed. The meeting dispersed into planning—Helena coordinating city distribution, Simon organizing protection, Marcus managing documentation.
 
-Helena looked between them. "So the strategy is: Teach with two-key clarity for nine months. Avoid demonstrating complete access to prevent timeline acceleration. Distribute through carrier network with geographic redundancy. Don't search for lost keys. Don't attempt keyless access unless two-key method fails. Prepare for Passover 33 CE martyrdom with maximum knowledge encoding beforehand."
-
-"Exactly," Jesus confirmed.
-
-"And if offensive network accelerates anyway? If they decide enhanced teaching is too threatening?"
-
-Marcus answered. "Then we scatter immediately. Defensive network protocols activate. Jesus disappears, offensive network loses track, timeline resets. We buy more months through evasion."
-
-"Except I can't teach if I'm hiding," Jesus said. "Scattering means abandoning public ministry. Means losing the crowds, the distribution network, the teaching multiplication. Survival through hiding isn't strategic if it prevents the work that makes survival meaningful."
-
-"So if they accelerate, you accept arrest?" Simon asked.
-
-"If they accelerate close enough to Passover that adequate encoding is complete, yes. If they accelerate too early—month two or three when teaching is insufficient—I evade temporarily, encode faster, accept arrest when strategic timing is right."
-
-The calculation was cold. Precise. Defensive mode thinking at its clearest.
-
-Mary hated it. And knew it was correct.
-
-"Nine months," she said. "We teach for nine months. We distribute to eight cities minimum. We train enough carriers that knowledge preservation has redundancy. We document comprehensively. And we prepare for Passover 33 CE knowing that's when encoding must be complete."
-
-Everyone nodded.
-
-The meeting dispersed into planning—Helena coordinating city distribution, Simon organizing protection protocols, Marcus managing documentation multiplication, Leah, Rachel, and Abigail preparing to lead independent teaching circles.
-
-Jesus and Mary left together, walking through the small town's evening streets toward the house where Sarah waited with Mary's friend from the women's circle.
-
-"You're afraid I'll attempt keyless access anyway," Jesus said quietly.
+Walking together afterward, Jesus said quietly, "You're afraid I'll attempt keyless access anyway."
 
 "Yes."
 
-"I won't. Not unless two-key method fails. I promise."
+"I won't. Not unless two-key method fails." He paused. "I promise."
 
-Mary wanted to believe him. "The problem is you think in millennia. You might decide that universal teaching capability benefits defensive knowledge for next forty generations enough to justify the risk of dying early. And I'm thinking in months. Trying to keep you alive long enough to finish carrier training."
+Mary wanted to believe him. The problem was he thought in millennia. She was thinking in months—trying to keep him alive long enough to finish carrier training.
 
-"Different timelines," Jesus agreed. "But same goal—knowledge preservation. I won't attempt keyless access for theoretical future benefit at cost of certain present teaching. If two-key method works, I use it. That's strategic, not emotional."
-
-Mary nodded. Accepted. Pushed away the fear that Jesus would calculate differently when months compressed to weeks and nine months became three.
-
-For now: Two-key access. Enhanced teaching. Nine months of encoding.
-
-It was enough.
-
-It had to be.
+She pushed away the fear that Jesus would calculate differently when months compressed to weeks.
 
 ---
 
 ## SCENE 7: TEACHING WITH ENHANCED ACCESS
 
-Three weeks after Qumran unlocking, Jesus taught in Capernaum with two-key clarity.
+Three weeks after Qumran, Jesus taught in Capernaum with two-key clarity.
 
-The crowds had grown—eight thousand at this gathering, Mary estimated. Spring weather brought pilgrims heading toward Jerusalem for Passover months away, many detouring through Galilee to hear the teacher everyone discussed.
-
-Mary watched from the side, Sarah beside her, both observing how Jesus's teaching had changed.
-
-Not dramatically. Not obviously. But for those with Protocol access, the difference was unmistakable.
+Eight thousand at this gathering, Mary estimated. Spring weather brought pilgrims detouring through Galilee to hear the teacher everyone discussed. She watched from the side, Sarah beside her.
 
 The parable was the Sower and Seeds—story Jesus had taught before, but never with this precision.
 
-"A farmer went out to sow seeds," Jesus began, his voice carrying across the crowd gathered on the hillside. "Some seeds fell on the path, and birds ate them. Some fell on rocky ground, sprouted quickly but withered when sun got hot because roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain—thirty, sixty, a hundred times what was sown."
+"A farmer went out to sow seeds," Jesus began. "Some fell on the path, and birds ate them. Some fell on rocky ground, sprouted quickly but withered when sun got hot because roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain—thirty, sixty, a hundred times what was sown."
 
-Surface layer: Clear. Accessible. People heard agricultural metaphor, understood receptivity to spiritual teaching varied like soil quality.
+The crowds heard agricultural metaphor. Mary felt it resonate in blood memory—network propagation, exponential growth through replication, resource allocation to receptive populations. Two-key access showing in how completely Jesus encoded methodology while maintaining surface accessibility.
 
-But the encoded layer—
-
-Mary felt it resonate in blood memory. Network propagation through distributed replication. Small initial investment in training producing exponential growth if each trained member replicated training in others. Systems resilience through multiplication rather than centralization.
-
-And deeper still: Soil quality assessment before planting. Resource allocation to receptive populations. Accepting that not every attempt would succeed—some would fail immediately, some would fail under pressure, some would fail to thrive. But adequate success rate meant overall network growth even with significant individual failure.
-
-Strategic teaching distribution. Calculated investment. Defensive thinking at systems level.
-
-Two-key access showing in how completely Jesus encoded methodology while maintaining surface accessibility.
-
-The disciples standing nearby—Peter, John, James—looked confused. "Why does he teach in parables?" Peter asked Mary quietly. "Half these people don't understand the deeper meaning."
-
-"Half is enough," Mary replied. "The ones who understand will teach others. Multiplication through network distribution. He's not trying to teach everyone everything. He's trying to teach enough people sufficiently that the knowledge spreads through replication."
-
-Another parable: The Leaven in Dough.
-
-"The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, until it was all leavened."
-
-Surface: Small beginning growing to affect entire system.
-
-Encoded: Intervention point strategy. Small change in critical location cascading through entire structure. Identifying leverage points where minimal input produces maximum systemic transformation. Defensive mode working through subtle influence rather than direct force.
-
-Mary recognized Nefertari's thinking in this. The Protocol founder had understood systemic change mechanics—how to shift civilizations without conquering them, preserve knowledge without controlling institutions, outlast empires without fighting them.
-
-Jesus was teaching what Nefertari had taught twelve hundred years ago. Same patterns. Same strategy. Same defensive methodology.
-
-Two-key access letting him see it clearly enough to encode it precisely.
-
-"The kingdom of heaven is like a merchant searching for fine pearls," Jesus continued. "When he found one pearl of great value, he went and sold everything he had and bought it."
-
-Surface: Spiritual truth worth total commitment.
-
-Encoded: Recognizing systemic solutions worth sacrificing everything. When you see pattern that solves multiple problems simultaneously, comprehensive resource reallocation is strategic. Defensive carriers abandoning offensive power structures to preserve knowledge—that was the pearl. Complete commitment to knowledge preservation even at cost of conventional success.
+Another parable: The Leaven in Dough. The Pearl of Great Price. Each one surface-clear and deeper-complex.
 
 Sarah tugged Mary's sleeve. "Mama, I can feel the pattern. The stories have two meanings."
 
-"Good," Mary said quietly. "That's Protocol access beginning. You're recognizing dual-layer encoding."
+Mary looked at her seven-year-old daughter. Generation 43. The one who would carry this teaching forward.
 
-"Will I be able to do what Jesus does? Teach both layers at once?"
+"Yes," Mary said quietly. "He's teaching you how. Watch. Listen. Feel the blood memory respond."
 
-Mary looked at her seven-year-old daughter. Generation 43. The one who would carry this teaching forward when Mary herself was gone.
+The teaching continued through afternoon. Beatitudes with enhanced understanding—"Blessed are the meek" encoding that defensive mode outlasts offensive force. "Blessed are those persecuted" encoding that martyrdom preserves knowledge. Jesus was teaching his own upcoming death as strategy while crowds heard spiritual comfort.
 
-"Yes," Mary said. "He's teaching you how. Watch. Listen. Feel the blood memory respond. That's how you learn to encode what he's encoding."
+After the gathering dispersed, Thomas asked the question others were thinking. "Your teaching has changed. The parables are clearer somehow. More systematic. What's different?"
 
-The teaching continued through afternoon—parable after parable, each one surface-clear and deeper-complex, accessible to crowds while carrying defensive methodology for those with Protocol access.
+"I've had time to refine the methodology," Jesus said carefully. Not a lie. Just incomplete truth—enhanced access presented as iterative improvement.
 
-Beatitudes with enhanced understanding:
+Mary understood why he concealed it. The Twelve included Judas, who would eventually betray. Included humans who might inadvertently reveal enhanced access. Better to let them think Jesus was naturally gifted teacher who'd improved through experience.
 
-"Blessed are the meek, for they shall inherit the earth"—Defensive mode outlasts offensive force.
+Later, reviewing Marcus's documentation of the day's parables, Mary said quietly, "This is working. Two-key clarity is sufficient."
 
-"Blessed are the peacemakers, for they shall be called children of God"—System stabilizers prevent collapse.
+"For carrier network, yes." Jesus paused. "But I'm watching thousands of people understand the surface layer and miss the encoded depth entirely. Not because they're unintelligent. Because they don't have carrier genetics."
 
-"Blessed are those persecuted for righteousness, for theirs is the kingdom of heaven"—Martyrdom encodes knowledge.
+The desire to attempt keyless access—to teach *anyone* directly—hung between them.
 
-Jesus was teaching his own upcoming death as defensive strategy. Preparing the network for continuation without him. Encoding martyrdom utilization while crowds heard spiritual comfort.
+"Promise me," Mary said. "Promise you won't attempt it without telling me first."
 
-Two-key access making it possible to encode this completely while maintaining public teaching accessibility.
+Jesus took her hand. "I promise."
 
-After the gathering dispersed, the core network gathered privately—the Twelve, Mary and the three Protocol carriers, Simon, Marcus documenting.
-
-Judas spoke first, his frustration visible. "I still don't understand why you teach in riddles. Half the crowd left not understanding anything."
-
-"Half the crowd left with surface understanding," Jesus corrected. "Twenty percent left with deeper recognition. Five percent accessed encoded methodology. And the ones with Protocol access can now teach the methodology to others with similar genetics. That's multiplication. That's network growth. I'm not trying to convert thousands. I'm trying to activate carriers who'll preserve defensive knowledge across generations."
-
-"But you could teach more clearly. Could explain instead of encoding. More people would understand."
-
-"And Roman intelligence would document exactly what I'm teaching, confirm I'm teaching systemic resistance, accelerate execution before encoding is complete." Jesus looked at Judas patiently. "Ambiguity is protective. Surface clarity with encoded depth means crowds hear one thing, carriers access another, and offensive network can't confirm what I'm actually teaching until it's too late to prevent distribution."
-
-Thomas asked the question others were thinking. "Your teaching has changed. The parables are clearer somehow. More... systematic. What's different?"
-
-Jesus glanced at Mary. Strategic decision: How much to reveal about enhanced access?
-
-"I've had time to refine the methodology," Jesus said carefully. "Five years of teaching, trial and error, seeing what works for knowledge transmission. The parables are clearer because I understand defensive mode better now than when I started."
-
-Not a lie. Just incomplete truth. Enhanced access presented as iterative improvement rather than key-unlocking.
-
-Maintaining strategic ambiguity even with closest followers.
-
-Mary understood why. The Twelve included Judas, who would eventually betray. Included Peter, whose protective instinct would fail at arrest. Included humans who might inadvertently reveal enhanced access to offensive network through teaching enthusiasm or defensive argument.
-
-Better to let them think Jesus was naturally gifted teacher who'd improved through experience. Not reveal two-key access that might trigger offensive network alarm.
-
-The meeting ended. The Twelve dispersed to evening meal and rest. Mary stayed with Jesus as he reviewed documentation Marcus had prepared—transcriptions of the day's parables, analysis of encoding structure, notes for replication in other cities.
-
-"This is working," Mary said quietly. "Two-key clarity is sufficient. The encoding is comprehensive. The distribution is multiplying. You don't need keyless access. This is enough."
-
-Jesus nodded. "For carrier network, yes. This is enough. If I have nine months and offensive network doesn't accelerate, I can encode complete defensive methodology for carriers with adequate redundancy."
-
-"But?"
-
-"But I'm watching thousands of people listen to parables, understand surface layer, and miss the encoded depth entirely. Not because they're unintelligent. Because they don't have carrier genetics. They can't access blood memory that would unlock dual-layer understanding. And I think—with seven-key or keyless access—I might be able to teach them anyway. Activate defensive thinking without genetic predisposition."
-
-"That's theoretical."
-
-"So was two-key access before I attempted it. So was Jesus of Nazareth teaching defensive mode to crowds of eight thousand. Everything we're doing is unprecedented. Theoretical doesn't mean impossible."
-
-Mary was quiet. She understood the desire—expand distribution beyond carrier genetics, activate thousands instead of hundreds, create redundancy through multiplication rather than genetics alone.
-
-But she also understood the risk. Keyless attempt that might kill him before carrier training was complete. Before she was ready. Before Sarah was prepared for Generation 43 responsibility.
-
-"Promise me," Mary said. "Promise you won't attempt keyless access without telling me first. Without giving me chance to prepare for the possibility you'll die before Passover."
-
-Jesus took her hand. "I promise. If I decide keyless attempt is strategically necessary, I'll tell you beforehand. You'll have time to prepare. Time to document. Time to take over carrier training if the attempt fails."
-
-"Thank you."
-
-They sat together as evening deepened, watching Capernaum's lights appear across the hillside. Eight months to Passover 33 CE. Eight months to encode twelve hundred years of knowledge.
-
-Two-key access made it possible.
-
-Strategic restraint made it safe.
-
-And somewhere between possible and safe, Jesus was teaching defensive mode to thousands while preparing for martyrdom that would encode the knowledge deeper than life ever could.
-
-Mary watched him. Documented him. Prepared to continue after him.
-
-Because that's what defensive mode required.
-
-Because carrier training meant accepting he would die and she would lead.
-
-Because eight months was both too much and not enough time for everything that needed encoding.
-
-But it was the time they had.
-
-And Jesus was teaching with two-key clarity that made every moment count.
+They sat together as evening deepened, watching Capernaum's lights appear across the hillside. Eight months to Passover. Eight months to encode twelve hundred years of knowledge.
 
 ---
 
 **END OF CHAPTER 9**
 
-**Word Count:** ~8,900 words
-**Status:** Complete
+**Word Count:** ~6,900 words (compressed from ~11,100)
+**Status:** Complete — compression pass applied
 **Next Chapter:** Chapter 10 - Final teaching period, Jerusalem approach, Passover preparation
 
 ---

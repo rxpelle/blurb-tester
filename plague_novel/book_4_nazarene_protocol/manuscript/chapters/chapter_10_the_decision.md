@@ -132,43 +132,15 @@ Marcus nodded. "I'll tell Helena. Document your refusal. Make sure the network u
 
 He left. Jesus stood alone in the upper room, Pattern Eye in one hand, the weight of three weeks pressing down harder than Galilean summer heat.
 
-Three weeks to encode twelve hundred years.
-
-Three weeks to prepare Mary for leadership she'd carry for decades.
-
-Three weeks to teach Sarah enough that Generation 43 would have foundation for future carriers.
-
-Three weeks to make martyrdom so clearly strategic that followers would understand: His death wasn't tragedy. It was completion.
+Three weeks to encode twelve hundred years. To prepare Mary. To teach Sarah enough that Generation 43 would have foundation.
 
 The Pattern Eye pulsed with blood memory—Nefertari's voice across twelve centuries: *"Teach until they kill you. Die well. Trust the bloodline to continue."*
 
-Jesus had accessed that memory months ago. Had known martyrdom was inevitable since the two-key unlocking at Qumran.
+He'd known since Qumran. But knowing intellectually and accepting emotionally were different.
 
-But knowing intellectually and accepting emotionally were different.
-
-Three weeks.
-
-Not nine months. Three weeks.
-
-He closed his eyes. Felt forty-one generations of ancestors who'd faced similar choices—teach or hide, persist or flee, continue or preserve individual life at cost of knowledge transmission.
+He closed his eyes. Felt forty-one generations of ancestors who'd faced the same choice—teach or hide, persist or flee.
 
 Every one of them had chosen continuation.
-
-Every one of them had encoded defensive mode through their persistence despite persecution.
-
-Jesus of Nazareth, Generation 42, would do the same.
-
-Even if it meant dying in three weeks instead of nine months.
-
-Even if it meant inadequate encoding instead of comprehensive preparation.
-
-Even if it terrified him more than anything he'd experienced in thirty-six years of life.
-
-He would teach for three weeks.
-
-And then he would die well.
-
-Because that's what the Protocol required.
 
 ---
 
@@ -364,7 +336,7 @@ Which he was.
 
 The parables took on new weight:
 
-"A grain of wheat remains a single seed unless it falls to the ground and dies. But if it dies, it produces many seeds." Surface meaning: Spiritual sacrifice brings divine reward. Encoded meaning: Individual carrier death enables knowledge multiplication through inspired continuers. Martyrdom creates distribution through preservation urgency.
+"A grain of wheat remains a single seed unless it falls to the ground and dies. But if it dies, it produces many seeds."
 
 Mary watched him teach, documenting every word. Beside her, Sarah listened with seven-year-old concentration, blood memory already beginning to recognize the encoded patterns her mother could verify through Protocol access.
 
@@ -416,7 +388,7 @@ He spent an hour with the three women, testing their Protocol access, verifying 
 
 Evening brought public teaching again—this time the parable of the Good Shepherd.
 
-"I am the good shepherd. The good shepherd lays down his life for the sheep." Surface meaning: Divine sacrifice for believers. Encoded meaning: Defensive leadership prioritizes network survival over individual continuation. Strategic martyrdom preserves the system by validating methodology's importance.
+"I am the good shepherd. The good shepherd lays down his life for the sheep."
 
 Marcus documented it all—every parable, every private teaching session, every verification exercise. Multiple copies of every tablet, distributed to different locations for redundancy. If the offensive network burned one archive, others would survive.
 
@@ -478,11 +450,7 @@ Jesus, Mary, Sarah, Helena, Simon, Marcus, and three network elders who'd travel
 
 Helena turned to Mary. "Can you lead the network alone?"
 
-Mary wanted to say no. Wanted to admit she was terrified, underprepared, inadequate for responsibility being thrust on her two weeks from now.
-
-But defensive mode didn't allow emotional honesty when strategic necessity demanded confidence.
-
-"Yes," Mary said. "I can lead. Jesus has trained me for three years. Enhanced that training in the past week. I have Protocol access, verification network, documentation, and bloodline certainty. I'll lead."
+"Yes," Mary said, and the word came out steadier than she felt. "I can lead. Jesus has trained me for three years. I have Protocol access, verification network, documentation. I'll lead."
 
 Helena studied her for a long moment. Then nodded. "I believe you. Which means my task is preparing network support for your leadership. Resources. Safe houses. Geographic distribution. Protection protocols."
 
@@ -556,9 +524,9 @@ Mary documented everything, her own exhaustion mounting as she struggled to capt
 
 The parables became explicit about martyrdom:
 
-"The kingdom of heaven is like a treasure hidden in a field. When a man found it, he sold everything he had and bought that field." Surface meaning: Spiritual truth worth total sacrifice. Encoded meaning: When you discover defensive methodology, you commit everything to its preservation—including your life if necessary. Systemic knowledge is worth individual cost.
+"The kingdom of heaven is like a treasure hidden in a field. When a man found it, he sold everything he had and bought that field."
 
-"Unless a grain of wheat falls to the ground and dies, it remains alone. But if it dies, it produces many grains." Direct teaching now, barely concealed. Death enables multiplication. Individual sacrifice serves collective continuation.
+"Unless a grain of wheat falls to the ground and dies, it remains alone. But if it dies, it produces many grains." Direct teaching now, barely concealed.
 
 Peter still didn't understand. "Master, why this obsession with death? We're growing stronger. More followers every day. This is life, not death."
 
@@ -620,13 +588,7 @@ Sukkot festival approaching. Harvest celebration. Pilgrims flooding Jerusalem an
 
 Twelve thousand at the hillside gathering. Largest crowd he'd ever taught.
 
-The parable of the Sower, taught three years ago, returned now with enhanced two-key clarity:
-
-"A sower went out to sow. Some seeds fell on the path, birds ate them. Some fell on rocky ground, grew quickly but withered without deep roots. Some fell among thorns, choked. But some fell on good soil and produced grain—thirty, sixty, a hundred times what was sown."
-
-Surface teaching. But Mary heard the encoded depth: Network propagation through distributed replication. Accept that some attempts fail. Focus on receptive populations. Adequate success rate produces exponential growth even with significant individual failure.
-
-Jesus teaching his own martyrdom as one seed falling on good soil—his death producing hundred-fold multiplication through motivated carriers who'd preserve what he taught.
+The parable of the Sower returned with final clarity—the same story he'd taught three years ago, but now every word carried the weight of a man teaching his own death as one seed falling on good soil.
 
 Marcus documented from the crowd's edge. Defensive network guards watched for offensive network movement. Temple spies observed and reported to Caiaphas.
 
@@ -694,19 +656,7 @@ The evening before Sukkot: Last public teaching.
 
 Fifteen thousand people gathered on the hillside. Jesus's voice barely carrying across the crowd despite enhanced acoustics of the natural amphitheater.
 
-The Beatitudes, taught with final clarity:
-
-"Blessed are the meek, for they shall inherit the earth"—Defensive mode outlasts offensive force.
-
-"Blessed are those who hunger for righteousness, for they shall be satisfied"—Pattern recognition leads to intervention strategies.
-
-"Blessed are the peacemakers, for they shall be called children of God"—System stabilizers prevent collapse.
-
-"Blessed are those persecuted for righteousness, for theirs is the kingdom of heaven"—Martyrdom encodes knowledge deeper than peaceful transmission.
-
-He was teaching his own execution. Making it visible. Strategic martyrdom, not accidental death.
-
-The crowd heard spiritual comfort. Mary heard defensive methodology. Sarah heard blood memory patterns activating.
+The Beatitudes, taught with final clarity. The crowd heard spiritual comfort. Mary heard defensive methodology encoded in every line. Sarah heard blood memory patterns activating.
 
 Marcus documented everything.
 
@@ -806,38 +756,18 @@ Caiaphas coordinating with Pilate, Temple guards and Roman soldiers ready.
 
 The machinery of execution in motion.
 
-And Jesus walking toward it deliberately. Choosing martyrdom because twelve hundred years of blood memory showed him it was the only strategy that worked.
+And Jesus walking toward it deliberately. One more link in an unbroken chain. One more seed falling to ground so others could grow.
 
-Defensive knowledge survived offensive attempts to destroy it.
-
-Persecution validated teaching importance.
-
-Martyrdom encoded knowledge deeper than peaceful life.
-
-Continuation required sacrifice.
-
-And he was forty-second generation carrier implementing pattern Nefertari had established twelve hundred years ago.
-
-One more link in unbroken chain.
-
-One more seed falling to ground so others could grow.
-
-One more strategic martyr choosing systemic preservation over individual survival.
-
-He reached the festival gathering. Climbed the teaching platform. Looked out over the crowd—fifteen thousand people who'd come to celebrate harvest and would witness arrest instead.
-
-Perfect timing. Maximum distribution. Optimal validation.
+He reached the festival gathering. Climbed the teaching platform. Looked out over fifteen thousand people who'd come to celebrate harvest and would witness arrest instead.
 
 He began teaching the final parable.
-
-And prepared to die well.
 
 ---
 
 **END OF CHAPTER 10**
 
-**Word Count:** ~8,200 words
-**Status:** Complete
+**Word Count:** ~7,200 words (compressed from ~8,200)
+**Status:** Complete — compression pass applied
 **Next Chapter:** Chapter 11 - "The Betrayal" (Arrest during Sukkot, Judas's failed extraction, beginning of execution sequence)
 
 ---

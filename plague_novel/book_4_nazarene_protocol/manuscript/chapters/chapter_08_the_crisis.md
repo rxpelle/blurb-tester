@@ -40,11 +40,9 @@ Roman patrol passing, six soldiers with hands on sword hilts, eyes scanning roof
 
 A street preacher Marcus didn't recognize, shouting about the coming kingdom: "The prophet from Galilee will lead us to victory!"
 
-Jesus would hate that. Had explicitly rejected it a dozen times. But Lucullus was right about one thing—Jesus didn't control how people interpreted his teaching. The crowds heard what they wanted to hear. The Zealots heard revolution. The Temple authorities heard blasphemy. Rome heard threat to stability.
+Jesus would hate that last one. But the crowds heard what they wanted to hear.
 
-Only the defensive network heard the actual message: *Survive the collapse. Preserve the knowledge. Outlast the offensive mode empires.*
-
-Marcus arrived at headquarters as the city bells marked the tenth hour. The fortress loomed above him, stone and power, the weight of Rome's authority pressing down on Judea like a boot on a throat. He'd served that authority for twenty-eight years. Believed in it. Killed for it.
+Marcus arrived at headquarters as the city bells marked the tenth hour. The fortress loomed above him, stone and power. He'd served that authority for twenty-eight years.
 
 Now he was about to lie to it.
 
@@ -200,39 +198,21 @@ Marcus looked at his untouched wine. "If I agree, I can feed them false informat
 
 "I'm considering," Marcus said slowly, "whether lying to Rome while pretending to serve them is better than telling them to execute their own strategy and having no warning when they come for the network after Jesus dies."
 
-Simon was quiet for a moment. Then: "Can you stop the execution?"
+"Can you stop the execution?"
 
 "No."
 
-"Can you delay it?"
+"Can you change anything that matters?"
 
 "No."
 
-"Can you change the outcome in any way that matters?"
+"Then make sure the teaching survives," Simon said. "You're a witness, Marcus. Not a savior."
 
-Marcus met his eyes. "No."
+Marcus heard the grief in his own voice. "I can't save him."
 
-"Then make sure his teaching survives," Simon said. "That's how he wins. Not by living, but by making sure what he taught outlasts the people trying to destroy it."
+"He doesn't need saving. He needs documenting." Simon's voice was gentle. "The truth about what happened. Who ordered it. Why. That's what matters across twelve hundred years."
 
-The same thing Mary had said. The same thing Jesus himself had said. Survival through knowledge preservation, not through preventing martyrdom.
-
-But it still felt like failure.
-
-"I can't save him," Marcus said, and heard the grief in his own voice.
-
-"He doesn't need saving," Simon replied. "He needs witnessing. Documentation. Someone who'll tell the truth about what happened, why it happened, who ordered it. That's what defensive mode does—preserves information through collapse. You're a witness, Marcus. That's your role. Not savior. Witness."
-
-Marcus thought of the intelligence briefing, of Severus explaining martyrdom as deterrence, of the three-faction coordination designed to eliminate Jesus and his teaching entirely.
-
-They didn't understand what they were fighting. Thought execution would end the movement, scatter the network, discredit the teaching. Standard protocol for messianic agitators.
-
-But Jesus wasn't a messianic agitator. He was a Generation 42 carrier encoding defensive knowledge into parables and stories, building a distributed network designed specifically to survive persecution. The more Rome tried to destroy it, the more it would spread.
-
-Nefertari had proved that twelve hundred years ago. The Thirty-Fourth Dynasty had tried to eliminate her teaching, executed her, burned her followers, destroyed her temples. And the defensive knowledge had survived precisely because the attempt to destroy it validated its importance.
-
-Jesus knew that. Was counting on it. Had accepted martyrdom as encoding strategy, not failure.
-
-Marcus was the only one treating death as preventable tragedy.
+Marcus was the only one still treating this death as preventable tragedy.
 
 "Will you testify?" Simon asked. "At his trial? Speak for him?"
 
@@ -262,15 +242,9 @@ Marcus nodded. "I know the protocol. Distributed preservation. No single point o
 
 Simon smiled slightly. "You do understand. He was right about you."
 
-They parted at the tavern—Simon disappearing into the afternoon crowds, Marcus heading back to his small room to begin the work of refusing Rome's offer and documenting Rome's decision.
+They parted at the tavern. Marcus headed back to his small room to begin refusing Rome's offer and documenting Rome's decision.
 
-Twelve months until Passover 33 CE.
-
-Twelve months to prepare for martyrdom he couldn't prevent and survival he could only preserve through written testimony.
-
-Marcus had spent twenty-eight years as a soldier. Now he'd spend his final year as a scribe.
-
-Witnessing, not saving. Documentation, not intervention.
+Twelve months. Witnessing, not saving.
 
 It felt like cowardice. But it was the only thing that mattered.
 
@@ -302,25 +276,11 @@ Jesus would hate that last one. Had explicitly rejected messianic expectations, 
 
 Three more months and they'd try to force his hand. Make him choose between leading revolt or losing credibility. They didn't understand that Jesus had already made his choice—martyrdom, not leadership. Strategic death, not tactical survival.
 
-Marcus reflected on the transformation as he walked. Six years ago, in Nazareth during the census, Jesus had been an unknown carpenter with unusual genealogical markers. Generation 42, two parallel lineages converging, the kind of pattern Marcus had been trained to recognize as potential defensive network carrier.
-
-Now he was a teacher with crowds of seven thousand, a movement that Rome feared and the Temple wanted destroyed, a figure so significant that three factions coordinated his elimination.
-
-And Marcus—dutiful soldier who'd served Rome for twenty-eight years without question—had become a traitor documenting revolution for posterity.
-
-The distance traveled, both physical and moral, felt immeasurable.
-
 He reached Capernaum on the third day, approaching the town in late afternoon as the Sabbath began. The synagogue was filled—Marcus could hear the teaching from outside, Jesus's voice carrying through the winter air with the cadence he'd learned to recognize as dual-layer encoding.
 
 Marcus found a space near the entrance, standing with others who'd arrived too late for seats, and listened.
 
-The parable was the Laborers in the Vineyard—the story of workers hired at different hours receiving equal payment, the ones who'd worked all day complaining about the ones who'd worked only one hour getting the same wage.
-
-Surface layer: God's grace extended equally to all, regardless of when they arrive.
-
-Encoded layer: Systems resilience through late intervention. Networks survive by integrating new members even at crisis points. Equal treatment prevents internal hierarchy that creates vulnerability. Distribution of critical knowledge to recent recruits ensures preservation even if founding members are eliminated.
-
-Marcus recognized it now. Would have missed it entirely six years ago.
+The parable was the Laborers in the Vineyard—workers hired at different hours receiving equal payment. Marcus heard both layers now. Would have missed the deeper one entirely six years ago.
 
 The teaching ended with sunset, Sabbath officially beginning. The crowd dispersed slowly, people lingering to talk with Jesus, ask questions, request blessings or healings or interpretations.
 
@@ -578,121 +538,37 @@ The upper room was crowded. The Twelve disciples, Mary and the three women with 
 
 Twenty people. The core network. The ones who would carry knowledge forward after Passover 33 CE.
 
-Marcus stood, military briefing posture despite civilian clothes. "Official Roman policy, delivered by Prefect Pilate's deputy: Jesus of Nazareth to be arrested and executed during Passover 33 CE. Approximately twelve to fifteen months from current date. Coordination among three factions—Rome seeking stability, Temple authorities alleging blasphemy, Zealots planning revolt and wanting Jesus as figurehead."
+Marcus delivered the intelligence. Official Roman policy. Passover 33 CE. Arrest and execution. Three factions coordinating.
 
-Silence.
+Peter's jaw set. "We'll protect you."
 
-Then Peter: "We'll protect you. They won't take you easily."
+"No." Jesus's voice was gentle but absolute. "Let them arrest me. Let them execute me."
 
-"No," Jesus said quietly.
+"That's surrender," Judas said.
 
-"We have swords," Peter insisted. "The Zealots have weapons. We can—"
+"It's strategy." Jesus looked around the room. "We have twelve months. Here's what needs to happen."
 
-"No." Jesus's voice was gentle but absolute. "Violence accelerates the collapse without achieving anything. Let them arrest me. Let them execute me. That's the plan."
+He assigned roles with the calm of someone who'd rehearsed this in blood memory for years. Mary: teaching circles in Damascus, Antioch, Alexandria — geographic redundancy. Simon: protection protocols for the carriers who'd be targeted after execution. Marcus: distributed documentation, multiple independent accounts, contradicting the official narrative Rome would create. The Pattern Eye: secured outside Judea before the execution made moving artifacts dangerous.
 
-"That's surrender," Judas said, his frustration visible.
+"After I'm executed, you scatter," Jesus told the Twelve. "Don't stay in Jerusalem. Carry the teaching to new communities. Survive if you can. Die if you must. Prioritize preservation either way."
 
-"That's strategy." Jesus looked around the room, meeting each person's eyes. "Martyrdom encodes the teaching more deeply than peaceful transmission. Persecution validates its threat to power. My death triggers diaspora scattering—you'll spread across the empire to avoid arrest, carrying the knowledge with you. Distribution through necessity. Network preservation through forced dispersion."
+Judas looked up from his tablet. "This still feels like planning failure."
 
-"You're asking us to watch you die," Thomas said quietly.
+"If I survive, the teaching stays localized in Galilee," Jesus said quietly. "If I die, it spreads across the empire within one generation. That's not failure. That's distribution through necessity."
 
-"I'm asking you to witness me dying. There's a difference. Watching is passive—shock, grief, helplessness. Witnessing is active documentation. Recording what happens, why it happens, who orders it and who executes it and what they say to justify it."
+The room was silent.
 
-Jesus moved to the center of the room. "We have twelve months. Maybe less if the Zealots force acceleration. Here's what needs to happen before Passover."
+"I'm going to die," Jesus said. "That's certain. But the teaching will survive. Make sure you survive to carry it."
 
-He looked at Mary. "Teaching circles distributed to at least eight cities beyond Galilee. Damascus, Antioch, Alexandria if possible. Multiple locations, multiple carriers, geographic redundancy. If they destroy the Galilee network, the teaching survives elsewhere."
-
-Mary nodded. "I'll coordinate with Leah, Rachel, and Abigail. We can establish circles in four cities by Passover."
-
-"Good." Jesus turned to Simon. "Defensive network protection protocols for Mary, Sarah, and the Protocol carriers. They'll be targeted after my execution—offensive forces always try to eliminate the strongest carriers. Safe houses, escape routes, identity concealment if necessary."
-
-Simon pulled out a tablet, made notes. "I'll coordinate with network elders. We've maintained protection protocols for three thousand years. We know how to hide carriers from persecution."
-
-"The Pattern Eye," Jesus continued. "Needs to be secured in a location that will survive the 70 CE destruction. Jerusalem will be razed—Qumran, Masada, anywhere in Judea is vulnerable. Egypt, Syria, somewhere outside Roman Judea."
-
-"I can arrange transport to Alexandria," one of the defensive elders said. "Network safe house, documented location for future recovery."
-
-Jesus nodded. "Do it before Passover. After I'm executed, moving artifacts becomes dangerous."
-
-He looked at Marcus. "Documentation. Multiple independent accounts written by different witnesses. Gospels, testimony, letters. Redundancy ensures at least some survive persecution. You coordinate that—your military training and civilian status make you ideal for managing distributed documentation."
-
-Marcus said, "I'll recruit writers from the disciples. Multiple perspectives, multiple copies, geographic distribution."
-
-"And your own testimony," Jesus added. "Roman centurion, five years observation, documentation of peaceful teaching. That testimony contradicts the official narrative Rome will create. Make sure it survives."
-
-"Multiple copies," Marcus confirmed. "Distributed locations."
-
-Jesus turned to the Twelve. "After my execution, you scatter. Don't stay in Jerusalem—they'll arrest anyone closely associated with me. Damascus, Antioch, Rome itself if you can manage it. Carry the teaching to new communities. Encode it in local contexts. Make it survive through adaptation, not rigid preservation."
-
-"And if we're arrested?" Peter asked.
-
-"Then you're arrested," Jesus said simply. "Some of you will be martyred. That's part of the strategy—multiple martyrdoms encode the knowledge more deeply than single execution. But don't seek martyrdom. That's wasteful. Survive if you can. Die if you must. Prioritize teaching preservation either way."
-
-The room was silent except for the sound of styluses on tablets as people took notes.
-
-Judas looked up from his tablet. "This still feels like surrender. Like we're planning failure instead of preventing it."
-
-Jesus sat down, and Mary recognized the patient expression he got when explaining difficult concepts. "Judas, what destroys defensive knowledge?"
-
-"Offensive force. Persecution. Execution of carriers."
-
-"No. What destroys it is *successful* elimination. Killing all carriers, burning all documentation, erasing all memory. That's what the Thirty-Fourth Dynasty tried with Nefertari. That's what Rome will try with me. That's what offensive forces have tried for three thousand years."
-
-Jesus leaned forward. "But they never succeed. Because the attempt to destroy validates the knowledge's importance. Proves it's threatening enough to kill for. That validation motivates survivors to preserve it. And persecution forces distribution—you scatter to survive, carrying knowledge to new locations. Geographic spread through necessity."
-
-"So your death *helps* the teaching spread?" Judas asked skeptically.
-
-"My death triggers the mechanisms that make it spread," Jesus corrected. "Martyrdom encoding, persecution validation, diaspora distribution. All three require offensive force attempting destruction. If I survive, the teaching remains localized in Galilee. If I die, it spreads across the empire within one generation."
-
-He looked around the room. "That's why this isn't surrender. It's the most effective strategy for knowledge preservation we have. Proven by three thousand years of defensive survival. I'm not failing—I'm implementing exactly what Nefertari implemented, what forty-one generations before me implemented. Strategic martyrdom that defeats offensive elimination through the attempt itself."
-
-Mary watched understanding spread through the group. Not acceptance—understanding. The emotional resistance remained, the grief and fear and desire to prevent Jesus's death. But the intellectual recognition that martyrdom was strategic, not tragic.
-
-Defensive mode thinking. Long timeline. Multi-generational perspective.
-
-Jesus stood. "Twelve months. We have work to do. Mary coordinates teaching distribution. Simon coordinates protection protocols. Marcus coordinates documentation. The rest of you—learn the dual-layer encoding deeply enough to teach it independently. Because after Passover 33 CE, you'll be the ones carrying it forward."
-
-He looked at each of them again. "I'm going to die. That's certain. But the teaching will survive. That's also certain. Make sure you survive to carry it. That's all that matters."
-
-The meeting dispersed slowly, people moving to smaller groups to coordinate specific tasks. Mary found herself beside Marcus, both of them watching Jesus talk with Peter and John.
+The meeting dispersed. Mary found herself beside Marcus, both watching Jesus talk with Peter.
 
 "He's very calm," Marcus observed.
 
-"He's been preparing for this his entire life," Mary replied. "Blood memory showed him the martyrdom strategy years ago. This is just execution of a plan he's already accepted."
+"He's been preparing his entire life." Mary was quiet a moment. "I'm not calm. I'm terrified. But I'm doing it anyway."
 
-"And you?"
+"It's harder than fighting," Marcus said.
 
-Mary was quiet for a moment. "I'm not calm. I'm terrified. But I'm doing it anyway. Because someone has to carry the teaching after he's gone, and I'm the one equipped for it."
-
-Marcus nodded. "Documentation and leadership. Both of us witnessing, neither of us intervening."
-
-"It's harder than fighting," Mary said.
-
-"Yes," Marcus agreed. "But it's what matters."
-
-They stood together in Lazarus's upper room while the network coordinated final preparations—teaching distribution, protection protocols, documentation strategy, geographic dispersion.
-
-Twelve months until Passover 33 CE.
-
-Twelve months to prepare for martyrdom they couldn't prevent and survival they could only ensure through strategic planning.
-
-The machinery was in motion. Rome, Temple, Zealots—all coordinating elimination. Defensive network coordinating preservation.
-
-Offensive force versus defensive knowledge.
-
-The same conflict that had played out for three thousand years.
-
-And in twelve months, they'd prove again what Nefertari had proved twelve hundred years ago:
-
-Attempts to destroy only make the knowledge spread.
-
-Persecution validates importance.
-
-Martyrdom encodes deeper than life.
-
-The teaching would survive.
-
-Even if none of them did.
+"Yes. But it's what matters."
 
 ---
 
