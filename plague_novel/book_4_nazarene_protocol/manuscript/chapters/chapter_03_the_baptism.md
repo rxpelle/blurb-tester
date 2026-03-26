@@ -54,7 +54,7 @@ John saw what he'd expected — the intensity, the focus, the way Jesus seemed t
 
 They sat on sun-warmed stone overlooking the Jordan. Below, the river moved in its ancient pattern — same water that had flowed during every catastrophe the bloodline remembered.
 
-"You're here for baptism," John said. Not a question.
+"You're here for baptism," John said. Flat. The way prophets state what they already know.
 
 "I've been teaching in Galilee for two years. Large crowds. But I need formal connection to the Judean families you represent."
 

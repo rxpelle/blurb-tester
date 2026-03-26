@@ -20,7 +20,7 @@ The blood memory had been relentless since the baptism. Not fragmentary anymore.
 
 And overlaying that ancient collapse: the present one. Rome and the Temple and the Zealots pulling Judea toward inevitable violence. Same pattern, different era. Twenty years until Jerusalem burned, maybe thirty. Not long enough to prevent it. Only time enough to encode the teaching deeply enough that the diaspora would carry it forward.
 
-Simon's house appeared ahead—familiar courtyard, fishing nets drying, smoke rising from the morning fire. Jesus had sent word a week ago: *I'm coming back. Gather the Twelve. We begin systematic training.*
+Simon's house appeared ahead—familiar courtyard, fishing nets drying, smoke rising from the morning fire. Jesus had sent word a week ago: *I'm coming back. Gather the Twelve. We begin formal training.*
 
 The real work started now.
 
@@ -182,7 +182,7 @@ The work continued.
 
 ## SCENE 3: First Training
 
-That evening, the Twelve gathered in Simon's house. No crowds. No dual-layer encoding. Just the hard material.
+That evening, the Twelve gathered in Simon's house. No crowds. No layered encoding. Just the hard material.
 
 Mary sat in the corner with Sarah sleeping on her lap.
 
@@ -280,15 +280,13 @@ Mary held Sarah in her lap, the child's head against her shoulder. "I thought I 
 
 "Next month. After the Galilee circuit. You'll watch me teach in different contexts first — small groups, large crowds, one-on-one. Then you begin building your own network."
 
-Mary was quiet for a moment. Then: "Thank you. For explanation instead of exorcism. For purpose instead of madness."
+Mary let the words land. "Thank you. For explanation instead of exorcism. For purpose instead of madness."
 
 "Thank you for staying," Jesus said. "For being willing to become what the teaching needs."
 
 He left. Mary sat in the quiet house, holding her sleeping daughter.
 
 Tomorrow she'd continue training. But tonight she was just grateful. For a community that saw what she carried and called it *gift* instead of *demon*. For the knowledge that Sarah would grow up understanding what she was, rather than being destroyed by it.
-
-That was enough.
 
 ---
 

@@ -12,7 +12,7 @@
 
 Mary woke before dawn without screaming.
 
-Two years of training. Two years of grounding exercises, pattern recognition practice, systems thinking instruction. Two years since that first Sermon on the Mount when she'd heard both layers of Jesus's teaching simultaneously—spiritual practice and defensive architecture woven into the same words.
+Two years of training. Two years of grounding exercises, pattern recognition practice, systems thinking instruction. Two years since that first Sermon on the Mount when she'd heard both layers of Jesus's teaching at once—spiritual practice and defensive architecture woven into the same words.
 
 The visions still came. Pi-Ramesses burning. Babylon falling. Bronze Age Collapse cascading through twelve centuries of inherited memory. But now she could observe them without drowning. Name five things present. Sarah breathing in the next sleeping mat. Morning light through shutters. Lake smell through the window. Her own heartbeat. The sensation of wool blanket against her skin.
 
@@ -38,7 +38,7 @@ Distribution. Not perfection. Just enough knowledge scattered widely enough that
 
 "Mary?"
 
-She turned. Jesus stood in the doorway of the house he now shared with Peter's family when he wasn't traveling. Two years of systematic teaching had weathered him. He looked older than thirty-six. The blood memory was relentless—full immersion visions every night, showing him collapse patterns across all forty-two generations. Showing him Jerusalem burning in exactly forty years. Showing him his own death coming in approximately three years.
+She turned. Jesus stood in the doorway of the house he now shared with Peter's family when he wasn't traveling. Two years of steady teaching had weathered him. He looked older than thirty-six. The blood memory was relentless—full immersion visions every night, showing him collapse patterns across all forty-two generations. Showing him Jerusalem burning in exactly forty years. Showing him his own death coming in approximately three years.
 
 He knew the timeline now. Accepted it. Prepared for it.
 
@@ -110,7 +110,7 @@ Mary forced herself to ground. The scroll on the table. Matthias watching. Jesus
 
 "I can hold both," she whispered. "Past and present. Memory and analysis. This is what you meant by 'seeing the whole Pattern.'"
 
-"Yes." Jesus's voice held something like awe. "It took me until baptism to achieve this level of control. You've reached it through systematic training. That's—" He stopped, smiled. "That's exactly what Nefertari designed. Bloodline inheritance plus network training equals faster carrier activation."
+"Yes." Jesus's voice held something like awe. "It took me until baptism to achieve this level of control. You've reached it through deliberate training. That's—" He stopped, smiled. "That's exactly what Nefertari designed. Bloodline inheritance plus network training equals faster carrier activation."
 
 Matthias unrolled the second scroll. "This one describes the seven keys. Their functions, how they work together. It confirms what we suspected—the Pattern Eye amplifies blood memory, makes this kind of controlled access easier. The Memory Bridge connects carriers across distance, allows shared vision experiences. The Distribution Network fragments preserve knowledge redundantly."
 
@@ -150,7 +150,7 @@ Jesus sat down slowly. For a moment he looked exhausted. Then he straightened. "
 
 Mary focused on the final symbol cluster: "'Forty years after Primary's death, Jerusalem burns. Temple destroyed. Population scattered across the Empire. Branch 3 protects Generation 43 during diaspora, carries them west to Gaul where network fragments persist. Generation 43 through 112 inherit combined memory—Primary's martyrdom and Branch 3's systematic teaching. The knowledge multiplies across seventy generations. Generation 112 assembles all seven keys, activates complete defensive Protocol, prevents collapse instead of surviving it.'"
 
-Silence in the scriptorium. Just three people and twelve-hundred-year-old texts describing events that hadn't happened yet but would happen exactly as predicted because the pattern was already locked.
+Silence in the scriptorium. Just three people and twelve-hundred-year-old texts describing events that hadn't happened yet but would happen as predicted because the pattern was already locked.
 
 "Seventy generations," Matthias said, voice hushed. "From you to Sarah Chen. That's the time horizon. The full arc of defensive mode implementation."
 
@@ -198,7 +198,7 @@ She wasn't just learning anymore. She was becoming what Jesus had been training 
 
 That night they camped in the wilderness. Peter and John slept near the fire. Jesus and Mary sat apart, looking at stars.
 
-"How do I keep teaching when you're dead?" Mary asked. "When everything falls apart exactly as predicted?"
+"How do I keep teaching when you're dead?" Mary asked. "When everything falls apart as predicted?"
 
 Jesus was quiet for a long time. "You shift the time horizon. The purpose isn't stopping this catastrophe. It's equipping descendants to stop the next one."
 
@@ -230,7 +230,7 @@ She watched their faces shift — eyes moving beneath closed lids, some flinchin
 
 "Now ground. Five things present. Don't push the vision away. Just anchor yourself in *now* while you're experiencing *then*."
 
-Most struggled. Three held it — strong carriers, Branch bloodlines like Mary, maintaining both states simultaneously.
+Most struggled. Three held it — strong carriers, Branch bloodlines like Mary, maintaining both states at once.
 
 Sarah sat in the front row, age five, watching with the intense focus that marked her inheritance. "Mama sees the teaching lady," she told Rachel, the widow from Bethsaida, with the matter-of-fact confidence of a child who'd never been told the visions were wrong. "The old one from the burning city. I see her too sometimes."
 
@@ -276,9 +276,9 @@ She handed it to him. His eyes unfocused immediately — blood memory flooding i
 
 "I can hold it for five minutes now." Mary picked the disc up. Her vision doubled instantly — generations of inherited memory overlaying the present, clear and stable. "This is how Nefertari trained the first carriers. Not words. Direct transmission."
 
-Jesus looked at her. At the disc. At the hillside where sixty women were learning to hold past and present simultaneously. At everything they'd built in two years.
+Jesus looked at her. At the disc. At the hillside where sixty women were learning to hold past and present at once. At everything they'd built in two years.
 
-"You've built what I couldn't," he said. "The systematic training structure. The accelerated activation. I gave you the foundation. You built the architecture."
+"You've built what I couldn't," he said. "The training structure. The accelerated activation. I gave you the foundation. You built the architecture."
 
 "That's partnership. You encode through teaching and what comes after. I preserve through training and distribution. Different work. Equal weight."
 

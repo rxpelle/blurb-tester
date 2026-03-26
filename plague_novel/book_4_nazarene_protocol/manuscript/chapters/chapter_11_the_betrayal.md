@@ -34,7 +34,7 @@ Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full c
 
 They did.
 
-Marcus could see the defensive network guards scattered through the crowd. Simon coordinating from the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking to specific men Marcus recognized from network meetings. The extraction team, though they didn't call it that. They thought they were preparing a rescue.
+Marcus could see the defensive network guards scattered through the crowd. Simon coordinating from the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking to specific men Marcus knew from network meetings. The extraction team, though they didn't call it that. They thought they were preparing a rescue.
 
 They were preparing to fail.
 
@@ -78,7 +78,7 @@ Fifteen thousand faces watched. Most hearing a story about unfair sharecroppers.
 
 *You have beaten every carrier we sent.*
 
-Mary understood. He could see her at the crowd's edge, Sarah beside her, both listening with the dual awareness that came from Protocol access. Mary's face showed what his didn't—the grief of knowing exactly what happened next.
+Mary understood. He could see her at the crowd's edge, Sarah beside her, both listening with the dual awareness that came from Protocol access. Mary's face showed what his didn't—the grief of knowing what came next.
 
 He loved her for carrying that weight so he didn't have to.
 
@@ -132,7 +132,7 @@ The encoded message complete. The martyrdom made explicit. The son killed by ten
 
 Mary. Sarah. Generation forty-three and beyond.
 
-The knowledge would scatter. The network would survive. The offensive forces would spend forty years thinking they'd won while defensive mode reconstructed itself in diaspora exactly as designed.
+The knowledge would scatter. The network would survive. The offensive forces would spend forty years thinking they'd won while defensive mode reconstructed itself in diaspora just as designed.
 
 One carrier's death to ensure a thousand carriers' distribution.
 
@@ -156,7 +156,7 @@ Sarah waved, a tiny gesture from a seven-year-old who was learning that love som
 
 Jesus waved back.
 
-Then turned toward the upper room where Judas was preparing an extraction that would fail exactly as predicted.
+Then turned toward the upper room where Judas was preparing an extraction that would fail just as he'd foreseen.
 
 ---
 
@@ -264,7 +264,7 @@ Jesus broke bread with hands that would be nailed to wood tomorrow. Symbolic enc
 
 "Take, eat," he said, passing the bread. "This is my body, given for you. Do this in remembrance."
 
-Peter took the bread, confused. They were all confused. Three weeks of intensive teaching and they still thought metaphorically when he spoke systematically.
+Peter took the bread, confused. They were all confused. Three weeks of intensive teaching and they still thought metaphorically when he spoke literally.
 
 Except Mary.
 
@@ -310,7 +310,7 @@ Judas left. The disciples assumed he was handling meal preparations or alms dist
 
 Peter moved closer after Judas departed. "Lord, where are you going?"
 
-"Where I am going, you cannot follow now," Jesus said. True literally—Peter couldn't follow him into execution. True systematically—Peter didn't have the pattern recognition yet to understand martyrdom strategy. "But you will follow afterward."
+"Where I am going, you cannot follow now," Jesus said. True literally—Peter couldn't follow him into execution. True practically—Peter didn't have the pattern recognition yet to understand martyrdom strategy. "But you will follow afterward."
 
 When persecution scattered the network forty years from now. When defensive knowledge required geographic distribution. When Peter himself would be executed in Rome for teaching what he was only beginning to grasp tonight.
 
@@ -424,11 +424,11 @@ And he had just learned through catastrophic failure.
 
 Marcus documented everything from his position forty paces away. The kiss signal. The extra guards Judas hadn't expected. Peter's panicked violence. Jesus healing the guard's ear even during arrest.
 
-The extraction attempt failing exactly as Jesus had predicted three weeks ago.
+The extraction attempt failing just as Jesus had warned three weeks ago.
 
 "Those who live by the sword die by the sword." Jesus's voice carried across the chaos. Teaching. Always teaching. Even now.
 
-The disciples scattered. Peter first, dropping his sword and running. Then Andrew, James, John. Thomas already gone. The twelve dispersing in panic exactly as Jesus had told them they would.
+The disciples scattered. Peter first, dropping his sword and running. Then Andrew, James, John. Thomas already gone. The twelve dispersing in panic just as Jesus had told them they would.
 
 Defensive network extraction team melted into the crowd, recognizing mission failure. No point staying to be arrested themselves. Better to regroup. Better to execute the scatter protocol and preserve knowledge rather than sacrifice operatives pointlessly.
 
@@ -458,7 +458,7 @@ Result: arrested, bound, being led to execution.
 
 Total failure of primary objective.
 
-Marcus recognized that expression. He'd worn it himself three weeks ago when he'd offered Jesus multiple extraction opportunities and been refused every time.
+Marcus knew that look. He'd worn it himself three weeks ago when he'd offered Jesus multiple extraction opportunities and been refused every time.
 
 You couldn't save someone who chose martyrdom.
 
@@ -552,7 +552,7 @@ She went anyway.
 
 Leah emerged from an alley, two other women with her. Defensive network guards who would escort them to Damascus. "Mary. Sarah. This way."
 
-They followed. Running again. But controlled now. Purposeful. The scatter protocol executing exactly as designed.
+They followed. Running again. But controlled now. Purposeful. The scatter protocol executing as designed.
 
 Sarah looked back once, toward where the arrest had happened. "Will we see him again?"
 

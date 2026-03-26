@@ -94,7 +94,7 @@ Jesus said nothing.
 
 Simon looked at him.
 
-"I don't," Jesus said. "I know what I carry. Two people loved each other and it went so deep it outlived them. Forty-two generations passed it hand to hand, and each one added something: their own grief, their own tenderness, their own reaching in the dark." He pulled his feet from the water. "But I don't know what it *is*, Simon. I've tried to understand it the way you understand wood, grain and joints and stress lines. But it's not like that. It's more like —" He stopped. Pressed his palm against the warm stone. "You know how a well works? Rain falls on the hills. Seeps through rock. Takes years. Decades. And then one day you lower a bucket and there's water that fell before your grandfather was born." He was quiet for a moment. "I think that's what happened today. The well overflowed."
+"I don't," Jesus said. "I know what I carry. Two people loved each other and it went so deep it outlived them. Forty-two generations passed it hand to hand, and each one added something: their own grief, their own tenderness, their own reaching in the dark." He pulled his feet from the water. "But I don't know what it *is*, Simon. I've tried to understand it the way you understand wood, grain and joints and stress lines. But it's not like that. It's more like —" He stopped. Pressed his palm against the warm stone. "You know how a well works? Rain falls on the hills. Seeps through rock. Takes years. Decades. And then one day you lower a bucket and there's water that fell before your grandfather was born." He let the image settle. "I think that's what happened today. The well overflowed."
 
 "Something else."
 

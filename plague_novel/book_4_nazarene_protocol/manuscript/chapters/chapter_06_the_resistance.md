@@ -102,7 +102,7 @@ But Jesus never stopped at the surface layer.
 
 Marcus glanced around the crowd. Most faces showed basic comprehension. But a few—Mary, several of the twelve, maybe six or seven others—had sharper expressions. They were hearing both layers.
 
-"Teacher," someone called from the crowd. Marcus recognized him—one of the Pharisees who'd been monitoring Jesus for the Temple authorities. "You teach in parables. Why not speak directly? Why hide your meaning?"
+"Teacher," someone called from the crowd. Marcus knew him—one of the Pharisees who'd been monitoring Jesus for the Temple authorities. "You teach in parables. Why not speak directly? Why hide your meaning?"
 
 Jesus smiled slightly. "To those who see, more will be revealed. To those who don't, even what they think they understand will be taken away. I speak in parables so the teaching can survive even when people forget what it means."
 
@@ -124,7 +124,7 @@ Five years of this. It was exhausting.
 
 Marcus was preparing to leave when the disruption started.
 
-Three men pushed through the crowd toward Jesus. Marcus recognized the body language immediately—aggressive confidence, the kind that came from believing you had righteous cause on your side. Zealots. Young, probably early twenties. True believers in armed resistance to Roman occupation.
+Three men pushed through the crowd toward Jesus. Marcus read the body language immediately—aggressive confidence, the kind that came from believing you had righteous cause on your side. Zealots. Young, probably early twenties. True believers in armed resistance to Roman occupation.
 
 "Teacher," the first one said, loud enough for the whole crowd to hear. "We've listened to your words for months. You speak about a coming Kingdom. You say the current systems are corrupt and will fall. You gather thousands." He gestured at the crowd. "The people are ready. When will you lead us against Rome?"
 
@@ -260,7 +260,7 @@ Simon set down the nets. "What did they offer?"
 
 "Recruit him or kill him. The recruitment's theater — they know he'll refuse. Real objective is elimination. They plan to discredit him first. Make the death look criminal. Break the martyrdom effect."
 
-Simon was quiet for a long moment. "Can they do that?"
+Simon said nothing for a long time. "Can they do that?"
 
 "I don't know. But they've thought about it longer than we have."
 
@@ -308,7 +308,7 @@ It felt like the first honest decision he'd made in decades.
 
 Marcus returned to Jerusalem three days later and submitted his resignation to Tribune Lucullus.
 
-"You're refusing the assignment," Lucullus said. Not a question.
+"You're refusing the assignment," Lucullus said. He'd already read it in Marcus's face.
 
 "I'm requesting discharge. Seven years early. Forfeit pension. On personal grounds."
 
@@ -332,7 +332,7 @@ Marcus said nothing.
 
 "So what are your orders, sir?"
 
-"Discharge. Immediate. No pension." Lucullus was quiet for a moment, then spoke more carefully. "Off the record, Scipio — twenty-eight years in intelligence. I know what collapse looks like before it arrives. Rome is strong now, but the patterns are there." He met Marcus's eyes. "I can't help him. But I won't stop you from trying."
+"Discharge. Immediate. No pension." Lucullus paused, then spoke more carefully. "Off the record, Scipio — twenty-eight years in intelligence. I know what collapse looks like before it arrives. Rome is strong now, but the patterns are there." He met Marcus's eyes. "I can't help him. But I won't stop you from trying."
 
 Marcus felt his breath catch.
 
@@ -352,7 +352,7 @@ Jesus was teaching about signs. The fig tree parable — when the branch puts ou
 
 Marcus had heard the content before. What struck him now wasn't the teaching — it was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left. They'd moved past denial. Past bargaining. They were planning.
 
-After the teaching ended, Marcus approached. "You resigned," Jesus said. Not a question.
+After the teaching ended, Marcus approached. "You resigned," Jesus said — the way he said everything, like he'd known before Marcus arrived.
 
 "This morning."
 

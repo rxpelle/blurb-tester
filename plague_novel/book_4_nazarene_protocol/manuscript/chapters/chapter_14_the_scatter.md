@@ -24,7 +24,7 @@ Simon forced himself to stop cycling through interpretations. Mary Magdalene had
 
 "Feed my sheep," Jesus said.
 
-Encoded instruction. Simon heard both layers simultaneously:
+Encoded instruction. Simon heard both layers at once:
 
 *Theological:* Care for believers, establish community, spread faith.
 
@@ -36,7 +36,7 @@ Both true. Both necessary.
 
 "But you're afraid," Jesus finished. Physical presence settled onto a rock beside Simon's nets. "Afraid the teaching dies when I'm gone. Afraid resurrection was just body relocation and theological mythology. Afraid you don't understand enough to preserve it."
 
-Simon nodded. Forty-one years old. Fisherman. Network elder. Carrier of fragmented bloodline. He'd spent three years learning from Jesus, watching systems thinking encoded as spiritual wisdom, recognizing pattern intelligence in parables. But understanding *about* something wasn't the same as understanding *how to continue* it.
+Simon nodded. Forty-one years old. Fisherman. Network elder. Carrier of fragmented bloodline. He'd spent three years learning from Jesus, watching systems thinking disguised as spiritual wisdom, recognizing pattern intelligence in parables. But understanding *about* something wasn't the same as understanding *how to continue* it.
 
 "You know more than you realize," Jesus said. "The Twelve, the women's network, Marcus's documentation, Mary's Gospel—multiple redundancies. Knowledge distributed so widely that no single suppression attempt can destroy it."
 
@@ -60,7 +60,7 @@ The sun rose fully. Galilee's waters reflected gold and pink. Simon had fished t
 
 Simon looked up. "What?"
 
-"Thirty-eight years from now. 70 CE. Jerusalem burns. Temple destroyed. Diaspora triggered exactly as planned. The pattern I showed you with the Pattern Eye—it's already in motion. We're just playing our parts."
+"Thirty-eight years from now. 70 CE. Jerusalem burns. Temple destroyed. Diaspora triggered as planned. The pattern I showed you with the Pattern Eye—it's already in motion. We're just playing our parts."
 
 "Can we change it? Stop the destruction?"
 
@@ -212,7 +212,7 @@ He reached toward the hand wound. Fingers extending. Inches away from contact th
 
 Stopped.
 
-Realized something deeper: Touching wouldn't answer the question. Verification wouldn't resolve doubt. Physical evidence wouldn't prove resurrection *type* because resurrection might be multiple phenomena simultaneously.
+Realized something deeper: Touching wouldn't answer the question. Verification wouldn't resolve doubt. Physical evidence wouldn't prove resurrection *type* because resurrection might be multiple phenomena at once.
 
 If he touched and felt solid flesh—proved nothing. Network operative could provide that.
 
@@ -228,7 +228,7 @@ Not because he'd verified physically—he hadn't touched. Not because he'd resol
 
 Defensive mode teaching required holding contradiction: Physical AND spiritual. Literal AND methodological. Verification AND faith. Both/and rather than either/or.
 
-Jesus smiled. The expression so familiar it hurt. Three years of that exact smile during teaching sessions when disciples finally grasped dual-layer encoding.
+Jesus smiled. The expression so familiar it hurt. Three years of that exact smile during teaching sessions when disciples finally grasped the layered teaching.
 
 "Because you have seen me, you have believed. Blessed are those who have not seen and yet have believed."
 
@@ -246,7 +246,7 @@ Thomas turned to Peter after Jesus disappeared. "I still don't know if that was 
 
 "Intellectually? Yes. Practically?" Thomas considered. "No. Because whether Jesus's body literally returned from death or network coordination creates these appearances or blood memory manifests collective vision—the teaching continues. We're practicing it. Communities are forming. Knowledge is spreading. That's resurrection regardless of mechanism."
 
-Mary Magdalene nodded. "You just understood what took me four weeks. The resurrection question isn't 'what happened to Jesus's body.' It's 'does the teaching survive his death.' And the answer—" She gestured around the upper room. Twelve disciples. Women's network. Defensive elders. All gathering, coordinating, practicing systems thinking encoded as spiritual community. "—is obviously yes."
+Mary Magdalene nodded. "You just understood what took me four weeks. The resurrection question isn't 'what happened to Jesus's body.' It's 'does the teaching survive his death.' And the answer—" She gestured around the upper room. Twelve disciples. Women's network. Defensive elders. All gathering, coordinating, practicing systems thinking practiced as spiritual community. "—is obviously yes."
 
 Thomas smiled slightly. Skeptic's smile. "So Paul's promising gentiles literal physical resurrection, we're preserving methodological teaching resurrection, and both serve the same distribution goal."
 
@@ -272,9 +272,7 @@ That was defensive mode's sophistication: Making intellectual uncertainty compat
 
 Thomas would carry that insight to India. Spread Christianity east while acknowledging ambiguity west couldn't tolerate. Die there eventually—martyred for teaching he'd never fully verified but practiced anyway.
 
-That was enough.
-
-That was preservation through complexity rather than simplification.
+Preservation through complexity rather than simplification.
 
 That was how defensive knowledge survived theological institutions.
 
@@ -304,7 +302,7 @@ Decoded:
 
 Marcus wrote quickly. Multiple interpretations. Future Gospel accounts would record this moment theologically. His documentation preserved methodological layer.
 
-Mary Magdalene held Sarah's hand. Generation 43 witnessing Generation 42's final instructions. The teaching passing forward through genetic memory and community practice simultaneously.
+Mary Magdalene held Sarah's hand. Generation 43 witnessing Generation 42's final instructions. The teaching passing forward through genetic memory and community practice at once.
 
 Jesus lifted his hands in blessing. Began walking upward on the hillside, morning sun behind him, figure silhouetted against sky.
 
@@ -316,11 +314,11 @@ Some would recognize strategic exit, network operative departing after mission c
 
 Some would understand symbolic ascension—teaching elevated from individual carrier to community practice.
 
-All three interpretations spreading simultaneously. All three serving preservation.
+All three interpretations spreading at once.
 
 Mary Magdalene watched until the figure disappeared into distance and light and interpretation. Tears on her face. Not grief—she'd grieved during crucifixion. This was different. Completion. Recognition. Understanding.
 
-Jesus had done exactly what he planned. Martyrdom triggering diaspora. Resurrection validating teaching. Appearances demonstrating continuity. Ascension distributing knowledge beyond single leader.
+Jesus had done what he planned. Martyrdom triggering diaspora. Resurrection validating teaching. Appearances demonstrating continuity. Ascension distributing knowledge beyond single leader.
 
 Defensive mode operating perfectly across forty-two generations from Nefertari to this moment.
 
@@ -358,13 +356,11 @@ Mary Magdalene stood before them, Pattern Eye hidden in her robes, Sarah beside 
 
 "Jesus taught us systems thinking disguised as spiritual wisdom. Now we teach that same thinking disguised as religious practice. Some of you will spread it theologically—Peter, John, James. Some through direct practice—Thomas, Mary Magdalene, Matthias. Some infiltrate offensive networks to monitor—Judas's replacement. Some document—Marcus. All roles necessary."
 
-The sound began subtly. Rushing wind. But no wind outside. Psychological phenomenon? Mass hallucination? Blood memory activation spreading through multiple carriers simultaneously?
+The sound began subtly. Rushing wind. But no wind outside. Psychological phenomenon? Mass hallucination? Blood memory activation spreading through multiple carriers at once?
 
 Flames appeared above heads. Not burning, just—visible. Symbolic. Manifestation of knowledge transfer.
 
 Or: network coordination achieving critical mass, multiple carriers activating defensive access together, symbolic representation of distributed intelligence.
-
-Both interpretations valid.
 
 People began speaking. Different languages. Not miraculously learned, but—blood memory accessing past linguistic patterns. Genetic knowledge of ancestral tongues surfacing during high activation state.
 
@@ -390,8 +386,6 @@ Christianity emerging from Judaism's womb.
 Defensive mode embedding in theological framework.
 
 Offensive network positioning for infiltration.
-
-All three simultaneously true.
 
 ---
 
@@ -429,7 +423,7 @@ The child of Humanity exists *within* you. Not in a temple. Not in an institutio
 
 *"Go then, preach the good news about the kingdom. Do not lay down any rule beyond what I determined for you, nor promulgate law like the lawgiver, or else you might be dominated by it."*
 
-Do not lay down rules. Do not build institutions that dominate. Do not become the thing you were sent to resist. Mary could hear him saying it — the slight edge in his voice, the way he looked at Peter when he said *or else you might be dominated by it*, knowing already that Peter would build exactly the kind of structure Jesus warned against, because that's what Peter was, a builder, and builders build.
+Do not lay down rules. Do not build institutions that dominate. Do not become the thing you were sent to resist. Mary could hear him saying it — the slight edge in his voice, the way he looked at Peter when he said *or else you might be dominated by it*, knowing already that Peter would build precisely the kind of structure Jesus warned against, because that's what Peter was, a builder, and builders build.
 
 Then she wrote what happened after he left them. The part the other Gospels wouldn't record, because the other Gospels were being written by men who weren't there for this:
 
@@ -551,9 +545,9 @@ Silence.
 
 The sea. The wind. The smell of wild lavender from the hillside above the house. Gulls calling over Massalia's harbor. The ordinary sounds of the world continuing while something enormous passed between a mother and daughter in a garden in Gaul.
 
-"I stood at his death," Mary said quietly. "You'll stand at mine. That's the pattern. Not martyrdom — *witness*. Someone sees. Someone remembers. Someone carries the seeing forward so deeply that it becomes genetic. Your great-great-grandchildren will dream this garden. Will feel the lavender. Will know exactly how my hand felt in yours. And they'll carry that knowing forward even when every written record says I was nothing but a weeper and a whore. A merchant who funded the entire movement — reduced to a penitent. The first witness — reduced to a footnote."
+"I stood at his death," Mary said quietly. "You'll stand at mine. That's the pattern. Not martyrdom — *witness*. Someone sees. Someone remembers. Someone carries the seeing forward so deeply that it becomes genetic. Your great-great-grandchildren will dream this garden. Will feel the lavender. Will know how my hand felt in yours. And they'll carry that knowing forward even when every written record says I was nothing but a weeper and a whore. A merchant who funded the entire movement — reduced to a penitent. The first witness — reduced to a footnote."
 
-She was quiet for a moment.
+She said nothing.
 
 "He told me in the garden. After he said my name. After I said *Rabbouni*. He said: *Write your Gospel, because they will write theirs and slowly your voice will disappear from the story.* And I wrote it. Every teaching. The vision of the soul ascending past the Powers. The farewell — *the child of Humanity exists within you*. The truth about sin that Paul is already burying under blood sacrifice. And the thing that will get it suppressed more than anything else — the fact that when the disciples were weeping and couldn't move, I was the one who stood up. I was the one who turned their hearts toward the Good. I was the one who said: stop crying, he prepared us for this. The men's Gospels won't record that moment. Mine does. And it's already being pushed to the margins where only fragments will survive."
 
@@ -567,7 +561,7 @@ Mary smiled. The same smile she'd given Jesus in the garden when he told her to 
 
 She died on the third day. Whether the timing was deliberate or coincidental or patterned or all three simultaneously, Sarah didn't try to determine. It was the third day, and her mother died, and the warmth moved.
 
-Sarah felt it happen. Sitting beside the bed in the stone house, holding her mother's hand, watching the way the breathing changed — shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words. And then the warmth. Rising from Mary's body like heat from a stone at sunset. Not disappearing — *transferring*. Sarah felt it enter through her left side, beneath the ribs, exactly where it had always lived in her mother. The exact temperature. The exact pressure.
+Sarah felt it happen. Sitting beside the bed in the stone house, holding her mother's hand, watching the way the breathing changed — shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words. And then the warmth. Rising from Mary's body like heat from a stone at sunset. Not disappearing — *transferring*. Sarah felt it enter through her left side, beneath the ribs, precisely where it had always lived in her mother. The same temperature. The same pressure.
 
 Mary's eyes opened. Clear. Present. Looking at her daughter the way she had looked at Jesus in the garden — with the specific tenderness of someone who knows exactly what they are leaving behind and exactly who will carry it.
 
@@ -657,7 +651,7 @@ James, Jesus's brother, who'd watched Jesus grow up, who'd dismissed him as craz
 
 "Then we'll be three hundred years into geographic distribution. Too scattered to suppress completely. Blood memory carriers hidden within institutional Christianity. Pattern Eye passed forward through generations. Defensive mode surviving *because* it's embedded within corrupted institution rather than outside it."
 
-Peter nodded slowly. Terrible strategy. Strategic brilliance. Accepting corruption as preservation mechanism rather than fighting purity battle they'd lose.
+Peter absorbed this. Terrible strategy. Strategic brilliance. Accepting corruption as preservation mechanism rather than fighting purity battle they'd lose.
 
 Offensive network infiltration succeeding.
 
@@ -665,11 +659,7 @@ Defensive network accepting it as necessary cost.
 
 Knowledge surviving through adapting to corruption rather than preventing it.
 
-That was defensive mode operating at empire scale.
-
-Terrible. Strategic. Effective.
-
-Exactly what Jesus had modeled through choosing martyrdom over resistance.
+That was defensive mode operating at empire scale — what Jesus had modeled through choosing martyrdom over resistance.
 
 But Peter had not raised the thing that troubled him most. Not during the council. After, walking through Jerusalem's streets with James, he said it:
 
@@ -685,7 +675,7 @@ James didn't ask what he meant.
 
 James was quiet. He'd seen it in blood memory — the pattern of institutional erasure. Nefertari's name chiseled from temple walls. Tausret's reign excised from king-lists. Hatshepsut's monuments defaced. Every time a woman held authority within a system that later consolidated power, the consolidators erased her.
 
-"Mary's Gospel will be declared heretical," Peter continued. "Not because it's inaccurate — because it's *dangerous*. A woman who received direct teaching from the risen Jesus, who was sent before any of the Twelve, who wrote her own account — that's an authority claim that threatens every male hierarchy they're building. So they'll suppress the Gospel. Rewrite the witness. Turn the first apostle into a weeping penitent." He was quiet for a moment. "She recorded what I said to her, James. After the vision teaching. I said: *Did he really speak with a woman in private? Did he choose her over us?* She wrote that down. She put my worst moment in her Gospel — and she was right to. Because that question is exactly what the Church will keep asking for two thousand years to justify silencing every woman who claims authority. She preserved the argument so that future generations could see it for what it was."
+"Mary's Gospel will be declared heretical," Peter continued. "Not because it's inaccurate — because it's *dangerous*. A woman who received direct teaching from the risen Jesus, who was sent before any of the Twelve, who wrote her own account — that's an authority claim that threatens every male hierarchy they're building. So they'll suppress the Gospel. Rewrite the witness. Turn the first apostle into a weeping penitent." He stopped. "She recorded what I said to her, James. After the vision teaching. I said: *Did he really speak with a woman in private? Did he choose her over us?* She wrote that down. She put my worst moment in her Gospel — and she was right to. Because that question is what the Church will keep asking for two thousand years to justify silencing every woman who claims authority. She preserved the argument so that future generations could see it for what it was."
 
 "What was it?"
 
@@ -713,7 +703,7 @@ Both knowing that the women's witness — the most important testimony in Christ
 
 Rome was burning.
 
-Nero blamed Christians. Persecution beginning. Peter knew his timeline: Martyrdom under Nero, exactly as Jesus predicted thirty-one years ago on Galilee shore.
+Nero blamed Christians. Persecution beginning. Peter knew his timeline: Martyrdom under Nero, just as Jesus predicted thirty-one years ago on Galilee shore.
 
 He stood in prison cell, holding Pattern Eye one final time before Sarah arrived to claim it.
 
@@ -741,7 +731,7 @@ Guards entered. Taking Peter to martyrdom. Sarah escaping through arranged exit,
 
 Two days later, Peter died on inverted cross in Nero's circus.
 
-Martyrdom validating teaching, exactly as Jesus's crucifixion had.
+Martyrdom validating teaching, just as Jesus's crucifixion had.
 
 Knowledge continuing despite witness death.
 
@@ -783,7 +773,7 @@ And the Temple Mount. Centerpiece. God's house. Offensive network headquarters f
 
 Gone.
 
-She watched refugees streaming out of city through the few gates Romans had left open—controlled exodus, letting survivors scatter exactly as Jesus had predicted. Defensive network members she recognized mixed with ordinary families. Simeon's descendants. James's house church elders. Mary Magdalene's coordination network, still functioning despite her death twenty-eight years prior.
+She watched refugees streaming out of city through the few gates Romans had left open—controlled exodus, letting survivors scatter just as Jesus had predicted. Defensive network members she recognized mixed with ordinary families. Simeon's descendants. James's house church elders. Mary Magdalene's coordination network, still functioning despite her death twenty-eight years prior.
 
 All scattering west. Antioch, Ephesus, Corinth, Alexandria, Rome, Gaul, Britain. The same directions the knowledge had always traveled when cities burned.
 
@@ -849,7 +839,7 @@ Murmurs of agreement. The artifact had passed through Nefertari, Tausret, Moses,
 
 Sarah had thought about this. Deeply. The blood memory showed her the pattern forward more clearly than backward:
 
-Christianity would spread. Become dominant religion. Corrupt completely into institutional power structure—exactly what Jesus taught against. Crusades, inquisitions, empire-building, wealth-hoarding, persecution of alternatives. Every offensive network characteristic Jesus opposed, eventually embodied in churches claiming his authority.
+Christianity would spread. Become dominant religion. Corrupt completely into institutional power structure—the very thing Jesus taught against. Crusades, inquisitions, empire-building, wealth-hoarding, persecution of alternatives. Every offensive network characteristic Jesus opposed, eventually embodied in churches claiming his authority.
 
 Terrible. Inevitable. *Strategic*.
 
@@ -857,7 +847,7 @@ Because within that corrupted institutional Christianity, blood memory carriers 
 
 "Yes," Sarah answered. "Christianity will corrupt completely. And defensive mode will survive *because* it's hidden inside that corruption. If we'd stayed pure, we'd have been suppressed immediately. But embedded within Rome's official religion? Impossible to eliminate without destroying Christianity itself."
 
-Another elder: "So Jesus's sacrifice achieved exactly what he intended. Martyrdom triggering diaspora. Resurrection encoding the teaching. Christianity spreading defensively disguised as theological belief. Offensive network infiltrating but unable to suppress completely because they're spreading the very framework that preserves what they're trying to eliminate."
+Another elder: "So Jesus's sacrifice achieved what he intended. Martyrdom triggering diaspora. Resurrection encoding the teaching. Christianity spreading defensively disguised as theological belief. Offensive network infiltrating but unable to suppress completely because they're spreading the very framework that preserves what they're trying to eliminate."
 
 "Exactly. They win institutionally. We win methodologically. Both true. Both acceptable. Both serving long-term preservation."
 
@@ -891,7 +881,7 @@ Sarah smiled. "Ireland. Eventually Iceland. Maybe Greenland if northern expansio
 
 "Centuries. Possibly millennia. But emergence isn't the goal. Survival is. As long as knowledge preserves—however deeply buried, however thoroughly encoded—future carriers can extract when conditions allow."
 
-Rebecca touched the Pattern Eye carefully. Bronze meridians catching light. Twelve centuries of pattern recognition encoded in metal, accessible through genetic memory activation.
+Rebecca touched the Pattern Eye carefully. Bronze meridians catching light. Twelve centuries of pattern recognition etched into metal, accessible through genetic memory activation.
 
 "Will it be enough? Everything Jesus died for, Peter suffered for, you're carrying forward—will it work?"
 

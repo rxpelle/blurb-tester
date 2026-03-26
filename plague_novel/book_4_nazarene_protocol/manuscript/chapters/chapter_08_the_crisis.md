@@ -120,7 +120,7 @@ Marcus's chest constricted. Twelve months. He'd known it was coming—had known 
 
 "Deterrence," Severus corrected. "Martyrdom implies the cause survives. This execution is designed to eliminate the cause entirely. The network will scatter, the teaching will be discredited, the movement will collapse. Standard protocol for messianic agitators."
 
-Marcus thought of the twenty-three documentation tablets hidden beneath his floorboards. Thought of Mary and her eighty women trained in dual-layer encoding. Thought of the defensive network that had survived three thousand years specifically because offensive forces tried to destroy it.
+Marcus thought of the twenty-three documentation tablets hidden beneath his floorboards. Thought of Mary and her eighty women trained in layered encoding. Thought of the defensive network that had survived three thousand years specifically because offensive forces tried to destroy it.
 
 Standard protocol wouldn't work. But he couldn't say that.
 
@@ -128,7 +128,7 @@ Standard protocol wouldn't work. But he couldn't say that.
 
 "Because," Lucullus said, and there was something almost apologetic in his voice, "you're one of three people in Judea who've studied this man long enough to predict how the network will respond to his death. We need you to help us ensure the movement dies with him."
 
-They wanted him to betray the network. To use his knowledge of Jesus's teaching, his relationships with Simon and the defensive contacts, his understanding of the dual-layer encoding—to help Rome destroy exactly what he'd spent two months documenting for preservation.
+They wanted him to betray the network. To use his knowledge of Jesus's teaching, his relationships with Simon and the defensive contacts, his understanding of the layered teaching—to help Rome destroy exactly what he'd spent two months documenting for preservation.
 
 Marcus stood slowly. "I resigned."
 
@@ -222,7 +222,7 @@ Marcus considered. "If I testify, I'm marked as sympathizer. Arrested, probably 
 
 "I preserve the testimony for later. Record what happened without interference."
 
-Simon nodded slowly. "Jesus said you'd understand. That you'd choose witness over intervention."
+Simon nodded. "Jesus said you'd understand. That you'd choose witness over intervention."
 
 "When did he say that?"
 
@@ -276,7 +276,7 @@ Jesus would hate that last one. Had explicitly rejected messianic expectations, 
 
 Three more months and they'd try to force his hand. Make him choose between leading revolt or losing credibility. They didn't understand that Jesus had already made his choice—martyrdom, not leadership. Strategic death, not tactical survival.
 
-He reached Capernaum on the third day, approaching the town in late afternoon as the Sabbath began. The synagogue was filled—Marcus could hear the teaching from outside, Jesus's voice carrying through the winter air with the cadence he'd learned to recognize as dual-layer encoding.
+He reached Capernaum on the third day, approaching the town in late afternoon as the Sabbath began. The synagogue was filled—Marcus could hear the teaching from outside, Jesus's voice carrying through the winter air with the cadence he'd learned to recognize as layered teaching.
 
 Marcus found a space near the entrance, standing with others who'd arrived too late for seats, and listened.
 
@@ -288,7 +288,7 @@ Marcus waited at the edges, patient with the discipline of twenty-eight years ob
 
 Jesus saw him eventually. Their eyes met across the synagogue courtyard. Jesus said something to the disciples around him—Peter nodded, gathered the others—and Jesus walked to where Marcus stood.
 
-"You came from Jerusalem," Jesus said. Not a question.
+"You came from Jerusalem," Jesus said. A statement, reading Marcus the way he read everyone.
 
 "I have intelligence," Marcus replied. "We should speak privately."
 
@@ -316,7 +316,7 @@ Marcus stared at him. "You know."
 
 "That's insane."
 
-"It's strategy." Jesus stood, moved to the window overlooking Capernaum's darkening streets. "The teaching requires martyrdom to spread. Nefertari proved it twelve hundred years ago. The Thirty-Fourth Dynasty tried to eliminate her knowledge by executing her. And that execution encoded the teaching deeper than any peaceful transmission could have. Trauma embeds information in blood memory more effectively than instruction. Death validates importance more convincingly than life."
+"It's strategy." Jesus stood, moved to the window overlooking Capernaum's darkening streets. "The teaching requires martyrdom to spread. Nefertari proved it twelve hundred years ago. The Thirty-Fourth Dynasty tried to eliminate her knowledge by executing her. And that execution drove the teaching deeper than any peaceful transmission could have. Trauma embeds information in blood memory more effectively than instruction. Death validates importance more convincingly than life."
 
 Marcus felt his control slipping. "You're letting them kill you for a theory."
 
@@ -340,7 +340,7 @@ Jesus sat beside him, and Marcus was struck by how calm he seemed. Not resigned�
 
 "I want you to write the truth. Rome will claim I was an insurgent. The Temple will claim I was a blasphemer. The Zealots will claim I betrayed them. All three will create false narratives to justify the murder. Your testimony—Roman centurion, trained observer, documented five years of peaceful teaching—contradicts all three. Makes their coordination visible. Exposes the offensive network that engineered my death."
 
-Marcus thought of the twenty-three documentation tablets hidden in his Jerusalem room. "I've already been documenting. Your teachings, the network structure, the dual-layer encoding."
+Marcus thought of the twenty-three documentation tablets hidden in his Jerusalem room. "I've already been documenting. Your teachings, the network structure, the layered structure."
 
 "I know. Simon told me. That documentation is important, but it's not enough. After I'm executed, you need to document *that*. The trial, the charges, the political coordination, the method of execution, what they say to justify it. That's what future defensive carriers need—not just what I taught, but evidence that offensive powers considered it threatening enough to kill for."
 
@@ -448,7 +448,7 @@ Leah's expression shifted from concern to understanding. "The Romans made their 
 
 She couldn't finish. The weight of it was too much—leadership of eighty women and growing, preservation of three thousand years of knowledge, protection of Sarah and the defensive network, teaching continuation without Jesus's verification of patterns.
 
-What if she taught it wrong? What if the network broke because she couldn't do what he did? What if Sarah grew up without proper training because Mary failed at encoding the knowledge correctly?
+What if she taught it wrong? What if the network broke because she couldn't do what he did? What if Sarah grew up without proper training because Mary failed at transmitting the knowledge correctly?
 
 Leah put a hand on her arm. "You're not alone."
 
@@ -460,7 +460,7 @@ Leah put a hand on her arm. "You're not alone."
 
 "You'll still have blood memory. Pattern Eye. Documentation. And us." Leah gestured to where Rachel and Abigail had quietly returned, listening from the doorway. "You're not carrying this alone. We're carrying it together."
 
-Mary looked at them—three women with Protocol access, trained in dual-layer encoding, capable of teaching multiplication independently. Jesus had been right to focus on distribution. No single point of failure.
+Mary looked at them—three women with Protocol access, trained in the layered teaching, capable of teaching multiplication independently. Jesus had been right to focus on distribution. No one person the whole thing depended on.
 
 But Mary still felt like the single point.
 
@@ -496,7 +496,7 @@ She looked at Leah, Rachel, Abigail. "I need your help. After he's gone. I need 
 
 "We can," Leah said. "And we will."
 
-Mary nodded slowly. The fear didn't disappear—fear of inadequacy, fear of failure, fear of teaching wrong and breaking the preservation chain. But the isolation did. She wasn't alone. The network was distributed. Multiple carriers, multiple verification paths, redundancy built into the system.
+Mary absorbed this. The fear didn't disappear—fear of inadequacy, fear of failure, fear of teaching wrong and breaking the preservation chain. But the isolation did. She wasn't alone. The network was distributed. Multiple carriers, multiple verification paths, redundancy built into the system.
 
 Jesus had designed it that way deliberately. Anticipating exactly this moment.
 

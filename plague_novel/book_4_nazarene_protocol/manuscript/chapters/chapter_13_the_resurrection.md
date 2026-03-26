@@ -30,7 +30,7 @@ Leah looked at her sharply. "Why do you say that?"
 
 "Blood memory. I dreamed it. The stone rolling. Guards running. Two people in white."
 
-Leah was quiet for a moment. Then: "Yes. The network will protect his body. The tomb will be empty by morning."
+Leah considered. "Yes. The network will protect his body. The tomb will be empty by morning."
 
 "And mama will be the first one there."
 
@@ -126,7 +126,7 @@ He wrote on the wax tablet:
 
 Footsteps approaching. Marcus slipped out of the tomb, back to his observation position in the olive grove.
 
-Three women. Walking toward the tomb in pre-dawn light. Marcus recognized the lead figure immediately.
+Three women. Walking toward the tomb in pre-dawn light. Marcus knew the lead figure immediately.
 
 Mary Magdalene.
 
@@ -276,7 +276,7 @@ But Joanna and Salome, standing outside, heard it differently:
 
 "Risen from death!" Joanna whispered.
 
-Both interpretations true. Both serving preservation. Physical resurrection and methodological resurrection weren't contradictory—they were different ways of describing knowledge continuity.
+Physical resurrection and methodological resurrection weren't contradictory—they were different ways of describing knowledge continuity.
 
 Mary stepped out of the tomb, facing the two men in white. "Where is his body?"
 
@@ -290,7 +290,7 @@ The second added: "Go tell his disciples. Tell Peter. Tell them he goes before y
 
 But Joanna heard: "He'll appear to us! In Galilee!"
 
-Both true. Network meeting = appearance. Different framework, same event.
+Network meeting = appearance. Different framework, same event.
 
 The men in white turned and walked away, disappearing into the streets of waking Jerusalem.
 
@@ -299,7 +299,7 @@ Mary stood at the empty tomb, spices still in her hands, mind racing through pos
 1. Defensive network extracted body during earthquake (physical reality)
 2. Jesus is risen from death (theological interpretation)
 3. Teaching resurrected in community practice (methodological reality)
-4. All three simultaneously true from different perspectives
+4. All three true at once, from different perspectives
 
 "We have to tell the others," Joanna said urgently.
 
@@ -390,7 +390,7 @@ Peter pushed past him, ducking into the tomb's interior.
 
 Empty.
 
-The linen wrappings lay exactly as Mary described. Folded. Face cloth separate, rolled up, positioned deliberately. No body. No blood trail. No signs of rushed extraction.
+The linen wrappings lay just as Mary described. Folded. Face cloth separate, rolled up, positioned deliberately. No body. No blood trail. No signs of rushed extraction.
 
 Peter touched the cloths. Still damp from spices. Myrrh and aloes, the expensive mixture Nicodemus and Joseph had used for burial preparation. The fabric held Jesus's shape—compressed linen remembering the form it had wrapped.
 
@@ -446,7 +446,7 @@ But Marcus surprised him:
 
 Peter and John both stared at the former centurion.
 
-Marcus continued carefully: "Body relocated to prevent desecration—physical reality. Teaching resurrected in community practice—methodological reality. Disciples believe literal resurrection—theological reality. All three happening simultaneously."
+Marcus continued carefully: "Body relocated to prevent desecration—physical reality. Teaching resurrected in community practice—methodological reality. Disciples believe literal resurrection—theological reality. All three happening at once."
 
 "That's..." Peter searched for words. "That's impossible. Truth is singular."
 
@@ -572,7 +572,7 @@ She stopped. Hands in the air between them. Inches from touching what might be f
 
 "How?"
 
-He smiled. The expression so familiar it broke something open in her chest. Three years of that exact smile during teaching sessions when someone finally grasped both layers simultaneously.
+He smiled. The expression so familiar it broke something open in her chest. Three years of that exact smile during teaching sessions when someone finally grasped both layers at once.
 
 "Does it matter?"
 
@@ -662,7 +662,7 @@ Jesus of Nazareth had been the most dangerous carrier in generations. Direct lin
 
 Caiaphas had worked for three years to engineer his execution. Coordinating Temple authorities, Roman prefect, even Zealot factions. Making Jesus's death inevitable while allowing him to feel he'd chosen martyrdom voluntarily.
 
-The crucifixion had been perfect. Public. Painful. Definitive. Jesus died exactly as planned, exactly when planned, exactly where maximum deterrent effect would be achieved.
+The crucifixion had been perfect. Public. Painful. Definitive. Jesus died as planned, when planned, where maximum deterrent effect would be achieved.
 
 Except now the tomb was empty.
 
@@ -702,7 +702,7 @@ One guard ventured: "You're saying... we should allow the resurrection claims?"
 
 "But if they believe he was simply executed and his body stolen, they might continue his actual work: defensive network coordination, systems teaching, civilizational threat."
 
-The lead guard nodded slowly. "So we... let them believe the miracle?"
+The lead guard considered this. "So we... let them believe the miracle?"
 
 "We ensure they believe it. Here's what you'll report publicly: You fell asleep during watch. Disciples came by night. Stole the body while you slept. Standard grave robbery."
 
@@ -718,7 +718,7 @@ Caiaphas smiled coldly. "Exactly. The story is intentionally flawed. Which means
 
 Another guard asked: "What about Mary Magdalene? She's a carrier. Generation 42, Branch 3. She knows network protocols."
 
-"She'll spread both interpretations. Faith layer for believers. Knowledge layer for carriers. That's what blood memory carriers do—hold multiple truths simultaneously. Let her. The theological layer will grow faster, absorb the methodological layer, eventually obscure it entirely."
+"She'll spread both interpretations. Faith layer for believers. Knowledge layer for carriers. That's what blood memory carriers do—hold multiple truths at once. Let her. The theological layer will grow faster, absorb the methodological layer, eventually obscure it entirely."
 
 "And the defensive network?"
 
@@ -772,11 +772,7 @@ Resurrection morning—he'd already started thinking of it that way—had split 
 
 *Methodological:* Teaching continued despite teacher's death. Community practicing defensive mode. Knowledge resurrecting through network coordination and theological spread.
 
-All three true.
-
-All three documented in Marcus's tablets.
-
-All three serving preservation.
+Marcus had documented all three in his tablets.
 
 Marcus passed other travelers. Merchants heading to Galilee. Pilgrims returning from Jerusalem festivals. Roman patrol (Marcus kept his head down—still technically deserter). Families relocating. The normal traffic of empire.
 
@@ -790,7 +786,7 @@ Some were already discussing the rumors:
 
 "—just another failed messiah, executed like all the others—"
 
-Multiple interpretations spreading simultaneously. Marcus recognized the pattern. This was how mythology formed in real-time. Physical events becoming theological meaning becoming community narrative.
+Multiple interpretations spreading at once. Marcus saw the pattern forming. This was how mythology formed in real-time. Physical events becoming theological meaning becoming community narrative.
 
 He'd studied enough military history to know: The "truth" of resurrection would be whatever interpretation survived two thousand years. And survival depended on which story served the most purposes for the most people.
 
@@ -824,7 +820,7 @@ Thought about Judas, who'd attempted defensive network extraction disguised as b
 
 Thought about Peter, denying Jesus three times, then choosing to believe resurrection despite evidence suggesting body relocation.
 
-Thought about Mary Magdalene, experiencing garden encounter that was simultaneously physical presence, grief vision, network coordination, and literal miracle—all true depending on perspective.
+Thought about Mary Magdalene, experiencing garden encounter that was at once physical presence, grief vision, network coordination, and literal miracle—all true depending on perspective.
 
 Everyone serving preservation through different interpretations.
 
@@ -835,7 +831,7 @@ He opened his satchel, checking documentation:
 - Crucifixion account (physical details, timing, witnesses, death confirmation)
 - Empty tomb report (guards' earthquake flight, body absence, linen arrangement)
 - Disciple reactions (Peter's skepticism-to-faith, John's immediate belief, Thomas's absence)
-- Mary's garden encounter (ambiguous presence, dual-layer messaging, theological interpretation)
+- Mary's garden encounter (ambiguous presence, layered messaging, theological interpretation)
 - Network extraction evidence (timing, methodology, historical pattern alignment)
 
 Multiple perspectives. Competing narratives. Complex truth.
@@ -846,7 +842,7 @@ Marcus knew they'd miss the point.
 
 *All of it was real.*
 
-Physical extraction AND theological miracle AND methodological continuation. Not either/or. Both/and. Truth as layered phenomenon requiring multiple frameworks simultaneously.
+Physical extraction AND theological miracle AND methodological continuation. Not either/or. Both/and. Truth as layered phenomenon requiring multiple frameworks at once.
 
 That's what six years watching Jesus teach had shown him: Meaning wasn't singular. Knowledge wasn't simple. Preservation required holding contradictions as complementary rather than oppositional.
 
@@ -866,13 +862,7 @@ Jesus was dead.
 
 Jesus was risen.
 
-Both true.
-
-Both necessary.
-
-Both serving the same purpose: Teaching alive despite teacher's death.
-
-That was resurrection.
+Teaching alive despite teacher's death. That was resurrection.
 
 And Marcus Publius Scipio—census official, military defector, witness to impossible events—was carrying it forward.
 
@@ -1015,7 +1005,7 @@ Mary nodded. She'd been expecting it too. "But defensive knowledge doesn't depen
 
 Sarah looked up at her mother. "So I have to preserve it? For Generations 44 and beyond?"
 
-"You and others. Multiple carriers. Geographic distribution. No single point of failure. That's what Jesus's death achieved: triggering diaspora that spreads knowledge too widely for any single suppression attempt to destroy it."
+"You and others. Multiple carriers. Geographic distribution. No one node they can cut to kill the whole network. That's what Jesus's death achieved: triggering diaspora that spreads knowledge too widely for any single suppression attempt to destroy it."
 
 Marcus spoke quietly: "I've spent my entire adult life serving offensive network goals. Census coordination. Military enforcement. Carrier suppression. I believed I was protecting civilization from chaos.
 

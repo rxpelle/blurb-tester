@@ -304,7 +304,7 @@ Mary looked at her daughter. Sarah had fallen asleep against her shoulder, exhau
 
 "I have a business in Magdala," Mary said. "A house. Workers — fewer every week, but still. A life I built. If I stay here learning, that falls apart. And Sarah needs stability, not a mother chasing explanations."
 
-Jesus was quiet for a moment. Then: "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have — resources, organizational ability, someone who understands how to manage people and supply chains. And you need what they have: context for what's happening to you."
+Jesus considered this. "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have — resources, organizational ability, someone who understands how to manage people and supply chains. And you need what they have: context for what's happening to you."
 
 "You want my money," Mary said flatly. She'd heard enough traveling teachers to recognize the pattern.
 

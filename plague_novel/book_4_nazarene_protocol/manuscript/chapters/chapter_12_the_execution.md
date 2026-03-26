@@ -100,7 +100,7 @@ Not resignation.
 
 Strategic clarity.
 
-Pilate looked uncomfortable. Marcus recognized the expression—a politician forced into decision he didn't want but couldn't avoid. The prefect of Judea hadn't survived five years in this posting by being stupid. He knew Jesus was no threat.
+Pilate looked uncomfortable. Marcus knew that expression—a politician forced into decision he didn't want but couldn't avoid. The prefect of Judea hadn't survived five years in this posting by being stupid. He knew Jesus was no threat.
 
 He would execute him anyway.
 
@@ -512,7 +512,7 @@ The moment Jesus died, the ground shook. Earthquake. Not major. Enough to crack 
 
 The storm broke. Rain falling. Thunder.
 
-The centurion supervising the execution—Marcus recognized him, Gaius Cassius Longinus, offensive network enforcer—stared at Jesus's body.
+The centurion supervising the execution—Marcus knew him — Gaius Cassius Longinus, offensive network enforcer—stared at Jesus's body.
 
 "Truly this was a righteous man," Longinus said.
 
