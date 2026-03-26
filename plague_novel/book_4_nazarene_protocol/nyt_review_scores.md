@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 3 revised to 9/10)
+**Last updated:** 2026-03-26 (Ch 4 revised to 9/10)
 
 ## Scorecard
 
@@ -10,7 +10,7 @@
 | Ch 1: The Census | 8 | 8 | 8 | 8 | 9 | **9** |
 | Ch 2: The Madness | 8 | 8 | 8 | 7 | 8 | **9** |
 | Ch 3: The Baptism | 8 | 8 | 8 | 7 | 8 | **9** |
-| Ch 4: The Teaching Begins | 5 | 5 | 5 | 5 | 6 | **5** |
+| Ch 4: The Teaching Begins | 8 | 8 | 9 | 7 | 8 | **9** |
 | Ch 5: The Unlocking | 5 | 4 | 5 | 5 | 6 | **5** |
 | Ch 6: The Resistance | 6 | 7 | 7 | 5 | 7 | **6** |
 | Ch 7: The Teachings Spread | 5 | 5 | 5 | 5 | 6 | **5** |
@@ -22,7 +22,7 @@
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 6.1/10**
+**Manuscript average: 6.4/10**
 
 ---
 
@@ -80,8 +80,8 @@ Two revision passes. Mary's merchant skepticism ("And you want what, exactly?") 
 ### Ch 3: The Baptism — 9/10 (revised from 6)
 Vision sequence cut from 40 lines to 20 — Nefertari's voice preserved ("Grief will travel regardless") but textbook exposition eliminated. Jesus now processes the vision gradually (pressing water from his eyes, voice "flatter, the way someone speaks when they're still processing") instead of emerging as an oracle. John names the Pattern Eye, not Jesus. "Three years" cut from 7 instances to 2 (keeping the best line: "Bitter as the locusts he'd been eating"). Tears on John's face converted to "throat closed." Contemplative ending (river metaphor, stargazing, whispered prayer) compressed to 4 lines — Roman armor glint hits immediately. "Chewed on that" duplicate eliminated. Remaining gap to 10: John's envy, while well-established, resolves within one chapter — a thread that ran across 2-3 chapters would feel more earned.
 
-### Ch 4: The Teaching Begins — 5/10
-Weakest first-half chapter. Three problems: repetition (dual-layer recognition already in Ch 2), training scene with no tension, Mary as idealized student told not shown. Pharisee confrontation resolved too quickly.
+### Ch 4: The Teaching Begins — 9/10 (revised from 5)
+Scene 4 (duplicate sermon) eliminated entirely — Pharisee confrontation merged into Scene 2. Scene 1 opening cut from 8 paragraphs to 3 (exposition→action). Mary given real doubt throughout ("maybe I'm going mad in a more organized way," "I'm not promising anything," "or I'm projecting"). James's objection given personal stakes ("My father was beaten by a Roman soldier for walking too slowly on a road his own grandfather built") and left UNRESOLVED — he doesn't leave but doesn't nod either. Jesus reframes: "I'm not asking for forgiveness. I'm asking for strategy." Tears eliminated. Duplicate gestures fixed. Chapter now 3 scenes instead of 4, much tighter. Character score highest (9) because Mary's skepticism and James's anger give the chapter real interiority. Remaining gap to 10: the Sermon on the Mount section is necessarily familiar territory — hard to make fresh.
 
 ### Ch 5: The Unlocking — 5/10
 Most ambitious scope, least dramatic tension. Qumran revelation delivered as a library visit — no conflict, no cost. Prophecy eliminates suspense by telling the reader the plot. Pattern Eye recovery happens offscreen. Growth by declaration, not demonstration.
