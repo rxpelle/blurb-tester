@@ -456,7 +456,7 @@ He gestured back toward the empty tomb. "Look at the evidence. The cloths are fo
 
 John was nodding. Peter felt something between irritation and recognition building in his chest.
 
-"So you're saying," Peter said slowly, "that the tomb is empty because defensive network extracted the body for protection, AND Jesus rose from death, AND the teaching is resurrecting in our practice, and all of those are simultaneously true?"
+"So you're saying," Peter said slowly, "somebody moved the body to protect it, AND he actually rose, AND the teaching is alive because we're still doing it — and all of that is true at the same time?"
 
 "I'm saying," Marcus replied, "that I'm documenting all three interpretations because I don't know which one is correct. Maybe all of them. Maybe none. But if Jesus taught us anything, it's that meaning has layers."
 
@@ -484,7 +484,7 @@ Not based on evidence. Not based on network coordination or strategic mythology 
 
 Jesus had been right about everything else.
 
-"I don't know if his body returned from death," Peter said. "But the teaching is alive. The community is forming. The methodology is spreading. If that's resurrection—then yes. He has risen."
+"I don't know if his body came back," Peter said. "I'm a fisherman, not a philosopher. But the teaching is alive. People are gathering. What he built is still standing." He rubbed his face with both hands. "If that's resurrection — then yes. He has risen."
 
 John gripped his shoulder. "That's enough. For now, that's enough."
 
