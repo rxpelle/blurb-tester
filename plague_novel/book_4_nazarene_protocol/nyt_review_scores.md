@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 12 revised to 8/10)
+**Last updated:** 2026-03-26 (Ch 13 revised to 8/10)
 
 ## Scorecard
 
@@ -19,10 +19,10 @@
 | Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
 | Ch 11: The Betrayal | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 12: The Execution | 8 | 8 | 8 | 7 | 7 | **8** |
-| Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
+| Ch 13: The Resurrection | 8 | 8 | 9 | 7 | 8 | **8** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 7.8/10**
+**Manuscript average: 8.0/10**
 
 ---
 
@@ -107,8 +107,8 @@ Two passes. Cut from 7 scenes to 5, ~8,200 to ~4,800 words. Scene 3 (military br
 ### Ch 12: The Execution — 8/10 (revised from 7)
 One pass. Cut from ~8,500 to ~4,500 words. Scene 1 recap of Ch 11 (Judas/scattering/network logistics) cut entirely. Scene 5 Jesus internal (entire martyrdom thesis restatement) cut — Scene 6 personal memories do this better. Scene 8 flash-forward (garden encounter, empty tomb, "Apostle to the Apostles") cut — belongs in Ch 13 where it lands fresh. All "Not X. Y." constructions eliminated. Pilate narrator commentary stripped. Procession prophecy decoding cut. Crucifixion physicality preserved — "metal on metal, then the wet sound underneath." Mary's vigil line preserved — "held him with her eyes instead." Marcus's cramped fingers. Jesus's personal memories (Nefertari's workbench, mother singing, Sarah's shells). Simon of Cyrene's "Thank you." Remaining gap to 9: the crucifixion sequence is necessarily familiar territory and resists fresh angles.
 
-### Ch 13: The Resurrection — 6/10
-Garden encounter is the emotional peak of the novel. Caiaphas monologue is the most significant misstep — essay disguised as fiction. Empty tomb told three times. Resurrection-as-multiple-truths is sophisticated but stated fifteen times.
+### Ch 13: The Resurrection — 8/10 (revised from 6)
+One pass. Cut from 8 scenes to 4, ~9,400 to ~4,200 words. Caiaphas monologue (essay disguised as fiction, 120+ lines) cut entirely. Peter's verification scene (third telling of empty tomb) cut entirely. Marcus tomb scene merged into Mary's discovery — empty tomb told once. Garden encounter preserved as emotional peak — "She just needed him to have said her name." Damascus reunion compressed (Scenes 7+8 → Scene 4), Sarah's miniature-philosopher dialogue cut. Resurrection-as-multiple-truths no longer stated fifteen times — the ambiguity lives in the images now (folded cloths, the figure in the garden) without narrator decoding. Mary's Gospel integration preserved — real Nag Hammadi content, strongest historical move. Character score 9 because Mary's garden encounter is the manuscript's most human moment. Remaining gap to 9: the structural challenge of telling a familiar story freshly — the reader knows what happens at the empty tomb.
 
 ### Ch 14: The Scatter — 6/10
 Mary's death sentence earns its length. Mary's Gospel integration is the most daring historical move. Peter's late self-awareness about erasing women is complex. Paul is a caricature. Jerusalem burns in two pages after a full novel building toward it. Peter speaks as a 21st-century scholar.
