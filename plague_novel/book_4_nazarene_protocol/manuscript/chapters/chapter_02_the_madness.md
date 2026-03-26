@@ -16,31 +16,23 @@ Not here. Not Magdala. Not the stone house on the hill above the salting works w
 
 *Pi-Ramesses.*
 
-The city surrounded her—vivid, overwhelming, more real than the wool blanket twisted around her legs or the pre-dawn light seeping through the window shutters. She could smell it: Nile silt mixing with bronze foundries, human waste in overcrowded streets, smoke from cooking fires and funeral pyres blending into a haze that coated the back of her throat.
+The city surrounded her—vivid, overwhelming, more real than the wool blanket twisted around her legs or the pre-dawn light seeping through gaps in the woven screen over the window. She could smell it: Nile silt mixing with bronze foundries, human waste in overcrowded streets, smoke from cooking fires and funeral pyres coating the back of her throat.
 
-Three hundred thousand people crammed into a grid-pattern city that couldn't sustain half that number. Refugees flooding in from the north—Mycenaean Greeks fleeing cities that had burned, Hittites speaking of armies from the sea, Canaanites and Cypriots displaced by cascading failures across the eastern Mediterranean.
-
-And the fever. Always the fever.
+Too many people. Refugees flooding in from everywhere, fleeing cities that had burned, speaking of armies from the sea. And the fever. Always the fever.
 
 Mary pressed her hands against her temples, trying to force the vision away. But it wouldn't release. It never did anymore.
 
-She saw the woman physician—*Nefertari*, the name surfaced unbidden from some inherited depth—moving through overcrowded tenement blocks where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because the problem wasn't individual illness but systemic collapse.
+The woman physician—*Nefertari*, the name surfacing unbidden from some inherited depth—moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
 
-Bronze shortages cutting off trade. Drought destroying harvests. Population displacement overwhelming infrastructure. Disease spreading through density that shouldn't exist.
-
-The pattern was visible if you knew how to see it. Nefertari saw it. Tried to warn Pharaoh Tausret that the collapse couldn't be stopped, only survived. But empires didn't listen to warnings until crisis made them obvious.
-
-And by then it was too late.
-
-Mary watched—experienced, somehow more than watched—as Tausret died in Nefertari's arms. The last strong pharaoh of the 19th Dynasty. Dead of fever while the Bronze Age Collapse cascaded through interconnected civilizations like fire through dry papyrus.
+Mary watched—experienced, somehow more than watched—as a queen died in Nefertari's arms. *Tausret.* The name came with the vision. Dead of fever while the ancient world collapsed around them.
 
 *This isn't real*, Mary told herself desperately. *This is twelve hundred years ago. I wasn't there. This isn't my memory.*
 
-But it felt like her memory. Tasted like her memory. The sensory details were too precise, too immediate. The smell of death. The sound of refugees keening in the streets. The texture of linen bandages soaked with sweat and blood.
+But the sensory details were too precise, too immediate. The smell of death. The sound of refugees keening in the streets. The texture of linen bandages soaked with sweat and blood.
 
 "Mama?"
 
-The small voice cut through the vision like cold water. Mary gasped, the city dissolving. She was back in Magdala. In her room. Dawn light filtering through shutters. Her daughter Sarah—three years old, dark curls tangled from sleep—standing beside the sleeping mat, frightened.
+The small voice cut through the vision like cold water. Mary gasped, the city dissolving. She was back in Magdala. In her room. Dawn light filtering through the woven screen. Her daughter Sarah—three years old, dark curls tangled from sleep—standing beside the sleeping mat, frightened.
 
 "You were screaming again," Sarah whispered.
 
@@ -52,7 +44,7 @@ Sarah didn't look convinced. She was too young to understand what was happening 
 
 Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier—fragmented images of a woman fleeing burning cities during the Bronze Age Collapse, joining a network of families who taught her to recognize pattern before chaos.
 
-Mary had told herself it was a condition of the body. Something inherited, like her mother's weak lungs or her grandfather's tremor. A sickness without a name — not of the spirit but of the blood. The episodes came like seizures: sudden, involuntary, leaving her disoriented and exhausted afterward. She'd consulted physicians in Tiberias who spoke of imbalances, of the brain pressing against itself, but none could explain why her seizures carried visions of cities she'd never seen.
+Mary had told herself it was a sickness of the blood. Something inherited, like her mother's weak lungs or her grandfather's tremor. Not of the spirit but of the body. The episodes came suddenly—she would fall, her body rigid, then wake confused and drained. She'd consulted physicians in Tiberias who spoke of imbalances in the humors, but none could explain why the falling sickness carried visions of cities she'd never seen.
 
 But the visions kept getting stronger. More detailed. More real.
 
@@ -70,7 +62,7 @@ If Joanna would still let Sarah near her children. Mary wasn't certain anymore. 
 
 Mary stood, joints protesting. Twenty-eight years old but her body felt ancient. The episodes were exhausting—not physically, but they drained something essential. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
 
-She dressed Sarah, then herself. Good linen, indigo-dyed — the clothes of a woman who ran her own business in a town built on fish. Mary's father had left her three salting vats, a stone warehouse near the harbor, and contracts with fishing crews along the northern shore. She'd expanded the operation after his death, hiring workers, negotiating directly with merchants who shipped salted fish as far as Damascus and Jerusalem. Magdala — *Tarichaea*, the Romans called it, the place of salted fish — was prosperous, and Mary had been one of its more successful merchants.
+She dressed Sarah, then herself. Good linen, dyed the deep blue that marked her former prosperity. Mary's father, having no sons, had trained his daughter in the business before his death—three salting vats, a stone warehouse near the harbor, contracts with fishing crews along the northern shore. She'd expanded the operation through her cousin Levi, who served as her public face with merchants, though everyone in Magdala knew Mary made the real decisions. She'd negotiated contracts as far as Damascus and Jerusalem. Magdala—*Tarichaea*, the Romans called it, the place of salted fish—was prosperous, and Mary had been one of its more successful merchants.
 
 Until the episodes started driving her workers away.
 
@@ -78,25 +70,15 @@ Outside, Magdala was waking. Fishing boats returning from night work on the lake
 
 Mary walked toward the salting works — her salting works — where the morning's catch would already be arriving. Her foreman Tobias had been managing the operations on days when Mary couldn't function, which was most days now.
 
-"Mary." Tobias — sixty years old, weathered like driftwood, her foreman since her father's time — approached with the careful posture of a man delivering bad news. "Can we talk?"
+"Mary." Tobias—sixty, his skin creased from decades of lake wind, her foreman since her father's time—approached with the careful posture of a man delivering bad news.
 
-Mary's stomach dropped. She knew that tone. That careful distance.
+Mary's stomach dropped. She knew that tone.
 
-"Three more workers quit this morning," Tobias said, not meeting her eyes. "And Joanna sent word — she won't watch Sarah today. The rumors. She's concerned."
+"Three more workers quit. Joanna won't watch Sarah today." He wasn't meeting her eyes. "You collapsed in the synagogue yesterday. Started speaking in languages nobody recognized. The workers think you're cursed, Mary. They think it'll spread to their families."
 
-"Concerned about demons," Mary said flatly.
+She didn't remember collapsing yesterday. The episodes came so frequently now that hours disappeared and she'd surface with no recollection of what her body had done while her mind was twelve centuries away.
 
-"You collapsed again yesterday. In the synagogue this time. Started speaking in languages nobody recognized." He rubbed the back of his neck. "The workers are frightened, Mary. They think you're cursed. They think working for you will bring it on their families."
-
-Mary closed her eyes. She didn't remember collapsing yesterday. But the episodes were coming so frequently now that hours disappeared into blood memory and she'd surface with no recollection of what her body had done while her mind was twelve centuries away.
-
-"I'm not possessed," Mary said. "I'm not dangerous. It's an illness, Tobias. Like my mother's."
-
-"I know." Tobias's voice was gentle. "But I can't keep the operation running with a crew that's afraid to show up. You've lost half your workers in two months. The merchants are starting to take their catches to other salters."
-
-"I'll hire new workers. Offer higher wages—"
-
-"It's not about wages. It's the fear. Nobody wants to work for a woman the town thinks is possessed." He paused, miserable. "I'll stay. I owe your father that much. But I can't make others stay."
+"It's not about wages," Tobias said, reading her face. "Nobody wants to work for a woman the town thinks is possessed." He paused, miserable. "I'll stay. I owe your father that much. But I can't make others stay."
 
 "I know, Tobias. Thank you for staying." Mary turned away before he could see her face.
 
@@ -164,9 +146,9 @@ She was in Magdala's marketplace — buying supplies for a household that was be
 
 "What's he teaching?" the other asked.
 
-"Hard to explain. Parables mostly. Stories about seeds and kingdoms and small interventions creating large changes. My wife says it's spiritual instruction. But I heard something else underneath—systems thinking. Pattern recognition. Like he's teaching us to see connections we normally miss."
+"Hard to explain. Parables mostly. Stories about seeds and kingdoms and how small things become large. My wife says it's spiritual instruction. But I heard something else underneath—like he's showing us how things connect to one another. Hidden threads that bind events. Why the fish vanish when the rain changes, why trade stops when a distant city burns."
 
-Mary's attention sharpened. *Pattern recognition.*
+Mary's attention sharpened. *Hidden threads.*
 
 "Where does he teach?" she asked before she could stop herself.
 
@@ -178,7 +160,7 @@ The fishermen looked at her—brief recognition, longer discomfort. Everyone in 
 
 "Jesus. Jesus ben Yosef. Carpenter by trade, teacher by calling."
 
-"And he talks about... patterns? Seeing connections?"
+"And he talks about... connections? Seeing how things fit together?"
 
 "You'd have to hear it yourself. Some people hear religious teaching. Others hear something deeper." The fisherman shifted uncomfortably. "Are you—I mean, do you need—"
 
@@ -186,13 +168,13 @@ The fishermen looked at her—brief recognition, longer discomfort. Everyone in 
 
 She walked away before the conversation could become awkward charity or concerned intervention.
 
-*Jesus ben Yosef. Capernaum. Pattern recognition.*
+*Jesus ben Yosef. Capernaum. Hidden threads.*
 
 It might be nothing. Probably was nothing. Religious teachers were common—every town had rabbis and self-proclaimed prophets offering spiritual guidance. Most taught conventional wisdom dressed in theological language.
 
-But *pattern recognition*. That specific phrasing. That wasn't typical religious vocabulary.
+But *seeing how things connect*. That wasn't typical religious vocabulary. That was closer to what Mary saw in her visions—Nefertari watching a whole civilization unravel, tracing the threads that connected drought to famine to war to collapse.
 
-And if this teacher was talking about seeing connections, about understanding systems, about patterns that others missed—maybe he understood what was happening to her. Maybe he could explain why she saw Pi-Ramesses like she'd lived there personally. Maybe he knew what the visions meant.
+Maybe this teacher understood what was happening to her. Maybe he knew what the visions meant.
 
 Mary walked back to her house, mind churning through logistics.
 
@@ -250,41 +232,49 @@ Right. Practical concerns first. Mary had some dried fish in her sack. She found
 
 But before Mary could formulate an approach, the decision was made for her.
 
-A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's build, wearing simple clothes dusted with road travel. He looked directly at her. Not casual glancing. Direct recognition, as if he'd been expecting her.
+A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's build, wearing simple clothes dusted with road travel. He looked directly at her. Not casual glancing. He'd been expecting her.
 
-"You're the one from Magdala," he said. Not a question. A statement.
+"You're the merchant from Magdala." Not a question.
 
 Mary stood slowly, pulse accelerating. "How did you—"
 
-"You have the markers. I can see them from here." He crossed the courtyard, stopped a respectful distance away. "Blood memory overwhelming you. Visions you can't control. Community thinks you're possessed, but you're not. You're a carrier."
+"Simon told me about you. A woman in Magdala—falling episodes, visions of burning cities, community calling it possession." He crossed the courtyard, stopped a respectful distance away. "I've been hoping you'd come. I'm Jesus."
 
-Mary felt the world tilt. "What?"
+Mary felt the world tilt. "Simon knows about me?"
 
-"Your name is Mary, yes? From Magdala. You run a salting business — or you did, before the episodes drove your workers away. Daughter named Sarah. You started seeing visions at age seven, intensified after childbirth. Pi-Ramesses mostly. Sometimes Babylon. Occasionally earlier collapses during the Bronze Age."
+"He's been watching for carriers across the region. People whose families show certain signs." Jesus—the teacher—sat on the wall beside her, careful to maintain proper distance. "Tell me what you see in the visions. The city."
 
-Mary's legs went weak. She sat back down on the wall before she fell. "How do you know that?"
+Mary hesitated. But something in his voice—the steadiness of a man who would not flinch at what she described—made her speak.
 
-"Because I see the same things." Jesus — it had to be Jesus, the teacher — sat beside her, careful to maintain proper social distance. "I see Pi-Ramesses too. The fever. The woman physician. The collapse."
+"A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses around her. A queen dying of fever." Mary's voice shook. "I know their names. Nefertari. Tausret. I don't know how I know them."
 
-Mary's breath stopped. "You see *her*? Nefertari?"
+Jesus's breath caught. "You see Nefertari?"
 
-"Every night since I was three."
+"Every night."
 
-"I know. That's why you came." His voice was gentle. "You've been seeing memories that aren't yours. Experiencing collapses from twelve hundred years ago as if you lived through them personally. You've tried exorcisms. They didn't work. You've tried ignoring the visions. They got stronger. Now you're desperate enough to walk eight miles with a child to find a teacher you heard about in a marketplace, hoping he can explain what's happening before you lose your mind completely."
+"So do I." His voice dropped. "Every night since I was three years old."
 
-Mary stared at him. "Are you reading my thoughts?"
+Mary stared at him. The ground shifted under her. Someone else saw what she saw.
 
-"I'm reading the pattern. I've seen this before—other carriers who don't understand their inheritance. They think they're going mad because nobody's explained blood memory to them." He paused. "Your mother had visions too. Died young?"
+"You've tried exorcisms," Jesus continued quietly. "They didn't work. You've tried ignoring the visions. They got stronger. And now you're here because the alternative is losing your mind the way your mother did."
 
-"Thirty-four. She—" Mary's voice broke. "She had the same episodes. Seizures and visions. She'd describe cities she'd never visited in detail that frightened the physicians. The community said demons ran in our family. That I'd inherited her curse. But it wasn't a curse. It was an illness — the same illness, passed from mother to daughter."
+"How do you know about my mother?"
 
-"You inherited her blood. The visions — they're memories. Not yours, but your family's. Your ancestor was there when Pi-Ramesses fell. What she saw got passed down through her children, and their children, and theirs. Forty-two generations. By the time it reached you, the memories are vivid enough to feel like present experience."
+"Because the pattern is always the same. Carriers who don't understand their inheritance—the visions overwhelm them. They think they're going mad. Their communities think they're possessed. And without training, the episodes intensify until—" He paused. "Your mother. She died young?"
+
+"Thirty-four. She—" Mary's voice broke. "She had the same episodes. The falling, the visions. She'd describe cities she'd never visited in detail that frightened the physicians. The community said demons ran in our family. That I'd inherited her curse. But it wasn't a curse. It was an illness — the same illness, passed from mother to daughter."
+
+"You inherited her blood. And the blood carries memory." Jesus spoke carefully, like a man choosing words for something that had no easy name. "Your ancestor was there when Pi-Ramesses fell. What she saw went so deep it passed to her children. And their children. Forty-two generations. By the time it reached you, the memories feel as real as your own life."
 
 Sarah was listening with wide eyes, not understanding but sensing this was important.
 
+Mary frowned. "Like how Sarah has my eyes? But instead of eye color, I inherited... memories?"
+
+"Exactly. Your ancestor lived through the city burning. What she experienced was so powerful it wrote itself into the blood and passed down. Like eye color, but in the mind instead of the face."
+
 "I'm not possessed?" Mary asked, needing to hear it confirmed.
 
-"You're not possessed. You're carrying inherited trauma from civilizational collapse. The visions are real memories—not yours personally, but your bloodline's. You see Pi-Ramesses burning because your ancestor saw it burn. You see Babylon because another ancestor lived through that exile. The blood remembers what individuals forget."
+"You're not possessed. The blood remembers what individuals forget. You see Pi-Ramesses burning because your ancestor saw it burn. You see Babylon because another ancestor lived through that exile."
 
 Mary felt tears streaming down her face. Not grief. *Relief*. Overwhelming, crushing relief.
 
@@ -298,17 +288,21 @@ Sarah climbed into her lap. Mary held her daughter and cried and for the first t
 
 "Useful how?"
 
-"You can see collapse coming before it happens. Intervene early. Prevent cascades. That's what the blood memory is for—teaching you to recognize the pattern so you can interrupt it." He gestured toward Capernaum. "This whole region is sliding toward revolt. Rome and the Zealots pulling the system toward catastrophic failure. Most people can't see it coming. But you can. The visions are showing you historical precedent. If you learn to apply that pattern recognition to the present, you can help prevent what's building."
+"You can see collapse coming before it arrives. Intervene early. That's what the blood memory is for—teaching you to recognize the warning signs so you can act before the fire spreads." He gestured toward Capernaum. "This whole region is sliding toward revolt. Rome squeezing harder. The Zealots pushing back. The same pattern your visions keep showing you—the one that burned Pi-Ramesses. It's building again, right here."
+
+Mary felt something click. The vision wasn't just ancient history. It was a warning. "The same thing is happening now. Different city, same pattern."
+
+"Exactly. And most people can't see it coming. But you can."
 
 Mary looked at her daughter. Sarah had fallen asleep against her shoulder, exhausted from the long walk.
 
 "I have a business in Magdala," Mary said. "A house. Workers — fewer every week, but still. A life I built. If I stay here learning, that falls apart. And Sarah needs stability, not a mother chasing explanations."
 
-Jesus considered this. "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have — resources, organizational ability, someone who understands how to manage people and supply chains. And you need what they have: context for what's happening to you."
+Jesus considered this. "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have—resources, a talent for managing people and provisions, someone who knows how to keep a household fed and a trade route open. And you need what they have: context for what's happening to you."
 
 "You want my money," Mary said flatly. She'd heard enough traveling teachers to recognize the pattern.
 
-"I want your mind. The resources help — I won't pretend otherwise. We're a teaching network funded by the families who benefit from it. But what I actually need is a carrier with strong blood memory, a talent for systems thinking, and enough independence to travel and teach without asking a husband's permission." He stood. "Your choice. You can return to Magdala, try to suppress the episodes, hope you don't collapse again in public. Or you can stay in Capernaum, learn what the blood memory means, and bring your resources to a network that will use them to help other carriers like you."
+"I want your mind. The resources help—I won't pretend otherwise. We're a teaching network funded by the families who benefit from it. But what I actually need is a carrier with strong blood memory, a merchant's eye for seeing how things connect, and enough independence to travel and teach without asking a husband's permission." He stood. "Your choice. You can return to Magdala, try to suppress the episodes, hope you don't collapse again in public. Or you can stay in Capernaum, learn what the blood memory means, and bring your resources to a network that will use them to help other carriers like you."
 
 Mary looked at the house behind him. At the fishing nets. At the lake stretching blue and vast under afternoon sun.
 
@@ -320,7 +314,7 @@ Mary didn't want that future. Didn't want Sarah growing up watching her mother d
 
 "If I stay," Mary said slowly, "what happens?"
 
-"Tonight: you sleep in Simon's house. Guest room. Safe. Tomorrow: you meet the network families. Learn the basics of what you're carrying. Start training in pattern recognition so the visions become manageable instead of overwhelming." Jesus's voice was steady. "Long-term: you become part of the teaching network. Help other carriers who are awakening. Distribute the knowledge. Prepare for the diaspora."
+"Tonight: you sleep in Simon's house. Safe. Tomorrow: you meet the network families. Learn the basics of what you're carrying. Start training so the visions become manageable instead of overwhelming." Jesus's voice was steady. "Long-term: you become part of the teaching network. Help other carriers who are awakening. Distribute the knowledge. Prepare for the diaspora."
 
 "What diaspora?"
 
@@ -342,9 +336,9 @@ It should have felt insane. Should have triggered every survival instinct that s
 
 But instead, it felt like coming home.
 
-Simon—the fisherman who owned this house—had welcomed her and Sarah without question. Gave them a guest room, provided dinner, treated them like expected guests rather than the cursed woman from Magdala. His wife Anna fussed over Sarah with the easy warmth of someone who had raised children of her own.
+Simon—the fisherman who owned this house—had welcomed her and Sarah without question. Made space for them with the women of the household, provided dinner, treated them like expected guests rather than the cursed woman from Magdala. His wife Anna fussed over Sarah with the easy warmth of someone who had raised children of her own.
 
-Within a week, Mary had sent Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds were funding the teaching network — food, lodging, travel for carriers being gathered from across Galilee. She'd run a business; she knew how to feed people, manage supply lines, stretch resources. Jesus taught. Mary made it possible for everyone to be there to learn. Joanna — the wife of Chuza, Herod's household manager — and Susanna did the same, three women of independent means quietly funding a movement the men would later claim they'd built alone.
+Within three days, Mary had identified problems the disciples hadn't noticed—too many mouths, not enough provisions for the weeks ahead. Within a week, she'd sent Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds were funding the teaching network—food, lodging, travel for carriers being gathered from across Galilee. She'd run a business; she knew how to feed people, manage provisions and trade routes, stretch resources. Jesus taught. Mary made it possible for everyone to be there to learn. Joanna—the wife of Chuza, Herod's household manager—and Susanna did the same, three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
 The twelve men were disciples, Jesus explained. Network descendants who'd been training with him for two years. They understood fragments of the defensive knowledge their families had preserved across generations, but most had never experienced blood memory directly.
 
@@ -358,7 +352,7 @@ Andrew shifted uncomfortably. "But teaching a woman — is that appropriate?"
 
 "When Jerusalem burns and everyone scatters, do you want half the people who can carry this forward sitting at home because we decided they were the wrong sex?" Jesus's voice had an edge now. "We teach everyone who can learn. That's how the knowledge survives."
 
-Silence. The disciples looked uncomfortable but didn't argue further.
+Silence. The disciples exchanged glances. Thomas opened his mouth as if to speak again, then closed it. The tension wasn't resolved—just temporarily deferred to Jesus's authority.
 
 Jesus turned to Mary. "Tell them what you've been seeing. Don't filter it. Just describe the visions."
 
@@ -384,19 +378,27 @@ Mary felt overwhelmed. "I barely understand this myself."
 
 "You don't have to. Not yet." Jesus stood, moved to a clear space where everyone could see him. "Watch."
 
-He gestured to the oil lamps illuminating the room. "Everything connects to everything. That's the first principle. The lamp burns because you poured oil, which exists because someone pressed olives, which grew because farmers cultivated trees, which required water, which came from rain, which depends on weather patterns, which connect to larger climate cycles. One lamp. Dozens of causal connections most people never see."
+He gestured to the oil lamps illuminating the room. "As it is written, *the earth is the Lord's and all that fills it.* Watch the flame. Where does it come from?"
 
-Mary watched the flame. Started seeing the invisible chains: oil trade, agriculture, weather, climate. Systems layered on systems.
+Mary stared at the lamp. "The oil."
 
-"Now expand," Jesus continued. "This region. Rome occupies Judea. Extracts taxes. Bleeds the economy. Local population grows resentful. Some join Zealot resistance. Rome cracks down harder. Resistance escalates. Crackdown escalates. The cycle feeds itself until full revolt breaks out. Jerusalem burns. Temple destroyed. Population scattered."
+"And the oil?"
 
-Mary saw it. The same pattern as Pi-Ramesses. Different specifics, identical structure. Extraction → resentment → resistance → suppression → escalation → collapse.
+"Olives. Pressed by someone." Mary's merchant mind kicked in without prompting. "Who grew the trees. With water that came from rain. That depends on the season." She paused. "One lamp. Dozens of threads connecting it to everything else."
 
-"You're seeing it," Jesus said, leaning forward. "The pattern. That's what blood memory teaches you. Historical precedent for collapse cascades. Once you recognize the structure, you can see it forming in the present. And if you can see it forming—"
+Jesus nodded. "Now expand. This region."
 
-"You can interrupt it," Mary finished. "Before it cascades."
+Mary was quiet for a moment. Then it came—not from Jesus, but from somewhere inside her. From the visions. "Rome occupies Judea. Extracts taxes. Bleeds the economy. People grow resentful. Some fight back. Rome cracks down harder. The fighting escalates. The crackdowns escalate." Her voice dropped. "The cycle feeds itself until everything burns. That's what I keep seeing in the visions. Pi-Ramesses. The same pattern."
 
-"Exactly. That's defensive mode. Early intervention before crisis makes intervention impossible."
+"Different city," Jesus said. "Identical structure."
+
+"And it's building right now. Right here."
+
+Jesus leaned forward. "That's what the blood memory is for. Your ancestors lived through it. Now you can see it forming in the present. And if you can see it forming—"
+
+"You can stop it," Mary said. "Before it gets too far gone."
+
+"Exactly. That's what we call defensive work—stopping the fire before it spreads to every house."
 
 The disciples were nodding now. Peter looked thoughtful. Andrew less skeptical than before.
 
@@ -418,7 +420,7 @@ Mary closed her eyes, reaching for the memory. The vision had been brief, fragme
 
 Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced at her daughter, then back at Jesus.
 
-"If I learn this—pattern recognition, systems thinking, whatever you call it—will the visions stop overwhelming me?"
+"If I learn this—seeing the threads, reading the patterns, whatever you call it—will the visions stop overwhelming me?"
 
 "They'll never stop. But they'll become manageable. You'll recognize when blood memory is surfacing. Learn to observe it without being pulled under. Extract the pattern without losing yourself in the experience." His voice gentled. "Your mother died because she didn't have this training. She experienced the visions alone, tried to suppress them, couldn't. The trauma accumulated until it killed her. But you—you have the network now. Teachers who understand. You don't have to die at thirty-four."
 
@@ -476,7 +478,7 @@ Jesus smiled. "We start tomorrow. Tonight, you sleep. Actually sleep, without vi
 
 Simon's wife appeared with blankets. "Your daughter's already comfortable. But you should rest too. Morning comes early in a fishing household."
 
-Mary let herself be led to the guest room. Sarah had been moved to a small sleeping mat, still clutching her lake shells. Mary lay beside her, feeling exhaustion drag her toward unconsciousness.
+Mary let herself be led to the women's quarters. Sarah had been moved to a small sleeping mat, still clutching her lake shells. Mary lay beside her, feeling exhaustion drag her toward unconsciousness.
 
 For the first time in three years, she wasn't afraid to sleep.
 
@@ -494,9 +496,15 @@ Mary closed her eyes. Pi-Ramesses tried to surface immediately—the city, the c
 
 The vision receded.
 
-Mary slept.
+Mary slept. For the first time in years, she slept without screaming.
 
-For the first time in years, she slept without screaming.
+But just before dawn, a new vision came—sharp and brief, nothing like the ancient memories. A Roman soldier on a hillside overlooking the lake, watching a crowd gathered around a teacher. He was writing on a wax tablet. Not recording what was being said. Recording something else. A report. Names. Numbers.
+
+Mary's eyes snapped open in the gray light. Sarah still slept beside her, breathing softly.
+
+The vision hadn't been ancient memory. It had been *now*.
+
+Someone was watching them.
 
 ---
 

@@ -12,9 +12,9 @@ Marcus Publius Scipio had witnessed executions before. Fifteen years in Roman se
 
 But he'd never watched someone walk deliberately toward their own execution.
 
-The Sukkot festival morning broke clear and warm over Capernaum. Fifteen thousand pilgrims gathered for harvest celebration. Temporary shelters erected throughout the town—sukkahs built from palm branches and willow, fragile structures commemorating ancient wandering. Singing. Prayers. Ordinary people celebrating abundance while networks thousands of years old prepared to kill a carpenter who'd taught systems thinking disguised as spiritual wisdom.
+The Sukkot festival morning broke clear and warm over Capernaum. Fifteen thousand pilgrims gathered for harvest celebration. Temporary shelters erected throughout the town—sukkahs built from palm branches and willow, fragile structures commemorating ancient wandering. Singing. Prayers. Ordinary people celebrating abundance while forces thousands of years old prepared to kill a carpenter who'd taught people to see how everything connected — dangerous wisdom disguised as spiritual teaching.
 
-Marcus positioned himself at the crowd's edge. Close enough to observe. Far enough to maintain documentation distance. His wax tablets hidden in his cloak. Multiple copies of everything Jesus had taught, said, done in the final three weeks.
+Marcus positioned himself at the crowd's edge. Close enough to observe. Far enough to slip away if things turned violent. Wax tablets hidden in his cloak — notes from the final three weeks, to be copied onto papyrus later.
 
 Today he would document an arrest.
 
@@ -24,35 +24,35 @@ He would save nothing. Prevent nothing. Just witness and record.
 
 As Jesus had asked.
 
-As defensive mode required.
+As the pattern required.
 
 The carpenter climbed onto the teaching platform for the final time.
 
-Marcus scanned the crowd with military precision, cataloging positions the way he'd been trained for three decades. Temple spies visible at strategic points—Caiaphas's network, identifiable by their careful attention and the way they didn't actually participate in the festival celebration. Just observed. Just waited.
+Marcus scanned the crowd with the old instincts — fifteen years of Roman service had trained him to read a gathering the way a fisherman reads water. Temple watchers visible at the edges, identifiable by their careful attention and the way they didn't actually celebrate. Just observed. Just waited.
 
 Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full contubernium—eight men—which meant official sanction. More soldiers than a teaching carpenter warranted unless the authorities expected resistance.
 
 They did.
 
-Marcus could see the defensive network guards scattered through the crowd. Simon coordinating from the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking to specific men Marcus knew from network meetings. The extraction team, though they didn't call it that. They thought they were preparing a rescue.
+Marcus could see the defensive network's people scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team. They thought they were preparing to save Jesus.
 
 They were preparing to fail.
 
-Marcus had seen the offensive network's counter-positioning yesterday. Extra forces hidden in adjacent buildings. Soldiers who weren't on official duty rosters but were being paid anyway. The extraction attempt was expected. Planned for. The defensive network thought they had surprise.
+Marcus had seen the other side's positioning yesterday. Extra men hidden in adjacent buildings. Soldiers who weren't on official rosters but were being paid anyway. The rescue attempt was expected. Planned for. The defensive network thought they had surprise.
 
-They had surveillance.
+They had been watched the whole time.
 
-Near the teaching platform, Mary stood with Sarah. The girl—seven years old, too young to witness what was coming—held her mother's hand. Mary's face showed the strain of three weeks' preparation compressed into constant teaching, constant encoding, constant certainty that this day would arrive.
+Near the teaching platform, Mary stood with Sarah. The girl—seven years old, too young to witness what was coming—held her mother's hand. Mary's knuckles showed white where she gripped Sarah's hand. Three weeks of knowing this day would come, and now it was here, and her jaw was clenched so tight Marcus could see the muscle working from forty paces.
 
 It had arrived.
 
-Jesus surveyed the crowd with that peculiar calm Marcus had observed for six years. Not resignation. Not fatalism. Something else. Strategic acceptance. The blood memory showing him not just what would happen today, but what would happen forty years from now when Jerusalem burned and the network scattered exactly as planned.
+Jesus surveyed the crowd with that peculiar calm Marcus had observed for six years. Not resignation. Not fatalism. Something else — the stillness of a man who had already accepted what came next. Who saw not just today but the decades after, when this death would bear fruit he'd never live to see.
 
 The teaching began.
 
 "A certain man planted a vineyard," Jesus's voice carried across the festival gathering. Fifteen thousand pilgrims quieted. "He rented it to tenants and went on a journey for a long time."
 
-Marcus recognized the parable structure immediately. Surface meaning for the masses. Encoded meaning for those with pattern recognition. He'd learned to hear both layers over six years of observation.
+Marcus recognized the parable structure immediately. A surface meaning for the crowd. A deeper meaning for those who knew how to listen. He'd learned to hear both layers over six years of watching this man teach.
 
 The crowd heard a farming story.
 
@@ -74,17 +74,17 @@ Forty-three would be no different.
 
 "When harvest time came," Jesus continued, "the owner sent a servant to the tenants to collect his share of the fruit. But the tenants beat him and sent him away empty-handed."
 
-Fifteen thousand faces watched. Most hearing a story about unfair sharecroppers. Some—the Temple authorities, the offensive network operatives scattered through the crowd—hearing the accusation embedded in the narrative.
+Fifteen thousand faces watched. Most hearing a story about unfair sharecroppers. Some — the Temple authorities, the watchers scattered through the crowd — hearing the accusation threaded through the story.
 
 *You have beaten every carrier we sent.*
 
-Mary understood. He could see her at the crowd's edge, Sarah beside her, both listening with the dual awareness that came from Protocol access. Mary's face showed what his didn't—the grief of knowing what came next.
+Mary understood. He could see her at the crowd's edge, Sarah beside her, both listening with the deeper hearing that came from the blood. Mary's face showed what his couldn't — the grief of knowing what came next. Her jaw tight. Her eyes wet.
 
-He loved her for carrying that weight so he didn't have to.
+He loved her for carrying that weight so he didn't have to. And for a moment — watching her face — his throat tightened with the very human desire to step down, to go to her, to choose love over duty. The feeling passed. But it had been real.
 
 "The owner sent another servant," Jesus said. "They beat him too, treated him shamefully, and sent him away empty-handed. He sent still a third. They wounded him and threw him out."
 
-Three servants. Generations thirty-nine, forty, forty-one. Carriers who'd tried to preserve defensive knowledge and been executed for the attempt. The blood memory showed him their faces, their final moments, the way each death had encoded the teaching deeper into the surviving network.
+Three servants. Generations thirty-nine, forty, forty-one. Carriers who'd tried to preserve the teaching and died for it. The blood showed him not their faces but their final certainty — the weight of choosing death so the knowledge survived. Each one had felt what he felt now.
 
 Their martyrdom hadn't been failure.
 
@@ -96,7 +96,7 @@ Good. Let them understand.
 
 "Then the owner of the vineyard said," Jesus's voice carried absolute clarity, "'What shall I do? I will send my beloved son. Perhaps they will respect him.'"
 
-Beloved son. Generation forty-two. Primary carrier. Full Protocol access achieved three weeks ago through two defensive keys and the Pattern Eye's amplification. The offensive network's worst nightmare—a carrier who could teach the complete system without their control.
+Beloved son. Generation forty-two. The carrier who'd achieved full access three weeks ago through the bronze keys and the Pattern Eye. The one the powerful feared most — a teacher who could pass on the complete knowledge without their control.
 
 Sarah squeezed Mary's hand. Seven years old and already understanding what the parable meant. What it predicted.
 
@@ -128,25 +128,23 @@ He continued anyway.
 
 "Have you not read this scripture: 'The stone that the builders rejected has become the cornerstone. This was the Lord's doing, and it is marvelous in our eyes'?"
 
-The encoded message complete. The martyrdom made explicit. The son killed by tenants who thought murdering the heir would secure their inheritance. But the owner—Nefertari, the Protocol creators, defensive mode itself—would respond by giving the vineyard to new carriers.
+The message laid bare. The son killed by tenants who thought murdering the heir would secure their inheritance. But the owner — Nefertari, the first teacher, the blood itself — would respond by giving the vineyard to new carriers.
 
 Mary. Sarah. Generation forty-three and beyond.
 
-The knowledge would scatter. The network would survive. The offensive forces would spend forty years thinking they'd won while defensive mode reconstructed itself in diaspora just as designed.
+The knowledge would scatter. The teaching would survive. The powerful would spend forty years thinking they'd won while the truth rebuilt itself in exile — exactly as Nefertari had designed.
 
-One carrier's death to ensure a thousand carriers' distribution.
+One death to plant a thousand seeds.
 
-It was brutal mathematics.
+It was brutal. And it was proven.
 
-It was also proven method.
-
-Jesus stepped down from the platform. The teaching ended. The crowd began dispersing for festival meals, processing what they'd heard. Most confused. Some disturbed. A few—the ones with blood memory active, the ones who recognized patterns—understanding completely.
+Jesus stepped down from the platform. The teaching ended. The crowd began dispersing for festival meals, processing what they'd heard. Most confused. Some disturbed. A few — the ones who felt the blood stir, the ones who heard both layers — understanding completely.
 
 He found Mary's eyes across the dispersing crowd. No words needed. She knew what came next.
 
 So did he.
 
-The arrest would happen during the meal chaos. Defensive network extraction attempt during the confusion. Offensive network counter-response. Violence. Scattering. His capture.
+The arrest would come during the meal. Judas's rescue attempt in the confusion. The counter-response from the Temple. Violence. Scattering. His capture.
 
 Tomorrow's crucifixion.
 
@@ -156,7 +154,7 @@ Sarah waved, a tiny gesture from a seven-year-old who was learning that love som
 
 Jesus waved back.
 
-Then turned toward the upper room where Judas was preparing an extraction that would fail just as he'd foreseen.
+Then turned toward the upper room where Judas was preparing a rescue that would fail just as he'd foreseen.
 
 ---
 
@@ -164,15 +162,15 @@ Then turned toward the upper room where Judas was preparing an extraction that w
 
 *Marcus POV*
 
-The crowd dispersed like water flowing downhill, seeking the paths of least resistance toward meal locations throughout Capernaum. Marcus tracked three separate currents simultaneously, military training and six years of observation combining into pattern recognition that matched what Jesus taught.
+The crowd dispersed in three distinct streams, pilgrims following familiar routes toward meal locations throughout Capernaum. Marcus tracked all three simultaneously — old military instincts blending with six years of learning to see the way Jesus saw.
 
-Everything was a system.
+Everything connected to everything.
 
 Even an execution.
 
 **Current One: Offensive Network**
 
-Temple guards clustered near the synagogue entrance. Caiaphas's personal operatives, identifiable by their matching crimson sashes and the way they moved as a unit rather than individuals. Their leader—a man named Malchus, Marcus had learned his name from defensive network intelligence—coordinated with a Roman centurion Marcus didn't recognize.
+Temple guards clustered near the synagogue entrance. Caiaphas's men, identifiable by their matching crimson sashes and the way they moved as one body rather than separate men. Their leader — a man named Malchus, Marcus had learned from his contacts — spoke with a Roman centurion Marcus didn't recognize.
 
 Not from Pilate's regular garrison.
 
@@ -180,9 +178,7 @@ Special assignment.
 
 The centurion gestured toward the upper room where Jesus was heading. Malchus nodded. Hand signals passed through the Temple guard formation. Positions confirmed. Timing synchronized.
 
-They would wait until the meal began. Maximum chaos. Maximum witnesses to the arrest. Make it public. Make it humiliating. Make it a lesson for anyone else who thought they could teach defensive knowledge outside official control.
-
-Standard offensive network practice.
+They would wait until the meal began. Maximum chaos. Maximum witnesses. Make the arrest public and humiliating. A lesson for anyone else who thought they could teach without permission.
 
 Marcus documented the positions on his wax tablet. Eight Temple guards. Twelve Roman soldiers. Twenty men total for one unarmed carpenter.
 
@@ -190,17 +186,17 @@ Because they expected resistance.
 
 **Current Two: Defensive Network**
 
-Simon moved through the dispersing crowd toward the Damascus road checkpoint. Setting up the extraction route. Defensive network safe houses arranged at intervals from here to Damascus, then Antioch, then Ephesus if necessary. Mary and Sarah would use that route after the chaos.
+Simon moved through the dispersing crowd toward the Damascus road. Setting up the escape route. Trusted houses arranged at intervals from here to Damascus, then Antioch, then Ephesus if needed. Mary and Sarah would use that road after the chaos.
 
-But Simon was also coordinating the extraction attempt.
+But Simon was also coordinating the rescue attempt.
 
-Marcus could see the signals. Defensive operatives positioning themselves near the upper room. Not obviously—these were people trained in subtlety. A merchant adjusting his stall location. A woman with water jars taking an inefficient path. Three pilgrims who'd arrived yesterday and carried themselves like soldiers trying not to.
+Marcus could see the signals. Their people positioning near the upper room. Not obviously — these were men and women trained in subtlety. A merchant adjusting his stall. A woman with water jars taking the long way round. Three pilgrims who'd arrived yesterday and carried themselves like soldiers trying not to look like soldiers.
 
-Judas wove between them, speaking quietly. Confirming positions. The extraction team thought they were unobserved.
+Judas wove between them, speaking quietly. Confirming positions. They thought they were unseen.
 
-They had been watched since arrival.
+They had been watched since they arrived.
 
-Marcus had seen the counter-surveillance yesterday. Offensive network spotters identifying each defensive operative, tracking their movements, adding extra forces to compensate. The defensive network's extraction plan was compromised before execution.
+Marcus had spotted the watchers yesterday. Temple men identifying each of the defensive network's people, tracking their movements, adding extra forces to match. The rescue plan was dead before it started.
 
 They didn't know.
 
@@ -208,37 +204,33 @@ Judas didn't know.
 
 Jesus knew.
 
-And had chosen to let the attempt proceed anyway, because defensive mode required learning through failure. The pattern across forty-two generations proved that extraction during arrest was impossible when the carrier chose martyrdom. Better to demonstrate the impossibility than explain it.
+And had chosen to let the attempt proceed anyway. Forty-two generations had proved that rescue during arrest was impossible when the carrier chose to die. Better to demonstrate the impossibility than explain it.
 
-Show, don't tell.
-
-Even in teaching martyrdom as method.
+The teaching continued even now.
 
 **Current Three: Jesus's Group**
 
-Mary and Sarah moved toward the upper room from a different direction. Protective positioning—if violence erupted, they'd have escape routes Simon had cleared. Leah, Rachel, and Abigail followed at intervals. The women's network preparing to scatter.
+Mary and Sarah moved toward the upper room from a different direction — if violence erupted, they'd have the escape routes Simon had cleared. Leah, Rachel, and Abigail followed at intervals. The women preparing to scatter.
 
 The twelve disciples converged on the upper room from multiple approaches. Peter and John together, Peter's hand resting on the sword he'd started carrying three weeks ago when the timeline compressed. Andrew and James arguing about something theological they still didn't understand. Thomas looking skeptical about everything, as always.
 
-Judas arriving last, having completed his coordination with the defensive extraction team.
+Judas arriving last, having finished coordinating the rescue.
 
 Jesus waiting at the entrance, knowing exactly what Judas had arranged.
 
 Knowing exactly how it would fail.
 
-Marcus found a position forty paces from the upper room entrance. Close enough to observe. Far enough to maintain documentation distance. A merchant's stall provided cover—the owner had abandoned it for the festival meal, leaving Marcus an excellent vantage point.
+Marcus found a position forty paces from the upper room entrance. Close enough to observe. Far enough to run if he needed to. A merchant's abandoned stall gave him cover and a clear view.
 
-He prepared three wax tablets. One for the extraction attempt. One for the arrest sequence. One for aftermath documentation.
-
-Multiple copies. Redundant recording. Defensive mode applied to documentation itself.
+He prepared three wax tablets. One for the rescue attempt. One for the arrest. One for what came after.
 
 The sun reached its zenith. Meal time. All three currents converging on the upper room.
 
 Marcus watched the offensive network final positioning. Malchus and the Roman centurion moving into position. Extra soldiers emerging from adjacent buildings—the hidden reserves defensive network didn't know about.
 
-He watched the defensive extraction team taking their positions. Confident. Prepared. Certain they had surprise advantage.
+He watched the rescue team taking their positions. Confident. Prepared. Certain they had surprise.
 
-They had sophisticated entrapment.
+They were walking into a trap.
 
 He watched Jesus enter the upper room, Mary and Sarah following, disciples gathering.
 
@@ -246,11 +238,9 @@ One last meal before the violence.
 
 Marcus checked his stylus, ensured his tablets were properly prepared.
 
-Then settled in to document an arrest that would be remembered as betrayal but was actually failed rescue.
+Then settled in to witness an arrest that would be remembered as betrayal but was actually a failed rescue.
 
-The teaching continued even in capture.
-
-He just had to record it accurately.
+He just had to write it down. All of it. Accurately.
 
 ---
 
@@ -258,25 +248,25 @@ He just had to record it accurately.
 
 *Jesus POV*
 
-The upper room smelled of bread and wine and the peculiar tension that came from twelve men and two women knowing everything was about to collapse while pretending normalcy.
+The upper room smelled of sweat and fear beneath the surface scents of fresh bread and sour wine. Oil lamps flickered in wall niches, throwing shifting shadows across anxious faces. Outside, festival songs drifted through the woven screen, but inside, even the scrape of bread being torn sounded too loud.
 
-Jesus broke bread with hands that would be nailed to wood tomorrow. Symbolic encoding. The body broken. The blood spilled. Defensive knowledge preserved through the very violence meant to destroy it.
+Jesus broke bread with hands that would be nailed to wood tomorrow. The body broken. The blood spilled. The teaching preserved through the very violence meant to destroy it.
 
 "Take, eat," he said, passing the bread. "This is my body, given for you. Do this in remembrance."
 
-Peter took the bread, confused. They were all confused. Three weeks of intensive teaching and they still thought metaphorically when he spoke literally.
+Peter took the bread with trembling hands, his weathered fisherman's fingers clumsy with the simple act. Confused. They were all confused. Three weeks of teaching and they still heard metaphor when he spoke plainly.
 
 Except Mary.
 
-She sat beside Sarah, both understanding the encoding perfectly. The meal wasn't spiritual mystery. It was instruction. *Remember the pattern. Remember the cost. Remember that martyrdom serves the teaching better than survival serves individual carriers.*
+She sat beside Sarah, both hearing the deeper layer clearly. The meal wasn't mystery. It was instruction. *Remember the pattern. Remember the cost. Remember that dying for the teaching serves it better than living for yourself.*
 
-The bread passed hand to hand. Twelve disciples. One woman. One child. All eating together while Temple guards positioned outside and defensive extraction teams prepared their doomed rescue.
+The bread passed hand to hand. Twelve disciples. One woman. One child. All eating together while Temple guards positioned outside and the rescue team prepared to fail.
 
 Jesus poured wine, the cup making rounds.
 
-"This cup is the new covenant in my blood," he said. Not metaphor. Historical fact. The defensive knowledge covenant rewritten with each generation's carrier blood. Forty-two generations before him. Generation forty-three beginning with Sarah when he died tomorrow. "Drink from it, all of you."
+"This cup is the new covenant in my blood," he said. Not metaphor. Truth. The covenant renewed with each generation's blood. Forty-two generations before him. Forty-three beginning with Sarah when he died tomorrow. "Drink from it, all of you."
 
-Sarah drank carefully, a seven-year-old participating in adult ceremony because her blood memory was already active. Already learning. Already encoding what she witnessed into generational transmission that would outlast empires.
+Sarah drank carefully, a seven-year-old participating in adult ceremony because the blood was already waking in her. Already learning. Already carrying what she witnessed into a future that would outlast empires.
 
 "But understand this," Jesus continued, knowing they wouldn't. Not today. Maybe in forty years when Jerusalem burned and the scattering fulfilled every prediction. "The one who will hand me over is here at this table."
 
@@ -288,7 +278,7 @@ Shock rippled through the room. Twelve disciples looking at each other with sudd
 
 "Is it I?" Thomas, skeptical even of his own potential betrayal.
 
-Jesus met Judas's eyes across the table. Saw the defensive operative's commitment. Saw the extraction plan rehearsed and coordinated. Saw the certainty that rescue was possible if executed correctly.
+Jesus met Judas's eyes across the table. Saw the man's commitment. Saw the rescue plan rehearsed and ready. Saw the certainty that saving him was still possible.
 
 Saw the failure that was coming.
 
@@ -298,21 +288,21 @@ Not accusation.
 
 Confirmation.
 
-*Yes, you will hand me over to the guards. That's your role in the extraction attempt. That's how defensive network planned it. And that's how it will fail, teaching the network more than success ever could.*
+*Yes, you will hand me to the guards. That's your role in the rescue. That's how the network planned it. And that's how it will fail — teaching them more than success ever could.*
 
-Judas stood, interpreting Jesus's words as permission. Time to coordinate the final details. Time to bribe the guards who thought they were being bribed. Time to create the confusion that would allow extraction.
+Judas stood, interpreting Jesus's words as permission. Time to set the last pieces in place. Time to bribe the guards who thought they were being bribed. Time to create the confusion that would let them pull Jesus free.
 
 Time to fail.
 
 "What you are going to do, do quickly," Jesus said.
 
-Judas left. The disciples assumed he was handling meal preparations or alms distribution. Still not understanding. Still thinking in surface meanings while the encoded pattern played out beneath their perception.
+Judas left. The disciples assumed he was handling meal preparations or alms distribution. Still not understanding. Still hearing the surface while the deeper pattern played out beneath their perception.
 
 Peter moved closer after Judas departed. "Lord, where are you going?"
 
-"Where I am going, you cannot follow now," Jesus said. True literally—Peter couldn't follow him into execution. True practically—Peter didn't have the pattern recognition yet to understand martyrdom strategy. "But you will follow afterward."
+"Where I am going, you cannot follow now," Jesus said. True literally — Peter couldn't follow him into execution. True in every other way — Peter didn't yet have the eyes to understand why a man would choose to die. "But you will follow afterward."
 
-When persecution scattered the network forty years from now. When defensive knowledge required geographic distribution. When Peter himself would be executed in Rome for teaching what he was only beginning to grasp tonight.
+When persecution scattered them forty years from now. When the teaching required distance to survive. When Peter himself would be executed in Rome for preaching what he was only beginning to grasp tonight.
 
 "Why can't I follow you now?" Peter's frustration evident. "I will lay down my life for you."
 
@@ -330,11 +320,11 @@ He turned to Mary, who'd been silent through the entire meal. She knew her role.
 
 "I understand," Mary confirmed. Then, softer: "I'm still not ready."
 
-"Tausret wasn't ready either." Jesus reached across the table, squeezed her hand briefly. "Readiness doesn't matter. Pattern recognition matters. You have that. Sarah has that. The knowledge will survive."
+"Tausret wasn't ready either." Jesus reached across the table, squeezed her hand. His fingers were cold. "Readiness doesn't matter. You can see what I see. Sarah can feel what we feel. The knowledge will survive."
 
 Sarah leaned against her mother, processing everything with seven-year-old seriousness.
 
-Outside, sound of armed men gathering. Defensive network extraction team moving into position. Offensive network counter-forces waiting for them to commit.
+Outside, sound of armed men gathering. The rescue team moving into position. The Temple's counter-forces waiting for them to show themselves.
 
 Three more minutes. Maybe four.
 
@@ -346,21 +336,21 @@ Then the door burst open.
 
 ---
 
-## Scene 5: The Failed Extraction
+## Scene 5: The Failed Rescue
 
 *Judas POV*
 
-The plan was perfect. Judas had coordinated defensive network extractions before—seven successful carrier rescues in his twelve years as an operative. He knew the method. Create chaos. Exploit confusion. Extract the target during the violence.
+The plan was perfect. Judas had done this before — seven successful rescues in his twelve years with the network. He knew the method. Create chaos. Use the confusion. Pull the man out during the violence.
 
 Twenty guards bribed. Half the Temple force. They would "arrest" Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus. The real carrier would escape through the Damascus route Simon had prepared.
 
-Standard defensive network protocol.
+It had worked every time before.
 
-He led the Temple guards and Roman soldiers toward the upper room, playing his role perfectly. The offensive network thought he was betraying Jesus. The defensive network knew he was executing extraction.
+He led the Temple guards and Roman soldiers toward the upper room, playing his role. The Temple thought he was betraying Jesus. The network knew he was carrying out a rescue.
 
 Everything proceeding as planned.
 
-"The one I greet with a kiss is the man," Judas said to the guards. The signal. The bribed guards would recognize it, move to create the extraction opportunity.
+"The one I greet with a kiss is the man," Judas said to the guards. The signal. The bribed guards would recognize it, move to create the opening.
 
 Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route—good. They understood timing.
 
@@ -368,7 +358,7 @@ Judas approached, committed to the role. "Greetings, Rabbi." He kissed Jesus on 
 
 The signal given.
 
-The bribed guards should move now. Create confusion. Begin the extraction.
+The bribed guards should move now. Create confusion. Begin the rescue.
 
 Instead, different guards moved. Ones Judas didn't recognize. Extra forces. Where did they come from?
 
@@ -380,13 +370,13 @@ The plan was compromised.
 
 Not accusation. Sadness.
 
-Because Jesus knew. Had known all along. The extraction would fail because the offensive network had anticipated defensive intervention. Extra forces. Counter-surveillance. The whole plan observed and countered before execution.
+Because Jesus knew. Had known all along. The rescue would fail because the Temple had anticipated every move. Extra forces. Watchers watching the watchers. The whole plan seen through and countered before it began.
 
 "Friend, do what you came to do," Jesus said.
 
 Permission. Or release. Or acknowledgment that failure was part of the pattern.
 
-The unbribed guards—Malchus leading them, the offensive network's forces—moved to arrest Jesus. The extraction attempt already failing.
+The unbribed guards — Malchus leading them, Caiaphas's men — moved to arrest Jesus. The rescue already failing.
 
 Peter drew his sword. No. That wasn't the plan. Defensive network didn't use violence except as last resort and this wasn't—
 
@@ -394,7 +384,7 @@ Peter swung wildly, striking Malchus. The blade caught the guard's ear, severing
 
 "No more of this!" Jesus commanded.
 
-He touched Malchus's ear. Defensive mode even in arrest—healing. De-escalation. Teaching by demonstration that defensive knowledge didn't require violence.
+He touched Malchus's ear. Even now — healing. Even in arrest — teaching by example that the knowledge he carried didn't require violence to survive.
 
 The ear reattached. Malchus gasped, touching his head in shock.
 
@@ -402,21 +392,21 @@ The guards hesitated, disturbed.
 
 Peter's sword clattered to the ground.
 
-Jesus turned to Peter. "Put your sword back in its place. For all who draw the sword will die by the sword. Do you think I cannot call on defensive network extraction? That twelve legions couldn't be here in an instant if that was the plan?"
+Jesus turned to Peter. "Put your sword back in its place. All who draw the sword will die by the sword. Do you think I couldn't call for rescue? That legions couldn't be here if that were the plan?"
 
 But it wasn't the plan.
 
 It had never been the plan.
 
-Judas realized with sudden, horrible clarity: Jesus had known the extraction would fail. Had let Judas attempt it anyway. Had let defensive network demonstrate the impossibility of rescuing a carrier who chose martyrdom.
+The truth hit Judas like a blow to the chest. His knees nearly buckled. Jesus had known — known the rescue would fail, known the extra guards waited, known Judas would stand here watching his teacher dragged away in chains. Had let him try anyway.
 
-The pattern across forty-two generations: extraction during arrest always fails.
+Forty-two generations had proved it: you cannot save someone who has chosen to die.
 
-This was the teaching.
+This was the lesson.
 
 Judas was the student.
 
-And he had just learned through catastrophic failure.
+And the taste of bile rose in his throat as he learned it.
 
 ---
 
@@ -424,19 +414,19 @@ And he had just learned through catastrophic failure.
 
 Marcus documented everything from his position forty paces away. The kiss signal. The extra guards Judas hadn't expected. Peter's panicked violence. Jesus healing the guard's ear even during arrest.
 
-The extraction attempt failing just as Jesus had warned three weeks ago.
+The rescue failing just as Jesus had warned three weeks ago.
 
 "Those who live by the sword die by the sword." Jesus's voice carried across the chaos. Teaching. Always teaching. Even now.
 
 The disciples scattered. Peter first, dropping his sword and running. Then Andrew, James, John. Thomas already gone. The twelve dispersing in panic just as Jesus had told them they would.
 
-Defensive network extraction team melted into the crowd, recognizing mission failure. No point staying to be arrested themselves. Better to regroup. Better to execute the scatter protocol and preserve knowledge rather than sacrifice operatives pointlessly.
+The rescue team melted into the crowd, recognizing failure. No point staying to be taken themselves. Better to scatter. Better to preserve the knowledge than throw lives away for nothing.
 
 Mary and Sarah disappeared down the Damascus route, Simon covering their retreat. Priority protection for the strongest carriers. The Pattern Eye in Mary's possession. The bronze keys split between her and Leah. The knowledge preserved even as the teacher was captured.
 
-Offensive network guards surrounded Jesus. Roman soldiers forming perimeter. Malchus touching his healed ear with wonder and horror—would he remember? Would he tell others what he'd witnessed?
+The guards surrounded Jesus. Roman soldiers forming a perimeter. Malchus touching his healed ear with wonder and horror — would he remember? Would he tell others what he'd witnessed?
 
-Seed planted. Even in capture, defensive mode propagating.
+Seed planted. Even in capture, the teaching spreading.
 
 "Am I leading a rebellion," Jesus asked the guards, "that you have come with swords and clubs? Every day I was teaching in the temple courts, and you did not arrest me. But this has happened that the scriptures might be fulfilled."
 
@@ -444,13 +434,13 @@ Not scriptures.
 
 Patterns.
 
-Forty-one generations of carrier executions following the identical pattern. Nefertari's blueprint executed again. Martyrdom as encoding mechanism. Death as distribution trigger.
+Forty-one generations of carrier executions following the identical pattern. Nefertari's design playing out again. Death as seed. Martyrdom as the planting.
 
 The guards bound Jesus's hands. No gentleness. Making the arrest humiliating. Making it public. Teaching a lesson to anyone watching.
 
 They didn't understand they were teaching the lesson Jesus wanted taught.
 
-Marcus kept documenting. Stylus moving across wax. Third tablet now—the aftermath. Judas standing alone in the emptied space, staring at Jesus being led away. The defensive operative's face showing complete mission failure.
+Marcus kept writing. Stylus moving across wax. Third tablet now — the aftermath. Judas standing alone in the emptied space, staring at Jesus being led away. The man's face showing something worse than failure. Something like a man watching his own purpose walk away in chains.
 
 Judas had been tasked with protecting Jesus.
 
@@ -458,7 +448,7 @@ Result: arrested, bound, being led to execution.
 
 Total failure of primary objective.
 
-Marcus knew that look. He'd worn it himself three weeks ago when he'd offered Jesus multiple extraction opportunities and been refused every time.
+Marcus knew that look. He'd worn it himself three weeks ago when he'd offered Jesus every chance to run and been refused every time.
 
 You couldn't save someone who chose martyrdom.
 
@@ -466,7 +456,7 @@ You could only witness them dying well.
 
 Judas hadn't learned that yet.
 
-Marcus watched the younger man stumble away, moving toward the Temple. Probably to return the blood money he'd been paid for the "betrayal" that was actually failed rescue. The offensive network wouldn't care. They had their prisoner. Tomorrow's execution was secured.
+Marcus watched the younger man stumble away toward the Temple. Probably to return the silver he'd been paid for the "betrayal" that was actually a failed rescue. The Temple wouldn't care. They had their prisoner. Tomorrow's execution was assured.
 
 Tonight, Marcus would document Jesus's interrogation.
 
@@ -476,15 +466,13 @@ The pattern continuing across generations.
 
 One carrier's death to ensure a thousand carriers' distribution.
 
-He closed his third tablet, tucked all three into his cloak. Multiple copies already secured in safe locations. Documentation preserved even if he was arrested tomorrow for testifying.
+He closed his third tablet with hands that trembled slightly. Six years of watching this man, and tomorrow he would see them kill him. He tucked all three tablets into his cloak. Copies already hidden in three different locations.
 
-The teaching survived through recording.
-
-That was defensive mode.
+The teaching survived through the record.
 
 That was the whole point.
 
-Marcus followed the arrest procession toward the Temple, maintaining documentation distance, bearing witness.
+Marcus followed the arrest procession toward the Temple, keeping his distance, bearing witness.
 
 As Jesus had asked.
 
@@ -498,27 +486,27 @@ As the pattern required.
 
 Mary ran.
 
-Not panic flight. Controlled evacuation. Simon ahead, clearing the Damascus route. Rachel and Leah flanking, providing cover. Abigail behind with emergency supplies. Sarah's hand in hers, seven years old and keeping pace with adult desperation.
+Each step away from Jesus felt like tearing something loose inside her chest. But Sarah's hand was in hers — small, warm, trusting — and that was enough to keep her legs moving. Simon ahead, clearing the road to Damascus. Rachel and Leah flanking. Abigail behind with supplies. Seven years old and Sarah kept pace with adult desperation.
 
 The Pattern Eye heavy in the leather satchel against her hip. Both bronze keys secured in separate hidden pockets. The knowledge preserved even as the primary carrier was arrested.
 
 "Why didn't they save him?" Sarah gasped, running hard but managing words. "Judas tried. Peter tried. Why didn't it work?"
 
-"Because he chose not to be saved," Mary said, pulling Sarah around a corner, following Simon's signals. "Martyrdom is the strategy, not the failure."
+"Because he chose not to be saved," Mary said, pulling Sarah around a corner, following Simon's signals. Her voice came out steadier than she felt. "His death is the plan, not the failure."
 
-They'd prepared for this. Three weeks of intensive planning. Scatter routes. Safe houses. Documentation distribution. Geographic separation to ensure redundancy. Mary had studied Nefertari's execution sequence in the blood memory—the first carrier's death had triggered identical scattering.
+They'd prepared for this. Three weeks of planning. Escape routes. Trusted houses. Writings copied and sent ahead. Mary had felt Nefertari's death in the blood — the first carrier's execution had triggered the same desperate scattering.
 
 The pattern worked.
 
 It was still brutal.
 
-Behind them, sounds of the arrest chaos fading. The disciples scattering in all directions—Peter toward the harbor, Thomas inland, John circling back (he would follow Jesus to the trial, Mary knew, unable to stay away). The defensive network extraction team dispersing to safe houses.
+Behind them, the sounds of chaos fading. The disciples scattering in all directions — Peter toward the harbor, Thomas inland, John circling back (he would follow Jesus to the trial, Mary knew, unable to stay away). The rescue team melting into the dark.
 
 Everyone following the plan Jesus had taught them.
 
 Everyone grieving anyway.
 
-Simon stopped at a checkpoint—defensive network guard confirming identity. "Mary. Sarah. Keys secured?"
+Simon stopped where a guard waited — one of theirs, confirming who they were. "Mary. Sarah. Keys secured?"
 
 "Secured," Mary confirmed.
 
@@ -528,31 +516,31 @@ Simon stopped at a checkpoint—defensive network guard confirming identity. "Ma
 
 Simon's face showed what they all felt. They were letting Jesus die. Choosing documentation over intervention. Preserving knowledge rather than saving the teacher.
 
-It felt like betrayal even though it was strategic necessity.
+It felt like betrayal even though it was the plan.
 
-"Damascus safe house," Simon continued. "Leah will take you. I'm coordinating the western scatter—Antioch, Ephesus, Corinth. Rachel's going to Alexandria with the medical texts. Abigail to Cyrene with the agricultural encoding."
+"Damascus," Simon continued. "Leah will take you. I'm sending the others west — Antioch, Ephesus, Corinth. Rachel to Alexandria with the healing texts. Abigail to Cyrene with the agricultural teachings."
 
-Geographic distribution. Multiple copies. Redundant preservation. Exactly what Jesus had taught them.
+Spread far enough that no single blow could destroy them. Exactly what Jesus had taught.
 
 "And if the offensive network tracks us?" Mary asked.
 
 "They will," Simon said flatly. "In approximately forty years when they destroy Jerusalem. That's when the diaspora completes. For now, we scatter enough to survive but not so far they notice."
 
-Forty years. The timeline Jesus had shown them. 70 CE. Jerusalem burned. Temple destroyed. Network scattered across the Roman world in refugee dispersion that looked like catastrophe but was actually distribution by design.
+Forty years. The timeline Jesus had shown them. Jerusalem would burn. The Temple fall. The teaching scattered across the Roman world in what looked like catastrophe but was actually by design.
 
-Defensive mode thinking in decades while others thought in days.
+She had learned to think in generations, not days. While those around her could see only today's disaster.
 
 "Go," Simon said. "Leah's waiting. Sarah needs rest. You need to start leading."
 
-Leading. The weight of it hit Mary fully. Jesus arrested. Network scattering. She was Generation 42 Branch 3 carrier now. Primary defensive knowledge holder. Sarah's teacher. The women's network coordinator.
+Leading. The weight of it hit Mary like a stone on her chest. Jesus arrested. Everyone scattering. She was the keeper now. The one who carried the knowledge forward. Sarah's teacher. The one the others would look to.
 
 She wasn't ready.
 
 She went anyway.
 
-Leah emerged from an alley, two other women with her. Defensive network guards who would escort them to Damascus. "Mary. Sarah. This way."
+Leah emerged from an alley, two other women with her — guards who would walk them to Damascus. "Mary. Sarah. This way."
 
-They followed. Running again. But controlled now. Purposeful. The scatter protocol executing as designed.
+They followed. Running again. But with purpose now. The plan carrying them forward even as grief tried to pull them back.
 
 Sarah looked back once, toward where the arrest had happened. "Will we see him again?"
 
@@ -560,17 +548,17 @@ Sarah looked back once, toward where the arrest had happened. "Will we see him a
 
 "Why not?"
 
-"Because witnesses who matter must survive. Marcus will document the execution. We must preserve what he taught."
+"Because those who carry the teaching must survive. Marcus will witness the execution. We must keep what he gave us alive."
 
-Sarah processed this with the seriousness of a child whose blood memory was already active. Already learning that defensive mode required choosing knowledge over people. Pattern over individual.
+Sarah was quiet for a moment. Then, very small: "It's not fair."
 
-Long-term survival over short-term rescue.
+"No," Mary said. "It's not."
 
 "I'll remember," Sarah said. "Everything he taught. Everything that happens. I'll remember for Generation 43."
 
 Mary squeezed her daughter's hand. "I know you will."
 
-They ran through Capernaum's streets as night fell. Behind them, Jesus being interrogated by Temple authorities. Ahead of them, Damascus safe house and the beginning of leadership Mary hadn't wanted and accepted anyway.
+They ran through Capernaum's streets as night fell. Behind them, Jesus being dragged before the Temple council. Ahead, Damascus and the beginning of a burden Mary hadn't wanted and accepted anyway.
 
 The pattern continuing.
 
@@ -608,7 +596,7 @@ The council agreed. Death sentence decided. Tomorrow's crucifixion secured.
 
 Jesus said nothing more. No defense. No argument. Just acceptance.
 
-The guards took him to holding cells. Tomorrow they would transfer custody to Pilate for Roman execution. Make it official. Make it legal. Make it a warning to anyone else who thought they could teach defensive knowledge without official authorization.
+The guards took him to holding cells. Tomorrow they would give him to Pilate for Roman execution. Make it official. Make it legal. Make it a warning to anyone else who thought they could teach without permission.
 
 Marcus documented everything. Time. Location. Exact words. Council composition. Guard positions.
 
@@ -618,7 +606,7 @@ One guard paused as they led Jesus away—Malchus, the one Peter had struck. The
 
 "Why did you heal me?" Malchus asked quietly. "I was arresting you."
 
-Jesus met his eyes. "Because defensive mode doesn't require enemies to have enemies. Only knowledge to preserve knowledge."
+Jesus met his eyes. "A shepherd tends even the wolves that threaten his flock. The teaching I carry doesn't require hatred to survive — only truth."
 
 Malchus didn't understand. But he would remember. And maybe decades from now, when the network needed an unexpected ally, that memory would matter.
 
@@ -634,83 +622,63 @@ He needed to secure tonight's documentation before witnessing tomorrow's executi
 
 *Judas POV*
 
-Judas walked through Jerusalem's streets as night gave way to dawn. The blood money—thirty silver pieces, payment for "betraying" Jesus to the Temple authorities—heavy in his satchel.
+Judas walked through Jerusalem's streets as night gave way to dawn. The blood money — thirty shekels of silver, payment for "betraying" Jesus to the Temple — heavy in his satchel.
 
-Payment for failed extraction.
+Payment for a failed rescue.
 
-He'd been a defensive network operative for twelve years. Seven successful carrier rescues. Trained in extraction techniques. Confident in his capabilities.
+Twelve years with the network. Seven men and women pulled from the jaws of arrest. He'd been good at this. The best.
 
 Tonight he'd failed completely.
 
-The extraction plan compromised before execution. Extra guards he hadn't anticipated. Bribed forces not cooperating. Peter's panic violence destroying any chance of controlled chaos. Jesus arrested. Bound. Condemned.
+The plan seen through before it began. Extra guards he hadn't expected. The bribed men refusing to move. Peter's panicked violence destroying any chance of controlled confusion. Jesus arrested. Bound. Condemned.
 
-Total mission failure.
+And Judas could still hear Jesus's voice — sad, knowing — saying *Friend, do what you came to do.* As if failure were forgiveness.
 
 Judas entered the Temple treasury, sought out the priests who'd paid him.
 
 "I have sinned," he said, setting the silver on the table. "I have betrayed innocent blood."
 
-Not theological confession.
+Not confession of sin.
 
-Operational assessment.
+Confession of failure.
 
-*I failed to protect the carrier. I have failed my primary objective.*
+*I was supposed to save him. I couldn't.*
 
 The priests looked at him with indifference. "What is that to us? That's your responsibility."
 
-Because they didn't care about defensive network mission failure. They had their prisoner. Tomorrow's execution was secured. Judas's success or failure in extraction didn't matter to them.
+Because they didn't care about his grief. They had their prisoner. Tomorrow's execution was assured. Whether Judas mourned or celebrated made no difference to them.
 
 It mattered to Judas.
 
-Twelve years as a defensive operative. Primary mission: protect carriers.
+Twelve years protecting the teachers. The carriers. The ones who held the knowledge. And the one he'd sworn to protect was chained in a cell, waiting to die tomorrow.
 
-Result: carrier arrested, condemned, being executed tomorrow.
+He'd thought he was different. Thought he was skilled enough to succeed where others had failed. He could still see Jesus healing Malchus's ear — tenderness toward the very man arresting him. The love in that gesture. And Judas had failed to save it.
 
-He'd thought he was different. Thought he was skilled enough to succeed where others failed. Thought extraction during arrest was possible if executed correctly.
-
-He'd been wrong.
-
-The pattern across forty-two generations held: extraction during arrest fails when carrier chooses martyrdom.
-
-Jesus had known. Had let Judas attempt the impossible anyway. Had let defensive network learn through failure rather than explanation.
-
-Teaching through demonstration.
-
-Even in arrest.
-
-Judas left the Temple, the rejected silver behind him. Dawn breaking over Jerusalem. Somewhere Jesus was in a holding cell, awaiting crucifixion. Somewhere Mary and Sarah were reaching Damascus safe house, beginning leadership transition. Somewhere the network was scattering, preserving knowledge.
-
-Somewhere the mission continued despite his failure.
+He left the Temple. The rejected silver behind him. Dawn breaking over Jerusalem. Somewhere Jesus waited in chains. Somewhere Mary and Sarah were reaching Damascus, beginning to lead. Somewhere the teaching continued without him.
 
 But not for him.
 
-Twelve years protecting carriers. Tonight, complete failure. Tomorrow, the carrier he'd sworn to protect would die while Judas lived.
+He could still hear Jesus by the lake, three years ago, laughing at Peter's clumsy net-casting. Could still see him kneeling to wash road dust from Sarah's feet. Could still feel the weight of Jesus's hand on his shoulder: *I trust you, Judas. More than the others know.*
 
-That wasn't acceptable.
+That trust was a chain now.
 
 He found the tree on the eastern slope. Strong branch. Good height.
 
-Defensive network operatives who failed primary missions didn't continue operating. They removed themselves as security risks. Standard protocol. If he'd been captured during the failed extraction, he would have been interrogated. Network locations exposed. Scatter routes revealed.
+If he'd been captured during the failed rescue, he would have been questioned. The escape routes revealed. Mary and Sarah found. He knew too much to live and too little to help.
 
-Better to remove the vulnerability.
-
-Better to accept the cost of failure.
-
-Judas secured the rope, tested the branch's strength.
+Judas's hands shook as he knotted the rope. Twelve years of training guiding fingers that could barely hold steady. The hemp felt rough, real — more real than anything since watching Jesus dragged away.
 
 Not guilt over betrayal.
 
-Grief over failed rescue.
+Grief over a rescue that never had a chance.
 
-The historical accounts would record it wrong. Would call him traitor. Would remember the kiss as betrayal rather than extraction signal. Would forget that he died trying to save Jesus, not profit from selling him.
+The world would remember it wrong. Would call him traitor. Would remember the kiss as betrayal instead of the signal for a rescue that failed before it started. Would forget that he died trying to save Jesus, not profit from selling him.
 
-But the defensive network would know.
+But Mary would know the truth.
 
-Mary would know.
+Sarah would teach her children the truth.
 
-Sarah would teach Generation 43 the truth.
-
-That mattered more than historical reputation.
+He thought of his mother in Kerioth, who would learn of her son's death from strangers. Forgive me.
 
 Judas stepped off the branch.
 
@@ -718,63 +686,43 @@ Judas stepped off the branch.
 
 *Marcus POV*
 
-Marcus found Judas's body at dawn. The defensive network operative hanging from the tree, rope still swaying slightly in the morning breeze.
+Marcus found Judas's body at dawn. The air tasted of woodsmoke and baking bread — Jerusalem waking to another ordinary day. The rope still swayed slightly in the morning breeze.
 
-He'd seen suicides before. Military service taught you to recognize the signs. The careful preparation. The methodical execution. The finality.
+He'd seen suicides before. Military service taught you to recognize the signs. The careful knots. The deliberate choice of location. The finality.
 
 This wasn't despair.
 
-This was operational protocol.
+This was a man who knew too much to risk being taken alive.
 
-Marcus documented the position, the method, the location. Added it to the tablets recording last night's arrest. Future generations would need to understand that Judas's death wasn't guilt over betrayal but grief over mission failure.
+Marcus wrote down the position, the method, the location. Added it to last night's record. Someone, someday, would need to understand that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work.
 
-The historical villain was actually a tragic hero who tried to save a carrier and couldn't.
+The man history would call traitor was actually a man who'd died trying to save someone he loved.
 
-The pattern held across all aspects. Not just execution. But defensive network response. Failed rescue. Suicide after mission failure. Even the smallest details following ancient blueprints.
-
-Nefertari had designed this perfectly.
-
-Marcus left Judas's body for the authorities to find. He had an execution to document today. The crucifixion started in three hours.
+Marcus left the body for the authorities to find. He had an execution to witness. The crucifixion started in three hours.
 
 He walked toward Golgotha, the place of skulls, where Roman execution machinery waited.
 
 Where Jesus would die well.
 
-Where defensive knowledge would be encoded through martyrdom.
+Where the teaching would be sealed in blood.
 
 Where forty-two generations of pattern would continue into forty-three.
 
-Marcus prepared his tablets. Multiple copies. Redundant documentation. Defensive mode applied to historical recording.
-
-He would witness everything.
-
-Record everything.
-
-Save nothing.
+He would witness everything. Record everything. Save nothing.
 
 As Jesus had asked.
 
-As the pattern required.
-
-The sun rose over Jerusalem. Festival day. Celebration continuing while a carpenter was led to execution for teaching systems thinking disguised as spiritual wisdom.
+The sun rose over Jerusalem. Festival day. Celebration continuing while a carpenter was led to execution for teaching people to see what the powerful didn't want seen.
 
 Marcus positioned himself where he could see clearly.
 
-Tomorrow would be Chapter 12.
-
 Today was the betrayal that wasn't betrayal.
 
-The failed rescue that taught defensive network more than successful extraction ever could.
+The failed rescue. The tragic man hanging from a tree while history prepared to call him villain.
 
-The tragic hero hanged while history remembered him as villain.
+And somewhere on the Damascus road, a woman and a seven-year-old girl carried the teaching forward. Running. Grieving. Continuing anyway.
 
-All of it encoded. All of it preserved. All of it part of the pattern.
-
-Marcus began documenting.
-
-The witness bearing witness.
-
-Defensive mode continuing across millennia.
+Marcus steadied his stylus. The witness bearing witness.
 
 One execution at a time.
 

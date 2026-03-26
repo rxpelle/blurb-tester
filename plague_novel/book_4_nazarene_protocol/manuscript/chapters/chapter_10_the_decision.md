@@ -12,7 +12,7 @@ The Galilean summer heat pressed down on Capernaum like a weight, but the upper 
 
 Marcus Publius Scipio stood in the doorway. Not the nervous civilian who'd warned them about timeline acceleration three months ago. Not the defector who'd chosen conscience over network allegiance.
 
-Marcus the operative. The face he'd worn for fifteen years before Jesus had taught him to think differently.
+Marcus the agent. The mask he'd worn for fifteen years before Jesus had taught him to think differently.
 
 "They sent you," Jesus said. He'd known before Marcus knocked.
 
@@ -26,9 +26,9 @@ Enhanced Protocol showed him exactly why Helena was offering extraction now.
 
 Marcus's expression confirmed it. "Three weeks. Maybe four. Caiaphas convinced Pilate that waiting nine more months gives you too much time to spread whatever you're teaching. They're planning arrest during Sukkot festival—maximum crowd deterrent effect, symbolic timing for harvest festival."
 
-Jesus set down the Pattern Eye carefully. Three weeks. Not nine months. Not even the compressed timeline they'd been working with.
+Jesus set down the Pattern Eye carefully. His hands were steady but something cold settled behind his ribs. Three weeks. Not nine months. Not even the compressed timeline they'd been working with.
 
-Three weeks to encode everything.
+Three weeks to plant everything that mattered.
 
 "When did they decide?"
 
@@ -38,7 +38,7 @@ Three weeks to encode everything.
 
 "Yes."
 
-Jesus stood, moved to the window overlooking Capernaum's morning streets. Fishing boats on the Sea of Galilee. Markets opening. Ordinary people living ordinary lives, most of them unaware that networks thousands of years old were engineering the execution of a carpenter who'd started teaching about kingdoms and seeds and systems thinking three years ago.
+Jesus stood, moved to the window overlooking Capernaum's morning streets. Fishing boats on the Sea of Galilee. Markets opening. Ordinary people living ordinary lives, most of them unaware that forces thousands of years old were engineering the execution of a carpenter who'd started teaching about kingdoms and seeds and the way things hold together three years ago.
 
 "Where's Mary?" Jesus asked.
 
@@ -48,7 +48,7 @@ Jesus stood, moved to the window overlooking Capernaum's morning streets. Fishin
 
 Marcus was quiet for a long moment. "Then Helena will extract Mary and Sarah forcibly. Preserve the bloodline and the documentation even if she can't save you. She's thinking in generations, not months."
 
-Jesus had accessed enough Protocol through two-key enhancement to understand Helena's calculation perfectly. One perfect carrier versus knowledge distribution to hundreds. One life versus generational preservation. The math was clear.
+Jesus had accessed enough through two-key enhancement to understand Helena's calculation perfectly. One life weighed against teaching that could reach hundreds. One man versus generations of preservation. The arithmetic was clear.
 
 It was also wrong.
 
@@ -58,13 +58,13 @@ It was also wrong.
 
 "Three weeks is enough."
 
-"It's not. We calculated nine months minimum for full encoding. Three weeks is catastrophically insufficient. You'll die with most of the Protocol untaught, most of the carriers untrained, most of the teaching undistributed."
+"It's not. We reckoned nine months minimum to pass on what matters. Three weeks is nothing. You'll die with most of it untaught, most of the carriers untrained, most of the teaching unplanted."
 
-Jesus turned from the window. "I'll die with the *essential* teaching done. The rest can survive through what I've already woven into public teaching. The parables. The dual-layer structure. The meditation practices. I've been teaching for three years, Marcus. Not nine months. Three years. Adequate foundation exists."
+Jesus turned from the window. "I'll die with the *essential* teaching done. The rest can survive through what I've already woven into public teaching. The parables. The layered stories. The meditation practices. I've been teaching for three years, Marcus. Not nine months. Three years. The foundation is there."
 
-"Adequate isn't comprehensive."
+"A foundation isn't a finished house."
 
-"Comprehensive isn't possible in three weeks. But adequate can preserve defensive mode well enough for bloodline transmission. Mary has two-key access now through the artifacts I've been training her with. Leah, Rachel, Abigail have basic Protocol access. Sarah is Generation 43 with strong genetic predisposition. The network has redundancy."
+"No. But it's enough to build on. Mary has two-key access now through the artifacts I've been training her with. Leah, Rachel, Abigail can read the patterns. Sarah is Generation 43 with strong bloodline. The teaching won't die with me."
 
 Marcus sat down heavily on the bench. "You're choosing martyrdom."
 
@@ -74,33 +74,33 @@ Marcus sat down heavily on the bench. "You're choosing martyrdom."
 
 Jesus sat across from him. "Two questions, Marcus. First: What happens if I extract to Alexandria and offensive network tracks me there?"
 
-"Helena has protection. Safe house. Network security."
+"Helena has protection. A hidden house. Guards."
 
 "For how long? Months? Years? How long before Caiaphas's network finds me, confirms I'm alive, mobilizes elimination? Do I spend the rest of my life hiding? Teaching in secret to small groups while Rome and Temple hunt me?"
 
 Marcus didn't answer.
 
-"Second question: What happens to everyone I've taught if I disappear? The eight thousand who heard the parables last week. The two hundred in the core network. The disciples who've been learning for three years. If I vanish the night before arrest, what do they conclude?"
+"Second question: What happens to everyone I've taught if I disappear? The eight thousand who heard the parables last week. The two hundred who've committed their lives. The disciples who've been learning for three years. If I vanish the night before arrest, what do they conclude?"
 
 "That you escaped. That you're alive."
 
-"That I ran. That defensive mode teaching isn't worth dying for. That when power came for me, I chose survival over methodology." Jesus leaned forward. "Martyrdom isn't waste, Marcus. It's encoding. Tausret proved that twelve hundred years ago. She was executed by the Thirty-Fourth Dynasty for teaching defensive knowledge. Her death validated the teaching—proved offensive power feared it enough to kill for it. That validation preserved defensive mode through Bronze Age collapse better than if she'd escaped and died quietly in old age."
+"That I ran. That the teaching isn't worth dying for. That when power came for me, I chose my own skin over what I'd spent three years preaching." Jesus leaned forward. "Martyrdom isn't waste, Marcus. It's a seed. Tausret proved that twelve hundred years ago. She was executed by the Thirty-Fourth Dynasty for teaching what they feared. Her death proved the teaching mattered — proved the powerful feared it enough to kill for it. That kept the teaching alive through the Bronze Age collapse better than if she'd escaped and died quietly in old age."
 
 "So you're copying her strategy."
 
-"I'm implementing the strategy she encoded in the Protocol. The one I've accessed through blood memory. The one that shows me execution isn't failure—it's completion. I teach as much as possible before death. Death validates teaching. Validation motivates preservation. Preservation ensures bloodline continues. Continuation means defensive mode survives even when carrier doesn't."
+"I'm following the path she wove into the blood. The one I've felt through forty-one generations. Execution isn't failure — it's completion. I teach as much as I can before death. Death proves the teaching matters. That proof makes people preserve it. Preservation ensures the bloodline continues. The knowledge survives even when the carrier doesn't."
 
-Marcus processed this. "Nefertari designed this. Not just as method but as recurring pattern."
+Marcus was quiet for a moment. "Nefertari designed this. Not just as a way to teach but as something that repeats."
 
-"Forty-one generations from her daughter to me. Forty-one cycles of carriers teaching, being persecuted, dying, passing knowledge forward anyway. The pattern works precisely because offensive forces keep trying to destroy it and failing. Every execution proves defensive knowledge is threatening. Every threat validates importance. Every validation strengthens transmission."
+"Forty-one generations from her daughter to me. Forty-one times carriers taught, were persecuted, died, passed the knowledge forward anyway. It works precisely because the powerful keep trying to destroy it and failing. Every execution proves the teaching is dangerous to them. Every death proves it matters. Every proof makes people hold on harder."
 
 "But you could have nine more months with extraction. Could teach more thoroughly. Train Mary better. Prepare Sarah for Generation 43 responsibility."
 
-"In hiding. In fear. Teaching small groups in secret while offensive network mobilizes against safe house. That's not nine months of teaching. That's nine months of running." Jesus stood again, restless with the decision he'd already made but needing to articulate for Marcus to document. "I have three weeks of public teaching left. Large crowds. Maximum distribution. Teaching boldly without hiding because I know exactly when death comes. That's more valuable than nine months of scattered secret teaching while looking over my shoulder."
+"In hiding. In fear. Teaching small groups behind closed doors while the Temple sends men to find me. That's not nine months of teaching. That's nine months of running." Jesus stood again, restless with the decision he'd already made but needing to say it aloud so Marcus could write it down. "I have three weeks of public teaching left. Large crowds. Bold teaching. I know exactly when death comes, so I can teach without looking over my shoulder. That's worth more than nine months of whispering in safe houses."
 
 "Helena won't accept this."
 
-"Helena doesn't control me. She brought keys to enhance access, but enhanced access showed me martyrdom is deliberate, not tragic." Jesus picked up the Pattern Eye again. "Tell her I'm grateful for extraction offer. Tell her I refuse. Tell her to focus resources on Mary's protection and Sarah's training after I'm gone. That serves defensive knowledge better than wasting network energy trying to save me."
+"Helena doesn't control me. She brought keys to strengthen my sight, and what I see now is that this death is deliberate, not tragic." Jesus picked up the Pattern Eye again. "Tell her I'm grateful. Tell her I refuse. Tell her to spend every resource protecting Mary and training Sarah after I'm gone. That serves the teaching better than spending lives trying to save mine."
 
 Marcus stood. "She'll try to extract you anyway. Involuntary if necessary."
 
@@ -108,21 +108,21 @@ Marcus stood. "She'll try to extract you anyway. Involuntary if necessary."
 
 "You're very calm about dying in three weeks."
 
-Jesus smiled faintly. "I'm terrified. But terror doesn't change strategy. Defensive mode means doing what's necessary despite fear. That's what I've been teaching for three years. Time to demonstrate I believe it."
+Jesus's hands trembled slightly. He pressed them flat against the table. "I'm terrified. But fear doesn't change what needs doing. I've been teaching for three years that you do what's right even when it costs you everything. Time to show I believe it."
 
 Marcus moved to the door, then paused. "For the record: I think you're making the right choice for the wrong reasons. You're choosing martyrdom because you believe it serves the teaching. I think you're choosing it because you can't bear the thought of living in fear. Of running. Of being less than the example you've set."
 
-Jesus considered this. "Maybe both. Maybe martyrdom serves defensive mode *and* I can't stomach hiding. Do the reasons matter if the outcome is correct?"
+Jesus considered this. "Maybe both. Maybe dying serves the teaching *and* I can't stomach hiding. Do the reasons matter if the outcome is right?"
 
-"They matter to how your death is remembered. If you die as deliberate martyr, it validates teaching. If you die because you refused to compromise your pride, it validates offensive network's claim you were just another messianic fanatic too stubborn to survive."
+"They matter to how your death is remembered. If you die as a man who chose this, it proves the teaching mattered. If you die because you were too proud to run, it proves Caiaphas was right — that you were just another zealot too stubborn to survive."
 
 The observation was sharp. True.
 
-"Then I need to make the strategy visible in the teaching," Jesus said slowly. "Encode martyrdom utilization in the final three weeks. Make it clear I'm choosing death deliberately, not stumbling into it through stubbornness. Show that defensive mode sometimes requires sacrifice for preservation."
+"Then I need to weave it into the teaching," Jesus said slowly. "These last three weeks — make it clear I'm choosing death deliberately, not stumbling into it through stubbornness. Show that sometimes one man dies so the knowledge lives."
 
-"How do you encode that in parables without triggering immediate arrest?"
+"How do you teach that in parables without triggering immediate arrest?"
 
-"Carefully. Layers within layers. Surface teaching about seeds and harvest. Deeper encoding about systemic continuation through apparent death. The method I've been using for three years, just condensed and clarified."
+"Carefully. Layers within layers. Surface teaching about seeds and harvest. Deeper meaning about how things continue through what looks like death. The same method I've been using for three years, just sharper."
 
 Marcus nodded. "I'll tell Helena. Document your refusal. Make sure the network understands your reasoning even if they disagree with your choice."
 
@@ -134,9 +134,9 @@ He left. Jesus stood alone in the upper room, Pattern Eye in one hand, the weigh
 
 Three weeks. To prepare Mary. To teach Sarah enough that Generation 43 would have foundation.
 
-The Pattern Eye pulsed with blood memory—Nefertari's voice across twelve centuries: *"Teach until they kill you. Die well. Trust the bloodline to continue."*
+The Pattern Eye pulsed with blood memory—Nefertari's voice across twelve centuries: *"Teach until they kill you. Die well. Trust the blood to continue."*
 
-He'd known since Qumran. But knowing intellectually and accepting emotionally were different.
+He'd known since Qumran. But knowing in the mind and accepting in the body were different.
 
 He closed his eyes. Felt forty-one generations of ancestors who'd faced the same choice—teach or hide, persist or flee.
 
@@ -146,13 +146,13 @@ Every one of them had chosen continuation.
 
 ## SCENE 2: THE CONVERSATION WITH MARY
 
-Mary found him on the hillside above Capernaum where he often went to pray—which meant meditate, which meant intentionally access blood memory without overwhelming himself.
+Mary found him on the hillside above Capernaum where he often went to pray — which meant meditate, which meant reach into the blood without letting it drown him. Wind carried the scent of olive trees and distant cooking smoke. The limestone was warm from the day's heat.
 
-She'd brought Sarah. Seven years old now, Generation 43, already showing pattern recognition that marked strong carriers. The girl needed to witness this conversation. Needed to learn what defensive leadership cost.
+She'd brought Sarah. Seven years old now, Generation 43, already showing the sight that marked strong carriers. The girl needed to witness this conversation. Needed to learn what defensive leadership cost.
 
 "Marcus said you refused extraction," Mary said without preamble.
 
-Jesus opened his eyes. They'd been meditating together for three years. She recognized when he'd been deep in Protocol access—the slight disorientation, the need to ground himself in present reality after experiencing inherited memories.
+Jesus opened his eyes. They'd been meditating together for three years. She recognized when he'd been deep in the blood — the slight disorientation, the need to ground himself in the present after swimming through inherited memories.
 
 "I refused."
 
@@ -166,21 +166,21 @@ Mary sat beside him, Sarah settling on her other side. Below them, Capernaum spr
 
 "Yes."
 
-"We calculated nine months minimum. You said two-key access made full encoding possible in that timeframe. Three weeks is—"
+"We reckoned nine months minimum. You said two-key access made it possible in that time. Three weeks is—"
 
-"Catastrophically insufficient," Jesus finished. "I know. Marcus said the same thing. And you're both right that complete encoding won't be possible. But sufficient encoding is. Foundation exists. Method is established. Bloodline is secure. Continuation is viable."
+"Nothing," Jesus finished. "I know. Marcus said the same thing. And you're both right — I can't pass on everything. But I can pass on enough. The foundation exists. The method is established. The bloodline is secure."
 
 Sarah tugged on Mary's sleeve. "Mama, what's extraction?"
 
-Mary looked at her daughter—seven years old and learning about martyrdom strategies, network manipulations, the cost of carrying defensive knowledge. What childhood was this?
+Mary looked at her daughter — seven years old and learning about death as a tool, about the cost of carrying knowledge the powerful wanted destroyed. What childhood was this?
 
-But defensive mode didn't allow normal childhoods for carriers. Hadn't for forty-two generations.
+But the blood had never allowed normal childhoods for carriers. Hadn't for forty-two generations.
 
 "Extraction means taking Jesus somewhere safe so the offensive network can't arrest him," Mary explained.
 
 "Then why isn't he going?" Sarah asked.
 
-"Because," Jesus said, answering directly, "running means teaching in hiding. Teaching in hiding means fewer people learn the teaching. Fewer people learning means defensive knowledge spreads more slowly. Slower spreading means higher risk it gets lost before bloodline transmission secures it. And because"—he looked at Mary—"martyrdom validates teaching in ways survival never could."
+"Because," Jesus said, answering directly, "running means teaching in hiding. Teaching in hiding means fewer people hear. Fewer people hearing means the knowledge spreads too slowly — might die before it takes root." He looked at Mary. "And because dying for what you teach proves to everyone watching that it mattered."
 
 Sarah considered this with the seriousness of someone accessing blood memory fragments even at seven. "Nefertari died teaching too."
 
@@ -198,7 +198,7 @@ The simplification was almost unbearable. But also accurate.
 
 Sarah nodded, apparently satisfied with the logic. Mary wanted to scream.
 
-"Don't," Mary said, her voice tight. "Don't use seven-year-old logic to justify martyrdom you've chosen for other reasons. Don't pretend this is just strategic calculation when it's also pride, stubbornness, inability to accept that running might serve defensive mode better than dying."
+"Don't," Mary said, her voice tight. "Don't use a child's simplicity to justify what you've chosen for other reasons. Don't pretend this is pure wisdom when it's also pride, stubbornness, an inability to accept that running might serve the teaching better than dying."
 
 Jesus met her eyes. "You think I'm choosing death because I can't bear the thought of hiding."
 
@@ -208,11 +208,11 @@ Jesus met her eyes. "You think I'm choosing death because I can't bear the thoug
 
 The admission seemed to surprise her.
 
-"I'm choosing martyrdom because it serves the work," Jesus continued. "But I'm also choosing it because I can't reconcile three years of teaching about persistence and courage with nine months of hiding in fear. Marcus said the same thing—that my reasons matter to how death is remembered. He's right. So I need to make sure my death is remembered as strategic choice, not stubborn pride."
+"I'm choosing this because it serves the work," Jesus continued. "But I'm also choosing it because I can't reconcile three years of teaching about persistence and courage with nine months of hiding in fear. Marcus said my reasons matter to how my death is remembered. He's right. So I need to make sure it's remembered as a choice, not as stubbornness."
 
 "How do you do that in three weeks?"
 
-"By encoding martyrdom utilization in the final teachings. By making it visible that I'm choosing death deliberately for preservation purposes. By showing defensive mode sometimes requires individual sacrifice for systemic continuation."
+"By weaving it into the final teachings. By making it clear I'm choosing death deliberately — that sometimes one person dies so the knowledge survives for generations."
 
 Mary was quiet. Then: "You're going to teach your own execution as method."
 
@@ -220,7 +220,7 @@ Mary was quiet. Then: "You're going to teach your own execution as method."
 
 "That's—" She stopped. Started again. "That's exactly what Nefertari did. I accessed it in blood memory two months ago. Her final teachings before the Thirty-Fourth Dynasty executed her were about how defensive carriers sometimes die so defensive knowledge survives. She encoded her own martyrdom as pattern for future generations."
 
-"And it worked," Jesus said softly. "Twelve hundred years later, I'm implementing the same strategy. Because blood memory shows me it works. Shows me that offensive forces trying to destroy defensive knowledge accidentally preserve it by validating its importance."
+"And it worked," Jesus said softly. "Twelve hundred years later, I'm walking the same path. Because the blood shows me it works. The powerful try to destroy what threatens them and accidentally prove it matters."
 
 Sarah looked up at Mary. "Mama, are you going to teach me after Jesus dies?"
 
@@ -230,49 +230,49 @@ Mary's eyes were wet. "Yes."
 
 "Yes."
 
-"Then it's working. The pattern." Sarah's voice was matter-of-fact, seven-year-old logic cutting through emotional complexity. "Jesus teaches you. You teach me. I teach my children. The blood memory keeps going. His dying doesn't stop it."
+"Then it's working. The pattern." Sarah's voice was quiet but steady. "Jesus teaches you. You teach me. I teach my children. The blood keeps going. His dying doesn't stop it."
 
 Jesus looked at Mary. "She understands."
 
 "She's seven years old and shouldn't have to understand martyrdom strategy."
 
-"I'm Generation 43," Sarah corrected. "I carry blood memory from Nefertari through forty-two generations. The martyrdom strategy is in my genetics. I'm just learning to recognize what I already know."
+"I'm Generation 43," Sarah said, the words sounding too large in her small voice. "I feel things — old things, like dreams that aren't mine. They tell me this has happened before. Teachers dying so the teaching lives." She pressed closer to Mary. "I don't like it. But I understand it."
 
 It was true. Disturbing and true.
 
 Mary pulled Sarah closer. "Three weeks. How do we use them?"
 
-Jesus had been thinking about this since Marcus left. "We prioritize. Only what's essential. Bare minimum for carrier training continuation. Everything else gets woven into public parables for general distribution with trust that some of it survives even without carrier verification."
+Jesus had been thinking about this since Marcus left. "We choose what matters most. Only what's essential for the carriers to continue. Everything else gets woven into public parables and we trust that some of it survives even without carriers to verify it."
 
 "Priority one?"
 
-"Your leadership training. You need to know enough to lead the network after I'm gone. Protocol access verification. How to multiply the teaching. Conflict resolution. Protection protocols. Documentation procedures."
+"Your leadership. You need to know enough to lead after I'm gone. How to read the blood clearly. How to multiply the teaching. How to settle disputes, protect the carriers, keep the records."
 
 "I've been learning this for three years."
 
-"You've been learning with me available for verification. After three weeks, you'll be leading alone. That's different. We need to simulate my absence. Practice your decision-making without my confirmation. Build confidence in your Protocol access."
+"You've been learning with me beside you to confirm what you see. After three weeks, you lead alone. That's different. We need to practice my absence. You make decisions without looking to me. You learn to trust what the blood shows you."
 
 Mary took this in. "Priority two?"
 
-"Sarah's foundation. She's seven. Won't be ready for full Protocol access for years. But we give her the framework now. Pattern recognition training. Systems thinking basics. Blood memory management techniques so she doesn't get overwhelmed like you were five years ago."
+"Sarah's foundation. She's seven. Won't be ready for full access for years. But we give her the bones of it now. Teach her to see patterns. Teach her how things connect. Give her the breathing and stillness so the blood doesn't overwhelm her the way it overwhelmed you five years ago."
 
 "Priority three?"
 
-"Leah, Rachel, Abigail. The three with basic Protocol access. They need enough training to verify your teaching after I'm gone. Cross-check your pattern recognition. Prevent drift in the teaching. No one person the whole thing depends on."
+"Leah, Rachel, Abigail. The three who can read the patterns. They need enough training to check your teaching after I'm gone. Compare what they see with what you see. Keep the teaching true. No single person the whole thing depends on."
 
 "That's carrier training," Mary said. "What about the broader network? The two hundred followers? The eight thousand who've heard you teach?"
 
-"They get public parables. Final three weeks of enhanced teaching with two-key clarity. I encode as much as possible in surface-accessible stories. Seed multiplication. Systemic resilience. Early intervention. Pattern recognition. Everything I can compress into teaching they'll remember and repeat even without understanding the encoded depth."
+"They get the public parables. Final three weeks of the clearest teaching I can give. I plant as much as possible in stories they'll remember and repeat — seeds, harvest, persistence, how to see what's coming. Everything I can compress into words they'll carry even without understanding the deeper layer."
 
 "And disciples? Peter, John, the others who've been with you for three years?"
 
-Jesus's expression darkened slightly. "They get what they can absorb. Peter still thinks I'm talking about political kingdoms. John thinks it's all mystical revelation. Thomas doubts everything I say. Judas wants violent revolution. They're loyal but they don't understand the Protocol. They'll preserve teachings as spiritual wisdom, which is better than nothing."
+Jesus's expression darkened slightly. "They get what they can absorb. Peter still thinks I'm talking about political kingdoms. John thinks it's all mystical revelation. Thomas doubts everything I say. Judas wants violent revolution. They're loyal but they don't hear what you hear. They'll preserve the teaching as spiritual wisdom, which is better than nothing."
 
-"Better than nothing is low standard for three years of intensive training."
+"Better than nothing is a low standard for three years of training."
 
-"It's realistic standard for students without genetic memory access. They can't verify patterns the way you can. Can't access blood memory for confirmation. They're learning systems thinking through stories and metaphors, which works but has limits. After I'm gone, they'll teach what they understood—which will be theological interpretation of defensive thinking. Still valuable. Just different."
+"It's an honest standard for students who can't feel the blood. They can't see patterns the way you can. Can't feel the ancestors confirming what's true. They're learning through stories and metaphors, which works but has walls. After I'm gone, they'll teach what they understood — which will be a faith built around the teaching. Still valuable. Just different."
 
-Mary understood. The disciples would create Christianity—spiritual framework preserving defensive mode without understanding its origins. It would work for two thousand years, keeping practices alive even as meaning transformed.
+Mary understood. The disciples would build something they'd call a faith — a vessel carrying defensive knowledge without understanding what they carried. It would work for two thousand years, keeping the practices alive even as the meaning transformed around them.
 
 "Three weeks," she said again. "It's not enough."
 
@@ -290,11 +290,11 @@ Jesus smiled faintly. "I understand. I'm choosing it anyway. Because the Protoco
 
 "And because you can't bear the thought of running."
 
-"That too. Marcus was right about my reasons mattering. So I need to make sure the teaching in these three weeks makes martyrdom obviously purposeful. Encodes the rationale so clearly that future carriers understand: I didn't die because I was stubborn. I died because defensive mode sometimes requires individual sacrifice for systemic preservation."
+"That too. Marcus was right — my reasons matter. So these three weeks need to make my death unmistakably purposeful. So clear that future carriers feel it in the blood: I didn't die because I was stubborn. I died because sometimes one life buys a thousand years."
 
-Sarah leaned against Mary, small warmth in cooling evening air. "I'll remember," she said. "When I'm teaching my children in forty years, I'll tell them Jesus chose to die so the knowledge would spread. That's what blood memory will show them too."
+Sarah leaned against Mary, small warmth in cooling evening air. "I'll remember," she said quietly. "When I'm old and teaching my own children. I'll tell them."
 
-Jesus looked at this seven-year-old who understood generational thinking better than most adults, who carried forty-two generations of genetic wisdom, who would lead defensive network in sixty or seventy years when Mary herself was gone.
+Jesus looked at this seven-year-old who sensed things she couldn't yet name, who carried forty-two generations in her blood, who would lead what he'd built in sixty or seventy years when Mary herself was gone.
 
 "Thank you," he said.
 
@@ -302,23 +302,11 @@ Jesus looked at this seven-year-old who understood generational thinking better 
 
 "For being Generation 43. For carrying this forward. For making my death meaningful instead of wasteful."
 
-Sarah considered this. "You're welcome. But it's not a choice for me. Blood memory means I have to teach. Same way you have to die. We're both doing what the pattern requires."
+Sarah considered this. "You're welcome." She was quiet a moment. "I don't think it's a choice, though. The blood tells me I have to teach. Same way it tells you what you have to do."
 
-Seven years old and already understanding what had taken Jesus thirty-six years to learn.
+Seven years old and already sensing what had taken Jesus thirty-six years to learn.
 
-Defensive mode worked through generations, not individuals.
-
-Martyrdom served continuation, not ego.
-
-And three weeks was enough time to encode what mattered most.
-
-Even if it wasn't comprehensive.
-
-Even if it terrified him.
-
-Even if it meant dying before he was ready.
-
-The pattern required it.
+The teaching worked through generations, not individuals. And three weeks was enough time to plant what mattered most.
 
 So he would teach for three weeks.
 
@@ -330,7 +318,7 @@ And then he would die well.
 
 The first week of the final three passed in compressed intensity that felt like years condensed to days.
 
-Jesus taught publicly every morning—crowds swelling to nine thousand, then ten, as word spread that something was different in his teaching. More urgent. More clarified. As if he were encoding a lifetime of wisdom into days.
+Jesus taught publicly every morning—crowds swelling to nine thousand, then ten, as word spread that something was different in his teaching. More urgent. More clarified. As if he were pressing a lifetime of wisdom into days.
 
 Which he was.
 
@@ -338,15 +326,15 @@ The parables took on new weight:
 
 "A grain of wheat remains a single seed unless it falls to the ground and dies. But if it dies, it produces many seeds."
 
-Mary watched him teach, documenting every word. Beside her, Sarah listened with seven-year-old concentration, blood memory already beginning to recognize the encoded patterns her mother could verify through Protocol access.
+Mary watched him teach, documenting every word. Beside her, Sarah listened with seven-year-old concentration, something stirring behind her eyes that Mary recognized — the blood beginning to wake.
 
 Peter approached after the morning teaching, confused as usual. "Master, why do you keep talking about death? We're building a movement. Growing numbers. This is success, not ending."
 
-Jesus looked at him with patience worn thin by three years of explaining systems thinking to someone who processed everything literally. "Peter, when I'm gone—"
+Jesus looked at him with patience worn thin by three years of teaching parables to someone who heard everything as plain speech. "Peter, when I'm gone—"
 
 "You're not going anywhere. We'll protect you."
 
-"When I'm gone," Jesus repeated firmly, "the teaching continues through those who've learned it. The movement grows because the teaching spreads. My death doesn't end the work. It accelerates distribution."
+"When I'm gone," Jesus repeated firmly, "the teaching continues through those who've learned it. The movement grows because the teaching spreads. My death doesn't end the work. It feeds it."
 
 Peter's expression showed he didn't understand. Would never understand until after crucifixion, when grief forced him to recognize the pattern.
 
@@ -354,11 +342,11 @@ That afternoon: Private teaching for the core network.
 
 Twenty people in the upper room—Mary and Sarah, Leah and Rachel and Abigail, Simon coordinating defensive network protection, Marcus documenting everything, the twelve disciples including Judas whose defensive network extraction plan was already forming in desperation.
 
-Jesus held up two bronze keys. The defensive network's treasures, enhanced by forty-one generations of genetic memory.
+Jesus held up two bronze keys. The defensive network's treasures, charged by forty-one generations of blood memory.
 
 "These keys organize blood memory," he said. "Make inherited knowledge accessible instead of overwhelming. But they're tools, not requirements. Mary—demonstrate without keys."
 
-Mary closed her eyes, accessed blood memory through meditation technique Jesus had taught her. Without bronze artifacts to amplify and organize, the flood was harder to control. But three years of practice meant she could access specific memories—Nefertari encoding the Protocol, Bronze Age collapse patterns, defensive strategies across forty generations.
+Mary closed her eyes, reached for the blood through the breathing Jesus had taught her. Without bronze to steady the flood, control was harder. But three years of practice meant she could find specific memories — Nefertari building the Protocol, the Bronze Age collapse, defensive wisdom across forty generations.
 
 "I see it," she said. "Fragmentary. Harder to verify. But accessible."
 
@@ -372,33 +360,33 @@ The girl closed her eyes, breathed slowly like Jesus had shown her. Concentrated
 
 "I feel... something," Sarah said, uncertain. "Like remembering a dream. Egyptian temple? Someone teaching... healing?"
 
-"Nefertari," Mary confirmed, her own blood memory resonating. "You're accessing genetic transmission. At seven. That's earlier than most carriers manage."
+"Nefertari," Mary confirmed, her own blood stirring in response. "You're reaching the ancestors. At seven. That's earlier than most carriers manage."
 
 Jesus nodded. "Generation 43. Stronger bloodline than previous carriers had. Sarah won't just continue the teaching. She'll enhance it."
 
 The afternoon session continued—Jesus drilling Mary on leadership decisions, having her practice Protocol verification without his confirmation, teaching her to trust her pattern recognition even when uncertain.
 
-"After I'm gone, you'll doubt yourself constantly," Jesus said. "Question whether you're teaching accurately. Wonder if your Protocol access is reliable. The keys help verify, but ultimately you need confidence in bloodline transmission. Trust that forty-one generations of encoding wouldn't fail in yours."
+"After I'm gone, you'll doubt yourself constantly," Jesus said. "Question whether you're teaching it right. Wonder if what the blood shows you is true. The keys help, but in the end you need to trust the bloodline. Forty-one generations of unbroken transmission wouldn't fail in yours."
 
-"But what if I drift? Teach something wrong? Break the preservation chain?"
+"But what if I drift? Teach something wrong? Break the chain?"
 
-"Then Leah, Rachel, and Abigail cross-check your pattern recognition. Multiple carriers mean multiple verification paths. That's why we're training them now—redundancy prevents single-point failure."
+"Then Leah, Rachel, and Abigail check what you see against what they see. Three carriers reading the same blood means three ways to confirm the truth. That's why we're training them now."
 
-He spent an hour with the three women, testing their Protocol access, verifying they could recognize the same patterns Mary saw, establishing verification protocols they'd use after his death.
+He spent an hour with the three women, testing what they could access, confirming they saw the same patterns Mary saw, teaching them the methods they'd use to verify after his death.
 
 Evening brought public teaching again—this time the parable of the Good Shepherd.
 
 "I am the good shepherd. The good shepherd lays down his life for the sheep."
 
-Marcus documented it all—every parable, every private teaching session, every verification exercise. Multiple copies of every tablet, distributed to different locations for redundancy. If the offensive network burned one archive, others would survive.
+Marcus wrote it all down — every parable, every private session, every exercise. Multiple copies of every scroll, sent to different cities. If the Temple burned one set of writings, others would survive.
 
-That night, Jesus collapsed from exhaustion. Three days of compressed teaching, eighteen hours a day, encoding three years of knowledge into weeks.
+That night, Jesus collapsed from exhaustion. Three days of teaching, eighteen hours a day, pressing three years of knowledge into weeks.
 
 Mary found him in the upper room, Pattern Eye in his hands, accessing blood memory to ground himself.
 
 "You can't maintain this pace for three weeks," she said.
 
-"I have to. Three weeks isn't enough for gradual encoding. Has to be intensive."
+"I have to. Three weeks isn't enough to go slowly. It has to be everything, all at once."
 
 "Intensive kills you before arrest does."
 
@@ -422,11 +410,11 @@ Mary's chest tightened. "You're going to—"
 
 It wasn't enough. But it was all she'd get.
 
-The week continued. Mornings teaching crowds of ten thousand. Afternoons training core network. Evenings encoding final parables. Night hours meditating with Pattern Eye, accessing forty-one generations of ancestors for verification.
+The week continued. Mornings teaching crowds of ten thousand. Afternoons with the carriers. Evenings shaping the final parables. Night hours in meditation with the Pattern Eye, reaching through forty-one generations for confirmation.
 
-By week's end, Jesus had embedded the essential teaching in twenty major parables, trained Mary to leadership confidence despite her fear, given Sarah enough foundation that blood memory wouldn't overwhelm her when it surfaced in adolescence, and established verification protocols among the three Protocol carriers.
+By week's end, Jesus had planted the essential teaching in twenty major parables, trained Mary until she trusted her own sight, given Sarah enough foundation that the blood wouldn't overwhelm her when it surfaced in adolescence, and taught the three carriers how to confirm one another's visions.
 
-Adequate. Not comprehensive. But adequate.
+Enough. Not everything. But enough.
 
 Two weeks remaining.
 
@@ -442,39 +430,39 @@ They met in a secure location outside Capernaum—defensive network safe house, 
 
 Jesus, Mary, Sarah, Helena, Simon, Marcus, and three network elders who'd traveled from Damascus specifically for this final coordination meeting.
 
-"I'm implementing what Nefertari designed," Jesus corrected. "Nefertari proved it works. Every carrier since has proven it works. Defensive knowledge survives *because* offensive forces try to destroy it. My execution validates the teaching. That motivates preservation. Preservation ensures continuation."
+"I'm following what Nefertari designed," Jesus corrected. "She proved it works. Every carrier since has proved it works. The teaching survives *because* the powerful try to destroy it. My execution proves the teaching matters. That makes people hold onto it. And holding on is all that's needed."
 
-"Theoretical martyrdom strategy versus certain knowledge loss if you die before sufficient encoding."
+"Your theory of martyrdom versus the certainty of losing everything if you die before the teaching is planted deep enough."
 
-"I've encoded enough. Mary leads after me. Sarah continues as Generation 43. Verification network established. Public teaching distributed broadly. Foundation exists."
+"I've planted enough. Mary leads after me. Sarah continues as Generation 43. Three carriers can confirm the truth. The public teaching is spread broadly. The foundation is there."
 
 Helena turned to Mary. "Can you lead the network alone?"
 
 "Yes," Mary said, and the word came out steadier than she felt. "I can lead. Jesus has trained me for three years. I have Protocol access, verification network, documentation. I'll lead."
 
-Helena studied her for a long moment. Then nodded. "I believe you. Which means my task is preparing network support for your leadership. Resources. Safe houses. Geographic distribution. Protection protocols."
+Helena studied her for a long moment. Then nodded. "I believe you. Which means my task is preparing the ground for your leadership. Resources. Refuges. Trusted houses across the provinces. Protection."
 
-She spread a map across the table—Mediterranean world, networks marked in defensive symbols Marcus had learned to recognize.
+She spread a map across the table — the Mediterranean world, routes marked in symbols Marcus had learned to recognize.
 
-"Current plan: After execution, core network scatters. Mary and Sarah to Damascus initially, then Alexandria. Leah to Antioch. Rachel to Ephesus. Abigail to Corinth. Geographic distribution ensures offensive network can't eliminate all carriers simultaneously."
+"After execution, everyone scatters. Mary and Sarah to Damascus first, then Alexandria. Leah to Antioch. Rachel to Ephesus. Abigail to Corinth. Spread far enough that they can't be hunted down at once."
 
-"Transportation arranged?" Simon asked.
+"Passage arranged?" Simon asked.
 
-"Ships prepared. Defensive network contacts in each city. Safe houses established. Financial resources secured. Mary and Sarah get priority protection—strongest carriers, most critical preservation."
+"Ships through trade contacts. Trusted houses in each city. Coin secured. Mary and Sarah get the strongest protection — the bloodline depends on them."
 
 "What about the disciples?" Mary asked. "Peter, John, the others without Protocol access?"
 
-"They scatter too. Spread theological interpretation of Jesus's teaching. Create surface-level movement that draws offensive network attention away from carrier network. Theological Christianity as defensive distraction while methodological preservation happens quietly."
+"They scatter too. Spread what they understood of Jesus's teaching. Build a visible movement that draws attention away from the carriers. A faith that the world watches while the deeper knowledge passes quietly through the bloodline."
 
 Jesus listened to his own legacy being strategized—public religion versus hidden knowledge transmission. Two parallel preservation paths, one visible and one concealed.
 
 "The Pattern Eye?" he asked.
 
-"Secured in Damascus safe house after your execution. Mary will have access when she arrives. The two bronze keys stay with carrier network—Mary gets primary custody, Leah gets backup in case Mary's captured."
+"Hidden in Damascus after your execution. Mary will have it when she arrives. The two bronze keys stay with the carriers — Mary keeps them, Leah holds copies of the writings in case Mary is captured."
 
 Marcus cleared his throat. "I need to document the execution. Will be present, observing. Temple authorities might recognize me as former Roman contact. Could complicate things."
 
-"You maintain civilian status," Helena said. "Former census official with no current network affiliation. Observe, document, don't interfere. Your testimony matters because you're not carrier, not network operative, not theologically invested. Independent witness provides credibility."
+"You stay as you are," Helena said. "Former census official with no known loyalties. Watch, write, don't interfere. Your account matters because you're not a carrier, not one of us, not a believer. An outsider's witness carries weight."
 
 "Agreed."
 
@@ -486,17 +474,17 @@ Simon addressed practical concerns. "Timeline is three weeks, give or take days.
 
 "And we let it happen."
 
-"We let it happen. Because martyrdom during religious festival, executed by Rome and Temple cooperation, validates the teaching better than any other scenario. Proves offensive forces fear the teaching enough to coordinate three-power elimination. That proof preserves defensive mode for centuries."
+"We let it happen. Because dying during a festival, killed by Rome and Temple working together, proves the teaching was dangerous enough to unite three powers against one man. That proof keeps the teaching alive for centuries."
 
-The meeting continued through afternoon—detailed logistics, contingency plans, emergency protocols if arrest came early, protection priorities, documentation distribution, carrier safety measures.
+The meeting continued through afternoon — who goes where, what to do if arrest comes early, how to protect the carriers, where to send the writings.
 
 By evening, the plan was clear:
 
 Jesus would teach publicly until arrest. Make no attempt to flee or resist. Allow martyrdom to proceed as offensive network designed it.
 
-Network would scatter immediately after execution. Mary and Sarah to Damascus with Pattern Eye and bronze keys. Other carriers to different cities. Documentation distributed redundantly. Defensive knowledge preserved through geographic separation.
+Everyone scatters after execution. Mary and Sarah to Damascus with the Pattern Eye and bronze keys. Other carriers to different cities. Writings copied and spread. The teaching preserved through distance.
 
-Public disciples would create theological movement. Hidden carriers would preserve methodological truth. Both serve defensive mode through different mechanisms.
+The disciples would build a faith the world could see. The carriers would preserve the deeper truth in silence. Both paths serving the same purpose through different means.
 
 Helena prepared to return to Alexandria, coordinate Mediterranean-wide network response.
 
@@ -504,21 +492,21 @@ Before she left, she approached Jesus privately.
 
 "I still think you're wrong," she said. "Extraction would serve defensive knowledge better than martyrdom. You're choosing pride over preservation."
 
-"I'm choosing what Nefertari chose. What Tausret chose. What forty-one generations of carriers chose when persecution came. Continuation despite cost. Teaching despite death. That's defensive mode. Has been since Nefertari."
+"I'm choosing what Nefertari chose. What Tausret chose. What forty-one generations of carriers chose when persecution came. To continue despite the cost. To teach despite death. That's what the blood demands. Has been since Nefertari."
 
 Helena was quiet. Then: "Die well. Make it count."
 
 "I will."
 
-She left. The network dispersed to their positions—protection, documentation, preparation for scattering.
+She left. The others dispersed — to guard, to write, to prepare for flight.
 
 Two weeks remaining.
 
 ---
 
-## SCENE 5: STRATEGIC ENCODING
+## SCENE 5: THE FINAL TEACHING
 
-The second week passed faster than the first. Jesus teaching with intensity that pushed the boundaries of human endurance. Twenty hours daily. Three hours sleep. One hour meditation with Pattern Eye to access verification from forty-one generations.
+The second week passed faster than the first. Jesus teaching with intensity that pushed the boundaries of human endurance. Twenty hours daily. Three hours sleep. One hour in meditation with the Pattern Eye, reaching for the ancestors.
 
 Mary documented everything, her own exhaustion mounting as she struggled to capture the compressed wisdom pouring from Jesus's final teachings.
 
@@ -534,13 +522,13 @@ Jesus looked at him with exhausted patience. "Peter, I'm going to die. In days. 
 
 Peter's face paled. "Then we fight. Defend you. I have swords—"
 
-"No. Violence defeats the purpose. If I die fighting, I'm just another revolutionary Rome crushed. If I die teaching, I validate the teaching through my refusal to resist with offensive force. That validation is worth more than my survival."
+"No. Violence defeats the purpose. If I die fighting, I'm just another revolutionary Rome crushed. If I die teaching, refusing to strike back, every person watching learns that the teaching was worth more to me than my own life. That proof is worth more than my survival."
 
 "I don't understand."
 
 "I know. You will. After it happens."
 
-Private teaching sessions became deliberate encoding of leadership training. Jesus walking Mary through scenarios she'd face after his death:
+Private sessions became deliberate preparation. Jesus walking Mary through what she'd face after his death:
 
 "Offensive network will hunt you. How do you respond?"
 
@@ -552,7 +540,7 @@ Private teaching sessions became deliberate encoding of leadership training. Jes
 
 "Sarah asks why her mother is leading when she's still grieving. How do you answer?"
 
-Mary's jaw tightened. "I tell her defensive mode doesn't wait for grief to finish. I lead because the pattern requires it. Same reason Jesus taught until execution. Same reason Nefertari encoded until death. Continuation despite emotional cost."
+Mary's jaw tightened. "I tell her the work doesn't wait for grief to finish. I lead because the teaching requires it. Same reason Jesus taught until they took him. Same reason Nefertari taught until she died. You continue despite the cost."
 
 "Good. You're ready."
 
@@ -570,9 +558,9 @@ Sarah thought carefully. "Jesus is dying to make the teaching spread. Like Nefer
 
 The question hung in the evening air.
 
-Jesus looked at Mary. She looked back, both recognizing the weight of the decision.
+Jesus looked at Mary. She looked back, both feeling the weight of the answer.
 
-"Yes," Jesus said finally. "You need to witness martyrdom strategy implementation. Need to understand it's not tragedy but completion. Seven years old is young. But Generation 43 means accelerated learning. You can handle this."
+"Yes," Jesus said finally. "You need to see it. Need to understand it's not tragedy but completion. Seven years old is young. But you carry things older than childhood. You can bear this."
 
 Sarah nodded seriously. "I'll remember it. For when I teach my children."
 
@@ -596,21 +584,21 @@ The machinery of execution positioning itself while Jesus taught about seeds and
 
 That evening, in private: Last meal with disciples.
 
-Jesus broke bread, distributed it. "This is my body, broken for you. When you share bread after I'm gone, remember—distribution creates resilience. Network strength comes from multiplication, not centralization."
+Jesus broke bread, distributed it. "This is my body, broken for you. When you share bread after I'm gone, remember — what is broken and shared reaches further than what is kept whole."
 
-They didn't understand. Thought he was talking about communion ritual. Didn't grasp the systems thinking buried in the act.
+They didn't understand. Thought he was speaking of ritual. Didn't hear the deeper teaching woven into the act.
 
-He poured wine. "This is the blood of the covenant. Drink it in remembrance. Blood memory transmission continues through generations. My death doesn't end the bloodline. It strengthens genetic encoding for future carriers."
+He poured wine. "This is the blood of the covenant. Drink it in remembrance. The blood carries forward through generations. My death doesn't end the bloodline. It strengthens what's passed to those who come after."
 
 Peter: "Master, I don't understand what you're saying."
 
 "You will. When it happens."
 
-Judas left the meal early. Defensive network operative, coordinating his failed extraction plan with Simon. They'd try to intervene during arrest, create confusion, extract Jesus in chaos.
+Judas left the meal early. He was coordinating with Simon — a plan to intervene during the arrest, create confusion, pull Jesus free in the chaos.
 
-Jesus knew it would fail. Had seen Nefertari's memories of similar failed rescue attempts. Offensive network always positioned extra forces when executing carriers. Expected defensive intervention. Planned for it.
+Jesus knew it would fail. The blood showed him Nefertari's memories of similar desperate rescues. The powerful always brought extra men when killing carriers. They expected intervention. Planned for it.
 
-But he didn't tell Judas. Let the man try. Defensive network needed to learn through experience that extraction attempts during arrest failed. Future carriers would know: When martyrdom time comes, let it happen.
+But he didn't tell Judas. Let the man try. Some lessons could only be learned through failure. Future carriers would know: when the time for dying comes, let it come.
 
 Four days before Sukkot.
 
@@ -618,7 +606,7 @@ Jesus teaching with exhausted clarity. Voice hoarse. Hands shaking from fatigue.
 
 Mary forced him to rest. "You'll collapse before arrest if you maintain this pace."
 
-"I'm encoding final teachings. Can't stop now."
+"I'm planting the last seeds. Can't stop now."
 
 "You'll die from exhaustion instead of execution. That wastes the martyrdom strategy."
 
@@ -630,7 +618,7 @@ Mary stayed with him, watching him sleep, knowing in three days he'd be arrested
 
 Sarah curled beside her mother. "Mama, are you going to be all right? After?"
 
-"No," Mary said honestly. "I'm going to grieve and struggle and doubt myself constantly. But I'll lead anyway. Because that's what defensive mode requires."
+"No," Mary said honestly. "I'm going to grieve and struggle and doubt myself constantly. But I'll lead anyway. Because the teaching demands it."
 
 "Like Jesus is teaching even though he's scared."
 
@@ -640,7 +628,7 @@ Two days before Sukkot.
 
 Jesus gave final private instructions to Mary.
 
-"The Pattern Eye stays with you. The bronze keys stay with carrier network. Documentation gets distributed—multiple copies, multiple locations. You lead from Damascus initially, then move if offensive network tracks you."
+"The Pattern Eye stays with you. The bronze keys stay with the carriers. The writings go out in copies — different cities, different hands. You lead from Damascus first, then move if they find you."
 
 "I know the plan."
 
@@ -650,19 +638,19 @@ Mary took his hands. "It won't. Twelve hundred years of blood memory can't be wr
 
 He nodded. "I trust it. I'm still terrified."
 
-"That's what makes you human instead of just carrier."
+"That's what makes you a man, not just a vessel."
 
 The evening before Sukkot: Last public teaching.
 
 Fifteen thousand people gathered on the hillside. Jesus's voice barely carrying across the crowd despite enhanced acoustics of the natural amphitheater.
 
-The Beatitudes, taught with final clarity. The crowd heard spiritual comfort. Mary heard defensive thinking threaded through every line. Sarah heard blood memory patterns activating.
+The Beatitudes, taught with final clarity. The crowd heard spiritual comfort. Mary heard the deeper teaching threaded through every line. Sarah felt the blood stir with each one.
 
 Marcus documented everything.
 
 Tomorrow: Sukkot festival. Arrest during celebration. Jesus's final hours of freedom.
 
-And then—strategic completion.
+And then — completion.
 
 ---
 
@@ -672,11 +660,11 @@ Jesus didn't sleep the final night.
 
 Instead he climbed the hillside above Capernaum—same place where he'd often meditated, accessed blood memory, taught Mary to trust her Protocol access.
 
-Pattern Eye in his hands. Two bronze keys nearby. Forty-one generations of ancestors available through enhanced genetic memory.
+Pattern Eye in his hands. Two bronze keys nearby. Forty-one generations of ancestors available through the blood.
 
-He closed his eyes. Let the cascade begin.
+He closed his eyes. The Pattern Eye burned warm against his palm — warmer than bronze should hold. Then the cascade hit.
 
-*Nefertari in the temple workshop, encoding defensive knowledge while Bronze Age collapsed outside. Her final twelve days of teaching. Her exhaustion. Her certainty. Her acceptance.*
+*Nefertari in the temple workshop, grinding pigment for sacred texts while the world burned outside the walls. Her final twelve days of teaching. Her exhaustion. Her certainty. Her acceptance.*
 
 *"Teach until they kill you. Die well. Trust the bloodline to continue."*
 
@@ -684,13 +672,13 @@ He closed his eyes. Let the cascade begin.
 
 *Thirty-nine more generations. Each one teaching despite persecution. Each one dying or hiding or fleeing. Each one passing knowledge forward anyway.*
 
-*Pattern unbroken. Knowledge preserved. Defensive mode surviving every attempt to destroy it.*
+*Pattern unbroken. Knowledge preserved. The teaching surviving every attempt to destroy it.*
 
-Jesus felt them all. Experienced their fear and courage and persistence. Understood he was one link in chain stretching from Bronze Age Egypt to Roman Judea to future he'd never see.
+Jesus felt them all — their fear tasting like copper in his mouth, their courage burning in his chest. He was one link in a chain stretching from Bronze Age Egypt to Roman Judea to a future he'd never see.
 
-He wasn't alone in this. Had never been alone.
+He wasn't alone. Had never been alone.
 
-Forty-one generations stood with him. Would support him tomorrow during arrest. Would give him strength to die well.
+Forty-one generations stood with him. He felt their hands on his shoulders, their breath in his lungs. They would give him strength to die well.
 
 Mary found him at dawn. Sarah with her, the girl's hand in her mother's.
 
@@ -714,25 +702,25 @@ They sat in silence as morning light grew stronger. Below, Capernaum waking. Fes
 
 Finally Jesus stood. "Three weeks. We had three weeks. Was it enough?"
 
-Mary reviewed mentally: Leadership training complete. Sarah's foundation established. Carrier verification network functioning. Documentation distributed. Public teaching woven into parables. Essential teaching preserved.
+Mary considered: Her training complete. Sarah's foundation laid. Three carriers who could confirm what the blood showed. The writings copied and sent. The public teaching planted in thousands of minds through parables they'd repeat for generations.
 
-"It was enough," she said. "Not comprehensive. But adequate. Adequate preserves defensive mode until future carriers can enhance it."
+"It was enough," she said. "Not everything. But enough. Enough to keep the teaching alive until future carriers can build on it."
 
 "Good."
 
 He picked up the Pattern Eye. Offered it to Mary. "Yours now. Use it to verify your teaching. Pass it to Sarah when she's ready."
 
-Mary took the artifact. Bronze warm from Jesus's constant use. Twelve hundred years of genetic encoding embedded in metal that would outlast them all.
+Mary took the artifact. Bronze warm from Jesus's constant touch. Twelve hundred years of blood memory held in metal that would outlast them all.
 
 The bronze keys next. Two of seven. Defensive network's treasure.
 
-"These stay with carrier network. You and Leah primary custody. Protection priority."
+"These stay with the carriers. You and Leah. Guard them."
 
 "Understood."
 
-He had nothing else to give. No possessions beyond the clothes he wore. His entire legacy was knowledge planted in Mary's memory, Sarah's genetics, the parables fifteen thousand people had heard, the documentation Marcus had created.
+He had nothing else to give. No possessions beyond the clothes he wore. His entire legacy was knowledge planted in Mary's mind, Sarah's blood, the parables fifteen thousand people had heard, the scrolls Marcus had written.
 
-Adequate. Not comprehensive. But adequate.
+Enough. Not everything. But enough.
 
 "I'm going to teach one more time," Jesus said. "During festival. Public teaching. Then I'll let them arrest me. No resistance. No extraction attempts. Clean martyrdom that validates everything I've taught."
 
@@ -740,7 +728,7 @@ Adequate. Not comprehensive. But adequate.
 
 "Sarah doesn't have to watch arrest. She can—"
 
-"I'm watching," Sarah interrupted. "Generation 43 needs to witness martyrdom strategy implementation. You said so yourself."
+"I'm watching," Sarah said quietly. "You told me I needed to see it. So I'll see it."
 
 She was right. He had said that.
 
@@ -750,7 +738,7 @@ They descended the hillside. Walked through Capernaum toward the festival gather
 
 Marcus positioning himself to observe arrest.
 
-Simon and defensive network preparing failed extraction attempt they didn't know would fail.
+Simon and the defensive network preparing a rescue they didn't know would fail.
 
 Caiaphas coordinating with Pilate, Temple guards and Roman soldiers ready.
 

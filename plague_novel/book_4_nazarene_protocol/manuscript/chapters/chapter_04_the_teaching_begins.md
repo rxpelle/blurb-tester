@@ -10,13 +10,13 @@
 
 ## SCENE 1: The Return
 
-Jesus walked the Capernaum road at dawn, six months gone from this place.
+Jesus walked the Capernaum road at dawn, six months gone from this place. The wind off the lake carried the smell of rotting fish and wet limestone—familiar, grounding, the opposite of the burning cities that filled his nights.
 
-The Sea of Galilee spread to his right—dark water catching first light, fishing boats already working the shallows. Familiar. He'd taught here two years before the baptism, but that felt like a different lifetime now. Before the Jordan. Before the vision. Before he'd seen the complete Pattern in water immersion and understood exactly what Nefertari had built.
+The Sea of Galilee spread to his right, dark water catching first light, fishing boats already working the shallows. Those days before the Jordan seemed as distant as another man's life. Before the vision. Before he'd seen the complete Pattern in water immersion and understood exactly what Nefertari had built.
 
-Before he'd known with certainty that he had maybe five years left.
+Before the weight had settled behind his ribs—perhaps five years remained to him.
 
-The blood memory had been relentless since the baptism. Not fragmentary anymore. Full immersion, nightly. Pi-Ramesses burning in methodical detail—the refugee crush, the fever spreading through overcrowded tenements, Nefertari teaching eighty-four students how to recognize collapse patterns while the Bronze Age world cascaded into catastrophic failure around them.
+The blood memory had been relentless since the baptism. Not fragmentary anymore. Full immersion, each night. He woke with smoke in his nostrils, the taste of copper on his tongue—Pi-Ramesses burning, the refugee crush, the fever spreading through overcrowded tenements, Nefertari teaching eighty-four students to read the signs of collapse while the Bronze Age world fell apart around them.
 
 And overlaying that ancient collapse: the present one. Rome and the Temple and the Zealots pulling Judea toward inevitable violence. Same pattern, different era. Twenty years until Jerusalem burned, maybe thirty. Not long enough to prevent it. Only time enough to encode the teaching deeply enough that the diaspora would carry it forward.
 
@@ -26,87 +26,57 @@ The real work started now.
 
 Simon emerged as Jesus approached, weathered face breaking into a smile. "Teacher. You look different."
 
-"I am different." Jesus clasped his friend's arm. "I saw the complete structure at the Jordan. Everything Nefertari built. And I know how little time we have."
+"I am changed." Jesus clasped his friend's arm. "I saw the complete structure at the Jordan. Everything Nefertari built. And I know how little time we have."
 
-"The Twelve are inside. Waiting." Simon hesitated. "There's also — a woman came. From Magdala. Three weeks ago. She's been... waking screaming. Speaking languages she shouldn't know. The community thinks she's possessed. She insisted on waiting for you."
+"The Twelve are inside. Waiting." Simon hesitated. "And the woman from Magdala — Mary. She stayed, as you asked before the Jordan. She's been using the calming practices you taught her. The screaming has quieted. Most nights." He rubbed the back of his neck. "She's been sitting in on our discussions. I hope that's—she hears things in your teaching that take the rest of us months to grasp."
 
 Jesus paused at the doorway. Inside, he could hear male voices — the disciples arguing. And underneath, quieter: a woman's voice, singing to a child. The melody was old. Network old. Passed down through families who didn't know why they sang it, only that it calmed something in the blood.
 
-She'd been teaching herself grounding techniques without knowing what they were.
-
-"I can help her," Jesus said. "But more than that — I need her. She's a teacher, Simon. She just doesn't know it yet."
+"She's ready for the next phase," Jesus said. "She's not just a carrier, Simon. She's a teacher. And after what I saw at the Jordan, I need her."
 
 Inside, the Twelve stood as he entered. Peter, Andrew, James, John, Matthew, Thomas — fishermen and tax collectors who'd been training with him for two years. They looked older somehow. Changed by what they'd heard about the Jordan.
 
-Jesus didn't repeat what he'd told John. They'd heard the reports. Instead he said simply: "I saw my own death. Maybe five years from now. And I saw Jerusalem burn — forty years after that. We can't prevent either one. But we can make sure the teaching survives both."
+Jesus didn't repeat what he'd told John. They'd heard the reports. Instead he said simply: "I saw my own death." His hands trembled against his thighs, and he let them see it — the cost of carrying certainty. "Perhaps five years from now. And I saw Jerusalem burn — forty years after that. We can't prevent either one. But we can make sure the teaching survives both."
 
-The silence was long.
-
-Thomas broke it. "You're planning for failure?"
+Thomas broke the silence. "You're planning for failure?"
 
 "I'm planning for what comes after failure. There's a difference." Jesus met his eyes. "Nefertari couldn't save Pi-Ramesses. But twelve hundred years later, I'm standing here. That's what we're building toward."
 
 Peter, practical as always: "Then what do we do? Today. Tomorrow."
 
-"We train. Everyone who can learn. Starting with the woman in the guest room."
+"We train. Everyone who can learn. Starting with Mary — she's been preparing while I was away. It's time for formal instruction."
 
 ---
 
-The woman appeared in the doorway, small child on her hip.
+Mary appeared in the doorway, Sarah on her hip.
 
-She was tall, straight-backed even in exhaustion — the posture of someone who'd spent years running a business and managing workers. Her clothes were good linen, indigo-dyed, travel-worn but expensive. Not the rags of a beggar. The hands of a woman who'd worked with ledgers and contracts, not grinding stones. But her eyes — her eyes had the bruised, hunted look of someone who hadn't slept properly in months.
+She'd changed since the spring, when she'd arrived in Magdala half-shattered by visions she couldn't name. Still tall, straight-backed — the posture of a woman who'd spent years overseeing her family's trade. Her linen, dyed the deep blue that marked her former prosperity, was worn softer now from months of wear. But her eyes were different. The bruised, hunted look had receded. In its place: something watchful. Alert. The look of someone who'd learned to observe her own mind without drowning in it.
 
-"You're Jesus," she said. Magdalene accent, educated diction. "The teacher Simon said could help me understand why I see cities burning that fell before David was born."
+"You're back," she said. Not a question. "The visions have changed since the Jordan. Mine too — sharper. More structured. I see the whole cascade now, not just the burning."
 
-"I'm Jesus. Sit."
+"Tell me."
 
-She set the child down — maybe three years old, dark curls, enormous eyes. "Mary. This is Sarah."
+She set Sarah down — nearly four now, dark curls, enormous eyes. The child immediately went to the corner, arranging pebbles in careful geometric patterns on the floor. Instinctive ordering. Creating structure from chaos. Jesus watched her for a moment. Generation 43.
 
-Jesus waited until she settled, then addressed the child. "Sarah, your mother has been seeing things that frighten her. Cities burning. Ancient places. Do you understand?"
+"Pi-Ramesses still comes every night," Mary said. "But I can stay inside it now without losing myself. The calming practices help — naming what's present, feeling the ground beneath me." She paused. "And I've started seeing something underneath the collapse. The way Nefertari organized her students. The way knowledge moved through families even after the city burned. Like watching water find channels in stone."
 
-Sarah nodded solemnly. "The screaming. At night."
+Jesus felt something tighten in his chest. Six months, and she'd taught herself to read the architecture of survival inside the visions. The Twelve had been training two years and most still saw only the fire.
 
-Mary's face flushed with shame.
+"Simon says you've been sitting in on discussions."
 
-"It's not madness," Jesus said. Not gently — firmly. Loudly enough that the Twelve heard. "Tell me what you see."
+"I hope that's—"
 
-"A city. Enormous. Overcrowded. The air thick with smoke and disease. Refugees flooding in from — " She stopped. "You already know."
+"It's exactly what you should be doing." He leaned forward. "Mary, I didn't just see the Pattern at the Jordan. I saw the complete structure — how it was built, how it breaks, how it survives. And I saw how little time we have. I need people who can see what you see. Not in six months. Now."
 
-"Pi-Ramesses. I see it too. Every night since I was three." He leaned forward. "For years I thought I was losing my mind. Then I learned what it was — inherited memory. Encoded in the blood, passed down through families who survived the collapse. Forty-two generations of it, all the way to us."
+Mary's hands stilled in her lap. "I don't know if I can do what you're asking. Six months of calming practices doesn't undo twenty-eight years of people telling me I was possessed."
 
-"You see it *too*?" Mary's voice cracked.
+"I'm not asking you to forget that. I'm asking you to use it." He met her eyes. "Tomorrow I'm teaching on the hillside. Come. Listen to what I say and what I *mean*. You'll hear both layers."
 
-"Same city. Same collapse. Through different eyes, but the same nightmare." Jesus kept his voice steady. "The visions aren't demons, Mary. They're not punishment. They're *knowledge*. Your ancestors survived something catastrophic and the memory of it traveled forward through the bloodline to you. That's what you're seeing."
+"Both layers?"
 
-Mary started crying. Not grief — relief. Overwhelming, crushing relief.
+"You'll understand when you hear it. You already have the ears for it — you just haven't been taught to trust them."
 
-Sarah climbed into her lap, small hands patting her mother's face. "It's okay, Mama. The teacher understands."
-
-"I can teach you to control it," Jesus said. "Not stop it — it never stops for people like us. But you can learn to observe without being overwhelmed. To understand what you're seeing instead of drowning in it."
-
-"How?"
-
-"The same way you learn anything. Practice. But first —" He looked at her carefully. "Apply what you see to the present. The overcrowding. The resource collapse. The escalation between factions. Does any of that look familiar?"
-
-Mary's eyes widened. "Rome. The occupation. The taxation. The Zealots. It's — " She stopped breathing for a moment. "It's the same pattern."
-
-"Same structure. Different era." Jesus glanced at Peter, who was watching with his mouth slightly open. Peter had been training two years and still struggled with this connection. Mary had made it in thirty seconds.
-
-"She's a carrier," Jesus said to the room. "She doesn't need training to see the patterns. She needs training to *survive* seeing them."
-
-He turned back to Mary. "Stay in Capernaum. Train with me. I'm not just offering you control over the visions. I'm offering you purpose. You're not a patient. You're a teacher who doesn't know it yet."
-
-"I don't understand half of what you're saying."
-
-"You will. Give me six months." He looked at Sarah, who'd gone back to arranging pebbles in careful geometric patterns on the floor — instinctive ordering, creating structure from chaos. "Both of you. Stay."
-
-Mary stood slowly. "I thought I was going mad. I thought I'd die young like my mother — mind shattered by visions no one could explain. You're saying I'm not mad."
-
-"Your mother died because she didn't have this teaching. You won't." Jesus met her eyes. "Tomorrow I'm teaching on the hillside. Come. Listen to what I say and what I *mean*. You'll hear both."
-
-He left before she could respond. Outside, the morning had brightened — fishing boats returning, vendors setting up, the ordinary rhythm of a town that didn't know what was building beneath its surface.
-
-And standing in Simon's doorway, watching him leave: Mary of Magdala. Who'd sold her salting business and traveled here with her daughter and every coin she had. Who'd waited three weeks in a stranger's house on the hope that one teacher might have an explanation that wasn't *demon*.
+He left before she could respond. Outside, the morning had brightened — fishing boats returning, vendors setting up, the smell of baking bread mixing with lake water. The ordinary rhythm of a town that didn't know what was building beneath its surface.
 
 The work was beginning.
 
@@ -114,11 +84,11 @@ The work was beginning.
 
 ## SCENE 2: The Sermon
 
-The hillside above Capernaum was already crowded when Jesus arrived at dawn. Five thousand people, Simon estimated. Scattered across the slope in family groups, children running between clusters, vendors selling bread and dried fish at the edges. Roman soldiers watching from a distance.
+The hillside above Capernaum reeked of unwashed bodies and morning bread. Near a thousand souls, Simon reckoned — more than he'd ever seen gather for any teacher. Scattered across the slope in family groups, children running between clusters, vendors selling bread and dried fish at the edges. Dust hung in the air, kicked up by shifting feet. Roman soldiers watched from a distance, leaning on their spears.
 
-Jesus spotted Mary in the front section. Sarah beside her, playing with pebbles in the dirt. Mary's eyes were already intense with concentration — the look of someone who'd spent her whole life hearing a frequency no one else could and was desperate to learn its name.
+Jesus spotted Mary in the front section. Sarah beside her, arranging pebbles by size in the dirt with the fierce concentration only small children possess. Mary's eyes were already intense — the look of someone who'd spent her whole life hearing a frequency no one else could and was desperate to learn its name.
 
-He climbed to a limestone outcrop. The noise dropped. Five thousand people, waiting.
+He climbed to a limestone outcrop. The noise dropped. A thousand people, waiting.
 
 "Blessed are the poor in spirit," he began, "for theirs is the kingdom of heaven."
 
@@ -128,7 +98,7 @@ The crowd leaned in. Familiar rhythm. Prophetic. Echoes of Isaiah they'd heard i
 
 He let each phrase settle. Watched the crowd nod, hearing moral instruction, hope for the downtrodden. Standard religious categories.
 
-But Mary. Mary's eyes had gone unfocused — not bored, *activated*. Something behind her expression had shifted the way a lock shifts when the right key enters.
+But Mary. Mary's breathing had changed — shallow, rapid, her hands pressing flat against her thighs as if steadying herself. Something behind her eyes shifted with an almost audible click, like a dislocated joint finding its socket.
 
 "Blessed are the peacemakers," Jesus continued, "for they will be called children of God."
 
@@ -136,13 +106,13 @@ Mary flinched. Her hand pressed against her mouth. She was hearing something und
 
 "You have heard it said, 'An eye for an eye and a tooth for a tooth.' But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also."
 
-Murmurs through five thousand. Some Zealots in the back stood and left, spitting on the ground. Rome slapped them daily — taxation, conscription, arbitrary violence. And this teacher said *don't resist*?
+Murmurs rippled through the crowd. Some Zealots near the back stood and left, spitting on the ground. Rome slapped them daily — taxation, conscription, arbitrary violence. And this teacher said *don't resist*?
 
 "Love your enemies," Jesus said. "Pray for those who persecute you."
 
 The crowd thinned. But Mary was nodding — slowly, deeply, the way someone nods when they finally understand the structure behind something that's haunted them for years.
 
-He taught for two hours. By the end, three thousand remained. Two thousand had left — confused, offended, or bored by teachings that asked them to surrender what felt like strength.
+He taught for two hours. By the end, perhaps six hundred remained. The rest had drifted away — confused, offended, or bored by teachings that asked them to surrender what felt like strength.
 
 Mary hadn't moved. Sarah was sleeping in her lap. Tears ran down Mary's face — not grief tears. *Recognition* tears.
 
@@ -150,17 +120,17 @@ Jesus descended from the outcrop and reached her as the crowd dispersed.
 
 "You heard it," he said.
 
-"Both layers." Her voice shook. "The spiritual instruction and the *thing underneath*. Every Beatitude — they're not just moral teachings. They're behaviors that prevent the same patterns I see in blood memory. Peacemaking interrupts escalation. Non-retaliation breaks cycles. Love your enemies because *hate is what makes the cascade lock*."
+"Both layers." Her voice shook. She pressed her hands against her mouth, working it through. "The spiritual instruction and the *thing underneath*. Every Beatitude — they're not just moral teachings. They're..." She trailed off, frowning, reaching for something she could almost grasp. "Peacemaking. That's not just virtue. It interrupts escalation — the same escalation I see in the visions. Non-retaliation breaks cycles. Love your enemies because..." Her eyes widened. "*Hate is what makes the cascade lock.*"
 
-"Most people hear 'be nice,'" Jesus said. "You hear the engineering underneath."
+"Most people hear 'be kind to each other.'" Jesus sat beside her. "You hear the architecture underneath."
 
-"How did you *do* that? How did you encode two complete meanings in the same words?"
+"How did you *do* that? How did you hide a complete second teaching inside the same words?"
 
-"I didn't. Nefertari did. Twelve hundred years ago. She discovered that practices which work for moral reasons also work for structural reasons. The same behavior prevents collapse whether you understand the theory or not." He sat beside her. "That's why the teaching survives — the practices embed in community even when the theory gets lost."
+"I didn't. Nefertari did. Twelve hundred years ago. She discovered that practices which work for moral reasons also work for structural reasons. The same behavior prevents collapse whether you understand the deeper truth or not." He drew a slow breath, tasting the evening air. "That's why the teaching survives — the practices take root in community even when the deeper knowledge gets lost."
 
-Mary wiped her eyes. "That's resurrection. Not bodies from tombs. Knowledge surviving when everything else burns."
+Mary wiped her eyes. "Like seed grain hidden before the harvest fails. The teaching lives even when the teachers die."
 
-Jesus was quiet for a moment. She'd just articulated something he'd been trying to explain to the Twelve for two years.
+Jesus felt something tighten in his chest — surprise mixed with recognition. Two years of patient explanation to the Twelve, and this woman had just voiced what he'd struggled to make them see.
 
 "Generation 112," Mary said suddenly. "I saw a name during your teaching. A woman. Our descendant. She assembles all the pieces we're scattering."
 
@@ -170,7 +140,7 @@ Jesus was quiet for a moment. She'd just articulated something he'd been trying 
 
 "That's the faith I'm asking for," Jesus said. "Not supernatural belief. Pattern confidence. Trust that what we build persists even when we can't see where it goes."
 
-Mary stood, brushing dirt from her indigo dress. Sarah stirred against her shoulder. "When do I start teaching?"
+Mary stood, brushing dirt from her deep blue dress. Sarah stirred against her shoulder. "When do I start teaching?"
 
 "Six months. After your own training. But today was your first lesson — learning to hear both layers at once. Everything else builds from there."
 
@@ -182,11 +152,11 @@ The work continued.
 
 ## SCENE 3: First Training
 
-That evening, the Twelve gathered in Simon's house. No crowds. No layered encoding. Just the hard material.
+That evening, the Twelve gathered in Simon's house after dark, oil lamps throwing uneven shadows across the limestone walls. The smell of the lake drifted through gaps in the woven screen — fish and mineral salt and cold water. No crowds. No layered encoding. Just the hard material.
 
-Mary sat in the corner with Sarah sleeping on her lap.
+Mary sat in the corner with Sarah sleeping in her lap.
 
-"Peter," Jesus said without preamble. "Describe a conflict you've witnessed recently. Local scale."
+"Peter." Jesus leaned forward. "Describe a conflict you've witnessed recently. Local scale."
 
 Peter thought. "Tax collection. Last week. Roman soldier demanding payment from a fisherman who'd already paid. Argument escalated — soldier threatened force, fisherman's son grabbed a knife, soldier drew sword. Eventually the fisherman paid twice to make it stop."
 
@@ -194,7 +164,7 @@ Peter thought. "Tax collection. Last week. Roman soldier demanding payment from 
 
 "Now he's bitter. Talking about joining the Zealots."
 
-"That's cascade." Jesus traced the pattern in the air. "The soldier thought he solved it — got his money, avoided bloodshed. But he created something worse. The fisherman leaves humiliated, resentful. That resentment finds other resentments. Connects with people organizing violence. The conflict didn't end. It went underground."
+"That's how conflicts spread like wildfire." Jesus traced the pattern in the air. "The soldier thought he solved it — got his money, avoided bloodshed. But he created something worse. The fisherman leaves humiliated, resentful. That resentment finds other resentments. Connects with people organizing violence. The conflict didn't end. It went underground."
 
 "So what should the soldier have done?" Thomas asked.
 
@@ -204,7 +174,7 @@ Peter thought. "Tax collection. Last week. Roman soldier demanding payment from 
 
 "Yes."
 
-"That's asking victims to absorb injustice," James said, anger flashing.
+"That's asking victims to absorb injustice." James's voice cracked with barely contained rage. His fists clenched against his thighs.
 
 "That's asking victims to choose which outcome they'd rather live in." Jesus's voice was steady. "The fisherman resists. Soldier cracks down. Fisherman joins Zealots. Zealots attack Rome. Rome brings in legions. Jerusalem burns. *Everyone* loses. Or: the fisherman absorbs the insult. Maintains composure. His children grow up in a world where the pattern didn't cascade to total war."
 
@@ -212,9 +182,9 @@ Mary spoke from the corner. "Triage. When the systemic problem is too large to f
 
 Everyone turned. Jesus nodded.
 
-"Two years I've been trying to teach that concept," he said. "She heard one sermon and got it."
+"Two years I've been trying to teach that concept," he said. "She recognized it — because she's been living the collapse in her nightmares. The understanding comes at a price you haven't had to pay."
 
-Peter looked slightly stung. Mary looked slightly terrified at what she'd said.
+Peter's jaw tightened, but the sting faded into something closer to respect. Mary looked slightly terrified at what she'd said.
 
 The training went on — Matthew's example of a market dispute resolved by an old baker who reframed the conflict, the discussion of when intervention is possible versus when you're only buying time. Mary listened, said little more, held her sleeping daughter.
 
@@ -228,11 +198,11 @@ Mary looked at her daughter. Three years old. Breathing softly. A whole future o
 
 "Get some rest," Jesus said. "Tomorrow's harder."
 
-Mary carried Sarah to the guest room. Laid her on the sleeping mat. Stood watching her breathe.
+Mary carried Sarah to the women's quarters. Laid her on the sleeping mat. Stood watching her breathe.
 
 The screaming dreams came that night. Pi-Ramesses burning. Jerusalem burning. Two collapses overlaid until she couldn't tell past from future.
 
-But she had grounding techniques now. Five things present. Sarah breathing. Blanket texture. Night sounds through the window. Jesus's voice: *You're not mad.* Her own heartbeat.
+But the calming practices were second nature now — six months of nightly use. Name what is real. Sarah's breath. The wool beneath her hands. Night sounds beyond the wall. Jesus's voice from the spring: *You're not mad.* Her own heartbeat, steady and present.
 
 The visions receded. Not gone. Never gone. But manageable.
 
@@ -242,7 +212,7 @@ That was enough.
 
 ## SCENE 4: The Recognition
 
-Three days later, the second hillside teaching. Smaller crowd — fifteen hundred. The difficult teachings had filtered out the casual listeners, leaving people who sensed something deeper underneath.
+Three days later, the second hillside teaching. Smaller crowd — perhaps four hundred. The difficult teachings had filtered out the casual listeners, leaving people who sensed something deeper underneath.
 
 Mary stood near the front. Jesus had been waiting for this.
 
@@ -252,7 +222,7 @@ Then he pushed harder. "Anyone who is angry with a brother will be subject to ju
 
 Murmurs. Anger equals sin?
 
-Mary spoke from where she stood, voice clear enough to carry: "Anger is where it starts. By the time someone kills, the pattern is already locked. But if you intervene at anger — before it compounds into rage, into dehumanization, into violence — you stop the whole sequence at its source."
+Mary frowned, working it through. Then she spoke from where she stood, voice unsteady at first but gaining strength: "Anger — that's where it starts. By the time someone kills, the whole sequence is already locked. But if you intervene at anger — before it compounds into rage, into dehumanization, into violence — you stop it at its source."
 
 The crowd turned to look at her.
 
@@ -260,15 +230,15 @@ The crowd turned to look at her.
 
 A Pharisee near the back stood. "Woman, remain silent. It's inappropriate for you to speak as though you're the teacher."
 
-"I'm learning by teaching," Mary said, and there was iron in her voice — the voice of a woman who'd managed a business and employees and didn't flinch from men who thought they could silence her. "I hear the pattern. I name it. That's how knowledge spreads."
+"I'm learning by teaching," Mary said, her voice shaking at first but gaining strength as she spoke — the voice of a woman who'd overseen her family's trade and directed servants and didn't flinch from men who thought they could silence her. "I hear something underneath his words. I name it. That's how knowledge spreads."
 
 Jesus reframed before the confrontation could harden. "The kingdom of heaven is like treasure hidden in a field. When a man found it, he sold everything he had and bought that field." Pause. "Now — suppose the man who found the treasure was a Samaritan. Or a woman. Would the treasure be less valuable?"
 
 Silence.
 
-"Pattern recognition doesn't care who sees it. A woman who understands what I'm teaching is more valuable than a man who only hears the surface."
+"Truth is truth, no matter who finds it. A woman who understands what I'm teaching is more valuable than a man who only hears the surface."
 
-The Pharisee sputtered. But the crowd had already shifted — they'd heard Mary decode the teaching faster than anyone else present. Her gender suddenly mattered less than her competence.
+The Pharisee sputtered. Some in the crowd remained uncomfortable, frowning at a woman speaking with such authority. But those who had struggled with the teaching's meaning found themselves drawn to Mary's clarity despite their reservations.
 
 By the time the sermon ended, fifty people had approached Mary with questions. Women mostly, but some men. She was teaching without authorization, without title — just demonstrating understanding and letting people come to her.
 
@@ -284,9 +254,11 @@ Mary let the words land. "Thank you. For explanation instead of exorcism. For pu
 
 "Thank you for staying," Jesus said. "For being willing to become what the teaching needs."
 
-He left. Mary sat in the quiet house, holding her sleeping daughter.
+He left. Mary sat in the quiet house, holding her sleeping daughter, grateful — though part of her still waited for someone to declare it all madness after all. But Sarah breathed peacefully against her shoulder, and for the first time in years, Mary dared to believe her daughter might grow up understanding what she was rather than being destroyed by it.
 
-Tomorrow she'd continue training. But tonight she was just grateful. For a community that saw what she carried and called it *gift* instead of *demon*. For the knowledge that Sarah would grow up understanding what she was, rather than being destroyed by it.
+Tomorrow she'd continue training. But tonight, as she drifted toward sleep, one more blood memory surfaced — brief but sharp as a blade. A Roman officer with intelligent eyes, standing at the edge of today's crowd. Not watching Jesus. Watching *her*. Writing something on a wax tablet with the careful notation of a man filing a report.
+
+Mary's eyes snapped open. The vision dissolved. But the chill it left behind did not.
 
 ---
 

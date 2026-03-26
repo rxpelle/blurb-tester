@@ -20,7 +20,7 @@ The Pattern Eye pulsed in his hands—not physically, but in the blood memory sp
 
 *Nefertari in the temple workshop, hands steady despite the Bronze Age world collapsing outside. Bronze cooling in seven identical molds—keys to unlock what she'd encoded. Her thought clear across twelve centuries: "Seven keys for seven stages. One key for fragment access. Seven keys for complete clarity."*
 
-Jesus felt her certainty. Felt her engineering mind working through the problem of preserving knowledge when civilizations were dying, when her own death approached, when the offensive network that had murdered her father was hunting her.
+The scent of cooling bronze filled his nostrils — Nefertari's workshop materializing around him with startling clarity. He absorbed her certainty, her methodical mind working through the problem of preserving knowledge while civilizations burned, while her own death approached, while the forces that had murdered her father were closing in.
 
 *"But the keys are tools," Nefertari's memory continued, and Jesus leaned into the vision with the focus he'd learned from five years of Protocol training. "Training aids. What if—"*
 
@@ -54,15 +54,15 @@ He was what Nefertari had theorized. What she'd hoped for but never expected to 
 
 Perfect carrier. Complete access without keys.
 
-The realization was overwhelming. The Pattern Eye amplified it—showing him not just Nefertari's original encoding, but the complete systems map she'd created. Defensive mode in its entirety. Three thousand years of survival strategy woven into patterns he could access directly, without bronze keys to organize the chaos.
+The realization was overwhelming. The Pattern Eye amplified it — showing him not just Nefertari's original teaching, but the complete picture she'd created. Every strategy for surviving collapse. Every method for preserving knowledge when the powerful turned against you. Three thousand years of wisdom woven into patterns he could read directly, without bronze keys to organize the flood.
 
-But with that clarity came cost. He felt every generation's persecution. Felt forty-one cycles of offensive forces trying to eliminate defensive knowledge. Felt the trauma embedded in blood memory—the deaths, the torture, the families destroyed, the knowledge nearly lost and desperately preserved.
+But with that clarity came cost. Every generation's persecution coursed through him — forty-one cycles of the powerful trying to stamp out what they feared. The deaths, the torture, the families destroyed, the knowledge nearly lost and desperately preserved. Each ancestor's suffering was not just information. It was *experience*. He felt their deaths. Carried their grief.
 
-He felt what Nefertari had felt when she'd encoded the Protocol: the weight of complete systemic understanding. Seeing Rome's collapse trajectory with the same clarity she'd seen Bronze Age collapse. Knowing what was coming, powerless to prevent it, able only to preserve knowledge for survivors.
+He felt what Nefertari had felt: the weight of seeing everything. Rome's collapse as clearly as she had seen the Bronze Age's end. Knowing what was coming, powerless to stop it, able only to preserve knowledge for the survivors who would come after.
 
 And he understood—really understood for the first time—why martyrdom was necessary.
 
-Not because death was noble. Because complete Protocol access showed him that survival would localize the teaching in Galilee, while martyrdom would spread it across the empire. Showed him that persecution validated knowledge more effectively than peace. Showed him that defensive knowledge survived *because* offensive forces tried to destroy it.
+Not because death was noble. Because the full vision showed him that survival would keep the teaching trapped in Galilee, while martyrdom would scatter it across the empire. What men die for, their children remember. What the powerful destroy, they prove was dangerous to them. The knowledge survived *because* it was persecuted.
 
 Nefertari had seen this. Had chosen execution over survival. Had threaded the martyrdom strategy into the Protocol itself.
 
@@ -70,7 +70,7 @@ Jesus had inherited that vision. That certainty. That terrible clarity.
 
 "How long have you been here?"
 
-Mary's voice. Jesus looked up to find her standing in the doorway, watching him with the expression she got when she recognized deep blood memory: concern mixed with documentation instinct.
+Mary's voice. Jesus looked up to find her standing in the doorway, watching him with the expression she wore when she recognized deep blood memory — concern sharpened by the need to understand what he'd seen.
 
 "Since before dawn," Jesus said. His hands were shaking. He set the Pattern Eye aside carefully. "Mary, I think I understand something Nefertari knew. Something the networks have forgotten."
 
@@ -84,13 +84,13 @@ Jesus took a breath. "Forty-one generations. Nefertari to me. Unbroken transmiss
 
 "You've accessed without keys before," Mary said carefully. "The baptism. The early teaching. That was all keyless."
 
-"Fragment access. Partial patterns. Enough to recognize the encoding, enough to teach basic defensive mode. But not complete." Jesus looked at the Pattern Eye. "This artifact amplifies access. With it, I've been touching something deeper. And just now, I saw Nefertari's original vision. The complete systems map. Everything she encoded."
+"Fragments. Partial patterns. Enough to recognize the deeper layer, enough to teach the basics of survival. But not the whole picture." Jesus looked at the Pattern Eye. "This artifact amplifies what I carry. With it, I've been touching something deeper. And just now, I saw what Nefertari saw — the complete vision. Everything she built."
 
 "Without keys?"
 
 "The Pattern Eye helped. But yes. I accessed what seven keys are supposed to unlock. Saw it clearly. Understood it completely."
 
-Mary's expression was unreadable. "That's what the offensive network fears most. Complete access in a carrier they can't control."
+Mary's expression was unreadable. "That's what they fear most. Someone who sees everything — and answers to no one."
 
 "I know."
 
@@ -128,21 +128,21 @@ Jesus looked at the Pattern Eye, then at his hands—carpenter's hands that had 
 
 Mary joined him at the window. "You're very calm about this."
 
-"I'm terrified," Jesus corrected gently. "But terror doesn't change the timeline. Doesn't change what needs to be done. So I work despite the fear. That's what defensive mode means, isn't it? Persistence regardless of emotional state."
+Jesus's hands hadn't stopped trembling since the vision. He pressed them flat against the table, forcing stillness. "I'm terrified," he said, his voice steady despite the cold sweat at his temples. "But terror doesn't change the timeline. Doesn't change what must be done. So I work despite the fear. Isn't that what this has always meant? Continuing regardless."
 
 Mary said nothing for a long moment. "I'm supposed to carry this after you're gone. Continue the teaching. Lead the network. Raise Sarah as Generation 43 carrier. And I don't have complete Protocol access. I don't see what you see. What if I teach it wrong?"
 
-Jesus put a hand on her shoulder. "You won't. You have blood memory, Pattern Eye access when needed, documentation of everything I'm teaching, and three other carriers with Protocol access to verify your understanding. That's redundancy. Multiple validation paths. No single point of failure."
+Jesus put a hand on her shoulder. "You won't. You have blood memory. You have the Pattern Eye when you need it. You have written accounts of everything I'm teaching. And you have three other women who can read the deeper layer and tell you when you've gone astray. The teaching does not rest on one pair of shoulders. I've made sure of that."
 
 "But without you—"
 
-"The teaching continues differently. Not worse, just different. You'll encode defensive mode through your perspective, your experience, your understanding. That's not corruption—it's adaptation. The knowledge survives through flexibility, not rigid preservation."
+"The teaching continues differently. Not worse, just different. You'll carry it through your own understanding, your own experience. That's not corruption — it's how living knowledge works. It survives through flexibility, not by being carved in stone."
 
 Mary nodded, but Jesus could see the fear in her eyes. The same fear he felt but had learned to work through.
 
-Nine months to teach her certainty she didn't feel yet. To build her confidence for leadership she'd have to assume alone. To prepare her for his death and her continuation.
+Nine months to teach her certainty she didn't yet feel. To prepare her for his death and her continuation.
 
-Nine months. Maybe less if the offensive network accelerated.
+Nine months. Maybe less if the Temple moved faster than expected.
 
 But for now: Wait for Helena. Learn about the keys. Understand the full picture before deciding whether to reveal complete access capability.
 
@@ -154,9 +154,9 @@ And continue teaching as if he had all the time in the world, while knowing he h
 
 Helena of Alexandria arrived in Capernaum as the afternoon sun touched the Sea of Galilee with bronze light.
 
-Mary watched from the teaching house window as the woman approached—tall, perhaps forty-five years old, dressed in traveling clothes that marked her as neither wealthy nor poor. Unremarkable appearance. Perfect for defensive network coordinator who needed to move through cities without drawing attention.
+Mary watched from the teaching house window as the woman approached — tall, perhaps forty-five years old, dressed in traveling clothes that marked her as neither wealthy nor poor. The kind of woman you would pass in any market without a second glance.
 
-But Mary recognized the markers. The way Helena's eyes scanned the street before entering a doorway. The deliberate casualness that masked constant awareness. The small bronze medallion at her throat—defensive network identification, hidden in plain sight as ordinary jewelry.
+But Mary recognized the signs. Helena's gaze swept the street in sections — doorways, rooftops, the flow of foot traffic — before she crossed the threshold. The deliberate casualness that masked constant awareness. The small bronze medallion at her throat, worn as ordinary jewelry but carrying the geometric patterns Mary knew by heart.
 
 Mary had seen those patterns in Simon, in the network elders who'd found her five years ago when she'd been drowning in blood memory and demon-possession accusations. Helena carried herself with the same careful competence.
 
@@ -164,13 +164,13 @@ She also carried something wrapped in cloth, tucked carefully in the leather sat
 
 Mary descended to the main room as Helena knocked. Opened the door before the second knock—protocol for expected defensive network arrivals.
 
-"Helena of Alexandria," the woman said. Announcing herself — carrier protocol, identification before entry.
+"Helena of Alexandria," the woman said. Announcing herself — the custom of carriers, name before entry.
 
 "Mary of Magdala." Mary stepped aside. "You're expected. Jesus is upstairs. Come in."
 
-Helena entered, and Mary watched her catalog the room in seconds—exits, windows, who else was present (three women from the teaching circle, preparing for evening session), potential threats (none), defensive advantages (multiple).
+Helena entered, and in the space of three breaths her eyes had counted the exits, measured the windows, noted the three women preparing for evening teaching, and dismissed every shadow that might hold a threat.
 
-Network training. Years of it, maybe decades.
+Years of training. Maybe decades.
 
 Helena looked at Mary directly for the first time. "You're younger than I expected."
 
@@ -180,15 +180,15 @@ Helena looked at Mary directly for the first time. "You're younger than I expect
 
 "I've had good teaching."
 
-Helena smiled slightly. "I've heard. Generation 42 Primary carrier, complete systems understanding, martyrdom timeline accepted. The network has been talking about Jesus of Nazareth for five years."
+Helena smiled slightly. "I've heard. The strongest carrier in twelve hundred years, and he's accepted the death that's coming. The network has been talking about Jesus of Nazareth for five years."
 
 "And you're here because of the keys."
 
-"I'm here because the offensive network is moving to secure their keys, and we need Jesus to access enhanced Protocol before they accelerate his execution timeline." Helena hefted the satchel. "I brought what the defensive network has. Two keys. It's not enough for complete access, but it's better than what he has now."
+"I'm here because the Temple is moving to secure their keys, and we need Jesus to go deeper before they move against him." Helena hefted the satchel. "I brought what the network has kept safe. Two keys. It's not enough for complete access, but it's better than what he has now."
 
 Mary gestured to the stairs. "He's been expecting you."
 
-They climbed to the upper room where Jesus waited. He'd moved the Pattern Eye to a shelf—not hidden, but not prominently displayed either. Strategic ambiguity about what tools he used for Protocol access.
+They climbed to the upper room where Jesus waited. He'd moved the Pattern Eye to a shelf — not hidden, but not displayed either. No reason to reveal what tools he used, or how.
 
 "Helena," Jesus said, standing. "Simon sent word you were coming."
 
@@ -208,7 +208,7 @@ Jesus picked up one of the keys. Mary watched his expression shift—not dramati
 
 Jesus set down the first key, picked up the second. Mary saw him close his eyes, felt the blood memory intensity increasing.
 
-"Enhanced pattern recognition," Jesus said after a moment. "Deeper systems view. Clearer understanding of long-timeline trajectories. Broader encoding capability."
+"Sharper sight," Jesus said after a moment. "Deeper understanding. I can see the long arc of events — centuries, not years. And I can teach with precision I couldn't reach before."
 
 He opened his eyes. "But not complete access. That would require all seven. Or—"
 
@@ -216,7 +216,7 @@ He stopped. Mary recognized the deliberate pause. The decision not to reveal key
 
 "Or?" Helena prompted.
 
-"Or centuries more time," Jesus finished smoothly. "Nefertari designed the keys for progressive unlocking. Two keys access what she intended for second-stage carriers. Complete access requires either all seven keys or forty generations of accumulated blood memory clarity."
+"Or centuries more time," Jesus finished smoothly. "Nefertari designed the keys for unlocking in stages. Two keys give what she intended for the second stage. Complete access requires either all seven, or a bloodline so long and unbroken that the clarity comes on its own."
 
 It wasn't quite a lie. Just careful misdirection.
 
@@ -230,17 +230,17 @@ Helena nodded, accepting the explanation. "Two keys is what we have. Will it be 
 
 "You're the strongest carrier since Nefertari herself," Helena said bluntly. "Forty-one generations unbroken. That's never happened before. The network has been tracking Nefertari's bloodline since she encoded the Protocol. We've seen strong carriers, weak carriers, failed carriers who couldn't access at all. But never perfect genetic continuity from her daughter to present generation."
 
-She leaned forward. "That's why the offensive network wants you dead before you reach full capacity. They know what we know—given time, you could access complete Protocol. Teach it fully. Distribute it broadly enough that they couldn't eliminate it even if they tried. You're an existential threat to offensive power structures."
+She leaned forward. "That's why they want you dead before you reach your full strength. They know what we know — given time, you could see everything Nefertari saw. Teach it completely. Spread it so wide they could never stamp it out. You are the most dangerous man in the empire, and you don't even carry a sword."
 
 Mary watched Jesus process this. Watched him decide how much to reveal.
 
 "Helena," Jesus said carefully, "why did the defensive network send you now? Why not six months ago, or six months from now? Why bring the keys at this specific moment?"
 
-Helena weighed this. "Because the offensive network knows you're accessing enhanced Protocol. They don't know how—don't understand blood memory mechanics well enough to recognize perfect carrier genetics. But they know you're teaching at a level that suggests deep access. They're moving to secure their three keys. Making sure you can't acquire them."
+Helena weighed this. "Because the Temple knows you're growing stronger. They don't understand how — don't know enough about blood memory to recognize what you are. But they can see the change in your teaching. They're moving to secure their three keys. Making sure you can never reach them."
 
-"And you're hoping I can access enough with two keys to complete my teaching before they execute me."
+"And you're hoping I can go deep enough with two keys to finish my teaching before they kill me."
 
-"I'm hoping," Helena said, "that two keys give you fighting chance at encoding complete defensive mode in nine months. That's all. Not survival—you're going to die, we both know that. But complete encoding before death. That's what matters."
+"I'm hoping," Helena said, "that two keys give you a fighting chance to pass on everything in nine months. That's all. Not survival — you're going to die, we both know that. But completion before death. That's what matters."
 
 Jesus held both keys now, one in each hand. Mary could feel the blood memory intensity even from across the room. Whatever he was accessing, it was deeper than anything she'd witnessed before.
 
@@ -254,7 +254,7 @@ Helena nodded. "I've already arranged it with the Essene elders. Three days' jou
 
 Jesus set down the keys. "Then we leave tomorrow. Before the offensive network realizes you've brought their threat to Galilee."
 
-Helena stood. "I'll make preparations. Qumran by week's end, unlocking attempted in the caves where Nefertari's first followers hid during Bronze Age persecution. Symbolic continuity. Pattern recognition encoded even in the location choice."
+Helena stood. "I'll make preparations. Qumran by week's end, unlocking attempted in the caves where Nefertari's first followers hid during Bronze Age persecution. Symbolic continuity. Even the place carries meaning."
 
 She moved to the door, then paused. "Jesus? The network has been waiting twelve hundred years for a carrier like you. Don't waste the time you have left. Teach everything. Encode everything. Make sure when they kill you, the knowledge survives."
 
@@ -272,7 +272,7 @@ Jesus looked at the two bronze keys on the table. "Because I don't know if the d
 
 "They brought you keys to enhance your access."
 
-"They brought me keys nine months before my scheduled execution. That's not rescue. That's maximizing encoding efficiency before martyrdom." Jesus sat down heavily. "Helena means well. The network means well. But their timeline isn't my timeline. They're thinking in centuries. I'm thinking in months. And I need to know if enhanced access helps me teach more effectively, or just makes me more threatening so the offensive network accelerates my death."
+"They brought me keys nine months before my scheduled execution. That's not rescue. That's squeezing the last teaching out of me before they let me die." Jesus sat down heavily. "Helena means well. The network means well. But their timeline isn't my timeline. They're thinking in centuries. I'm thinking in months. And I need to know if enhanced access helps me teach more effectively, or just makes me more threatening so the offensive network accelerates my death."
 
 Mary sat beside him. "What do you want to do?"
 
@@ -328,7 +328,7 @@ That evening, Helena laid out the full picture for Jesus, Mary, and Simon.
 
 Seven bronze keys total. Defensive network held two — the ones she'd brought. Offensive network held three — guarded in Temple vaults, used by Caiaphas and his predecessors for centuries to coordinate persecution of carriers. Two had been lost during the Bronze Age Collapse, somewhere in the Mediterranean — Crete, Carthage, the network had been searching for centuries.
 
-Progressive unlocking: two keys gave enhanced recognition and teaching capability. Three keys gave partial systems map. Five gave what Nefertari herself had accessed. Seven gave complete, unambiguous Protocol — the ability to teach defensive mode to *anyone*, regardless of genetics.
+Progressive unlocking: two keys gave enhanced recognition and teaching capability. Three keys gave a clearer picture — connections between the scattered pieces. Five gave what Nefertari herself had accessed. Seven gave complete, unambiguous Protocol — the ability to teach defensive mode to *anyone*, regardless of genetics.
 
 "But there's another possibility," Helena said carefully. "Perfect carrier — forty-one unbroken generations — might access complete Protocol without keys. Keys are training aids. Tools for organizing blood memory. A carrier strong enough might not need the tools."
 
@@ -354,15 +354,15 @@ Mary accepted this. Hated the possibility underneath it, but accepted.
 
 The journey to Qumran took three days through Judean wilderness—spring heat beginning to build, landscape transitioning from Galilee's green to desert brown and grey.
 
-Jesus walked with Mary, Helena, and Simon, plus four defensive network guards who maintained careful distance. Protection without obvious military presence. Network security protocols refined over centuries.
+Jesus walked with Mary, Helena, and Simon, plus four defensive network guards who maintained careful distance. Protection without obvious military presence. The defensive network had practiced discretion for centuries.
 
 They arrived at sunset on the third day. The Essene community at Qumran recognized Helena immediately—defensive network had maintained relationships with these isolated scholars for generations. Common cause in preserving ancient wisdom, shared understanding that Rome's empire was temporary while written wisdom lasted millennia.
 
 The elder who greeted them led them to the caves above the settlement. Same caves where Nefertari's first followers had hidden during Bronze Age collapse. Where defensive carriers had preserved Protocol fragments while civilizations died around them.
 
-"Symbolic continuity," Helena had said. Pattern recognition encoded even in location choice.
+Continuity, Helena had called it. The same ground. The same darkness. The same act of preservation.
 
-The cave was small but adequate—space enough for Jesus to sit in meditation, room for three witnesses to observe without crowding. Oil lamps already prepared. Water and supplies for multi-day isolation if needed. The Essenes understood what Protocol unlocking required.
+The cave walls pressed close, carved smooth by centuries of flash floods and worn hands. Oil lamps cast shifting shadows across rock faces where earlier carriers had scratched protective symbols into the stone. The air tasted of limestone and time — the same air that had sustained Nefertari's followers as they'd hidden here while the Bronze Age world burned above them.
 
 Jesus sat on the woven mat they'd laid in the cave's center. Mary, Helena, and Simon arranged themselves against the walls—close enough to assist if needed, far enough not to interfere with blood memory cascade.
 
@@ -380,23 +380,23 @@ The cascade began.
 
 Jesus felt the unlocking in layers—not sudden overwhelming flood, but progressive deepening. Like descending into water, each level darker and more pressure-filled than the last.
 
-First layer: Enhanced pattern recognition. Exactly what Helena had promised. He could see systems with clarity that made his previous understanding look like fragments. Rome's collapse trajectory visible in exquisite detail—not just that it would fall, but when, how, what specific systemic failures would cascade into total breakdown. Seventy CE visible as clearly as tomorrow. 476 CE visible as inevitable endpoint.
+First layer: Sight sharpened beyond anything he'd known. He could see the shape of Rome's collapse with exquisite clarity — not just that it would fall, but when, how, which failures would feed which others until the whole structure broke. 70 CE visible as clearly as tomorrow. 476 CE visible as inevitable endpoint.
 
-Second layer: Defensive method complete. Every strategy Nefertari had encoded for surviving collapse. Distribution networks. Teaching multiplication. Martyrdom utilization. Documentation protocols. Geographic redundancy. Genetic transmission. Everything she'd learned from surviving Bronze Age collapse, available now as complete working approach.
+Second layer: Every strategy Nefertari had created for surviving collapse. How to scatter knowledge across many hands. How to use stories as vessels. How to turn persecution into proof. How to make death itself a teacher. Everything she'd learned from the Bronze Age's end, available now as complete understanding.
 
-Third layer: Offensive mode understanding. This was new, unexpected. The keys showed him not just defensive patterns but offensive ones too. How power structures consolidated. How empires grew and metastasized. How offensive coordination worked across generations. He could see the network that was planning his execution—see Caiaphas and the Temple hierarchy, see Rome's political calculations, see Zealot manipulation—all as visible patterns, predictable and inevitable as weather systems.
+Third layer: This was new, unexpected. The keys showed him not just how to survive the powerful, but how the powerful worked. How empires consolidated control. How authority maintained itself across generations. He could see the forces planning his execution — Caiaphas and the Temple, Rome's calculations, Zealot manipulation — all as visible as weather, as predictable as the seasons.
 
 Fourth layer—
 
 The trauma hit.
 
-Forty-one generations of persecution flooded his awareness simultaneously. He felt his great-great-grandmother fleeing Ptolemaic purges. Felt his ancestor fifteen generations back hiding during Seleucid elimination attempts. Felt defensive carriers across the centuries tortured, executed, burned, their families destroyed, their knowledge nearly lost.
+The first death hit him like a blade between the ribs. His great-great-grandmother's terror as soldiers broke down her door — Jesus doubled over, gasping, as her pain became his pain. Then another death, another ancestor, each persecution layering agony upon agony. Fifteen generations back, a woman hiding in a well while Seleucid soldiers searched above. Twenty generations back, a man watching his children dragged away. Forty-one lifetimes of being hunted, tortured, executed, the families destroyed and the knowledge nearly lost.
 
-The keys organized it—prevented total overwhelm—but couldn't eliminate the pain. Inherited trauma wasn't just information. It was *experience*. Blood memory meant *feeling* what ancestors felt. Dying their deaths. Carrying their grief.
+The keys organized the flood — kept it from drowning him — but could not remove the suffering. This was not information. It was *experience*. Blood memory meant *feeling* their deaths. Carrying their grief as his own.
 
-Jesus gasped, hands tightening on the bronze keys.
+Jesus's scream echoed off the cave walls. His body convulsed, the keys clattering against stone, and Mary lunged forward.
 
-Mary moved forward instinctively. Helena caught her arm. "Let it process. The keys will organize it. He needs to experience the full weight."
+Helena caught her arm. "Let it pass through him. The keys will hold him. He needs to feel the full weight."
 
 Fifth layer: Nefertari herself.
 
@@ -406,7 +406,7 @@ She had felt exactly what Jesus felt now: Knowledge too vast for one lifetime. R
 
 *"Forty-one generations from now,"* Nefertari's memory whispered, *"someone will feel what I feel. Will access what I accessed. Will face what I faced. That carrier will understand: We're not teaching for our generation. We're teaching for forty generations forward. For survivors we'll never meet. For civilizations that don't exist yet."*
 
-Jesus opened his eyes, tears streaming down his face. The cave came back into focus. Mary watching with concern. Helena with documentation intensity. Simon with the quiet competence of someone who'd witnessed Protocol access before.
+Jesus opened his eyes, tears streaming down his face. The cave came back into focus. Mary watching with fear written across her face. Helena with the sharp attention of someone memorizing every detail. Simon with the quiet steadiness of a man who'd seen this before.
 
 "How long?" Jesus asked. His voice was rough.
 
@@ -418,19 +418,19 @@ Jesus opened his eyes, tears streaming down his face. The cave came back into fo
 
 Jesus took a breath. Tried to organize the cascade into words.
 
-"Complete defensive understanding. The full systems view. Rome's exact collapse trajectory—70 CE Temple destruction, 476 CE political disintegration. Offensive network structure visible as pattern. And"—he paused—"Nefertari's direct experience. What she felt encoding the Protocol. Why she accepted martyrdom. How she prepared her daughter for continuation."
+"Everything Nefertari built. The full picture. Rome's collapse — 70 CE the Temple burns, 476 CE the empire falls. I can see how the powerful coordinate to destroy what they fear. And" — he paused — "Nefertari herself. What she felt building the Protocol. Why she accepted death. How she prepared her daughter to carry on."
 
 "Is it sufficient?" Helena asked. "Can you teach complete defensive mode in nine months with two-key access?"
 
-"I can teach thoroughly. Encode dual-layer parables with precision I couldn't achieve before. Train Mary and the others. Create a distribution network robust enough to survive persecution."
+"I can teach deeply. Weave the deeper meaning into parables with precision I couldn't reach before. Train Mary and the others. Plant the teaching in enough cities that persecution cannot reach them all."
 
 "But?" Mary heard it in his voice.
 
-"Complete Protocol—seven-key or keyless equivalent—would let me teach *anyone*. Not just carriers. Universal transmission."
+"Complete access — seven keys, or its equivalent — would let me teach *anyone*. Not just those born to the bloodline."
 
-Helena spoke carefully. "Universal activation is theoretical. Teaching non-carriers means knowledge doesn't pass to their children automatically. Breaks the blood memory chain."
+Helena spoke carefully. "That's never been done. Teaching those outside the bloodline means the knowledge doesn't pass to their children through the blood. It dies with them unless they write it down or pass it by hand."
 
-"But creates broader distribution. Redundancy through multiplication rather than genetics."
+"But it reaches thousands instead of dozens. What it loses in depth, it gains in reach."
 
 Mary said, "Two-key access is working. It's sufficient for training carriers across generations. That was Nefertari's design. Trust the design."
 
@@ -462,33 +462,13 @@ Mary nodded. "Then we work. We teach. We prepare."
 
 "We work," Jesus agreed.
 
-Outside, Judean wilderness stretched under spring stars. Same stars that had watched Nefertari encode the Protocol. Same stars that would watch Jesus's crucifixion nine months from now.
+Outside, Judean wilderness stretched under spring stars. The same stars that had watched Nefertari forge the keys. The same stars that would watch Jesus die nine months from now.
 
-If she was strong enough.
+Too many uncertainties. Too little time. But the unlocking had worked. The keys had proved their worth.
 
-If the teaching was clear enough.
+Mary held onto that. Pushed away the fear of what Jesus might still attempt, of the death approaching, of the leadership she wasn't ready to carry.
 
-If the network was resilient enough.
-
-Two-key access meant Jesus could make sure all three conditions were met.
-
-If he had nine months.
-
-If the offensive network didn't accelerate.
-
-If martyrdom came when scheduled, not before.
-
-Too many variables. Too much uncertainty.
-
-But also: Enhanced access achieved. Comprehensive teaching possible. Defensive preservation strategy viable.
-
-Mary held onto that. Pushed away the fear of keyless access attempts and early death and leadership she wasn't ready for.
-
-For tonight: Success. Jesus had enhanced access. The unlocking worked. The keys proved their value.
-
-Tomorrow: Return to Capernaum. Begin teaching with two-key clarity. Nine months to encode it all.
-
-It was enough.
+Tomorrow they would return to Capernaum. Nine months to teach everything.
 
 It had to be enough.
 
@@ -496,7 +476,7 @@ It had to be enough.
 
 ## SCENE 5: THE OFFENSIVE NETWORK LEARNS
 
-Marcus Publius Scipio stood in the Temple courtyard, positioned where he could observe without being conspicuous—former centurion's skill, still useful in civilian life. He'd learned to blend into Jerusalem's crowds, watch without seeming to watch, gather intelligence without drawing attention.
+Marcus Publius Scipio stood in the Temple courtyard, positioned where he could watch without being noticed — a soldier's skill that served him well in civilian life. He'd learned to blend into Jerusalem's crowds, to observe without seeming to observe.
 
 Simon had asked him to monitor Temple activity. "Something's changed. Caiaphas is more agitated than usual. The offensive network is moving. We need to know what they're planning."
 
@@ -504,33 +484,33 @@ So Marcus watched.
 
 And saw exactly what Simon had feared.
 
-Caiaphas emerged from the inner Temple with three men Marcus didn't recognize—not Temple hierarchy, not Roman officials. Defensive network perhaps, though they moved wrong. Too confident. Too overtly powerful. Offensive network coordination.
+Caiaphas emerged from the inner Temple with three men Marcus didn't recognize — not Temple hierarchy, not Roman officials. They moved with the confidence of men accustomed to power. Not defenders. Something else entirely.
 
-They crossed the courtyard to a secured building—Marcus knew it from his military intelligence days. Temple treasury. Vault storage. Where valuable artifacts were kept under guard.
+They crossed the courtyard to the treasury — Marcus knew the building from his years in military service. Vault storage. Where the Temple kept its most guarded possessions.
 
 The men disappeared inside. Marcus waited, patient with twenty-eight years of observation training.
 
 Twenty minutes later they emerged carrying a sealed wooden case. Bronze reinforcement on the corners. Heavy enough that two men carried it between them. Size and shape consistent with artifact storage.
 
-Marcus had seen those cases before. Had catalogued them in reports five years ago when he was still pretending to track Jesus for Roman intelligence. Bronze artifacts, ancient origin, religious significance claimed by Temple authorities.
+Marcus had seen those cases before. Had noted them in reports five years ago when he was still tracking Jesus for Rome. Bronze artifacts, ancient origin, claimed by Temple authorities as sacred relics.
 
-The defensive network had told him those cases held three bronze keys. Three of the seven artifacts Nefertari had created. Controlled by offensive forces since the founding.
+The network had told him what those cases actually held. Three of the seven bronze keys Nefertari had forged. In the Temple's hands since the beginning.
 
 They were moving them now.
 
 Marcus followed at careful distance as the men transported the case through Jerusalem's streets. Not toward Roman headquarters. Not toward any location Marcus associated with Temple business. Toward the lower city. Toward sections he recognized as Zealot-sympathetic neighborhoods.
 
-Offensive network coordinating with Zealots.
+Temple and Zealots, working together. Marcus filed that away.
 
-The men entered a nondescript building—warehouse, possibly weapons cache, definitely not standard Temple property. Marcus waited across the street, watching.
+The men entered a nondescript building — a warehouse, not standard Temple property. Marcus waited across the street, watching.
 
-His informant appeared at his elbow—Silas, Temple guard who'd known Marcus during military service, sympathetic to defensive network for reasons Marcus had never fully confirmed but trusted anyway.
+His informant appeared at his elbow — Silas, a Temple guard who'd known Marcus during military service. Sympathetic to the network for reasons Marcus had never fully confirmed but trusted anyway.
 
-"They're securing the keys," Silas said. "Caiaphas's order. Direct response to intelligence that Jesus of Nazareth accessed enhanced Protocol."
+"They're securing the keys," Silas said. "Caiaphas's order. He's heard that Jesus has grown stronger."
 
-Marcus kept his expression neutral. "How does the Temple know about Jesus's access level?"
+Marcus kept his expression neutral. "How does the Temple know?"
 
-"Spies in Galilee. Reports that a woman arrived from Alexandria with artifacts. That Jesus traveled to Qumran for three days. That he's teaching with clarity he didn't demonstrate before." Silas glanced at the warehouse. "The offensive network interprets that as threat escalation."
+"Spies in Galilee. Reports that a woman came from Alexandria with artifacts. That Jesus traveled to Qumran for three days. That he's teaching with a clarity he didn't have before." Silas glanced at the warehouse. "They see that as a threat."
 
 "What's their response?"
 
@@ -542,29 +522,23 @@ Marcus felt cold settle in his chest. "How much acceleration?"
 
 "Can they confirm his access level?"
 
-"Not precisely. They don't understand blood memory mechanics well enough. But they're watching for teaching content, pattern complexity, network coordination efficiency. If those indicators suggest complete Protocol access, they'll trigger early arrest."
+"Not precisely. They don't understand how it works. But they're watching the teaching itself — how deep it goes, how organized his followers become. If they decide he's reached full strength, they'll arrest him immediately."
 
-Marcus processed this. "So Jesus needs to teach enough to encode defensive knowledge completely, but not so clearly that offensive network recognizes seven-key access and accelerates execution."
+Marcus processed this. "So Jesus needs to teach deeply enough to pass on everything, but not so clearly that the Temple recognizes how strong he's become and moves the execution forward."
 
 "Exactly." Silas looked at him directly. "Can you warn the defensive network?"
 
-"I can. Will Caiaphas notice you're leaking intelligence?"
+"I can. Will Caiaphas notice you're passing word?"
 
-"I'm one of forty Temple guards. Invisible unless I want attention. But Marcus—tell them the timeline might compress significantly. Tell them enhanced access is valuable, but complete access is fatal. If Jesus attempts seven-key equivalent, he dies immediately."
+"I'm one of forty Temple guards. Invisible unless I draw attention. But Marcus — tell them the timeline could collapse. A stronger Jesus is useful to the network. A Jesus who sees everything is a dead man. If they decide he's reached full strength, they won't wait for Passover."
 
 "I'll tell them."
 
-Silas disappeared back into the Temple district crowds. Marcus waited until the offensive network coordinators left the warehouse—empty-handed, keys secured inside—before heading toward the defensive network contact point.
+Silas disappeared into the crowds. Marcus waited until the men left the warehouse — empty-handed, keys locked inside — before heading to find Simon.
 
-Simon needed to know. Helena needed to know. Jesus needed to know.
+Everyone needed to know. Enhanced teaching was valuable. Complete mastery was a death sentence. The line between them was razor-thin.
 
-Two-key access was acceptable risk to the offensive network. Seven-key access was elimination trigger.
-
-Marcus walked through Jerusalem's afternoon crowds. Nine months to Passover if Jesus taught carefully. Weeks if the offensive network decided he'd accessed too much.
-
-The machinery was tightening. Rome, Temple, Zealots—all watching for signs that Jesus had accessed complete Protocol. All ready to accelerate execution the moment he proved too dangerous.
-
-Marcus needed to warn them. Enhanced teaching was valuable. Complete teaching was fatal. The line between them was narrow.
+Marcus walked through Jerusalem's afternoon crowds. Nine months to Passover if Jesus taught carefully. Weeks if the Temple decided he'd gone too far.
 
 ---
 
@@ -572,13 +546,13 @@ Marcus needed to warn them. Enhanced teaching was valuable. Complete teaching wa
 
 The emergency network meeting gathered two days later—not in Capernaum where spies watched, but in the teaching house Mary had established in a smaller Galilean town.
 
-Marcus delivered his intelligence. The offensive network had moved their three keys. Caiaphas was discussing timeline acceleration. If Jesus demonstrated seven-key access, arrest within weeks instead of months.
+Marcus delivered his news. The Temple had moved their three keys to a secure location. Caiaphas was talking about moving the arrest forward. If Jesus appeared too strong, they would come within weeks, not months.
 
-"Can they confirm access level?" Simon asked.
+"Can they tell how deep his access goes?" Simon asked.
 
-"They're watching teaching content and pattern complexity. As long as Jesus appears enhanced-but-limited, they'll maintain Passover timeline."
+"They're watching the teaching itself. As long as Jesus appears stronger but still limited, they'll wait for Passover."
 
-Jesus nodded slowly. "So I teach thoroughly but imperfectly. Strategic ambiguity."
+Jesus nodded slowly. "So I teach deeply but leave some edges rough. Let them think I'm still growing, not that I've arrived."
 
 Helena raised the harder question: "Do we search for the two lost keys?"
 
@@ -594,7 +568,7 @@ Jesus looked at Mary. She knew what he was asking—permission, validation, conf
 
 "What would it give you that two-key access doesn't?"
 
-"Universal teaching capability. Non-carriers could learn defensive methodology directly."
+"Anyone could learn it. Not just carriers — anyone. The teaching could reach everyone directly."
 
 "And the physical risk?"
 
@@ -626,7 +600,7 @@ The parable was the Sower and Seeds—story Jesus had taught before, but never w
 
 "A farmer went out to sow seeds," Jesus began. "Some fell on the path, and birds ate them. Some fell on rocky ground, sprouted quickly but withered when sun got hot because roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain—thirty, sixty, a hundred times what was sown."
 
-The crowds heard agricultural metaphor. Mary felt it resonate in blood memory—network propagation, exponential growth through replication, resource allocation to receptive populations. Two-key access showing in how completely Jesus embedded the teaching while maintaining surface accessibility.
+The crowds heard agricultural metaphor. Mary felt it resonate in blood memory—the way teachings spread, multiplying through those who carried them forward, finding soil where they could take root. Two-key access showing in how completely Jesus embedded the teaching while maintaining surface accessibility.
 
 Another parable: The Leaven in Dough. The Pearl of Great Price. Each one surface-clear and deeper-complex.
 
@@ -636,7 +610,7 @@ Mary looked at her seven-year-old daughter. Generation 43. The one who would car
 
 "Yes," Mary said. "He's teaching you how. Watch. Listen. Feel the blood memory respond."
 
-The teaching continued through afternoon. Beatitudes with enhanced understanding—"Blessed are the meek" encoding that defensive mode outlasts offensive force. "Blessed are those persecuted" encoding that martyrdom preserves knowledge. Jesus was teaching his own upcoming death as strategy while crowds heard spiritual comfort.
+The teaching continued through afternoon. Beatitudes with enhanced understanding—"Blessed are the meek" encoding that those who endure outlast those who conquer. "Blessed are those persecuted" encoding that martyrdom preserves knowledge. Jesus was teaching his own upcoming death as strategy while crowds heard spiritual comfort.
 
 After the gathering dispersed, Thomas asked the question others were thinking. "Your teaching has changed. The parables are clearer somehow. More structured. What's different?"
 
@@ -646,7 +620,7 @@ Mary understood why he concealed it. The Twelve included Judas, who would eventu
 
 Later, reviewing Marcus's documentation of the day's parables, Mary said, "This is working. Two-key clarity is sufficient."
 
-"For carrier network, yes." Jesus paused. "But I'm watching thousands of people understand the surface layer and miss the encoded depth entirely. Not because they're unintelligent. Because they don't have carrier genetics."
+"For those who carry the blood, yes." Jesus paused. "But I'm watching thousands of people understand the surface layer and miss the encoded depth entirely. Not because they're unintelligent. Because they don't have carrier genetics."
 
 The desire to attempt keyless access—to teach *anyone* directly—hung between them.
 
@@ -655,6 +629,8 @@ The desire to attempt keyless access—to teach *anyone* directly—hung between
 Jesus took her hand. "I promise."
 
 They sat together as evening deepened, watching Capernaum's lights appear across the hillside. Eight months to Passover. Eight months to encode everything Nefertari built.
+
+But in Jerusalem, Caiaphas was not waiting for Passover. Mary wouldn't learn this for another three weeks — that the man beside her, whose hand she held, whose promise she believed, had already been given a death sentence that arrived ahead of schedule.
 
 ---
 

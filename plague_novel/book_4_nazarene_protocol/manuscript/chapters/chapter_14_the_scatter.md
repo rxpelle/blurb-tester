@@ -18,43 +18,37 @@ Seven days since resurrection morning. Seven days of confusion, hope, terror, wo
 
 "Lord?" Simon's voice came out uncertain.
 
-Jesus walked closer. Physical presence. Solid. Real. Or network operative. Or vision. Or—
+Jesus walked closer. Physical presence. Solid. Real. Or another follower playing his part. Or vision. Or —
 
-Simon forced himself to stop cycling through interpretations. Mary Magdalene had told the others after the garden encounter: "Don't ask which kind of resurrection. Just practice the teaching. That's what matters."
+Simon forced his mind to stillness. Mary Magdalene had told the others after the garden encounter: "Don't ask which kind of resurrection. Just practice the teaching. That's what matters."
 
 "Feed my sheep," Jesus said.
 
-Encoded instruction. Simon heard both layers at once:
-
-*Theological:* Care for believers, establish community, spread faith.
-
-*Methodological:* Preserve defensive knowledge, coordinate network, maintain teaching.
-
-Both true. Both necessary.
+Simon felt his chest tighten. The words meant *take care of the believers* — he understood that much. But underneath, like a second voice speaking the same words, he heard something else: *Keep the real teaching alive. Don't let it die with me.*
 
 "The network," Simon began. "We're scattering as planned. Antioch, Ephesus, Corinth, Alexandria, Cyrene. But—"
 
-"But you're afraid," Jesus finished. Physical presence settled onto a rock beside Simon's nets. "Afraid the teaching dies when I'm gone. Afraid resurrection was just body relocation and theological mythology. Afraid you don't understand enough to preserve it."
+"But you're afraid," Jesus finished. He settled onto a rock beside Simon's nets, the damp morning air curling off the water. "Afraid the teaching dies when I'm gone. Afraid you don't understand enough to preserve it."
 
-Simon nodded. Forty-one years old. Fisherman. Network elder. Carrier of fragmented bloodline. He'd spent three years learning from Jesus, watching systems thinking disguised as spiritual wisdom, recognizing pattern intelligence in parables. But understanding *about* something wasn't the same as understanding *how to continue* it.
+Simon's hands wouldn't stop shaking when he tried to mend nets. Seven days of waking with his heart hammering against his ribs, of dropping things when shadows moved wrong. He nodded. Forty-one years old. Fisherman. He'd spent three years learning from Jesus, watching how the parables held deeper patterns inside them. But understanding *about* something wasn't the same as knowing *how to continue* it.
 
-"You know more than you realize," Jesus said. "The Twelve, the women's network, Marcus's documentation, Mary's Gospel—multiple redundancies. Knowledge distributed so widely that no single suppression attempt can destroy it."
+"You know more than you realize," Jesus said. "The Twelve, the women's circles, Marcus's writings, Mary's Gospel — the seeds planted so widely that no single hand can uproot them all."
 
 "What about the offensive network? Caiaphas is already bribing people to claim we stole your body. Paul of Tarsus is watching us, reporting back. Rome sees Christianity as manageable religion but will infiltrate eventually."
 
-"Let them." Jesus picked up a piece of net, examined the knots. "Infiltration requires institutions. Institutions require visible structure. But defensive knowledge doesn't live in institutions—it lives in practice. They can control the Church. They can't control everyone who hears a parable and recognizes escalation dynamics."
+"Let them." Jesus picked up a piece of net, examined the knots. "Those who would corrupt us need temples and priests — visible structures they can control. But defensive knowledge doesn't live in buildings. It lives in practice. They can control the Church. They can't control everyone who hears a parable and sees the warning underneath."
 
-Simon watched the figure beside him. Seven days since resurrection. Forty days remaining according to network coordination timeline. Then final ascension—whatever that meant. Geographic scatter. Permanent distribution. Diaspora preparation.
+Simon watched the figure beside him. Seven days since resurrection. Forty days remaining before the final departure — whatever that meant. Then the scatter. Everyone moving to different cities, as far apart as they could get.
 
 "How many times will you appear?" Simon asked. "Before... before the end?"
 
-"As many as needed to demonstrate teaching continuity. Galilee gathering next week—five hundred witnesses. Upper room encounter after that. Thomas's verification. Emmaus road teaching. Each appearance showing different aspect: physical presence, spiritual continuity, methodological transmission, community formation."
+"As many as needed. Galilee gathering next week — five hundred witnesses. Upper room after that. Thomas needs to see for himself. Emmaus road. Each time showing the same thing: the teaching is alive."
 
-"And people will interpret it differently. Some literal resurrection, some symbolic, some strategic mythology."
+"And people will interpret it differently."
 
-"Yes. And all interpretations serve preservation. Faith spreads the communities. Knowledge embeds within them. Both necessary."
+"Yes. And every interpretation spreads the seeds further. Faith grows the communities. Knowledge hides inside them. Both necessary."
 
-The sun rose fully. Galilee's waters reflected gold and pink. Simon had fished these waters for thirty years before Jesus called him. Three years of ministry. Now: watching resurrection appearances while coordinating network scatter while processing impossible truths.
+The sun rose fully. Galilee's waters reflected gold and pink, the familiar smell of brine and wet rope rising off the nets. Simon had fished these waters for thirty years before Jesus called him.
 
 "Thirty-eight years," Jesus said.
 
@@ -64,45 +58,37 @@ Simon looked up. "What?"
 
 "Can we change it? Stop the destruction?"
 
-"No. That's the whole point. Collapse is inevitable when systems entrench instead of adapt. Jerusalem will fall because Temple authorities chose power protection over pattern recognition. But the knowledge survives *because* of the collapse. Geographic distribution only happens through catastrophe."
+"No. That's the whole point. Collapse is inevitable when the people in power choose rigidity over wisdom. Jerusalem will fall because the Temple chose to protect its own authority instead of serving the people. But the knowledge survives *because* of the collapse. The scattering only happens through catastrophe."
 
-Simon thought about that. Defensive mode operating across forty-two generations. Every carrier eventually facing the same choice: Prevent collapse (impossible) or preserve knowledge through it (achievable).
+Simon thought about that. Forty-two generations of carriers, every one facing the same choice: prevent the collapse (impossible) or preserve the knowledge through it (achievable).
 
 "What's my role?" Simon asked. "After you... after the ascension?"
 
-"Hold the Pattern Eye. Coordinate the scatter. Live long enough to witness 70 CE so you can confirm Jesus was right. Die in Rome under Nero, probably. Let them martyr you. That validates the teaching just like crucifixion validated mine."
+"Hold the Pattern Eye. Coordinate the scatter. Live long enough to see Jerusalem fall so you can confirm I was right. Die in Rome under Nero, probably. Let them martyr you. That validates the teaching the same way the cross validated mine."
 
-Casual. Strategic. Two thousand years of pattern recognition compressed into: *Let them kill you because it serves preservation.*
+Casual. Almost gentle. As if dying well was just the last thing a teacher taught.
 
 "And Generation 43? Sarah?"
 
-"Mary's daughter will carry forward. Train her well. She'll face her own martyrdom timeline eventually. That's how blood memory strengthens—trauma-associated encoding each generation."
+"Mary's daughter will carry forward. Train her well. She'll face her own time of testing eventually. That's how the blood strengthens — each generation's suffering pressed deeper into the line."
 
-The figure stood. Morning light consuming features. Physical presence or vision or network operative—dissolving into whichever reality enabled teaching continuity.
+The figure stood. Morning light consuming his edges, the way mist burns off the lake.
 
-"Forty days," Jesus said. "Coordinate the appearances. Demonstrate resurrection through community practice. Then final scatter. Then you wait thirty-eight years. Then Jerusalem burns and proves I was right."
+"Forty days," Jesus said. "Then the final scatter. Then you wait thirty-eight years. Then Jerusalem burns and proves I was right."
 
 "And if they kill me before 70 CE?"
 
-"They won't. You're needed as witness. That's your contribution: Living long enough to see pattern fulfillment. Document it. Pass Pattern Eye to Generation 43. Trust the process."
+"They won't. You're needed as witness. Living long enough to see it happen — that's your part. Pass the Pattern Eye to Sarah. Trust the pattern."
 
 Gone.
 
-Simon sat alone on Galilee shore, nets half-mended, sun fully risen, mind processing resurrection encounters as both theological miracle and strategic network coordination.
+Simon sat alone on Galilee's shore, nets half-mended, sun fully risen, the water lapping at the stones the way it had every morning of his life.
 
-Forty days.
+Forty days. Then the rest of his life. Then martyrdom. Then the knowledge continuing without him.
 
-Then the rest of his life.
+We're never ready. We start anyway.
 
-Then martyrdom.
-
-Then knowledge continuing despite his absence.
-
-That was defensive mode.
-
-That was what Jesus had been teaching for three years.
-
-Now Simon would practice it for the next forty.
+Now Simon would practice for the next forty years what Jesus had been teaching for three.
 
 ---
 
@@ -110,21 +96,19 @@ Now Simon would practice it for the next forty.
 
 Five hundred people gathered on the hillside north of Capernaum.
 
-Mary Magdalene coordinated from the edges, watching crowd composition: Disciples, women's network, defensive elders, sympathetic families, curious seekers. Some had witnessed crucifixion. Some heard resurrection rumors. Some just wanted to see if the teacher they'd loved was somehow alive again.
+Mary Magdalene watched from the edges, reading the crowd: Disciples, women's circles, defensive elders, sympathetic families, the merely curious. Some had witnessed the crucifixion. Some had heard the rumors. Some just wanted to see if the teacher they'd loved was somehow alive again.
 
-Sarah sat beside her, age seven, Pattern Eye wrapped in cloth at her feet. Generation 43. Learning to witness strategic mythology creation in real-time.
+Sarah sat beside her, age seven, the Pattern Eye wrapped in cloth at her feet. Generation 43.
 
-"Mother," Sarah whispered. "Is Jesus really here? Or is this network theater?"
+"Mother," Sarah whispered. "Is Jesus really here? Or are they pretending?"
 
-Mary smiled. Her daughter's blood memory was activating beautifully — questioning everything, holding multiple interpretations, recognizing both/and instead of either/or.
+Mary smiled. Her daughter already asking the right questions — not choosing between, but holding both.
 
 "Watch," Mary instructed. "See what happens. Then tell me what you think."
 
 The crowd fell silent. Figure approaching from the hillside. Walking with familiar gait. Carpenter's posture. Teacher's expression.
 
 Jesus.
-
-Or network operative trained to embody him. Or collective grief hallucination. Or literal resurrection. Or spiritual manifestation.
 
 All possible. None certain.
 
@@ -134,7 +118,7 @@ The figure reached the hilltop, turned to face the five hundred gathered below. 
 
 He began teaching. The parable of the wheat and tares — allowing weeds to grow alongside grain until harvest. Let them coexist. Time reveals what serves and what destroys.
 
-Mary watched the crowd. Some were weeping. Some confused. Some nodding as if they heard something underneath the words that others missed. Marcus was near the back, wax tablet out, documenting. A woman near the front was reaching for the figure's hand, needing to touch.
+Mary watched the crowd. A woman in the front pressed her knuckles against her mouth, tears streaming. Behind her, a young man kept shaking his head, muttering *impossible*. An old fisherman nodded slowly, weathered hands opening and closing as if he could grasp the meaning in his palms. Marcus was near the back, stylus moving across his wax tablet.
 
 Afterward, people approached. Some touched him. Some asked questions. Some simply watched — processing the impossible.
 
@@ -142,9 +126,9 @@ Sarah tugged Mary's sleeve. "Is he real?"
 
 "What do you think?"
 
-Sarah considered carefully. Seven years old. Watching the crowd with the same quiet attention her mother brought to everything.
+Sarah frowned, watching the people still talking in small groups, still holding hands the way Jesus had taught them.
 
-"I think... it doesn't matter if that's really him or someone pretending. Because look —" She pointed at the hillside. People were still gathered in small groups, talking, holding each other's hands. Doing what Jesus had taught them to do. "They're still doing it. Even if he's gone, they're still doing it."
+"I think... it doesn't matter if that's really him." She pointed at the hillside. "Look — they're still doing it. Even if he's gone, they're still doing it."
 
 Mary pulled her daughter close and said nothing for a long time.
 
@@ -160,27 +144,19 @@ Whether Jesus's body was or wasn't.
 
 ### Day Twenty-Eight: Upper Room Encounter
 
-Thomas hadn't been present at the first appearance. Skeptical by nature—the questioner among the Twelve, the one who demanded evidence before belief, the physician's mind that dissected claims into testable components.
+Thomas hadn't been present at the first appearance. Skeptical by nature — the questioner among the Twelve, the physician's mind that demanded evidence before belief.
 
-Now he stood in the upper room with the other disciples, door locked against potential Temple arrest, evening settling over Jerusalem. Four weeks since resurrection reports began. Four weeks of hearing secondhand accounts: Mary Magdalene's garden encounter, Peter's verification, the Galilee gathering with five hundred witnesses.
+Now he stood in the upper room with the other disciples, door locked against Temple arrest, evening settling over Jerusalem. Four weeks of hearing secondhand accounts. Thomas had heard it all. Remained unconvinced.
 
-Thomas had heard it all. Documented it internally. Remained unconvinced.
+"I won't believe unless I see the nail marks," Thomas declared. "Unless I put my finger where the nails were. Unless I touch the spear wound."
 
-"I won't believe unless I see the nail marks," Thomas declared. Forty-two years old. Trained in Greek medicine. Blood memory carrier—Generation 42, Branch 7, distant from main line but active. "Unless I put my finger where the nails were. Unless I touch the spear wound and confirm physical resurrection."
+"You're hauling on the wrong net," Peter said. "Look around you. We're here. We're doing what he taught us. The teaching didn't die with him. That's the only resurrection I need."
 
-The other disciples had stopped arguing with him. Peter understood—he'd chosen belief over evidence at the empty tomb, but Thomas had different epistemological requirements. Network diversity required multiple types of thinkers. Faith-oriented believers like John. Evidence-oriented skeptics like Thomas. Both necessary for comprehensive preservation.
+"But Paul's converting gentiles by promising literal resurrection," Thomas countered. "Physical body returning from death. If that's false, we're building everything on a lie."
 
-"You're hauling on the wrong net," Peter said. "Doesn't matter if the body came back. Look around you. We're here. We're doing what he taught us. The teaching didn't die with him. That's the only resurrection I need to understand."
+"Or building it on more than one truth," Mary Magdalene said. She'd arrived from Damascus two days prior with Sarah. "All real. All serving different purposes."
 
-"But Paul's converting gentiles by promising literal resurrection," Thomas countered. "Physical body returning from death. If that's false, we're building Christianity on lie."
-
-"Or building it on multiple truths," Mary Magdalene interjected. She'd arrived from Damascus two days prior, bringing Sarah for training updates. "Physical resurrection AND teaching resurrection AND community resurrection. All real. All serving preservation."
-
-"That's epistemological cowardice. Refusing to commit to singular truth claim."
-
-"That's defensive mode sophistication. Holding complexity that institutions simplify."
-
-Thomas paced. Medical mind uncomfortable with ambiguity. Blood memory showing him historical pattern—forty-two generations of carriers holding multiple interpretations—but his training demanded verification.
+Thomas paced. His physician's training demanded proof. His blood showed him forty-two generations of carriers who had held contradictions in both hands without choosing between them.
 
 The figure appeared.
 
@@ -188,141 +164,73 @@ Standing in the center of the room. Door still locked. No sound of entry. No dis
 
 "Peace be with you."
 
-Jesus. Or manifestation. Or collective vision. Or network operative trained in theatrical appearances. Or—
+Jesus. Or manifestation. Or collective vision. Or a network agent trained in theatrical appearances. Or—
 
 "Thomas."
 
 The figure turned toward him specifically. Knew his name. Knew his doubt. Knew his requirements.
 
-Extended hands showing marks. Wrist wounds where nails had penetrated. Not palms—Romans crucified through wrists to support body weight. Accurate anatomical detail suggesting real crucifixion knowledge.
+Extended hands showing marks. Wrist wounds where nails had penetrated — not the palms, which would have torn under a man's weight. Thomas had treated enough wounds to know the difference.
 
-Pulled aside robe showing side wound. Spear puncture beneath ribs. Right side. Where Roman execution protocol specified confirmation thrust. Blood and water would have emerged—pericardial fluid release indicating death. Thomas had studied execution physiology. The wound placement was correct.
+Pulled aside robe showing the side wound. Spear puncture beneath the ribs. Right side. Thomas had seen enough crucifixion dead to know where the Romans aimed the confirming thrust. The wound was real.
 
 "Put your finger here. See my hands. Reach out your hand and put it into my side. Stop doubting and believe."
 
-Thomas approached slowly. Medical mind cataloguing evidence in real-time:
+Thomas approached slowly. His physician's eyes took in what they could: Wounds consistent with crucifixion. Healing pattern that made no sense — four weeks was not enough for this kind of closure. Physical solidity, casting shadow in the lamplight. But he had appeared through a locked door. And knew Thomas's exact doubt without being told.
 
-- Wounds consistent with crucifixion (nail damage through wrists, spear puncture right side)
-- Healing pattern: four weeks insufficient for this level of closure (suggesting accelerated recovery OR wounds fabricated OR body never actually dead)
-- Physical solidity (not ghostly, not translucent, casting shadow in lamplight)
-- But—appeared through locked door (non-physical entry mechanism)
-- And—knew Thomas's specific doubt without being told (suggesting either supernatural knowledge OR network briefing)
+He reached toward the hand wound. Fingers extending. Inches away.
 
-He reached toward the hand wound. Fingers extending. Inches away from contact that would either verify physical resurrection or prove elaborate deception.
-
-Stopped.
-
-Realized something deeper: Touching wouldn't answer the question. Verification wouldn't resolve doubt. Physical evidence wouldn't prove resurrection *type* because resurrection might be multiple phenomena at once.
-
-If he touched and felt solid flesh—proved nothing. Network operative could provide that.
-
-If he touched and felt nothing—proved nothing. Vision could create tactile hallucination.
-
-If he touched and experienced certainty—proved nothing. Psychological need could generate conviction regardless of reality.
-
-The verification Thomas demanded was impossible. Not because evidence was insufficient. Because the question itself was malformed.
+His hand began to shake. Not from fear. From understanding that crashed through him like cold water: the question itself was wrong. If he touched and felt solid flesh — it proved nothing; a living man could provide that. If he touched and felt nothing — it proved nothing; grief could conjure any sensation. The proof Thomas demanded was impossible. Not because the evidence was lacking. Because no single touch could answer what kind of resurrection this was.
 
 "My Lord and my God," Thomas said.
 
-Not because he'd verified physically—he hadn't touched. Not because he'd resolved doubt intellectually—uncertainty remained. But because he'd recognized that demanding singular explanation was wrong framework.
-
-Defensive mode teaching required holding contradiction: Physical AND spiritual. Literal AND methodological. Verification AND faith. Both/and rather than either/or.
+Not because he'd verified physically — he hadn't touched. Not because doubt had vanished — it hadn't. But because he'd recognized that demanding a single answer to a question with many true answers was the wrong way to hold it.
 
 Jesus smiled. The expression so familiar it hurt. Three years of that exact smile during teaching sessions when disciples finally grasped the layered teaching.
 
 "Because you have seen me, you have believed. Blessed are those who have not seen and yet have believed."
 
-Encoded teaching that Thomas's medical mind immediately decoded:
+Future generations wouldn't need to see what Thomas saw. They would only need to practice what Jesus taught. Seeing was unnecessary. Practicing was everything.
 
-*Theological layer:* Faith without evidence is superior to evidence-dependent belief. Future believers more blessed than present witnesses.
+The figure began to fade — or leave — the same ambiguity as arrival.
 
-*Methodological layer:* Knowledge preserves through community transmission, not individual verification. Future generations can practice teaching without witnessing resurrection events. Seeing is unnecessary. Practicing is essential.
+Thomas stared at his own hands after Jesus was gone. Physician's hands that had examined countless bodies, confirmed countless deaths.
 
-The figure began fading. Or leaving. Or ending the appearance. Same ambiguity as arrival—impossible to determine mechanism, irrelevant to outcome.
+"I don't know what I just saw," he said quietly. "But I know what I'm going to do about it."
 
-Thomas turned to Peter after Jesus disappeared. "I still don't know if that was physical resurrection."
+Peter met his eyes. "That's enough."
 
-"Does it matter?"
+Thomas sat down. He would carry this doubt to India. Would spread the teaching east while holding uncertainty the western communities couldn't tolerate. Would die there eventually — martyred for a teaching he'd never fully verified but practiced anyway.
 
-"Intellectually? Yes. Practically?" Thomas considered. "No. Because whether Jesus's body literally returned from death or network coordination creates these appearances or blood memory manifests collective vision—the teaching continues. We're practicing it. Communities are forming. Knowledge is spreading. That's resurrection regardless of mechanism."
-
-Mary Magdalene nodded. "You just understood what took me four weeks. The resurrection question isn't 'what happened to Jesus's body.' It's 'does the teaching survive his death.' And the answer—" She gestured around the upper room. Twelve disciples. Women's network. Defensive elders. All gathering, coordinating, practicing systems thinking practiced as spiritual community. "—is obviously yes."
-
-Thomas smiled slightly. Skeptic's smile. "So Paul's promising gentiles literal physical resurrection, we're preserving methodological teaching resurrection, and both serve the same distribution goal."
-
-"Exactly."
-
-"That's either brilliantly sophisticated or intellectually dishonest."
-
-"It's defensive mode operating at empire scale. Brilliant *and* dishonest *and* necessary. Jesus modeled it. We continue it. Future generations will either recognize the encoding or remain satisfied with theological interpretation. Both outcomes serve preservation."
-
-Thomas sat down. Forty-two years old. Physician. Skeptic. Blood memory carrier who'd just witnessed something he couldn't categorize and realized categorization wasn't the point.
-
-The resurrection wasn't about proving Jesus's body returned from death. It was about demonstrating that teaching continued despite teacher's death.
-
-That was achievable. That was preservable. That could spread across continents and centuries without requiring physical verification.
-
-Physical resurrection might be true. But methodological resurrection was *necessary*.
-
-And necessity mattered more than proof.
-
-That was Thomas's contribution: Forcing the epistemological crisis that proved verification was impossible and therefore optional. Future generations could practice defensive mode without resolving resurrection mechanics. Doubt could coexist with community. Skepticism could serve preservation.
-
-That was defensive mode's sophistication: Making intellectual uncertainty compatible with practical commitment.
-
-Thomas would carry that insight to India. Spread Christianity east while acknowledging ambiguity west couldn't tolerate. Die there eventually—martyred for teaching he'd never fully verified but practiced anyway.
-
-Preservation through complexity rather than simplification.
-
-That was how defensive knowledge survived theological institutions.
+Doubt could coexist with commitment. That was Thomas's contribution: proving you didn't have to resolve the question to live the answer.
 
 ---
 
 ### Day Forty: The Ascension
 
-They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's network core, defensive elders, Marcus documenting from the edges.
+They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's circles, Marcus writing from the edges. The air smelled of wild thyme and warm stone.
 
-Forty days of appearances. Different locations, different witnesses, different teachings. Galilee gathering, upper room encounters, road to Emmaus, lakeside breakfast, mountain commissioning.
+Forty days of appearances. Different locations, different witnesses, different teachings. Now: the final one.
 
-Each appearance demonstrating the same truth: Teaching continued. Community formed. Knowledge preserved.
-
-Now: final appearance. Final instructions. Final scattering.
-
-Jesus stood before them, physical presence solid in midday sun. Or network operative completing assignment. Or spiritual manifestation choosing departure moment. Or literal resurrection preparing actual ascension.
-
-All possible. All preserving the teaching through different interpretations.
+Jesus stood before them, solid in the midday sun.
 
 "You will receive power," Jesus said, "when the Holy Spirit comes upon you. And you will be my witnesses in Jerusalem, Judea, Samaria, and to the ends of the earth."
 
-Decoded:
+The blood memory carriers heard what ran beneath: *The gift of seeing patterns will come alive in you. You are not observers — you are the ones who carry it forward. From here to the edge of the known world.*
 
-- "Holy Spirit" = Blood memory activation (gift of pattern recognition)
-- "Witnesses" = Network coordination (not passive observation, active preservation)
-- "Jerusalem → ends of earth" = Geographic distribution strategy (diaspora scatter)
+Marcus wrote quickly.
 
-Marcus wrote quickly. Multiple interpretations. Future Gospel accounts would record this moment theologically. His documentation preserved methodological layer.
+Mary Magdalene held Sarah's hand. Generation 43 witnessing Generation 42's final instructions. The teaching passing forward through the blood and through community practice at once.
 
-Mary Magdalene held Sarah's hand. Generation 43 witnessing Generation 42's final instructions. The teaching passing forward through genetic memory and community practice at once.
+Jesus lifted his hands in blessing, and Peter felt something break in his chest. Three years of following, and now — this was goodbye. The real goodbye.
 
-Jesus lifted his hands in blessing. Began walking upward on the hillside, morning sun behind him, figure silhouetted against sky.
+Jesus began walking upward on the hillside, sun behind him, figure silhouetted against sky.
 
-Then—
+Then —
 
-Some witnesses would swear he rose into clouds, taken physically into heaven.
+Some witnesses would swear he rose into clouds, taken bodily into heaven. Some would understand it differently. All would carry the story forward.
 
-Some would recognize strategic exit, network operative departing after mission completion.
-
-Some would understand symbolic ascension—teaching elevated from individual carrier to community practice.
-
-All three interpretations spreading at once.
-
-Mary Magdalene watched until the figure disappeared into distance and light and interpretation. Tears on her face. Not grief—she'd grieved during crucifixion. This was different. Completion. Recognition. Understanding.
-
-Jesus had done what he planned. Martyrdom triggering diaspora. Resurrection validating teaching. Appearances demonstrating continuity. Ascension distributing knowledge beyond single leader.
-
-Defensive mode operating perfectly across forty-two generations from Nefertari to this moment.
-
-Now: her turn. Generation 42 Branch 3 becoming primary carrier. Sarah learning to be Generation 43. Knowledge scattering west.
+Mary Magdalene watched until the figure disappeared into distance and light. Tears on her face. Not grief — she'd grieved at the cross. This was completion. He had done what he planned. And now it was her turn.
 
 "What now?" Sarah asked.
 
@@ -348,44 +256,19 @@ Forty days complete. Now the long work.
 
 ### Pentecost (32 CE)
 
-Ten days after ascension, they gathered publicly in Jerusalem for Shavuot festival.
+Ten days after ascension, they gathered publicly in Jerusalem for Shavuot. One hundred twenty believers in the upper room, coordinating the final scatter.
 
-One hundred twenty believers. Disciples, women's network, defensive elders, new converts. Meeting in upper room, coordinating final scatter before leaving Jerusalem permanently.
+The sound began subtly. Rushing wind. But no wind outside. Something was waking up in all of them at once — the old knowledge their families had always carried, suddenly bright and clear. Flames appeared above heads. Not burning — visible. As if what lived in the blood had finally found a way to show itself.
 
-Mary Magdalene stood before them, Pattern Eye hidden in her robes, Sarah beside her. Speaking to the assembly:
+People began speaking in tongues they'd never learned. Blood memory surfacing ancestral languages from centuries past. Pilgrims from across the empire — Parthians, Medes, Romans, Cretans, Arabs — heard their own languages spoken by Galilean Jews who'd never traveled.
 
-"Jesus taught us systems thinking disguised as spiritual wisdom. Now we teach that same thinking disguised as religious practice. Some of you will spread it theologically—Peter, John, James. Some through direct practice—Thomas, Mary Magdalene, Matthias. Some infiltrate offensive networks to monitor—Judas's replacement. Some document—Marcus. All roles necessary."
+Peter stood and addressed the crowd. First public teaching since the resurrection. Three thousand converts that day.
 
-The sound began subtly. Rushing wind. But no wind outside. Psychological phenomenon? Mass hallucination? Blood memory activation spreading through multiple carriers at once?
+Christianity emerging from Judaism.
 
-Flames appeared above heads. Not burning, just—visible. Symbolic. Manifestation of knowledge transfer.
+The defensive teaching hiding inside the theological framework.
 
-Or: network coordination achieving critical mass, multiple carriers activating defensive access together, symbolic representation of distributed intelligence.
-
-People began speaking. Different languages. Not miraculously learned, but—blood memory accessing past linguistic patterns. Genetic knowledge of ancestral tongues surfacing during high activation state.
-
-Crowd gathered outside. Pilgrims from across the empire, visiting for festival. Parthians, Medes, Elamites, Romans, Cretans, Arabs. Hearing their native languages spoken by Galilean Jews who'd never traveled.
-
-Peter stood, addressing crowd. First public teaching post-resurrection. Explaining Jesus as Messiah, crucifixion as prophecy fulfillment, resurrection as divine validation, salvation through faith.
-
-Theological layer spreading beautifully.
-
-Meanwhile, Mary Magdalene coordinated the network scatter from the edges. Assignments distributed:
-
-- Peter + John → Jerusalem leadership (temporary, until Temple pressure forces exit)
-- Thomas → India trade routes (eastern distribution)
-- Mary Magdalene + Sarah → Egypt, eventually Gaul (western distribution)
-- Marcus → Rome (documentation, eventual Gospel writing)
-- Paul → Begin monitoring (offensive network infiltration beginning)
-- Pattern Eye → Rotating custody (Peter → Mary → Sarah → future carriers)
-
-Three thousand converts that day. Theologians counted it as religious miracle. Network recognized it as critical mass achievement. Geographic distribution reaching escape velocity.
-
-Christianity emerging from Judaism's womb.
-
-Defensive mode embedding in theological framework.
-
-Offensive network positioning for infiltration.
+And the offensive network already watching, positioning for the long infiltration.
 
 ---
 
@@ -599,7 +482,7 @@ Peter watched him carefully. Fifty-four years old. Scarred hands, grey in his be
 
 "Circumcision isn't necessary," Paul insisted. Former Pharisee. Brilliant. Relentless. "Faith in Christ's death and resurrection is sufficient for salvation."
 
-Peter heard the shift. Not *practice* of Jesus's teaching — *faith* in Jesus's death. Not what he taught — what happened to him. The man who'd spent three years saying *do this* was being replaced by a theology that said *believe this*.
+Peter heard the shift. Not *practice* what Jesus taught — *believe* what happened to Jesus. The man who'd spent three years saying *do this* was being replaced by a message that said *believe this*.
 
 James, Jesus's brother, pushed back: "Jesus taught practice, not just belief. Love your enemies — that's something you *do*. Feed the hungry — that's something you *do*. Forgive seventy times seven — that's something you *do*. We should require converts to *practice* these, not just believe Jesus died for them."
 
@@ -607,59 +490,37 @@ James, Jesus's brother, pushed back: "Jesus taught practice, not just belief. Lo
 
 Peter intervened. "Jesus wanted the *teaching* to spread. Not theological simplification. Not institutional power. Not substitutionary atonement doctrine that replaces practice with belief."
 
-"Not what *you* want to control," Paul shot back. Eyes sharp. Intelligent. Dangerous. "You're still thinking like Jewish sect. Exclusive. Complicated. Limited. I'm thinking like world religion. Universal. Simple. Scalable. Which serves preservation better—your dozen communities practicing complex teaching, or my hundreds of churches believing simple gospel?"
+"Not what *you* want to control," Paul shot back. Eyes sharp. Intelligent. Dangerous. "You're still thinking like a small sect. Exclusive. Complicated. Limited. I'm thinking like a faith for the whole world. Universal. Simple. Which serves the teaching better — your dozen communities practicing something they barely understand, or my hundreds of churches believing a gospel they can carry?"
 
 Terrible question. Because Paul was partially right.
 
-Theological simplification reached more people faster. Institutional structure provided organizational stability. Empire-wide spread achieved more efficiently through Paul's accessible framework than Jesus's demanding systems-thinking approach.
+Paul's simpler version reached more people faster. His structures provided stability. His framework could spread across the empire in ways Jesus's demanding teaching never could.
 
-But at catastrophic cost: Methodology obscured beneath theology. Systems thinking reduced to ritual performance. Defensive mode encoded so deeply that extraction would become nearly impossible for forty generations.
+But the cost was enormous: the real teaching buried under theology. The living knowledge hardening into ritual. Defensive mode hidden so deep that future carriers might never find it again.
 
-The trade-off: Reach versus fidelity. Distribution versus accuracy. Quantity versus quality.
+Peter's stomach churned. Everything in him wanted to stop Paul, to protect what Jesus had really taught. But Jesus's voice echoed across seventeen years: *"Let the weeds grow with the wheat until harvest."*
 
-Peter felt the weight of decision. Whatever he chose here would shape Christianity for centuries. Allow Paul's approach—massive spread, methodological corruption. Suppress Paul—preserve teaching accuracy, limit geographic distribution.
+Peter made his decision: "Let him spread it his way. We preserve it our way. The faith brings the numbers — millions of believers across centuries. The deeper teaching survives underneath — a handful of carriers who recognize what's hidden in the parables. If the churches fall, the blood remembers. If the bloodline breaks, the churches carry the structure."
 
-Jesus's voice echoed across seventeen years: *"Let the weeds grow with the wheat until harvest. Separation attempted prematurely destroys both."*
+James looked doubtful. "You're accepting their infiltration. Deliberately."
 
-Network doctrine demanded: Let infiltration happen. Monitor, don't suppress. Defensive knowledge survives institutional corruption through distributed preservation, not through preventing corruption.
+"Yes. Because if we block Paul, they send someone else. Better the man we know."
 
-Peter made decision: "Let him spread it his way. We preserve it our way. Both serve different purposes. Theological layer brings numbers—millions of believers across centuries. Methodological layer preserves knowledge—handful of carriers recognizing encoding. Distributed redundancy. If theological Christianity gets suppressed, methodological preservation continues. If methodological line gets suppressed, theological framework maintains structural memory."
+Paul's voice carried genuine conviction as he left, and Peter thought that made it worse somehow — watching someone reshape everything Jesus had taught while believing completely he was preserving it.
 
-James looked doubtful. "You're accepting offensive network infiltration. Deliberately. As strategy."
+Council agreed reluctantly. Paul would continue his gentile mission. The Jerusalem community would maintain the original teaching under James. Both branches coexisting, competing, eventually diverging completely.
 
-"Yes. Because preventing it costs more than allowing it. If we block Paul, offensive network sends someone else. Better the infiltrator we know than one we don't. We can monitor Paul, track his theological drift, maintain counter-narrative through our own documentation."
+After Paul left, Peter turned to James.
 
-Paul interjected: "I'm not infiltrating anything. I'm serving Christ's mission."
+"Did we just trade the teaching for reach?"
 
-Peter met his eyes. "Whether you're consciously offensive network operative or unconsciously serving their agenda doesn't matter. Outcome is identical: Christianity becomes institution rather than practice, theology rather than practice, belief system rather than knowledge system. We're accepting that because empire-scale distribution requires institutional vehicle. But we preserve original teaching underneath through blood memory carriers and encoded documentation."
+James considered. "Jesus himself did that. He put the deepest truths inside simple parables so anyone could hear them and only a few would understand what was underneath. We're doing the same thing, only larger. Paul's simple version reaches millions. Our deeper version reaches the few who can recognize it."
 
-"So you're agreeing?" Paul pressed. "Gentile mission continues?"
+"And when they fully corrupt it? When Christianity becomes Rome's own religion — using Jesus's teaching against empire to justify empire?"
 
-"With conditions. You document what you teach—letters to churches, theological treatises, whatever. We document what Jesus actually taught—Gospels, Acts, network histories. Future generations access both. They can choose theological Paul or methodological Jesus depending on what they're seeking. Both preserved. Both accessible."
+"Then we'll be three hundred years into the scattering. Too widespread to destroy. Carriers hidden inside the very institution that claims to own the truth. The knowledge surviving *because* it's buried inside the corruption, not standing outside where they could burn it."
 
-Council agreed reluctantly. Paul could continue gentile mission with Barnabas. Jerusalem church would maintain original teaching under James. Both branches coexisting, competing, eventually diverging completely.
-
-As Paul left, satisfied with permission secured, Peter turned to James.
-
-"Did we just sell the teaching for geographic distribution?"
-
-James, Jesus's brother, who'd watched Jesus grow up, who'd dismissed him as crazy during ministry, who'd recognized the truth only after resurrection, considered carefully.
-
-"No. We traded purity for reach. Jesus himself did that—encoded complex thinking as simple parables so both sophisticated and simple listeners could access appropriate layers. We're doing same at institutional scale. Paul's simple gospel reaches millions. Our deeper preservation reaches the few who can recognize it. Both necessary."
-
-"And when offensive network fully infiltrates? When Christianity becomes Roman state religion under Constantine or whoever? When they use Jesus's anti-empire teaching to justify imperial power?"
-
-"Then we'll be three hundred years into geographic distribution. Too scattered to suppress completely. Blood memory carriers hidden within institutional Christianity. Pattern Eye passed forward through generations. Defensive mode surviving *because* it's embedded within corrupted institution rather than outside it."
-
-Peter absorbed this. Terrible strategy. Strategic brilliance. Accepting corruption as preservation mechanism rather than fighting purity battle they'd lose.
-
-Offensive network infiltration succeeding.
-
-Defensive network accepting it as necessary cost.
-
-Knowledge surviving through adapting to corruption rather than preventing it.
-
-That was defensive mode operating at empire scale — what Jesus had modeled through choosing martyrdom over resistance.
+Peter absorbed this. Terrible and brilliant at the same time.
 
 But Peter had not raised the thing that troubled him most. Not during the council. After, walking through Jerusalem's streets with James, he said it:
 
@@ -667,7 +528,7 @@ But Peter had not raised the thing that troubled him most. Not during the counci
 
 James didn't ask what he meant.
 
-"Mary Magdalene was the first witness. The first sent. She taught more communities than Paul has visited. She wrote her own Gospel — the direct methodological encoding. And already his letters are... careful. He mentions Phoebe as deacon of the church at Cenchreae. He mentions Junia as outstanding among the apostles. He mentions Prisca as co-worker. He acknowledges them. For now."
+"Mary Magdalene was the first witness. The first sent. She taught more communities than Paul has visited. She wrote her own Gospel — the teaching pressed directly into text. And already his letters are... careful. He mentions Phoebe as deacon of the church at Cenchreae. He mentions Junia as outstanding among the apostles. He mentions Prisca as co-worker. He acknowledges them. For now."
 
 "For now."
 
@@ -705,21 +566,21 @@ Rome was burning.
 
 Nero blamed Christians. Persecution beginning. Peter knew his timeline: Martyrdom under Nero, just as Jesus predicted thirty-one years ago on Galilee shore.
 
-He stood in prison cell, holding Pattern Eye one final time before Sarah arrived to claim it.
+He stood in a narrow stone cell, dampness seeping through the walls, holding the Pattern Eye one final time. Torchlight from the corridor flickered through the iron grate, casting wavering shadows on rough-hewn stone.
 
-Sixty-eight years old. Fisherman. Apostle. Network elder. Witness to resurrection. Coordinator of scatter. About to die upside-down on Roman cross because he'd insisted he wasn't worthy to die like Jesus.
+Sixty-eight years old. Fisherman. Apostle. About to die upside-down on a Roman cross because he'd insisted he wasn't worthy to die as Jesus had.
 
-Sarah entered. Age thirty-nine. Generation 43 primary carrier since Mary Magdalene's death twenty-two years ago in Gaul. Taking Pattern Eye to continue forward.
+Sarah entered. Age thirty-nine. Generation 43, carrying the weight since her mother's death twenty-two years ago in Gaul.
 
 "Six years," Peter said. "Then it burns, just like he said. You'll live to see it. When it happens, go west. Britain, eventually. Your daughter's already dreaming the old cities, isn't she?"
 
-"I'm afraid," Sarah admitted. "Mother died. You're dying. Thomas martyred in India last year. Paul executed last month. The twelve disappearing. Who carries it forward?"
+"I'm afraid," Sarah admitted. "Mother died. You're dying. Thomas martyred in India last year. Paul executed last month. Everyone is disappearing. Who carries it forward?"
 
-"You. Generation 43. And Generation 44, 45, 50, 100. Blood memory preserves. You've been trained since birth. You know this."
+"You. And your daughter. And hers. The blood remembers. You've known this since you were seven years old."
 
-He handed her the Pattern Eye. Warm bronze. Intricate meridians. Twelve hundred years of encoding. Key to amplified Protocol access.
+He handed her the Pattern Eye. The bronze was warm, its carved lines catching the torchlight. Twelve hundred years of pattern pressed into metal.
 
-"When Jerusalem falls," Peter instructed, "confirm Jesus was right. Document it like Marcus documented crucifixion. Multiple perspectives preserved. Then continue west. Knowledge surviving through distribution, not centralization."
+"When Jerusalem falls," Peter instructed, "see it with your own eyes. Record what you witness. Then continue west. The knowledge survives by scattering, not by staying in one place."
 
 They heard guards approaching. Time ending.
 
@@ -727,19 +588,11 @@ They heard guards approaching. Time ending.
 
 Peter smiled. "After thirty-one years, I still don't know. But I know the teaching survived his death. I know communities formed. I know knowledge scattered. That's resurrection enough."
 
-Guards entered. Taking Peter to martyrdom. Sarah escaping through arranged exit, Pattern Eye hidden, Generation 43 carrying forward.
+Guards entered. Sarah slipped out through the arranged exit, the Pattern Eye hidden against her ribs.
 
-Two days later, Peter died on inverted cross in Nero's circus.
+Two days later, in the sand of Nero's circus, Peter felt the rough wood against his back as they bound him upside-down. The crowd's roar faded to a distant hum. He saw the sky inverted, clouds drifting backward, and thought of Jesus walking on water — everything impossible until it wasn't.
 
-Martyrdom validating teaching, just as Jesus's crucifixion had.
-
-Knowledge continuing despite witness death.
-
-That was defensive mode.
-
-That was how it survived.
-
-Through accepting death rather than preventing it.
+Knowledge continuing despite the witness's death. That was how it survived. Through accepting death rather than preventing it.
 
 ---
 
@@ -751,7 +604,7 @@ Sarah stood on the Mount of Olives, watching Jerusalem burn below.
 
 Thirty-eight years since crucifixion. Exactly as Jesus predicted during that final week before Sukkot festival 32 CE. Down to the month. Down to the season. Down to the method.
 
-Titus's legions had besieged the city for five months. Four legions: Tenth Fretensis, Twelfth Fulminata, Fifteenth Apollinaris, Fifth Macedonica. Eighty thousand soldiers systematically starving one million people trapped inside walls. Zealot revolt crushed. Temple defenses broken. Roman military efficiency executing destruction so complete that future generations would struggle to believe Jerusalem had ever stood here.
+Titus's legions had besieged the city for five months. Eighty thousand soldiers systematically starving one million people — families, children, elders who had known no other sacred center than this Temple — trapped inside walls. Zealot revolt crushed. Temple defenses broken. Destruction so complete that future generations would struggle to believe Jerusalem had ever stood here.
 
 She held the Pattern Eye, bronze warm in her palms. Blood memory showed her other cities burning — Pi-Ramesses, Thebes, Babylon. The same fire. The same smoke. The same refugees streaming out of gates.
 
@@ -777,11 +630,11 @@ She watched refugees streaming out of city through the few gates Romans had left
 
 All scattering west. Antioch, Ephesus, Corinth, Alexandria, Rome, Gaul, Britain. The same directions the knowledge had always traveled when cities burned.
 
-Sarah watched smoke rise. Black columns against autumn sky. The smell reached even here, miles away. Burning wood. Burning flesh. Burning civilization.
+The wind shifted and the smell hit her like a fist — acrid smoke that burned her nostrils, the sweet-sick stench of burning flesh that made her gag, ash that coated her tongue with the taste of a civilization dying. Black columns against autumn sky. Heat waves shimmering even from miles away.
 
 *Not one stone will be left on another,* Jesus had said. Her mother had carried those words from Jerusalem to Damascus to Alexandria to Gaul, repeating them to Sarah at bedtime the way other mothers repeated prayers. *When you see Jerusalem surrounded by armies, know that its desolation is near.*
 
-Not prophecy. He had simply seen this before — in blood memory, in the pattern that repeated every time a civilization chose rigidity over adaptation. He'd read the signs the way a fisherman reads weather. And he'd been right. Down to the season. Down to the method.
+Not prophecy. He had simply seen this before — in blood memory, in the pattern that repeated every time a civilization chose rigidity over wisdom. He'd read the signs the way a fisherman reads weather. And he'd been right. A million people. Jesus had been right about everything, and Sarah wished desperately that he hadn't been.
 
 The Temple fell completely by evening. Final retaining wall collapsing inward, massive stones tumbling, dust cloud rising like a soul leaving a body. Eight hundred years of worship. Gone in an afternoon.
 
@@ -823,97 +676,51 @@ Forever.
 
 Three months after Jerusalem's fall, Sarah stood in Antioch's upper room, meeting the scattered network coordinators who'd survived.
 
-Twelve elders. Twenty-three carriers. Forty-seven community leaders. Out of what had been three thousand in Jerusalem alone before siege. The rest: dead, scattered, or gone underground so deeply that contact had broken.
+Twelve elders. Twenty-three carriers. Forty-seven community leaders. Out of what had been three thousand in Jerusalem alone before the siege. The rest: dead, scattered, or gone so deep underground that contact had broken.
 
-But that was enough. That was the whole point. Defensive knowledge didn't require everyone. It required *enough*—enough distribution that suppression became impossible, enough encoding that extraction remained accessible, enough carriers that bloodline continued.
+But that was enough. It had always been enough. The knowledge didn't need everyone. It needed *enough* — scattered so widely that no single hand could close around it all.
 
 "The Pattern Eye stays with me," Sarah announced. Age forty-five. Generation 43 primary carrier. Authority recognized. "Rebecca will receive it when she's twenty-five—ten years from now. Generation 44 custody established."
 
 Murmurs of agreement. The artifact had passed through Nefertari, Tausret, Moses, Jeremiah, Mary Magdalene, Peter, now Sarah. Thirteen centuries of unbroken custody. It would continue.
 
-"Paul's churches are spreading faster than ours," one elder reported. Defensive network member monitoring offensive infiltration. "His theology simplifies Jesus's teaching beyond recognition. Substitutionary atonement. Faith without works. Grace through belief alone. The teaching is disappearing."
+"Paul's churches are spreading faster than ours," one elder reported. "His faith simplifies everything Jesus taught. The real teaching is disappearing."
 
-"Let it," Sarah countered. "That's the disguise. Theological framework grows visible and accessible. Methodological core stays hidden and preserved. Both serving same distribution goal."
+"Let it," Sarah countered. "That's the disguise. The visible faith grows large enough to shelter the hidden knowledge underneath. Both serve the same purpose."
 
-"But in three hundred years when Constantine makes Christianity Rome's state religion—using Jesus's anti-empire teaching to justify imperial power—won't defensive mode be corrupted beyond extraction?"
+"But when they corrupt it completely — when an emperor makes it Rome's own religion?"
 
-Sarah had thought about this. Deeply. The blood memory showed her the pattern forward more clearly than backward:
+"Then we'll be embedded so deeply inside it that they can't destroy us without destroying Christianity itself." Sarah pressed her palm against her left side. "Jesus chose this. He chose to die so the teaching would scatter. He chose to let them build churches over his words, because a hidden seed inside a corrupted institution survives longer than a pure teaching standing naked in the open."
 
-Christianity would spread. Become dominant religion. Corrupt completely into institutional power structure—the very thing Jesus taught against. Crusades, inquisitions, empire-building, wealth-hoarding, persecution of alternatives. Every offensive network characteristic Jesus opposed, eventually embodied in churches claiming his authority.
+The meeting continued. The scatter confirmed. Everyone moving west.
 
-Terrible. Inevitable. *Strategic*.
+Sarah stayed after the others left. Alone in the upper room. The Pattern Eye on the table before her, its bronze surface warm in the afternoon sun, the tiny carved lines seeming to shift in the light.
 
-Because within that corrupted institutional Christianity, blood memory carriers would hide. Recognizing encoding. Extracting the teaching. Preserving defensive knowledge through centuries of offensive domination.
+Nefertari to Sarah. Forty-three generations. Twelve hundred years. The knowledge surviving through every collapse, every civilization's rise and fall. Forward from here: dim, uncertain, dependent on choices not yet made.
 
-"Yes," Sarah answered. "Christianity will corrupt completely. And defensive mode will survive *because* it's hidden inside that corruption. If we'd stayed pure, we'd have been suppressed immediately. But embedded within Rome's official religion? Impossible to eliminate without destroying Christianity itself."
+She knew her role. Carry the Pattern Eye west. Train Rebecca. Trust the pattern.
 
-Another elder: "So Jesus's sacrifice achieved what he intended. Martyrdom triggering diaspora. Resurrection encoding the teaching. Christianity spreading defensively disguised as theological belief. Offensive network infiltrating but unable to suppress completely because they're spreading the very framework that preserves what they're trying to eliminate."
+Rebecca entered. Age fifteen. Generation 44. Already dreaming cities she'd never seen. Already reaching left in her sleep.
 
-"Exactly. They win institutionally. We win methodologically. Both true. Both acceptable. Both serving long-term preservation."
+"Mother, the ship leaves tomorrow. Britain by spring."
 
-The meeting continued. Distribution assignments finalized. Geographic scatter confirmed. Network communication protocols established for next generation.
+"Carriers waiting. You'll meet them. Continue the pattern."
 
-Sarah stayed after others left. Alone in upper room. Pattern Eye on table before her. Bronze artifact warm in afternoon sun streaming through window.
+Rebecca touched the Pattern Eye carefully. "Will it be enough? Everything Jesus died for, Peter suffered for — will it work?"
 
-She thought about the entire arc: Nefertari to Sarah. Forty-three generations. Twelve hundred years. Knowledge surviving through every collapse, every persecution, every civilization's rise and fall.
+Sarah considered. The same question she'd asked her mother thirty years ago. The same question every carrier probably asked.
 
-Egypt. Canaan. Israel. Judah. Babylon. Persia. Greece. Rome. Now Christian empire emerging.
+"It already has," Sarah said. "It survived Egypt. Babylon. Rome. Jerusalem. It will survive whatever comes next. Because that's what it does — adapts rather than breaks. Stories are seeds. You plant them deep enough, and no fire can reach them."
 
-And through all of it: blood memory carriers. Holding pattern. Preserving knowledge. Waiting for future generations who would recognize encoding.
+They packed the Pattern Eye. Bronze wrapped in linen, secured in the leather case.
 
-How many more generations until someone extracted defensive mode fully? Generation 80? 112? Unknown number in distant future?
+Sarah walked out into Antioch's streets. Behind her: thirteen centuries of carriers. Ahead: unknown generations carrying the knowledge forward.
 
-Sarah didn't know. Couldn't know. The blood memory showed her backward clearly—every carrier from Nefertari to present. Forward remained dim, uncertain, dependent on choices not yet made.
-
-But she knew her role: Carry Pattern Eye west. Train Rebecca. Encode knowledge in whatever frameworks future provided. Trust that preservation through distribution would serve purposes she couldn't foresee.
-
-Rebecca entered. Age fifteen. Generation 44. Blood memory active, training advanced. Ready to witness next phase.
-
-"Mother, the ship leaves tomorrow. Britain by spring. Carriers there?"
-
-"Waiting. Generation 44 and 45 families already established. You'll meet them. Train them. Continue the pattern."
-
-"And after Britain?"
-
-Sarah smiled. "Ireland. Eventually Iceland. Maybe Greenland if northern expansion continues. Always west. Always scattering. Always distributing beyond any single suppression point."
-
-"And the teaching? How long until someone recognizes it? Until defensive mode emerges from hiding?"
-
-"Centuries. Possibly millennia. But emergence isn't the goal. Survival is. As long as knowledge preserves—however deeply buried, however thoroughly encoded—future carriers can extract when conditions allow."
-
-Rebecca touched the Pattern Eye carefully. Bronze meridians catching light. Twelve centuries of pattern recognition etched into metal, accessible through genetic memory activation.
-
-"Will it be enough? Everything Jesus died for, Peter suffered for, you're carrying forward—will it work?"
-
-Sarah considered. The same question she'd asked Mary Magdalene thirty years ago. The same question every carrier probably asked. Will preservation succeed?
-
-"It already has," Sarah said. "Defensive knowledge survived Egyptian collapse. Babylonian exile. Roman occupation. Jerusalem's destruction. It will survive Christianity's corruption. Constantine's empire. Whatever comes next. Because survival is what it does. That's what defensive mode *means*—adapting to preserve, not preventing collapse."
-
-They packed the Pattern Eye carefully. Bronze wrapped in linen, secured in leather case, ready for transport west.
-
-Tomorrow: ship to Britain. Year after: establishing network there. Decade after: Rebecca receiving custody. Century after: unknown carriers continuing forward. Millennium after: purposes Sarah couldn't imagine.
-
-The teaching spreading.
-
-The knowledge surviving.
-
-The pattern continuing.
-
-Not because individual carriers were special. Because the teaching was resilient. Distributed preservation through forty-three generations. Forty-four. Fifty. Onward until defensive mode either emerged fully or embedded so deeply that extraction became unnecessary—knowledge simply practiced without conscious recognition.
-
-Either outcome acceptable. Both serving preservation.
-
-Sarah walked out into Antioch streets. Generation 43 heading west. Behind her: thirteen centuries of carriers bringing knowledge this far. Ahead: unknown generations carrying it forward.
-
-The Nazarene Protocol complete. Jesus's martyrdom achieving exactly what it was designed to achieve: Geographic distribution wide enough, encoding deep enough, preservation resilient enough that no single suppression attempt could eliminate defensive knowledge from human civilization.
-
-Brilliant. Terrible. Effective.
+We're never ready. We start anyway.
 
 The pattern Nefertari began, Jesus amplified.
 
-The knowledge blood memory preserved, Christianity would spread.
-
-The teaching institutions would corrupt, carriers would continue.
+The teaching would be corrupted. The carriers would continue.
 
 Forever.
 

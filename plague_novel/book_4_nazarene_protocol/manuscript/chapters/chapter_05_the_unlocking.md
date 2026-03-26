@@ -12,35 +12,33 @@
 
 Mary woke before dawn without screaming.
 
-Two years of training. Two years of grounding exercises, pattern recognition practice, systems thinking instruction. Two years since that first Sermon on the Mount when she'd heard both layers of Jesus's teaching at once—spiritual practice and defensive architecture woven into the same words.
+Pi-Ramesses flickered behind her eyes — flames licking at mud-brick walls, refugees crushing through gates that couldn't hold. Her body wanted to curl protective, muscles tensing for impact that never came. Instead she breathed deep, pressed her palms to the rough wool beneath her. Name what is real. Sarah breathing in the next sleeping mat. Morning light through the woven screen. Lake smell through the window. Her own heartbeat. Wool against skin.
 
-The visions still came. Pi-Ramesses burning. Babylon falling. Bronze Age Collapse cascading through twelve centuries of inherited memory. But now she could observe them without drowning. Name five things present. Sarah breathing in the next sleeping mat. Morning light through shutters. Lake smell through the window. Her own heartbeat. The sensation of wool blanket against her skin.
-
-The vision receded. Manageable.
+The burning city held steady in memory's corner, observed rather than experienced. Two years of centering practices, learning to read the signs, understanding how all things connect — two years since that first Sermon on the Mount when she'd heard both layers of Jesus's teaching at once. The visions still came each night. But now she could hold them without drowning.
 
 Mary stood, joints protesting less than they used to. Thirty years old now. Her body had stopped feeling ancient once she'd learned to control the blood memory. Sleep deprivation and constant vigilance aged a person faster than calendar years. But competence—knowing what was happening to her, having tools to manage it—that restored something essential.
 
-She dressed quietly, not wanting to wake Sarah. Five years old now, her daughter showed carrier markers that would have terrified Mary three years ago. Pattern recognition manifesting as geometric play. Grounding behaviors performed instinctively. Early intervention in conflicts between other children, de-escalating before violence started.
+She dressed quietly, not wanting to wake Sarah. Five years old now, her daughter showed the marks of inheritance that would have terrified Mary three years ago. She arranged everything — pebbles, bread crusts, threads — into geometric patterns without thinking. She stepped between quarreling children and calmed them before fists flew, as naturally as breathing.
 
-But now Mary understood. Sarah wasn't disturbed. She was evolved. Generation 43 inheriting twelve hundred years of defensive knowledge encoded so deeply it looked like intuition.
+But now Mary understood. Sarah wasn't disturbed. She carried twelve hundred years of knowledge encoded so deeply it looked like instinct.
 
 Mary stepped outside. Capernaum stirred in predawn grey—fishing boats preparing for morning work, market vendors setting up early, the ordinary rhythm of a town still unaware it sat forty years from catastrophic destruction.
 
-But Mary saw the pattern clearly now. Rome's occupation grinding down autonomy. Temple extraction bleeding the population. Zealot resistance organizing in shadows. The same cascade structure that had destroyed Pi-Ramesses, Babylon, every empire that concentrated power and ignored systemic pressure until violence made intervention impossible.
+But Mary saw the pattern clearly now. Roman soldiers demanding more taxes each year. Temple priests taking bigger cuts from sacrifices. Young men disappearing into the hills, angry and desperate. The same pattern she'd seen in Pi-Ramesses, in Babylon — pressure building until it exploded.
 
-Jesus had taught her to see this. Not just in blood memory visions of the past, but in present-moment observation. How small conflicts escalated when left unaddressed. How resource extraction created instability. How early intervention—feeding the hungry, healing the sick, mediating disputes—could interrupt cascades before crisis forced outcomes.
+Jesus had taught her to see this. Not just in blood memory visions of the past, but in the present. How a fisherman's argument with a tax collector could spread like fire through dry grass. How feeding the hungry, healing the sick, mediating disputes early — before anger hardened into violence — could break the cycle before it locked.
 
 She'd spent two years learning. Now she taught.
 
-Forty women gathered weekly in Simon's expanded courtyard. Mary trained them the same way Jesus had trained her: pattern recognition first, then systems thinking, then intervention strategies. Most couldn't access blood memory directly—they weren't strong carriers. But they could learn the practices. How to recognize escalation cycles. How to de-escalate conflict early. How to build resilient communities through resource sharing.
+Forty women gathered weekly in the courtyard behind Simon's house — a space Mary had helped enlarge with her remaining coins from the salting trade. She trained them the way Jesus had trained her: first to read the signs, then to see how all things connect, then to act before trouble grew. Most couldn't access blood memory directly — they weren't strong carriers. But they could learn the practices. How to recognize when anger was building toward something worse. How to step in early, before fists or knives. How to share resources so no family grew desperate enough to break.
 
-Distribution. Not perfection. Just enough knowledge scattered widely enough that diaspora scattering would become strategic distribution rather than catastrophic loss.
+Scatter the knowledge widely enough, and when the scattering came — when Rome crushed Jerusalem and drove the survivors across the Empire — what looked like catastrophe would become distribution.
 
 "Mary?"
 
-She turned. Jesus stood in the doorway of the house he now shared with Peter's family when he wasn't traveling. Two years of steady teaching had weathered him. He looked older than thirty-six. The blood memory was relentless—full immersion visions every night, showing him collapse patterns across all forty-two generations. Showing him Jerusalem burning in exactly forty years. Showing him his own death coming in approximately three years.
+She turned. Jesus stood in the doorway of the house he now shared with Peter's family when he wasn't traveling. Two years of steady teaching had weathered him — he looked older than thirty-six, the skin around his eyes drawn tight, hands rough from travel. The blood memory was relentless. Every night, every collapse across forty-two generations. Jerusalem burning in exactly forty years. His own death coming in perhaps three.
 
-He knew the timeline now. Accepted it. Prepared for it.
+He knew what was coming. She could see it in the way he held himself — the calm of a man who'd stopped fighting certainty.
 
 "I need to show you something," Jesus said. "At Qumran. The Essene archive. There's a text I couldn't fully decode two years ago. But now—" He paused. "Now I think you're ready to read it with me."
 
@@ -52,11 +50,11 @@ Mary felt something shift in her chest. "What kind of text?"
 
 ## SCENE 2: The Journey
 
-They left at sunrise—Jesus, Mary, Peter, and John. Sarah stayed with Simon's wife Anna.
+They left at sunrise — Jesus, Mary, Peter, and John. Sarah stayed with Simon's wife Anna.
 
-Two days of hard walking through Judean wilderness. Barren hills. Scorching sun.
+Three days of hard travel through Judean wilderness. By midday the sweat stung Mary's eyes and dust coated her throat. Each step on loose shale sent stones skittering down slopes that dropped toward the Dead Sea's impossible blue. Peter's breathing grew labored on the steep climbs. Even John — youngest among them — moved with the measured pace of endurance rather than youth.
 
-On the second morning, climbing a ridge that overlooked the Dead Sea, Mary asked the question that had been building for months.
+On the third morning, climbing a ridge that overlooked the salt-crusted shore, Mary asked the question that had been building for months.
 
 "The prophecy you mentioned. About necessary failure. What does it say about you?"
 
@@ -70,71 +68,71 @@ Peter stopped walking. "There has to be another way. Leave Judea—"
 
 "Nefertari didn't leave Pi-Ramesses." Jesus's voice was quiet but it stopped argument. "She stayed and taught until the fever killed her. That's why we're still here."
 
-They walked the rest of the day in heavy silence.
+They walked the rest of the day without speaking, each lost in the weight of prophecy.
 
 ---
 
 ## SCENE 3: The Archive
 
-Qumran appeared in late afternoon—white limestone buildings clustered on a plateau above the Dead Sea. The Essene community: fifty scribes, maybe more, copying texts and preserving fragments of knowledge they didn't fully understand.
+Qumran appeared in late afternoon — white limestone buildings clustered on a plateau above the Dead Sea, shimmering in the heat. The Essene community: twenty scribes, perhaps a few more, preserving their careful theology and copying ancient texts — including fragments whose deeper meanings eluded even their considerable scholarship.
 
-Matthias met them at the gate. Elderly now, bent with age, but his eyes sharp. "Jesus ben Yosef. And you brought the Branch 3 carrier. Good. The text I mentioned—you'll need both bloodline perspectives to decode it."
+Matthias met them at the gate. Elderly now, bent with age, but his eyes sharp as flint. "Jesus ben Yosef. And you brought the Branch 3 carrier. Good. The text I mentioned — you'll need both bloodline perspectives to decode it."
 
-He led them through narrow corridors into the scriptorium. Cool. Dim. Shelves lined with pottery jars containing scrolls wrapped in linen. The smell of old parchment and ink.
+He led them through narrow corridors where the air cooled by ten degrees, into the scriptorium. Dim. Quiet as a tomb. Shelves lined with pottery jars containing scrolls wrapped in linen. The smell of old parchment and lamp-black ink, layered with the mineral tang of Dead Sea air.
 
 Matthias retrieved three scrolls, unrolled them on a reading table with careful reverence.
 
-"This material," he began, "was copied from older documents that partially survived the Babylonian exile. The scribes who copied them thought they were preserving mystical prophecy. But I've been studying them for forty years, and I think they're something else. Systems analysis disguised as theology."
+"This material," he began, "was copied from older documents that partially survived the Babylonian exile. The scribes who copied them thought they were preserving mystical prophecy. But I've been studying them for forty years, and I think they're something else. A way of reading how civilizations rise and fall — disguised as theology."
 
 Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory—the encoding language Nefertari and Amenhotep had developed during the Bronze Age. Not hieroglyphics. Something else. Pattern notation.
 
-Jesus traced the symbols with one finger, not touching the fragile parchment. "This describes defensive mode architecture. 'The Kingdom of God is within you and among you'—internal pattern recognition ability combined with collective network coordination."
+Jesus traced the symbols with one finger, not touching the fragile parchment. "This describes the defensive teaching — how knowledge survives when everything else burns. 'The Kingdom of God is within you and among you' — the ability to see the signs, carried inside each person, strengthened when the community works together."
 
 "We've read that," Matthias said. "But this section—" He pointed to a dense block of symbols. "This talks about carrier progression. How blood memory strengthens across generations. How training accelerates the activation. And—" He looked at Mary. "How Branch carriers see patterns primary bloodline carriers miss."
 
-Mary squinted at the symbols. They looked almost like music notation. Waves and circles and intersecting lines. Her vision doubled—present moment reading and blood memory surfacing simultaneously.
+Mary squinted at the symbols. They looked almost like music notation — waves and circles and intersecting lines. She traced one cluster with her finger, not quite touching the parchment. Heat spread through her fingertips. Her vision split — the scriptorium's cool shadows overlaid with blazing Egyptian sun. Her breath caught, ribs tight, as something ancient flooded through her.
 
-And suddenly she could read it.
+The symbols shifted, resolving into something almost familiar. Like a half-remembered language rising from deep water.
 
-"Branch carriers experience lateral collapse patterns," she heard herself say. "Primary bloodline sees vertical transmission—generation 1 through 112 in direct line. But branches see horizontal connections. How different collapse types connect to each other. Economic extraction patterns that mirror political occupation patterns that echo resource depletion patterns." She blinked, the vision strengthening. "I don't just see Pi-Ramesses falling. I see how its pattern connects to Babylon's pattern connects to Rome's pattern. The same structure manifesting across different contexts."
+"Branch carriers see what the primary bloodline cannot," she heard herself say, the words coming unbidden. "The primary line sees the chain — generation to generation, ancestor to descendant, straight as a plumb line. But branch carriers see how different collapses *connect to each other*." She blinked, the vision strengthening. "I don't just see Pi-Ramesses falling. I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same shape wearing different faces."
 
-Jesus was staring at her. "You're reading the notation. Direct comprehension."
+Jesus was staring at her. "You're reading the notation. Directly."
 
-"I'm seeing it. Like blood memory but—controlled. Accessing specific information instead of drowning in random visions." Mary looked at her hands. They were shaking. "This is different from the spontaneous visions. This is—"
+"I'm seeing it." Mary looked at her hands. They were shaking. "Like blood memory but — I'm choosing what to look at instead of being pulled under. This is different from the visions. This is —"
 
-"Protocol access," Matthias breathed. "Intentional retrieval. That's what the Living Key unlocks when combined with strong carrier genetics and proper training."
+"Intentional," Matthias breathed. "That's what the Living Key unlocks when the carrier is strong enough and the training is deep enough."
 
-Jesus placed his hand on Mary's shoulder. "Breathe. Five things present. Don't let it overwhelm you."
+Jesus placed his hand on Mary's shoulder. "Breathe. Name what is real. Don't let it overwhelm you."
 
-Mary forced herself to ground. The scroll on the table. Matthias watching. Jesus's hand on her shoulder. The smell of old parchment. Her own rapid heartbeat. The vision stabilized without receding. She was accessing blood memory while remaining present. Dual consciousness.
+Mary forced herself to ground. The scroll on the table. Matthias watching. Jesus's hand warm on her shoulder. The smell of old parchment. Her own rapid heartbeat. The vision stabilized without receding. She was holding past and present at the same time — the scriptorium and twelve centuries of memory, both real, both accessible.
 
-"I can hold both," she whispered. "Past and present. Memory and analysis. This is what you meant by 'seeing the whole Pattern.'"
+"Like holding water and wine in the same cup," she whispered. "This is what you meant by 'seeing the whole Pattern.'"
 
-"Yes." Jesus's voice held something like awe. "It took me until baptism to achieve this level of control. You've reached it through deliberate training. That's—" He stopped, smiled. "That's exactly what Nefertari designed. Bloodline inheritance plus network training equals faster carrier activation."
+"Yes." Jesus's voice held something like awe. "It took me until the Jordan to reach this. You've arrived through training alone. That's —" He stopped, smiled. "That's exactly what Nefertari designed. The bloodline carries the capacity. The teaching unlocks it."
 
 Matthias unrolled the second scroll. "This one describes the seven keys. Their functions, how they work together. It confirms what we suspected—the Pattern Eye amplifies blood memory, makes this kind of controlled access easier. The Memory Bridge connects carriers across distance, allows shared vision experiences. The Distribution Network fragments preserve knowledge redundantly."
 
 "And the offensive keys?" Mary asked, still reading symbols that seemed to decode themselves in her enhanced state. "Breeding, Clock, Culling. These sound—"
 
-"Dangerous," Jesus finished. "The offensive mode keys concentrate power instead of distributing it. Population control, enforced stability, hierarchical authority. Amenhotep's design. He tried to prevent collapse through centralized force. Failed catastrophically. The Bronze Age Collapse destroyed his entire offensive network because it wasn't resilient."
+"Dangerous," Jesus finished. "The offensive keys concentrate power instead of scattering it. Control the people, enforce order, rule from the top. Amenhotep's design. He tried to prevent collapse through force. Failed catastrophically. The Bronze Age Collapse destroyed everything he built because it all depended on the center holding."
 
-Mary kept reading. The symbols showed offensive mode architecture: breeding programs to concentrate carrier genetics in royal bloodlines, clock mechanisms to enforce temporal control over populations, culling protocols to eliminate destabilizing elements before they could disrupt systems.
+Mary kept reading. The symbols showed the offensive design clearly: breeding programs to concentrate the bloodline in royal families, clock mechanisms to control how fast populations grew and changed, culling — the deliberate removal of anyone who threatened the order.
 
 She felt sick. "This is what tyrants build. Pharaohs and emperors and anyone who thinks they can prevent collapse through absolute control."
 
-"And it never works," Matthias said. "Because centralized systems are fragile. One key point of failure destroys everything. But Nefertari's defensive mode—distributed knowledge, resilient networks, early intervention instead of forced prevention—that survives because it's redundant. Fragments persist even when institutions collapse."
+"And it never works," Matthias said. "Because a kingdom with one throat can be strangled with one hand. But Nefertari's way — scatter the knowledge, teach it widely, act before trouble hardens — that survives because there is no single throat to cut. Fragments persist even when temples fall."
 
 Jesus pointed to the third scroll. "This is the one I couldn't decode. It's written in pure pattern notation. No Hebrew, no Aramaic. Just symbols. I could feel it contained critical information, but I couldn't translate it alone."
 
 Mary looked at the scroll. Dense symbol clusters arranged in spiral patterns. Her enhanced vision locked onto them, and suddenly they weren't symbols anymore. They were *information*. Direct comprehension flooding her mind.
 
-"It's the necessary failure prophecy," she said. "Complete version. The fragments you've seen before are just excerpts." She started reading aloud, translating symbols into words:
+"It's the necessary failure prophecy," she said. "Complete version. The fragments you've seen before are just excerpts." She read aloud, translating symbols into words:
 
 "'Generation 42 Primary will unlock the Living Key through ritual immersion. Will see the complete Pattern. Will recognize that Jerusalem's collapse cannot be prevented, only prepared for. Will teach defensive mode as portable practice, knowledge that travels with refugees when institutions burn.'"
 
 Jesus was nodding. "That's what I saw during baptism. The inevitability. The timeline closing."
 
-Mary continued: "'Generation 42 Branch 3 will unlock Protocol access through systematic training. Will see lateral patterns Primary cannot access. Will teach women what the network lost during exile. Will find the Pattern Eye and use it to train Generation 43 before diaspora scatters the network.'"
+Mary continued: "'Generation 42 Branch 3 will unlock the deep knowledge through disciplined teaching. Will see what the Primary cannot — the hidden connections between collapses. Will teach women what the network lost during exile. Will find the Pattern Eye and use it to prepare Generation 43 before diaspora scatters the network.'"
 
 She stopped. "That's me. That's describing what I'm doing right now."
 
@@ -154,7 +152,7 @@ Silence in the scriptorium. Just three people and twelve-hundred-year-old texts 
 
 "Seventy generations," Matthias said, voice hushed. "From you to Sarah Chen. That's the time horizon. The full arc of defensive mode implementation."
 
-Mary felt tears on her face. Not grief. Recognition. She'd spent two years learning pattern recognition, understanding how small interventions compounded over time. But this—this was the largest compound pattern she'd ever seen. Twelve hundred years back to Nefertari. Twelve hundred years forward to Generation 112. Twenty-four hundred years of knowledge accumulation toward a single goal: prevent collapse instead of just surviving it.
+Mary felt tears on her face. Not grief. Recognition. She'd spent two years learning to read the signs, understanding how small acts compounded over generations. But this — this was the largest pattern she'd ever seen. Twelve hundred years back to Nefertari. Twelve hundred years forward to Generation 112. Twenty-four hundred years of accumulated knowledge aimed at a single goal: prevent collapse instead of merely surviving it.
 
 "I can't prevent Jerusalem," she said, voice shaking. "Can't stop your death. Can't save the Temple or protect most of Generation 43 from diaspora trauma. The prophecy says all of that fails."
 
@@ -166,7 +164,7 @@ Mary felt tears on her face. Not grief. Recognition. She'd spent two years learn
 
 Mary wiped her eyes. "No. She distributed the knowledge. We're here because of her."
 
-"Exactly. We succeed at distribution even when we fail at prevention. And distribution over seventy generations—that's how defensive mode prevents collapse at civilization scale. Not by stopping every cascade, but by encoding pattern recognition so deeply that eventually someone has the tools we didn't."
+"Exactly. We succeed at scattering the seed even when we fail to save the field. And scattered widely enough, over seventy generations — that's how the teaching prevents collapse. Not by stopping every fire, but by planting the knowledge so deeply that eventually someone inherits the tools we lacked."
 
 Matthias was carefully rolling up the scrolls. "You should take these. Copies, I mean. The originals stay here for preservation. But I'll make copies for your network. This knowledge needs distribution before—" He stopped.
 
@@ -182,15 +180,15 @@ Jesus stood. "Make three copies. One for Mary's teaching network. One for the Tw
 
 "Byblos. Where the Pattern Eye is hidden. Multiple preservation layers—bronze key, archive texts, oral tradition. Redundancy ensures something survives."
 
-Mary felt the enhanced vision beginning to fade. The dual consciousness becoming harder to maintain. She'd been accessing Protocol-level information for maybe twenty minutes. Her mind felt stretched, exhausted, like she'd been running for hours.
+Mary felt the enhanced vision beginning to fade. Holding both worlds was becoming harder to sustain. She'd been reading the ancient knowledge for maybe twenty minutes. Her mind felt stretched, exhausted, like she'd been running for hours.
 
 "Five things," Jesus said, noticing. "Ground yourself before the crash."
 
 Mary named them: pottery jar on the shelf, Matthias's weathered face, the scroll table's smooth wood, smell of old ink, her own breathing. The vision receded to normal perception. Just present moment. No blood memory overlay.
 
-But something had changed permanently. She'd touched full Protocol access. Seen how the defensive architecture actually worked. Understood her role in a pattern spanning seventy generations.
+But something had changed permanently. She'd touched the deep knowledge — seen how the teaching was built to survive, understood her role in a pattern spanning seventy generations.
 
-She wasn't just learning anymore. She was becoming what Jesus had been training her to be: a teacher capable of preserving knowledge across catastrophic collapse.
+She wasn't just learning anymore. She was becoming what Jesus had been training her to be: a teacher capable of preserving knowledge across catastrophe.
 
 ---
 
@@ -208,9 +206,9 @@ Jesus was quiet for a long time. "You shift the time horizon. The purpose isn't 
 
 Mary thought about Sarah. Five years old now. Would be forty-seven when Jerusalem burned.
 
-"I'm afraid," she admitted. "Not of teaching. Of not being thorough enough. Of Generation 112 not having the tools because I failed now."
+"I wake up terrified," Mary whispered, her voice cracking. "Not of the visions. Of failing. Seventy generations, Jesus. What if I forget something that matters? What if Sarah dies in the scattering because I didn't prepare her properly?" Her fingers dug into desert sand. "What if it all falls apart because I wasn't thorough enough?"
 
-"That's good fear. It'll make you more careful." Jesus stood, offered her his hand. "Come on. We should sleep. When we get back, you begin advanced training. Protocol access, not just pattern recognition. You've unlocked it. Now we make it stable."
+"That fear is what will make you thorough." Jesus stood, offered her his hand. "Come. We should sleep. When we return, you begin deeper training. You've unlocked something today. Now we make it stable."
 
 Mary lay down near the fire. For once her dreams weren't fragmentary. She saw the complete arc — Nefertari, then Jesus, then herself, then Sarah, then seventy generations of carriers, each one building on what the last had taught. And at the end, a woman she'd never meet, assembling all the pieces they'd scattered.
 
@@ -222,25 +220,25 @@ When she woke at dawn, she understood. This was resurrection. Not bodies rising.
 
 Six months later. Winter. Capernaum.
 
-Sixty women gathered in Simon's expanded compound. Mary stood before them, teaching.
+Sixty women gathered in the courtyard. Mary stood before them, teaching.
 
 "Close your eyes," she instructed. "Let a vision surface. Don't fight it. Just observe."
 
-She watched their faces shift — eyes moving beneath closed lids, some flinching as memories surfaced. Fishermen's wives, merchants' daughters, laborers from the salting works. Women from across Galilee who'd heard Mary's story and recognized their own unexplained visions.
+She watched their faces shift — eyes moving beneath closed lids, some flinching as memories surfaced. Fishermen's wives who risked gossip to be here, merchants' daughters who'd defied fathers, laborers from the salting works who'd spent precious rest time walking from distant villages. Women from across Galilee who'd heard Mary's story and recognized their own unexplained visions.
 
-"Now ground. Five things present. Don't push the vision away. Just anchor yourself in *now* while you're experiencing *then*."
+"Now anchor yourself. Name what is real — what you can feel, hear, smell right now. Don't push the vision away. Just hold both at once."
 
-Most struggled. Three held it — strong carriers, Branch bloodlines like Mary, maintaining both states at once.
+Rachel from Bethsaida pressed hands to her temples, sweat beading despite the winter chill. Beside her, young Miriam breathed steady and deep, eyes moving beneath closed lids but body relaxed — one of the three managing to hold past and present together. Martha jerked back with a gasp, vision too intense. But she tried again immediately, jaw set with determination.
 
-Sarah sat in the front row, age five, watching with the intense focus that marked her inheritance. "Mama sees the teaching lady," she told Rachel, the widow from Bethsaida, with the matter-of-fact confidence of a child who'd never been told the visions were wrong. "The old one from the burning city. I see her too sometimes."
+Sarah sat in the front row, age five, watching with the intense focus that marked her inheritance. "Mama sees the old lady," she told Rachel with the matter-of-fact confidence of a child who'd never been told the visions were wrong. "The one from the burning city. I see her too sometimes."
 
-Several women looked startled. Blood memory at age five.
+Several women looked startled. The inheritance manifesting at age five.
 
-But that was the point. Mary had been training Sarah since age three. Grounding exercises as bedtime routine. Pattern recognition through play. Sarah would never awaken violently at puberty the way Mary had. She'd grow up knowing what she was.
+But that was the point. Mary had been teaching Sarah since she could talk. Centering practices as bedtime routine. Reading the signs through play. Sarah would never awaken violently at puberty the way Mary had. She'd grow up knowing what she was.
 
 Jesus entered the courtyard. Watched for a moment.
 
-"Three sustained dual consciousness," Mary told him. "Ten more managed brief stability. All improving."
+"Three held both worlds at once," Mary told him. "Past and present, stable. Ten more managed it briefly before the visions pulled them under. All improving."
 
 He sat on a low wall, watching the women practice. "Two years left," he said. "Timeline's still holding."
 
@@ -256,17 +254,17 @@ They sat in silence, watching sixty women learn to hold past and present at the 
 
 Spring, 30 CE. The hillside above Capernaum where she'd first heard both layers.
 
-"I'm not your student anymore," Mary said.
+Mary's heart hammered as she spoke the words she'd been afraid to voice: "I'm not your student anymore."
 
-Jesus smiled. "You haven't been for months."
+The silence stretched between them. Then Jesus smiled — not the patient teacher's smile she knew, but something deeper. Recognition between equals. "No," he said. "You haven't been for months." It would have scandalized the Pharisees — a rabbi treating a woman as a fellow teacher. But then, everything they did scandalized the Pharisees.
 
 She pulled a wrapped bundle from her travel bag and unfolded the linen.
 
-The bronze disc glinted in afternoon sun. Eight inches across. Covered in pattern notation. Warm to the touch like it generated its own heat.
+The bronze disc glinted in afternoon sun. Wide as two hands laid side by side. Covered in symbols that seemed to shift when she wasn't looking directly at them. Warm to the touch — whether from stored sunlight or some property she didn't understand.
 
 Jesus's breath caught. "The Pattern Eye. You found it."
 
-"Three weeks ago. Byblos. Used the Qumran texts as reference." Mary watched his face carefully. "Rachel, Judith, and Miriam — the three strong carriers — they all accessed full Protocol within minutes of touching it. We're already developing training protocols."
+"Three weeks ago. Byblos." Mary's fingers traced the disc's edge, remembering. "Hidden beneath the temple's foundation stones, exactly where the texts described. When I touched it —" Her breath caught at the memory. "Every carrier's last teaching flooded through me at once. Twelve hundred years of final lessons. I almost let go." She steadied herself. "Rachel, Judith, and Miriam — the three strong carriers — they all reached full clarity within minutes of touching it."
 
 Jesus reached for it, stopped. "May I?"
 
@@ -274,7 +272,7 @@ She handed it to him. His eyes unfocused immediately — blood memory flooding i
 
 "I couldn't hold it."
 
-"I can hold it for five minutes now." Mary picked the disc up. Her vision doubled instantly — generations of inherited memory overlaying the present, clear and stable. "This is how Nefertari trained the first carriers. Not words. Direct transmission."
+"I can hold it for five minutes now." Mary picked the disc up. Her vision doubled instantly — generations of inherited memory overlaying the present, clear and stable. "This is how Nefertari trained the first carriers. Not words. Knowledge passed hand to hand, mind to mind."
 
 Jesus looked at her. At the disc. At the hillside where sixty women were learning to hold past and present at once. At everything they'd built in two years.
 
@@ -290,11 +288,19 @@ Mary felt tears she didn't expect. Not grief. Hope.
 
 "Nefertari was a woman. We're not innovating. We're remembering."
 
-Below them, Capernaum continued its ordinary operations. Two years of teaching complete. Sixty women trained. Three achieving Protocol access. The Pattern Eye found and integrated.
+Below them, Capernaum continued its ordinary business. Two years of teaching complete. Sixty women trained. Three holding past and present at once. The Pattern Eye found and working.
 
 Two years left before arrest. Before everything scattered.
 
 But the knowledge was distributed. And that was enough.
+
+Then the Pattern Eye pulsed warm between them, and Mary's vision flared without warning — not the past this time. Rome. A man in military dress, reading a scroll by lamplight. She recognized the handwriting before she recognized the face. Marcus. Three years of careful reports, every teaching catalogued, every name recorded.
+
+The vision faded. Mary looked at Jesus. He'd seen it too.
+
+"They know," she said.
+
+"They've always known." His voice was steady, but his hands were not. "The question was never whether Rome would come. Only when."
 
 ---
 

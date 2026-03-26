@@ -12,27 +12,27 @@
 
 John the Baptist heard him coming before he saw him.
 
-Not footsteps—the Jordan's constant rush drowned out ordinary sounds. But something else. A shift in the wilderness atmosphere. The way air pressure changed before thunderstorms. The weight of recognition settling between shoulders before you turned to see who was watching.
+Not footsteps—the Jordan's rush drowned those. Something else. A shift in the wilderness atmosphere, the way air pressure changed before thunderstorms.
 
-John looked up from the baptism pool he'd been preparing—shallow basin carved by centuries of river flow, perfect depth for immersion rituals—and saw his cousin walking down the eastern ridge.
+John looked up from the baptism pool—shallow basin carved by centuries of river flow through limestone—and saw his cousin descending the eastern ridge.
 
 *Jesus.*
 
-Even at this distance—maybe two hundred paces—John felt the carrier strength radiating off him like heat shimmer. Not physical. Not visible to people who didn't know what to look for. But unmistakable to anyone with even fragmentary network inheritance.
+Even at two hundred paces, John felt it—carrier strength radiating from him like heat off sun-baked stone. Not visible to people who didn't know what to look for. But unmistakable to anyone who'd grown up dreaming of cities they'd never seen.
 
-John had been preparing for this moment for three years. Since he'd started teaching in the wilderness. Since he'd begun performing baptism rituals as network initiation. Since the defensive families had whispered that Generation 42 was active, teaching in Galilee, preparing for the diaspora.
+John had prepared for this moment through three years of wilderness teaching, baptism rituals serving as network initiation. The defensive families had whispered that Generation 42 was active in Galilee, preparing for the diaspora.
 
 But knowing someone was coming and actually seeing them approach were different experiences entirely.
 
-"Teacher." One of John's students—Elias, nineteen, from a network family near Jericho—gestured toward Jesus. "Who is that?"
+"Teacher." One of John's students—Elias, from a network family near Jericho—gestured toward Jesus. "Who is that?"
 
-"My cousin," John said. "From Nazareth. I haven't seen him in fifteen years."
+"My cousin. From Nazareth." John's voice came out flatter than he intended. "I haven't seen him in fifteen years."
 
-Not entirely true. John had *avoided* seeing Jesus for fifteen years. Since they'd spent one afternoon in Jerusalem comparing blood memory experiences — Jesus describing Pi-Ramesses with crystalline detail, architecture and population counts and clinic protocols, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse patterns the way some people sensed weather changes, but he didn't *see* the way Jesus saw.
+Not entirely true. He'd *avoided* Jesus for fifteen years. Since that afternoon in Jerusalem when they'd compared blood memory—Jesus describing an ancient city as if he'd lived there, every street corner, every building, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse coming the way some people sensed weather changes, but he didn't *see* the way Jesus saw.
 
-He'd felt something that afternoon he wasn't proud of. Something that had calcified over fifteen years of wilderness teaching, two hundred baptisms, a community he'd built from nothing — and still the knowledge that his cousin carried more in his blood than John would ever access through practice.
+That afternoon had sparked something he wasn't proud of—something that calcified over fifteen years of desert teaching, two hundred baptisms, a community built from nothing. And still the knowledge that his cousin carried more in his blood than John would ever access through practice.
 
-*Envy.*
+*Envy.* The word tasted like desert dust.
 
 John watched Jesus descend the ridge. Steady gait. No hurry. The calm certainty of someone who'd already seen how this would go.
 
@@ -46,7 +46,7 @@ Jesus reached the baptism site just after midday. The crowds had dispersed for a
 
 He walked directly through the heat without apparent discomfort, stopping ten paces from where John stood. For a long moment, the cousins just looked at each other.
 
-John saw what he'd expected — the intensity, the focus, the way Jesus seemed to track things that weren't visible. But also something new. Exhaustion. Jesus looked like someone who'd been teaching for years without rest. Burning himself out before time ran out.
+John saw what he'd expected—the intensity, the focus, the way Jesus seemed to track things that weren't visible. But also something new. Exhaustion. Jesus looked like someone who'd been teaching himself toward collapse, pouring himself out before time ran out.
 
 "John." Jesus's voice was warm. "It's been too long."
 
@@ -60,17 +60,17 @@ They sat on sun-warmed stone overlooking the Jordan. Below, the river moved in i
 
 Something hot climbed John's throat. "You don't need my recognition. I'm a voice in the desert, cousin. You're — " He gestured at Jesus the way he'd gesture at a storm front. "You could walk into any city in Galilee and people would follow you home."
 
-"That's exactly why I need it." Jesus looked at him directly. "A man who teaches alone builds a throne. And thrones burn when the man dies. But if I kneel in your river first — if another teacher baptizes me, not the other way around — then it's not about me. It's about what we're both carrying."
+"That's why I need it, cousin." Jesus looked at him directly. "Stand alone and they make you king. Kings burn when their kingdoms fall. But if I kneel in your river first—if another teacher baptizes me, not the other way around—then it was never about one man. It's about what we're both carrying."
 
 John chewed on that. He'd spent three years preaching against the very kind of authority Jesus was describing. And here was Jesus, voluntarily surrendering it.
 
-"What are you teaching them? I hear reports. Five thousand at a time. That's not a teaching — that's a wildfire."
+"What are you teaching them? I hear reports. Five thousand at a time. That's not a teaching—that's a wildfire."
 
-"Good." Jesus's voice was steady. "Wildfires scatter seeds. When Rome burns Jerusalem — twenty years, maybe thirty — the people scatter. If they're carrying the teaching when they run, it survives the burning. You're planting deep roots in a few hundred. I'm scattering seeds across thousands. Both necessary."
+"Good." Jesus's voice was steady. "A single tree, however mighty, burns with the forest. But seeds on the wind find new soil. When Rome burns Jerusalem—twenty years, maybe thirty—the people scatter. If they're carrying the teaching when they run, it survives the burning. You're planting deep roots in a few hundred. I'm scattering seeds across thousands. Both necessary."
 
-John felt the logic click into place. Jesus wasn't competing with him. The two approaches were complementary — John building depth, Jesus building breadth.
+John chewed on that. The logic was sound. Jesus wasn't competing with him—the two approaches were complementary. Depth and breadth. Roots and seeds.
 
-The envy that had been poisoning him for fifteen years began to dissolve.
+Something tight in his chest began to loosen. Maybe he'd been measuring himself against the wrong standard.
 
 "All right," John said. "Tonight. After the crowds disperse. The deep pool downstream."
 
@@ -100,9 +100,9 @@ He wasn't sure if that excited or terrified him. Probably both.
 
 ## SCENE 2: The Ritual - Jesus's POV
 
-Evening came slowly to the wilderness. Heat dissipating. Long shadows from western ridges reaching across the Jordan. The quality of light shifting from harsh white to amber to violet as sun approached horizon.
+Evening crept across the wilderness, the Jordan turning amber as long shadows reached from the western ridges.
 
-Jesus sat in shade, waiting. His mind was quiet. No anxiety about what was coming. He'd seen this moment in blood memory months ago—standing in the Jordan, water closing over his head, vision activating. The specifics were unclear, but the pattern was certain.
+Jesus sat in shade, waiting. His mind was quiet. He'd glimpsed this moment in blood memory months ago—the Jordan, water closing over his head, something unlocking. The specifics were unclear, but the pattern was certain.
 
 Baptism would change something. Unlock something. Provide access to knowledge he needed before he ran out of time.
 
@@ -114,17 +114,17 @@ Jesus stood, following the student downstream. The Jordan's sound changed as the
 
 John stood at the pool's edge with six of his core students. Not a crowd. Just witnesses who understood what they were seeing.
 
-"Jesus ben Yosef." John's voice shifted — not conversational anymore. Formal. Ancient. The voice of a man channeling words older than himself. "You come seeking baptism. Do you understand what the water asks?"
+"Jesus ben Yosef." John's voice shifted—formal now, ancient, channeling words older than himself. "You come seeking baptism. Do you understand what the water asks?"
 
-The questions were traditional — passed down through families who'd preserved fragments of the old rituals across twelve hundred years. Jesus had heard them performed for others. But standing here, receiving them, they felt different. Heavier.
+The questions were traditional—passed down through families who'd preserved fragments of the old rituals across twelve hundred years. Jesus had heard them performed for others. Standing here receiving them, they felt heavier than he'd expected.
 
-"I understand," Jesus replied. "The water is what flows through generations. I submit to that flow. I become part of it."
+"I understand," Jesus replied. "The water flows through generations. I submit to that flow."
 
-"Do you accept the mandate? To see what others cannot. To teach what you see. To carry the knowledge forward even when everything around you burns?"
+"Do you bind yourself to the covenant? When you see disaster coming and no one believes you, will you keep warning them? When they call you mad, will you keep teaching? When everything burns, will you carry the knowledge forward?"
 
-"I accept."
+"I bind myself."
 
-"Do you reject the temptation of control? The throne. The hierarchy. The illusion that one man can hold what belongs to many?"
+"Do you reject the temptation of the throne? The illusion that one man can hold what belongs to many?"
 
 "I reject it."
 
@@ -148,55 +148,35 @@ The blood memory activated like lightning.
 
 *Pi-Ramesses.*
 
-Not fragmentary this time. Not brief immersion. Jesus was *there*. Fully. Completely. Experiencing the moment as if he'd been pulled backward through twelve hundred years and given physical presence.
+Not fragmentary this time. Not the brief immersions Mary described or the echoes John experienced. Jesus was *there*—fully, completely—seeing through Nefertari's eyes as if twelve hundred years had collapsed into nothing.
 
-The city surrounded him—overwhelming density, three hundred thousand people crammed into spaces meant for half that number. The air was thick with smoke, disease, desperation. Summer heat making everything worse. The Nile's floods had failed two years running. Bronze supplies cut off by collapsing trade networks. Refugees flooding in from burning cities to the north.
+The familiar images rushed past—the overcrowded city, the fever, Tausret dying in Nefertari's arms. But the vision didn't stop where Mary's stopped. It pushed deeper.
 
-But Jesus wasn't experiencing random citizen's perspective. He was seeing through specific eyes.
+*Nefertari in the scribe school.* After Tausret's death. After hope of saving the dynasty had died with her. The physician had gathered eighty-four frightened students—temple scribes, physicians, engineers—and was teaching them something new. Not medicine. Not astronomy. How civilizations fall. How to spot the warning signs. How to save what mattered when everything else burned.
 
-*Nefertari's.*
-
-The physician moved through overcrowded tenement blocks in the southern quarter. Checking fever victims. Mixing remedies that wouldn't work because the problem wasn't individual illness but systemic failure. She knew—Jesus could feel her knowing—that the collapse couldn't be stopped. Only survived.
-
-Time shifted. Vision jumped forward.
-
-Pharaoh Tausret's death chamber. Fever had taken her in three days. Nefertari knelt beside the bed, holding the Pharaoh's hand as consciousness faded. Around them, court officials panicked. Without Tausret's strength, the 19th Dynasty would fracture. Egypt's grip on the eastern Mediterranean would collapse. The interconnected trade networks that sustained Bronze Age civilization would cascade into failure.
-
-Nefertari whispered: "I'm sorry. I tried to warn you. But the timing was wrong. The pattern too far advanced."
-
-Tausret managed words: "Teach... whoever survives... how to see this coming... next time..."
-
-Then she died.
-
-Vision shifted again.
-
-Nefertari in the scribe school. But not teaching medical knowledge. Teaching pattern recognition. Systems thinking. How to see collapse cascades before crisis made them obvious.
-
-Eighty-four students. Network founders. They didn't understand half of what she taught—couldn't, because the technical framework was beyond their cultural context. But Nefertari encoded the knowledge anyway. As practices. As behavioral patterns. As inherited trauma that would persist in bloodlines across generations.
+The fever was advancing in Nefertari's body, but her calculations were precise—she had days, perhaps, to encode what needed encoding. Her choice was strategic, not sacrificial.
 
 "You won't stop this collapse," she told them. "But forty generations from now, your descendants might prevent the next one. If you teach them to see the pattern."
 
-Jesus watched her create the Protocol. The defensive architecture. Seven bronze keys to anchor the knowledge. Distribution network to carry fragments forward even when individual nodes failed. Training protocols to help carriers access blood memory without being overwhelmed.
+One of her students—young woman, maybe seventeen—looked terrified. "You're saying we have to pass our grief forward?"
 
-She was dying as she taught. Fever taking her the same way it had taken Tausret. But she kept teaching. Kept encoding. Kept building the structure that would persist across twelve centuries.
+"Grief will travel regardless. But if you send knowledge alongside it, your descendants get both—the memory of what fell *and* the tools to keep it from falling again." Nefertari touched the young woman's hand. "It's not fair. I know. But fairness isn't what survives. Teaching is."
 
-One of her students — young woman, maybe seventeen — asked: "How do we know our children will remember?"
+Jesus watched her synthesize the Protocol from generations of Egyptian knowledge—temple astronomy, medical traditions, engineering principles—encoding it for survival beyond the collapse. Seven bronze keys to anchor the knowledge physically. A distribution network to carry fragments forward even when individual families failed. Training methods to help carriers access the inherited memory without being overwhelmed.
 
-"They won't. Not consciously." Nefertari's voice gentled. "But teach them to recognize the feeling. Give them language for it. That compounds across generations."
+She died teaching. The last words Jesus felt from her—not heard, but felt, encoded so deeply they traveled twelve centuries like a message in a bottle:
 
-The young woman looked terrified. "You're saying we have to pass our grief forward?"
+*Teach until they kill you. Die well. Trust the bloodline to continue.*
 
-"I'm saying grief will travel regardless. But if you send knowledge alongside it, your descendants get both — the memory of what fell *and* the tools to keep it from falling again." She touched the young woman's hand. "It's not fair. I know. But fairness isn't what survives. Teaching is."
+Jesus felt tears on his present face. Because he understood. Forty-two generations of inherited grief, and he was standing in a river hearing the woman who started it all tell him exactly what he already knew he had to do.
 
-Jesus felt tears on his face — his present face, not Nefertari's. Because he understood. Twelve hundred years of inherited grief. Forty-two generations carrying the weight of cities burning, populations scattering, civilizations failing. All of it encoded in blood so that someone standing in this river could finally see the pattern clearly enough to teach it forward.
+The vision accelerated. Fragments flashing like lightning—
 
-The vision accelerated. Fragments now — fast, overwhelming.
+Eighty-four students scattering west as Pi-Ramesses fell. Their children teaching their children. Knowledge degrading but persisting. Babylon. The exile. Families gathering in secret. Bronze keys scattering—Pattern Eye to Phoenicia, Memory Bridge lost, the others fragmenting across family lines.
 
-Eighty-four students scattering west as Pi-Ramesses fell. Their children teaching their children. Knowledge degrading but persisting. Fragmenting but surviving. Babylon. The exile. Families gathering in secret. Preserving genealogies. The bronze keys scattering — Pattern Eye to Phoenicia, Memory Bridge lost, the others fragmenting across family lines.
+And then—*now*. His own face. Teaching on a hillside. Mary's eyes going wide as blood memory woke in her. A Roman soldier watching from the back of a crowd, hand frozen over his writing tablet.
 
-And then — *now*. His own face. Teaching on a hillside. Mary's eyes going wide as blood memory woke in her. Marcus watching from the back of a crowd, hand frozen over his writing tablet.
-
-The vision showed him his death. Crucifixion. A hill outside Jerusalem. He saw himself on the wood and felt — not fear. Recognition. The same recognition Nefertari must have felt when the fever climbed past the point of recovery and she kept teaching anyway.
+The vision showed him his death. Crucifixion. A hill outside Jerusalem. He saw himself on the wood and felt—not fear. Recognition. The same recognition Nefertari must have felt when the fever climbed past recovery and she kept teaching anyway.
 
 It was beautiful.
 
@@ -210,7 +190,7 @@ But before the vision released completely, one final image:
 
 *The Pattern Eye.*
 
-Bronze disc. Eight inches across. Covered in hieroglyphics that weren't quite Egyptian. Pulsing warm. Amplifying blood memory. The key that would let him see even more clearly. Understand even more deeply.
+Bronze disc, wide as two hands laid side by side. Covered in symbols that weren't quite Egyptian. Pulsing warm. Amplifying blood memory. The key that would let him see even more clearly. Understand even more deeply.
 
 Vision showed him where it was. Not precise location. But direction. Phoenician coast. Byblos. Hidden in ruins from the Bronze Age Collapse. Waiting for a carrier strong enough to use it.
 
@@ -224,19 +204,19 @@ Jesus surfaced, gasping.
 
 ## SCENE 4: The Recognition - John's POV
 
-John pulled Jesus out of the water with genuine alarm.
+John hauled Jesus out of the water with both arms.
 
-Ninety seconds under. Too long. John had started to panic at sixty, but the ritual required letting the person surface on their own. Only when Jesus stayed under past safety did John reach in and haul him up.
+Forty-five seconds under—longer than anyone John had ever baptized. He'd started reaching at thirty, but the ritual required letting the person surface on their own. When bubbles stopped rising and Jesus's body went rigid beneath the water, John broke protocol and dragged him up.
 
-Jesus broke surface gasping, eyes wild, face like someone who'd seen things that shouldn't be possible.
+Jesus broke the surface choking, river water streaming from his mouth, eyes wild—the face of someone who'd seen things that shouldn't be possible.
 
-"Breathe," John commanded, supporting him. "You're here. Jordan River. Summer evening. Breathe."
+"Breathe," John commanded, holding him upright in the current. "You're here. Jordan River. Summer evening. Breathe."
 
 Jesus's breathing steadied. He looked at John with an intensity that made John step back.
 
 "You saw it," John said.
 
-"Everything." Jesus's voice shook. "She died teaching, John. Nefertari. Fever was killing her and she kept going. Eighty-four students. She knew she couldn't stop the collapse. She just — kept teaching."
+"Everything." Jesus's voice shook. "She died teaching, John. Nefertari. Fever was killing her and she kept going. Eighty-four students. She knew she couldn't stop the collapse. She just—kept teaching."
 
 "Did she succeed?"
 
@@ -246,7 +226,7 @@ John felt chills despite the warm evening.
 
 "What else?"
 
-"My death. Crucifixion." Jesus said it the way someone describes weather. "Ten years, maybe less. And yours — sooner."
+"My death. Crucifixion." Jesus spoke with the steady voice of someone who'd seen the pattern—Rome's answer to threats, the cross as imperial message. "Ten years, maybe less. And yours—sooner."
 
 John's breath caught. "Mine?"
 
@@ -264,11 +244,11 @@ Something cold and final settled in John's chest. Not fear. Recognition. He'd be
 
 John followed him out of the water. The six witness students were staring. Jesus stood dripping on the riverbank, looking west.
 
-"The Pattern Eye," he said. "I saw where it is. Phoenicia. Byblos. Hidden in ruins from the collapse. Will you search for it?"
+"The Pattern Eye," he said. "I saw where it is. The ancient Phoenician coast, near what the Romans call Byblos. Hidden in ruins from the collapse. Will you search for it?"
 
 "You want me to leave my people. Walk to Phoenicia. Dig through ruins for something that's been buried since before David was born."
 
-"Mary needs it. Her blood memory is overwhelming her. The Eye would help her control it." Jesus turned to face him. "Six months. Leave your senior students in charge. If you don't find it, you come back."
+"Mary's having the visions every night now. Ancient memories flooding in—she can barely tell what's real anymore. The Eye could help her make sense of them, separate past from present. And we need her whole." Jesus turned to face him. "Six months. Leave your senior students in charge. If you don't find it, you come back."
 
 John looked at the wilderness he'd made his home. Three years of sun and stone and hard teaching. Leaving felt like betrayal. But if Jesus had seen the location in blood memory — and John had no reason to doubt it, not after what he'd just witnessed in that river —
 
@@ -286,9 +266,9 @@ The students left reluctantly. When they were gone, John and Jesus stood alone b
 
 "And then I'd die and it would die with me." Jesus's voice was firm. "I need you *because* you'll die first. Because your people create the roots mine build on. Because tonight — you putting me under, not the other way around — that means it was never about one man."
 
-John felt tears on his face. Not grief. Gratitude. He'd spent fifteen years measuring himself against his cousin and finding himself lacking. But Jesus didn't see a lesser teacher standing beside a greater one. He saw two men digging the same well from different sides of the hill.
+John felt tears on his face. Not grief. Gratitude. Fifteen years of measuring himself against his cousin, and Jesus didn't see a lesser teacher standing beside a greater one. He saw two men digging the same well from different sides of the hill.
 
-Jesus pulled him into an embrace. "We're both necessary, cousin. Don't ever doubt that."
+Jesus pulled him into an embrace—the greeting of kinsmen, of equals in teaching. "We're both necessary, cousin. Don't ever doubt that."
 
 They stood beside the Jordan as full darkness fell. The river moved unchanged — the same water that had flowed through the Bronze Age Collapse, through Babylon's exile, through every failure the bloodline remembered. Rivers didn't depend on individual drops of water. Water flowed through. The pattern remained.
 
@@ -302,9 +282,13 @@ He looked up at stars that had watched centuries of human catastrophe.
 
 "Let it work," he whispered.
 
-The stars didn't answer. But the river kept flowing.
+The stars didn't answer. But the river kept flowing. That would have to be answer enough.
 
-That would have to be answer enough.
+As John turned back toward camp, something caught his eye—a glint among the eastern ridges. Torchlight reflecting off metal. Roman armor, maybe. Or just starlight on limestone.
+
+He stood still for a long time, watching the ridgeline. Nothing moved.
+
+But the unease didn't leave him. And when he finally walked back to camp, he chose a path that kept him in the shadows.
 
 ---
 

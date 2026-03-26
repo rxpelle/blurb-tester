@@ -14,9 +14,9 @@ He'd never documented an execution where the condemned spent his final hours tea
 
 Dawn broke over Jerusalem as Marcus prepared his tablets. Multiple copies. Wax smoothed and ready. Stylus sharpened. Everything secured in leather satchel. The tools of witnessing.
 
-Not intervention. Not rescue. Just documentation.
+Not intervention. Not rescue. Just witnessing.
 
-Jesus of Nazareth would die today. Crucified on Golgotha for teaching defensive mode disguised as spiritual wisdom. Executed by networks that feared knowledge more than violence. Killed by systems that required control more than truth.
+Jesus of Nazareth would die today. Crucified on Golgotha for teaching defensive mode woven into spiritual wisdom. Executed by men who feared knowledge more than violence. Killed by those who required control more than truth.
 
 Marcus would watch. Record. Preserve.
 
@@ -28,9 +28,7 @@ Today: The forty-second generation carrier teaching humanity one final lesson.
 
 How to die well.
 
-Marcus checked his preparations methodically. Three wax tablets in the satchel. Four more copies already secured in defensive network safe houses across Jerusalem. Redundancy. Always redundancy. If he was arrested for testifying, if the offensive network discovered his defection, the documentation would survive.
-
-That was defensive mode applied to historical recording.
+Marcus checked his preparations methodically. Three wax tablets in the leather case. Four more copies already secured in trusted houses across Jerusalem. Redundancy. Always redundancy. If he was arrested, if the offensive network discovered his defection, the writings would survive.
 
 Word had reached him last night: Sarah safe in Damascus with Leah. One hundred twenty miles away. The Pattern Eye and bronze keys secured with the child. The women's network scattering according to plan. Rachel preparing for Alexandria. Abigail moving toward Cyrene.
 
@@ -38,25 +36,25 @@ Mary Magdalene had refused to go.
 
 Marcus had argued. Simon had begged. Even Jesus, in the garden before arrest, had told her to take Sarah north. She'd sent Sarah with Leah instead. "The child carries the bloodline forward. I carry the witness. Those are different roles."
 
-She was somewhere in Jerusalem now. Marcus hadn't seen her since last night. But she would be at Golgotha. He was certain of that. She would stand where the canonical witnesses stood — with John, with Jesus's mother — because she understood what Marcus understood: documentation required presence. You could not preserve what you did not see.
+She was somewhere in Jerusalem now. Marcus hadn't seen her since last night. But she would be at Golgotha. He was certain of that. She would stand where the canonical witnesses stood — with John, with Jesus's mother — because she understood what Marcus understood: witnessing required presence. You could not preserve what you did not see.
 
-Also last night: Judas's body found hanging from the tree on the eastern slope. The defensive network operative who'd tried to extract Jesus and failed. Marcus had documented the suicide, understanding what the historical record wouldn't—that Judas died from grief over mission failure, not guilt over betrayal.
+Also last night: Judas's body found hanging from the tree on the eastern slope. The defensive network agent who'd tried to rescue Jesus and failed. Marcus had recorded the suicide, understanding what the historical record wouldn't—that Judas died from grief over a failed rescue, not guilt over betrayal.
 
-The extraction attempt had been sophisticated. Well-planned. Coordinated with bribed guards and timed for maximum chaos.
+The rescue attempt had been well-planned. Coordinated with bribed guards and timed for maximum chaos.
 
 It had failed because the offensive network anticipated every move.
 
-Because extraction during martyrdom was impossible when the carrier chose death.
+Because rescue during martyrdom was impossible when the carrier chose death.
 
 Jesus had known. Had let Judas try anyway. Teaching through demonstration that forty-two generations of pattern couldn't be broken by individual cleverness.
 
-Marcus left his quarters as the city woke. Sukkot festival continuing. Thousands of pilgrims in temporary shelters throughout Jerusalem. Singing. Prayers. Celebration of abundance while networks prepared to execute a teacher for explaining that abundance required systemic cooperation rather than hierarchical control.
+Marcus left his quarters as the city woke. Sukkot festival continuing. Thousands of pilgrims in temporary shelters throughout Jerusalem. Singing. Prayers. Celebration of abundance while men prepared to execute a teacher for explaining that abundance required cooperation rather than control.
 
-The streets smelled of bread baking and bodies crowded too close together. Festival commerce. Temple guards maintaining order. Roman soldiers positioned at intersections. Standard occupation protocol.
+The streets smelled of bread baking and bodies crowded too close together — sweat, animal dung, incense from the Temple Mount drifting over the lower city. Festival commerce. Temple guards maintaining order. Roman soldiers positioned at intersections.
 
 Marcus walked toward the Praetorium—Pilate's headquarters—where Jesus had spent the night in custody. The trial would be brief. Pilate's judgment predetermined. The execution machinery already prepared.
 
-He passed the Temple, saw Caiaphas's network operatives positioned on the steps. Offensive network documenting their victory. Making sure every detail was recorded for their purposes.
+He passed the Temple, saw Caiaphas's men positioned on the steps. Offensive network watching their victory unfold. Making sure every detail was recorded for their purposes.
 
 Marcus would record it for different purposes.
 
@@ -74,7 +72,7 @@ As if teaching defensive mode was equivalent to banditry.
 
 As if explaining collapse prevention was the same as theft.
 
-Marcus found his position forty paces from the execution site. Close enough to observe. Far enough to maintain documentation distance. A merchant's abandoned cart provided cover.
+Marcus found his position forty paces from the execution site. Close enough to observe. Far enough to remain unseen. A merchant's abandoned cart provided cover.
 
 He opened his first tablet.
 
@@ -96,9 +94,7 @@ Offensive network staging their execution.
 
 Jesus stood in the center. Bound. Beaten already—Marcus could see bruising from the Temple guards' overnight interrogation. But standing upright. Calm. That peculiar acceptance Marcus had observed for six years.
 
-Not resignation.
-
-Strategic clarity.
+Not resignation. The calm of a man who had chosen his path and would not be moved from it.
 
 Pilate looked uncomfortable. Marcus knew that expression—a politician forced into decision he didn't want but couldn't avoid. The prefect of Judea hadn't survived five years in this posting by being stupid. He knew Jesus was no threat.
 
@@ -108,7 +104,7 @@ He would execute him anyway.
 
 "You say so," Jesus replied.
 
-Not denial. Not confirmation. Acknowledgment that others interpreted his teaching as political challenge when he'd taught systems thinking.
+Not denial. Not confirmation. Acknowledgment that others interpreted his teaching as political challenge when he'd taught something far older and deeper.
 
 The crowd outside shouted. Coordinated. Offensive network supporters demanding crucifixion. Making it look like popular will when it was actually network orchestration.
 
@@ -122,7 +118,7 @@ Marcus documented: Time, location, exact words exchanged, Pilate's visible disco
 
 True. He saw no actual threat. But political calculation required execution anyway.
 
-The crowd roared louder. Caiaphas's operatives coordinating the response. "Crucify him! We have no king but Caesar!"
+The crowd roared louder. Caiaphas's men coordinating the response. "Crucify him! We have no king but Caesar!"
 
 Irony: Jewish religious leaders declaring loyalty to Rome to kill a Jewish teacher. Networks using nationalism and occupation simultaneously to eliminate a carrier who threatened both.
 
@@ -180,19 +176,13 @@ The Via Dolorosa—"Way of Suffering"—wound through Jerusalem's streets from t
 
 Jesus carried the crossbeam across his shoulders. Each step agony. Blood from the scourging soaking through the robe they'd thrown back on him. Crown of thorns still pressed into his skull.
 
-Roman soldiers surrounded him. Four-man execution detail. Standard protocol. Two criminals following behind, each carrying their own crossbeams. Three executions today.
+Roman soldiers surrounded him. Four soldiers assigned to the execution. Two criminals following behind, each carrying their own crossbeams. Three executions today.
 
 Maximum deterrent.
 
 Marcus followed thirty paces back. Documenting the route. The crowd reactions. Everything that would matter when future generations asked what actually happened.
 
-The crowd responses varied:
-
-Some weeping—defensive network supporters who'd learned from Jesus's teaching. Unable to intervene (scatter protocol) but mourning publicly.
-
-Some celebrating—offensive network showing support for Rome's power. Making the execution look justified through manufactured enthusiasm.
-
-Most confused—people who'd heard Jesus teach, didn't understand networks, couldn't comprehend why a healer and teacher was being executed like a revolutionary.
+The crowd responses varied. Defensive network supporters wept — those who'd learned from Jesus's teaching but couldn't intervene under scatter orders, mourning publicly because that was all they could do. Others celebrated, Caiaphas's people manufacturing enthusiasm to justify the execution. Most remained confused — people who'd heard Jesus teach but couldn't comprehend why a healer was being executed as a revolutionary.
 
 Women wailed. Traditional mourning. Jesus stopped, turned to face them despite the soldiers shoving him forward.
 
@@ -204,11 +194,9 @@ They didn't understand he wasn't prophesying. He was pattern-recognizing.
 
 "For the days are coming when they will say, 'Blessed are the barren, blessed are the wombs that never bore.' Then they will say to the mountains, 'Fall on us,' and to the hills, 'Cover us.'"
 
-Encoded meaning: Jerusalem's destruction approaching. 70 CE. Thirty-eight years future. When Rome would burn the city, destroy the Temple, scatter the survivors.
+Jerusalem's destruction approaching. Thirty-eight years from now. When Rome would burn the city, destroy the Temple, scatter the survivors. He was telling them to mourn *that* — not this death, which had purpose. The coming destruction would happen because men in power chose rigidity over wisdom, the same way they always did.
 
-Mourn that catastrophe, not this martyrdom. Martyrdom was strategic. Collapse was preventable but would happen anyway because offensive networks required catastrophe to maintain control.
-
-The crowd didn't understand. Heard prophecy. Missed the systems analysis.
+The crowd didn't understand. They heard prophecy. Missed the warning underneath.
 
 Marcus understood. Documented it.
 
@@ -216,7 +204,7 @@ Jesus stumbled. Crossbeam too heavy. Shoulders too damaged. He fell.
 
 The soldiers grabbed a man from the crowd. "You. Carry it."
 
-Simon of Cyrene. Dark-skinned, possibly African. Pilgrim visiting for festival. Wrong place, wrong time. Pressed into service carrying an execution crossbeam.
+Simon of Cyrene. Dark-skinned, possibly African. Pilgrim visiting for festival. Caught by circumstance. Pressed into service carrying an execution crossbeam.
 
 Simon lifted the wood. Looked at Jesus with a mixture of pity and fear.
 
@@ -226,11 +214,9 @@ Two words. Acknowledging the forced service. Recognizing the man's humanity desp
 
 Simon's expression shifted. Something in those two words—the calm gratitude from a man being led to execution—planting seed.
 
-Would Simon remember? Would he tell his children? Would the teaching propagate through a moment of forced compassion?
+Would Simon remember? Would he tell his children? Another seed planted through a moment of forced compassion.
 
-That was how it worked. Small interactions. Seeds planted. Knowledge spreading.
-
-They reached Golgotha as the sun climbed toward mid-morning. Ninth hour approaching—3 AM in Roman timekeeping, 9 AM in modern reckoning.
+They reached Golgotha as the sun climbed toward mid-morning. The third hour by Roman reckoning — perhaps nine in the morning.
 
 The execution site waited.
 
@@ -242,17 +228,13 @@ Roman soldiers preparing. Efficient. Professional. Crucifixion was routine work 
 
 For Marcus, it was the end of a six-year observation arc.
 
-For Jesus, it was strategic martyrdom following a pattern Nefertari had set.
+For Jesus, it was martyrdom following a pattern Nefertari had set twelve centuries before.
 
 For the offensive network, it was threat elimination.
 
 For the defensive network, it was the teaching preserved through death.
 
-The crossbeam was laid on the ground.
-
-Jesus's hands were spread along the wood.
-
-The first nail lifted.
+They laid the crossbeam on the ground. Spread Jesus's hands along the wood. A soldier lifted the first nail.
 
 Marcus forced himself to watch.
 
@@ -264,19 +246,15 @@ To witness what power did to truth.
 
 ## Scene 4: The Crucifixion Begins
 
-The soldier positioned the nail against Jesus's left wrist. Not the palm—palms would tear under body weight. Between the radius and ulna, where bone could support the iron.
-
-Medical precision in torture.
+The soldier positioned the nail against Jesus's left wrist. Not the palm — palms would tear under body weight. Through the wrist bones, where iron could hold firm.
 
 The hammer fell.
 
-Iron through flesh, through bone, through wood. The sound of metal on metal echoing across Golgotha. Jesus's body tensed, but he made no cry.
+Iron through flesh, through bone, through wood. The sound would follow Marcus for the rest of his life — metal on metal, then the wet sound underneath. Jesus's body arched against the wood, but he made no cry.
 
 Second nail. Right wrist. Same precision. Same silence.
 
-Marcus's hand shook as he documented. Forced himself to record every detail. Time. Method. Jesus's response. The crowd's reaction.
-
-This was defensive mode. Preserving truth even when truth was brutal.
+Marcus's hand shook so violently he nearly dropped the stylus. Fifteen executions witnessed. None had prepared him for this. For watching them kill someone he'd spent six years learning to respect. He forced himself to record every detail. Time. Method. Jesus's response. The crowd's reaction.
 
 The soldiers lifted the crossbeam with Jesus attached. Hoisted it onto the vertical post. Fitted the tenon joint. Secured it. Jesus now suspended by his wrists, feet dangling.
 
@@ -330,17 +308,13 @@ The crowd quieted. Condemned men didn't pray for their executioners.
 
 Marcus's hand stopped writing. In twenty-eight years of military service, he had never heard a dying man ask mercy for the people killing him.
 
-Forgive them. They don't understand systems thinking.
+*Forgive them. They don't understand what they're destroying.*
 
 The two criminals crucified on flanking crosses began their own dying. One cursing. One silent. Both suffering the same slow asphyxiation.
 
-The sun climbed higher. Ninth hour. Jesus had been hanging for minutes. Hours to go before death.
+The sun climbed higher. Jesus had been hanging for minutes. Hours to go before death.
 
-Marcus settled in to document.
-
-To witness strategic martyrdom.
-
-To record how a teacher died well.
+Marcus settled in to witness. To record how a teacher died well.
 
 ---
 
@@ -348,17 +322,17 @@ To record how a teacher died well.
 
 *Jesus POV - Brief Internal*
 
-Pain was information. The blood memory had taught him that years ago, when he'd first accessed the Pattern Eye's amplification. Physical suffering communicated data. System stress. Boundary conditions. Failure modes.
+Pain was information. The blood memory had taught him that years ago, when he'd first accessed the Pattern Eye's amplification. Physical suffering told him where the body was failing, like cracks spreading through a wall before collapse.
 
-Right now the data was clear: asphyxiation progressing. Blood loss significant. Shock beginning. Hours remaining, not days.
+Right now the message was clear: lungs filling. Blood loss draining him. The shaking that meant his body was giving up what his mind had already surrendered. Hours remaining, not days.
 
 Good.
 
-Faster death meant less time for defensive network to attempt another doomed rescue. Meant the offensive network couldn't interrogate him further. Meant the teaching could end cleanly, encoded in martyrdom rather than prolonged torture.
+Faster death meant less time for the defensive network to attempt another doomed rescue. Meant the teaching could end cleanly, woven into martyrdom rather than prolonged torture.
 
-The blood memory showed him Nefertari's execution. Similar position. Different method—she'd been strangled. But same strategic choice. Same acceptance that individual death served collective survival.
+The blood memory showed him Nefertari's execution. Similar position. Different method — she'd been strangled. But the same acceptance that one life ended so the knowledge could continue.
 
-Forty-two generations between her death and his. Forty-two times carriers had been executed for preserving defensive knowledge. Forty-two times the teaching had survived anyway.
+Twelve centuries between her death and his. Forty-two times carriers had been killed for preserving what those in power wanted buried. Forty-two times the teaching had survived anyway.
 
 Forty-three beginning with Sarah. Seven years old. In Damascus. Safe.
 
@@ -376,11 +350,11 @@ Not much longer.
 
 At noon, darkness fell.
 
-Not night. Not eclipse—impossible during Passover's full moon. Storm clouds rolling in from the Mediterranean. Unnatural timing. Heavy enough to block the sun.
+Not night. Not eclipse — impossible during the full moon. Storm clouds rolling in from the Mediterranean, heavy enough to block the sun. The air thickened, humid and close, smelling of rain and iron.
 
 The crowd murmured. Omen. Divine judgment. Fear.
 
-The offensive network looked nervous. Bad optics. Execution during supernatural darkness wouldn't reinforce their message about maintaining order.
+The offensive network looked nervous. Execution during this darkness wouldn't reinforce their message about order.
 
 The temperature dropped. Wind rising. Storm approaching.
 
@@ -412,9 +386,9 @@ Through the darkness, figures approached. John—the youngest disciple. Several 
 
 And Mary Magdalene.
 
-She walked ahead of the others. Not weeping — not yet. Her face held the expression Marcus had seen on battlefield surgeons: someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her, then looked away. A woman watching an execution was beneath their concern.
+She walked ahead of the others, her hands clenched so tightly her knuckles were white. Not weeping — not yet. Her face held the expression Marcus had seen on battlefield surgeons: someone who had decided to see everything and forget nothing, even if it killed something inside them to do it. She positioned herself close enough to the cross that the soldiers glanced at her, then looked away. A woman watching an execution was beneath their concern.
 
-But Marcus recognized what she was doing. The same thing he was doing. Witnessing. She was not here to mourn. She was here to see everything and forget nothing.
+But Marcus recognized what she was doing. The same thing he was doing. Witnessing.
 
 Jesus saw them. Saw John. Saw his mother. Saw Mary Magdalene standing apart from the others, dry-eyed, watching with the fierce attention of a woman who refused to look away.
 
@@ -432,7 +406,7 @@ The darkness continued. Noon to mid-afternoon. Three hours of storm-shadow while
 
 Marcus watched his breathing slow. Each push-up taking longer. Each breath shallower.
 
-Asphyxiation progressing as expected. Death approaching.
+Each breath shallower than the last. Death approaching.
 
 Soon Jesus would speak his final words.
 
@@ -446,7 +420,7 @@ Soon.
 
 *Jesus POV*
 
-The blood memory came as his body failed. Not the strategic visions he'd trained himself to access. Something older. Simpler.
+The blood memory came as his body failed. Not the visions he'd trained himself to access. Something older. Simpler.
 
 Nefertari's hand on a workbench. The smell of cassia. A single tap that meant *look at this*.
 
@@ -456,7 +430,7 @@ Mary Magdalene's voice the first time she said his name — not as a teacher, bu
 
 Sarah's small hand arranging shells in patterns on a dock.
 
-Not forty-two generations of carriers. Just the people he loved, arriving to walk him through the door.
+Not forty-two generations of carriers. Just the people he loved, arriving to carry him home.
 
 His body was failing. Blood loss. Shock. Lungs barely functioning.
 
@@ -468,7 +442,7 @@ He opened his eyes. Found Mary Magdalene's face in the crowd below. Still watchi
 
 *Marcus POV*
 
-Jesus lifted his head. Gathering strength for speech. The ninth hour approaching—3 PM in modern reckoning. Six hours since crucifixion began. Faster than usual. The scourging had weakened him severely.
+Jesus lifted his head. Gathering strength for speech. The ninth hour approaching — six hours since crucifixion began. Faster than usual. The scourging had weakened him severely.
 
 His voice carried across Golgotha despite the weakness.
 
@@ -494,7 +468,7 @@ Not *I* am finished.
 
 *It* is finished.
 
-Marcus wrote it down. Exact words. Exact time. Ninth hour. Darkness still covering the sky.
+Marcus wrote it down. Exact words. Exact time. The ninth hour. Darkness still heavy over Golgotha.
 
 Jesus spoke once more. Loud enough for all witnesses.
 
@@ -504,7 +478,7 @@ Then released his final breath.
 
 Voluntary. Not passive death. Choosing the moment.
 
-Marcus marked the time on his tablet. 3 PM. Death confirmed.
+Marcus marked the time on his tablet. The ninth hour. Death confirmed.
 
 ---
 
@@ -526,9 +500,7 @@ They approached Jesus. Already dead. No need to break his legs.
 
 But Longinus took his spear. Thrust it into Jesus's side. Between the ribs. Into the heart sac.
 
-Blood and water flowed out.
-
-Medical confirmation. Pericardial effusion. Jesus was definitely dead. No faking. No survival possibility.
+Blood and water flowed out. Clear fluid mixed with dark blood — what the body released when death was absolute. No faking. No survival.
 
 Longinus withdrew the spear. Stared at the blood on the blade. Something in his expression shifted — the same shift Marcus had felt, years ago, watching a carpenter teach on a hillside.
 
@@ -572,7 +544,7 @@ They carried the body toward a nearby tomb. Joseph's family tomb. New. Never use
 
 Honoring the teacher despite networks' attempt to humiliate him in death.
 
-Women followed. Jesus's mother. Other female disciples. Mary Magdalene notably absent—in Damascus as planned, 120 miles away, leading the scatter.
+Women followed. Jesus's mother. Other female disciples. Mary Magdalene standing apart, face drawn, watching everything.
 
 They laid Jesus's body on the burial shelf. Nicodemus brought spices—myrrh and aloes, mixed together, about seventy-five pounds. Costly. Respectful.
 
@@ -586,7 +558,7 @@ As they finished, Temple guards arrived. Caiaphas's orders. "We're to watch the 
 
 Longinus looked at the sealed tomb. "Post your watch."
 
-Six guards positioned themselves. Offensive network ensuring no defensive extraction attempt.
+Six guards positioned themselves. Offensive network ensuring no one moved the body.
 
 Marcus recorded their placement.
 
@@ -594,13 +566,13 @@ The burial complete. Jesus of Nazareth dead and sealed in stone.
 
 The work finished.
 
-Marcus secured his tablets. Multiple copies already distributed. If he was arrested now, the record would survive.
+Marcus secured his tablets. Multiple copies already distributed. The record would survive even if he didn't.
 
-He left the tomb as darkness fell. Sabbath beginning. Jerusalem quieting.
+He left the tomb as darkness fell. Sabbath beginning. Jerusalem quieting. The smell of rain-washed stone and extinguished torches.
 
 Tomorrow he would leave the city. Head north to Damascus.
 
-Tonight he sat in his quarters and read back what he had written and his hands would not stop shaking.
+Tonight he sat in his quarters and read back what he had written. His hands would not stop shaking. When he finally set down the stylus, his fingers had cramped into the shape of holding it, and he had to pry them open one by one.
 
 ---
 
@@ -616,7 +588,7 @@ She had watched his breathing slow. Had counted the intervals between each agoni
 
 She had watched him die.
 
-And she had held every detail in blood memory — encoding it the way Nefertari had encoded the fall of Pi-Ramesses, the way every carrier before her had encoded the worst moments of their generation's collapse. Not because she wanted to remember this. Because someone had to. Because the difference between a death that scattered knowledge and a death that merely ended a life was the quality of the witness.
+And she had held every detail in blood memory — pressing it deep the way Nefertari had pressed the fall of Pi-Ramesses into the blood, the way every carrier before her had carried the worst moments of their generation's collapse. Not because she wanted to remember this. Because someone had to. Because the difference between a death that scattered knowledge and a death that merely ended a life was the quality of the witness.
 
 Now Joseph of Arimathea was wrapping the body. Nicodemus had brought spices — seventy-five pounds of myrrh and aloes, a king's burial for a carpenter. John was supporting Jesus's mother, guiding her away. The crowd was dispersing. The soldiers were gambling for the seamless cloak.
 
@@ -630,17 +602,17 @@ Marcus approached her. Wax tablets clutched in hands that were shaking.
 
 "I need to see the tomb," Mary said.
 
-They followed Joseph's small procession. New tomb, rock-cut, never used. They laid the body on the stone shelf. Mary watched Nicodemus arrange the linen wrappings. Watched Joseph's servants roll the massive stone across the entrance. Watched Temple guards arrive to post their watch — six men, three of them offensive network operatives Marcus identified with a glance.
+They followed Joseph's small procession. New tomb, rock-cut, never used. They laid the body on the stone shelf. Mary watched Nicodemus arrange the linen wrappings. Watched Joseph's servants roll the massive stone across the entrance. Watched Temple guards arrive to post their watch — six men, three of them offensive network agents Marcus identified with a glance.
 
 Mary noted the tomb's location. Memorized the approach. Counted the guards and their positions.
 
 She would come back.
 
-Not for extraction. Not for network operations. She would come back because Jewish burial custom required final anointing, and she would be the one to do it. She would be the last person to touch him, the way she had been one of the last people he had looked at.
+Not for the network. She would come back because Jewish burial custom required final anointing by women, and she would be the one to do it. She would be the last person to touch him, the way she had been one of the last people he had looked at.
 
 That was her role now. Not the coordinator in Damascus, safe with the artifacts. The witness. The one who stayed.
 
-The others began leaving as Sabbath approached. Marcus toward his safe house. John with Jesus's mother. The women scattering to their lodgings.
+The others began leaving as Sabbath approached. Marcus toward his trusted house. John with Jesus's mother. The women scattering to their lodgings.
 
 Mary stood alone outside the sealed tomb. The guards watched her nervously. A woman standing vigil at a criminal's grave — not threatening, but unnerving. Something in her stillness that suggested she saw more than they did.
 
@@ -670,9 +642,9 @@ She didn't know any of that yet. She only knew that she had watched a man die wh
 
 Mary turned from the tomb. Walked through Jerusalem's emptying streets as Sabbath fell. Found her lodging. Sat in the dark.
 
-She did not sleep.
+She did not sleep. Could not. Every time she closed her eyes she saw the moment when his breathing stopped — not the dramatic final words, but the small, ordinary moment after, when his chest simply didn't rise again.
 
-She held everything she had witnessed — every nail, every word, every breath — in the part of her mind that blood memory had trained to hold the unsurvivable.
+She held everything she had witnessed — every nail, every word, every breath — in the part of her mind that blood memory had trained to hold the unsurvivable. It felt like it might break her. And she would carry it anyway, because that was what witnesses did. They carried the unbearable so others could bear it.
 
 And she waited for the third day.
 
@@ -688,8 +660,8 @@ And she waited for the third day.
 
 **Continuity Notes for Next Session:**
 - Jesus dead, buried, guarded tomb (sealed stone, six Temple guards)
-- Marcus completed documentation, preparing to defect to Damascus
-- Mary Magdalene IN JERUSALEM — witnessed crucifixion at Golgotha, plans to return to tomb on third day
+- Marcus completed his record, preparing to defect to Damascus
+- Mary Magdalene IN JERUSALEM — stayed to witness crucifixion at Golgotha despite original plan, sent Sarah north with Leah, plans to return to tomb on third day
 - Sarah safe in Damascus with Leah (age 7, Generation 43)
 - Pattern Eye and two defensive keys with Sarah/Leah in Damascus
 - Defensive network scattered: Antioch, Ephesus, Corinth, Alexandria, Cyrene
