@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 13 revised to 8/10)
+**Last updated:** 2026-03-26 (Ch 14 revised to 8/10)
 
 ## Scorecard
 
@@ -20,9 +20,9 @@
 | Ch 11: The Betrayal | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 12: The Execution | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 13: The Resurrection | 8 | 8 | 9 | 7 | 8 | **8** |
-| Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
+| Ch 14: The Scatter | 8 | 8 | 8 | 7 | 8 | **8** |
 
-**Manuscript average: 8.0/10**
+**Manuscript average: 8.1/10**
 
 ---
 
@@ -110,8 +110,8 @@ One pass. Cut from ~8,500 to ~4,500 words. Scene 1 recap of Ch 11 (Judas/scatter
 ### Ch 13: The Resurrection — 8/10 (revised from 6)
 One pass. Cut from 8 scenes to 4, ~9,400 to ~4,200 words. Caiaphas monologue (essay disguised as fiction, 120+ lines) cut entirely. Peter's verification scene (third telling of empty tomb) cut entirely. Marcus tomb scene merged into Mary's discovery — empty tomb told once. Garden encounter preserved as emotional peak — "She just needed him to have said her name." Damascus reunion compressed (Scenes 7+8 → Scene 4), Sarah's miniature-philosopher dialogue cut. Resurrection-as-multiple-truths no longer stated fifteen times — the ambiguity lives in the images now (folded cloths, the figure in the garden) without narrator decoding. Mary's Gospel integration preserved — real Nag Hammadi content, strongest historical move. Character score 9 because Mary's garden encounter is the manuscript's most human moment. Remaining gap to 9: the structural challenge of telling a familiar story freshly — the reader knows what happens at the empty tomb.
 
-### Ch 14: The Scatter — 6/10
-Mary's death sentence earns its length. Mary's Gospel integration is the most daring historical move. Peter's late self-awareness about erasing women is complex. Paul is a caricature. Jerusalem burns in two pages after a full novel building toward it. Peter speaks as a 21st-century scholar.
+### Ch 14: The Scatter — 8/10 (revised from 6)
+Cut from ~8,600 to ~2,400 words. Day 7 (Peter/Galilee shore) and Day 14 (Galilee Gathering) cut entirely — repeated "is it real" question already resolved in Ch 13. Thomas compressed — hand-shaking moment lands without narrator decoding. Ascension compressed to essentials. Pentecost cut (summary, not scene). Mary's Gospel section tightened — Nag Hammadi quotes preserved, narrator explanations of each quote eliminated. Mary's death scene preserved as emotional peak — Gospel recap cut (already covered in 40 CE section). Paul scene (50 CE) cut entirely — Paul as caricature, Peter speaking as 21st-century scholar about Pauline epistle forgery. Peter/James 70-line essay on women's erasure cut — worst exposition-as-dialogue in the manuscript. Peter's martyrdom compressed. Jerusalem burning preserved with sensory detail, character recap cut. Epilogue (network meeting repeating everything) cut entirely — "She walked west" is the ending now. Remaining gap to 9: the chapter covers 38 years and five major events, which inevitably reads as montage rather than sustained narrative.
 
 ---
 
