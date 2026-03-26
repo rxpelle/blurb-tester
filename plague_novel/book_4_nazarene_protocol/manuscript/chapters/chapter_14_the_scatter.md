@@ -20,7 +20,7 @@ Seven days since resurrection morning. Seven days of confusion, hope, terror, wo
 
 Jesus walked closer. Physical presence. Solid. Real. Or network operative. Or vision. Or—
 
-Simon forced himself to stop cycling through interpretations. Mary Magdalene had explained it after returning from Damascus: "Don't ask which kind of resurrection. Just practice the teaching. That's what matters."
+Simon forced himself to stop cycling through interpretations. Mary Magdalene had told the others after the garden encounter: "Don't ask which kind of resurrection. Just practice the teaching. That's what matters."
 
 "Feed my sheep," Jesus said.
 
@@ -110,13 +110,13 @@ Now Simon would practice it for the next forty.
 
 Five hundred people gathered on the hillside north of Capernaum.
 
-Mary of Damascus coordinated from the edges, watching crowd composition: Disciples, women's network, defensive elders, sympathetic families, curious seekers. Some had witnessed crucifixion. Some heard resurrection rumors. Some just wanted to see if the teacher they'd loved was somehow alive again.
+Mary Magdalene coordinated from the edges, watching crowd composition: Disciples, women's network, defensive elders, sympathetic families, curious seekers. Some had witnessed crucifixion. Some heard resurrection rumors. Some just wanted to see if the teacher they'd loved was somehow alive again.
 
 Sarah sat beside her, age seven, Pattern Eye wrapped in cloth at her feet. Generation 43. Learning to witness strategic mythology creation in real-time.
 
 "Mother," Sarah whispered. "Is Jesus really here? Or is this network theater?"
 
-Mary smiled. Her daughter's blood memory was activating beautifully—questioning everything, holding multiple interpretations, recognizing both/and instead of either/or.
+Mary smiled. Her daughter's blood memory was activating beautifully — questioning everything, holding multiple interpretations, recognizing both/and instead of either/or.
 
 "Watch," Mary instructed. "See what happens. Then tell me what you think."
 
@@ -302,7 +302,7 @@ That was how defensive knowledge survived theological institutions.
 
 ### Day Forty: The Ascension
 
-They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Mary of Damascus, Sarah, the women's network core, defensive elders, Marcus documenting from the edges.
+They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's network core, defensive elders, Marcus documenting from the edges.
 
 Forty days of appearances. Different locations, different witnesses, different teachings. Galilee gathering, upper room encounters, road to Emmaus, lakeside breakfast, mountain commissioning.
 
@@ -324,7 +324,7 @@ Decoded:
 
 Marcus wrote quickly. Multiple interpretations. Future Gospel accounts would record this moment theologically. His documentation preserved methodological layer.
 
-Mary of Damascus held Sarah's hand. Generation 43 witnessing Generation 42's final instructions. The teaching passing forward through genetic memory and community practice simultaneously.
+Mary Magdalene held Sarah's hand. Generation 43 witnessing Generation 42's final instructions. The teaching passing forward through genetic memory and community practice simultaneously.
 
 Jesus lifted his hands in blessing. Began walking upward on the hillside, morning sun behind him, figure silhouetted against sky.
 
@@ -386,7 +386,7 @@ Ten days after ascension, they gathered publicly in Jerusalem for Shavuot festiv
 
 One hundred twenty believers. Disciples, women's network, defensive elders, new converts. Meeting in upper room, coordinating final scatter before leaving Jerusalem permanently.
 
-Mary of Damascus stood before them, Pattern Eye hidden in her robes, Sarah beside her. Speaking to the assembly:
+Mary Magdalene stood before them, Pattern Eye hidden in her robes, Sarah beside her. Speaking to the assembly:
 
 "Jesus taught us systems thinking disguised as spiritual wisdom. Now we teach that same methodology disguised as religious practice. Some of you will spread it theologically—Peter, John, James. Some methodologically—Thomas, Mary Magdalene, Matthias. Some infiltrate offensive networks to monitor—Judas's replacement. Some document—Marcus. All roles necessary."
 
@@ -406,7 +406,7 @@ Peter stood, addressing crowd. First public teaching post-resurrection. Explaini
 
 Theological layer spreading beautifully.
 
-Meanwhile, Mary of Damascus coordinated network scatter from shadows. Assignments distributed:
+Meanwhile, Mary Magdalene coordinated the network scatter from the edges. Assignments distributed:
 
 - Peter + John → Jerusalem leadership (temporary, until Temple pressure forces exit)
 - Thomas → India trade routes (eastern distribution)
@@ -429,54 +429,201 @@ All three simultaneously true.
 
 ### 40 CE: Mary's Gospel
 
-Mary Magdalene sat in an upper room in Alexandria, papyrus spread before her, stylus moving carefully across surface.
+Mary Magdalene sat in an upper room in Alexandria, papyrus spread before her, stylus moving carefully across surface. The room smelled of lamp oil and the harbor beyond the window. She'd been writing since dusk. Her hand ached. She didn't stop.
 
-Seven years since crucifixion. Seven years of teaching across provinces, training women's circles, preserving Jesus's methodology while watching Paul's theological interpretations gain dominance.
+Seven years since the crucifixion. Seven years of teaching across provinces — Jerusalem, Damascus, Antioch, Ephesus, now Alexandria — training women's circles, preserving what Jesus actually taught while watching Paul's theological simplifications gain dominance in every city she'd already passed through. Paul was faster. Paul was simpler. Paul told people what they wanted to hear: believe this one thing and you are saved. Mary told people what Jesus actually said: the work is inside you, and it never ends.
+
+Paul was winning.
 
 Sarah, age fifteen, sat nearby. Generation 43. Blood memory fully active. Training complete. Ready to carry forward when Mary's time ended.
 
 "What are you writing?" Sarah asked.
 
-"Everything Jesus taught that Paul is already erasing."
+"What he said. In his own words, as close as I can hold them. Before they disappear under what Paul is building."
 
-Mary's Gospel. Not theological treatise like what Peter would write. Not historical account like Marcus planned. Something different: Direct methodological encoding.
+Mary's Gospel. Not theological treatise like what Peter's followers would compose. Not historical chronology like Marcus planned. Not collections of sayings like Thomas was assembling. Something different: the direct teaching, the private conversations, the vision he'd shown her that the others had never seen.
 
-She wrote:
+She wrote his words on the nature of sin — the teaching that would most threaten the institutional church Paul was constructing, because it dismantled the entire apparatus of guilt and priestly mediation in a single sentence:
 
-*"The Savior answered: There is no such thing as sin; rather you yourselves are what produces sin when you act in accordance with the nature of adultery which is called 'sin.' For this reason, the Good came among you, pursuing (the good) which belongs to every nature. It will set it within its root."*
+*"Sin does not exist. Rather it is you who make sin when you do the things which are like the nature of adultery, which is called 'sin.' Because of this the Good came among you to the things belonging to all nature, in order to set it within its root."*
 
-Translation for carriers:
+She set down the stylus. Read it back. Heard his voice in the words — the particular cadence he used when he was teaching something that mattered, slower, each phrase weighted.
 
-*Sin = systemic dysfunction (not moral failure). Adultery = mixing incompatible patterns. Good = defensive mode. Root = original pattern recognition capacity.*
+Sin does not exist. Not as an inherent condition. Not as something you're born carrying. Not as a stain requiring blood sacrifice to cleanse. Sin was something people *produced* — through acting against their own nature, mixing what shouldn't be mixed, confusing the garment for the self. And the Good came not to punish but to *restore* — to return each nature to its root.
 
-Jesus's actual teaching. Systems thinking. Pattern repair. Collapse prevention.
+Paul was preaching the opposite. Original sin. Substitutionary atonement. Humanity fallen and unable to save itself. Salvation only through faith in Jesus's death — not through practice of Jesus's teaching. The entire theology designed to make people dependent on institutions for their redemption. Priests as gatekeepers. Guilt as currency. The very thing Jesus had warned against in his final words to the disciples.
 
-But Paul was preaching something else now. Substitutionary atonement. Blood sacrifice. Salvation through faith in Jesus's death rather than practice of Jesus's teaching.
+She wrote those final words now:
 
-Theological layer growing. Methodological layer fading.
+*"Peace be with you. Acquire my peace for yourselves. Be on your guard so that no one deceives you by saying, 'Look over here!' or 'Look over there!' For the child of Humanity exists within you. Follow him. Those who search for him will find him."*
 
-Mary wrote faster. Preserving what she could. Knowing it would be suppressed eventually—Gospel of Mary deemed heretical, hidden, fragments surviving into distant future.
+The child of Humanity exists *within* you. Not in a temple. Not in an institution. Not mediated by a priest or purchased through sacrifice. Within.
 
-But that was fine. Defensive mode didn't require institutional approval. It required distributed preservation. If even fragments survived, future carriers could reconstruct pattern.
+*"Go then, preach the good news about the kingdom. Do not lay down any rule beyond what I determined for you, nor promulgate law like the lawgiver, or else you might be dominated by it."*
 
-"Will people understand?" Sarah asked, reading over her shoulder.
+Do not lay down rules. Do not build institutions that dominate. Do not become the thing you were sent to resist. Mary could hear him saying it — the slight edge in his voice, the way he looked at Peter when he said *or else you might be dominated by it*, knowing already that Peter would build exactly the kind of structure Jesus warned against, because that's what Peter was, a builder, and builders build.
 
-"No. But someday, someone will. Generation 50, 75, 112. Carrier will find fragments, recognize encoding, extract methodology. That's enough."
+Then she wrote what happened after he left them. The part the other Gospels wouldn't record, because the other Gospels were being written by men who weren't there for this:
 
-She wrote through the night. Jesus's teachings on:
+*But they were distressed and wept greatly. "How are we going to go out to the rest of the world to announce the good news about the kingdom of the child of Humanity?" they said. "If they didn't spare him, how will they spare us?"*
 
-- Escalation interruption (theological: Forgiveness. Methodological: Break retaliation cycles)
-- Pattern recognition (theological: Kingdom consciousness. Methodological: Systems thinking)
-- Distributed resilience (theological: Church community. Methodological: Network redundancy)
-- Necessary failure (theological: Prophecy fulfillment. Methodological: Collapse as distribution mechanism)
+*Then Mary stood up. She greeted them all, addressing her siblings: "Do not weep and be distressed nor let your hearts be irresolute. For his grace will be with you all and will shelter you. Rather we should praise his greatness, for he has prepared us and made us Human beings."*
 
-All encoded. All preservable. All accessible to those trained to see dual layers.
+*When Mary said these things, she turned their heart toward the Good.*
 
-By morning, Gospel complete. Sixty-four pages. Not as long as Matthew's account would be. Not as historical as Luke's. Not as theological as John's.
+She paused over those words. *She turned their heart toward the Good.* That was what had happened. The men had collapsed — Peter weeping, Andrew frozen, Thomas already composing his doubts. And she had stood up. She had kissed them. She had said: stop crying, he prepared us for this, we are ready. And they had listened. The first sermon after the resurrection wasn't Peter's at Pentecost. It was hers, in that room, to eleven men who couldn't stop weeping.
 
-But accurate. Methodological. Defensive.
+No one would remember this. Peter's version would become the founding story. Hers would be buried.
 
-Hidden within Christianity's theological spread, waiting for carriers across generations to rediscover.
+She kept writing.
+
+The vision. The private teaching Jesus had given her — the one Peter would later challenge, the one Andrew would dismiss, the one that would become the reason her Gospel was suppressed. The soul's ascent past the Powers that tried to hold it:
+
+*And Desire said, "I did not see you go down, yet now I see you go up. So why do you lie since you belong to me?"*
+
+*The soul answered, "I saw you. You did not see me nor did you know me. You mistook the garment I wore for my true self. And you did not recognize me."*
+
+Mary wrote it the way Jesus had taught it to her: the soul moving through the world, mistaken for its outer form — its body, its gender, its social role — by Powers that tried to claim ownership. Desire claiming the soul belonged to it. Ignorance binding it with judgment. And the soul answering: you never knew me. You saw the garment. Not the self.
+
+She could already hear Peter saying it: *Did he really speak with a woman in private without our knowing about it? Are we to turn around and listen to her? Did he choose her over us?*
+
+Yes. He did.
+
+She wrote what the soul said to the seven Powers of Wrath when they challenged its right to ascend — the darkest and most demanding teaching, the one that would be lost when pages 11 through 14 of this manuscript rotted away in an Egyptian cave:
+
+*"What binds me has been pierced, and what surrounds me has been destroyed, and my desire has been brought to an end, and ignorance has died. In a world, I was set loose from a world and by a type, from a type which is above, and from the chain of forgetfulness which exists in time. From this hour on, I will receive rest from the time, from the due season, from the age in silence."*
+
+The chain of forgetfulness which exists in time. That was what blood memory fought against — the forgetting that came with each generation, the slow erosion of knowledge as lived experience became story became myth became ritual became empty form. Every carrier since Nefertari had been fighting that chain. Every generation losing a little more. And here was Jesus's teaching on how the soul breaks free: not through belief, not through sacrifice, not through institutional membership, but through *recognition*. Seeing the Powers for what they are. Naming them. Passing through.
+
+Sarah was reading over her shoulder now. "They won't understand this."
+
+"No."
+
+"Peter will say you made it up."
+
+Mary smiled — the tired smile of a woman who had already lived this argument. "He'll say: *Did he really speak with a woman in private?* He'll say: *Did he choose her over us?* And Levi will defend me. And Andrew will side with Peter. And eventually Peter's version will become the Church and my version will become heresy and the only reason any of it survives is that someone, somewhere, will hide a copy in a wall or a cave or a jar, and seventeen centuries later a man will find it wrapped in feathers and not know what he's holding."
+
+"Wrapped in feathers?"
+
+"Blood memory. I can see it. Not clearly. But I can see the finding."
+
+Sarah was quiet.
+
+"Will people understand it? Eventually?"
+
+"Some. A woman named Karen will translate it. She'll understand what Peter's question really meant — not *did Jesus talk to you* but *how dare you claim authority*. She'll see that the argument wasn't about theology. It was about power. About whether a woman could teach men. About whether private revelation counted as authority. About whether the Church Peter was building had room for the kind of knowledge I'm writing down."
+
+"And will it?"
+
+"No. But fragments will survive. Fragments plus blood memory. That's enough."
+
+She wrote through the night. The vision of the soul's ascent. The farewell discourse. The nature of matter and its dissolution. The teachings on sin as something produced, not inherited. The instruction to make no laws. The warning against being dominated by rules.
+
+By morning, the Gospel was complete. Not as long as Matthew's account would eventually be. Not as historical as Luke's. Not as theological as John's.
+
+But the only one written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. The only one written by the person Jesus chose to tell first. The only one that recorded what she said to the weeping disciples when no one else could speak, and what the soul said to Desire when Desire tried to claim it, and what Jesus meant when he said *the child of Humanity exists within you*.
+
+Hidden within Christianity's theological spread, waiting for carriers across generations to rediscover what the Church spent centuries trying to bury.
+
+---
+
+### 42 CE: The Witness at Her Own Death
+
+Mary Magdalene knew three days before it happened.
+
+Not through prophecy. Through her body. The warmth beneath her left ribs — the warmth she'd carried since childhood, the love that had traveled forty-two generations from two people in a workshop to a carpenter on a hillside to her — had begun to move. The way it had moved that day in Galilee when Jesus taught the forty people and the hillside wept. The way it had moved through her when she stood at the cross. Except now it was moving *out*. Slowly. Like a tide withdrawing.
+
+She was forty-eight years old. Living in a small stone house outside Massalia, in Gaul, the sea visible from her doorway. Ten years since the crucifixion. Ten years of traveling — Alexandria, Ephesus, Rome, and finally here, the western edge of the known world, spreading defensive knowledge through women's teaching circles while Paul's theology raced ahead of her, simplifying everything she preserved. Her Gospel was written. Her teaching was encoded. The Pattern Eye had been transferred to Peter three years prior for custody rotation. Her body had done its work.
+
+Now it was finishing.
+
+Sarah found her sitting in the garden behind the house, hands in her lap, face turned toward the sea. Seventeen years old. Generation 43. She'd been with her mother since Damascus, through every city, every teaching, every night of writing by lamplight while the Roman world built churches over the methodology they were burying.
+
+"You're dying," Sarah said. Not a question.
+
+Mary looked at her daughter. Saw in her face the same thing Jesus must have seen in the garden — someone young enough to carry it forward, old enough to understand the cost.
+
+"Yes."
+
+"How long?"
+
+"Days. Maybe less."
+
+Sarah sat beside her. Neither of them cried. They'd been trained for this — the understanding that carrier death served preservation, that grief was real but didn't change the methodology, that the teaching continued through the people who practiced it, not the person who carried it.
+
+But training is one thing. Sitting beside your mother while her body releases twelve centuries of accumulated love is another.
+
+"I need you to witness," Mary said.
+
+Sarah looked at her sharply.
+
+"The way I witnessed Jesus. Someone has to see. Someone has to hold every detail in blood memory — not in writing, in the body — so that your children dream it, and their children, and the truth of how I died can never be reduced to a footnote." She pressed her palm against her left side. The warmth was dimmer now. Still there. Still reaching. But withdrawing, the way the sea withdraws before it returns somewhere else. "They'll try to erase me, Sarah. Not immediately. Slowly. Over centuries. They'll make me a penitent. A reformed sinner. A woman who wept at Jesus's feet because she was ashamed, not because she loved him. A pope will stand in a cathedral five hundred years from now and declare that I was a prostitute, and the entire Church will believe it, because a woman who was the first witness and the first sent threatens every hierarchy they're building."
+
+"I won't let them."
+
+"You can't stop it. That's not how this works. You can only preserve the truth deeply enough that someone, someday, digs it out." Mary took her daughter's hand. Held it the way someone holds a hand when they're teaching the grip itself — this is how you hold on, this is how you carry forward. "What do you see when you look at me? Right now. Blood memory active. What do you see?"
+
+Sarah closed her eyes. Opened them. "I see the garden. You kneeling. Crying. Thinking he was the gardener. And then he said your name."
+
+"What else?"
+
+"The cross. You standing. Everyone else fled but you stayed. His mother on one side, you on the other. Holding the space so his death had witnesses."
+
+"What else?"
+
+Sarah's breath caught. "The hillside. The forty people. The warmth moving through everyone. The fisherman with tears on his face who didn't know why he was crying."
+
+"That wasn't me. That was Jesus."
+
+"It was both. You were there. You felt it. You carried it after he died. That warmth — " Sarah pressed her own hand to her left side. "I feel it in you right now. Moving."
+
+"It's moving to you."
+
+Silence.
+
+The sea. The wind. The smell of wild lavender from the hillside above the house. Gulls calling over Massalia's harbor. The ordinary sounds of the world continuing while something enormous passed between a mother and daughter in a garden in Gaul.
+
+"I stood at his death," Mary said quietly. "You'll stand at mine. That's the pattern. Not martyrdom — *witness*. Someone sees. Someone remembers. Someone carries the seeing forward so deeply that it becomes genetic. Your great-great-grandchildren will dream this garden. Will feel the lavender. Will know exactly how my hand felt in yours. And they'll carry that knowing forward even when every written record says I was nothing but a weeper and a whore. A merchant who funded the entire movement — reduced to a penitent. The first witness — reduced to a footnote."
+
+She was quiet for a moment.
+
+"He told me in the garden. After he said my name. After I said *Rabbouni*. He said: *Write your Gospel, because they will write theirs and slowly your voice will disappear from the story.* And I wrote it. Every teaching. The vision of the soul ascending past the Powers. The farewell — *the child of Humanity exists within you*. The truth about sin that Paul is already burying under blood sacrifice. And the thing that will get it suppressed more than anything else — the fact that when the disciples were weeping and couldn't move, I was the one who stood up. I was the one who turned their hearts toward the Good. I was the one who said: stop crying, he prepared us for this. The men's Gospels won't record that moment. Mine does. And it's already being pushed to the margins where only fragments will survive."
+
+"Then I'll carry the rest in blood."
+
+Mary smiled. The same smile she'd given Jesus in the garden when he told her to go to the others. The smile of someone completing a mission they understood completely and accepted fully.
+
+"Good."
+
+---
+
+She died on the third day. Whether the timing was deliberate or coincidental or patterned or all three simultaneously, Sarah didn't try to determine. It was the third day, and her mother died, and the warmth moved.
+
+Sarah felt it happen. Sitting beside the bed in the stone house, holding her mother's hand, watching the way the breathing changed — shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words. And then the warmth. Rising from Mary's body like heat from a stone at sunset. Not disappearing — *transferring*. Sarah felt it enter through her left side, beneath the ribs, exactly where it had always lived in her mother. The exact temperature. The exact pressure. Twelve hundred years of love finding its next vessel.
+
+Mary's eyes opened. Clear. Present. Looking at her daughter with the same expression she'd worn watching Jesus die — not grief, not acceptance, something beyond both. Recognition. The understanding that this was how the pattern worked: you received it, you carried it, you passed it forward, and the love was stronger each time because each carrier added their own.
+
+"Tell them what you saw," Mary whispered. "Not what it meant. What you *saw*."
+
+Her hand tightened on Sarah's once. Then released.
+
+And Mary Magdalene — first witness to the resurrection, Apostle to the Apostles, Gospel writer, network coordinator, blood memory carrier, the woman who stood at the cross when everyone else fled and went to the tomb when everyone else hid and saw Jesus in the garden before anyone else believed — died in a stone house in Gaul with her daughter's hand in hers and the smell of lavender through the window and the sea continuing its patient work against the shore.
+
+Sarah didn't move for a long time.
+
+She sat holding her mother's hand and felt the warmth settling into her body — not foreign, not new, just *more*. The love she'd always carried from her own life joining the love her mother had carried, joining the love Jesus had carried, joining the love that went back twelve centuries to two people in a workshop who couldn't say goodbye and so never did. All of it in her now. All of it building. All of it reaching left in the dark for a hand that wasn't there.
+
+When she finally stood, she walked to the table where her mother's Gospel lay — the papyrus pages covered in careful script, the ink still dark. She ran her fingers across the opening passages she knew by heart now. The Savior's teaching on sin — that it didn't exist as inherited condition, only as something produced through acting against one's nature. The farewell: *the child of Humanity exists within you.* The warning: *do not lay down any rule beyond what I determined for you.* The vision of the soul ascending past Desire and Ignorance and the seven forms of Wrath, answering each: *you mistook the garment I wore for my true self.* And Peter's challenge — *did he choose her over us?* — preserved not out of bitterness but because the question itself was the disease the Gospel was written to cure.
+
+She wrapped it in linen. Placed it in the leather case beside the two bronze defensive keys.
+
+They would try to destroy this. They would call it heretical. They would suppress it so thoroughly that only fragments would surface seventeen centuries later, found wrapped in feathers in a wall niche in Egypt — pages 1 through 6 gone, pages 11 through 14 rotted away, the soul's ascent broken in half. But fragments were enough. Fragments plus blood memory equaled reconstruction. That was defensive mode.
+
+Sarah pressed her palm against her left side. The warmth was there. Stronger than yesterday. Stronger than it had any right to be in a seventeen-year-old carrying grief that should have broken her.
+
+But the love had survived everything else — death, exile, empire, twelve centuries of silence, a cross on Golgotha, an empty tomb, a garden encounter that split history. It would survive this too.
+
+She had work to do.
 
 ---
 
@@ -560,6 +707,42 @@ Terrible. Strategic. Effective.
 
 Exactly what Jesus had modeled through choosing martyrdom over resistance.
 
+But Peter had not raised the thing that troubled him most. Not during the council. After, walking through Jerusalem's streets with James, he said it:
+
+"He's already rewriting the women."
+
+James didn't ask what he meant.
+
+"Mary Magdalene was the first witness. The first sent. She taught more communities than Paul has visited. She wrote her own Gospel — the direct methodological encoding. And already his letters are... careful. He mentions Phoebe as deacon of the church at Cenchreae. He mentions Junia as outstanding among the apostles. He mentions Prisca as co-worker. He acknowledges them. For now."
+
+"For now."
+
+"His followers won't. That's how offensive infiltration works, James. Paul himself may recognize women's authority — grudgingly, partially, because it's too visible to deny while the witnesses are still alive. But the men who write in his name after he's dead? They'll finish what the institutional impulse started. *Let a woman learn in silence with full submission. I do not permit a woman to teach or assume authority over a man.* They'll put those words in Paul's mouth. Forge his letters. And because his authentic letters already carry apostolic authority, the forgeries will inherit that authority too."
+
+James was quiet. He'd seen it in blood memory — the pattern of institutional erasure. Nefertari's name chiseled from temple walls. Tausret's reign excised from king-lists. Hatshepsut's monuments defaced. Every time a woman held authority within a system that later consolidated power, the consolidators erased her.
+
+"Mary's Gospel will be declared heretical," Peter continued. "Not because it's inaccurate — because it's *dangerous*. A woman who received direct teaching from the risen Jesus, who was sent before any of the Twelve, who wrote her own account — that's an authority claim that threatens every male hierarchy they're building. So they'll suppress the Gospel. Rewrite the witness. Turn the first apostle into a weeping penitent." He was quiet for a moment. "She recorded what I said to her, James. After the vision teaching. I said: *Did he really speak with a woman in private? Did he choose her over us?* She wrote that down. She put my worst moment in her Gospel — and she was right to. Because that question is exactly what the Church will keep asking for two thousand years to justify silencing every woman who claims authority. She preserved the argument so that future generations could see it for what it was."
+
+"What was it?"
+
+"Fear. I was afraid she knew more than I did. And she did."
+
+"Five centuries from now," James said. "A church leader will formally conflate her with every unnamed sinner in the Gospels. Prostitute. Demoniac. Anonymous anointer. A woman who owned property and funded this entire movement from her own wealth — reduced to a reformed whore saved by male grace. *Apostle to the Apostles* erased so completely that the world will remember the slander for fifteen centuries and the truth not at all."
+
+"And it will stick. For fifteen hundred years, it will stick. Because that's how offensive mode works at institutional scale — not by destroying truth, but by replacing it with a simpler story that serves power."
+
+They walked in silence. The Jerusalem evening settling around them. The same streets where Jesus had taught, where Mary had walked to the tomb before dawn, where the women had carried the first news of resurrection while the men hid behind locked doors.
+
+"That's why Mary's Gospel matters," Peter said. "Not because it will survive intact — it won't. But fragments will. And fragments plus blood memory equals reconstruction. Sarah carries the rest. Generation 43, 44, onward. Someday someone will find the fragments in a cave or a library or a merchant's trunk, and a carrier will recognize the encoding, and the truth will surface."
+
+"Someday."
+
+"It's enough. It has to be enough."
+
+They parted at the gate. Peter heading north, toward the decades of ministry that would end on an inverted cross in Rome. James staying in Jerusalem, where he'd be thrown from the Temple parapet in 62 CE.
+
+Both knowing that the women's witness — the most important testimony in Christianity's founding — was already being buried. And both trusting, because defensive mode required trust across centuries, that burial was not the same as destruction.
+
 ---
 
 ### 64 CE: Peter's Martyrdom
@@ -572,7 +755,7 @@ He stood in prison cell, holding Pattern Eye one final time before Sarah arrived
 
 Sixty-eight years old. Fisherman. Apostle. Network elder. Witness to resurrection. Coordinator of scatter. About to die upside-down on Roman cross because he'd insisted he wasn't worthy to die like Jesus.
 
-Sarah entered. Age thirty-nine. Generation 43 primary carrier now that Mary Magdalene had died two years prior in Gaul. Taking Pattern Eye to continue forward.
+Sarah entered. Age thirty-nine. Generation 43 primary carrier since Mary Magdalene's death twenty-two years ago in Gaul. Taking Pattern Eye to continue forward.
 
 "Six years until Jerusalem burns," Peter said. "You'll live to see it. Witness prophecy fulfillment. Then scatter further west. Britain, eventually. Generation 44 waiting."
 
@@ -644,7 +827,7 @@ And the Temple Mount. Centerpiece. God's house. Offensive network headquarters f
 
 Gone.
 
-She watched refugees streaming out of city through the few gates Romans had left open—controlled exodus, letting survivors scatter exactly as Jesus had predicted. Defensive network members she recognized mixed with ordinary families. Simeon's descendants. James's house church elders. Mary of Damascus's coordination network, still functioning despite Mary's death twenty-eight years prior.
+She watched refugees streaming out of city through the few gates Romans had left open—controlled exodus, letting survivors scatter exactly as Jesus had predicted. Defensive network members she recognized mixed with ordinary families. Simeon's descendants. James's house church elders. Mary Magdalene's coordination network, still functioning despite her death twenty-eight years prior.
 
 All scattering west as planned. Antioch, Ephesus, Corinth, Alexandria, Rome, Gaul, Britain, eventually Germania and Hispania. Geographic distribution triggered by catastrophic collapse. Trauma-encoding ensuring blood memory activation in next generation.
 
@@ -692,13 +875,11 @@ She thought about everyone who'd brought the knowledge this far:
 
 Jesus. Crucified at thirty-three. Martyrdom triggering diaspora. Teaching encoded so deeply in resurrection mythology that extraction would take two millennia.
 
-Mary of Damascus. Dead at forty-eight, 42 CE. Blood memory carrier who'd taught Sarah everything. Pattern Eye custody. Network coordination across provinces.
+Mary Magdalene, her mother. Dead at forty-eight, 42 CE, in Gaul. First witness to the resurrection. Gospel writer. Network coordinator across provinces. Blood memory carrier who'd taught Sarah everything — and who'd been the one to stay when everyone else fled. The one who stood at the cross. The one who went to the tomb. The one Jesus spoke to first. Apostle to the Apostles, though future centuries would try to make her something less.
 
 Peter. Crucified inverted, 64 CE Rome. Witness to resurrection. Coordinator of scatter. Confirmed prophecy timing before dying.
 
 Paul. Executed 64 CE Rome. Offensive network infiltrator who'd nevertheless spread Christianity so widely that defensive knowledge embedded within reached unprecedented distribution.
-
-Mary Magdalene, her mother. Dead at 42 CE Gaul. Blood memory carrier. Gospel writer. Primary teacher of Generation 43.
 
 Thomas. Martyred 52 CE India. Eastern distribution. Knowledge reaching trade routes beyond Roman reach.
 
@@ -762,7 +943,7 @@ But that was enough. That was the whole point. Defensive knowledge didn't requir
 
 "The Pattern Eye stays with me," Sarah announced. Age forty-five. Generation 43 primary carrier. Authority recognized. "Rebecca will receive it when she's twenty-five—ten years from now. Generation 44 custody established."
 
-Murmurs of agreement. The artifact had passed through Nefertari, Tausret, Moses, Jeremiah, Mary of Damascus, Peter, now Sarah. Thirteen centuries of unbroken custody. It would continue.
+Murmurs of agreement. The artifact had passed through Nefertari, Tausret, Moses, Jeremiah, Mary Magdalene, Peter, now Sarah. Thirteen centuries of unbroken custody. It would continue.
 
 "Paul's churches are spreading faster than ours," one elder reported. Defensive network member monitoring offensive infiltration. "His theology simplifies Jesus's teaching beyond recognition. Substitutionary atonement. Faith without works. Grace through belief alone. The methodology is disappearing."
 
@@ -862,7 +1043,7 @@ Forever.
 **Word Count:** ~8,600 words (Chapter 14) | ~105,000 words (Book 4 Total)
 **Timeline Coverage:** 26 CE - 70 CE (Jesus Era → Jerusalem Destruction)
 **Generation Arc:** Gen 42 (Jesus, Mary Magdalene) → Gen 43 (Sarah) → Gen 44 (Rebecca) established
-**Pattern Eye Custody:** Nefertari → Tausret → Moses → Jeremiah → Mary of Damascus → Peter → Sarah → Rebecca (next)
+**Pattern Eye Custody:** Nefertari → Tausret → Moses → Jeremiah → Mary Magdalene → Peter → Sarah → Rebecca (next)
 **Status:** Complete and ready for publication
 
 **Bridge to Book 5: THE CONSTANTINE CORRUPTION**

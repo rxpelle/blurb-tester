@@ -12,7 +12,7 @@
 
 Mary woke screaming.
 
-Not here. Not Magdala. Not the small rented room above the fish-seller's shop where she lived with her daughter.
+Not here. Not Magdala. Not the stone house on the hill above the salting works where she lived with her daughter.
 
 *Pi-Ramesses.*
 
@@ -40,7 +40,7 @@ But it felt like her memory. Tasted like her memory. The sensory details were to
 
 "Mama?"
 
-The small voice cut through the vision like cold water. Mary gasped, the city dissolving. She was back in Magdala. In her rented room. Dawn light filtering through shutters. Her daughter Sarah—three years old, dark curls tangled from sleep—standing beside the sleeping mat, frightened.
+The small voice cut through the vision like cold water. Mary gasped, the city dissolving. She was back in Magdala. In her room. Dawn light filtering through shutters. Her daughter Sarah—three years old, dark curls tangled from sleep—standing beside the sleeping mat, frightened.
 
 "You were screaming again," Sarah whispered.
 
@@ -52,61 +52,61 @@ Sarah didn't look convinced. She was too young to understand what was happening 
 
 Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier—fragmented images of a woman fleeing burning cities during the Bronze Age Collapse, joining a network of families who taught her to recognize pattern before chaos.
 
-Mary had told herself it was stress. Exhaustion from single motherhood in a town that treated unmarried mothers like moral failures. Anxiety about money—fish-selling barely paid rent, and Sarah needed food, clothes, eventually education.
+Mary had told herself it was a condition of the body. Something inherited, like her mother's weak lungs or her grandfather's tremor. A sickness without a name — not of the spirit but of the blood. The episodes came like seizures: sudden, involuntary, leaving her disoriented and exhausted afterward. She'd consulted physicians in Tiberias who spoke of imbalances, of the brain pressing against itself, but none could explain why her seizures carried visions of cities she'd never seen.
 
 But the visions kept getting stronger. More detailed. More real.
 
 Two months ago, Mary had collapsed in the marketplace. Daytime vision, violent and sudden. She'd been buying bread when the world shifted and she was somewhere else—*somewhen* else—watching Babylon burn while network families scattered west, carrying fragments of knowledge in their blood and their children.
 
-She'd woken to find a crowd surrounding her. The baker's wife crossing herself against demons. A Pharisee muttering about unclean spirits. Her friend Joanna looking terrified.
+She'd woken on the ground to find a crowd surrounding her. The baker's wife backing away. A Pharisee muttering about unclean spirits. Her friend Joanna kneeling beside her, frightened.
 
-The whispers had started that day: *Possessed. Seven demons. Madness runs in her family—her mother had it too.*
+The whispers had started that day: *Possessed. Seven demons. Madness runs in her family—her mother had it too.* It didn't matter that Mary owned a house and three salting vats and employed a dozen workers. It didn't matter that she'd funded the synagogue's new reading room or kept two widows fed through winter. Wealth couldn't protect you from a community that had decided your illness was spiritual corruption.
 
 "Mama, are you crying?" Sarah's small hand touched Mary's wet cheek.
 
 "No, sweet one. Just tired." Mary wiped her eyes. "Let's get breakfast. Then you can play with Joanna's children while I work."
 
-If Joanna would still let Sarah near her children. Mary wasn't certain anymore. The demon-possession rumors were spreading. Respectable families were keeping distance.
+If Joanna would still let Sarah near her children. Mary wasn't certain anymore. The demon-possession rumors were spreading. Even families who'd accepted her charity were keeping distance now.
 
-Mary stood, joints protesting. Twenty-eight years old but her body felt ancient. The visions were exhausting—not physically, but they drained something essential. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
+Mary stood, joints protesting. Twenty-eight years old but her body felt ancient. The episodes were exhausting—not physically, but they drained something essential. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
 
-She dressed Sarah, then herself. Simple clothes, worn but clean. She couldn't afford the dyes and fabrics that marked wealth, but she could maintain dignity through cleanliness and repair work.
+She dressed Sarah, then herself. Good linen, indigo-dyed — the clothes of a woman who ran her own business in a town built on fish. Mary's father had left her three salting vats, a stone warehouse near the harbor, and contracts with fishing crews along the northern shore. She'd expanded the operation after his death, hiring workers, negotiating directly with merchants who shipped salted fish as far as Damascus and Jerusalem. Magdala — *Tarichaea*, the Romans called it, the place of salted fish — was prosperous, and Mary had been one of its more successful merchants.
+
+Until the episodes started driving her workers away.
 
 Outside, Magdala was waking. Fishing boats returning from night work on the lake. Market vendors setting up stalls. The smell of fresh-caught fish mixing with bread baking and the ever-present scent of water and mud that defined lakeside towns.
 
-Mary walked toward the fish-seller's stall where she worked—gutting, salting, preparing catches for sale. Brutal work. Her hands were permanently stained, nails broken, skin cracked from salt. But it paid enough to keep her and Sarah fed and housed.
+Mary walked toward the salting works — her salting works — where the morning's catch would already be arriving. Her foreman Tobias had been managing the operations on days when Mary couldn't function, which was most days now.
 
-Barely.
-
-"Mary!" The fish-seller—Tobias, sixty years old, weathered like driftwood—waved her over. His expression was uncomfortable. "Can we talk?"
+"Mary." Tobias — sixty years old, weathered like driftwood, her foreman since her father's time — approached with the careful posture of a man delivering bad news. "Can we talk?"
 
 Mary's stomach dropped. She knew that tone. That careful distance.
 
-"Joanna won't watch Sarah today," Tobias said quietly. "She's—she asked me to tell you. The rumors. She's concerned."
+"Three more workers quit this morning," Tobias said quietly. "And Joanna sent word — she won't watch Sarah today. The rumors. She's concerned."
 
 "Concerned about demons," Mary said flatly.
 
-"She's concerned about her children's safety. You collapsed again yesterday. In the synagogue this time. Started speaking in languages nobody recognized."
+"You collapsed again yesterday. In the synagogue this time. Started speaking in languages nobody recognized." He rubbed the back of his neck. "The workers are frightened, Mary. They think you're cursed. They think working for you will bring it on their families."
 
-Mary closed her eyes. She didn't remember collapsing yesterday. But the visions were coming so frequently now that hours disappeared into blood memory and she'd surface with no recollection of what her body had done while her mind was twelve centuries away.
+Mary closed her eyes. She didn't remember collapsing yesterday. But the episodes were coming so frequently now that hours disappeared into blood memory and she'd surface with no recollection of what her body had done while her mind was twelve centuries away.
 
-"I'm not possessed," Mary said. "I'm not dangerous."
+"I'm not possessed," Mary said. "I'm not dangerous. It's an illness, Tobias. Like my mother's."
 
-"I know." Tobias's voice was gentle. "But I can't have you working the stall if you're collapsing during business. It frightens customers. And if you can't work—"
+"I know." Tobias's voice was gentle. "But I can't keep the operation running with a crew that's afraid to show up. You've lost half your workers in two months. The merchants are starting to take their catches to other salters."
 
-"You can't pay me. I understand."
+"I'll hire new workers. Offer higher wages—"
 
-"Mary, I'm sorry. If there was another way—"
+"It's not about wages. It's the fear. Nobody wants to work for a woman the town thinks is possessed." He paused, miserable. "I'll stay. I owe your father that much. But I can't make others stay."
 
-"There isn't. It's fine." Mary turned away before he could see her face. "I'll clear out my things from the storage room."
+"I know, Tobias. Thank you for staying." Mary turned away before he could see her face.
 
-She had maybe three weeks of savings. Enough to cover rent and food if she stretched it carefully. Then she'd be out on the street with a three-year-old daughter and a reputation for demon possession that made her unemployable.
+She wasn't poor. She had the house, the warehouse, savings from years of good business. Money wasn't the problem. The problem was that wealth meant nothing when your community had decided you were cursed. You could own half the salting vats in Magdala and still be untouchable if people believed demons spoke through your mouth.
 
-Sarah was playing near the water's edge, throwing pebbles. Unaware that their life had just collapsed.
+Sarah was playing near the water's edge, throwing pebbles. Unaware that their world was shrinking.
 
-Mary sat on the dock, mind racing through options. She could leave Magdala. Try another town where the rumors hadn't spread. But she had no money for travel. No family to shelter her—her mother had died five years ago, her father even earlier. No husband—Sarah's father had been a merchant passing through, gone before Mary realized she was pregnant.
+Mary sat on the dock, mind racing through options. She could leave Magdala. Try another town where the rumors hadn't spread. She had the means to travel — that wasn't the issue. But she had no family to shelter her — her mother had died five years ago, her father even earlier. No husband — Sarah's father had been a merchant passing through, gone before Mary realized she was pregnant. And wherever she went, the episodes would follow.
 
-She could seek help from the synagogue. But the Pharisees who ran local charitable distributions already looked at her with suspicion. Unmarried mother. Visions. Possible demon possession. They'd demand exorcism as a condition of assistance.
+She could seek help from the synagogue. But the Pharisees already looked at her with suspicion. Unmarried woman of independent means. Visions. Possible demon possession. They'd demand exorcism as a condition of any assistance.
 
 Mary had tried exorcism. Twice. The first time, a local healer had recited prayers and burned herbs and declared her cleansed. The visions continued. The second time, a traveling exorcist from Jerusalem had performed elaborate rituals involving salt and oil and invoking divine names. That night, Mary had dreamed Pi-Ramesses burning so vividly she'd woken with the smell of smoke in her hair.
 
@@ -118,7 +118,7 @@ Mary was starting to think she'd follow the same trajectory. Die young, mind sha
 
 *There has to be another explanation,* Mary thought desperately. *Visions this detailed can't be random madness. The patterns are too consistent. The historical details too accurate.*
 
-She'd tried asking the synagogue teachers. Described the city she kept seeing—Pi-Ramesses, grid pattern, four quarters, Nile Delta location. The rabbi had looked disturbed. Said Pi-Ramesses was real, capital of Egypt during Ramesses II's reign, but it had been abandoned over a thousand years ago. How did an illiterate fish-seller's assistant know architectural details of a city that didn't exist anymore?
+She'd tried asking the synagogue teachers. Described the city she kept seeing — Pi-Ramesses, grid pattern, four quarters, Nile Delta location. The rabbi had looked disturbed. Said Pi-Ramesses was real, capital of Egypt during Ramesses II's reign, but it had been abandoned over a thousand years ago. How did a fish-merchant from Magdala know architectural details of a city that didn't exist anymore?
 
 Mary didn't have an answer. Only that she saw it. Experienced it. Remembered it with an intensity that made her present life feel like the dream and the visions feel like reality.
 
@@ -126,11 +126,9 @@ Mary didn't have an answer. Only that she saw it. Experienced it. Remembered it 
 
 Mary forced a smile, examining the shells with theatrical enthusiasm. "Beautiful, little one. Let's save them."
 
-"Can we afford shells?" Sarah asked with a three-year-old's blunt pragmatism.
+"Can we keep them?" Sarah asked with a three-year-old's earnestness.
 
-Mary's heart broke a little. Her daughter shouldn't have to think about affording things. But poverty taught everyone economics early.
-
-"Shells are free," Mary said. "We can always afford beautiful things that the lake gives us."
+"Always," Mary said. "We can always keep beautiful things that the lake gives us."
 
 Sarah seemed satisfied. She settled beside Mary, arranging shells in patterns on the dock.
 
@@ -148,7 +146,7 @@ Even if that meant traveling with no money and a small child. Even if it meant r
 
 Because the alternative—slowly losing her mind while Sarah watched her mother deteriorate into madness—was unacceptable.
 
-Mary stood, decision crystallizing. "Sarah, we're going on a trip."
+Mary stood, the resolve hardening. "Sarah, we're going on a trip."
 
 "Where?"
 
@@ -160,7 +158,7 @@ Mary stood, decision crystallizing. "Sarah, we're going on a trip."
 
 Three days later, Mary heard about the teacher.
 
-She was in Magdala's marketplace—not working now, just buying the cheapest bread she could find with rapidly dwindling coins—when she overheard two fishermen talking.
+She was in Magdala's marketplace — buying supplies for a household that was beginning to feel like a fortress, the walls closing in as neighbors crossed to the other side of the street — when she overheard two fishermen talking.
 
 "—five thousand people," one was saying. "I'm telling you, I was there. Never seen crowds that large for a religious teacher."
 
@@ -196,17 +194,17 @@ But *pattern recognition*. That specific phrasing. That wasn't typical religious
 
 And if this teacher was talking about seeing connections, about understanding systems, about patterns that others missed—maybe he understood what was happening to her. Maybe he could explain why she saw Pi-Ramesses like she'd lived there personally. Maybe he knew what the visions meant.
 
-Mary walked back to her rented room, mind churning through logistics.
+Mary walked back to her house, mind churning through logistics.
 
-Capernaum was eight miles north along the lake shore. Walking distance, technically, but not with a three-year-old child. She could hire a cart, but that cost money she didn't have. She could walk, but Sarah would tire after two miles and need to be carried.
+Capernaum was eight miles north along the lake shore. She could hire a cart — money wasn't the issue. But the thought of arriving at a stranger's teaching with a three-year-old in tow, the merchant-woman from Magdala who spoke in tongues and collapsed in public — the humiliation of it stopped her.
 
 And even if she reached Capernaum, then what? Approach this teacher in front of crowds and say what? "I see cities from twelve hundred years ago and I think I'm losing my mind, can you help?"
 
 He'd call for exorcists. Everyone did.
 
-But the alternative was staying in Magdala, unemployed, watching her savings run out while the visions intensified and the community's fear of her grew until someone decided demon possession needed harsher intervention than prayer.
+But the alternative was staying in Magdala, watching her business collapse while the episodes intensified and the community's fear of her grew until someone decided demon possession needed harsher intervention than prayer.
 
-Mary had heard stories. Women beaten to drive out demons. Imprisoned for their own protection. In extreme cases, stoned if the possession seemed dangerous enough.
+Mary had heard stories. Women beaten to drive out demons. Imprisoned for their own protection. Wealth was no shield — it could even accelerate the danger, because a possessed woman with property was a woman whose property the community might decide to redistribute for her own good.
 
 She wasn't going to wait for Magdala to decide she was dangerous.
 
@@ -262,7 +260,7 @@ Mary stood slowly, pulse accelerating. "How did you—"
 
 Mary felt the world tilt. "What?"
 
-"Your name is Mary, yes? From Magdala. Fish-seller until recently. Daughter named Sarah. You started seeing visions at age seven, intensified after childbirth. Pi-Ramesses mostly. Sometimes Babylon. Occasionally earlier collapses during the Bronze Age."
+"Your name is Mary, yes? From Magdala. You run a salting business — or you did, before the episodes drove your workers away. Daughter named Sarah. You started seeing visions at age seven, intensified after childbirth. Pi-Ramesses mostly. Sometimes Babylon. Occasionally earlier collapses during the Bronze Age."
 
 Mary's legs went weak. She sat back down on the wall before she fell. "How do you know that?"
 
@@ -276,7 +274,7 @@ Mary stared at him. "Are you reading my thoughts?"
 
 "I'm reading the pattern. I've seen this before—other carriers who don't understand their inheritance. They think they're going mad because nobody's explained blood memory to them." He paused. "Your mother had visions too. Died young?"
 
-"Thirty-four. She—" Mary's voice broke. "She used to wake screaming the same way I do. The community said demons ran in our family. That I'd inherited her curse."
+"Thirty-four. She—" Mary's voice broke. "She had the same episodes. Seizures and visions. She'd describe cities she'd never visited in detail that frightened the physicians. The community said demons ran in our family. That I'd inherited her curse. But it wasn't a curse. It was an illness — the same illness, passed from mother to daughter."
 
 "You inherited her bloodline. Carrier genetics. The visions are blood memory—epigenetic inheritance across forty-two generations. Your ancestor was there when Pi-Ramesses fell. She survived because she joined a network of families who taught her to recognize collapse patterns. That knowledge got encoded in her blood, passed down through children, strengthened each generation. By the time it reached you, the memories are vivid enough to feel like present experience."
 
@@ -302,17 +300,17 @@ She was carrying memory. Inherited memory from ancestors who'd survived catastro
 
 Mary looked at her daughter. Sarah had fallen asleep against her shoulder, exhausted from the long walk.
 
-"I can barely afford food," Mary said quietly. "I just lost my job. I have three silver coins left and no family to shelter me. Even if what you're saying is true—even if I'm not possessed—I don't have the resources to learn anything. I need to find work. Feed my daughter. Survive."
+"I have a business in Magdala," Mary said quietly. "A house. Workers — fewer every week, but still. A life I built. If I stay here learning, that falls apart. And Sarah needs stability, not a mother chasing explanations."
 
-Jesus was quiet for a moment. Then: "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They provide support for carriers who are awakening to blood memory. Housing, food, community. In exchange, you'd learn. Train. Eventually teach others."
+Jesus was quiet for a moment. Then: "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have — resources, organizational ability, someone who understands how to manage people and supply chains. And you need what they have: context for what's happening to you."
 
-"I can't pay—"
+"You want my money," Mary said flatly. She'd heard enough traveling teachers to recognize the pattern.
 
-"The network doesn't work on payment. It works on distribution. Knowledge shared, resources pooled, everyone teaching everyone. Defensive mode." He stood. "But it's your choice. You can return to Magdala, try to suppress the visions, hope you don't collapse again in public. Or you can stay in Capernaum, learn what the blood memory means, discover what you're capable of when you understand the inheritance."
+"I want your mind. The resources help — I won't pretend otherwise. We're a teaching network funded by the families who benefit from it. But what I actually need is a carrier with strong blood memory, a talent for systems thinking, and enough independence to travel and teach without asking a husband's permission." He stood. "Your choice. You can return to Magdala, try to suppress the episodes, hope you don't collapse again in public. Or you can stay in Capernaum, learn what the blood memory means, and bring your resources to a network that will use them to help other carriers like you."
 
 Mary looked at the house behind him. At the fishing nets. At the lake stretching blue and vast under afternoon sun.
 
-She thought about returning to Magdala. The rumors. The unemployment. The fear in her neighbors' eyes. The certainty that eventually someone would decide her demon possession required violent intervention.
+She thought about returning to Magdala. The rumors. The emptying warehouse. The fear in her neighbors' eyes. The certainty that eventually someone would decide her episodes required violent intervention.
 
 Then she thought about her mother. Dying at thirty-four, mind shattered by visions she couldn't understand, calling out for people who'd been dead for centuries.
 
@@ -342,7 +340,9 @@ It should have felt insane. Should have triggered every survival instinct that s
 
 But instead, it felt like coming home.
 
-Simon—the fisherman who owned this house—had welcomed her and Sarah without question. Gave them a guest room, provided dinner, treated them like expected family rather than desperate refugees. His wife Anna fussed over Sarah, already working on finding children's clothes that would fit better than the worn things Mary had carried from Magdala.
+Simon—the fisherman who owned this house—had welcomed her and Sarah without question. Gave them a guest room, provided dinner, treated them like expected guests rather than the cursed woman from Magdala. His wife Anna fussed over Sarah with the easy warmth of someone who had raised children of her own.
+
+Within a week, Mary had sent Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds were funding the teaching network — food, lodging, travel for carriers being gathered from across Galilee. She'd run a business; she knew how to feed people, manage supply lines, stretch resources. Jesus taught. Mary made it possible for everyone to be there to learn. Joanna — the wife of Chuza, Herod's household manager — and Susanna did the same, three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
 The twelve men were disciples, Jesus explained. Network descendants who'd been training with him for two years. They understood fragments of the defensive knowledge their families had preserved across generations, but most had never experienced blood memory directly.
 
@@ -454,7 +454,7 @@ Mary hesitated, then closed her eyes. Immediately, Pi-Ramesses tried to surface.
 
 The vision receded. Not gone—still there, waiting—but distant. Manageable.
 
-She opened her eyes, gasping slightly.
+She opened her eyes, gasping.
 
 "Better?" Jesus asked.
 

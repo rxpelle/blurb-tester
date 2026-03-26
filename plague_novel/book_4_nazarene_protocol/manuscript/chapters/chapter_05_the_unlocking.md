@@ -310,7 +310,7 @@ Mary stood before sixty women in Simon's expanded compound, demonstrating Protoc
 
 "Blood memory is always present," she explained, her voice carrying across the courtyard. "But most carriers experience it as intrusive visions. Random. Overwhelming. What separates reactive experience from intentional access is training."
 
-Sarah sat in the front row, age five, watching her mother teach with the intense focus that marked strong carrier genetics. Around her, women of varying ages—fishermen's wives, merchants' daughters, several prostitutes from Magdala who'd heard Mary's story and recognized their own unexplained visions as blood memory awakening.
+Sarah sat in the front row, age five, watching her mother teach with the intense focus that marked strong carrier genetics. Around her, women of varying ages — fishermen's wives, merchants' daughters, laborers from the salting works — women from across Galilee who'd heard Mary's story and recognized their own unexplained visions as blood memory awakening.
 
 "Close your eyes," Mary instructed. "Let a vision surface. Don't fight it. Just observe."
 

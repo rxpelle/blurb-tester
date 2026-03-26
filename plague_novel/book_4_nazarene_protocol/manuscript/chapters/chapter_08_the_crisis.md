@@ -294,7 +294,7 @@ Marcus listened to the conversations around him.
 
 "They say he healed a blind man in Bethsaida."
 
-"I heard he cast out seven demons from a woman in Magdala."
+"I heard he cured a woman in Magdala — seizures, visions, the whole town thought she was possessed. Seven demons, they said."
 
 "My cousin says he's the Messiah. Says he'll drive out the Romans at Passover."
 
