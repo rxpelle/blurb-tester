@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 11 revised to 8/10)
+**Last updated:** 2026-03-26 (Ch 12 revised to 8/10)
 
 ## Scorecard
 
@@ -18,11 +18,11 @@
 | Ch 9: The Keys Gathered | 5 | 4 | 5 | 4 | 5 | **5** |
 | Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
 | Ch 11: The Betrayal | 8 | 8 | 8 | 7 | 7 | **8** |
-| Ch 12: The Execution | 7 | 7 | 7 | 6 | 6 | **7** |
+| Ch 12: The Execution | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 7.7/10**
+**Manuscript average: 7.8/10**
 
 ---
 
@@ -104,8 +104,8 @@ Most frustrating — best exchange and worst repetitions. Mary challenging Jesus
 ### Ch 11: The Betrayal — 8/10 (revised from 5)
 Two passes. Cut from 7 scenes to 5, ~8,200 to ~4,800 words. Scene 3 (military briefing with bolded headers) and Scene 7 (Temple interrogation/Malchus — overlaps Ch 12) cut entirely. All 7 "Not X. Y." constructions eliminated. All parable decodings cut ("Three servants. Generations 39, 40, 41"). All Last Supper decodings cut ("Surface question: theological challenge"). Scattering compressed from 80 lines to 20. Sukkot sensory detail added (roasting lamb, citron, lulav rattling like bones, shofar cutting through festival noise). Marcus given Thracian cohort memory ("watching men he'd trained walk into deaths he could have prevented"). Sarah watching adults over cup rim. Judas's suicide preserved — strongest section, elegantly restrained. Remaining gap to 9: chapter covers enormous ground (festival → parable → supper → arrest → scattering → suicide) and the parable is necessarily familiar territory.
 
-### Ch 12: The Execution — 7/10
-Strongest second-half chapter. Crucifixion prose has genuine power — physicality earned. Mary's vigil is the manuscript's best sustained writing. Marcus finally shows cracks. Jesus's personal flashbacks work because they're personal, not generational. Simon of Cyrene's "Thank you" is exactly the right length.
+### Ch 12: The Execution — 8/10 (revised from 7)
+One pass. Cut from ~8,500 to ~4,500 words. Scene 1 recap of Ch 11 (Judas/scattering/network logistics) cut entirely. Scene 5 Jesus internal (entire martyrdom thesis restatement) cut — Scene 6 personal memories do this better. Scene 8 flash-forward (garden encounter, empty tomb, "Apostle to the Apostles") cut — belongs in Ch 13 where it lands fresh. All "Not X. Y." constructions eliminated. Pilate narrator commentary stripped. Procession prophecy decoding cut. Crucifixion physicality preserved — "metal on metal, then the wet sound underneath." Mary's vigil line preserved — "held him with her eyes instead." Marcus's cramped fingers. Jesus's personal memories (Nefertari's workbench, mother singing, Sarah's shells). Simon of Cyrene's "Thank you." Remaining gap to 9: the crucifixion sequence is necessarily familiar territory and resists fresh angles.
 
 ### Ch 13: The Resurrection — 6/10
 Garden encounter is the emotional peak of the novel. Caiaphas monologue is the most significant misstep — essay disguised as fiction. Empty tomb told three times. Resurrection-as-multiple-truths is sophisticated but stated fifteen times.
