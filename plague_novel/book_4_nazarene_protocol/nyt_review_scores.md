@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 5 revised to 9/10)
+**Last updated:** 2026-03-26 (Ch 6 revised to 8/10)
 
 ## Scorecard
 
@@ -12,7 +12,7 @@
 | Ch 3: The Baptism | 8 | 8 | 8 | 7 | 8 | **9** |
 | Ch 4: The Teaching Begins | 8 | 8 | 9 | 7 | 8 | **9** |
 | Ch 5: The Unlocking | 8 | 8 | 8 | 7 | 9 | **9** |
-| Ch 6: The Resistance | 6 | 7 | 7 | 5 | 7 | **6** |
+| Ch 6: The Resistance | 8 | 8 | 8 | 7 | 8 | **8** |
 | Ch 7: The Teachings Spread | 5 | 5 | 5 | 5 | 6 | **5** |
 | Ch 8: The Crisis | 6 | 6 | 7 | 5 | 6 | **6** |
 | Ch 9: The Keys Gathered | 5 | 4 | 5 | 4 | 5 | **5** |
@@ -22,7 +22,7 @@
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 6.7/10**
+**Manuscript average: 6.9/10**
 
 ---
 
@@ -86,8 +86,8 @@ Scene 4 (duplicate sermon) eliminated entirely — Pharisee confrontation merged
 ### Ch 5: The Unlocking — 9/10 (revised from 5)
 Scenes 5+6 cut entirely (offscreen Pattern Eye, time-skipped montage). Prophecy scroll reduced from full plot summary to fragments — Mary catches pieces (*scattering... west... generations inheriting...*) before a nosebleed forces her to stop. Physical cost added: pressing too deep causes bleeding, connecting to her mother's death at 34 ("And it would have killed you. The way it killed your mother"). Mary's fear of failing given teeth ("That's not comfort." / "No."). Scene 1 compressed by half. Journey compressed to 8 lines. Chapter now 4 tight scenes with dramatic unity around one event. Intellectual score highest (9) because the defensive-vs-offensive key design is the novel's most compelling idea and now lands without exposition bloat. Remaining gap to 10: Matthias is functional but not a character.
 
-### Ch 6: The Resistance — 6/10
-Best pacing in the mid-section. Barabbas confrontation is the standout. Marcus's resignation builds tension through restraint. Roman intelligence reads anachronistically bureaucratic. Matthias scene sounds CIA, not first-century.
+### Ch 6: The Resistance — 8/10 (revised from 6)
+Scenes 6+7 merged into single resignation-to-witness arc. Lucullus dialogue rewritten — "teaching thousands to govern themselves... a province learning to feed itself without us" replaces analytical language. Scene 2 (Temple observation) compressed from ~35 to ~15 lines. Matthias dialogue stripped of CIA vocabulary. Marcus given two-day internal struggle before warning Simon. Lucullus's resignation scene made colder ("protecting himself, not Marcus"). Sarah's over-precious seed dialogue cut — replaced with concrete image ("six-year-old arranging pebbles in the dirt"). Jesus's Barabbas argument tightened, "across generations" analytics removed. "Resistance cell," "threat level," "Empire" anachronisms fixed. Barabbas confrontation remains the chapter's standout. Remaining gap to 9: Matthias's offensive-network subplot still carries structural exposition that's hard to fully dramatize in one scene.
 
 ### Ch 7: The Teachings Spread — 5/10
 Weakest chapter overall. Dramatizes teaching process — undramatic. Parable → reaction → debrief → "But the deeper meaning is..." becomes numbing. Feeding of 5,000 makes Jesus a marketing strategist. "Blood memory" / "deeper layer" vocabulary deadening.

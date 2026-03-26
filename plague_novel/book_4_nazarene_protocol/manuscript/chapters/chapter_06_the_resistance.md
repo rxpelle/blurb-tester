@@ -26,9 +26,9 @@ Lucullus finally looked up. Lines carved around his eyes that hadn't been there 
 
 "Mary of Magdala. She's with him everywhere now. Leads a separate teaching circle for women. Maybe sixty regular attendees."
 
-"That's not preaching. That's organizing." Lucullus scratched a note on the tablet. "Female teaching circles suggest structure. Discipline. And in a culture where women don't teach publicly, it's deliberately provocative. Not just a wandering prophet anymore."
+"That's not preaching. That's organizing." Lucullus scratched a note on the tablet. "Female teaching circles suggest structure. Discipline. In a culture where women don't teach publicly, it draws complaints from the Temple and tells us he's deliberately provocative. Not just a wandering prophet anymore."
 
-Marcus said nothing. He'd filed reports on Mary for three years, and Lucullus was right — it was organized. But to Marcus, it looked like a teacher preparing others to carry on after him. The trouble was, that looked exactly like building a resistance movement to anyone watching from the Antonia Fortress.
+Marcus said nothing. He'd filed reports on Mary for three years. To him, it looked like a teacher preparing others to carry on after him. But that looked exactly like building a resistance movement to anyone watching from the Antonia Fortress.
 
 "Temple authorities are losing patience," Lucullus continued. "Caiaphas sent another petition yesterday. Third one this month. They want Jesus arrested for blasphemy and delivered to the Sanhedrin for trial."
 
@@ -58,13 +58,13 @@ Lucullus leaned back. "Pilate wants options. Arrest and trial is the Temple's pr
 
 "He'd refuse."
 
-"Then we're left with monitoring until he becomes an unacceptable threat level, then suppression." Lucullus met his eyes. "How dangerous is he, Centurion?"
+"Then we're left with watching until he becomes too dangerous to ignore." Lucullus met his eyes. "How dangerous is he, Centurion?"
 
 This question had haunted Marcus for three years. His gut twisted with the familiar nausea that came every time.
 
 "He's not organizing armed resistance. Not calling for tax rebellion. Not challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use —"
 
-"He's getting thousands of people to see the cracks in how things work," Lucullus interrupted, "and they're building their own communities instead of depending on ours. That's not common sedition, Scipio. Common sedition we can arrest. This is like people deciding they don't need Rome anymore. Harder to crush. More dangerous in the long run."
+"He's teaching thousands of people to govern themselves," Lucullus interrupted. "To settle disputes, share resources, build communities that don't need our courts or our roads or our grain. That's not common sedition, Scipio. Common sedition we can arrest. This is a province learning to feed itself without us. Harder to crush. More dangerous in the long run."
 
 "Then why haven't we arrested him already?"
 
@@ -80,43 +80,19 @@ Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centur
 
 ## SCENE 2: Observation
 
-Marcus found Jesus teaching in Solomon's Portico the next morning. His voice echoed off limestone walls still cool from the night air. Incense drifted from the inner chambers, mixing with the scent of olive oil from morning sacrifices and the press of unwashed bodies in the colonnade.
+Marcus found Jesus teaching in Solomon's Portico the next morning. Incense from the inner chambers mixed with olive oil from morning sacrifices and the press of unwashed bodies in the colonnade.
 
-Three years of teaching in Galilee — hillsides, lakeshores, places where informants were few. Now he was teaching in the Temple itself, where every word echoed into Roman reports.
+Three years of teaching in Galilee — hillsides, lakeshores, places where informants were few. Now he was teaching in the Temple itself, where every word echoed into Roman reports. It felt deliberate.
 
-It felt deliberate.
+The crowd was perhaps two hundred. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
 
-Marcus positioned himself at the edge of the colonnade. Roman soldiers in the Temple weren't unusual. He wanted to hear what Jesus was actually saying.
+Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But Marcus watched the faces. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. They were hearing something underneath.
 
-The crowd was perhaps two hundred people. Mostly Galileans who'd followed Jesus south. Some Jerusalem residents. A cluster of women sitting near the front — Mary of Magdala among them, holding her daughter Sarah's hand. The girl was six years old now, according to Marcus's records. Old enough to begin training in earnest.
+"I speak in parables," Jesus told a frustrated Pharisee, "so the teaching can survive even when people forget what it means."
 
-Jesus stood on the Temple steps, speaking in Aramaic with that Galilean accent that marked him as provincial to Jerusalem's educated class.
+Marcus felt his breath catch. That was the closest Jesus had ever come to admitting what he was doing — encoding meaning that would outlast the teacher. Parables as containers, designed to be opened later by someone sharp enough.
 
-"A sower went out to sow his seed," Jesus was saying. "Some fell on the path and was trampled, and birds ate it. Some fell on rock, and when it grew, it withered because it had no moisture. Some fell among thorns, and the thorns grew with it and choked it. But some fell on good soil and grew, producing a hundredfold."
-
-The familiar parable structure — simple story, deeper meaning. Marcus had read dozens in informant reports. Simple agricultural metaphors.
-
-But Jesus never stopped at the surface layer.
-
-"Listen carefully," Jesus continued. "The seed is the teaching. The path is people who hear but don't retain. The rock is people who receive enthusiastically but have no depth. The thorns are people who let anxieties choke the growth. But the good soil — those are people who hear, retain, and practice persistently. One seed becomes a hundred."
-
-Marcus glanced around the crowd. Most faces showed basic comprehension. But a few—Mary, several of the twelve, maybe six or seven others—had sharper expressions. They were hearing both layers.
-
-"Teacher," someone called from the crowd. Marcus knew him—one of the Pharisees who'd been monitoring Jesus for the Temple authorities. "You teach in parables. Why not speak directly? Why hide your meaning?"
-
-Jesus smiled slightly. "To those who see, more will be revealed. To those who don't, even what they think they understand will be taken away. I speak in parables so the teaching can survive even when people forget what it means."
-
-Marcus felt his breath catch. That was the closest Jesus had ever come to admitting what he was really doing — hiding deeper meaning inside simple stories. Parables that would persist even when people forgot what they meant. Waiting for someone sharp enough to hear the second layer.
-
-The Pharisee looked frustrated. "You speak in riddles."
-
-"I speak in patterns," Jesus corrected gently. "Those with eyes see them. Those with ears hear them. If you can't perceive the pattern in a simple seed parable, how will you understand the larger patterns I'm teaching about?"
-
-Several people in the crowd laughed. The Pharisee's face darkened, but he didn't respond.
-
-Marcus composed his report in his head, same as always. Technically accurate. Strategically misleading. The kind of report that kept a man alive without admitting why you wanted him alive.
-
-Five years of this. It was exhausting.
+He composed his report in his head, same as always. Technically accurate. Strategically misleading. Five years of this. It was exhausting.
 
 ---
 
@@ -148,7 +124,7 @@ Marcus filed that away. Barabbas. Known Zealot recruiter. Temple informants had 
 
 "That's cowardice!"
 
-"That's wisdom." Jesus's voice hardened. "You see resistance as a single battle. I see it across generations. Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Then your children revolt, and Rome kills a hundred thousand. Three generations from now, Jerusalem burns and the survivors scatter across the Empire."
+"That's wisdom." Jesus's voice hardened. "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Then your children revolt, and Rome kills a hundred thousand. Three generations from now, Jerusalem burns and the survivors scatter across the earth."
 
 Silence. The crowd had gone completely still.
 
@@ -182,33 +158,21 @@ Every report felt like delaying the inevitable.
 
 The man was waiting in Marcus's quarters when he returned that evening.
 
-Marcus saw him immediately—mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. Not military. Not Temple. Something else.
+Marcus saw him immediately — mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
 
-"Centurion Scipio." The man stood, offering the courteous nod of social equals. "My name is Matthias. I serve... various interests concerned with regional stability."
+"Centurion Scipio." The man stood, offering the courteous nod of social equals. "My name is Matthias. I serve certain interests you know of, though perhaps not this particular faction."
 
-Marcus's hand moved toward his gladius instinctively. "How did you get in here?"
+Marcus's hand moved toward his gladius. "How did you get in here?"
 
-"I have access." Matthias's tone was matter-of-fact. "I serve certain interests you know of, though perhaps not this particular faction."
-
-Marcus's mouth went dry. *Interests.* Not one group. Multiple. The words hit him like a blade through mail.
-
-The other side.
-
-"Get out," Marcus said, hand on his blade.
-
-"I will. After we talk." Matthias sat back down, uninvited. "You've been tracking Jesus of Nazareth for five years. Filing reports that consistently underestimate the threat level he represents. Omitting key details about bloodline markers and network affiliation. Protecting him."
+"I have access to places that would surprise you." Matthias sat back down, uninvited. "You've been tracking Jesus of Nazareth for five years. Filing reports that frame him as harmless. Omitting details about his following. Protecting him."
 
 Marcus said nothing.
 
-"You're working for the other side," Matthias continued. "Have been since Caesarea, five years ago. They taught you to see the signs — how things connect, where the cracks form. You recognized what Jesus was during the census and decided to shield him instead of reporting the truth."
+"Your reports are technically accurate — that's what makes them so skillful. But they consistently discourage aggressive response." Matthias smiled. "You've bought him almost three years longer than he would have survived otherwise."
 
-"I follow my orders."
+Marcus drew his gladius. "Get out."
 
-"You follow the orders you agree with and subtly sabotage the ones you don't. It's actually quite skillful—your reports are technically accurate but frame the threat in ways that discourage aggressive response." Matthias smiled. "I've been impressed, truly. You've bought him almost three years longer than he would have survived otherwise."
-
-Marcus drew his gladius. "I said get out."
-
-"Violence isn't necessary. I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. "I'm here with an offer. My people recognize Jesus's value. He carries the bloodline — Generation 42, full access to the old knowledge. His abilities are extraordinary. His method of teaching is brilliant. We want to bring him over to our side."
+"I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. "My people recognize Jesus's value. His method of teaching is brilliant. We want to bring him to our side."
 
 "He won't work for you."
 
@@ -248,7 +212,9 @@ He understood the trap. Understanding it didn't mean he could escape it.
 
 ## SCENE 5: Defensive Network Warning
 
-For two days Marcus searched for alternatives. He could find none. On the third night, with hours remaining before his answer was due, he rode to Capernaum.
+For two days Marcus searched for alternatives. He reviewed Matthias's connections — the man had ties to the Temple, to Herod's court, to Roman administrators Marcus had trusted. The network was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
+
+On the third night, with hours remaining before his answer was due, he rode to Capernaum.
 
 He found Simon at the docks, mending nets in the dark. The fisherman looked up as Marcus approached, unsurprised.
 
@@ -324,79 +290,43 @@ Marcus returned to Jerusalem three days later and submitted his resignation to T
 
 "Yes."
 
-Lucullus studied him. "You've been protecting him. Have been for years. Everything in your file about Jesus has been theater."
+Lucullus studied him for a long time. "You've been protecting him. Have been for years."
 
 Marcus said nothing.
 
-"I should prosecute you. Concealment. Dereliction. Treason." Lucullus set down his report and stared at it for a long moment. Something worked behind his eyes — duty warring with pragmatism, or perhaps just exhaustion. "But prosecuting you doesn't stop him teaching."
+"I should prosecute you. Concealment. Dereliction. Treason." Lucullus set down his tablet. "But a trial draws attention to things Pilate doesn't want examined. Questions about how a centurion filed false reports for five years without his tribune noticing." His jaw tightened. "So. Discharge. Immediate. No pension. No honors. Your replacement arrives tomorrow."
 
-"So what are your orders, sir?"
-
-"Discharge. Immediate. No pension. No honors." Lucullus paused. "Don't mistake efficiency for mercy, Scipio. I'm letting you go cleanly because a trial would draw attention to things Pilate doesn't want examined." He met Marcus's eyes. "Your replacement arrives tomorrow. Someone who follows orders."
-
-Marcus felt his breath catch — a sharp intake that pulled something loose in his ribcage. Lucullus was letting him walk away. Not out of sympathy. Out of cold calculation.
+Marcus understood. Lucullus was protecting himself, not Marcus. The cold calculation of a man who'd rather lose a centurion than answer uncomfortable questions.
 
 "You've bought him six months," Lucullus said. "Maybe less."
 
-Marcus saluted for the last time. Then left the garrison as a civilian.
+Marcus saluted for the last time. Then walked out of the Antonia Fortress as a civilian for the first time in twenty-eight years.
 
----
+Two days later he found Jesus teaching on a hillside outside Bethany. Smaller crowd than usual — maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
 
-## SCENE 7: Witness
+Jesus was teaching the fig tree parable — when the branch puts out leaves, you know summer is near. When you see certain markers, you know what's coming. What struck Marcus wasn't the teaching. It was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left.
 
-Marcus found Jesus teaching on a hillside outside Bethany two days later.
-
-Smaller crowd than usual — maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
-
-Jesus was teaching about signs. The fig tree parable — when the branch puts out leaves, you know summer is near. When you see certain markers, you know collapse is near. Most of you will live to see Jerusalem burn.
-
-Marcus had heard the content before. What struck him now wasn't the teaching — it was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left. They'd moved past denial. Past bargaining. They were planning.
-
-After the teaching ended, Marcus approached. "You resigned," Jesus said — the way he said everything, like he'd known before Marcus arrived.
-
-"This morning."
-
-"And you're here."
+After the teaching ended, Marcus approached. Jesus looked at him the way he'd looked at Marcus five years ago at the census — not reading his face but reading something behind it.
 
 "Simon said you needed witnesses."
 
-Jesus studied him. The same look he'd given Marcus five years ago at the census — not reading his face but reading something behind it. "You understand what you're witnessing. Crucifixion, most likely. Within two years."
+"You understand what you're witnessing. Crucifixion, most likely. Within two years."
 
 "I understand."
 
-Mary extended her hand. "We met at the Sermon. Four years ago. You were watching from the edges."
+Mary extended her hand. "Your reports gave us five years. Now we need someone who can document what actually happens. From outside."
 
-"I remember."
-
-"Your reports gave us five years." Her voice was firm, the voice of a woman who measured debts precisely. "Now we need something different. Someone who can document what actually happens. From outside."
-
-"First witness it," Jesus said. "Then write it later, when it's safe. After everything settles." He met Marcus's eyes. "Even the parts that make Rome look cruel?"
+"First witness it," Jesus said. "Write it later, when it's safe." He met Marcus's eyes. "Even the parts that make Rome look cruel?"
 
 "Especially those parts."
-
-Sarah spoke up from her mother's arms. "Are you going to help my mama teach?"
-
-Marcus looked at the girl. Six years old. Watching him with the same steady attention her mother used.
-
-"Yes," he said. "I'm going to help however I can."
-
-"Good. We need more helpers." Sarah's voice was serious, matter-of-fact. "It's like planting seeds. One seed makes lots of plants. The teaching does that too."
-
-Marcus felt his throat tighten.
-
-"Like seeds," he agreed.
-
-Sarah nodded, satisfied. Then went back to watching the hillside, already done with him, already looking at whatever came next.
 
 Jesus touched Marcus's shoulder. "Stay close. Document everything. When I die, protect Mary and Sarah. Get them out of Jerusalem."
 
 "I will."
 
-They stood together as sunset gilded the hillside, golden light warming the stones beneath their feet. The air carried wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion. A carpenter who could see forty years into the future. A woman who measured debts and kept them. A six-year-old child who understood about seeds.
+They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion. A carpenter. A woman who measured debts and kept them. A six-year-old arranging pebbles in the dirt.
 
-The strangest resistance cell Marcus had ever encountered.
-
-Rome would kill Jesus within two years. Marcus couldn't prevent that. But he could witness it. Write it down. Make sure someone, generations from now, would know what actually happened on these hillsides.
+Rome would kill Jesus within two years. Marcus couldn't prevent that. But he could witness it. Write it down.
 
 That was enough.
 
@@ -465,8 +395,8 @@ That was enough.
 - Memory Bridge (Key 3): Still lost (586 BCE)
 - Distribution Network (Key 4): Rebuilding (150 people, growing)
 
-**Word Count:** ~5,000 words (compressed from ~8,000)
-**Status:** COMPLETE DRAFT — compression + voice pass applied
+**Word Count:** ~4,500 words (compressed from ~8,000)
+**Status:** REVISED — Scenes 6+7 merged, anachronisms fixed, voice pass applied
 
 **Forward Links:**
 - Chapter 7: Teaching spreads, parables developed
