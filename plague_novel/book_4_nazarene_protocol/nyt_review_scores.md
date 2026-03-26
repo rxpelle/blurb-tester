@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 7 revised to 8/10)
+**Last updated:** 2026-03-26 (Ch 8 revised to 9/10)
 
 ## Scorecard
 
@@ -14,7 +14,7 @@
 | Ch 5: The Unlocking | 8 | 8 | 8 | 7 | 9 | **9** |
 | Ch 6: The Resistance | 8 | 8 | 8 | 7 | 8 | **8** |
 | Ch 7: The Teachings Spread | 8 | 8 | 8 | 7 | 7 | **8** |
-| Ch 8: The Crisis | 6 | 6 | 7 | 5 | 6 | **6** |
+| Ch 8: The Crisis | 9 | 9 | 9 | 8 | 8 | **9** |
 | Ch 9: The Keys Gathered | 5 | 4 | 5 | 4 | 5 | **5** |
 | Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
 | Ch 11: The Betrayal | 6 | 5 | 5 | 5 | 7 | **5** |
@@ -22,7 +22,7 @@
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 7.2/10**
+**Manuscript average: 7.5/10**
 
 ---
 
@@ -92,8 +92,8 @@ Scenes 6+7 merged into single resignation-to-witness arc. Lucullus dialogue rewr
 ### Ch 7: The Teachings Spread — 8/10 (revised from 5)
 Two passes. Cut from 7 scenes to 4 — Prodigal Son and Feeding of 5,000 eliminated. Carrier debriefs after parables cut entirely; Good Samaritan stands without explanation. Narrator commentary during parable replaced with physical reactions ("The word *Samaritan* landed like a stone in still water"). Marcus given his first real personal moment — remembering a Thracian soldier left to die on a road, connecting the parable to his own guilt. Sensory detail added throughout (fig tree shade, baking bread, charred fish, lake wind). "Weight on her chest" duplication fixed. "Eighteen months" cut from 4 instances to 1. Judas walks away unconvinced. Remaining gap to 9: structural teaching-montage can't fully escape its nature, and the chapter covers a 6-month span that resists dramatization.
 
-### Ch 8: The Crisis — 6/10
-Mary's breakdown is the emotional high point of the middle. Her fear of inadequacy more compelling than Jesus's stoic acceptance. Jesus-Marcus conversation overwritten — martyrdom argument stated three ways. "Twelve months" refrain seven times.
+### Ch 8: The Crisis — 9/10 (revised from 6)
+Two passes. Cut from 7 scenes to 4, ~8,900 to ~3,200 words. Scene 7 (network meeting duplicating Ch 7) cut entirely. Scene 3 merged into Scene 2. Travel compressed to 3 lines. Severus's "the parables carry something underneath" — Rome noticing the deeper layer — is now the briefing's sharpest beat. Marcus's nephew's schooling makes the pension offer personal. Simon scene earns "generations, not months" as Marcus's closing mantra. Jesus-Marcus conversation rebuilt around one vulnerability moment ("I wake up tasting my own death") rather than three repetitions of the martyrdom thesis. The woman singing her children to sleep — "the kind of song that traveled through families without anyone remembering who first sang it" — is the novel's thesis rendered as pure image. Mary losing the thread mid-sentence ("Nothing came") is more devastating than any breakdown dialogue. Sarah's hand without words stronger than her dialogue. Remaining gap to 10: three POVs receiving the same news is structurally repetitive, and the novel's inherent anachronism (first-century characters discussing generational strategy) can't be fully solved at chapter level.
 
 ### Ch 9: The Keys Gathered — 5/10
 Worst pacing. Series bible disguised as chapter. Key-system mechanics (two keys give this, seven give everything) is game-design documentation. Trauma cascade is the one embodied moment — then killed by clinical debrief. Offensive network subplot most alive, least space.
