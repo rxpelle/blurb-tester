@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 6 revised to 8/10)
+**Last updated:** 2026-03-26 (Ch 7 revised to 8/10)
 
 ## Scorecard
 
@@ -13,7 +13,7 @@
 | Ch 4: The Teaching Begins | 8 | 8 | 9 | 7 | 8 | **9** |
 | Ch 5: The Unlocking | 8 | 8 | 8 | 7 | 9 | **9** |
 | Ch 6: The Resistance | 8 | 8 | 8 | 7 | 8 | **8** |
-| Ch 7: The Teachings Spread | 5 | 5 | 5 | 5 | 6 | **5** |
+| Ch 7: The Teachings Spread | 8 | 8 | 8 | 7 | 7 | **8** |
 | Ch 8: The Crisis | 6 | 6 | 7 | 5 | 6 | **6** |
 | Ch 9: The Keys Gathered | 5 | 4 | 5 | 4 | 5 | **5** |
 | Ch 10: The Decision | 6 | 5 | 6 | 4 | 5 | **5** |
@@ -22,7 +22,7 @@
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 6.9/10**
+**Manuscript average: 7.2/10**
 
 ---
 
@@ -89,8 +89,8 @@ Scenes 5+6 cut entirely (offscreen Pattern Eye, time-skipped montage). Prophecy 
 ### Ch 6: The Resistance — 8/10 (revised from 6)
 Scenes 6+7 merged into single resignation-to-witness arc. Lucullus dialogue rewritten — "teaching thousands to govern themselves... a province learning to feed itself without us" replaces analytical language. Scene 2 (Temple observation) compressed from ~35 to ~15 lines. Matthias dialogue stripped of CIA vocabulary. Marcus given two-day internal struggle before warning Simon. Lucullus's resignation scene made colder ("protecting himself, not Marcus"). Sarah's over-precious seed dialogue cut — replaced with concrete image ("six-year-old arranging pebbles in the dirt"). Jesus's Barabbas argument tightened, "across generations" analytics removed. "Resistance cell," "threat level," "Empire" anachronisms fixed. Barabbas confrontation remains the chapter's standout. Remaining gap to 9: Matthias's offensive-network subplot still carries structural exposition that's hard to fully dramatize in one scene.
 
-### Ch 7: The Teachings Spread — 5/10
-Weakest chapter overall. Dramatizes teaching process — undramatic. Parable → reaction → debrief → "But the deeper meaning is..." becomes numbing. Feeding of 5,000 makes Jesus a marketing strategist. "Blood memory" / "deeper layer" vocabulary deadening.
+### Ch 7: The Teachings Spread — 8/10 (revised from 5)
+Two passes. Cut from 7 scenes to 4 — Prodigal Son and Feeding of 5,000 eliminated. Carrier debriefs after parables cut entirely; Good Samaritan stands without explanation. Narrator commentary during parable replaced with physical reactions ("The word *Samaritan* landed like a stone in still water"). Marcus given his first real personal moment — remembering a Thracian soldier left to die on a road, connecting the parable to his own guilt. Sensory detail added throughout (fig tree shade, baking bread, charred fish, lake wind). "Weight on her chest" duplication fixed. "Eighteen months" cut from 4 instances to 1. Judas walks away unconvinced. Remaining gap to 9: structural teaching-montage can't fully escape its nature, and the chapter covers a 6-month span that resists dramatization.
 
 ### Ch 8: The Crisis — 6/10
 Mary's breakdown is the emotional high point of the middle. Her fear of inadequacy more compelling than Jesus's stoic acceptance. Jesus-Marcus conversation overwritten — martyrdom argument stated three ways. "Twelve months" refrain seven times.
