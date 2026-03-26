@@ -576,15 +576,13 @@ He smiled. The expression so familiar it broke something open in her chest. Thre
 
 "Does it matter?"
 
-And she realized — standing in the garden, spice jars at her feet, dawn breaking over Jerusalem, the impossible standing before her with nail wounds in his wrists — that it didn't. Not to her. Not in this moment. Whatever he was — resurrected body, spiritual presence, blood memory manifestation, network coordination she didn't understand — he was *here*. The teaching was alive in front of her. The voice that had called her out of madness was speaking her name.
+And she realized — standing in the garden, spice jars at her feet, dawn breaking over Jerusalem, the impossible standing before her with nail wounds in his wrists — that it didn't. Not to her. Not in this moment. Whatever he was — resurrected body, grief hallucination, something she had no word for — he was *here*. The voice that had called her out of madness was speaking her name.
 
-Peter would need theology. John would need miracle. Thomas would need proof. The network would need methodology.
-
-She needed none of those things. She just needed him to have said her name.
+She just needed him to have said her name.
 
 "Go to my brothers," Jesus said. "Tell them: I am ascending to my Father and your Father, to my God and your God."
 
-She heard the dual layers — ascending as returning to source, Father as universal access, the democratizing of everything he'd taught. She heard the systems encoding. But underneath all of it, she heard something simpler: *Go tell them I'm alive. They're hiding in a locked room, terrified. They need to know.*
+She heard what he meant underneath: *Go tell them I'm alive. They're hiding in a locked room, terrified. They need to know.*
 
 "They won't believe me," Mary said. "Peter will say it's grief. Thomas will say it's hallucination. Andrew will say women can't be trusted as witnesses."
 

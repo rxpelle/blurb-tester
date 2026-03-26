@@ -264,9 +264,11 @@ Mary felt the world tilt. "What?"
 
 Mary's legs went weak. She sat back down on the wall before she fell. "How do you know that?"
 
-"Because I see the same things." Jesus—it had to be Jesus, the teacher—sat beside her, careful to maintain proper social distance. "I'm a carrier too. Generation 42, Absolute count from Tausret. You're probably Branch 3, same generation. The bloodlines converge at the Bronze Age Collapse and carry the same inherited memories forward."
+"Because I see the same things." Jesus — it had to be Jesus, the teacher — sat beside her, careful to maintain proper social distance. "I see Pi-Ramesses too. The fever. The woman physician. The collapse."
 
-"I don't understand any of those words," Mary whispered.
+Mary's breath stopped. "You see *her*? Nefertari?"
+
+"Every night since I was three."
 
 "I know. That's why you came." His voice was gentle. "You've been seeing memories that aren't yours. Experiencing collapses from twelve hundred years ago as if you lived through them personally. You've tried exorcisms. They didn't work. You've tried ignoring the visions. They got stronger. Now you're desperate enough to walk eight miles with a child to find a teacher you heard about in a marketplace, hoping he can explain what's happening before you lose your mind completely."
 
@@ -276,7 +278,7 @@ Mary stared at him. "Are you reading my thoughts?"
 
 "Thirty-four. She—" Mary's voice broke. "She had the same episodes. Seizures and visions. She'd describe cities she'd never visited in detail that frightened the physicians. The community said demons ran in our family. That I'd inherited her curse. But it wasn't a curse. It was an illness — the same illness, passed from mother to daughter."
 
-"You inherited her bloodline. Carrier genetics. The visions are blood memory—epigenetic inheritance across forty-two generations. Your ancestor was there when Pi-Ramesses fell. She survived because she joined a network of families who taught her to recognize collapse patterns. That knowledge got encoded in her blood, passed down through children, strengthened each generation. By the time it reached you, the memories are vivid enough to feel like present experience."
+"You inherited her blood. The visions — they're memories. Not yours, but your family's. Your ancestor was there when Pi-Ramesses fell. What she saw got passed down through her children, and their children, and theirs. Forty-two generations. By the time it reached you, the memories are vivid enough to feel like present experience."
 
 Sarah was listening with wide eyes, not understanding but sensing this was important.
 
@@ -288,11 +290,11 @@ Mary felt tears streaming down her face. Not grief. *Relief*. Overwhelming, crus
 
 She wasn't mad. Wasn't cursed. Wasn't demon-possessed.
 
-She was carrying memory. Inherited memory from ancestors who'd survived catastrophic failures across twelve centuries.
+Sarah climbed into her lap. Mary held her daughter and cried and for the first time in three years the crying wasn't from fear.
 
-"Can you make it stop?" she asked desperately.
+"Can you make it stop?" she asked when she could speak again.
 
-"No. But I can teach you to control it. Channel it. Use it instead of being used by it." Jesus's voice was calm, certain. "The visions show you collapse patterns. Right now they're overwhelming because you don't know how to process them. But if you learn pattern recognition—systems thinking, how to see cause-and-effect chains, how collapse cascades through connected failures—the visions become useful instead of terrifying."
+"No. But I can teach you to control it. Use it instead of being used by it." Jesus's voice was calm, certain. "The visions show you what's coming. Right now they're overwhelming because you don't know how to read them. But if you learn — the visions become useful instead of terrifying."
 
 "Useful how?"
 
@@ -376,15 +378,11 @@ When Mary opened her eyes, Jesus was smiling. "Exactly right. Every detail accur
 
 John spoke up: "If the memories are that old, shouldn't they degrade? Forty-two generations of transmission—the knowledge should fragment."
 
-"It does fragment," Jesus confirmed. "Most carriers experience blood memory as vague impressions. Uncomfortable dreams. Anxiety about patterns they can't quite articulate. Only strong carriers like Mary experience full immersion visions. And even those are fragmentary—she sees key moments, not continuous narrative. The Bronze Age Collapse, Babylon exile, maybe a few other collapse points. Not every detail of twelve centuries."
+"It does fragment," Jesus confirmed. "Most people with this inheritance experience vague impressions. Bad dreams. Only a few — maybe fifty in the whole eastern Mediterranean — see what Mary sees. Full immersion. And most of them think they're going mad." He looked at Mary. "That's why finding each other matters."
 
-"How many strong carriers exist?" Peter asked.
+Mary felt overwhelmed. "I barely understand this myself."
 
-"Across all branches? Maybe fifty in the eastern Mediterranean. Most don't understand their inheritance. They think they're mad or possessed. They suppress the visions or die young from the stress." Jesus looked at Mary. "That's why teaching matters. Every carrier who learns to control blood memory becomes a teacher for the next generation. Distribution compounds."
-
-Mary felt overwhelmed. "You're saying I'm supposed to teach others? I barely understand this myself."
-
-"You will. Pattern recognition is learnable." Jesus stood, moved to a clear space where everyone could see him. "Watch. I'm going to teach you the same way Nefertari taught her first students. Not technical language—that won't survive cultural transmission. But practices. Ways of seeing. Behavioral patterns that encode the knowledge even if you don't fully comprehend the theory."
+"You don't have to. Not yet." Jesus stood, moved to a clear space where everyone could see him. "Watch."
 
 He gestured to the oil lamps illuminating the room. "Everything connects to everything. That's the first principle. The lamp burns because you poured oil, which exists because someone pressed olives, which grew because farmers cultivated trees, which required water, which came from rain, which depends on weather patterns, which connect to larger climate cycles. One lamp. Dozens of causal connections most people never see."
 
@@ -412,15 +410,11 @@ Mary closed her eyes, reaching for the memory. The vision had been brief, fragme
 
 "A disc," Mary said. "Covered in symbols. It felt alive somehow."
 
-"The Pattern Eye," Jesus breathed. "Key number two. It amplifies blood memory. Makes pattern recognition stronger." He looked at the disciples. "We've been searching for it since the Babylonian exile. If Mary's blood memory knows where it went—"
+"The Pattern Eye," Jesus breathed. He exchanged a look with Simon that Mary couldn't read. "We've been looking for that for a very long time."
 
-"I don't know where it is now," Mary interrupted. "I just saw someone carrying it when Mycenae fell. That was three thousand years ago."
+"I don't know where it is now," Mary said. "I just saw someone carrying it when a city burned. Thousands of years ago."
 
-"But it's a starting point. Network records say the Pattern Eye was hidden somewhere in Phoenician territory. Byblos, possibly. If your memories show it traveling that direction during the Bronze Age Collapse, that confirms the general location." Jesus turned back to her. "You just provided intelligence the network has been missing for six hundred years."
-
-Mary stared at him. "From a half-second vision I barely remember?"
-
-"Blood memory is that precise. You don't just see collapse—you see the artifacts that survived it. The keys. The knowledge carriers. The escape routes." Jesus sat beside her. "This is why strong carriers matter. You're not just experiencing historical trauma. You're accessing strategic information encoded by ancestors who survived when everyone else died."
+"But you saw which direction she ran." Jesus sat beside her. "You've had these visions for three years and thought they were madness. They're not. They're a map."
 
 Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced at her daughter, then back at Jesus.
 
@@ -464,17 +458,13 @@ She opened her eyes, gasping.
 
 "And then?"
 
-"Then you learn to see the patterns in the present. Recognize collapse cascades before they happen. Intervene early. Teach others." Jesus's voice was steady. "You're not just learning to survive blood memory, Mary. You're learning to use what twelve hundred years of collapse taught your ancestors. So you can prevent the next collapse instead of just remembering the last ones."
+"Then you learn to see what's coming. And maybe prevent it."
 
-Mary looked at the twelve disciples. At Simon and his wife. At Sarah sleeping peacefully. At Jesus, who claimed to see the same visions, carry the same impossible memories.
+Mary looked at the twelve disciples. At Simon and his wife. At Sarah sleeping peacefully. At Jesus, who saw the same cities burning behind his eyes.
 
-"I'm not mad," she said quietly. Not a question. A statement needing confirmation.
+"My mother died alone with this," she said quietly. "Nobody understood what she carried."
 
-"You're not mad. You're a carrier. Generation 42. One of maybe fifty people in the entire Mediterranean who can see twelve centuries of inherited memory with this clarity." Jesus met her eyes. "You're rare, Mary. Valuable. And if you learn to control what you're carrying, you might help prevent a catastrophe that kills millions."
-
-"Or I might die trying like my mother did."
-
-"Yes. That's possible too." Jesus's honesty was brutal. "The network doesn't guarantee survival. Just purpose. But dying with purpose is different from dying alone and misunderstood."
+"I know." Jesus's voice was gentle but unflinching. "I can't promise you'll live longer than she did. Only that you won't die misunderstood."
 
 Mary thought about that. Her mother, alone. The community calling her possessed. Dying without anyone understanding what she carried.
 
