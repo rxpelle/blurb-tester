@@ -88,7 +88,7 @@ Three servants. Generations thirty-nine, forty, forty-one. Carriers who'd tried 
 
 Their martyrdom hadn't been failure.
 
-It had been methodology.
+It had been method.
 
 A murmur rippled through the crowd. The Temple spies shifted position. They recognized themselves in the parable. The tenants who controlled the vineyard but hadn't planted it. Who claimed ownership of knowledge that predated their authority by millennia.
 
@@ -96,7 +96,7 @@ Good. Let them understand.
 
 "Then the owner of the vineyard said," Jesus's voice carried absolute clarity, "'What shall I do? I will send my beloved son. Perhaps they will respect him.'"
 
-Beloved son. Generation forty-two. Primary carrier. Full Protocol access achieved three weeks ago through two defensive keys and the Pattern Eye's amplification. The offensive network's worst nightmare—a carrier who could teach the complete methodology without their control.
+Beloved son. Generation forty-two. Primary carrier. Full Protocol access achieved three weeks ago through two defensive keys and the Pattern Eye's amplification. The offensive network's worst nightmare—a carrier who could teach the complete system without their control.
 
 Sarah squeezed Mary's hand. Seven years old and already understanding what the parable meant. What it predicted.
 
@@ -138,7 +138,7 @@ One carrier's death to ensure a thousand carriers' distribution.
 
 It was brutal mathematics.
 
-It was also proven methodology.
+It was also proven method.
 
 Jesus stepped down from the platform. The teaching ended. The crowd began dispersing for festival meals, processing what they'd heard. Most confused. Some disturbed. A few—the ones with blood memory active, the ones who recognized patterns—understanding completely.
 
@@ -150,7 +150,7 @@ The arrest would happen during the meal chaos. Defensive network extraction atte
 
 Tomorrow's crucifixion.
 
-Everything proceeding according to a pattern twelve hundred years old.
+Everything proceeding according to a pattern older than Rome.
 
 Sarah waved, a tiny gesture from a seven-year-old who was learning that love sometimes meant watching people die well.
 
@@ -182,7 +182,7 @@ The centurion gestured toward the upper room where Jesus was heading. Malchus no
 
 They would wait until the meal began. Maximum chaos. Maximum witnesses to the arrest. Make it public. Make it humiliating. Make it a lesson for anyone else who thought they could teach defensive knowledge outside official control.
 
-Standard offensive network methodology.
+Standard offensive network practice.
 
 Marcus documented the positions on his wax tablet. Eight Temple guards. Twelve Roman soldiers. Twenty men total for one unarmed carpenter.
 
@@ -212,7 +212,7 @@ And had chosen to let the attempt proceed anyway, because defensive mode require
 
 Show, don't tell.
 
-Even in teaching martyrdom methodology.
+Even in teaching martyrdom as method.
 
 **Current Three: Jesus's Group**
 
@@ -268,7 +268,7 @@ Peter took the bread, confused. They were all confused. Three weeks of intensive
 
 Except Mary.
 
-She sat beside Sarah, both understanding the encoding perfectly. The meal wasn't spiritual mystery. It was methodological instruction. *Remember the pattern. Remember the cost. Remember that martyrdom serves knowledge preservation better than survival serves individual carriers.*
+She sat beside Sarah, both understanding the encoding perfectly. The meal wasn't spiritual mystery. It was instruction. *Remember the pattern. Remember the cost. Remember that martyrdom serves the teaching better than survival serves individual carriers.*
 
 The bread passed hand to hand. Twelve disciples. One woman. One child. All eating together while Temple guards positioned outside and defensive extraction teams prepared their doomed rescue.
 
@@ -306,7 +306,7 @@ Time to fail.
 
 "What you are going to do, do quickly," Jesus said.
 
-Judas left. The disciples assumed he was handling meal preparations or alms distribution. Still not understanding. Still thinking in surface meanings while encoded methodology played out beneath their perception.
+Judas left. The disciples assumed he was handling meal preparations or alms distribution. Still not understanding. Still thinking in surface meanings while the encoded pattern played out beneath their perception.
 
 Peter moved closer after Judas departed. "Lord, where are you going?"
 
@@ -326,7 +326,7 @@ Jesus didn't argue. They would learn. Failure was part of the teaching.
 
 He turned to Mary, who'd been silent through the entire meal. She knew her role. Knew what came after his arrest. Knew she would lead the network through the scattering while he died well.
 
-"You understand," he said quietly. Not question. Statement.
+"You understand," he said. Not question. Statement.
 
 "I understand," Mary confirmed. Then, softer: "I'm still not ready."
 
@@ -350,7 +350,7 @@ Then the door burst open.
 
 *Judas POV*
 
-The plan was perfect. Judas had coordinated defensive network extractions before—seven successful carrier rescues in his twelve years as an operative. He knew the methodology. Create chaos. Exploit confusion. Extract the target during the violence.
+The plan was perfect. Judas had coordinated defensive network extractions before—seven successful carrier rescues in his twelve years as an operative. He knew the method. Create chaos. Exploit confusion. Extract the target during the violence.
 
 Twenty guards bribed. Half the Temple force. They would "arrest" Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus. The real carrier would escape through the Damascus route Simon had prepared.
 
@@ -376,7 +376,7 @@ His bribed guards hesitated, suddenly uncertain. Not creating confusion. Looking
 
 The plan was compromised.
 
-"Judas, would you betray the Son of Man with a kiss?" Jesus asked quietly.
+"Judas, would you betray the Son of Man with a kiss?" Jesus asked.
 
 Not accusation. Sadness.
 
@@ -394,7 +394,7 @@ Peter swung wildly, striking Malchus. The blade caught the guard's ear, severing
 
 "No more of this!" Jesus commanded.
 
-He touched Malchus's ear. Defensive mode methodology even in arrest—healing. De-escalation. Teaching by demonstration that defensive knowledge didn't require violence.
+He touched Malchus's ear. Defensive mode even in arrest—healing. De-escalation. Teaching by demonstration that defensive knowledge didn't require violence.
 
 The ear reattached. Malchus gasped, touching his head in shock.
 
@@ -444,7 +444,7 @@ Not scriptures.
 
 Patterns.
 
-Twelve hundred years of carrier executions following identical methodology. Nefertari's blueprint executed again. Martyrdom as encoding mechanism. Death as distribution trigger.
+Forty-one generations of carrier executions following the identical pattern. Nefertari's blueprint executed again. Martyrdom as encoding mechanism. Death as distribution trigger.
 
 The guards bound Jesus's hands. No gentleness. Making the arrest humiliating. Making it public. Teaching a lesson to anyone watching.
 
@@ -538,7 +538,7 @@ Geographic distribution. Multiple copies. Redundant preservation. Exactly what J
 
 "They will," Simon said flatly. "In approximately forty years when they destroy Jerusalem. That's when the diaspora completes. For now, we scatter enough to survive but not so far they notice."
 
-Forty years. The timeline Jesus had shown them. 70 CE. Jerusalem burned. Temple destroyed. Network scattered across the Roman world in refugee dispersion that looked like catastrophe but was actually distribution methodology.
+Forty years. The timeline Jesus had shown them. 70 CE. Jerusalem burned. Temple destroyed. Network scattered across the Roman world in refugee dispersion that looked like catastrophe but was actually distribution by design.
 
 Defensive mode thinking in decades while others thought in days.
 
@@ -566,7 +566,7 @@ Sarah processed this with the seriousness of a child whose blood memory was alre
 
 Long-term survival over short-term rescue.
 
-"I'll remember," Sarah said quietly. "Everything he taught. Everything that happens. I'll remember for Generation 43."
+"I'll remember," Sarah said. "Everything he taught. Everything that happens. I'll remember for Generation 43."
 
 Mary squeezed her daughter's hand. "I know you will."
 
@@ -638,7 +638,7 @@ Judas walked through Jerusalem's streets as night gave way to dawn. The blood mo
 
 Payment for failed extraction.
 
-He'd been a defensive network operative for twelve years. Seven successful carrier rescues. Trained in extraction methodology. Confident in his capabilities.
+He'd been a defensive network operative for twelve years. Seven successful carrier rescues. Trained in extraction techniques. Confident in his capabilities.
 
 Tonight he'd failed completely.
 
@@ -730,7 +730,7 @@ Marcus documented the position, the method, the location. Added it to the tablet
 
 The historical villain was actually a tragic hero who tried to save a carrier and couldn't.
 
-The pattern held across all aspects. Not just execution methodology. But defensive network response. Failed rescue. Suicide after mission failure. Even the smallest details following twelve-hundred-year-old blueprints.
+The pattern held across all aspects. Not just execution. But defensive network response. Failed rescue. Suicide after mission failure. Even the smallest details following ancient blueprints.
 
 Nefertari had designed this perfectly.
 

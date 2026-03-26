@@ -16,7 +16,7 @@ Dawn broke over Jerusalem as Marcus prepared his tablets. Multiple copies. Wax s
 
 Not intervention. Not rescue. Just documentation.
 
-Jesus of Nazareth would die today. Crucified on Golgotha for teaching defensive mode methodology disguised as spiritual wisdom. Executed by networks that feared knowledge more than violence. Killed by systems that required control more than truth.
+Jesus of Nazareth would die today. Crucified on Golgotha for teaching defensive mode disguised as spiritual wisdom. Executed by networks that feared knowledge more than violence. Killed by systems that required control more than truth.
 
 Marcus would watch. Record. Preserve.
 
@@ -108,7 +108,7 @@ He would execute him anyway.
 
 "You say so," Jesus replied.
 
-Not denial. Not confirmation. Acknowledgment that others interpreted his teaching as political challenge when he'd taught systemic methodology.
+Not denial. Not confirmation. Acknowledgment that others interpreted his teaching as political challenge when he'd taught systems thinking.
 
 The crowd outside shouted. Coordinated. Offensive network supporters demanding crucifixion. Making it look like popular will when it was actually network orchestration.
 
@@ -156,7 +156,7 @@ After the scourging, they dressed him in purple robe—mocking the "king" charge
 
 "Hail, King of the Jews!" Mock bowing. Spitting. Striking him with reed.
 
-Making humiliation part of the execution process. Standard Roman methodology for crushing dissent.
+Making humiliation part of the execution process. Standard Roman practice for crushing dissent.
 
 Jesus endured silently.
 
@@ -226,7 +226,7 @@ Two words. Acknowledging the forced service. Recognizing the man's humanity desp
 
 Simon's expression shifted. Something in those two words—the calm gratitude from a man being led to execution—planting seed.
 
-Would Simon remember? Would he tell his children? Would defensive methodology propagate through a moment of forced compassion?
+Would Simon remember? Would he tell his children? Would the teaching propagate through a moment of forced compassion?
 
 That was how it worked. Small interactions. Seeds planted. Knowledge spreading.
 
@@ -242,11 +242,11 @@ Roman soldiers preparing. Efficient. Professional. Crucifixion was routine work 
 
 For Marcus, it was the end of a six-year observation arc.
 
-For Jesus, it was strategic martyrdom following a pattern twelve hundred years old.
+For Jesus, it was strategic martyrdom following a pattern Nefertari had set.
 
 For the offensive network, it was threat elimination.
 
-For the defensive network, it was knowledge preservation through death.
+For the defensive network, it was the teaching preserved through death.
 
 The crossbeam was laid on the ground.
 
@@ -356,9 +356,9 @@ Good.
 
 Faster death meant less time for defensive network to attempt another doomed rescue. Meant the offensive network couldn't interrogate him further. Meant the teaching could end cleanly, encoded in martyrdom rather than prolonged torture.
 
-The blood memory showed him Nefertari's execution twelve hundred years ago. Similar position. Different method—she'd been strangled. But same strategic choice. Same acceptance that individual death served collective survival.
+The blood memory showed him Nefertari's execution. Similar position. Different method—she'd been strangled. But same strategic choice. Same acceptance that individual death served collective survival.
 
-Forty-two generations between her death and his. Forty-two times carriers had been executed for preserving defensive knowledge. Forty-two times the methodology had survived anyway.
+Forty-two generations between her death and his. Forty-two times carriers had been executed for preserving defensive knowledge. Forty-two times the teaching had survived anyway.
 
 Forty-three beginning with Sarah. Seven years old. In Damascus. Safe.
 
@@ -616,7 +616,7 @@ She had watched his breathing slow. Had counted the intervals between each agoni
 
 She had watched him die.
 
-And she had held every detail in blood memory — encoding it the way Nefertari had encoded the fall of Pi-Ramesses twelve hundred years ago, the way every carrier before her had encoded the worst moments of their generation's collapse. Not because she wanted to remember this. Because someone had to. Because the difference between a death that scattered knowledge and a death that merely ended a life was the quality of the witness.
+And she had held every detail in blood memory — encoding it the way Nefertari had encoded the fall of Pi-Ramesses, the way every carrier before her had encoded the worst moments of their generation's collapse. Not because she wanted to remember this. Because someone had to. Because the difference between a death that scattered knowledge and a death that merely ended a life was the quality of the witness.
 
 Now Joseph of Arimathea was wrapping the body. Nicodemus had brought spices — seventy-five pounds of myrrh and aloes, a king's burial for a carpenter. John was supporting Jesus's mother, guiding her away. The crowd was dispersing. The soldiers were gambling for the seamless cloak.
 

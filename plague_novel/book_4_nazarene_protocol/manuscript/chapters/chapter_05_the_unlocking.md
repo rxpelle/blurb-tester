@@ -42,7 +42,7 @@ She turned. Jesus stood in the doorway of the house he now shared with Peter's f
 
 He knew the timeline now. Accepted it. Prepared for it.
 
-"I need to show you something," Jesus said quietly. "At Qumran. The Essene archive. There's a text I couldn't fully decode two years ago. But now—" He paused. "Now I think you're ready to read it with me."
+"I need to show you something," Jesus said. "At Qumran. The Essene archive. There's a text I couldn't fully decode two years ago. But now—" He paused. "Now I think you're ready to read it with me."
 
 Mary felt something shift in her chest. "What kind of text?"
 
@@ -86,7 +86,7 @@ Matthias retrieved three scrolls, unrolled them on a reading table with careful 
 
 "This material," he began, "was copied from older documents that partially survived the Babylonian exile. The scribes who copied them thought they were preserving mystical prophecy. But I've been studying them for forty years, and I think they're something else. Systems analysis disguised as theology."
 
-Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory—the encoding language Nefertari and Amenhotep had developed twelve hundred years ago. Not hieroglyphics. Something else. Pattern notation.
+Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory—the encoding language Nefertari and Amenhotep had developed during the Bronze Age. Not hieroglyphics. Something else. Pattern notation.
 
 Jesus traced the symbols with one finger, not touching the fragile parchment. "This describes defensive mode architecture. 'The Kingdom of God is within you and among you'—internal pattern recognition ability combined with collective network coordination."
 
@@ -122,7 +122,7 @@ Mary kept reading. The symbols showed offensive mode architecture: breeding prog
 
 She felt sick. "This is what tyrants build. Pharaohs and emperors and anyone who thinks they can prevent collapse through absolute control."
 
-"And it never works," Matthias said quietly. "Because centralized systems are fragile. One key point of failure destroys everything. But Nefertari's defensive mode—distributed knowledge, resilient networks, early intervention instead of forced prevention—that survives because it's redundant. Fragments persist even when institutions collapse."
+"And it never works," Matthias said. "Because centralized systems are fragile. One key point of failure destroys everything. But Nefertari's defensive mode—distributed knowledge, resilient networks, early intervention instead of forced prevention—that survives because it's redundant. Fragments persist even when institutions collapse."
 
 Jesus pointed to the third scroll. "This is the one I couldn't decode. It's written in pure pattern notation. No Hebrew, no Aramaic. Just symbols. I could feel it contained critical information, but I couldn't translate it alone."
 
@@ -152,7 +152,7 @@ Mary focused on the final symbol cluster: "'Forty years after Primary's death, J
 
 Silence in the scriptorium. Just three people and twelve-hundred-year-old texts describing events that hadn't happened yet but would happen exactly as predicted because the pattern was already locked.
 
-"Seventy generations," Matthias said quietly. "From you to Sarah Chen. That's the time horizon. The full arc of defensive mode implementation."
+"Seventy generations," Matthias said, voice hushed. "From you to Sarah Chen. That's the time horizon. The full arc of defensive mode implementation."
 
 Mary felt tears on her face. Not grief. Recognition. She'd spent two years learning pattern recognition, understanding how small interventions compounded over time. But this—this was the largest compound pattern she'd ever seen. Twelve hundred years back to Nefertari. Twelve hundred years forward to Generation 112. Twenty-four hundred years of knowledge accumulation toward a single goal: prevent collapse instead of just surviving it.
 
@@ -184,7 +184,7 @@ Jesus stood. "Make three copies. One for Mary's teaching network. One for the Tw
 
 Mary felt the enhanced vision beginning to fade. The dual consciousness becoming harder to maintain. She'd been accessing Protocol-level information for maybe twenty minutes. Her mind felt stretched, exhausted, like she'd been running for hours.
 
-"Five things," Jesus said quietly, noticing. "Ground yourself before the crash."
+"Five things," Jesus said, noticing. "Ground yourself before the crash."
 
 Mary named them: pottery jar on the shelf, Matthias's weathered face, the scroll table's smooth wood, smell of old ink, her own breathing. The vision receded to normal perception. Just present moment. No blood memory overlay.
 
@@ -204,7 +204,7 @@ Jesus was quiet for a long time. "You shift the time horizon. The purpose isn't 
 
 "Seventy generations is a long time to wait."
 
-"Nefertari waited twelve hundred years. And here we are." He picked up a stone, turned it over. "When the time comes, take Sarah west. Gaul, probably. Establish teaching communities there. By the time she has children of her own, the bloodline is stabilized somewhere Rome's collapse can't reach it."
+"Nefertari waited for this. And here we are." He picked up a stone, turned it over. "When the time comes, take Sarah west. Gaul, probably. Establish teaching communities there. By the time she has children of her own, the bloodline is stabilized somewhere Rome's collapse can't reach it."
 
 Mary thought about Sarah. Five years old now. Would be forty-seven when Jerusalem burned.
 
@@ -242,7 +242,7 @@ Jesus entered the courtyard. Watched for a moment.
 
 "Three sustained dual consciousness," Mary told him. "Ten more managed brief stability. All improving."
 
-He sat on a low wall, watching the women practice. "Two years left," he said quietly. "Timeline's still holding."
+He sat on a low wall, watching the women practice. "Two years left," he said. "Timeline's still holding."
 
 Mary didn't flinch. She'd stopped flinching months ago. "And then I continue."
 
@@ -274,7 +274,7 @@ She handed it to him. His eyes unfocused immediately — blood memory flooding i
 
 "I couldn't hold it."
 
-"I can hold it for five minutes now." Mary picked the disc up. Her vision doubled instantly — twelve hundred years of inherited memory overlaying the present, clear and stable. "This is how Nefertari trained the first carriers. Not words. Direct transmission."
+"I can hold it for five minutes now." Mary picked the disc up. Her vision doubled instantly — generations of inherited memory overlaying the present, clear and stable. "This is how Nefertari trained the first carriers. Not words. Direct transmission."
 
 Jesus looked at her. At the disc. At the hillside where sixty women were learning to hold past and present simultaneously. At everything they'd built in two years.
 

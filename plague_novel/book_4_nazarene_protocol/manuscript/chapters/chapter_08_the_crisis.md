@@ -106,7 +106,7 @@ Useful answer: Whatever prevented immediate execution.
 
 Marcus met Severus's eyes. "He teaches de-escalation, not violence. I never observed weapons, military training, or strategic planning for revolt. His movement is religious, not military."
 
-"But he doesn't control how people interpret his teaching," Lucullus said quietly.
+"But he doesn't control how people interpret his teaching," Lucullus said.
 
 Marcus said nothing. Because that was true.
 
@@ -116,7 +116,7 @@ Marcus's chest constricted. Twelve months. He'd known it was coming—had known 
 
 "Passover maximizes deterrent effect," Severus explained, his voice clinical. "Large crowds, high visibility, demonstration of Roman authority combined with Temple cooperation. The execution will be public, brutal, and unambiguous. The message to the Zealots: your teacher cannot save you. The message to the Temple: we support your authority. The message to the general population: challenge Rome and die."
 
-"Martyrdom," Marcus said quietly.
+"Martyrdom," Marcus said.
 
 "Deterrence," Severus corrected. "Martyrdom implies the cause survives. This execution is designed to eliminate the cause entirely. The network will scatter, the teaching will be discredited, the movement will collapse. Standard protocol for messianic agitators."
 
@@ -176,7 +176,7 @@ Simon arrived twenty minutes later, saw Marcus through the window, and joined hi
 
 "You're early," Simon said, sitting across from him. "Bad news?"
 
-"Passover 33 CE," Marcus said quietly. "Official Roman policy. Arrest and execution. The decision came from Rome directly."
+"Passover 33 CE," Marcus said, voice flat. "Official Roman policy. Arrest and execution. The decision came from Rome directly."
 
 Simon's expression didn't change, but his hand tightened on the cup of wine the server had brought. "How long?"
 
@@ -346,7 +346,7 @@ Marcus thought of the twenty-three documentation tablets hidden in his Jerusalem
 
 The room was dark now, only dim light from the street below. Marcus could barely see Jesus's face.
 
-"They asked me to help them," Marcus said quietly. "Severus and Lucullus. Wanted me to use my knowledge of the network to ensure the movement dies with you. Offered pension, honor, retirement."
+"They asked me to help them," Marcus said. "Severus and Lucullus. Wanted me to use my knowledge of the network to ensure the movement dies with you. Offered pension, honor, retirement."
 
 "What did you answer?"
 
@@ -390,9 +390,9 @@ Jesus stood, moved to the door. "Thank you, Marcus. For six years of protection 
 
 "It doesn't feel like victory."
 
-"It will," Jesus said quietly. "In twelve hundred years, when defensive carriers read your testimony and understand how offensive coordination works, how persecution validates teaching, how martyrdom encodes knowledge—they'll thank you. You're writing for them, not for us."
+"It will," Jesus said. "In a thousand years, when carriers read your testimony and understand how offensive coordination works, how persecution validates teaching, how martyrdom encodes knowledge—they'll thank you. You're writing for them, not for us."
 
-He left. Marcus sat in the dark upper room, listening to Capernaum's Sabbath evening sounds, thinking about twelve months and twelve hundred years.
+He left. Marcus sat in the dark upper room, listening to Capernaum's Sabbath evening sounds, thinking about twelve months and the centuries to come.
 
 Thinking about witnesses and saviors and the difference between them.
 
@@ -434,7 +434,7 @@ If Mary could do this. If she was strong enough.
 
 The room emptied gradually until only Leah remained, waiting until the others had left before approaching.
 
-"What's wrong?" Leah asked quietly.
+"What's wrong?" Leah asked.
 
 Mary tried to answer. Found her throat tight, her eyes burning with tears she'd been holding back for two days.
 
@@ -554,7 +554,7 @@ He assigned roles with the calm of someone who'd rehearsed this in blood memory 
 
 Judas looked up from his tablet. "This still feels like planning failure."
 
-"If I survive, the teaching stays localized in Galilee," Jesus said quietly. "If I die, it spreads across the empire within one generation. That's not failure. That's distribution through necessity."
+"If I survive, the teaching stays localized in Galilee," Jesus said. "If I die, it spreads across the empire within one generation. That's not failure. That's distribution through necessity."
 
 The room was silent.
 

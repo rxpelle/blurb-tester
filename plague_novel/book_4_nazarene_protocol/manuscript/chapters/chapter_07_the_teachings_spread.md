@@ -96,7 +96,7 @@ She held up the Pattern Eye — the bronze disc she'd recovered from Byblos. Thi
 
 Sarah, sitting with the children, was watching the Pattern Eye with intense focus. Six years old. Generation 43. Already learning what it meant to carry knowledge across collapse.
 
-"We're running out of time," Mary said quietly. "I need you to learn how to teach this yourselves. Each of you. Because within two years, I might not be available."
+"We're running out of time," Mary said. "I need you to learn how to teach this yourselves. Each of you. Because within two years, I might not be available."
 
 "How?" Deborah asked. "You've trained for years. We've had months."
 
@@ -194,7 +194,7 @@ He drew the carriers aside. Joel, a young student, spoke first: "The father's sy
 
 He returned to the main crowd. A Pharisee was waiting. "So failure doesn't require consequences?"
 
-"I teach that integrity which can't bend breaks," Jesus said quietly. "When persecution comes — and it's coming — your rigid standards will shatter. The people you've excluded will scatter. And the knowledge you tried to preserve through perfect compliance will be lost because you built no capacity for adaptation."
+"I teach that integrity which can't bend breaks," Jesus said. "When persecution comes — and it's coming — your rigid standards will shatter. The people you've excluded will scatter. And the knowledge you tried to preserve through perfect compliance will be lost because you built no capacity for adaptation."
 
 The Pharisee's face darkened. The crowd processed. Some troubled, some angry, some thoughtful.
 
@@ -212,7 +212,7 @@ Simon Peter poked the fire, watching sparks spiral into the cold night. The Twel
 
 "Then why teach publicly at all?" Judas pressed. "Why not train fighters instead of telling stories about fathers and sons?"
 
-"It's distribution," Matthew said quietly. The former tax collector understood systems. "He's trying to preserve knowledge across Rome's collapse."
+"It's distribution," Matthew said. The former tax collector understood systems. "He's trying to preserve knowledge across Rome's collapse."
 
 "Rome isn't collapsing," Judas said flatly.
 
@@ -266,7 +266,7 @@ Everyone ate. Twelve baskets of surplus.
 
 "He multiplied the loaves!" the crowd murmured. "A miracle!"
 
-Peter, gathering fragments, said quietly: "You didn't create food. You created trust in the network."
+Peter, gathering fragments, murmured: "You didn't create food. You created trust in the network."
 
 "Scarcity is often a distribution problem, not a resource problem," Jesus said. "Let them call it a miracle. That story spreads faster than 'Jesus organized an effective distribution network.' And the pattern persists underneath."
 
@@ -296,7 +296,7 @@ The officer left. Marcus and Simon sat in silence.
 
 "He already knows." Marcus stared into his cup. "We need to gather the core network tonight. Bethany. Everyone understanding that the timeline just compressed."
 
-Simon left to send word. Marcus sat alone, pulled out his wax tablet, and began writing. Five years of documentation. Parables, methodology, network structure. Data that someone forty-two generations from now might need.
+Simon left to send word. Marcus sat alone, pulled out his wax tablet, and began writing. Five years of documentation. Parables, methods, network structure. Data that someone forty-two generations from now might need.
 
 Twenty-eight years of military service, and it came to this. Writing down stories in a tavern.
 
@@ -324,7 +324,7 @@ Sarah crawled into her lap. "Mama? Are we going to die?"
 
 "Eventually. Everyone does." Mary held her daughter. "But we're going to teach as much as we can first."
 
-"We never have enough time," Jesus said quietly. "That's the constant. Every generation faces catastrophe before preparation is complete. Success isn't completing the work. It's passing it forward."
+"We never have enough time," Jesus said. "That's the constant. Every generation faces catastrophe before preparation is complete. Success isn't completing the work. It's passing it forward."
 
 He stood. "Tomorrow we continue teaching. Every day until they arrest me."
 

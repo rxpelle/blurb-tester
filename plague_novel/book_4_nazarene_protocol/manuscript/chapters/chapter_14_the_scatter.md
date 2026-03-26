@@ -56,7 +56,7 @@ Simon watched the figure beside him. Seven days since resurrection. Forty days r
 
 The sun rose fully. Galilee's waters reflected gold and pink. Simon had fished these waters for thirty years before Jesus called him. Three years of ministry. Now: watching resurrection appearances while coordinating network scatter while processing impossible truths.
 
-"Thirty-eight years," Jesus said quietly.
+"Thirty-eight years," Jesus said.
 
 Simon looked up. "What?"
 
@@ -222,7 +222,7 @@ If he touched and experienced certainty—proved nothing. Psychological need cou
 
 The verification Thomas demanded was impossible. Not because evidence was insufficient. Because the question itself was malformed.
 
-"My Lord and my God," Thomas said quietly.
+"My Lord and my God," Thomas said.
 
 Not because he'd verified physically—he hadn't touched. Not because he'd resolved doubt intellectually—uncertainty remained. But because he'd recognized that demanding singular explanation was wrong framework.
 
@@ -322,7 +322,7 @@ Mary Magdalene watched until the figure disappeared into distance and light and 
 
 Jesus had done exactly what he planned. Martyrdom triggering diaspora. Resurrection validating teaching. Appearances demonstrating continuity. Ascension distributing knowledge beyond single leader.
 
-Defensive mode operating perfectly across twelve hundred years from Nefertari to this moment.
+Defensive mode operating perfectly across forty-two generations from Nefertari to this moment.
 
 Now: her turn. Generation 42 Branch 3 becoming primary carrier. Sarah learning to be Generation 43. Knowledge scattering west.
 
@@ -356,7 +356,7 @@ One hundred twenty believers. Disciples, women's network, defensive elders, new 
 
 Mary Magdalene stood before them, Pattern Eye hidden in her robes, Sarah beside her. Speaking to the assembly:
 
-"Jesus taught us systems thinking disguised as spiritual wisdom. Now we teach that same methodology disguised as religious practice. Some of you will spread it theologically—Peter, John, James. Some methodologically—Thomas, Mary Magdalene, Matthias. Some infiltrate offensive networks to monitor—Judas's replacement. Some document—Marcus. All roles necessary."
+"Jesus taught us systems thinking disguised as spiritual wisdom. Now we teach that same thinking disguised as religious practice. Some of you will spread it theologically—Peter, John, James. Some through direct practice—Thomas, Mary Magdalene, Matthias. Some infiltrate offensive networks to monitor—Judas's replacement. Some document—Marcus. All roles necessary."
 
 The sound began subtly. Rushing wind. But no wind outside. Psychological phenomenon? Mass hallucination? Blood memory activation spreading through multiple carriers simultaneously?
 
@@ -505,7 +505,7 @@ She was forty-eight years old. Living in a small stone house outside Massalia, i
 
 Now it was finishing.
 
-Sarah found her sitting in the garden behind the house, hands in her lap, face turned toward the sea. Seventeen years old. Generation 43. She'd been with her mother since Damascus, through every city, every teaching, every night of writing by lamplight while the Roman world built churches over the methodology they were burying.
+Sarah found her sitting in the garden behind the house, hands in her lap, face turned toward the sea. Seventeen years old. Generation 43. She'd been with her mother since Damascus, through every city, every teaching, every night of writing by lamplight while the Roman world built churches over the teaching they were burying.
 
 "You're dying," Sarah said. Not a question.
 
@@ -613,7 +613,7 @@ James, Jesus's brother, pushed back: "Jesus taught practice, not just belief. Lo
 
 Peter intervened. "Jesus wanted the *teaching* to spread. Not theological simplification. Not institutional power. Not substitutionary atonement doctrine that replaces practice with belief."
 
-"Not what *you* want to control," Paul shot back. Eyes sharp. Intelligent. Dangerous. "You're still thinking like Jewish sect. Exclusive. Complicated. Limited. I'm thinking like world religion. Universal. Simple. Scalable. Which serves preservation better—your dozen communities practicing complex methodology, or my hundreds of churches believing simple gospel?"
+"Not what *you* want to control," Paul shot back. Eyes sharp. Intelligent. Dangerous. "You're still thinking like Jewish sect. Exclusive. Complicated. Limited. I'm thinking like world religion. Universal. Simple. Scalable. Which serves preservation better—your dozen communities practicing complex teaching, or my hundreds of churches believing simple gospel?"
 
 Terrible question. Because Paul was partially right.
 
@@ -637,7 +637,7 @@ James looked doubtful. "You're accepting offensive network infiltration. Deliber
 
 Paul interjected: "I'm not infiltrating anything. I'm serving Christ's mission."
 
-Peter met his eyes. "Whether you're consciously offensive network operative or unconsciously serving their agenda doesn't matter. Outcome is identical: Christianity becomes institution rather than practice, theology rather than methodology, belief system rather than knowledge system. We're accepting that because empire-scale distribution requires institutional vehicle. But we preserve original teaching underneath through blood memory carriers and encoded documentation."
+Peter met his eyes. "Whether you're consciously offensive network operative or unconsciously serving their agenda doesn't matter. Outcome is identical: Christianity becomes institution rather than practice, theology rather than practice, belief system rather than knowledge system. We're accepting that because empire-scale distribution requires institutional vehicle. But we preserve original teaching underneath through blood memory carriers and encoded documentation."
 
 "So you're agreeing?" Paul pressed. "Gentile mission continues?"
 
@@ -651,7 +651,7 @@ As Paul left, satisfied with permission secured, Peter turned to James.
 
 James, Jesus's brother, who'd watched Jesus grow up, who'd dismissed him as crazy during ministry, who'd recognized the truth only after resurrection, considered carefully.
 
-"No. We traded purity for reach. Jesus himself did that—encoded complex methodology as simple parables so both sophisticated and simple listeners could access appropriate layers. We're doing same at institutional scale. Paul's simple gospel reaches millions. Our methodological preservation reaches the few who can recognize it. Both necessary."
+"No. We traded purity for reach. Jesus himself did that—encoded complex thinking as simple parables so both sophisticated and simple listeners could access appropriate layers. We're doing same at institutional scale. Paul's simple gospel reaches millions. Our deeper preservation reaches the few who can recognize it. Both necessary."
 
 "And when offensive network fully infiltrates? When Christianity becomes Roman state religion under Constantine or whoever? When they use Jesus's anti-empire teaching to justify imperial power?"
 
@@ -841,7 +841,7 @@ But that was enough. That was the whole point. Defensive knowledge didn't requir
 
 Murmurs of agreement. The artifact had passed through Nefertari, Tausret, Moses, Jeremiah, Mary Magdalene, Peter, now Sarah. Thirteen centuries of unbroken custody. It would continue.
 
-"Paul's churches are spreading faster than ours," one elder reported. Defensive network member monitoring offensive infiltration. "His theology simplifies Jesus's teaching beyond recognition. Substitutionary atonement. Faith without works. Grace through belief alone. The methodology is disappearing."
+"Paul's churches are spreading faster than ours," one elder reported. Defensive network member monitoring offensive infiltration. "His theology simplifies Jesus's teaching beyond recognition. Substitutionary atonement. Faith without works. Grace through belief alone. The teaching is disappearing."
 
 "Let it," Sarah countered. "That's the disguise. Theological framework grows visible and accessible. Methodological core stays hidden and preserved. Both serving same distribution goal."
 
@@ -853,11 +853,11 @@ Christianity would spread. Become dominant religion. Corrupt completely into ins
 
 Terrible. Inevitable. *Strategic*.
 
-Because within that corrupted institutional Christianity, blood memory carriers would hide. Recognizing encoding. Extracting methodology. Preserving defensive knowledge through centuries of offensive domination.
+Because within that corrupted institutional Christianity, blood memory carriers would hide. Recognizing encoding. Extracting the teaching. Preserving defensive knowledge through centuries of offensive domination.
 
 "Yes," Sarah answered. "Christianity will corrupt completely. And defensive mode will survive *because* it's hidden inside that corruption. If we'd stayed pure, we'd have been suppressed immediately. But embedded within Rome's official religion? Impossible to eliminate without destroying Christianity itself."
 
-Another elder: "So Jesus's sacrifice achieved exactly what he intended. Martyrdom triggering diaspora. Resurrection encoding methodology. Christianity spreading defensively disguised as theological belief. Offensive network infiltrating but unable to suppress completely because they're spreading the very framework that preserves what they're trying to eliminate."
+Another elder: "So Jesus's sacrifice achieved exactly what he intended. Martyrdom triggering diaspora. Resurrection encoding the teaching. Christianity spreading defensively disguised as theological belief. Offensive network infiltrating but unable to suppress completely because they're spreading the very framework that preserves what they're trying to eliminate."
 
 "Exactly. They win institutionally. We win methodologically. Both true. Both acceptable. Both serving long-term preservation."
 
@@ -909,7 +909,7 @@ The knowledge surviving.
 
 The pattern continuing.
 
-Not because individual carriers were special. Because the methodology was resilient. Distributed preservation through forty-three generations. Forty-four. Fifty. Onward until defensive mode either emerged fully or embedded so deeply that extraction became unnecessary—knowledge simply practiced without conscious recognition.
+Not because individual carriers were special. Because the teaching was resilient. Distributed preservation through forty-three generations. Forty-four. Fifty. Onward until defensive mode either emerged fully or embedded so deeply that extraction became unnecessary—knowledge simply practiced without conscious recognition.
 
 Either outcome acceptable. Both serving preservation.
 

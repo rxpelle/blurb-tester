@@ -26,7 +26,7 @@ But knowing someone was coming and actually seeing them approach were different 
 
 "Teacher." One of John's students—Elias, nineteen, from a network family near Jericho—gestured toward Jesus. "Who is that?"
 
-"My cousin," John said quietly. "From Nazareth. I haven't seen him in fifteen years."
+"My cousin," John said. "From Nazareth. I haven't seen him in fifteen years."
 
 Not entirely true. John had *avoided* seeing Jesus for fifteen years. Since they'd spent one afternoon in Jerusalem comparing blood memory experiences — Jesus describing Pi-Ramesses with crystalline detail, architecture and population counts and clinic protocols, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse patterns the way some people sensed weather changes, but he didn't *see* the way Jesus saw.
 
@@ -134,7 +134,7 @@ Jesus walked into the Jordan. The water was cold — fed by mountain snowmelt ev
 
 John waded in after him. His hands were rough — calloused from years of sun-dried rope and desert stone — and when he placed one on Jesus's shoulder and the other against his back, Jesus could feel the strength in them. The strength of a man who lived outdoors and worked with his body and had pulled people out of this river before.
 
-"In the name of the network," John said quietly. "In memory of those who died teaching. In hope for those who survive learning. I baptize you."
+"In the name of the network," John murmured. "In memory of those who died teaching. In hope for those who survive learning. I baptize you."
 
 Jesus closed his eyes. Let John press him backward into the water. Felt cold close over his face, fill his ears, seal the world away. Total immersion. Weightless. The river held him the way the earth holds a seed — dark, patient, waiting for whatever would grow.
 
@@ -264,7 +264,7 @@ Something cold and final settled in John's chest. Not fear. Recognition. He'd be
 
 John followed him out of the water. The six witness students were staring. Jesus stood dripping on the riverbank, looking west.
 
-"The Pattern Eye," he said quietly. "I saw where it is. Phoenicia. Byblos. Hidden in ruins from the collapse. Will you search for it?"
+"The Pattern Eye," he said. "I saw where it is. Phoenicia. Byblos. Hidden in ruins from the collapse. Will you search for it?"
 
 "You want me to leave my people. Walk to Phoenicia. Dig through ruins for something that's been buried since before David was born."
 
@@ -298,7 +298,7 @@ Then he disappeared into darkness, walking back toward Galilee.
 
 John stood alone. He would search for the Pattern Eye. Would die criticizing Herod within three years. Would trust that his work mattered even though he'd never see what it became.
 
-He looked up at stars that had watched twelve hundred years of human catastrophe.
+He looked up at stars that had watched centuries of human catastrophe.
 
 "Let it work," he whispered.
 

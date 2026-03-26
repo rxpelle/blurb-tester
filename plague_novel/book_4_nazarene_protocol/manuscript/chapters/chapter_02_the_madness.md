@@ -82,7 +82,7 @@ Mary walked toward the salting works — her salting works — where the morning
 
 Mary's stomach dropped. She knew that tone. That careful distance.
 
-"Three more workers quit this morning," Tobias said quietly. "And Joanna sent word — she won't watch Sarah today. The rumors. She's concerned."
+"Three more workers quit this morning," Tobias said, not meeting her eyes. "And Joanna sent word — she won't watch Sarah today. The rumors. She's concerned."
 
 "Concerned about demons," Mary said flatly.
 
@@ -198,7 +198,7 @@ Mary walked back to her house, mind churning through logistics.
 
 Capernaum was eight miles north along the lake shore. She could hire a cart — money wasn't the issue. But the thought of arriving at a stranger's teaching with a three-year-old in tow, the merchant-woman from Magdala who spoke in tongues and collapsed in public — the humiliation of it stopped her.
 
-And even if she reached Capernaum, then what? Approach this teacher in front of crowds and say what? "I see cities from twelve hundred years ago and I think I'm losing my mind, can you help?"
+And even if she reached Capernaum, then what? Approach this teacher in front of crowds and say what? "I see ancient cities burning and I think I'm losing my mind, can you help?"
 
 He'd call for exorcists. Everyone did.
 
@@ -302,7 +302,7 @@ Sarah climbed into her lap. Mary held her daughter and cried and for the first t
 
 Mary looked at her daughter. Sarah had fallen asleep against her shoulder, exhausted from the long walk.
 
-"I have a business in Magdala," Mary said quietly. "A house. Workers — fewer every week, but still. A life I built. If I stay here learning, that falls apart. And Sarah needs stability, not a mother chasing explanations."
+"I have a business in Magdala," Mary said. "A house. Workers — fewer every week, but still. A life I built. If I stay here learning, that falls apart. And Sarah needs stability, not a mother chasing explanations."
 
 Jesus was quiet for a moment. Then: "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have — resources, organizational ability, someone who understands how to manage people and supply chains. And you need what they have: context for what's happening to you."
 
@@ -370,7 +370,7 @@ But these men claimed to understand. Jesus claimed to see the same things.
 
 She closed her eyes, letting the memory surface. "There's a woman. A physician. Nefertari. She's trying to help but she can't because the problem isn't medical—it's systemic. The whole civilization is failing. She watches Pharaoh Tausret die and knows the collapse is inevitable. All she can do is teach eighty-four people how to recognize the pattern so their descendants might prevent the next collapse."
 
-When Mary opened her eyes, Jesus was smiling. "Exactly right. Every detail accurate. That's blood memory—inherited knowledge so precise you can describe architecture and population counts from twelve hundred years ago."
+When Mary opened her eyes, Jesus was smiling. "Exactly right. Every detail accurate. That's blood memory—inherited knowledge so precise you can describe architecture and population counts from the Bronze Age."
 
 "But why?" Mary asked. "Why do I remember this?"
 
@@ -392,7 +392,7 @@ Mary watched the flame. Started seeing the invisible chains: oil trade, agricult
 
 Mary saw it. The same pattern as Pi-Ramesses. Different specifics, identical structure. Extraction → resentment → resistance → suppression → escalation → collapse.
 
-"You're seeing it," Jesus said quietly. "The pattern. That's what blood memory teaches you. Historical precedent for collapse cascades. Once you recognize the structure, you can see it forming in the present. And if you can see it forming—"
+"You're seeing it," Jesus said, leaning forward. "The pattern. That's what blood memory teaches you. Historical precedent for collapse cascades. Once you recognize the structure, you can see it forming in the present. And if you can see it forming—"
 
 "You can interrupt it," Mary finished. "Before it cascades."
 
@@ -430,7 +430,7 @@ Mary felt tears threatening again. She'd spent three years convinced she was fol
 
 He nodded to Peter. "Show her the memory exercise. The one we use to distinguish past from present."
 
-Peter looked uncertain but moved closer to Mary. "When blood memory surfaces," he began awkwardly, clearly unfamiliar with teaching women, "you ground yourself by naming five things in the present. Physical things you can see, touch, hear. It interrupts the vision's pull. Reminds your mind that you exist now, not twelve hundred years ago."
+Peter looked uncertain but moved closer to Mary. "When blood memory surfaces," he began awkwardly, clearly unfamiliar with teaching women, "you ground yourself by naming five things in the present. Physical things you can see, touch, hear. It interrupts the vision's pull. Reminds your mind that you exist now, not in the ancient past."
 
 "Demonstrate," Jesus prompted.
 
@@ -462,7 +462,7 @@ She opened her eyes, gasping.
 
 Mary looked at the twelve disciples. At Simon and his wife. At Sarah sleeping peacefully. At Jesus, who saw the same cities burning behind his eyes.
 
-"My mother died alone with this," she said quietly. "Nobody understood what she carried."
+"My mother died alone with this," she said. "Nobody understood what she carried."
 
 "I know." Jesus's voice was gentle but unflinching. "I can't promise you'll live longer than she did. Only that you won't die misunderstood."
 

@@ -150,7 +150,7 @@ Jesus's eyes sharpened. "Why would a Roman census-taker care about genealogy bey
 
 Silence. Jesus was evaluating him now, the same way Marcus had been evaluating Jesus.
 
-"You're network?" Jesus asked quietly.
+"You're network?" Jesus kept his voice low.
 
 "Affiliated. Recruited five years ago in Caesarea." Marcus gestured at the census line. "This whole province is building toward revolt. You can see it if you know where to look."
 
@@ -280,7 +280,7 @@ Marcus met his eyes. "I assessed him as non-threatening. His teaching promotes n
 
 Marcus stared at him. Twenty-three years of believing Rome at least tried to maintain order. But Lucullus was saying it plainly: Rome would rather provoke collapse than allow populations to develop resilience independent of imperial control.
 
-"What are your orders, sir?" Marcus asked quietly.
+"What are your orders, sir?" Marcus kept his voice level.
 
 "Monitor him. Attend his teachings. Document everything. Weekly reports."
 

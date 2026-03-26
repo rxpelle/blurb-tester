@@ -72,7 +72,7 @@ Marcus had been dreading this question for three years.
 
 Marcus felt something cold settle in his chest. Five years of wrestling with this problem, and the answer was always the same.
 
-"There's no solution," Marcus said quietly. "Arrest him, followers multiply. Leave him alone, the network grows. We're boxed."
+"There's no solution," Marcus said. "Arrest him, followers multiply. Leave him alone, the network grows. We're boxed."
 
 Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centurion. We enforce them."
 
@@ -136,7 +136,7 @@ Jesus looked at the young man with something like sadness. "What is your name?"
 
 Marcus filed that away. Barabbas. Known Zealot recruiter. Temple intelligence had flagged him twice for inciting riots during Passover.
 
-"Barabbas, you hear what you want to hear," Jesus said quietly. "I never said the Kingdom comes through violence."
+"Barabbas, you hear what you want to hear," Jesus said, voice even. "I never said the Kingdom comes through violence."
 
 "You said the powerful will fall and the humble will rise!"
 
@@ -194,7 +194,7 @@ Marcus felt his stomach drop. *Networks.* Not network, singular. Networks, plura
 
 Offensive network.
 
-"Get out," Marcus said quietly.
+"Get out," Marcus said, hand on his blade.
 
 "I will. After we talk." Matthias sat back down, uninvited. "You've been tracking Jesus of Nazareth for five years. Filing reports that consistently underestimate the threat level he represents. Omitting key details about bloodline markers and network affiliation. Protecting him."
 
@@ -208,7 +208,7 @@ Marcus said nothing.
 
 Marcus drew his gladius. "I said get out."
 
-"Violence isn't necessary. I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. "I'm here with an offer. The offensive network recognizes Jesus's value. He's a Generation 42 carrier with full Protocol access. His pattern recognition abilities are extraordinary. His teaching methodology is brilliant. We want to recruit him."
+"Violence isn't necessary. I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. "I'm here with an offer. The offensive network recognizes Jesus's value. He's a Generation 42 carrier with full Protocol access. His pattern recognition abilities are extraordinary. His teaching method is brilliant. We want to recruit him."
 
 "He won't work for you."
 

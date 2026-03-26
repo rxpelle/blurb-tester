@@ -12,7 +12,7 @@
 
 Jesus walked the Capernaum road at dawn, six months gone from this place.
 
-The Sea of Galilee spread to his right—dark water catching first light, fishing boats already working the shallows. Familiar. He'd taught here two years before the baptism, but that felt like a different lifetime now. Before the Jordan. Before the vision. Before he'd seen the complete Pattern in water immersion and understood exactly what Nefertari had built twelve hundred years ago.
+The Sea of Galilee spread to his right—dark water catching first light, fishing boats already working the shallows. Familiar. He'd taught here two years before the baptism, but that felt like a different lifetime now. Before the Jordan. Before the vision. Before he'd seen the complete Pattern in water immersion and understood exactly what Nefertari had built.
 
 Before he'd known with certainty that he had maybe five years left.
 
@@ -56,7 +56,7 @@ The woman appeared in the doorway, small child on her hip.
 
 She was tall, straight-backed even in exhaustion — the posture of someone who'd spent years running a business and managing workers. Her clothes were good linen, indigo-dyed, travel-worn but expensive. Not the rags of a beggar. The hands of a woman who'd worked with ledgers and contracts, not grinding stones. But her eyes — her eyes had the bruised, hunted look of someone who hadn't slept properly in months.
 
-"You're Jesus," she said. Magdalene accent, educated diction. "The teacher Simon said could help me understand why I see cities burning that fell twelve hundred years ago."
+"You're Jesus," she said. Magdalene accent, educated diction. "The teacher Simon said could help me understand why I see cities burning that fell before David was born."
 
 "I'm Jesus. Sit."
 
@@ -148,7 +148,7 @@ Mary hadn't moved. Sarah was sleeping in her lap. Tears ran down Mary's face —
 
 Jesus descended from the outcrop and reached her as the crowd dispersed.
 
-"You heard it," he said quietly.
+"You heard it," he said.
 
 "Both layers." Her voice shook. "The spiritual instruction and the *thing underneath*. Every Beatitude — they're not just moral teachings. They're behaviors that prevent the same patterns I see in blood memory. Peacemaking interrupts escalation. Non-retaliation breaks cycles. Love your enemies because *hate is what makes the cascade lock*."
 
@@ -220,7 +220,7 @@ The training went on — Matthew's example of a market dispute resolved by an ol
 
 When the Twelve left, she stayed.
 
-"The blood memory showed me Jerusalem burning," she said quietly. "Three years of nightmares. And now you're telling me it's real."
+"The blood memory showed me Jerusalem burning," she said. "Three years of nightmares. And now you're telling me it's real."
 
 "Real and inevitable. But preparation-capable." Jesus met her eyes. "Sarah will be forty-five when it happens. Old enough to have children of her own. If you train her correctly, she survives it. Carries the teaching forward."
 

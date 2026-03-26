@@ -10,7 +10,7 @@
 
 In Damascus, one hundred twenty miles north, Sarah woke before dawn.
 
-Seven years old. Generation 43. Sleeping in the safe house where Leah had brought her four days ago, carrying the Pattern Eye wrapped in linen and the two bronze defensive keys Jesus had transferred to her mother before his arrest. Sarah had cried for two days. Not because she fully understood martyrdom methodology. Because her mother had put her on a cart and said *I have to stay* and Sarah had watched her disappear into the crowd of Jerusalem pilgrims.
+Seven years old. Generation 43. Sleeping in the safe house where Leah had brought her four days ago, carrying the Pattern Eye wrapped in linen and the two bronze defensive keys Jesus had transferred to her mother before his arrest. Sarah had cried for two days. Not because she fully understood martyrdom as strategy. Because her mother had put her on a cart and said *I have to stay* and Sarah had watched her disappear into the crowd of Jerusalem pilgrims.
 
 Now Leah sat beside her sleeping mat, face tight.
 
@@ -263,9 +263,9 @@ The second: "He is not here. He has risen. Remember what he told you."
 Mary's blood memory translated:
 
 - "Living" = teaching alive in practice
-- "Dead" = physical remains (relocated, irrelevant to methodology)
+- "Dead" = physical remains (relocated, irrelevant to teaching)
 - "Not here" = body protected elsewhere
-- "Risen" = methodology resurrected in community
+- "Risen" = teaching resurrected in community
 - "Remember" = access what he taught you, not what you wish he'd do
 
 She understood. Completely. The way only a blood memory carrier could understand multi-layered communication.
@@ -466,7 +466,7 @@ He'd promised to die with Jesus if necessary. Instead he'd denied knowing him th
 
 Now Jesus was dead. Or risen. Or both. Or neither. And Peter had to decide what to believe when belief itself had multiple possible meanings.
 
-"I believe he's alive," John said quietly.
+"I believe he's alive," John said.
 
 Peter turned to his friend. "Based on what? Empty tomb? That's evidence of extraction, not resurrection."
 
@@ -658,7 +658,7 @@ Silence. Shame. Military operatives understanding they'd broken under pressure.
 
 Caiaphas stood, pacing. Seventy-three years old. High Priest for fourteen years. Offensive network coordinator for thirty. He'd dedicated his entire adult life to preventing exactly this: genetic memory carriers spreading defensive knowledge that undermined civilizational order.
 
-Jesus of Nazareth had been the most dangerous carrier in generations. Direct lineage to Tausret through forty-one previous generations. Full Protocol access. Teaching methodology disguised as theology. Network coordination masked as spiritual community.
+Jesus of Nazareth had been the most dangerous carrier in generations. Direct lineage to Tausret through forty-one previous generations. Full Protocol access. Teaching disguised as theology. Network coordination masked as spiritual community.
 
 Caiaphas had worked for three years to engineer his execution. Coordinating Temple authorities, Roman prefect, even Zealot factions. Making Jesus's death inevitable while allowing him to feel he'd chosen martyrdom voluntarily.
 
@@ -692,7 +692,7 @@ Caiaphas almost smiled. "Perfect."
 
 The guards looked confused.
 
-Caiaphas explained, speaking as much to himself as to them: "A living Jesus is dangerous. A movement leader with network coordination, teaching methodology, systemic threat. That Jesus we had to execute.
+Caiaphas explained, speaking as much to himself as to them: "A living Jesus is dangerous. A movement leader with network coordination, teaching method, systemic threat. That Jesus we had to execute.
 
 "But a *dead* Jesus whose followers claim resurrection? That's manageable. That's theology, not strategy. That's faith community, not defensive network. That's religious movement, which we can infiltrate, control, eventually absorb into institutional structure."
 
@@ -724,13 +724,13 @@ Another guard asked: "What about Mary Magdalene? She's a carrier. Generation 42,
 
 "Will protect the body, coordinate scatter, preserve the teaching in hidden form. But they'll also *use* the resurrection narrative because it serves their purposes too. Geographic distribution. Persecution validation. Martyrdom encoding.
 
-"Both networks benefit from empty tomb mythology. We infiltrate the religious movement. They preserve the knowledge within it. Two thousand years from now, Christianity will be the world's largest religion—and almost no one will remember it started as defensive mode methodology."
+"Both networks benefit from empty tomb mythology. We infiltrate the religious movement. They preserve the knowledge within it. Two thousand years from now, Christianity will be the world's largest religion—and almost no one will remember it started as defensive mode teaching."
 
 The guard who'd asked about Mary Magdalene spoke again: "Infiltration methods, Excellency? Specific protocols?"
 
 Caiaphas nodded, appreciating tactical thinking. "Phase one: Embed operatives in emerging communities. Not as opposition—as believers. Enthusiastic converts who gradually assume leadership positions. Within one generation, half the church elders will be offensive network without knowing they're offensive network. They'll simply believe they're protecting doctrine.
 
-"Phase two: Institutionalization. Replace house churches with formal structures. Hierarchy. Centralized authority. Theological gatekeeping. Transform community practice into ritual observance. The methodology Jesus taught—systems thinking, pattern recognition—becomes symbolic liturgy. Effective knowledge converts to performative tradition.
+"Phase two: Institutionalization. Replace house churches with formal structures. Hierarchy. Centralized authority. Theological gatekeeping. Transform community practice into ritual observance. What Jesus taught—systems thinking, pattern recognition—becomes symbolic liturgy. Living knowledge converts to performative tradition.
 
 "Phase three: Imperial adoption. Within three centuries, Constantine or someone like him will recognize Christianity's utility. Rome will make Jesus's anti-empire teaching into the empire's official religion. The ultimate corruption—using defensive knowledge to justify offensive power. We've done it before. We'll do it again."
 
@@ -738,7 +738,7 @@ Caiaphas returned to his seat, feeling the weight of seventy-three years and thi
 
 They'd lost this round. Jesus dead but teaching spreading. Empty tomb creating mythology. Disciples forming proto-Christian community.
 
-But long game? Offensive network would win. Always did. Infiltrate the institutions, control the interpretation, let theology obscure methodology until knowledge became ritual and ritual became power structure.
+But long game? Offensive network would win. Always did. Infiltrate the institutions, control the interpretation, let theology obscure the teaching until knowledge became ritual and ritual became power structure.
 
 "Go," Caiaphas told the guards. "Take your payment. Spread the story. 'His disciples stole him while we slept.' Make it obvious you're lying. Let people choose which lie they prefer: ours or theirs."
 
@@ -754,7 +754,7 @@ And the offensive network was already planning how to turn Christianity into the
 
 That was offensive mode.
 
-And it had been working for twelve hundred years.
+And it had been working since the founding.
 
 ---
 
@@ -878,7 +878,7 @@ And Marcus Publius Scipio—census official, military defector, witness to impos
 
 One concern gnawed at him as he walked: Forty years from now, would 70 CE's destruction arrive as Jesus predicted? Would the network scatter successfully? Would persecution under Nero—already whispered about in Rome—fracture the communities before they could distribute widely enough?
 
-The defensive network had survived twelve hundred years through strategic dispersion. But Christianity was growing *too* visible, *too* quickly. Visibility meant vulnerability. The offensive network would infiltrate before the teaching could fully encode into practice. That race—between distribution and corruption—would determine whether Jesus's sacrifice achieved permanent preservation or became another suppressed carrier line.
+The defensive network had survived through strategic dispersion. But Christianity was growing *too* visible, *too* quickly. Visibility meant vulnerability. The offensive network would infiltrate before the teaching could fully encode into practice. That race—between distribution and corruption—would determine whether Jesus's sacrifice achieved permanent preservation or became another suppressed carrier line.
 
 Marcus couldn't control that outcome. He could only document. Preserve perspectives. Trust future generations to extract meaning from complexity.
 
@@ -962,7 +962,7 @@ Silence in the courtyard. Wind moving through the date palms beyond the wall. Sa
 
 Mary looked at her daughter for a long time. "I stood at the cross and watched him die. I touched the stone they sealed over his body. I went back on the third day and the tomb was empty and then he was standing in front of me saying my name." She ran her hand through Sarah's hair. "I don't know how to explain it. I only know what I saw."
 
-"That's enough," Leah said quietly. "That's what the blood will carry."
+"That's enough," Leah said. "That's what the blood will carry."
 
 ---
 
@@ -1011,7 +1011,7 @@ Mary Magdalene asked the question they were all carrying: "What if the offensive
 
 Leah answered from the doorway, Sarah beside her: "They will. They always do. Within three hundred years, Christianity will become Rome's official religion — the very empire that executed Jesus."
 
-Mary nodded. She'd been expecting it too. "But defensive knowledge doesn't depend on institutional purity. It depends on *pattern accessibility*. As long as the teachings are preserved — even in theological form — future carriers can extract the methodology. Sarah's descendants, Generation 44, 45, 50, 100 — they'll recognize the encoding. That's how blood memory works: Knowledge survives institutional corruption through genetic transmission."
+Mary nodded. She'd been expecting it too. "But defensive knowledge doesn't depend on institutional purity. It depends on *pattern accessibility*. As long as the teachings are preserved — even in theological form — future carriers can extract the teaching. Sarah's descendants, Generation 44, 45, 50, 100 — they'll recognize the encoding. That's how blood memory works: Knowledge survives institutional corruption through genetic transmission."
 
 Sarah looked up at her mother. "So I have to preserve it? For Generations 44 and beyond?"
 
@@ -1041,15 +1041,15 @@ Mary gathered them close — Sarah, Marcus, Leah, Abigail, Rachel — the core n
 
 "Forty days of appearances," she said. "Then ascension — final geographic scatter. Then Pentecost — public teaching demonstration. Then growth — churches forming across provinces. Then 70 CE — Jerusalem's destruction validating Jesus's timeline prediction, triggering permanent diaspora.
 
-"We're at the beginning. The resurrection isn't the ending of Jesus's story. It's the beginning of Christianity. And within Christianity, hidden but accessible, defensive mode methodology will preserve for generations until someone recognizes the pattern again."
+"We're at the beginning. The resurrection isn't the ending of Jesus's story. It's the beginning of Christianity. And within Christianity, hidden but accessible, defensive mode will preserve for generations until someone recognizes the pattern again."
 
 Sarah asked: "Will it work? Will the knowledge survive?"
 
-Mary pulled her daughter close. "It already has. From Nefertari to Jesus: twelve hundred years across forty-two generations through empire collapse, cultural destruction, language shifts, geographic displacement. The pattern holds. Blood memory preserves.
+Mary pulled her daughter close. "It already has. From Nefertari to Jesus: forty-two generations through empire collapse, cultural destruction, language shifts, geographic displacement. The pattern holds. Blood memory preserves.
 
 "Now Christianity becomes the next vessel. Imperfect. Corrupted by offensive infiltration. Weaponized by power structures. But beneath all that — accessible to those with blood memory, pattern recognition, systems thinking — the teaching continues."
 
-She looked at Marcus. "He told me in the garden: *I ascend to my Father and your Father, my God and your God.* Same source. Same system. Same methodology available to everyone." She pressed her palm against her left side, where the warmth had lived since before she could remember. "That's resurrection — knowledge that belongs to everyone, not just the institution that claims to own it."
+She looked at Marcus. "He told me in the garden: *I ascend to my Father and your Father, my God and your God.* Same source. Same system. Same teaching available to everyone." She pressed her palm against her left side, where the warmth had lived since before she could remember. "That's resurrection — knowledge that belongs to everyone, not just the institution that claims to own it."
 
 Darkness settled over Damascus. One hundred twenty miles south, Jerusalem continued processing impossible events. Disciples arguing about empty tombs. Temple authorities bribing guards. Roman officials maintaining order. Offensive network planning infiltration. Defensive network coordinating scatter.
 
