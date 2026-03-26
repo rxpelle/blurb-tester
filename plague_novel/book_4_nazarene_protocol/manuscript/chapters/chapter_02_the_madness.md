@@ -54,9 +54,9 @@ She'd woken on the ground to find a crowd surrounding her. The baker's wife back
 
 The whispers had started that day: *Possessed. Seven demons. Madness runs in her family—her mother had it too.* It didn't matter that Mary owned a house and three salting vats and employed a dozen workers. It didn't matter that she'd funded the synagogue's new reading room or kept two widows fed through winter. Wealth couldn't protect you from a community that had decided your illness was spiritual corruption.
 
-"Mama, are you crying?" Sarah's small hand touched Mary's wet cheek.
+"Mama?" Sarah's small hand pressed against Mary's jaw, turning her face. "Your hands are shaking."
 
-"No, sweet one. Just tired." Mary wiped her eyes. "Let's get breakfast. Then you can play with Joanna's children while I work."
+Mary unclenched her fists. "Just tired, sweet one. Let's get breakfast. Then you can play with Joanna's children while I work."
 
 If Joanna would still let Sarah near her children. Mary wasn't certain anymore. The demon-possession rumors were spreading. Even families who'd accepted her charity were keeping distance now.
 
@@ -66,7 +66,7 @@ She dressed Sarah, then herself. Good linen, dyed the deep blue that marked her 
 
 Until the episodes started driving her workers away.
 
-Outside, Magdala was waking. Fishing boats returning from night work on the lake. Market vendors setting up stalls. The smell of fresh-caught fish mixing with bread baking and the ever-present scent of water and mud that defined lakeside towns.
+Outside, Magdala was waking. Fishing boats nosing into the harbor, oars dripping. The town smelled the way it always smelled—brine and fish guts and the sharp mineral tang of the salting vats, undercut by bread smoke from the ovens near the synagogue. Gulls screamed over the catch. A donkey brayed somewhere uphill. The lake was flat and silver in the early light, and Mary thought, as she did every morning, that it was beautiful, and that beauty didn't help.
 
 Mary walked toward the salting works — her salting works — where the morning's catch would already be arriving. Her foreman Tobias had been managing the operations on days when Mary couldn't function, which was most days now.
 
@@ -82,119 +82,43 @@ She didn't remember collapsing yesterday. The episodes came so frequently now th
 
 "I know, Tobias. Thank you for staying." Mary turned away before he could see her face.
 
-She wasn't poor. She had the house, the warehouse, savings from years of good business. Money wasn't the problem. The problem was that wealth meant nothing when your community had decided you were cursed. You could own half the salting vats in Magdala and still be untouchable if people believed demons spoke through your mouth.
-
 Sarah was playing near the water's edge, throwing pebbles. Unaware that their world was shrinking.
 
-Mary sat on the dock, mind racing through options. She could leave Magdala. Try another town where the rumors hadn't spread. She had the means to travel — that wasn't the issue. But she had no family to shelter her — her mother had died five years ago, her father even earlier. No husband — Sarah's father had been a merchant passing through, gone before Mary realized she was pregnant. And wherever she went, the episodes would follow.
+Mary sat on the dock and watched her daughter. The salt wind stung her eyes—or maybe that wasn't the wind. She'd tried the exorcists. Twice. Prayers, herbs, salt and oil, invoking divine names. The second time, she'd dreamed Pi-Ramesses burning so vividly she'd woken with the smell of smoke in her hair.
 
-She could seek help from the synagogue. But the Pharisees already looked at her with suspicion. Unmarried woman of independent means. Visions. Possible demon possession. They'd demand exorcism as a condition of any assistance.
+It wasn't possession. She knew that now. It was something inherited, something in the blood—her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
 
-Mary had tried exorcism. Twice. The first time, a local healer had recited prayers and burned herbs and declared her cleansed. The visions continued. The second time, a traveling exorcist from Jerusalem had performed elaborate rituals involving salt and oil and invoking divine names. That night, Mary had dreamed Pi-Ramesses burning so vividly she'd woken with the smell of smoke in her hair.
+She'd asked the synagogue teachers about the city she kept seeing. Described it—grid pattern, four quarters, Nile Delta. The rabbi had looked disturbed. Said Pi-Ramesses was real, abandoned over a thousand years ago. How did a fish-merchant from Magdala know the layout of a city that no longer existed?
 
-The exorcists couldn't help because this wasn't possession.
-
-This was something else. Something inherited. Something that ran in families—her mother had experienced visions too, died at thirty-four calling out names in languages she shouldn't have known.
-
-Mary was starting to think she'd follow the same trajectory. Die young, mind shattered by memories that weren't hers, leaving Sarah orphaned and alone.
-
-*There has to be another explanation,* Mary thought desperately. *Visions this detailed can't be random madness. The patterns are too consistent. The historical details too accurate.*
-
-She'd tried asking the synagogue teachers. Described the city she kept seeing — Pi-Ramesses, grid pattern, four quarters, Nile Delta location. The rabbi had looked disturbed. Said Pi-Ramesses was real, capital of Egypt during Ramesses II's reign, but it had been abandoned over a thousand years ago. How did a fish-merchant from Magdala know architectural details of a city that didn't exist anymore?
-
-Mary didn't have an answer. Only that she saw it. Experienced it. Remembered it with an intensity that made her present life feel like the dream and the visions feel like reality.
+Mary didn't have an answer. Only that the visions were too consistent to be madness.
 
 "Mama!" Sarah ran over, hands full of lake shells. "Look what I found!"
 
-Mary forced a smile, examining the shells with theatrical enthusiasm. "Beautiful, little one. Let's save them."
+"Beautiful, little one." Mary took the shells, turning them in her fingers. Smooth. Real. Present.
 
-"Can we keep them?" Sarah asked with a three-year-old's earnestness.
+Sarah settled beside her, arranging shells in patterns on the dock with the concentration of a child who believed the world could be organized if you just found the right order.
 
-"Always," Mary said. "We can always keep beautiful things that the lake gives us."
+Mary watched her daughter's hands and made a decision. She couldn't die at thirty-four with Sarah watching. She couldn't wait for Magdala to decide her episodes required something harsher than prayer.
 
-Sarah seemed satisfied. She settled beside Mary, arranging shells in patterns on the dock.
-
-Mary watched her daughter and felt desperation crystallize into determination.
-
-She couldn't keep living like this. Couldn't keep collapsing into visions while her daughter watched. Couldn't keep losing employment because her mind existed partially in the past. Couldn't keep being labeled possessed and insane when she knew—*knew*—there was a pattern here that meant something.
-
-Someone had to understand what was happening to her.
-
-Someone had to know why she saw these things.
-
-And if no one in Magdala knew, she'd find someone who did.
-
-Even if that meant traveling with no money and a small child. Even if it meant risking what little stability she had left. Even if it meant searching for answers that might not exist.
-
-Because the alternative—slowly losing her mind while Sarah watched her mother deteriorate into madness—was unacceptable.
-
-Mary stood, the resolve hardening. "Sarah, we're going on a trip."
+"Sarah. We're going on a trip."
 
 "Where?"
 
-"I don't know yet. But somewhere there are answers."
+"Capernaum. There's a teacher there who might understand things other people don't."
 
 ---
 
-## SCENE 2: The Marketplace
+## SCENE 2: The Journey
 
-Three days later, Mary heard about the teacher.
+She'd heard the name three days earlier—two fishermen in the marketplace talking about a teacher in Capernaum. Five thousand at one gathering. Parables about seeds and kingdoms. "But I heard something else underneath," one had said. "Like he's showing us how things connect to one another. Hidden threads."
 
-She was in Magdala's marketplace — buying supplies for a household that was beginning to feel like a fortress, the walls closing in as neighbors crossed to the other side of the street — when she overheard two fishermen talking.
+*Hidden threads.* Mary had nearly dropped her bread.
 
-"—five thousand people," one was saying. "I'm telling you, I was there. Never seen crowds that large for a religious teacher."
+His name was Jesus ben Yosef. Carpenter by trade. Simon the fisherman hosted him. Eight miles north along the lake shore.
 
-"What's he teaching?" the other asked.
+Mary had spent three days arguing herself out of going. A possessed woman arriving with a three-year-old at a stranger's teaching—the humiliation. He'd call for exorcists. Everyone did.
 
-"Hard to explain. Parables mostly. Stories about seeds and kingdoms and how small things become large. My wife says it's spiritual instruction. But I heard something else underneath—like he's showing us how things connect to one another. Hidden threads that bind events. Why the fish vanish when the rain changes, why trade stops when a distant city burns."
-
-Mary's attention sharpened. *Hidden threads.*
-
-"Where does he teach?" she asked before she could stop herself.
-
-The fishermen looked at her—brief recognition, longer discomfort. Everyone in Magdala knew about Mary now. The possessed woman. The one who collapsed and spoke in ancient tongues.
-
-"Capernaum mostly," one fisherman said carefully. "Sometimes travels to other towns. He's from Nazareth originally but bases himself in Capernaum. Simon the fisherman hosts him."
-
-"What's his name?"
-
-"Jesus. Jesus ben Yosef. Carpenter by trade, teacher by calling."
-
-"And he talks about... connections? Seeing how things fit together?"
-
-"You'd have to hear it yourself. Some people hear religious teaching. Others hear something deeper." The fisherman shifted uncomfortably. "Are you—I mean, do you need—"
-
-"I'm fine," Mary lied. "Thank you for the information."
-
-She walked away before the conversation could become awkward charity or concerned intervention.
-
-*Jesus ben Yosef. Capernaum. Hidden threads.*
-
-It might be nothing. Probably was nothing. Religious teachers were common—every town had rabbis and self-proclaimed prophets offering spiritual guidance. Most taught conventional wisdom dressed in theological language.
-
-But *seeing how things connect*. That wasn't typical religious vocabulary. That was closer to what Mary saw in her visions—Nefertari watching a whole civilization unravel, tracing the threads that connected drought to famine to war to collapse.
-
-Maybe this teacher understood what was happening to her. Maybe he knew what the visions meant.
-
-Mary walked back to her house, mind churning through logistics.
-
-Capernaum was eight miles north along the lake shore. She could hire a cart — money wasn't the issue. But the thought of arriving at a stranger's teaching with a three-year-old in tow, the merchant-woman from Magdala who spoke in tongues and collapsed in public — the humiliation of it stopped her.
-
-And even if she reached Capernaum, then what? Approach this teacher in front of crowds and say what? "I see ancient cities burning and I think I'm losing my mind, can you help?"
-
-He'd call for exorcists. Everyone did.
-
-But the alternative was staying in Magdala, watching her business collapse while the episodes intensified and the community's fear of her grew until someone decided demon possession needed harsher intervention than prayer.
-
-Mary had heard stories. Women beaten to drive out demons. Imprisoned for their own protection. Wealth was no shield — it could even accelerate the danger, because a possessed woman with property was a woman whose property the community might decide to redistribute for her own good.
-
-She wasn't going to wait for Magdala to decide she was dangerous.
-
-"Sarah," Mary called to her daughter, who was arranging the lake shells in her usual meticulous patterns. "How do you feel about an adventure?"
-
-Sarah looked up, eyes bright. "What kind of adventure?"
-
-"We're going to meet a teacher. In Capernaum. A man who might understand things that other people don't."
+But the alternative was Magdala. The emptying warehouse. Neighbors crossing the street. The growing certainty that eventually someone would decide her episodes required something harsher than prayer. She'd heard stories—women beaten to drive out demons, imprisoned for their own protection. A possessed woman with property was a woman whose property the community might decide to redistribute for her own good.
 
 "Will he understand why you scream at night?"
 
@@ -206,15 +130,7 @@ Mary felt her throat tighten. Sarah was three. She shouldn't have to think about
 
 The next morning, Mary packed their few possessions into a carry sack. Two changes of clothes. Sarah's shells. The small amount of bread and dried fish that remained from her last wages. Three silver coins—everything she had left.
 
-The walk to Capernaum took four hours. Sarah was brave for the first mile, chattering about the boats on the lake and the birds overhead. But by mile two she was dragging, and Mary had to carry her. By mile three, Mary's back was screaming and her legs felt like they'd give out.
-
-But she kept walking.
-
-The visions came twice during the journey—brief flashes this time, not full immersions. Once she saw Babylon during the exile, network families gathering in secret to preserve knowledge while the Temple burned. Another time she saw a woman fleeing Mycenae as the city fell to raiders, carrying her daughter and a bronze disc that pulsed warm against her chest.
-
-Each vision left Mary gasping, stumbling, nearly dropping Sarah. But she recovered. Kept moving.
-
-*Just get to Capernaum. Find the teacher. Get answers.*
+The walk to Capernaum took four hours. Sarah chattered for the first mile, then dragged, then had to be carried. Twice the visions hit during the walk—brief flashes, not full immersions. Babylon burning while families scattered west. A woman fleeing Mycenae with her daughter and a bronze disc that pulsed warm against her chest. Each time Mary stumbled, nearly dropped Sarah, recovered, kept walking.
 
 Capernaum appeared in late afternoon—larger than Magdala, more prosperous, fishing boats crowding the harbor. Mary asked three different people where to find Jesus the teacher before getting directions to Simon's house.
 
@@ -236,73 +152,71 @@ A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's buil
 
 "You're the merchant from Magdala." Not a question.
 
-Mary stood slowly, pulse accelerating. "How did you—"
+Mary stood slowly. Her merchant's instinct—the part that evaluated strangers before trusting them—flared. "How do you know who I am?"
 
-"Simon told me about you. A woman in Magdala—falling episodes, visions of burning cities, community calling it possession." He crossed the courtyard, stopped a respectful distance away. "I've been hoping you'd come. I'm Jesus."
+"Simon described you. A woman in Magdala with falling episodes, visions of burning cities. Community calling it possession." He crossed the courtyard, stopped a respectful distance away. "I'm Jesus."
 
-Mary felt the world tilt. "Simon knows about me?"
+"And you want what, exactly? I've seen enough traveling healers to recognize a pitch."
 
-"He's been watching for carriers across the region. People whose families show certain signs." Jesus—the teacher—sat on the wall beside her, careful to maintain proper distance. "Tell me what you see in the visions. The city."
+He didn't flinch. Didn't smile. Just sat on the wall beside her—careful distance, no presumption—and said, "Tell me what you see. The city."
 
-Mary hesitated. But something in his voice—the steadiness of a man who would not flinch at what she described—made her speak.
+Mary almost didn't. But she was eight miles from home with a sleeping child and no plan, and something in his stillness—the way he waited without filling the silence—reminded her of her father, who'd taught her to negotiate by listening first.
 
-"A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses around her. A queen dying of fever." Mary's voice shook. "I know their names. Nefertari. Tausret. I don't know how I know them."
+"A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses." Mary's voice was steady—the voice she used for contracts, not confessions. "I know their names. Nefertari. Tausret. I don't know how I know them."
 
-Jesus's breath caught. "You see Nefertari?"
+Jesus's hands went still on his knees. "You see Nefertari?"
 
 "Every night."
 
 "So do I." His voice dropped. "Every night since I was three years old."
 
-Mary stared at him. The ground shifted under her. Someone else saw what she saw.
+Mary stared at him. She'd braced for exorcism prayers, for pity, for the careful distance of a man humoring a madwoman. Not this.
 
-"You've tried exorcisms," Jesus continued quietly. "They didn't work. You've tried ignoring the visions. They got stronger. And now you're here because the alternative is losing your mind the way your mother did."
+"Your mother," he said quietly. "She had it too."
 
-"How do you know about my mother?"
+Mary's throat closed. "How do you—"
 
-"Because the pattern is always the same. Carriers who don't understand their inheritance—the visions overwhelm them. They think they're going mad. Their communities think they're possessed. And without training, the episodes intensify until—" He paused. "Your mother. She died young?"
+"Because it always goes the same way. The visions overwhelm. The community calls it demons. Without help, the person—" He stopped himself. "She died young?"
 
-"Thirty-four. She—" Mary's voice broke. "She had the same episodes. The falling, the visions. She'd describe cities she'd never visited in detail that frightened the physicians. The community said demons ran in our family. That I'd inherited her curse. But it wasn't a curse. It was an illness — the same illness, passed from mother to daughter."
+"Thirty-four." Mary's voice cracked despite herself. "She described cities she'd never seen. The physicians couldn't explain it. The community said demons ran in our family."
 
-"You inherited her blood. And the blood carries memory." Jesus spoke carefully, like a man choosing words for something that had no easy name. "Your ancestor was there when Pi-Ramesses fell. What she saw went so deep it passed to her children. And their children. Forty-two generations. By the time it reached you, the memories feel as real as your own life."
+"Not demons. Blood. Your ancestor was there when that city fell. What she lived through went so deep it passed to her children. Forty-two generations. By the time it reached you, the memories feel as real as your own life."
 
-Sarah was listening with wide eyes, not understanding but sensing this was important.
+Mary turned the idea over the way she'd turn a contract clause, looking for the flaw. "Like how Sarah has my eyes. But in the mind instead of the face."
 
-Mary frowned. "Like how Sarah has my eyes? But instead of eye color, I inherited... memories?"
+"Yes."
 
-"Exactly. Your ancestor lived through the city burning. What she experienced was so powerful it wrote itself into the blood and passed down. Like eye color, but in the mind instead of the face."
+"And you're saying—" She stopped. Tested the words before releasing them. "I'm not possessed."
 
-"I'm not possessed?" Mary asked, needing to hear it confirmed.
+"You're not possessed."
 
-"You're not possessed. The blood remembers what individuals forget. You see Pi-Ramesses burning because your ancestor saw it burn. You see Babylon because another ancestor lived through that exile."
+The relief hit her like a physical force—knees weakening, vision blurring. Exorcists and physicians and neighbors who crossed the street. And this carpenter in a borrowed courtyard had just said the thing none of them could say, and he'd said it like it was simple. Like it was obvious.
 
-Mary felt tears streaming down her face. Not grief. *Relief*. Overwhelming, crushing relief.
+Sarah stirred against her shoulder. Mary held her daughter and let something loosen in her chest—a knot she'd been carrying so long she'd forgotten it was there.
 
-She wasn't mad. Wasn't cursed. Wasn't demon-possessed.
+"Can you make it stop?" she asked when she could speak.
 
-Sarah climbed into her lap. Mary held her daughter and cried and for the first time in three years the crying wasn't from fear.
+"No. But I can teach you to read them. Right now they're overwhelming because you don't have context. With training, you learn to observe without drowning."
 
-"Can you make it stop?" she asked when she could speak again.
+Mary was quiet. Her merchant's mind was already working—the part that saw supply routes and calculated losses. "The visions show the same thing every time. A city that grew too fast, took in too many people, ran out of resources. Trade collapsed. Then everything burned."
 
-"No. But I can teach you to control it. Use it instead of being used by it." Jesus's voice was calm, certain. "The visions show you what's coming. Right now they're overwhelming because you don't know how to read them. But if you learn — the visions become useful instead of terrifying."
+"Yes."
 
-"Useful how?"
+"And this region—" She looked at the lake, the fishing boats, the Roman road running north toward the garrison. "Rome squeezing harder every year. Zealots pushing back. People getting angrier. The economy tightening." She turned to face him. "It's the same pattern. Different city."
 
-"You can see collapse coming before it arrives. Intervene early. That's what the blood memory is for—teaching you to recognize the warning signs so you can act before the fire spreads." He gestured toward Capernaum. "This whole region is sliding toward revolt. Rome squeezing harder. The Zealots pushing back. The same pattern your visions keep showing you—the one that burned Pi-Ramesses. It's building again, right here."
+Jesus was watching her with an expression she couldn't read—surprise, maybe, or something closer to relief. "You see it."
 
-Mary felt something click. The vision wasn't just ancient history. It was a warning. "The same thing is happening now. Different city, same pattern."
+"I'm a merchant. I've watched trade routes dry up and markets panic. I just didn't know the visions were showing me the same thing at a larger scale." She paused. "That's what the blood memory is for? Seeing collapse before it arrives?"
 
-"Exactly. And most people can't see it coming. But you can."
+"Yes."
 
 Mary looked at her daughter. Sarah had fallen asleep against her shoulder, exhausted from the long walk.
 
-"I have a business in Magdala," Mary said. "A house. Workers — fewer every week, but still. A life I built. If I stay here learning, that falls apart. And Sarah needs stability, not a mother chasing explanations."
+"I have a business in Magdala," Mary said. "A house. A daughter who needs stability. If I stay here, that falls apart."
 
-Jesus considered this. "There's a network. Families who've been carrying fragments of this knowledge for forty-two generations. Scattered across the region, but connected. Some in Capernaum. They need exactly what you have—resources, a talent for managing people and provisions, someone who knows how to keep a household fed and a trade route open. And you need what they have: context for what's happening to you."
+"You want my money," she added flatly. She'd heard enough traveling teachers to recognize the pitch.
 
-"You want my money," Mary said flatly. She'd heard enough traveling teachers to recognize the pattern.
-
-"I want your mind. The resources help—I won't pretend otherwise. We're a teaching network funded by the families who benefit from it. But what I actually need is a carrier with strong blood memory, a merchant's eye for seeing how things connect, and enough independence to travel and teach without asking a husband's permission." He stood. "Your choice. You can return to Magdala, try to suppress the episodes, hope you don't collapse again in public. Or you can stay in Capernaum, learn what the blood memory means, and bring your resources to a network that will use them to help other carriers like you."
+"I want your mind. Your merchant's eye. Someone who can see how pieces fit together and keep a network fed and moving." He didn't look offended—he looked like a man who'd expected the question. "The resources help. I won't pretend otherwise. But I have other patrons. What I don't have is another carrier who sees Nefertari every night and understands trade routes and can travel without asking a husband's permission."
 
 Mary looked at the house behind him. At the fishing nets. At the lake stretching blue and vast under afternoon sun.
 
@@ -314,11 +228,7 @@ Mary didn't want that future. Didn't want Sarah growing up watching her mother d
 
 "If I stay," Mary said slowly, "what happens?"
 
-"Tonight: you sleep in Simon's house. Safe. Tomorrow: you meet the network families. Learn the basics of what you're carrying. Start training so the visions become manageable instead of overwhelming." Jesus's voice was steady. "Long-term: you become part of the teaching network. Help other carriers who are awakening. Distribute the knowledge. Prepare for the diaspora."
-
-"What diaspora?"
-
-"The one that's coming when Rome burns Jerusalem. Twenty to thirty years from now. Everyone scatters. But if we've encoded the defensive knowledge deeply enough by then, the diaspora carries it. Preserves it. Transmits it to the next generation." He met her eyes. "You're not just learning for yourself, Mary. You're learning so you can teach your daughter. So she doesn't wake up screaming from visions she doesn't understand."
+"Tomorrow you start learning to manage what you carry. The visions become tools instead of torments." He paused. "And you teach your daughter. So she doesn't wake up screaming from visions she doesn't understand. So she doesn't die at thirty-four like your mother did."
 
 Sarah stirred against Mary's shoulder, murmuring in her sleep.
 
@@ -330,15 +240,11 @@ Mary made her decision.
 
 ## SCENE 3: First Teaching
 
-That evening, Mary sat in Simon's house with twelve men she didn't know and a carpenter who claimed she carried memories from twelve centuries of collapse.
+That evening, Mary sat in Simon's house with twelve men she didn't know and a carpenter who claimed she carried twelve centuries of inherited memory.
 
-It should have felt insane. Should have triggered every survival instinct that said flee, this is dangerous, don't trust strangers.
+Simon's wife Anna had taken Sarah without a word—tucked her onto a sleeping mat with a bowl of lentils and a warmth that made Mary's eyes sting. Nobody here treated her like the cursed woman from Magdala. Nobody crossed to the other side of the room.
 
-But instead, it felt like coming home.
-
-Simon—the fisherman who owned this house—had welcomed her and Sarah without question. Made space for them with the women of the household, provided dinner, treated them like expected guests rather than the cursed woman from Magdala. His wife Anna fussed over Sarah with the easy warmth of someone who had raised children of her own.
-
-Within three days, Mary had identified problems the disciples hadn't noticed—too many mouths, not enough provisions for the weeks ahead. Within a week, she'd sent Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds were funding the teaching network—food, lodging, travel for carriers being gathered from across Galilee. She'd run a business; she knew how to feed people, manage provisions and trade routes, stretch resources. Jesus taught. Mary made it possible for everyone to be there to learn. Joanna—the wife of Chuza, Herod's household manager—and Susanna did the same, three women of independent means quietly funding a movement the men would later claim they'd built alone.
+Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this—food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
 The twelve men were disciples, Jesus explained. Network descendants who'd been training with him for two years. They understood fragments of the defensive knowledge their families had preserved across generations, but most had never experienced blood memory directly.
 
@@ -352,57 +258,33 @@ Andrew shifted uncomfortably. "But teaching a woman — is that appropriate?"
 
 "When Jerusalem burns and everyone scatters, do you want half the people who can carry this forward sitting at home because we decided they were the wrong sex?" Jesus's voice had an edge now. "We teach everyone who can learn. That's how the knowledge survives."
 
-Silence. The disciples exchanged glances. Thomas opened his mouth as if to speak again, then closed it. The tension wasn't resolved—just temporarily deferred to Jesus's authority.
+Silence. Peter's jaw worked. He didn't argue further—you didn't argue with the teacher in front of a stranger—but he didn't uncross his arms either. He sat back against the wall with the stiff patience of a man waiting for someone else to be proven wrong. Thomas glanced at Andrew. Andrew studied the floor.
 
 Jesus turned to Mary. "Tell them what you've been seeing. Don't filter it. Just describe the visions."
 
-Mary hesitated. She'd spent three years hiding the visions, minimizing them, pretending they were normal dreams. Speaking about them openly felt dangerous.
+Mary hesitated. She'd never described the visions to anyone who didn't immediately reach for prayer oil. Speaking about them openly felt dangerous.
 
 But these men claimed to understand. Jesus claimed to see the same things.
 
-"Pi-Ramesses," Mary began quietly. "I see it constantly. A city in the Nile Delta. Grid pattern, four quarters divided by canals. Overcrowded—three hundred thousand people in space meant for half that. Refugees flooding in from burning cities to the north. Bronze shortages. Drought. Trade networks collapsing. Disease spreading through overcrowded tenements."
+"Pi-Ramesses," Mary began. "Every night. The city collapsing. A physician named Nefertari trying to save people while the whole world burns around her. Pharaoh Tausret dying in her arms." She opened her hands, as if releasing something. "I can describe the streets. The smell of the fever tents. Architecture of a city that's been dust for twelve centuries. I don't know how."
 
-She closed her eyes, letting the memory surface. "There's a woman. A physician. Nefertari. She's trying to help but she can't because the problem isn't medical—it's systemic. The whole civilization is failing. She watches Pharaoh Tausret die and knows the collapse is inevitable. All she can do is teach eighty-four people how to recognize the pattern so their descendants might prevent the next collapse."
+The room was silent. Even Peter had uncrossed his arms.
 
-When Mary opened her eyes, Jesus was smiling. "Exactly right. Every detail accurate. That's blood memory—inherited knowledge so precise you can describe architecture and population counts from the Bronze Age."
+John spoke up: "Shouldn't the memories degrade? Forty-two generations—"
 
-"But why?" Mary asked. "Why do I remember this?"
+"They do. Most people with this inheritance get vague impressions. Bad dreams. Only a few—maybe fifty in the eastern provinces—see what Mary sees." Jesus looked at her. "That's why finding each other matters."
 
-"Because your ancestor was there. One of Nefertari's eighty-four students. She survived the collapse and fled west with what she'd learned. And what she learned went so deep it passed to her children. And their children. Forty-two generations later, you're seeing what she saw. Remembering what she lived through."
+"I barely understand this myself," Mary said.
 
-John spoke up: "If the memories are that old, shouldn't they degrade? Forty-two generations of transmission—the knowledge should fragment."
+"You don't have to. Not yet." Jesus stood and gestured to the oil lamps. "Watch the flame. Where does it come from?"
 
-"It does fragment," Jesus confirmed. "Most people with this inheritance experience vague impressions. Bad dreams. Only a few — maybe fifty in the whole eastern Mediterranean — see what Mary sees. Full immersion. And most of them think they're going mad." He looked at Mary. "That's why finding each other matters."
+Mary stared. "The oil. From olives. Pressed by someone who grew the trees, with water from rain that depends on the season." Her merchant mind was already running. "One lamp. Dozens of threads."
 
-Mary felt overwhelmed. "I barely understand this myself."
+"Now you're seeing it." Jesus sat back down. "The visions work the same way. Your ancestors lived through the collapse. Now you can see it forming in the present—the same threads tightening the same way. And if you can see it forming—"
 
-"You don't have to. Not yet." Jesus stood, moved to a clear space where everyone could see him. "Watch."
+"You can intervene before it burns." Mary finished the sentence before he could. She hadn't meant to. It had come from somewhere deep—from the visions, from Nefertari's desperate teaching, from whatever part of her blood had been watching civilizations fall for twelve hundred years.
 
-He gestured to the oil lamps illuminating the room. "As it is written, *the earth is the Lord's and all that fills it.* Watch the flame. Where does it come from?"
-
-Mary stared at the lamp. "The oil."
-
-"And the oil?"
-
-"Olives. Pressed by someone." Mary's merchant mind kicked in without prompting. "Who grew the trees. With water that came from rain. That depends on the season." She paused. "One lamp. Dozens of threads connecting it to everything else."
-
-Jesus nodded. "Now expand. This region."
-
-Mary was quiet for a moment. Then it came—not from Jesus, but from somewhere inside her. From the visions. "Rome occupies Judea. Extracts taxes. Bleeds the economy. People grow resentful. Some fight back. Rome cracks down harder. The fighting escalates. The crackdowns escalate." Her voice dropped. "The cycle feeds itself until everything burns. That's what I keep seeing in the visions. Pi-Ramesses. The same pattern."
-
-"Different city," Jesus said. "Identical structure."
-
-"And it's building right now. Right here."
-
-Jesus leaned forward. "That's what the blood memory is for. Your ancestors lived through it. Now you can see it forming in the present. And if you can see it forming—"
-
-"You can stop it," Mary said. "Before it gets too far gone."
-
-"Exactly. That's what we call defensive work—stopping the fire before it spreads to every house."
-
-The disciples were nodding now. Peter looked thoughtful. Andrew less skeptical than before.
-
-Mary felt something shift in her mind. The visions had always felt like random assaults—uncontrollable, overwhelming, meaningless. But if they were showing her *patterns*...
+The disciples were quiet. Peter's arms had uncrossed.
 
 "The woman in Mycenae," Mary said suddenly. "I saw her fleeing with her daughter and a bronze disc. Is that—was that real?"
 
@@ -416,7 +298,7 @@ Mary closed her eyes, reaching for the memory. The vision had been brief, fragme
 
 "I don't know where it is now," Mary said. "I just saw someone carrying it when a city burned. Thousands of years ago."
 
-"But you saw which direction she ran." Jesus sat beside her. "You've had these visions for three years and thought they were madness. They're not. They're a map."
+"But you saw which direction she ran." Jesus sat beside her. "You've been treating the visions like a disease. They're not. They're a map."
 
 Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced at her daughter, then back at Jesus.
 
@@ -424,79 +306,51 @@ Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced
 
 "They'll never stop. But they'll become manageable. You'll recognize when blood memory is surfacing. Learn to observe it without being pulled under. Extract the pattern without losing yourself in the experience." His voice gentled. "Your mother died because she didn't have this training. She experienced the visions alone, tried to suppress them, couldn't. The trauma accumulated until it killed her. But you—you have the network now. Teachers who understand. You don't have to die at thirty-four."
 
-Mary felt tears threatening again. She'd spent three years convinced she was following her mother's trajectory toward early death and madness. The idea that she might survive—might even thrive—felt impossible.
+Mary's jaw tightened. She'd been so certain she was following her mother's trajectory—early death, mind shattered, calling out for people dead a thousand years. The idea that the road might fork felt impossible.
 
-"How long does training take?" she asked.
+"How long does training take?"
 
-"For basic pattern recognition? Six months before you can function independently. For deep mastery? Years. Maybe decades." Jesus stood. "But you don't need mastery to survive. You just need enough control that the visions don't control you. That starts tonight."
+"Months before you can manage the visions. Years before you master them." He nodded to Peter. "Show her the grounding exercise."
 
-He nodded to Peter. "Show her the memory exercise. The one we use to distinguish past from present."
+Peter moved closer, visibly uncomfortable teaching a woman. "When the old memories surface, you name five things in the present. Physical things—what you see, hear, smell. It pulls you back."
 
-Peter looked uncertain but moved closer to Mary. "When blood memory surfaces," he began awkwardly, clearly unfamiliar with teaching women, "you ground yourself by naming five things in the present. Physical things you can see, touch, hear. It interrupts the vision's pull. Reminds your mind that you exist now, not in the ancient past."
+He demonstrated—eyes closed, naming the lamp, the table, the fish smell, Sarah sleeping. When he opened his eyes, he shrugged. "Simple. But it works."
 
-"Demonstrate," Jesus prompted.
+"Try it," Jesus said to Mary.
 
-Peter closed his eyes. "I'm seeing—a memory from my grandfather. Fishing in a storm. But I name five things: the lamp flame, the wooden table, Simon's voice, the smell of fish from dinner, Mary's daughter sleeping. The memory recedes. I'm present again."
+She closed her eyes. Pi-Ramesses rose immediately—overcrowded streets, fever victims, Nefertari's hands on a dying woman.
 
-Simple. Almost too simple. But Mary understood the logic. The visions overwhelmed her because she couldn't distinguish inherited memory from present experience. Grounding exercises created that distinction.
+*Five things.*
 
-"Try it," Jesus said to Mary. "Let a vision surface. Then ground yourself back to now."
+"Sarah's breathing," Mary said. "Lamp warmth on my face. The nets in the courtyard. Fish from dinner. My own heartbeat."
 
-Mary hesitated, then closed her eyes. Immediately, Pi-Ramesses tried to surface. Overcrowded streets. Fever victims. Nefertari's clinic.
+The vision receded. Still there—waiting—but distant. Manageable.
 
-*Five things. Present. Now.*
+She opened her eyes, gasping. "It works."
 
-"Sarah's breathing," Mary said aloud. "The lamp warmth on my face. Simon's fishing nets I saw in the courtyard. Jesus's voice. My own heartbeat."
+"Practice it every time. Within a week, you'll observe the visions without drowning. Within a month, you'll read them."
 
-The vision receded. Not gone—still there, waiting—but distant. Manageable.
+Mary looked at Sarah sleeping in the corner, still clutching her lake shells.
 
-She opened her eyes, gasping.
-
-"Better?" Jesus asked.
-
-"Yes. I—yes. It's still there but I can push it back."
-
-"That's the beginning. Practice that exercise every time blood memory surfaces. Within a week, you'll be able to observe the visions without being consumed by them. Within a month, you'll extract pattern information without losing hours to immersion."
-
-"And then?"
-
-"Then you learn to see what's coming. And maybe prevent it."
-
-Mary looked at the twelve disciples. At Simon and his wife. At Sarah sleeping peacefully. At Jesus, who saw the same cities burning behind his eyes.
-
-"My mother died alone with this," she said. "Nobody understood what she carried."
+"My mother died alone with this," she said quietly. "Nobody understood."
 
 "I know." Jesus's voice was gentle but unflinching. "I can't promise you'll live longer than she did. Only that you won't die misunderstood."
 
-Mary thought about that. Her mother, alone. The community calling her possessed. Dying without anyone understanding what she carried.
+Mary thought about her mother. Then about Sarah—watching, learning, carrying whatever Mary carried in her own small body.
 
-Then she thought about Sarah. Her daughter, watching. Learning. If Mary died here—died teaching, died understood—at least Sarah would know her mother wasn't mad. Wasn't cursed. Was trying to prevent the very collapse that the visions showed.
+"Teach me everything."
 
-"Teach me," Mary said. "Everything. I don't care how long it takes. I want to understand."
+Simon's wife appeared with blankets. "Morning comes early in a fishing household."
 
-Jesus smiled. "We start tomorrow. Tonight, you sleep. Actually sleep, without visions overwhelming you. Use the grounding exercise if blood memory surfaces. And know you're safe here."
+Mary let herself be led to the women's quarters. Sarah had been moved to a small sleeping mat, still clutching her lake shells. Mary lay beside her daughter and pressed her face into Sarah's hair—warm, smelling of lake water and child-sweat and something unnameable that was just *Sarah*.
 
-Simon's wife appeared with blankets. "Your daughter's already comfortable. But you should rest too. Morning comes early in a fishing household."
+Pi-Ramesses tried to surface. The city. The collapse.
 
-Mary let herself be led to the women's quarters. Sarah had been moved to a small sleeping mat, still clutching her lake shells. Mary lay beside her, feeling exhaustion drag her toward unconsciousness.
-
-For the first time in three years, she wasn't afraid to sleep.
-
-Because when the visions came—and they would come—she had tools now to manage them.
-
-She had a name for what she was: *carrier*.
-
-She had a community that understood: *network*.
-
-She had a purpose beyond survival: *teaching*.
-
-Mary closed her eyes. Pi-Ramesses tried to surface immediately—the city, the collapse, Nefertari's desperate teaching.
-
-*Five things. Sarah breathing. Blanket texture. Lake smell through the window. Jesus's voice echoing: "You're not mad." My heartbeat.*
+*Five things. Sarah's breathing. Wool blanket against my chin. Lake smell through the screen. The creak of fishing boats against the dock. My own heartbeat.*
 
 The vision receded.
 
-Mary slept. For the first time in years, she slept without screaming.
+Mary slept. No visions. No screaming. Just sleep—ordinary, dreamless, the kind she'd forgotten existed.
 
 But just before dawn, a new vision came—sharp and brief, nothing like the ancient memories. A Roman soldier on a hillside overlooking the lake, watching a crowd gathered around a teacher. He was writing on a wax tablet. Not recording what was being said. Recording something else. A report. Names. Numbers.
 

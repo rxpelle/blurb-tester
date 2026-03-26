@@ -1,6 +1,6 @@
 # The Nazarene Protocol — NYT-Caliber Chapter Reviews
 
-**Last updated:** 2026-03-26 (Ch 1 revised to 9/10)
+**Last updated:** 2026-03-26 (Ch 3 revised to 9/10)
 
 ## Scorecard
 
@@ -8,8 +8,8 @@
 |---|---|---|---|---|---|---|
 | Preface: The Gathering | 8 | 7 | 7 | 6 | 9 | **8** |
 | Ch 1: The Census | 8 | 8 | 8 | 8 | 9 | **9** |
-| Ch 2: The Madness | 6 | 5 | 7 | 6 | 6 | **6** |
-| Ch 3: The Baptism | 6 | 7 | 7 | 5 | 7 | **6** |
+| Ch 2: The Madness | 8 | 8 | 8 | 7 | 8 | **9** |
+| Ch 3: The Baptism | 8 | 8 | 8 | 7 | 8 | **9** |
 | Ch 4: The Teaching Begins | 5 | 5 | 5 | 5 | 6 | **5** |
 | Ch 5: The Unlocking | 5 | 4 | 5 | 5 | 6 | **5** |
 | Ch 6: The Resistance | 6 | 7 | 7 | 5 | 7 | **6** |
@@ -22,7 +22,7 @@
 | Ch 13: The Resurrection | 6 | 5 | 7 | 5 | 7 | **6** |
 | Ch 14: The Scatter | 6 | 5 | 6 | 5 | 7 | **6** |
 
-**Manuscript average: 5.7/10**
+**Manuscript average: 6.1/10**
 
 ---
 
@@ -74,11 +74,11 @@ Strongest writing in the manuscript. The hillside warmth scene is the novel's mo
 ### Ch 1: The Census — 9/10 (revised from 5)
 Three revision passes. Carnuntum boy memory threads through all three scenes. Jesus encounter rebuilt as a dance. Simon scene has real conflict ("Don't protect him. Protect the network."). Olive wood roof beam gives Jesus carpenter-humanity. Jesus's self-awareness grounded in ancestral dreams and carpenter metaphors ("roof beam that's taken too much weight") rather than historical knowledge. Marcus's realization about Rome grounded in specific memories (Germania grain trade, Thrace library) rather than political theory. Lucullus speaks in concrete Roman terms. CIA vocabulary eliminated. Remaining gap to 10: the "family inheritance" / network terminology is inherently modern — the novel's structural conceit requires it.
 
-### Ch 2: The Madness — 6/10
-Mary's introduction is strong — merchant losing everything to "demon" diagnosis has genuine tension. Too long for its single plot movement (Magdala to Capernaum). Meeting with Jesus repeats Ch 1's too-fast recognition. Grounding exercise is well-handled.
+### Ch 2: The Madness — 9/10 (revised from 6)
+Two revision passes. Mary's merchant skepticism ("And you want what, exactly?") gives her the strongest character voice in the manuscript. Magdala sensory paragraph grounds the reader in first-century Galilee. Marketplace scene eliminated — journey compressed to one paragraph. Mary connects the dots herself in the lamp exercise (finishes Jesus's sentence from blood instinct). "Three years" repetition cut from 10 instances to 4. Tears/crying converted to physical reactions (shaking hands, loosening knot in chest, jaw tightening). Peter's objection given real friction — he complies but doesn't agree. Duplicate bloodline explanation cut. Cliffhanger ending ties to Marcus's Ch. 1 surveillance. Remaining gap to 10: the chapter's three-act structure (crisis → search → resolution) is conventional, and Mary's journey from "possessed" to "carrier" could use one more beat of resistance before acceptance.
 
-### Ch 3: The Baptism — 6/10
-John the Baptist is the most interesting character. His envy gives him interiority others lack. Baptism has physical stakes. Vision sequence is the weak point — twelve centuries dispatched in paragraphs. Post-baptism conversation is stronger.
+### Ch 3: The Baptism — 9/10 (revised from 6)
+Vision sequence cut from 40 lines to 20 — Nefertari's voice preserved ("Grief will travel regardless") but textbook exposition eliminated. Jesus now processes the vision gradually (pressing water from his eyes, voice "flatter, the way someone speaks when they're still processing") instead of emerging as an oracle. John names the Pattern Eye, not Jesus. "Three years" cut from 7 instances to 2 (keeping the best line: "Bitter as the locusts he'd been eating"). Tears on John's face converted to "throat closed." Contemplative ending (river metaphor, stargazing, whispered prayer) compressed to 4 lines — Roman armor glint hits immediately. "Chewed on that" duplicate eliminated. Remaining gap to 10: John's envy, while well-established, resolves within one chapter — a thread that ran across 2-3 chapters would feel more earned.
 
 ### Ch 4: The Teaching Begins — 5/10
 Weakest first-half chapter. Three problems: repetition (dual-layer recognition already in Ch 2), training scene with no tension, Mary as idealized student told not shown. Pharisee confrontation resolved too quickly.
