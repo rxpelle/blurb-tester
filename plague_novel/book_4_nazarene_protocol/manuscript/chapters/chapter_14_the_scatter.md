@@ -22,7 +22,7 @@ Now he stood in the upper room with the other disciples — twelve people in a s
 
 Thomas paced. His physician's training demanded proof. His blood showed him forty-two generations of carriers who had held contradictions in both hands without choosing between them.
 
-The lamp flames bent sideways, all at once, as if a door had opened — but the door was still barred. The temperature dropped. Thomas felt the hair rise on his forearms.
+The lamp flames bent sideways, all at once, as if a door had opened — but the door was still barred. The temperature dropped. The hair rose on his forearms.
 
 The figure appeared.
 
@@ -59,8 +59,6 @@ The figure began to fade — or leave — the same ambiguity as arrival.
 Thomas stared at his own hands. Physician's hands that had examined countless bodies, confirmed countless deaths.
 
 "I don't know what I just saw," he said quietly. "But I know what I'm going to do about it."
-
-He would carry this doubt to India. Would spread the teaching east while holding uncertainty the western communities couldn't tolerate. Would die there eventually — martyred for a teaching he'd never fully verified but practiced anyway.
 
 ---
 
@@ -190,7 +188,7 @@ She had work to do.
 
 Rome was burning. The sky had been orange for three days, ash drifting through the streets like grey snow, and the air tasted of charcoal and something sweeter underneath — the smell of a city's timber and cloth and stored grain and people all burning together. Nero blamed Christians.
 
-Peter stood in a narrow stone cell, dampness seeping through the walls, holding the Pattern Eye one final time. The bronze was cold from the stone — he warmed it between his palms the way he'd once warmed his hands over a charcoal fire in the high priest's courtyard, the night he'd denied knowing Jesus three times. Torchlight from the corridor flickered through the iron grate, catching the carved lines. Sixty-eight years old. Fisherman's hands still calloused, still too large for delicate work. Apostle.
+The cell was damp — cold seeping through stone into his bones. Peter held the Pattern Eye one final time. The bronze was cold. He warmed it between his palms the way he'd once warmed his hands over a charcoal fire in the high priest's courtyard, the night he'd denied knowing Jesus three times. Torchlight from the corridor caught the carved lines. Sixty-eight years old. Fisherman's hands still calloused, still too large for delicate work. Apostle.
 
 Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Gaul.
 
@@ -198,7 +196,7 @@ Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Gaul
 
 "You. And your daughter. The blood remembers."
 
-He handed her the Pattern Eye. Bronze warm, its carved lines catching the torchlight.
+He handed her the Pattern Eye.
 
 "When Jerusalem falls, see it with your own eyes. Then continue west."
 

@@ -146,8 +146,6 @@ Right. Practical concerns first. Mary had some dried fish in her sack. She found
 
 "Soon. Let me think."
 
-But before Mary could formulate an approach, the decision was made for her.
-
 A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's build, wearing simple clothes dusted with road travel. He looked directly at her — he'd been expecting her.
 
 "You're the merchant from Magdala." Not a question.
@@ -158,7 +156,7 @@ Mary stood slowly. Her merchant's instinct—the part that evaluated strangers b
 
 "And you want what, exactly? I've seen enough traveling healers to recognize a pitch."
 
-He didn't flinch. Didn't smile. Just sat on the wall beside her—careful distance, no presumption—and said, "Tell me what you see. The city."
+He didn't flinch. Didn't smile. Just sat on the wall beside her and said, "Tell me what you see. The city."
 
 Mary almost didn't. But she was eight miles from home with a sleeping child and no plan, and something in his stillness—the way he waited without filling the silence—reminded her of her father, who'd taught her to negotiate by listening first.
 
@@ -190,7 +188,7 @@ Mary turned the idea over the way she'd turn a contract clause, looking for the 
 
 "You're not possessed."
 
-The relief hit her like a physical force—knees weakening, vision blurring. Exorcists and physicians and neighbors who crossed the street. And this carpenter in a borrowed courtyard had just said the thing none of them could say, and he'd said it like it was simple. Like it was obvious.
+Her knees went weak. Exorcists and physicians and neighbors who crossed the street — and this carpenter in a borrowed courtyard said it like it was obvious.
 
 Sarah stirred against her shoulder. Mary held her daughter and let something loosen in her chest—a knot she'd been carrying so long she'd forgotten it was there.
 
@@ -278,7 +276,7 @@ Mary stared. "The oil. From olives. Pressed by someone who grew the trees, with 
 
 "Now you're seeing it." Jesus sat back down. "The visions work the same way. Your ancestors lived through the collapse. Now you can see it forming in the present—the same threads tightening the same way. And if you can see it forming—"
 
-"You can intervene before it burns." Mary finished the sentence before he could. She hadn't meant to. It had come from somewhere deep—from the visions, from Nefertari's desperate teaching, from whatever part of her blood had been watching civilizations fall for twelve hundred years.
+"You can intervene before it burns." Mary finished the sentence before he could. She hadn't meant to.
 
 The disciples were quiet. Peter's arms had uncrossed.
 

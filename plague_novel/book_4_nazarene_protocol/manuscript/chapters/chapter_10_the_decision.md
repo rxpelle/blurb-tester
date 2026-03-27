@@ -7,7 +7,7 @@
 
 ## SCENE 1: THE OFFER
 
-The Galilean summer heat pressed down on Capernaum like a weight, the air thick with the smell of drying fish from the lakeside racks and the sweet rot of overripe figs fallen in the street. But the upper room's thick stone walls held the night's chill well into morning, and the flagstones were cool beneath Jesus's bare feet as he worked the Pattern Eye in the gray light before dawn.
+Drying fish from the lakeside racks. Overripe figs rotting in the street. The Galilean summer pressed down on Capernaum, but the upper room's thick stone walls held the night's chill, and the flagstones were cool beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
 
 Marcus stood in the doorway, breathing hard from the climb — his knee worse in the heat, sweat darkening the collar of his tunic. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Sukkot."
 
@@ -75,7 +75,7 @@ Mary's eyes were wet. "Yes."
 
 Mary wanted to scream at how simply the girl reduced it. But she was right.
 
-The first stars appeared over the lake. Sarah had fallen asleep against Mary's side, her small body radiating heat the way children's bodies do — fierce, unreasonable, as if they burn hotter because they haven't learned to hold anything back.
+The first stars appeared over the lake. Sarah had fallen asleep against Mary's side, her small body radiating heat against Mary's ribs.
 
 "Three weeks," Mary said. "It's not enough."
 
@@ -101,7 +101,7 @@ Jesus was alone. He'd sent the others to prepare the northern routes. "Sit down,
 
 "The teaching continues *at all*." Judas stopped pacing. His voice dropped. "I've done this seven times. I know what works. You've never been extracted — you don't know how clean it can be."
 
-Jesus looked at the man he'd trusted for three years. Judas's hands were shaking — not from fear but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest. The same certainty that had saved lives before and would, this time, destroy one.
+Jesus looked at the man he'd trusted for three years. Judas's hands were shaking — not from fear but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest.
 
 "Judas. They know about you."
 

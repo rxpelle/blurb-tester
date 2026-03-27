@@ -50,9 +50,9 @@ They walked the rest of the day without speaking.
 
 ## SCENE 3: The Archive
 
-Qumran appeared in late afternoon — white limestone buildings clustered on a plateau above the Dead Sea, shimmering in heat. The Essene community: twenty scribes preserving texts whose deeper meanings eluded even their considerable scholarship.
+Qumran in late afternoon — white limestone on a plateau above the Dead Sea, heat rising off the stone in visible waves. Twenty scribes preserving texts they couldn't fully read.
 
-Matthias met them at the gate. Elderly, bent, eyes sharp as flint. He led them through narrow corridors into the scriptorium — dim, quiet as a tomb, shelves lined with pottery jars containing scrolls wrapped in linen. The smell of old parchment and lamp-black ink, layered with Dead Sea mineral tang.
+Matthias met them at the gate. Elderly, bent, eyes sharp as flint. He led them through narrow corridors into the scriptorium — dim, cool, shelves lined with pottery jars containing scrolls wrapped in linen. Old parchment and lamp-black ink.
 
 He retrieved two scrolls and unrolled them with careful reverence.
 
@@ -64,7 +64,7 @@ She traced one cluster with her finger, not quite touching the parchment. Heat s
 
 The symbols shifted, resolving into something almost familiar. Like a half-remembered language rising from deep water.
 
-"I don't just see Pi-Ramesses falling," she heard herself say, the words coming unbidden. She blinked, the vision strengthening. "I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same shape wearing different faces."
+"I don't just see Pi-Ramesses falling," she heard herself say, the words coming unbidden. She blinked, the vision strengthening. "I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same thing, every time."
 
 Jesus was staring at her. "You're reading the notation. Directly."
 
@@ -104,7 +104,7 @@ But she'd seen enough. The text described a pattern that stretched generations f
 
 Jesus was quiet for a long time.
 
-Mary felt sick — the clarity was worse than the vision. She understood the architecture now — understood it the way she'd understood trade routes in Magdala, the way she'd understood the lamp exercise in Simon's courtyard. The logic was flawless.
+Her stomach turned. The clarity was worse than the vision. The logic was flawless.
 
 "Make copies," Jesus told Matthias. "Three sets. Scatter them — Alexandria, Antioch, wherever your networks reach. This archive won't survive what's coming."
 
