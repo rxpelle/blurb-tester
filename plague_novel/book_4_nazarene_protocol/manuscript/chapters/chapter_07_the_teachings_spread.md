@@ -20,7 +20,7 @@ Jesus walked it alone.
 
 Jesus stopped walking. The crowd gathering behind them stopped too — maybe fifty people, some following since Jerusalem, others joining along the way. Marcus was there at the edges, no longer in uniform, his stylus scratching across wax with the cramped, precise hand of a man who'd spent twenty-eight years filing military reports and couldn't stop.
 
-"A man was going down from Jerusalem to Jericho," Jesus began, and the crowd settled into listening posture. They knew by now how he taught — stories that could be heard multiple ways depending on what you brought to the listening.
+"A man was going down from Jerusalem to Jericho," Jesus began. The crowd went quiet. Some sat. Others leaned in — they'd learned that his stories were worth listening to closely.
 
 "He fell among robbers," Jesus continued, "who stripped him and beat him, and departed, leaving him half dead."
 
@@ -32,9 +32,11 @@ Someone in the crowd shifted. Two holy men. Both walking past.
 
 "But a Samaritan, as he journeyed, came to where he was. And when he saw him, he had compassion."
 
-The word *Samaritan* hit the crowd. People glanced at each other. A few faces hardened.
+The word *Samaritan* hit the crowd. People glanced at each other. A few faces hardened. A man near the back spat in the dust. The lawyer who'd asked the question stiffened like he'd been slapped.
 
-"He went to him and bound up his wounds," Jesus said, watching the lawyer who'd asked the question. "Pouring on oil and wine. Then he set him on his own animal and brought him to an inn, and took care of him. And the next day he took out two denarii and gave them to the innkeeper, saying, 'Take care of him, and whatever more you spend, I will repay you when I come back.'"
+Jesus let the silence hold. Then, watching the lawyer directly:
+
+"He went to him and bound up his wounds," Jesus said. "Pouring on oil and wine. Then he set him on his own animal and brought him to an inn, and took care of him. And the next day he took out two denarii and gave them to the innkeeper, saying, 'Take care of him, and whatever more you spend, I will repay you when I come back.'"
 
 Jesus paused. Let the image settle. Then he looked directly at the lawyer. "Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?"
 
@@ -44,7 +46,7 @@ The lawyer's mouth worked. He couldn't say "the Samaritan." Couldn't give credit
 
 The crowd murmured — arguing about Samaritans, about mercy, about who counted as a neighbor.
 
-Marcus's stylus had stopped moving. He was thinking about a Thracian soldier in his century, years ago — wounded in a border skirmish, left by the road because carrying him would have slowed the march. Marcus had walked past. Orders. The man died overnight. Marcus had filed the report without noting the name.
+Marcus's stylus had stopped moving. A Thracian soldier in his century, years ago — wounded in a border skirmish, left by the road because carrying him would have slowed the march. Marcus had walked past. Orders. The man died overnight. Marcus filed the report without noting the name.
 
 He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and followed Jesus toward Jericho.
 
@@ -52,9 +54,9 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 ## SCENE 2: Mary's Women's Circle
 
-Mary Magdalene counted heads. Twenty-three women in Rachel's courtyard, seated on mats in the shade of an old fig tree, the smell of baking bread drifting from the kitchen. Nearly eighty total now across Galilee, meeting in clusters of fifteen or twenty to avoid drawing attention.
+Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time — the way a mother counts heads at a market, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
 
-Mary pressed her hands flat against her thighs to still their trembling. When Jesus was gone, every one of these women would depend on how well she'd prepared them.
+Mary pressed her hands flat against her thighs to stop their trembling. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
 
 "Sisters," Mary said, and the courtyard quieted. "Last week we spoke about reading the signs of trouble in the household before violence comes. Who can share what they've practiced?"
 
@@ -92,7 +94,7 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 "Rome isn't going anywhere," Judas said flatly.
 
-Simon felt the familiar tension. Judas asked this in different forms every few weeks. The man wanted results he could see — and every week the Romans gave him fresh reasons.
+The familiar tension. Judas asked this in different forms every few weeks — the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
 
 "So we just accept defeat?" Judas's voice cracked. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
 
@@ -138,11 +140,11 @@ Simon watched the fractures spread and said nothing, because he didn't know how 
 
 Marcus sat in a Jerusalem tavern, the oil lamp smoking and the wine going sour in the heat, listening to his replacement deliver the report.
 
-The new officer was young, efficient, unburdened by moral complexity. "Five thousand people. Three days. One man commanding that kind of loyalty. That's not a preacher. That's a general without an army."
+The new officer was young, clean-shaven, the kind who filed his reports on time and slept well. "Five thousand, Marcus. Three days in one place. You know what we call a man who can move five thousand people?"
 
-"What's Pilate's response?"
+"A general."
 
-"Charges built. Blasphemy, sedition, whatever holds up before the Sanhedrin. Twelve to eighteen months until arrest. Faster if the crowds keep growing."
+"Without an army. Which makes him worse." The officer drained his cup. "Pilate's building charges. Blasphemy, sedition — whatever the Sanhedrin will sign off on. Twelve months. Maybe eighteen. Faster if the crowds keep growing."
 
 After the officer left, Marcus sat alone in the tavern noise — dice, arguments, a woman laughing somewhere — and pulled out a roll of papyrus. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
 
@@ -156,11 +158,11 @@ Marcus delivered the news.
 
 "If I leave, who teaches Galilee?"
 
-"Leah, Abigail, Rachel." He looked around the room, assigning roles with the calm of someone who'd been preparing this for years. Peter: visible leadership. Marcus: documentation. Simon: coordination. The Twelve: witness, remember, write it down from different perspectives.
+"Leah, Abigail, Rachel. They're ready." He looked around the room — Peter, Marcus, Simon, the Twelve. "All of you. You know your roles. When the time comes, scatter and teach. Write it down — each of you, your own account. Don't coordinate. Different versions survive better than copies."
 
-"The trial will be for show," Jesus said. His voice was steady but his hands were clasped tight in his lap. "The outcome is already decided."
+"The trial will be for show." His voice was steady but his hands were clasped tight in his lap. "The outcome is already decided."
 
-Mary's breath caught. She'd known — had seen it in the blood memories, had read it in the way Rome watched him. But hearing it stated this plainly made it real.
+Mary's breath caught. She'd known. Of course she'd known. But knowing something in your bones and hearing someone say it out loud in a room full of people were not the same thing.
 
 Sarah crawled into her lap. "Mama? Why is everyone scared?"
 
