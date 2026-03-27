@@ -12,19 +12,23 @@
 
 Jesus walked the Capernaum road at dawn, six months gone from this place. The wind off the lake carried the smell of rotting fish and wet limestone — the opposite of the burning cities that filled his nights.
 
-Simon emerged from his courtyard as Jesus approached. "Teacher. You look different."
+Simon emerged from his courtyard as Jesus approached. Took one look at him. "What happened to you?"
 
-"I am changed." Jesus clasped his friend's arm. "I saw everything at the Jordan. And I know how little time we have."
+"The Jordan." Jesus clasped his arm. The grip was harder than it used to be. "We have less time than I thought."
 
-"The Twelve are inside. Waiting." Simon hesitated. "And the woman from Magdala — Mary. She stayed, as you asked before the Jordan. She's been using the calming practices you taught her. The screaming has quieted. Most nights." He rubbed the back of his neck. "She's been sitting in on our discussions. I hope that's—she hears things in your teaching that take the rest of us months to grasp."
+"How much less?"
+
+"Five years. Maybe."
+
+Simon's face went still. Then he stepped back, held the gate open. "The Twelve are inside. And the woman from Magdala — Mary. She stayed." He rubbed the back of his neck. "She's been sitting in on our discussions. I hope that's — she hears things in your teaching that take the rest of us months to grasp."
 
 Jesus paused at the doorway. Inside, he could hear male voices — the disciples arguing. And underneath, quieter: a woman's voice, singing to a child. The melody was old. Network old. Passed down through families who didn't know why they sang it, only that it calmed something in the blood.
 
 "She's ready for the next phase," Jesus said. "She's not just a carrier, Simon. She's a teacher. And after what I saw at the Jordan, I need her."
 
-Inside, the Twelve stood as he entered. Fishermen and tax collectors who'd been training with him for two years. They looked older. Changed by what they'd heard about the Jordan.
+Inside, the Twelve stood as he entered. Fishermen and tax collectors who'd been training with him for two years. They looked older. Simon had told them.
 
-"I saw my own death." His hands trembled against his thighs, and he let them see it. "Perhaps five years from now. We can't prevent it."
+"You've heard." His hands trembled against his thighs, and he let them see it. "Five years. Maybe less. We can't prevent it."
 
 Thomas broke the silence. "You're planning for failure?"
 
@@ -38,11 +42,11 @@ Peter, practical as always: "Then what do we do? Today. Tomorrow."
 
 Mary appeared in the doorway, Sarah on her hip.
 
-She'd changed since the spring, when she'd arrived in Magdala half-shattered by visions she couldn't name. Still tall, straight-backed — the posture of a woman who'd spent years overseeing her family's trade. Her linen, dyed the deep blue that marked her former prosperity, was worn softer now from months of wear. But her eyes were different. The bruised, hunted look had receded. In its place: something watchful. Alert. The look of someone who'd learned to observe her own mind without drowning in it.
+She'd changed. Six months ago she couldn't finish a sentence without flinching at something no one else could see. Now she stood straight-backed in worn blue linen, her eyes steady — not calm, exactly, but controlled. The look of someone who'd learned to watch her own mind the way you watch a fire: carefully, from a safe distance.
 
 "You're back," she said. Not a question.
 
-She set Sarah down — nearly four now, dark curls, enormous eyes. The child went to the corner, arranging pebbles in geometric patterns on the floor. Jesus watched her for a moment. Generation 43.
+She set Sarah down — nearly four, dark curls, enormous eyes. The child went to the corner and started arranging pebbles in geometric patterns on the floor. Generation 43.
 
 "The visions have changed," Mary said. "Sharper. I can stay inside them now without losing myself. But I'm not sure I trust what I'm seeing." She paused, choosing words carefully. "I think I'm seeing structure underneath the collapse. How Nefertari organized her students. But it could be my merchant's mind imposing order on chaos. Pattern where there's only noise."
 
@@ -60,7 +64,7 @@ Mary's jaw tightened — the expression of a woman who'd been promised explanati
 
 The hillside above Capernaum reeked of unwashed bodies and morning bread. Near a thousand souls, Simon reckoned — more than he'd ever seen gather for any teacher. Scattered across the slope in family groups, children running between clusters, vendors selling bread and dried fish at the edges. Dust hung in the air, kicked up by shifting feet. Roman soldiers watched from a distance, leaning on their spears.
 
-Jesus spotted Mary in the front section. Sarah beside her, arranging pebbles by size in the dirt with the fierce concentration only small children possess. Mary's eyes were already intense — the look of someone who'd spent her whole life hearing a frequency no one else could and was desperate to learn its name.
+Mary sat in the front section. Sarah beside her, arranging pebbles by size in the dirt — the fierce concentration of a child who'd found the only problem worth solving. Mary's eyes were already intense, locked on him before he'd even started speaking.
 
 He climbed to a limestone outcrop. The noise dropped. A thousand people, waiting.
 
@@ -108,17 +112,19 @@ Jesus stepped in before the confrontation could harden. "Truth is truth, no matt
 
 The Pharisee sputtered. But some in the remaining crowd — women mostly, and a few men — had turned to Mary with recognition in their faces. She'd named something they'd felt but couldn't articulate.
 
-"Both layers," Jesus said to her after the crowd dispersed. "You heard them."
+After the crowd dispersed, Jesus found her standing apart, holding Sarah against her shoulder with one arm and pressing her other hand flat against a stone wall. Grounding herself.
 
-"Maybe." Mary stood, brushing dirt from her dress. Sarah stirred against her shoulder. "Or maybe I'm going mad in a more organized way." But a ghost of a smile crossed her face — the first he'd seen from her that wasn't performed for Sarah's benefit.
+"You heard it," he said.
+
+"Maybe." She brushed dirt from her dress. Sarah stirred. "Or maybe I'm going mad in a more organized way." But the corner of her mouth moved — not quite a smile, but the closest thing he'd seen from her that wasn't performed for Sarah's benefit.
 
 ---
 
 ## SCENE 3: First Training
 
-That evening, the Twelve gathered in Simon's house after dark, oil lamps throwing uneven shadows across the limestone walls. The smell of the lake drifted through gaps in the woven screen — fish and mineral salt and cold water. No crowds. No layered encoding. Just the hard material.
+That evening, the Twelve crowded into Simon's main room — a low-ceilinged space that smelled of charcoal and dried fish, winter cold seeping through the stone. Oil lamps threw uneven shadows. Through the gaps in the woven screen, the lake made its night sounds — water on rock, a fishing boat's hull creaking at the dock. No crowds here. No parables. Just the hard material.
 
-Mary sat in the corner with Sarah sleeping in her lap.
+Mary sat in the corner with Sarah sleeping against her chest, the child's breath warm on her collarbone.
 
 "Peter." Jesus leaned forward. "Describe a conflict you've witnessed recently. Local scale."
 
