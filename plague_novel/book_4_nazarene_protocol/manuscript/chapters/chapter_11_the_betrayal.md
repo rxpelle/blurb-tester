@@ -250,21 +250,25 @@ She ran. But Sarah's hand was in hers — small, warm, trusting — and that was
 
 Behind them, the sounds of chaos fading. The disciples scattering — Peter toward the harbor, Thomas inland, John circling back because he couldn't stay away. The rescue team melting into the dark.
 
-Simon stopped at the checkpoint. "Damascus. Leah will take you. The others go west."
+Simon stopped at the checkpoint. "Damascus. Leah takes Sarah."
 
-Mary nodded. She was the keeper now. She wasn't ready.
+Sarah looked up. "Mama?"
 
-She went anyway.
+Mary knelt. Pulled her daughter against her chest — dust and child-sweat and the lake-water smell that was just Sarah. "I have to go back. I have to see it."
 
-Sarah looked back once, toward where the arrest had happened. "Will we see him again?"
+"Will we see him again?"
 
-"No," Mary said. "He'll be executed tomorrow."
+"No. He'll be executed tomorrow."
 
-Sarah was quiet for a long time, her sandals slapping the packed earth. Then, very small: "It's not fair."
+Sarah was quiet. Then, very small: "It's not fair."
 
 "No. It's not."
 
-They ran through Capernaum's streets as night fell. Behind them, Jesus being dragged before the Temple council. Ahead, Damascus and a burden Mary hadn't wanted and accepted anyway.
+Mary held her. Then let go. Leah took Sarah's hand and they walked north into the dark. Sarah looked back once.
+
+Mary turned south toward Jerusalem. She was the keeper now. She wasn't ready.
+
+She went anyway.
 
 ---
 

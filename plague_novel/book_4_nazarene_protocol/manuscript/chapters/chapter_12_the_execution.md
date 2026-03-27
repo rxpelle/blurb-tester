@@ -86,9 +86,9 @@ Women wailed along the route — the keening rising and falling like something a
 
 Jesus stumbled. His knee hit the cobblestones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
 
-The soldiers grabbed a man from the crowd — dark-skinned, broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
+The soldiers grabbed a man from the crowd — broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
 
-Simon of Cyrene. A pilgrim visiting for festival, who'd woken this morning expecting to celebrate. He lifted the wood — winced at the blood and splinters — looked at Jesus with a mixture of pity and fear.
+Simon of Cyrene. A Jewish pilgrim from North Africa, visiting for festival, who'd woken this morning expecting to celebrate. He lifted the wood — winced at the blood and splinters — looked at Jesus with a mixture of pity and fear.
 
 Jesus met his eyes. "Thank you."
 
