@@ -8,61 +8,67 @@
 
 ## Scene 1: Dawn Preparation
 
-Dawn broke over Jerusalem as Marcus Publius Scipio prepared his tablets. Wax smoothed and ready. Stylus sharpened. Three in the leather case, four more copies already secured in trusted houses across the city.
+Marcus Publius Scipio hadn't slept. He'd spent the night smoothing wax tablets, sharpening his stylus, making copies of six years of records and placing them in trusted houses across Jerusalem. Four houses. Four copies. If one burned, three survived.
 
-He'd documented fifteen executions in his career. Men who died cursing Rome, begging for mercy, or silent in defiant hatred. He'd never documented one where the condemned spent his final hours teaching.
+Now he sat in pre-dawn dark and tried to eat bread. His jaw worked but his throat wouldn't swallow. He set the bread aside.
 
-The streets smelled of bread baking and bodies crowded too close — sweat, animal dung, incense from the Temple Mount drifting over the lower city. Sukkot pilgrims still celebrating in their temporary shelters while Roman soldiers positioned at every intersection.
+Fifteen executions he'd documented in his career — men who cursed Rome, begged for mercy, or went silent. Every one of them had surprised him in some small way. A Thracian bandit who'd asked the executioner to tell his mother he died well. A Jewish rebel who'd spat his own blood at Pilate's feet and laughed. But none of them — not one — had spent their final free hours teaching.
 
-Mary Magdalene had refused to leave. She'd sent Sarah north with Leah — "The child carries the bloodline forward. I carry the witness" — and stayed. She was somewhere in Jerusalem now. She would be at Golgotha. Marcus was certain of that.
+The streets were waking. Bread baking, the sour smell of too many bodies packed into a festival city, animal dung in the gutters, incense from the Temple Mount drifting over everything like a lie. Sukkot pilgrims still celebrating in their palm-branch shelters while soldiers positioned at every intersection. A city in festival dress attending an execution.
 
-He walked toward the Praetorium, where Jesus had spent the night in custody.
+Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. He understood the impulse — the need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
+
+He walked toward the Praetorium.
 
 ---
 
 ## Scene 2: Pilate's Judgment
 
-The Praetorium courtyard filled with Temple authorities and Roman officials. Pilate on the judgment seat. Caiaphas and the council on one side. Crowd gathering outside the gates.
+The Praetorium courtyard smelled of stone dust and the perfume the Temple officials wore to mask the smell of the city. Marcus positioned himself behind a column where he could see and write.
 
-Jesus stood in the center. Bound. Beaten — bruising visible from the overnight interrogation. But standing upright. Calm.
+Pilate sat on the judgment seat like a man who wanted to be somewhere else. Caiaphas and the council packed the opposite wall. The crowd pressed against the gates outside, their shouting muffled by the stone.
+
+Jesus stood in the center. Bound. Bruises darkening from the overnight interrogation — one eye swelling shut, lip split. But standing upright. Looking at Pilate with an expression Marcus couldn't read and didn't want to.
 
 "Are you the King of the Jews?" Pilate asked.
 
-"You say so," Jesus replied.
+"You say so."
 
-The crowd outside shouted. "Crucify him! We have no king but Caesar!"
+The crowd outside: "Crucify him! We have no king but Caesar!"
 
-Pilate questioned further. "Don't you hear the accusations against you? Won't you answer?"
+Pilate leaned forward. "Don't you hear the accusations? You won't answer?"
 
-Jesus remained silent.
+Jesus said nothing. Pilate waited. The silence stretched past uncomfortable into something else — the silence of a man who had already moved past this room, this judge, this day.
 
-"I find no fault in this man," Pilate declared.
+"I find no fault in this man."
 
-The crowd roared louder.
+The crowd roared louder. Pilate looked at Caiaphas. Caiaphas looked back with the patience of a man who knew the outcome was already decided.
 
-Pilate called for water. Washed his hands publicly. "I am innocent of this man's blood. The responsibility is yours."
+Pilate called for water. Washed his hands in front of all of them — the performative gesture of a politician who needed the record to show reluctance. "I am innocent of this man's blood. It's yours."
 
-He gave the order. Jesus was led away for scourging.
+He gave the order.
 
 ---
 
-The scourging post stood in the courtyard's corner. Flagrum ready — leather thongs tipped with metal and bone fragments.
+The scourging post stood in the courtyard's corner. Flagrum — leather thongs tipped with metal and bone fragments. Marcus had seen men lose consciousness after ten lashes.
 
-Jesus was stripped, bound to the post.
+Jesus was stripped and bound to the post. The soldier took position. Drew back.
 
-Thirty-nine lashes. His back shredded. Blood flowing. But he made no sound.
+The first blow opened skin from shoulder blade to spine. Jesus's body jerked against the ropes but he didn't cry out. The soldier struck again. And again. By the tenth lash, Jesus's back was a landscape of torn flesh and exposed muscle. By the twentieth, blood ran down his legs and pooled on the courtyard stones. By the thirtieth, the soldier's arm was slowing, not from mercy but from fatigue.
 
-The soldiers found this disturbing. Men usually screamed.
+Thirty-nine lashes. Jesus made no sound. Not one.
 
-After the scourging, they dressed him in purple robe. Wove thorns into a crown, pressed it onto his head. "Hail, King of the Jews!" Mock bowing. Spitting. Striking him with a reed.
+The soldiers looked at each other. They'd all heard men scream.
 
-Jesus endured silently.
+They dressed him in a purple robe that stuck immediately to the wounds. Wove thorns into a crown and pressed it onto his head until the points broke skin. "Hail, King of the Jews!" Mock bowing. Spitting in his face. Striking him with a reed.
+
+Jesus stood through it.
 
 Pilate brought him out again. "Ecce homo." Behold the man.
 
-The crowd demanded crucifixion again.
+The crowd demanded crucifixion.
 
-Jesus was given his crossbeam. Forty pounds of rough-hewn wood across shoulders already destroyed. The procession began.
+They gave him his crossbeam. Forty pounds of rough-hewn wood across shoulders already destroyed. The procession began.
 
 ---
 
@@ -106,13 +112,15 @@ Second nail. Right wrist. Same precision. Same silence.
 
 Marcus's hand shook so violently he nearly dropped the stylus. The boy at Carnuntum had taken three seconds to die — dropped shield, raised hands, blade through the throat. Quick, at least. This would take hours. The same hands raised, the same open palms, but nailed to wood instead of air, and Marcus on the wrong side of the blade again — always on the wrong side, always holding the instrument that recorded instead of the one that intervened. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
 
-The soldiers lifted the crossbeam with Jesus attached. Hoisted it onto the vertical post. Fitted the tenon joint. Secured it. Jesus now suspended by his wrists, feet dangling.
+The soldiers lifted the crossbeam with Jesus attached and hoisted it onto the vertical post. The wood groaned as they fitted the joint. Jesus's weight settled onto the wrist nails and his face went white.
 
-One soldier grabbed Jesus's feet, pressed them against the post. Another positioned the nail. Through both feet at once, single long spike.
+A soldier grabbed his feet and pressed them flat against the post. Positioned the nail — a single long spike, thick as a man's finger. The hammer fell.
 
-The hammer fell again.
+Jesus's jaw locked. A sound came through his teeth that wasn't a scream but wasn't silence either.
 
-Now Jesus hung fully. Weight pulling on the wrist wounds. Breathing difficult — crucifixion killed by asphyxiation. Had to push up on the nail through the feet to inflate lungs. Each breath agony. Death would come slowly.
+Now he hung fully. His chest heaved — the weight of his body pulling his arms taut, compressing his lungs. To breathe, he had to push up on the nail through his feet. Marcus watched him do it — the agony of pushing up, the brief gasp of air, the slow slide back down. Over and over. Each breath bought with pain that would have broken most men on the first cycle.
+
+This was how crucifixion killed. Not the nails. Not the blood loss. It drowned you in your own body, one breath at a time.
 
 Before the crucifixion, they'd offered wine mixed with myrrh — painkiller. Jesus had refused.
 
@@ -148,27 +156,29 @@ Storm clouds rolling in from the Mediterranean, heavy enough to block the sun. T
 
 Marcus lit a small torch to see his tablets.
 
-The two criminals were still conscious. The one on Jesus's left cursing. "Some messiah you are! Save yourself and save us!"
+The two criminals were still conscious. The one on Jesus's left had been cursing since they nailed him up — a steady stream of profanity that had devolved into animal sounds.
 
-The one on Jesus's right spoke. "Don't you fear God? We deserve this punishment. We're guilty. But this man has done nothing wrong."
+"Some messiah," he spat between gasps. "Save yourself. Save us."
 
-The man turned his head toward Jesus. "Remember me when you come into your kingdom."
+The one on the right turned his head — slowly, every movement costing him. "Shut up. We earned this. He didn't." His voice was wrecked, barely a whisper. Blood in his mouth. "He didn't do anything."
 
-Jesus breathed. Pushed up. Spoke. "Today you will be with me in paradise."
+The man looked at Jesus. Gathered enough breath for one more sentence. "Remember me. When you — when you get where you're going."
 
-The man on the right quieted.
+Jesus pushed up on the nail. Drew air. "Today. You'll be with me. In paradise."
 
-Through the darkness, figures approached. John. Several women. Jesus's mother. And Mary Magdalene.
+The man on the right closed his eyes. Something in his face loosened.
 
-She walked ahead of the others. Her face held the expression Marcus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her, then looked away.
+Through the darkness, figures. John first. Several women behind him. Jesus's mother, walking as if the ground might give way. And Mary Magdalene.
 
-Jesus saw them.
+She walked ahead of the others. The expression on her face was one Marcus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her. Something in her stillness made them look away.
 
-He spoke through the pain. "Woman, behold your son." To his mother.
+Jesus pushed up. Breathed. Spoke.
 
-Then to John. "Behold your mother."
+"Woman —" to his mother — "behold your son."
 
-His eyes moved to Mary Magdalene last. She held his gaze — the way you hold someone's hand when they're dying, except she couldn't reach him, so she held him with her eyes instead.
+To John: "Behold your mother."
+
+Then he looked at Mary Magdalene. She held his gaze the way you hold someone's hand when they're dying, except she couldn't reach him. So she held him with her eyes instead.
 
 The darkness continued. Three hours that felt like seasons. The wind picked up — cold now, wrong for autumn, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
 
@@ -192,43 +202,43 @@ Sarah's small hand arranging shells in patterns on a dock.
 
 Just the people he loved, arriving to carry him home.
 
-His body was failing. Blood loss. Shock. Lungs barely functioning.
+He couldn't feel his hands anymore. His chest barely moved. Something warm and dark was pulling him down, and it wasn't the blood — it was the weight of forty-one generations finally letting go.
 
-He opened his eyes. Found Mary Magdalene's face in the crowd below. Still watching. Still holding him.
+He opened his eyes one more time. Found Mary Magdalene's face in the crowd below. Still watching. Still holding him.
 
-*It will work*, he thought. Because she was there.
+*It will work.* Because she was there.
 
 ---
 
 *Marcus POV*
 
-Jesus lifted his head. Gathering strength for speech. The ninth hour approaching — six hours since crucifixion began. Faster than usual. The scourging had weakened him severely.
+Jesus lifted his head. The effort it cost him was visible — every muscle in his neck and shoulders straining against six hours of gravity and iron.
 
-His voice carried across Golgotha despite the weakness.
+"Eli, Eli, lema sabachthani?"
 
-"Eli, Eli, lema sabachthani?" My God, my God, why have you forsaken me?
+My God, my God, why have you forsaken me?
 
-Someone lifted a sponge soaked in wine vinegar. Jesus tasted it.
+The words carried across the hillside. Someone lifted a sponge soaked in wine vinegar on a reed. Jesus tasted it.
 
-Then, clearer: "It is finished."
+Then, clearer than anything he'd said in hours: "It is finished."
 
-And finally, loud enough for all witnesses: "Father, into your hands I commit my spirit."
+And finally — loud, impossibly loud for a man who should have had no breath left: "Father, into your hands I commit my spirit."
 
-He released his final breath.
+His chest settled. Didn't rise again.
 
 Marcus marked the time. The ninth hour.
 
 ---
 
-The ground shook. Enough to crack stones. The storm broke — rain falling, thunder rolling across the hills.
+The ground shook. Not a tremor — a heave, enough to crack the limestone and send loose stones rolling down the hillside. The storm broke with it — rain falling hard, thunder rolling across the hills like something answering.
 
-The centurion supervising the execution stared at Jesus's body. "Truly this was a righteous man."
+The centurion supervising the execution stared at Jesus's body for a long time. Rain ran down his face. "Truly," he said to no one, "this was a righteous man."
 
-Sabbath approaching. Bodies had to come down before sunset. Soldiers broke the criminals' legs — couldn't push up to breathe anymore, death within minutes.
+Sabbath was approaching. The bodies had to come down before sunset. Soldiers moved to the criminals first — broke their legs with an iron bar, quick efficient blows. The men couldn't push up to breathe anymore. They died within minutes.
 
-They approached Jesus. Already dead. But the centurion took his spear and thrust it into Jesus's side. Blood and water flowed out — the body's confirmation that death was absolute.
+They came to Jesus last. Already dead — his chest still, his head fallen forward. But the centurion took his spear and drove it into Jesus's side. Blood and water flowed together down the shaft.
 
-He withdrew the spear. Stared at the blood on the blade.
+He pulled the spear free. Looked at the blood on the blade. Then looked away.
 
 ---
 
@@ -238,17 +248,17 @@ Rain soaked Golgotha. Blood washing from the execution ground.
 
 Joseph of Arimathea approached the soldiers. "I request the body. I have permission from Pilate."
 
-Joseph and Nicodemus removed the nails carefully. Took Jesus's body down. Wrapped it in linen cloth. Marcus helped — his hands doing what his mind could not yet process. He had held dying men before, in Thrace and Pannonia, soldiers whose names he'd known. This was different. The body was lighter than he'd expected, as if whatever had filled this man had already left, and what remained was just the carpenter — the calloused hands, the blackened thumbnail, the wood dust that would never fully leave his knuckles.
+Joseph and Nicodemus removed the nails carefully — the sound of iron pulling free from wood and bone. They took his body down. Wrapped it in linen. Marcus helped, his hands doing what his mind couldn't process yet. He'd carried dead soldiers before, in Thrace and Pannonia. This was different. The body was lighter than it should have been, and what remained was just the carpenter — calloused hands, a blackened thumbnail, wood dust ground so deep into his knuckles it would never come out.
 
 They carried the body to Joseph's family tomb. Rock-cut, never used. Nicodemus brought spices — myrrh and aloes, seventy-five pounds. A king's burial for a crucified criminal.
 
-Women followed. Jesus's mother. Mary Magdalene standing apart, face drawn.
+Women followed. Jesus's mother, leaning on John. Mary Magdalene walking alone, her face the face of someone memorizing everything — the path, the entrance, the stone, the exact position of the body on the shelf.
 
-They laid the body on the stone shelf. Four men rolled the massive stone across the entrance.
+They laid him down. Joseph and Nicodemus packed the spices around the linen. Four men rolled the massive stone across the entrance.
 
-Temple guards arrived. Caiaphas's orders — six men posted to watch the tomb.
+Temple guards arrived within the hour. Caiaphas's orders — six men posted to watch a dead man's tomb. They looked embarrassed. They'd get over it.
 
-Marcus left as darkness fell. Sabbath beginning. The smell of rain-washed stone and extinguished torches.
+Marcus left as darkness fell. Sabbath beginning. The air smelled of wet stone and the last smoke from the extinguished torches on Golgotha.
 
 In his quarters, he read back what he had written. His hands would not stop shaking. When he finally set down the stylus, his fingers had cramped into the shape of holding it, and he had to pry them open one by one.
 
@@ -274,13 +284,13 @@ Mary stood alone outside the sealed tomb. The guards watched her nervously — s
 
 She had held his hands during teaching sessions. Had sat beside him while he turned fishing nets and lamp oil and mustard seeds into lessons. Had argued with him about whether the women should teach separately or alongside the Twelve. Had watched him laugh — actually laugh — when Sarah mispronounced a word and he'd said *that's actually more accurate*.
 
-Those were her memories. Not blood. Hers.
+Those were her memories. Not inherited. Not encoded. Hers.
 
-And now he was behind a stone.
+And now he was behind a stone, and the stone was sealed, and six men with swords stood between her and the body of the person she knew best in the world.
 
-She pressed her palm against the sealed tomb. Cold rock. The guards shifted but didn't intervene.
+She pressed her palm flat against the rock. Cold. The guards shifted but didn't stop her.
 
-Mary turned from the tomb. Walked through Jerusalem's emptying streets as Sabbath fell. Found her lodging. Sat in the dark.
+Mary turned from the tomb. Walked through Jerusalem's emptying streets as Sabbath fell. Found her borrowed room. Sat in the dark.
 
 Every time she closed her eyes she saw the moment when his breathing stopped — not the dramatic final words, but the small, ordinary moment after, when his chest simply didn't rise again.
 
@@ -290,8 +300,8 @@ She waited for the third day.
 
 **END CHAPTER 12**
 
-**Word Count:** ~4,500 words (compressed from ~8,500)
-**Status:** REVISED — Scene 1 recap cut, Scene 5 Jesus internal cut, Scene 8 flash-forward cut, all "Not X. Y." eliminated, narrator decodings stripped, Mary's vigil preserved
+**Word Count:** ~3,300 words (compressed from ~8,500)
+**Status:** REVISED Phase 2 — Scene 1 Marcus grounded (sleepless night, can't eat), Scene 2 Pilate/scourging expanded (Caiaphas patience, blow-by-blow lashes), Scene 4 crucifixion slowed (feet nail, breathing mechanics), Scene 5 criminals humanized (dying-man speech), Scene 6 death given space, Scene 7 burial sharpened, Scene 8 Mary's vigil deepened
 **Next Chapter:** Chapter 13 "The Resurrection"
 
 ---
