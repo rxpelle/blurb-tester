@@ -94,7 +94,7 @@ Which left deliberate choice.
 
 "My work doesn't leave room for a wife." A pause. "And it wouldn't be fair to her."
 
-The way he said *her*—not abstractly, not philosophically. Like there was a specific woman he'd thought about and decided against. Marcus recognized the tone. He'd heard it from soldiers who refused to marry before campaigns they didn't expect to survive.
+The way he said *her*—not abstractly, not philosophically. Like there was a specific woman he'd thought about and decided against. The same tone soldiers used when they refused to marry before campaigns they didn't expect to survive.
 
 "Profession?" Marcus knew the answer but wanted to hear how Jesus described it.
 
@@ -160,7 +160,7 @@ Another silence, longer. Jesus looked at the census line—forty families still 
 
 "I've been dreaming of burning cities since I was three years old," he said quietly. "Not my cities. My ancestors'. I see what they saw—walls falling, people running, the knowledge being packed into baskets and carried out before the fire reaches it. Not from training. From the blood." He paused. "There are maybe fifty of us left who carry it. Most don't know what the dreams mean."
 
-Marcus's breath caught. Not trained. Born with it. The rarest kind.
+Marcus's breath caught. Born with it — the rarest kind.
 
 "Generation?" Marcus asked.
 
@@ -222,8 +222,6 @@ Marcus hadn't expected that. "What?"
 
 The words landed like stones. Marcus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
 
-"He knows this," Simon continued. "Why do you think he won't accept protection? He's not being noble. He's being practical. If the network burns its resources protecting him and they catch him anyway, they lose both."
-
 Marcus paced to the low wall. Below, the lake stretched dark, fishing boats knocking gently against stone moorings. Somewhere a woman was singing to a child—a lullaby he couldn't understand, the melody old enough to precede the language carrying it.
 
 "He teaches people to stop swinging." Marcus's throat was tight. "And you're telling me to file the report that puts a target on him."
@@ -238,7 +236,7 @@ Marcus stared at the dark water. The fisherman was right. And he hated him for i
 
 Marcus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
 
-He would file the false report. Not because he was brave. Because Simon had shown him the mathematics of survival, and the answer was ugly, and it was right.
+He would file the false report. Simon had shown him the mathematics of survival, and the answer was ugly, and it was right.
 
 ---
 

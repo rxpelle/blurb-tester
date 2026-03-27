@@ -12,7 +12,7 @@ Marcus Publius Scipio had witnessed executions before. Fifteen years in Roman se
 
 But he'd never watched someone walk deliberately toward their own execution.
 
-The Sukkot festival morning broke clear and warm over Capernaum. Fifteen thousand pilgrims packed the streets, the smell of roasting lamb and fresh-cut citron thick in the air. Temporary shelters crowded every open space — sukkahs built from palm branches and willow, their green walls already browning in the autumn heat, casting striped shadows across the dusty ground. Children chased each other between the shelters, shrieking. A man near the well shook a lulav, the dried palm fronds rattling like bones. Somewhere a shofar sounded, low and mournful, cutting through the festival noise.
+The Sukkot festival morning broke clear and warm over Capernaum. Fifteen thousand pilgrims packed the streets — roasting lamb, fresh citron, sukkahs built from palm branches browning in the autumn heat. Children shrieking between the shelters. A man near the well shook a lulav, the dried fronds rattling like bones. Somewhere a shofar sounded, cutting through the noise.
 
 Marcus positioned himself at the crowd's edge, wax tablets hidden in his cloak. Close enough to observe. Far enough to slip away if things turned violent.
 
@@ -28,7 +28,7 @@ Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full c
 
 They did.
 
-Marcus could see the defensive network's people scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team. They thought they were preparing to save Jesus.
+The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team. They thought they were preparing to save Jesus.
 
 They were preparing to fail.
 
@@ -36,11 +36,11 @@ Marcus had seen the other side's positioning yesterday. Extra men hidden in adja
 
 They had been watched the whole time.
 
-Near the teaching platform, Mary stood with Sarah. The girl—seven years old, too young to witness what was coming—held her mother's hand. Mary's knuckles showed white where she gripped Sarah's hand. Three weeks of knowing this day would come, and now it was here, and her jaw was clenched so tight Marcus could see the muscle working from forty paces.
+Near the teaching platform, Mary stood with Sarah. The girl—seven years old, too young to witness what was coming—held her mother's hand. Mary's knuckles showed white where she gripped Sarah's hand. Three weeks of knowing this day would come, and now it was here, and her jaw was clenched so tight the muscle worked visibly from forty paces.
 
 It had arrived.
 
-Jesus surveyed the crowd with that peculiar calm Marcus had observed for six years — the stillness of a man who had already accepted what came next.
+Jesus surveyed the crowd. Still. The way he'd been still for six years — a man who had already accepted what came next.
 
 The teaching began.
 
@@ -124,7 +124,7 @@ Jesus met Judas's eyes across the table. Saw the man's commitment. Saw the rescu
 
 Saw the failure that was coming.
 
-"You have said so," Jesus said gently.
+"You have said so," Jesus said.
 
 Judas stood, interpreting Jesus's words as permission. Time to set the last pieces in place. Time to bribe the guards who thought they were being bribed. Time to create the confusion that would let them pull Jesus free.
 
@@ -152,7 +152,7 @@ He turned to Mary, who'd been silent through the entire meal.
 
 "I understand," Mary confirmed. Then, softer: "I'm still not ready."
 
-"Tausret wasn't ready either." Jesus reached across the table, squeezed her hand. His fingers were cold. "Readiness doesn't matter. You can see what I see. Sarah can feel what we feel. The knowledge will survive."
+"Tausret wasn't ready either." Jesus reached across the table, squeezed her hand. His fingers were cold.
 
 Sarah leaned against her mother, processing everything with seven-year-old seriousness.
 
@@ -194,7 +194,7 @@ The bribed guards should move now. Create confusion. Begin the rescue.
 
 Instead, different guards moved. Ones Judas didn't recognize. Extra forces. Where did they come from?
 
-His bribed guards hesitated, suddenly uncertain. Not creating confusion. Looking confused themselves.
+His bribed guards hesitated, suddenly uncertain — confused themselves.
 
 The plan was compromised.
 
@@ -226,7 +226,7 @@ The taste of bile rose in his throat.
 
 *Marcus POV*
 
-Marcus documented everything from forty paces. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest.
+From forty paces, Marcus wrote it down. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest. His stylus moved the way it always moved — steady, precise, the hand of a man trained to observe while other men bled. He hated the steadiness. Hated that his body had learned to function while his chest hollowed out.
 
 The disciples scattered — Peter first, dropping his sword and running, then the others after him. The rescue team melted into the crowd. Mary and Sarah disappeared down the Damascus route, Simon covering their retreat.
 
@@ -252,7 +252,7 @@ Six years of watching this man, and tomorrow he would see them kill him.
 
 Mary ran.
 
-Each step away from Jesus felt like tearing something loose inside her chest. But Sarah's hand was in hers — small, warm, trusting — and that was enough to keep her legs moving. Simon ahead, clearing the road to Damascus. Rachel and Leah flanking. Seven years old and Sarah kept pace with adult desperation.
+She ran. But Sarah's hand was in hers — small, warm, trusting — and that was enough to keep her legs moving. Simon ahead, clearing the road to Damascus. Rachel and Leah flanking. Seven years old and Sarah kept pace with adult desperation.
 
 Behind them, the sounds of chaos fading. The disciples scattering — Peter toward the harbor, Thomas inland, John circling back because he couldn't stay away. The rescue team melting into the dark.
 

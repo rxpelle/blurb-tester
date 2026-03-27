@@ -34,7 +34,7 @@ Jesus stood in the doorway. Two years of steady teaching had weathered him — h
 
 They left at sunrise — Jesus, Mary, Peter, and John. Sarah stayed with Anna.
 
-Three days south through Judean wilderness. Sweat stinging, dust coating, each step on loose shale sending stones skittering toward the Dead Sea's impossible blue far below.
+Three days south through Judean wilderness. Sweat stinging, dust coating, each step on loose shale sending stones skittering toward the Dead Sea's blue far below.
 
 On the third morning, climbing a ridge that overlooked the salt-crusted shore, Mary asked what had been building for months: "What does the text say about you?"
 
@@ -56,7 +56,7 @@ Matthias met them at the gate. Elderly, bent, eyes sharp as flint. He led them t
 
 He retrieved two scrolls and unrolled them with careful reverence.
 
-"Copied from older documents that survived the Babylonian exile," he said. "The scribes thought they were preserving mystical prophecy. I've been studying them for forty years. They're something else — a way of reading how civilizations rise and fall, disguised as theology."
+"Copied from older documents that survived the exile," he said. "I've been studying them for forty years. The scribes think they're prophecy. They're something else."
 
 Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory — not hieroglyphics, something else. Waves and circles and intersecting lines, almost like music notation.
 
@@ -64,7 +64,7 @@ She traced one cluster with her finger, not quite touching the parchment. Heat s
 
 The symbols shifted, resolving into something almost familiar. Like a half-remembered language rising from deep water.
 
-"Branch carriers see what the primary bloodline cannot," she heard herself say, the words coming unbidden. "The primary line sees the chain — generation to generation. But branch carriers see how different collapses *connect to each other*." She blinked, the vision strengthening. "I don't just see Pi-Ramesses falling. I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same shape wearing different faces."
+"I don't just see Pi-Ramesses falling," she heard herself say, the words coming unbidden. She blinked, the vision strengthening. "I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same shape wearing different faces."
 
 Jesus was staring at her. "You're reading the notation. Directly."
 
@@ -100,11 +100,11 @@ But she'd seen enough. The text described a pattern that stretched generations f
 
 "Yes."
 
-"And it says that's the *design*. Not a tragedy. The architecture."
+"And it says that's the *design*. The architecture."
 
-Jesus was quiet for a long time. "Nefertari designed it for exactly this. A teacher who threatens power gets killed. The killing encodes the lesson deeper than any teaching could. And the carrier who survives — the one who watched it happen — she carries both the knowledge and the grief. Both necessary."
+Jesus was quiet for a long time.
 
-Mary felt sick. Not from the vision. From the clarity. She understood the architecture now — understood it the way she'd understood trade routes in Magdala, the way she'd understood the lamp exercise in Simon's courtyard. The logic was flawless. And it required her partner's death.
+Mary felt sick — the clarity was worse than the vision. She understood the architecture now — understood it the way she'd understood trade routes in Magdala, the way she'd understood the lamp exercise in Simon's courtyard. The logic was flawless.
 
 "Make copies," Jesus told Matthias. "Three sets. Scatter them — Alexandria, Antioch, wherever your networks reach. This archive won't survive what's coming."
 
@@ -120,7 +120,7 @@ Matthias began rolling the scrolls with trembling hands.
 
 That night they camped in the wilderness. Peter and John slept near the fire. Jesus and Mary sat apart, looking at stars.
 
-"I wake up terrified," Mary said. Her voice was steady but her fingers dug into the desert sand. "Not of the visions. Of failing. What if I forget something that matters? What if Sarah dies in the scattering because I didn't prepare her properly?"
+"I wake up terrified," Mary said. Her voice was steady but her fingers dug into the desert sand. "Of failing. What if I forget something that matters? What if Sarah dies in the scattering because I didn't prepare her properly?"
 
 "That fear is what will make you thorough."
 

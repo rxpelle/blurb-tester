@@ -32,7 +32,7 @@ Someone in the crowd shifted. Two holy men. Both walking past.
 
 "But a Samaritan, as he journeyed, came to where he was. And when he saw him, he had compassion."
 
-The word *Samaritan* landed like a stone in still water. People glanced at each other. A few faces hardened.
+The word *Samaritan* hit the crowd. People glanced at each other. A few faces hardened.
 
 "He went to him and bound up his wounds," Jesus said, watching the lawyer who'd asked the question. "Pouring on oil and wine. Then he set him on his own animal and brought him to an inn, and took care of him. And the next day he took out two denarii and gave them to the innkeeper, saying, 'Take care of him, and whatever more you spend, I will repay you when I come back.'"
 
@@ -96,7 +96,7 @@ Simon felt the familiar tension. Judas asked this in different forms every few w
 
 "So we just accept defeat?" Judas's voice cracked. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
 
-Jesus emerged from the darkness beyond the firelight. "Fair question." He settled into his usual spot, and Simon noticed his hands were trembling — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
+Jesus emerged from the darkness beyond the firelight. "Fair question." He settled into his usual spot, his hands trembling — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
 "What's wrong with five years?"
 
@@ -106,9 +106,31 @@ Judas stared into the flames. "My cousin is dead. My father's fields are gone. A
 
 "I'm telling you to build something that lasts five hundred years. There's a difference."
 
-Judas stood and walked into the darkness without answering. Simon watched him go. The man hadn't been convinced. He'd been quieted, which was different — and temporary.
+Judas stood and walked into the darkness without answering.
 
-When the time came, Judas would have to choose. Simon wasn't sure which way he'd go.
+James spoke for the first time. He'd been sitting with his arms crossed since the meal, the way he'd been sitting in every meeting since the Sermon on the Mount three months ago. "Judas is right about one thing. We're losing people. Two families in Nazareth stopped coming after the Romans burned their neighbor's olive grove. They don't want five hundred years. They want someone to stop the burning."
+
+"And if I stop one burning?" Jesus's voice was quiet. "They burn two more to make the example."
+
+"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's jaw was tight. "Not violence. But something harder than stories."
+
+Jesus looked at him for a long time. "I don't have an answer for that yet."
+
+The admission hung in the air. Jesus not having an answer. Simon saw the others register it — Thomas's eyebrows rising, Matthew looking down, Peter shifting uncomfortably.
+
+"While we're saying the things nobody says," Peter said. He stared at the fire. "The women's circles. Mary's teaching. The others are talking. They say you've given a *woman* authority over the teaching while the Twelve sit around learning parables."
+
+"The Twelve sit around learning parables because they need to," Jesus said. An edge in his voice Simon rarely heard.
+
+"I'm not saying she's wrong. I'm saying it's *causing problems*. Men leave when they hear a woman teaches. We lost six last month."
+
+"Then those six didn't understand what I'm teaching."
+
+Peter's mouth compressed. He didn't argue further. But he didn't nod either. Peter accepting what he couldn't change. That wasn't the same as agreeing.
+
+Judas was still out in the darkness somewhere. James still had his arms crossed. Peter stared into the fire with the face of a man swallowing something that wouldn't go down.
+
+Simon watched the fractures spread and said nothing, because he didn't know how to fix them and neither did Jesus and that was the thing nobody wanted to say out loud.
 
 ---
 
@@ -122,7 +144,9 @@ The new officer was young, efficient, unburdened by moral complexity. "Five thou
 
 "Charges built. Blasphemy, sedition, whatever holds up before the Sanhedrin. Twelve to eighteen months until arrest. Faster if the crowds keep growing."
 
-After the officer left, Marcus sat alone in the tavern noise — dice, arguments, a woman laughing somewhere — and pulled out a roll of papyrus. Five years of documentation. Parables, methods, testimony that someone generations from now might need. Twenty-eight years of military service, campaigns across three provinces. And it came to this: his scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm.
+After the officer left, Marcus sat alone in the tavern noise — dice, arguments, a woman laughing somewhere — and pulled out a roll of papyrus. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
+
+Twenty-eight years of military service, campaigns across three provinces. And it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Marcus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
 
 That night the core group gathered at Lazarus's house in Bethany. Oil lamps. Olive oil and sweat. Too many bodies in too small a space. Mary slipped through the door with Sarah's warm weight against her shoulder.
 

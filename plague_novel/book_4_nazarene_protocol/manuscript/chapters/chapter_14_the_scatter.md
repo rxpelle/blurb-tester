@@ -10,7 +10,7 @@
 
 Thomas hadn't been present at the first appearance. Skeptical by nature — the questioner among the Twelve, the physician's mind that demanded evidence before belief.
 
-Now he stood in the upper room with the other disciples, door locked against Temple arrest, evening settling over Jerusalem. Four weeks of hearing secondhand accounts. Thomas had heard it all. Remained unconvinced.
+Now he stood in the upper room with the other disciples — twelve people in a space built for eight, the air thick with the sour smell of men who hadn't left in days. Sweat, stale bread, the vinegar tang of cheap wine. Door barred with a cedar beam against Temple arrest. Oil lamps throwing unsteady shadows. Someone had been sick in the corner and cleaned it badly. Four weeks of hiding, and the room smelled like fear. Thomas had heard every secondhand account. Remained unconvinced.
 
 "I won't believe unless I see the nail marks," Thomas declared. "Unless I put my finger where the nails were. Unless I touch the spear wound."
 
@@ -22,9 +22,11 @@ Now he stood in the upper room with the other disciples, door locked against Tem
 
 Thomas paced. His physician's training demanded proof. His blood showed him forty-two generations of carriers who had held contradictions in both hands without choosing between them.
 
+The lamp flames bent sideways, all at once, as if a door had opened — but the door was still barred. The temperature dropped. Thomas felt the hair rise on his forearms.
+
 The figure appeared.
 
-Standing in the center of the room. Door still locked. No sound of entry. No displacement of air. Just—presence materializing between one heartbeat and the next.
+Standing in the center of the room. Door still locked. No sound of entry. The smell of the room changed — something clean cutting through the stale air, like rain on hot stone. Just presence, materializing between one heartbeat and the next.
 
 "Peace be with you."
 
@@ -138,7 +140,7 @@ She kept writing. The vision — the private teaching, the one Peter would later
 
 *The soul answered, "I saw you. You did not see me nor did you know me. You mistook the garment I wore for my true self. And you did not recognize me."*
 
-She wrote through the night. By morning, the Gospel was complete. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. Pages 11 through 14 would rot away in an Egyptian cave. But fragments plus blood memory would be enough.
+She wrote through the night. By morning, the Gospel was complete. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. She didn't know which pages would survive. She wrote them all.
 
 ---
 
@@ -186,9 +188,9 @@ She had work to do.
 
 ### 64 CE: Peter's Martyrdom
 
-Rome was burning. Nero blamed Christians.
+Rome was burning. The sky had been orange for three days, ash drifting through the streets like grey snow, and the air tasted of charcoal and something sweeter underneath — the smell of a city's timber and cloth and stored grain and people all burning together. Nero blamed Christians.
 
-Peter stood in a narrow stone cell, dampness seeping through the walls, holding the Pattern Eye one final time. Torchlight from the corridor flickered through the iron grate. Sixty-eight years old. Fisherman. Apostle.
+Peter stood in a narrow stone cell, dampness seeping through the walls, holding the Pattern Eye one final time. The bronze was cold from the stone — he warmed it between his palms the way he'd once warmed his hands over a charcoal fire in the high priest's courtyard, the night he'd denied knowing Jesus three times. Torchlight from the corridor flickered through the iron grate, catching the carved lines. Sixty-eight years old. Fisherman's hands still calloused, still too large for delicate work. Apostle.
 
 Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Gaul.
 

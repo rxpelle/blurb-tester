@@ -64,7 +64,7 @@ Jesus stood among them and felt what they felt — multiplied, concentrated, the
 
 A woman was holding her neighbor's hand. Two men who'd argued over fishing rights that morning stood shoulder to shoulder with their eyes closed. Children had crawled into parents' laps. The entire hillside had drawn together, forty separate bodies becoming something that breathed as one, that wept as one, that held itself the way a single body holds itself when it remembers what it means to be loved.
 
-Jesus's knees gave. Not from weakness. From the weight of it. He sat down on the stone where he'd been standing and pressed both palms flat against the warm rock and felt it flowing through him into the earth — the earth not cooling it, not absorbing it, just holding it the way stone holds the day's heat long after the sun has set. Faithfully. Without understanding. Because that's what stone does. It holds.
+Jesus's knees gave — the weight of it buckled him. He sat down on the stone where he'd been standing and pressed both palms flat against the warm rock and felt it flowing through him into the earth — the earth not cooling it, not absorbing it, just holding it the way stone holds the day's heat long after the sun has set. Faithfully. Without understanding. Because that's what stone does. It holds.
 
 He didn't know how long it lasted. Minutes. Maybe longer. The lake lapped at the shore below. The wind moved through the grass. And forty people sat on a hillside in Galilee and were held inside a love that had been traveling for centuries to reach them.
 
@@ -116,7 +116,7 @@ Jesus was quiet.
 
 Simon said nothing. His hand was on his left side, holding the place where the warmth had touched him.
 
-"Love your neighbor as yourself," Jesus said. And then stopped. Because the words, which he'd been carrying for months as a teaching, as a principle, suddenly felt different in his mouth. Not an instruction. Not a commandment. A description of what had happened on the hillside. A name for what the warmth did when it moved through people — dissolved the boundary between self and other, between my grief and your grief, between the love I carry and the love you've been missing. For one moment on that hillside, forty people had loved each other as themselves. Not because they chose to. Because the love chose them.
+"Love your neighbor as yourself," Jesus said. And then stopped. Because the words, which he'd been carrying for months as a teaching, as a principle, suddenly felt different in his mouth — less instruction than description of what had happened on the hillside. A name for what the warmth did when it moved through people — dissolved the boundary between self and other, between my grief and your grief, between the love I carry and the love you've been missing. For one moment on that hillside, forty people had loved each other as themselves. Not because they chose to. Because the love chose them.
 
 He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs — quieter now, settled, but there. Still reaching. Searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to understand as the voice of God.
 

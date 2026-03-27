@@ -88,9 +88,9 @@ The crowd was perhaps two hundred. Mary of Magdala sat near the front, holding S
 
 Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But Marcus watched the faces. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. They were hearing something underneath.
 
-"I speak in parables," Jesus told a frustrated Pharisee, "so the teaching can survive even when people forget what it means."
+"I speak in parables," Jesus told a frustrated Pharisee, "so the meaning outlasts the teacher."
 
-Marcus felt his breath catch. That was the closest Jesus had ever come to admitting what he was doing — encoding meaning that would outlast the teacher. Parables as containers, designed to be opened later by someone sharp enough.
+Marcus felt his breath catch. That was the closest Jesus had ever come to admitting what he was doing in public.
 
 He composed his report in his head, same as always. Technically accurate. Strategically misleading. Five years of this. It was exhausting.
 
@@ -120,11 +120,7 @@ Marcus filed that away. Barabbas. Known Zealot recruiter. Temple informants had 
 
 "Then we do nothing?" Barabbas's voice rose. "We accept oppression? Submit to Caesar's taxes and Temple corruption?"
 
-"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "Violence begets violence, as the prophets warned. Those who live by the sword perish by it. Rome has been playing this game for seven hundred years — they are better at violence than we will ever be. But you can refuse to play. Break the cycle. Respond with something Rome has no answer for."
-
-"That's cowardice!"
-
-"That's wisdom." Jesus's voice hardened. "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Then your children revolt, and Rome kills a hundred thousand. Three generations from now, Jerusalem burns and the survivors scatter across the earth."
+"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Three generations from now, Jerusalem burns and the survivors scatter across the earth."
 
 Silence. The crowd had gone completely still.
 
@@ -134,15 +130,11 @@ Marcus felt his heart pounding. Jesus had just described the exact collapse traj
 
 "I can see the pattern. Every time a conquered people tries to overthrow an empire through violence, the empire wins. Not because Rome is righteous. Because empire is *built* for violence. You cannot out-fight the greatest killing machine in human history."
 
-"Then what do we do?" someone else asked.
-
-"Build communities strong enough to survive Rome's collapse without collapsing themselves. That's the Kingdom I teach. Not defeating Rome — outlasting it."
-
 Marcus watched Barabbas's face crumple. This wasn't just disagreement — this was a young man watching his hero destroy everything he'd believed in. Barabbas had probably dreamed of fighting beside Jesus, of glorious victory over Rome. Now Jesus was telling him that dream itself was poison. The confusion in his eyes looked like grief.
 
 "You won't lead us," Barabbas said flatly.
 
-"I'm teaching you something better than leadership. I'm teaching you how to prevent the conditions that make violent resistance necessary. But you have to see the pattern first. And right now, you're too angry to see it."
+"No."
 
 Barabbas stared at him for a long moment. Then turned and pushed back through the crowd. His two companions followed.
 
@@ -158,6 +150,8 @@ Every report felt like delaying the inevitable.
 
 The man was waiting in Marcus's quarters when he returned that evening.
 
+The room smelled wrong. Marcus's quarters carried the same stale odors every night — lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight something else hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
+
 Marcus saw him immediately — mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
 
 "Centurion Scipio." The man stood, offering the courteous nod of social equals. "My name is Matthias. I serve certain interests you know of, though perhaps not this particular faction."
@@ -170,9 +164,9 @@ Marcus said nothing.
 
 "Your reports are technically accurate — that's what makes them so skillful. But they consistently discourage aggressive response." Matthias smiled. "You've bought him almost three years longer than he would have survived otherwise."
 
-Marcus drew his gladius. "Get out."
+Marcus drew his gladius. The scrape of iron leaving the scabbard sounded too loud in the small room. "Get out."
 
-"I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. "My people recognize Jesus's value. His method of teaching is brilliant. We want to bring him to our side."
+"I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. The lamp flame guttered between them, throwing their shadows against opposite walls — Marcus's large and unsteady, Matthias's still as furniture. "My people recognize Jesus's value. His method of teaching is brilliant. We want to bring him to our side."
 
 "He won't work for you."
 
@@ -188,9 +182,9 @@ Marcus thought of his sister's letters from Gaul — her children needed schooli
 
 "Because you have access. He knows you haven't betrayed him. Close enough for recruitment. Or close enough for a clean kill."
 
-"He expects to die. He's planned for it. Killing him only spreads the teaching faster."
+"Killing him only makes it worse."
 
-"Only if the death looks righteous." Matthias leaned forward, and for the first time his voice sharpened. "Martyrdom works when persecution proves the teacher right. But discredit him first — expose him as a fraud, a criminal — and the martyrdom effect inverts. Followers scatter. Teaching dies with him."
+"Only if the death looks righteous." Matthias leaned forward, and for the first time his voice sharpened. "Discredit him first — expose him as a fraud, a criminal — and the effect inverts. Followers scatter. Teaching dies with him."
 
 Marcus's free hand clenched, nails cutting into his palm. Five years of careful protection, and they'd seen through every maneuver. The trap wasn't just clever — it was perfect.
 
@@ -202,9 +196,9 @@ He walked to the door, then paused. "For what it's worth — noble effort. Futil
 
 Matthias left.
 
-Marcus sat down heavily on his bunk, gladius still in hand.
+Marcus sat down heavily on his bunk, gladius still in hand. The nard smell lingered — rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
 
-Three days to decide whether to betray Jesus or betray Rome or lose everything and watch Jesus die anyway.
+The lamp had burned low. In its dying light, the walls of his quarters looked like what they were — a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
 
 He understood the trap. Understanding it didn't mean he could escape it.
 
@@ -301,6 +295,12 @@ Marcus understood. Lucullus was protecting himself, not Marcus. The cold calcula
 "You've bought him six months," Lucullus said. "Maybe less."
 
 Marcus saluted for the last time. Then walked out of the Antonia Fortress as a civilian for the first time in twenty-eight years.
+
+The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past — merchants, pilgrims, a woman carrying bread on her head — and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
+
+His sister's face came to him. The last letter from Gaul: *The boys are growing fast. Decimus asks about his uncle the centurion.* His nephew would ask about an uncle who was nothing now. No pension. No honors. No farm for the boys. Just a man who'd thrown away twenty-eight years for a carpenter he couldn't save.
+
+Marcus walked through Jerusalem with his hands at his sides and his knee aching and the strange lightness of a man who has finally stopped carrying something too heavy for one person.
 
 Two days later he found Jesus teaching on a hillside outside Bethany. Smaller crowd than usual — maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
 

@@ -18,7 +18,7 @@ John looked up from the baptism pool—shallow basin carved by centuries of rive
 
 *Jesus.*
 
-Even at two hundred paces, John felt it—carrier strength radiating from him like heat off sun-baked stone. Not visible to people who didn't know what to look for. But unmistakable to anyone who'd grown up dreaming of cities they'd never seen.
+Even at two hundred paces, John felt it—carrier strength coming off him in waves. Not visible to people who didn't know what to look for. But unmistakable to anyone who'd grown up dreaming of cities they'd never seen.
 
 John had prepared for this moment through three years of wilderness teaching, baptism rituals serving as network initiation. The defensive families had whispered that Generation 42 was active in Galilee, preparing for the diaspora.
 
@@ -56,7 +56,7 @@ John saw what he'd expected—the intensity, the focus. But also something new. 
 
 "I've been teaching in Galilee for two years. Large crowds. But I need formal connection to the Judean families you represent."
 
-Something hot climbed John's throat. "You don't need my recognition. I'm a voice in the desert, cousin. You're — " He gestured at Jesus the way he'd gesture at a storm front. "You could walk into any city in Galilee and people would follow you home."
+John's throat tightened. "You don't need my recognition. I'm a voice in the desert, cousin. You're — " He gestured at Jesus the way he'd gesture at a storm front. "You could walk into any city in Galilee and people would follow you home."
 
 "That's why I need it, cousin." Jesus looked at him directly. "Stand alone and they make you king. Kings burn when their kingdoms fall. But if I kneel in your river first—if another teacher baptizes me, not the other way around—then it was never about one man. It's about what we're both carrying."
 
@@ -66,9 +66,7 @@ John chewed on that. He'd been preaching against the very kind of authority Jesu
 
 "Good." Jesus's voice was steady. "A single tree, however mighty, burns with the forest. But seeds on the wind find new soil. When Rome burns Jerusalem—twenty years, maybe thirty—the people scatter. If they're carrying the teaching when they run, it survives the burning. You're planting deep roots in a few hundred. I'm scattering seeds across thousands. Both necessary."
 
-The logic was sound. Depth and breadth. Roots and seeds. Jesus wasn't competing with him—the two approaches were complementary.
-
-Something tight in his chest began to loosen. Maybe he'd been measuring himself against the wrong standard.
+Something tight in John's chest began to loosen.
 
 "All right," John said. "Tonight. After the crowds disperse. The deep pool downstream."
 
@@ -130,7 +128,7 @@ John nodded. "Then enter the water."
 
 Jesus walked into the Jordan. The water was cold — fed by mountain snowmelt even in summer — and the shock of it ran up through his legs into his spine. River stones shifted under his feet, smooth and ancient. The current pressed against his thighs like a hand. He moved to the center of the pool where the depth reached his chest and the cold wrapped around him completely.
 
-John waded in after him. His hands were rough — calloused from years of sun-dried rope and desert stone — and when he placed one on Jesus's shoulder and the other against his back, Jesus could feel the strength in them. The strength of a man who lived outdoors and worked with his body and had pulled people out of this river before.
+John waded in after him. His hands were rough — calloused from years of sun-dried rope and desert stone — and when he placed one on Jesus's shoulder and the other against his back, the strength in them was immediate. A man who lived outdoors and worked with his body and had pulled people out of this river before.
 
 "In the name of the network," John murmured. "In memory of those who died teaching. In hope for those who survive learning. I baptize you."
 

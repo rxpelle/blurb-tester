@@ -8,9 +8,9 @@
 
 ## SCENE 1: THE SUMMONS
 
-The summons arrived before dawn.
+The summons arrived before dawn, when the room still smelled of last night's lamp oil and the cold that crept through Jerusalem's limestone walls in winter.
 
-Marcus Publius Scipio stared at the wooden tablet a courier had thrust beneath his door. Official military seal, pressed in red wax. Tribune Lucullus's signature.
+Marcus Publius Scipio stared at the wooden tablet a courier had thrust beneath his door. Official military seal, pressed in red wax — the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
 
 *Consultation. Tenth hour. Headquarters. Attendance mandatory.*
 
@@ -26,11 +26,11 @@ The guards at the gate waved him through — once a centurion, always recognizab
 
 ## SCENE 2: THE INTELLIGENCE BRIEFING
 
-The briefing room smelled of old wool and lamp oil, stone walls weeping moisture despite the brazier. Lucullus stood beside a map table, and next to him — Marcus's stomach tightened — Pilate's deputy prefect, Gaius Severus.
+The briefing room smelled of old wool and lamp oil, damp stone walls despite the brazier. Lucullus stood beside a map table, and next to him — Marcus's stomach tightened — Pilate's deputy prefect, Gaius Severus.
 
 "Sit," Severus said. "You're here for your expertise."
 
-Lucullus moved markers on the map as he spoke. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris. Markers closing around Galilee like a noose.
+Lucullus moved markers on the map as he spoke — wooden pieces on stretched leather, each one a thousand lives. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris. The markers closed around Galilee like a noose. The brazier popped, sending a coal skittering across the stone floor. Nobody moved to retrieve it.
 
 "Our interpreters have been studying the parables," Severus said. "They're carrying something underneath. We don't fully understand it, but the shape is clear. He's building something."
 
@@ -48,7 +48,7 @@ Marcus said nothing. Because that was true.
 
 Severus placed a single black marker on Jerusalem. "Decision from Rome: arrest and execution during Passover. The execution will be public, brutal, and unambiguous."
 
-Marcus's hands went cold. A man's voice delivering a death sentence like a supply report.
+Marcus's hands went cold. Outside, a rooster crowed — ordinary morning sound, absurdly ordinary — while a man's voice delivered a death sentence like a supply report.
 
 "Martyrdom," Marcus said.
 
@@ -74,7 +74,7 @@ Simon's hand tightened on his cup but his face stayed flat. "Can you stop it?"
 
 "No."
 
-"Then make sure the teaching survives. You're a witness, Marcus. Not a savior."
+"Then be a witness. You're not his savior, Marcus."
 
 "I can't save him." Marcus's voice cracked. His shoulders shook — once, briefly — before he forced himself still.
 
@@ -86,9 +86,9 @@ Marcus closed his eyes. Generations, not months.
 
 ## SCENE 3: THE CONVERSATION
 
-A week later Marcus declined Severus's offer and rode north to Capernaum. Three days through winter-stripped hills, grey and brown under low clouds, traveling with merchant caravans. He listened to their talk — miracle stories, Messianic rumors, a cousin who swore Jesus would drive out the Romans at Passover. The story was already outrunning the man.
+A week later Marcus declined Severus's offer and rode north to Capernaum. Three days through winter-stripped hills, grey and brown under low clouds. The wind carried the smell of wet earth and dead grass, and at night the cold came down so hard the mule's breath hung in clouds and Marcus wrapped his cloak twice around his chest and still felt it in his teeth. He traveled with merchant caravans and listened to their talk — miracle stories, Messianic rumors, a cousin who swore Jesus would drive out the Romans at Passover. The story was already outrunning the man.
 
-He found Jesus teaching in the synagogue at sunset. Waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. The smell of lake water and cooking smoke drifting up from the street.
+He found Jesus teaching in the synagogue at sunset — the last light coming through the narrow window, turning the dust motes gold, and the room smelling of sweat and olive oil and something indefinable that Marcus had come to associate with Jesus's teaching: the stillness of sixty people holding their breath. He waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. Lake water and cooking smoke drifting up from the street. The evening call to prayer from the synagogue below, fading.
 
 "Passover," Marcus said. "Official. The decision is made."
 
@@ -114,7 +114,9 @@ The room was dark now.
 
 "You are writing for them, Marcus," Jesus said from the doorway. "Not for us."
 
-He left. Marcus sat alone, the woman's singing still carrying through the floor, grieving for a death that felt inevitable as sunrise.
+He left. Marcus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and something in Marcus's chest answered it — the part of him that had carried a dead boy's face for twenty years, the part that had known since the census table in Nazareth that he was watching the same story unfold again. Open hands. A system that devoured what it couldn't control. And Marcus on the wrong side of the blade, writing it down instead of stopping it, because stopping it was never an option — not at Carnuntum, not here, not ever.
+
+The singing stopped. A child murmured. Then silence, and the sound of Marcus's own breathing in a room that smelled of lake water and bread and the absence of the man who'd just walked out.
 
 ---
 
@@ -122,7 +124,7 @@ He left. Marcus sat alone, the woman's singing still carrying through the floor,
 
 Mary lost the thread mid-sentence.
 
-She was teaching eighty women in the large room — oil lamps, too many bodies, the smell of warm wool and bread. The Mustard Seed parable. She'd taught it dozens of times. But Marcus's news from Jerusalem had hollowed out her chest, and the words kept catching on something sharp inside her.
+She was teaching eighty women in the large room — oil lamps guttering in the draft from the courtyard, too many bodies pressing the air warm and close, the smell of wool and bread and the particular musk of women who'd walked miles to be here. The Mustard Seed parable. She'd taught it dozens of times. But Marcus's news from Jerusalem had hollowed out her chest, and the words kept catching on something sharp inside her. A baby fussed somewhere in the back. A woman near the door shifted, her wooden sandals scraping against the stone floor.
 
 "Mary?" Leah's voice, gentle. "The deeper meaning?"
 
@@ -136,7 +138,7 @@ When the room was empty except for Leah, the silence crushed in.
 
 "Mary —"
 
-"He reads three thousand years like a scroll laid open." Mary's voice cracked. "I see fragments. Broken pieces. Images I have to guess at. He knows with certainty. I *hope* and pray I'm right. And what if I'm wrong? What if Sarah grows up carrying broken knowledge because I couldn't —"
+"He reads three thousand years like a scroll laid open." Mary's voice cracked. "I see fragments. Broken pieces. Images I have to guess at. He knows with certainty. I *hope* and pray I'm right. And Peter —" She stopped. Started again. "Peter told the others that giving a woman authority over the teaching is costing them followers. Six men left last month. And the worst part is he's not wrong — they *are* leaving. What if Jesus dies and Peter decides the teaching survives better without me?"
 
 She stopped. Her hands were shaking so badly she pressed them flat against her thighs.
 

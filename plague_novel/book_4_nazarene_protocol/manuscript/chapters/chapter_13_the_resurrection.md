@@ -8,7 +8,7 @@
 
 In Damascus, one hundred twenty miles north, Sarah woke before dawn.
 
-She'd cried for two days. Not because she understood why Jesus had to die. Because her mother had put her on a cart and said *I have to stay* and Sarah had watched her disappear into the crowd.
+She'd cried for two days — her mother had put her on a cart and said *I have to stay* and Sarah had watched her disappear into the crowd.
 
 Leah sat beside her sleeping mat. "Your mother is alive. She stayed to witness."
 
@@ -76,9 +76,11 @@ Movement in the garden. A figure near the olive trees.
 
 Mary sent Joanna and Salome to tell Peter. Then came back alone.
 
-She wept. The sound a person makes when they've held everything together for as long as the body allows and the body won't allow it anymore. Three days of not sleeping. Three days of holding every detail of his death. And now the tomb was empty and she didn't know where they'd put him and the spices were useless and she was alone.
+The garden was unbearable. Three days inside borrowed rooms staring at walls, and now the world was obscenely alive — olive trees silvering in the first breeze, rosemary and hyssop growing wild between the tombs, the air thick with the smell of turned earth and something flowering she couldn't name. A bird sang from the oldest olive tree, the kind of simple repetitive song that belonged to an ordinary morning, and the ordinariness of it was what finally broke her.
 
-A man behind her. She didn't look up properly — eyes blurred, dawn light behind him, just a shape.
+She wept. Three days of not sleeping. Three days of holding every detail of his death. And now the tomb was empty and she didn't know where they'd put him and the spices were useless and she was alone in a garden that didn't know he was dead.
+
+A man behind her. She didn't look up properly — eyes blurred, dawn light behind him, just a shape against the olive trees.
 
 "Woman, why are you weeping? Who are you looking for?"
 
@@ -98,7 +100,7 @@ She just needed him to have said her name.
 
 She reached for him.
 
-"Don't hold on to me," he said gently.
+"Don't hold on to me," he said.
 
 "You're dead," she said. "I watched you die. I counted the breaths. I saw the spear."
 
@@ -130,9 +132,9 @@ It didn't.
 
 "Because some things survive by being hidden. A few pages in a jar in Egypt. A fragment in a Berlin library. Enough for someone, someday, to recognize: she was there. She was first. She was sent."
 
-He stepped back. The morning sun consuming his edges — dissolving into whichever reality held him.
+He stepped back into the morning light and was gone. The garden smell intensified as the sun warmed the earth, rosemary and stone and the green tang of crushed grass where she'd knelt.
 
-Mary stood alone in the garden. Empty tomb behind her. Dawn fully broken.
+Mary stood alone. The bird was still singing from the olive tree. The tomb gaped behind her, empty. Dawn had fully broken and the city was waking below — she could hear it, the first carts on stone, the first voices calling.
 
 She wiped her face. Then ran toward the upper room where twelve men hid behind a locked door, carrying the only message that mattered:
 

@@ -68,27 +68,27 @@ Jesus was given his crossbeam. Forty pounds of rough-hewn wood across shoulders 
 
 ## Scene 3: The Procession
 
-The Via Dolorosa wound through Jerusalem's streets from the Praetorium to Golgotha. Half a mile. Uphill. Crowded with festival pilgrims.
+The Via Dolorosa wound uphill through Jerusalem's narrowest streets — barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the cobblestones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather. The smell of five thousand unwashed bodies mixed with festival cooking — roasting lamb, fresh bread, the sharp sweetness of citron — and underneath it all the iron tang of blood from the man at the procession's center.
 
-Jesus carried the crossbeam across his shoulders. Each step agony. Blood from the scourging soaking through the robe. Crown of thorns still pressed into his skull. Four soldiers surrounding him. Two criminals following behind with their own crossbeams.
+Jesus carried the crossbeam across his shoulders. Forty pounds of rough-hewn cedar, the bark still on it, pressing into flesh already destroyed by the flagrum. Each step left blood on the cobblestones. Crown of thorns still pressed into his skull — rivulets dried brown on his forehead, fresh red where the thorns shifted with each step. Four soldiers surrounding him, their hobnailed sandals grinding against the stone. Two criminals following behind with their own crossbeams, one weeping, one staring straight ahead.
 
-Marcus followed thirty paces back.
+Marcus followed thirty paces back, close enough to see the blood trail, far enough to disappear into the crowd if he had to.
 
-Women wailed along the route. Jesus stopped, turned to face them despite the soldiers shoving him forward.
+Women wailed along the route — the keening rising and falling like something animal, the sound bouncing off the stone walls until it seemed to come from the buildings themselves. Jesus stopped, turned to face them despite the soldiers shoving him forward.
 
 "Daughters of Jerusalem. Don't weep for me. Weep for yourselves and your children. For the days are coming when they will say, 'Blessed are the barren, blessed are the wombs that never bore.'"
 
-Jesus stumbled. Crossbeam too heavy. He fell.
+Jesus stumbled. His knee hit the cobblestones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
 
-The soldiers grabbed a man from the crowd. "You. Carry it."
+The soldiers grabbed a man from the crowd — dark-skinned, broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
 
-Simon of Cyrene. A pilgrim visiting for festival. He lifted the wood, looked at Jesus with a mixture of pity and fear.
+Simon of Cyrene. A pilgrim visiting for festival, who'd woken this morning expecting to celebrate. He lifted the wood — winced at the blood and splinters — looked at Jesus with a mixture of pity and fear.
 
 Jesus met his eyes. "Thank you."
 
-Simon's expression shifted.
+Simon's expression shifted. He settled the beam across his own shoulders and walked.
 
-They reached Golgotha as the sun climbed toward mid-morning. Three vertical posts. Crowd gathering — five thousand, maybe more.
+They reached Golgotha as the sun climbed toward mid-morning and the hill opened up above them — bare limestone, pale as bone, dotted with scrub brush and the dark shapes of the permanent execution posts. Three vertical timbers, weathered grey, stained at the base. The crowd spreading across the hillside, five thousand or more — a festival audience assembled for a death. Vendors worked the edges, selling water and figs. Children sat on their fathers' shoulders for a better view.
 
 They laid the crossbeam on the ground. Spread Jesus's hands along the wood. A soldier lifted the first nail.
 
@@ -104,7 +104,7 @@ Iron through flesh, through bone, through wood. The sound would follow Marcus fo
 
 Second nail. Right wrist. Same precision. Same silence.
 
-Marcus's hand shook so violently he nearly dropped the stylus. Fifteen executions witnessed. None had prepared him for this. For watching them kill someone he'd spent six years learning to respect. He forced himself to record every detail. Time. Method. Jesus's response. The crowd's reaction.
+Marcus's hand shook so violently he nearly dropped the stylus. The boy at Carnuntum had taken three seconds to die — dropped shield, raised hands, blade through the throat. Quick, at least. This would take hours. The same hands raised, the same open palms, but nailed to wood instead of air, and Marcus on the wrong side of the blade again — always on the wrong side, always holding the instrument that recorded instead of the one that intervened. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
 
 The soldiers lifted the crossbeam with Jesus attached. Hoisted it onto the vertical post. Fitted the tenon joint. Secured it. Jesus now suspended by his wrists, feet dangling.
 
@@ -116,7 +116,7 @@ Now Jesus hung fully. Weight pulling on the wrist wounds. Breathing difficult �
 
 Before the crucifixion, they'd offered wine mixed with myrrh — painkiller. Jesus had refused.
 
-The soldiers divided his clothes. Gambled for his cloak. Among them, Marcus noticed Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh.
+The soldiers divided his clothes. Gambled for his cloak. Among them, Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh.
 
 Pilate's inscription was nailed above Jesus's head. Three languages — Latin, Greek, Hebrew:
 
@@ -160,7 +160,7 @@ The man on the right quieted.
 
 Through the darkness, figures approached. John. Several women. Jesus's mother. And Mary Magdalene.
 
-She walked ahead of the others, her hands clenched so tightly her knuckles were white. Her face held the expression Marcus had seen on battlefield surgeons: someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her, then looked away.
+She walked ahead of the others. Her face held the expression Marcus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her, then looked away.
 
 Jesus saw them.
 
@@ -170,7 +170,9 @@ Then to John. "Behold your mother."
 
 His eyes moved to Mary Magdalene last. She held his gaze — the way you hold someone's hand when they're dying, except she couldn't reach him, so she held him with her eyes instead.
 
-The darkness continued. Three hours. Marcus watched Jesus's breathing slow — each push-up on the foot nail taking longer, each breath shallower than the last.
+The darkness continued. Three hours that felt like seasons. The wind picked up — cold now, wrong for autumn, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
+
+He watched Jesus's breathing slow — each push-up on the foot nail taking longer, the pause at the bottom stretching until Marcus found himself counting, his own chest tight, willing the next breath. The muscles in Jesus's shoulders had begun to spasm visibly, the body's machinery failing in sequence. Each breath shallower than the last.
 
 ---
 
@@ -178,7 +180,7 @@ The darkness continued. Three hours. Marcus watched Jesus's breathing slow — e
 
 *Jesus POV*
 
-The blood memory came as his body failed. Not the visions he'd trained himself to access. Something older. Simpler.
+The blood memory came as his body failed. Something older than the visions he'd trained himself to access. Simpler.
 
 Nefertari's hand on a workbench. The smell of cassia. A single tap that meant *look at this*.
 
@@ -188,13 +190,13 @@ Mary Magdalene's voice the first time she said his name — not as a teacher, bu
 
 Sarah's small hand arranging shells in patterns on a dock.
 
-Not forty-two generations of carriers. Just the people he loved, arriving to carry him home.
+Just the people he loved, arriving to carry him home.
 
 His body was failing. Blood loss. Shock. Lungs barely functioning.
 
 He opened his eyes. Found Mary Magdalene's face in the crowd below. Still watching. Still holding him.
 
-*It will work*, he thought. Not because of strategy. Because she was there.
+*It will work*, he thought. Because she was there.
 
 ---
 
@@ -236,7 +238,7 @@ Rain soaked Golgotha. Blood washing from the execution ground.
 
 Joseph of Arimathea approached the soldiers. "I request the body. I have permission from Pilate."
 
-Joseph and Nicodemus removed the nails carefully. Took Jesus's body down. Wrapped it in linen cloth. Marcus helped — his hands doing what his mind could not yet process.
+Joseph and Nicodemus removed the nails carefully. Took Jesus's body down. Wrapped it in linen cloth. Marcus helped — his hands doing what his mind could not yet process. He had held dying men before, in Thrace and Pannonia, soldiers whose names he'd known. This was different. The body was lighter than he'd expected, as if whatever had filled this man had already left, and what remained was just the carpenter — the calloused hands, the blackened thumbnail, the wood dust that would never fully leave his knuckles.
 
 They carried the body to Joseph's family tomb. Rock-cut, never used. Nicodemus brought spices — myrrh and aloes, seventy-five pounds. A king's burial for a crucified criminal.
 
@@ -249,6 +251,8 @@ Temple guards arrived. Caiaphas's orders — six men posted to watch the tomb.
 Marcus left as darkness fell. Sabbath beginning. The smell of rain-washed stone and extinguished torches.
 
 In his quarters, he read back what he had written. His hands would not stop shaking. When he finally set down the stylus, his fingers had cramped into the shape of holding it, and he had to pry them open one by one.
+
+He sat in the lamplight with his hands open in his lap and tried to remember the last time he'd held something that wasn't a weapon or a stylus. He couldn't.
 
 ---
 

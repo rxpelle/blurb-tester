@@ -22,7 +22,7 @@ Too many people. Refugees flooding in from everywhere, fleeing cities that had b
 
 Mary pressed her hands against her temples, trying to force the vision away. But it wouldn't release. It never did anymore.
 
-The woman physician—*Nefertari*, the name surfacing unbidden from some inherited depth—moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
+The woman physician—*Nefertari*, the name arriving from somewhere deep—moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
 
 Mary watched—experienced, somehow more than watched—as a queen died in Nefertari's arms. *Tausret.* The name came with the vision. Dead of fever while the ancient world collapsed around them.
 
@@ -148,7 +148,7 @@ Right. Practical concerns first. Mary had some dried fish in her sack. She found
 
 But before Mary could formulate an approach, the decision was made for her.
 
-A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's build, wearing simple clothes dusted with road travel. He looked directly at her. Not casual glancing. He'd been expecting her.
+A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's build, wearing simple clothes dusted with road travel. He looked directly at her — he'd been expecting her.
 
 "You're the merchant from Magdala." Not a question.
 
@@ -246,11 +246,11 @@ Simon's wife Anna had taken Sarah without a word—tucked her onto a sleeping ma
 
 Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this—food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
-The twelve men were disciples, Jesus explained. Network descendants who'd been training with him for two years. They understood fragments of the defensive knowledge their families had preserved across generations, but most had never experienced blood memory directly.
+The twelve men were disciples — network descendants who'd been training with Jesus for two years.
 
-"Mary is a carrier," Jesus told them as they gathered after dinner. "Generation 42, Branch 3. Strong inheritance. She's been experiencing overwhelming visions without context or training. That changes tonight."
+"Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
-Peter — one of the disciples, Simon's brother — crossed his arms. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. "She's a woman. My grandfather said the bloodline runs through sons."
+Peter — Simon's brother — crossed his arms. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. "She's a woman. My grandfather said the bloodline runs through sons."
 
 "Your grandfather lost half the knowledge during the exile," Jesus said calmly. "Nefertari — the physician who started all of this — was a woman. Nearly a quarter of her first students were women. The blood doesn't care about gender."
 
@@ -269,10 +269,6 @@ But these men claimed to understand. Jesus claimed to see the same things.
 "Pi-Ramesses," Mary began. "Every night. The city collapsing. A physician named Nefertari trying to save people while the whole world burns around her. Pharaoh Tausret dying in her arms." She opened her hands, as if releasing something. "I can describe the streets. The smell of the fever tents. Architecture of a city that's been dust for twelve centuries. I don't know how."
 
 The room was silent. Even Peter had uncrossed his arms.
-
-John spoke up: "Shouldn't the memories degrade? Forty-two generations—"
-
-"They do. Most people with this inheritance get vague impressions. Bad dreams. Only a few—maybe fifty in the eastern provinces—see what Mary sees." Jesus looked at her. "That's why finding each other matters."
 
 "I barely understand this myself," Mary said.
 
@@ -304,7 +300,7 @@ Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced
 
 "If I learn this—seeing the threads, reading the patterns, whatever you call it—will the visions stop overwhelming me?"
 
-"They'll never stop. But they'll become manageable. You'll recognize when blood memory is surfacing. Learn to observe it without being pulled under. Extract the pattern without losing yourself in the experience." His voice gentled. "Your mother died because she didn't have this training. She experienced the visions alone, tried to suppress them, couldn't. The trauma accumulated until it killed her. But you—you have the network now. Teachers who understand. You don't have to die at thirty-four."
+"They'll never stop. But they'll become manageable." His voice gentled. "Your mother didn't have this training. You do."
 
 Mary's jaw tightened. She'd been so certain she was following her mother's trajectory—early death, mind shattered, calling out for people dead a thousand years. The idea that the road might fork felt impossible.
 
@@ -352,7 +348,7 @@ The vision receded.
 
 Mary slept. No visions. No screaming. Just sleep—ordinary, dreamless, the kind she'd forgotten existed.
 
-But just before dawn, a new vision came—sharp and brief, nothing like the ancient memories. A Roman soldier on a hillside overlooking the lake, watching a crowd gathered around a teacher. He was writing on a wax tablet. Not recording what was being said. Recording something else. A report. Names. Numbers.
+But just before dawn, a new vision came—sharp and brief, nothing like the ancient memories. A Roman soldier on a hillside overlooking the lake, watching a crowd gathered around a teacher. He was writing on a wax tablet — a report. Names. Numbers.
 
 Mary's eyes snapped open in the gray light. Sarah still slept beside her, breathing softly.
 

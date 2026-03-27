@@ -9,7 +9,7 @@
 
 The Pattern Eye showed him everything.
 
-Jesus sat in the teaching house's upper room, the bronze artifact resting in his palms. Dawn light filtered through the window, touching geometric patterns etched into metal that had survived since the Bronze Age.
+Jesus sat in the teaching house's upper room, the bronze artifact in his palms. Cold room, breath clouding in the still air. Lamp oil and fish bones. Dawn light touched the geometric patterns etched into metal that had survived since the Bronze Age.
 
 He closed his eyes and let the cascade begin.
 
@@ -27,23 +27,17 @@ His hands wouldn't stop shaking.
 
 "How long have you been here?"
 
-Mary stood in the doorway. Jesus set the Pattern Eye aside carefully. "Since before dawn. I can access without keys, Mary. The complete vision. Everything Nefertari built."
+Mary stood in the doorway. Jesus set the Pattern Eye aside carefully. "Since before dawn. I don't need the keys anymore, Mary. The complete vision."
 
-She sat across from him. "If they learn you can do this—"
+She sat across from him. Neither of them spoke.
 
-"They'll accelerate the execution."
+"Helena arrives today with two bronze keys," Mary said. "We don't mention this."
 
-Silence. Capernaum waking below — market sounds, children's voices.
-
-"Helena of Alexandria arrives today," Mary said. "Defensive network. She's bringing two bronze keys."
-
-"Then we don't mention keyless access until we understand what she wants."
+"No."
 
 Mary pressed her palms against the table. "I'm supposed to carry this after you're gone. What if I teach it wrong?"
 
-"You won't. The teaching doesn't rest on one pair of shoulders. I've made sure of that."
-
-She nodded. The fear didn't leave her eyes.
+He didn't answer. She nodded. The fear didn't leave her eyes.
 
 ---
 
@@ -53,13 +47,13 @@ Helena of Alexandria arrived that afternoon. Tall, forty-five, dressed in travel
 
 Helena unwrapped the cloth on the table. Two bronze keys — each the length of a man's palm, covered in the same geometric patterns that marked the Pattern Eye.
 
-"The defensive network has guarded these since Nefertari forged them," Helena said. "The offensive network controls three — held in Temple vaults. Two were lost in the Bronze Age collapse. These two are what we have."
+"These two are what we have," Helena said. "The rest are lost or locked in Temple vaults."
 
 Jesus picked up both keys. Mary watched his expression shift — blood memory deepening, something opening behind his eyes.
 
-"Will two be enough?" Helena asked. "You have nine months."
+"Nine months," Helena said.
 
-"I can teach with precision I couldn't reach before. See the long arc — centuries, not years." He set the keys down carefully. "I need to attempt full integration. Qumran. The caves."
+He set the keys down carefully. "I need to attempt full integration. Qumran. The caves."
 
 Helena nodded. "Already arranged with the Essene elders."
 
@@ -97,7 +91,7 @@ Helena caught her arm. "Let it pass through him."
 
 Then Nefertari herself. He felt her in the workshop — her certainty and her terror, her precision and her grief. Creating something that would outlast her civilization while watching her father's murder, preparing for her own execution, saying goodbye to her daughter.
 
-*"Forty-one generations from now,"* her memory whispered, *"someone will feel what I feel. That carrier will understand: We're not teaching for our generation. We're teaching for survivors we'll never meet."*
+*"Forty-one generations from now,"* her memory whispered, *"someone will feel what I feel."*
 
 Jesus opened his eyes, tears streaming. His voice was rough. "I saw everything she built. And I felt what it cost her."
 

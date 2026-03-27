@@ -24,7 +24,7 @@ Jesus paused at the doorway. Inside, he could hear male voices — the disciples
 
 Inside, the Twelve stood as he entered. Fishermen and tax collectors who'd been training with him for two years. They looked older. Changed by what they'd heard about the Jordan.
 
-"I saw my own death." His hands trembled against his thighs, and he let them see it. "Perhaps five years from now. We can't prevent it. But we can make sure the teaching survives it."
+"I saw my own death." His hands trembled against his thighs, and he let them see it. "Perhaps five years from now. We can't prevent it."
 
 Thomas broke the silence. "You're planning for failure?"
 
@@ -128,11 +128,7 @@ Peter thought. "Tax collection. Last week. Roman soldier demanding payment from 
 
 "Now he's bitter. Talking about joining the Zealots."
 
-"That's how conflicts spread like wildfire." Jesus traced the pattern in the air. "The soldier thought he solved it — got his money, avoided bloodshed. But he created something worse. The fisherman leaves humiliated, resentful. That resentment finds other resentments. Connects with people organizing violence. The conflict didn't end. It went underground."
-
-"So what should the soldier have done?" Thomas asked.
-
-"He can't fix the system he operates in. But he can minimize damage. Verify payment before threatening force. Accept translation help. Treat the man with basic dignity." Jesus looked at Peter. "And the fisherman?"
+"And now the fisherman is bitter, talking Zealots, and the soldier thinks the problem is solved." Jesus looked at Peter. "The conflict didn't end. It went underground. And the fisherman?"
 
 "Turn the other cheek," Peter said slowly. "Not because it's righteous. Because resistance accelerates the cycle."
 
@@ -170,7 +166,7 @@ She was quiet for a long time. Then: "Tomorrow's harder?"
 
 Mary carried Sarah to the women's quarters. The screaming dreams came that night — Pi-Ramesses burning, Jerusalem burning, two collapses overlaid until she couldn't tell past from future. But the calming practices held. Sarah's breath. Wool beneath her hands. Night sounds beyond the wall. Her own heartbeat, steady and present.
 
-The visions receded. Not gone. Never gone. But manageable.
+The visions receded. Never gone — but manageable.
 
 Just before dawn, one more vision surfaced — brief but sharp as a blade. A Roman officer with intelligent eyes, standing at the edge of yesterday's crowd. Not watching Jesus. Watching *her*. Writing something on a wax tablet with the careful notation of a man filing a report.
 

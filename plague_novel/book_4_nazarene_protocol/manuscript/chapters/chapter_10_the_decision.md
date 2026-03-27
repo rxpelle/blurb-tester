@@ -7,11 +7,13 @@
 
 ## SCENE 1: THE OFFER
 
-The Galilean summer heat pressed down on Capernaum like a weight, but the upper room's thick stone walls held the night's chill well into morning.
+The Galilean summer heat pressed down on Capernaum like a weight, the air thick with the smell of drying fish from the lakeside racks and the sweet rot of overripe figs fallen in the street. But the upper room's thick stone walls held the night's chill well into morning, and the flagstones were cool beneath Jesus's bare feet as he worked the Pattern Eye in the gray light before dawn.
 
-Marcus stood in the doorway. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Sukkot."
+Marcus stood in the doorway, breathing hard from the climb — his knee worse in the heat, sweat darkening the collar of his tunic. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Sukkot."
 
-Jesus set down the Pattern Eye carefully. Something cold settled behind his ribs. Three weeks. Not nine months.
+Outside, a donkey brayed in the market street. A child laughed. The world kept going.
+
+Jesus set down the Pattern Eye carefully. Something cold settled behind his ribs. Three weeks.
 
 "Helena's offering extraction," Marcus continued. "Ship at Tyre. Alexandria. Safe house outside Roman jurisdiction. If you won't go voluntarily, she'll extract you by force."
 
@@ -55,11 +57,11 @@ Mary sat beside him, Sarah settling on her other side. Below them, Capernaum spr
 
 "You're right."
 
-The admission surprised her.
+The admission surprised her. A gust brought the smell of thyme up from the hillside, sharp and green, and somewhere below a fisherman called to his partner across the water — the sound carrying clean in the evening air, ordinary and unbearable.
 
 "I'm choosing this because it serves the work. But I'm also choosing it because I can't reconcile three years of teaching about courage with nine months of hiding in fear." He met her eyes. "Marcus said my reasons matter to how my death is remembered. He's right."
 
-Mary was quiet. Fishing boats returning below. Markets closing.
+Mary was quiet. The lake had gone copper in the late light. Fishing boats returning below, their sails dark against the water.
 
 "Are you afraid?"
 
@@ -73,10 +75,65 @@ Mary's eyes were wet. "Yes."
 
 Mary wanted to scream at how simply the girl reduced it. But she was right.
 
+The first stars appeared over the lake. Sarah had fallen asleep against Mary's side, her small body radiating heat the way children's bodies do — fierce, unreasonable, as if they burn hotter because they haven't learned to hold anything back.
+
 "Three weeks," Mary said. "It's not enough."
 
 "It's what we have."
 
+---
+
+## SCENE 3: THE RESCUE
+
+Judas arrived at the teaching house two days later. He'd ridden from Jerusalem without sleeping, and it showed — dust in the creases of his face, eyes red-rimmed, the particular intensity of a man running on purpose instead of rest.
+
+"I have a plan," he said.
+
+Jesus was alone. He'd sent the others to prepare the northern routes. "Sit down, Judas."
+
+"I don't want to sit down. I want you to listen." Judas paced the small room, his sandals scraping against the flagstones. "Twenty guards. I can bribe half the Temple force — I've done it before, seven times, seven successful extractions. We stage the arrest. Create confusion during the transfer. Substitute a volunteer who matches your build. You're on a ship to Alexandria before Pilate knows you're gone."
+
+"And the ten thousand people who watched me teach about courage?"
+
+"They'll be alive. You'll be alive. The teaching continues from Egypt."
+
+"The teaching continues as the words of a man who ran."
+
+"The teaching continues *at all*." Judas stopped pacing. His voice dropped. "I've done this seven times. I know what works. You've never been extracted — you don't know how clean it can be."
+
+Jesus looked at the man he'd trusted for three years. Judas's hands were shaking — not from fear but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest. The same certainty that had saved lives before and would, this time, destroy one.
+
+"Judas. They know about you."
+
+"They don't —"
+
+"Matthias's network has been watching the defensive operations for years. Your bribed guards are compromised. The extra forces are already positioned. If you attempt extraction, you don't save me — you expose every escape route Mary and Sarah need."
+
+Judas's face went white. "You can't know that."
+
+"I can see it the way I see everything else. Forty-one generations of watching good plans fail against better-resourced enemies."
+
+"Then what am I supposed to do?" Judas's voice cracked. "Just watch them kill you?"
+
+"You're supposed to survive me. The same thing I'm asking everyone."
+
+"I can't do that."
+
+Jesus stood. Put his hands on Judas's shoulders. Felt the man trembling beneath his palms. "You can. You're stronger than you think."
+
+"Don't." Judas pulled away. "Don't give me the speech you give everyone. I'm not Peter. I'm not Mary. I don't carry blood memory or teach parables or write testimonies. I *rescue people*. That's what I do. That's all I do. And you're telling me I can't do the one thing I'm good at."
+
+Jesus had no answer for that. Because Judas was right — the man's entire identity was built on saving people, and Jesus was asking him to stand aside and watch.
+
+"I'll attempt it anyway," Judas said quietly. "You know that."
+
+"I know."
+
+"And you'll let me."
+
+"Yes." Jesus's voice was barely above a whisper. "Because I can't take that from you too."
+
+Judas left. The door closed behind him, and the sound of his footsteps faded down the stone stairs, and Jesus stood alone in the room knowing that in three weeks a man he loved would die because he couldn't be talked out of trying to save him.
 
 ---
 
