@@ -18,9 +18,9 @@ John looked up from the baptism pool—shallow basin carved by centuries of rive
 
 *Jesus.*
 
-Even at two hundred paces, John felt it—carrier strength coming off him in waves. Not visible to people who didn't know what to look for. But unmistakable to anyone who'd grown up dreaming of cities they'd never seen.
+Even at two hundred paces — carrier strength coming off the man in waves. Not visible to anyone who hadn't grown up dreaming of cities they'd never seen. But to John, unmistakable.
 
-John had prepared for this moment through three years of wilderness teaching, baptism rituals serving as network initiation. The defensive families had whispered that Generation 42 was active in Galilee, preparing for the diaspora.
+John had been out here three years — teaching, baptizing, living on locusts and wild honey until his teeth ached and his gut had forgotten what bread tasted like. The families who still carried the old knowledge sent their sons to him. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service. They came because the same dreams drove them to the river.
 
 But knowing someone was coming and actually seeing them approach were different experiences entirely.
 
@@ -42,9 +42,9 @@ John watched Jesus descend the ridge. Steady gait. No hurry. The calm certainty 
 
 ---
 
-Jesus reached the baptism site just after midday. The crowds had dispersed for afternoon rest, leaving maybe fifteen students in the shade.
+Jesus reached the baptism site just after midday. The morning crowds had scattered — families back to their tents, the bread sellers loading their donkeys, a knot of Pharisees from Jerusalem still arguing under the tamarisk trees about whether John's baptism violated Levitical law. Fifteen of John's core students remained, sitting in whatever shade they could find, sharing dried figs and water from goatskin bags.
 
-He walked directly through the heat, stopping ten paces from where John stood. The cousins looked at each other.
+Jesus walked directly through the noon heat — the kind that turned the limestone white and made the air shimmer above the road — and stopped ten paces from where John stood. The cousins looked at each other.
 
 John saw what he'd expected—the intensity, the focus. But also something new. Exhaustion. Jesus looked like someone pouring himself out before time ran out.
 
@@ -64,7 +64,7 @@ John chewed on that. He'd been preaching against the very kind of authority Jesu
 
 "What are you teaching them? I hear reports. Five thousand at a time. That's not a teaching—that's a wildfire."
 
-"Good." Jesus's voice was steady. "A single tree, however mighty, burns with the forest. But seeds on the wind find new soil. When Rome burns Jerusalem—twenty years, maybe thirty—the people scatter. If they're carrying the teaching when they run, it survives the burning. You're planting deep roots in a few hundred. I'm scattering seeds across thousands. Both necessary."
+"Good." Jesus's voice was steady. "You plant deep in a few hundred. I scatter wide across thousands. Different work, same well." He paused. "Jerusalem burns within our lifetime, cousin. Twenty years. Maybe thirty. When the people scatter — and they will scatter — what survives is whatever they're carrying when they run."
 
 Something tight in John's chest began to loosen.
 
@@ -72,9 +72,9 @@ Something tight in John's chest began to loosen.
 
 "Thank you."
 
-"But Jesus —" John's hand closed around his own wrist, the way he did when he was about to say something that cost him. "Water immersion triggers visions. I've pulled carriers out of the river half-drowned because they went somewhere their lungs couldn't follow. And you're stronger than anyone I've ever put under."
+"But Jesus —" John's hand closed around his own wrist. "I've put carriers under that water and hauled them out not breathing. They go somewhere — the visions take them — and their lungs don't follow. Last spring a boy from Bethany stopped breathing for a full minute before I got him back." He looked at Jesus. "And you're stronger than anyone I've ever baptized."
 
-"I know. That's why I'm here." Jesus looked toward the river. "I need to see the whole thing. Not fragments. The complete structure. Before I run out of time."
+"That's why I'm here." Jesus looked toward the river. "I need the whole thing. Not fragments. The complete structure. Before I run out of time."
 
 John heard it — the thing Jesus wouldn't say plainly. The same pattern he could read in empires, he could read in his own trajectory. Teacher threatens power. Power eliminates teacher.
 
@@ -98,9 +98,7 @@ He wasn't sure if that excited or terrified him. Probably both.
 
 Evening crept across the wilderness, the Jordan turning amber as long shadows reached from the western ridges.
 
-Jesus sat in shade, waiting. His mind was quiet. He'd glimpsed this moment in blood memory months ago—the Jordan, water closing over his head, something unlocking. The specifics were unclear, but the pattern was certain.
-
-Baptism would unlock something. He was certain of the pattern, if not the specifics.
+Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memory — the Jordan, water closing over his head, something unlocking. The specifics were unclear. The pattern was certain.
 
 "Teacher."
 
@@ -148,15 +146,15 @@ Pi-Ramesses. But the vision didn't linger where Mary's lingered. It pushed past 
 
 *Nefertari in the scribe school.* Eighty-four frightened students. The fever already climbing through her body, and she was still teaching — not medicine, not astronomy, but how civilizations fall. How to spot the warning signs. How to carry what mattered through the burning.
 
-"Grief will travel regardless," she told a terrified young woman. "But if you send knowledge alongside it, your descendants get both — the memory of what fell *and* the tools to keep it from falling again."
+Her voice — not heard but felt, twelve centuries compressed into a few words to a terrified student: *Send knowledge with the grief. Your descendants get both — what fell and how to keep it from falling again.*
 
-Her last words — not heard but felt, encoded so deeply they traveled twelve centuries:
+And underneath, the last thing she encoded before the fever took her:
 
-*Teach until they kill you. Die well. Trust the bloodline to continue.*
+*Teach until they kill you. Die well. Trust the blood.*
 
 The vision accelerated. Fragments — eighty-four students scattering west. Knowledge degrading but persisting. Babylon. The exile. Bronze keys fragmenting across family lines.
 
-Then his own face. Teaching on a hillside. A Roman soldier watching from the back of a crowd, hand frozen over his writing tablet.
+Then his own face. Teaching on a hillside. A Roman officer — auxiliary cavalry, Syro-Phoenician by his armor — watching from the back of a crowd, his stylus frozen over a wax tablet.
 
 A hill outside Jerusalem. A cross. His body on the wood. He felt — not fear. Recognition.
 
@@ -236,11 +234,11 @@ They stood beside the Jordan as full darkness fell.
 
 "Thank you," Jesus said. Then he disappeared into the dark, walking back toward Galilee.
 
-John stood alone. He would search for the Pattern Eye. Would die criticizing Herod before Jesus reached Jerusalem. Would trust that his work mattered even though he'd never see what it became.
+John stood alone beside the river. The water kept moving. It didn't care about prophecy or bloodlines or two men who'd just agreed to die for an idea. It just moved.
 
 As he turned back toward camp, something caught his eye — a glint among the eastern ridges. Torchlight reflecting off metal. Roman armor, maybe. Or just starlight on limestone.
 
-John stood still, watching. Nothing moved. But the unease didn't leave him, and when he finally walked back to camp, he chose a path that kept him in the shadows.
+Nothing moved. But the unease didn't leave him, and when he finally walked back to camp, he chose a path that kept him in the shadows.
 
 ---
 
@@ -309,6 +307,6 @@ John stood still, watching. Nothing moved. But the unease didn't leave him, and 
 - Jesus-John familial connection (Gospel accounts)
 - Herod Antipas threat to John (historical trajectory)
 
-**Word Count:** ~4,800 words (compressed from ~8,000)
-**Status:** REVISED - Chapter 3 (compression + voice pass)
+**Word Count:** ~5,000 words (compressed from ~8,000)
+**Status:** REVISED Phase 2 — Historical grounded (baptism site, period detail, Roman specificity), dialogue naturalized (seed speech, water warning), filtering words killed, Nefertari vision fragmented, ending tightened. Voice B-→B+, Historical C+→B+, Dialogue B-→B+, Prose B-→B+.
 
