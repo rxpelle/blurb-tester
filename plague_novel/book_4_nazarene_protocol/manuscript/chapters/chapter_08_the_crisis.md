@@ -26,7 +26,7 @@ The guards at the gate waved him through — once a centurion, always recognizab
 
 ## SCENE 2: THE INTELLIGENCE BRIEFING
 
-The briefing room smelled of old wool and lamp oil, damp stone walls despite the brazier. Lucullus stood beside a map table, and next to him — Marcus's stomach tightened — Pilate's deputy prefect, Gaius Severus.
+Old wool and lamp oil. Damp stone walls despite the brazier. Lucullus stood beside a map table, and next to him — Marcus's stomach tightened — Pilate's deputy prefect, Gaius Severus.
 
 "Sit," Severus said. "You're here for your expertise."
 
@@ -34,7 +34,7 @@ Lucullus moved markers on the map as he spoke — wooden pieces on stretched lea
 
 "Our interpreters have been studying the parables," Severus said. "They're carrying something underneath. We don't fully understand it, but the shape is clear. He's building something."
 
-Marcus forced himself to breathe. They'd noticed the deeper layer.
+Breathe. They'd noticed the deeper layer.
 
 "He's rejected Zealot recruitment," Marcus said. "Multiple times."
 
@@ -88,7 +88,7 @@ Marcus closed his eyes. Generations, not months.
 
 A week later Marcus declined Severus's offer and rode north to Capernaum. Three days through winter-stripped hills, grey and brown under low clouds. The wind carried the smell of wet earth and dead grass, and at night the cold came down so hard the mule's breath hung in clouds and Marcus wrapped his cloak twice around his chest and still felt it in his teeth. He traveled with merchant caravans and listened to their talk — miracle stories, Messianic rumors, a cousin who swore Jesus would drive out the Romans at Passover. The story was already outrunning the man.
 
-He found Jesus teaching in the synagogue at sunset — the last light coming through the narrow window, turning the dust motes gold, and the room smelling of sweat and olive oil and something indefinable that Marcus had come to associate with Jesus's teaching: the stillness of sixty people holding their breath. He waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. Lake water and cooking smoke drifting up from the street. The evening call to prayer from the synagogue below, fading.
+He found Jesus teaching in the synagogue at sunset — the last light coming through the narrow window, turning the dust motes gold, the room smelling of sweat and olive oil, and sixty people holding their breath. He waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. Lake water and cooking smoke drifting up from the street. The evening call to prayer from the synagogue below, fading.
 
 "Passover," Marcus said. "Official. The decision is made."
 
@@ -100,7 +100,7 @@ Jesus went very still, his hands flat against the window frame. His knuckles whi
 
 "You're letting them kill you for a theory."
 
-"I'm letting them kill me because it *works*." Something raw crossed his face — not the calm certainty Marcus had expected, but a weariness so deep it looked like age. "Don't pretend this is easy for me. I dream about Nefertari dying of fever while she taught. I wake up tasting my own death. But what men die for, their children remember. What men die for, the blood carries forward."
+"I'm letting them kill me because it *works*." Something raw crossed his face — weariness so deep it looked like age. "Don't pretend this is easy for me. I dream about Nefertari dying of fever while she taught. I wake up tasting my own death."
 
 Marcus sat down heavily. "What do you need?"
 
@@ -112,9 +112,9 @@ Marcus sat down heavily. "What do you need?"
 
 The room was dark now.
 
-"You are writing for them, Marcus," Jesus said from the doorway. "Not for us."
+"You're writing for them, Marcus," Jesus said from the doorway. "Not for us."
 
-He left. Marcus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and something in Marcus's chest answered it — the part of him that had carried a dead boy's face for twenty years, the part that had known since the census table in Nazareth that he was watching the same story unfold again. Open hands. A system that devoured what it couldn't control. And Marcus on the wrong side of the blade, writing it down instead of stopping it, because stopping it was never an option — not at Carnuntum, not here, not ever.
+He left. Marcus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and something in his chest answered it — the dead boy at Carnuntum, the census table in Nazareth, the same story every time. Open hands. A system that devoured what it couldn't control. And Marcus writing it down instead of stopping it, because stopping it was never an option.
 
 The singing stopped. A child murmured. Then silence, and the sound of Marcus's own breathing in a room that smelled of lake water and bread and the absence of the man who'd just walked out.
 
@@ -138,7 +138,7 @@ When the room was empty except for Leah, the silence crushed in.
 
 "Mary —"
 
-"He reads three thousand years like a scroll laid open." Mary's voice cracked. "I see fragments. Broken pieces. Images I have to guess at. He knows with certainty. I *hope* and pray I'm right. And Peter —" She stopped. Started again. "Peter told the others that giving a woman authority over the teaching is costing them followers. Six men left last month. And the worst part is he's not wrong — they *are* leaving. What if Jesus dies and Peter decides the teaching survives better without me?"
+"He sees everything. Three thousand years, clear as water." Mary's voice cracked. "I see fragments. Broken pieces. I have to *guess*. And Peter —" She stopped. Started again. "Peter told the others I'm costing them followers. Six men left last month. He's not wrong — they *are* leaving. What if Jesus dies and Peter decides the teaching survives better without me?"
 
 She stopped. Her hands were shaking so badly she pressed them flat against her thighs.
 

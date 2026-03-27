@@ -30,7 +30,7 @@ Mary Magdalene had not slept in three days.
 
 Her hands trembled as she rolled the spice jars between her palms. Three days of lying on borrowed straw, watching shadows crawl across unfamiliar walls. Her eyelids felt like sandpaper. Her mouth tasted of copper and exhaustion. Myrrh, aloe, nard — she'd purchased them the evening after burial and hadn't let go of them since.
 
-Joanna and Salome met her before dawn. Neither asked how she was. They could see.
+Joanna and Salome met her before dawn. One look and neither asked.
 
 The three women walked through Jerusalem's pre-dawn streets — past the lingering scent of cooking fires, over cobblestones damp with dew — carrying spices to anoint a dead man's body.
 
@@ -126,11 +126,11 @@ It didn't.
 
 "Because you were present. You stood at the cross. You watched the burial. You came back with spices when everyone else was hiding behind locked doors."
 
-"Go," he said. "And Mary — write it down. Everything I taught you. Your own account. They'll suppress it. In a hundred years they'll lose half the pages. In five hundred years they'll call it heretical."
+"Go," he said. "And Mary — write it down. Everything I taught you. Your own account."
 
-"Then why write it?"
+"They'll bury it."
 
-"Because some things survive by being hidden. A few pages in a jar in Egypt. A fragment in a Berlin library. Enough for someone, someday, to recognize: she was there. She was first. She was sent."
+"Yes. And someone will dig it up. A jar in Egypt. A fragment in a library. Enough for someone, someday, to know you were here."
 
 He stepped back into the morning light and was gone. The garden smell intensified as the sun warmed the earth, rosemary and stone and the green tang of crushed grass where she'd knelt.
 
@@ -144,7 +144,7 @@ She wiped her face. Then ran toward the upper room where twelve men hid behind a
 
 ## Scene 4: Damascus
 
-Mary Magdalene entered the courtyard at dusk, five days later. Road-worn, thinner than when she'd left. Something behind her eyes that hadn't been there before — the face of someone who had witnessed something that exceeded every framework she had for understanding it, and who had stopped trying to resolve it.
+Mary Magdalene entered the courtyard at dusk, five days later. Road-worn, thinner. She moved differently — slower, more deliberate, the way someone moves when they're carrying something they can't set down.
 
 Sarah ran to her. Mary dropped to her knees and pulled her daughter against her chest and held her and didn't speak.
 
@@ -154,11 +154,11 @@ They sat in the courtyard shade — Sarah pressed against her mother's side, Lea
 
 "I thought he was the gardener," Mary said, and her voice caught. "And then he said my name. Just — *Mary*. And my body knew before my mind did."
 
-She pressed her palm against her left side. "He told me to write it down. My own account. Everything he taught me privately that the others didn't hear. The nature of sin — that it doesn't exist as they'll teach it, not as inherited stain, but as something people produce through acting against their own nature. The warning: *Do not lay down any rule beyond what I determined for you, nor promulgate law like the lawgiver, or else you might be dominated by it.* He knew what Peter would build. He said it to me because he knew I'd write it down and they wouldn't."
+She pressed her palm against her left side. "He told me to write it down. Everything he taught me that the others didn't hear." She was quiet a moment. "He warned me — don't let them turn the teaching into rules. Don't let them build a cage out of it. He knew what Peter would build. He said it to me because he knew I'd write it down and they wouldn't."
 
 "Will they listen?"
 
-"Peter will say: *Did he really speak with a woman in private? Are we to turn around and listen to her?*" Mary's voice was steady. "They'll bury that answer for seventeen centuries."
+"Peter will ask why Jesus spoke privately with a woman." Mary's voice was steady. "They'll be asking that question for a very long time."
 
 "Did he really come back from death?" Sarah asked.
 
