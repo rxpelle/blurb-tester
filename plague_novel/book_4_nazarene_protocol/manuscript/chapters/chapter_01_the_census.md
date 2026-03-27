@@ -120,7 +120,7 @@ Jesus's mouth twitched—not quite a smile, more like a man who'd made a joke he
 
 *Family inheritance.*
 
-Marcus's pulse kicked. His contact in Caesarea had used that exact phrasing—knowledge passed through families, carried in the blood like eye color or height, but invisible to people who didn't know what to look for.
+Marcus's pulse kicked. His contact in Caesarea had used that exact phrase.
 
 His orders were clear: note the name, file it with Caesarea, move on.
 
@@ -236,7 +236,7 @@ Marcus stared at the dark water. The fisherman was right. And he hated him for i
 
 Marcus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
 
-He would file the false report. Simon had shown him the mathematics of survival, and the answer was ugly, and it was right.
+He would file the false report. The answer was ugly, and it was right.
 
 ---
 
@@ -248,7 +248,7 @@ Military intelligence headquarters. Not the census offices.
 
 Someone had noticed something.
 
-Caesarea gleamed white and gold—Herod's monument to Roman engineering, built on the bones of whatever had stood here before. The marble corridors of the harbor compound amplified every footstep into accusation. Incense couldn't mask the smell of old parchment and something sharper underneath—the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His left knee ached from three days of riding, and he could feel his pulse in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored, as if the geography of the conversation wouldn't matter.
+Caesarea gleamed white and gold — Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper — the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
 
 Marcus snapped to attention, fist to chest. "Centurion Scipio reporting, Tribune."
 
@@ -258,7 +258,7 @@ Marcus's pulse spiked. "Carpenter?"
 
 "Jesus ben Yosef. Temple authorities sent an inquiry. Large crowds. Anti-institutional rhetoric. 'Kingdom of God' talk." Lucullus spread parchment reports across the table. "Five thousand attended one gathering last month. He uses parables about empires rotting from within, tells peasants they can survive without Rome's protection. Those aren't normal religious concepts."
 
-Marcus felt the trap closing. His census report—harmless carpenter, no concerns—now looked like deliberate concealment.
+The trap was closing. His census report — harmless carpenter, no concerns — now looked like deliberate concealment.
 
 "His teaching applies spiritual metaphors to practical concepts," Marcus said carefully. "He opposes violence. Pulls recruits away from the Zealots."
 
@@ -268,7 +268,7 @@ Marcus met his eyes. "He teaches people to put down their swords. That's fewer Z
 
 "Short-term." Lucullus's voice hardened. "These families have been hiding knowledge since before Rome existed. They survived Egypt. They survived Babylon. They don't need us, and they're teaching others not to need us either." He leaned back. "I don't care if this carpenter calms the Zealots today. A province that can feed itself, govern itself, pass its own wisdom to its children without Roman schools or Roman gods—that's a threat no legion can answer."
 
-Marcus tasted something metallic at the back of his throat. He thought of Germania—the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. He thought of Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Twenty-three years of suspecting why, and here was Lucullus saying it plainly: a population that could feed itself, teach itself, survive without the eagle's shadow—that was the threat Rome could never forgive.
+Marcus tasted something metallic at the back of his throat. Germania — the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Lucullus was saying it plainly now. A province that didn't need Rome was a province Rome couldn't allow.
 
 "What are your orders, sir?" Marcus kept his voice level.
 
