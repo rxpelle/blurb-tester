@@ -1,7 +1,7 @@
 # The Nazarene Protocol — Revision Plan
 
 **Created:** 2026-03-26
-**Status:** Not started
+**Status:** Phase 1 complete, Phase 2 complete, Review JSON triage complete
 **Manuscript state:** All 14 chapters revised to 8-9/10 (avg 8.5). Editorial agent reviews complete (12 personas, ~1,136 notes total).
 
 ---
@@ -77,64 +77,57 @@ Sweep the entire manuscript for each recurring problem before touching individua
 Work through each chapter's editorial review JSON (`manuscript/chapters/reviews/`), applying unresolved notes. Many notes were addressed in the 8-9/10 revision passes — focus on what's still broken.
 
 ### Preface: The Gathering — 8/10
-- [ ] Review: `00_preface_the_gathering_review.json` (83 notes, 10 critical)
-- Gap: Sets the prose ceiling — main job is making sure Phase 1 passes didn't break anything
+- [x] King-pass review: Dialogue D+→B+ (Simon/Jesus lakeside conversation naturalized)
+- [x] Review JSON: Iron plumb line (anachronism fix)
 
 ### Ch 1: The Census — 9/10
-- [ ] Review: `chapter_01_the_census_review.json` (85 notes, 8 critical)
-- Gap: "Family inheritance" / network terminology is inherently modern
+- [x] King-pass review: Prose C+→B+ (filtering words, overexplaining cut)
 
 ### Ch 2: The Madness — 9/10
-- [ ] Review: `chapter_02_the_madness_review.json` (83 notes, 8 critical)
-- Gap: Three-act structure is conventional; Mary needs one more beat of resistance
+- [x] King-pass review: Tension B-→B+, Prose B-→B+ (relief cliché, purple prose, stage directions)
 
 ### Ch 3: The Baptism — 9/10
-- [ ] Review: `chapter_03_the_baptism_review.json` (72 notes, 7 critical)
-- Gap: John's envy resolves in one chapter — should run 2-3 chapters
+- [x] King-pass review: Historical C+→B+, Dialogue B-→B+, Voice B-→B+, Prose B-→B+
 
 ### Ch 4: The Teaching Begins — 9/10
-- [ ] Review: `chapter_04_the_teaching_begins_review.json` (76 notes, 9 critical)
-- Gap: Sermon on the Mount is familiar territory
+- [x] All dimensions B+ or higher — no Phase 2 work needed
 
 ### Ch 5: The Unlocking — 9/10
-- [ ] Review: `chapter_05_the_unlocking_review.json` (80 notes, 7 critical)
-- Gap: Matthias is functional but not a character
+- [x] King-pass review: Sensory B-→B+, Prose B-→B+ (Qumran postcard, cliché, overwriting)
 
 ### Ch 6: The Resistance — 8/10
-- [ ] Review: `chapter_06_the_resistance_review.json` (79 notes, 9 critical)
-- Gap: Matthias's offensive-network subplot carries structural exposition
+- [x] King-pass review: Voice C+→B+ (8 filtering words killed, overexplaining cut)
 
 ### Ch 7: The Teachings Spread — 8/10
-- [ ] Review: `chapter_07_the_teachings_spread_review.json` (73 notes, 9 critical)
-- Gap: Teaching-montage structure + 6-month span resists dramatization
+- [x] All dimensions B+ or higher — no Phase 2 work needed
 
 ### Ch 8: The Crisis — 9/10
-- [ ] Review: `chapter_08_the_crisis_review.json` (70 notes, 8 critical)
-- Gap: Three POVs receiving same news is structurally repetitive
+- [x] King-pass review: Voice C+→B+ (6 edits: filtering, overwriting, narrator intrusion)
 
 ### Ch 9: The Keys Gathered — 8/10
-- [ ] Review: `chapter_09_the_keys_gathered_review.json` (76 notes, 7 critical)
-- Gap: Key-system mechanics inherently expository
+- [x] All dimensions B+ or higher — no Phase 2 work needed
 
 ### Ch 10: The Decision — 8/10
-- [ ] Review: `chapter_10_the_decision_review.json` (63 notes, 8 critical)
-- Gap: Very short — functions as scene, not chapter
+- [x] King-pass review: Voice B-→B+ (opening fragmented, overpoetic description, foreshadowing cut)
 
 ### Ch 11: The Betrayal — 8/10
-- [ ] Review: `chapter_11_the_betrayal_review.json` (78 notes, 12 critical)
-- Gap: Covers enormous ground; parable is familiar territory
+- [x] King-pass review: Voice B-→B+, Deep POV B-→B+, Dialogue B→B+, Prose B-→B+
+- [x] Review JSON: Continuity fix — Mary sends Sarah to Damascus, turns back to Jerusalem
 
 ### Ch 12: The Execution — 8/10
-- [ ] Review: `chapter_12_the_execution_review.json` (81 notes, 11 critical)
-- Gap: Crucifixion is familiar territory
+- [x] All dimensions B+ or higher — no king-pass work needed
+- [x] Review JSON: Simon of Cyrene introduced as person, not by skin color
 
 ### Ch 13: The Resurrection — 8/10
-- [ ] Review: `chapter_13_the_resurrection_review.json` (69 notes, 8 critical)
-- Gap: Empty tomb is familiar territory
+- [x] King-pass review: Voice C+→B+, Dialogue B-→B+ (purple prose, overwritten dialogue)
 
 ### Ch 14: The Scatter — 8/10
-- [ ] Review: `chapter_14_the_scatter_review.json` (69 notes, 10 critical)
-- Gap: 38 years + 5 events = montage not narrative
+- [x] King-pass review: Voice B-→B+, Deep POV B-→B+, Tension B-→B+ (filtering, summary, repetition)
+
+### Review JSON Triage (120 critical notes across 15 chapters)
+- [x] Triaged all critical notes — most addressed by Phase 1/2 or not actionable (genre preference, Book 4 accessibility)
+- [x] Fixed 3 remaining real issues: Ch 11 continuity, Preface anachronism, Ch 12 sensitivity
+- [x] Confirmed 2 flagged issues (ninth hour timing, thirty silver pieces) already fixed in prior revisions
 
 ---
 
