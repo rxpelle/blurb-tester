@@ -22,7 +22,7 @@ Not because the reports were wrong — Tribune Lucullus maintained the most reli
 
 "Mixed. Galilean peasants, fishermen, some educated scribes. Women—unusual number of women. A core group of maybe twelve men travel with him constantly. Then there's another sixty, maybe eighty who show up consistently wherever he teaches."
 
-Lucullus finally looked up. Lines carved around his eyes that hadn't been there five years ago. Marcus felt the familiar knot tighten between his shoulder blades — the one that came every time they discussed the carpenter. "And the woman?"
+Lucullus finally looked up. Lines carved around his eyes that hadn't been there five years ago. The familiar knot tightened between Marcus's shoulder blades — the one that came every time they discussed the carpenter. "And the woman?"
 
 "Mary of Magdala. She's with him everywhere now. Leads a separate teaching circle for women. Maybe sixty regular attendees."
 
@@ -60,7 +60,7 @@ Lucullus leaned back. "Pilate wants options. Arrest and trial is the Temple's pr
 
 "Then we're left with watching until he becomes too dangerous to ignore." Lucullus met his eyes. "How dangerous is he, Centurion?"
 
-This question had haunted Marcus for three years. His gut twisted with the familiar nausea that came every time.
+Three years of this question. His gut twisted.
 
 "He's not organizing armed resistance. Not calling for tax rebellion. Not challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use —"
 
@@ -70,7 +70,7 @@ This question had haunted Marcus for three years. His gut twisted with the famil
 
 "Because Pilate is smarter than the Temple priests. He knows martyring a popular teacher creates more problems than it solves. Followers multiply. Teaching spreads faster. The execution becomes part of the message." Lucullus's voice was heavy. "We're trying to find a way to neutralize him without making him more powerful dead than alive."
 
-Marcus felt something cold settle in his chest. Five years of wrestling with this problem, and the answer was always the same.
+Something cold settled in his chest. Five years of this problem, and the answer was always the same.
 
 "There's no solution," Marcus said. "Arrest him, followers multiply. Leave him alone, the network grows. We're boxed."
 
@@ -86,11 +86,11 @@ Three years of teaching in Galilee — hillsides, lakeshores, places where infor
 
 The crowd was perhaps two hundred. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
 
-Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But Marcus watched the faces. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. They were hearing something underneath.
+Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But the faces told two stories. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. Hearing something underneath.
 
 "I speak in parables," Jesus told a frustrated Pharisee, "so the meaning outlasts the teacher."
 
-Marcus felt his breath catch. That was the closest Jesus had ever come to admitting what he was doing in public.
+His breath caught. The closest Jesus had ever come to saying it out loud.
 
 He composed his report in his head, same as always. Technically accurate. Strategically misleading. Five years of this. It was exhausting.
 
@@ -104,7 +104,7 @@ Three men pushed through the crowd toward Jesus. Marcus read the body language i
 
 "Teacher," the first one said, loud enough for the whole crowd to hear. "We've listened to your words for months. You speak about a coming Kingdom. You say the current systems are corrupt and will fall. You gather thousands." He gestured at the crowd. "The people are ready. When will you lead us against Rome?"
 
-Bodies shifted in the crowd — parents pulling children closer, men glancing toward the exits, women drawing their shawls tighter. This was dangerous ground. Any hint of rebellion in the Temple courts would bring soldiers running.
+The crowd contracted — parents pulling children closer, a man near the back already moving toward the exit. Dangerous ground. Any hint of rebellion in the Temple courts brought soldiers running.
 
 Jesus looked at the young man with something like sadness. "What is your name?"
 
@@ -124,13 +124,13 @@ Marcus filed that away. Barabbas. Known Zealot recruiter. Temple informants had 
 
 Silence. The crowd had gone completely still.
 
-Marcus felt his heart pounding. Jesus had just described the exact collapse trajectory Rome's own analysts predicted.
+His heart hammered. The exact collapse trajectory Rome's own analysts predicted — spoken aloud to a crowd in the Temple courts.
 
 "You can see this?" Barabbas whispered.
 
 "I can see the pattern. Every time a conquered people tries to overthrow an empire through violence, the empire wins. Not because Rome is righteous. Because empire is *built* for violence. You cannot out-fight the greatest killing machine in human history."
 
-Marcus watched Barabbas's face crumple. This wasn't just disagreement — this was a young man watching his hero destroy everything he'd believed in. Barabbas had probably dreamed of fighting beside Jesus, of glorious victory over Rome. Now Jesus was telling him that dream itself was poison. The confusion in his eyes looked like grief.
+Barabbas's face crumpled. Not disagreement — something worse. The look of a young man watching his hero tell him everything he believed in was poison.
 
 "You won't lead us," Barabbas said flatly.
 
@@ -256,11 +256,9 @@ Simon looked at him carefully. "Your people will kill him."
 
 Simon extended his hand. Marcus took it.
 
-He'd just committed treason. His father's voice echoed — *Honor Rome above all.* Twenty-eight years of imperial duty, of believing in order and strength and the civilizing power of the legions. All of it betrayed for a carpenter who spoke in parables and would die anyway.
+He'd just committed treason. His father's voice echoed — *Honor Rome above all.* Twenty-eight years of imperial duty, all of it betrayed for a carpenter who would die anyway.
 
-It should have felt like failure. Instead, something loosened in his chest — a tension he'd carried so long he'd forgotten it was there. His breathing deepened.
-
-It felt like the first honest decision he'd made in decades.
+It should have felt like failure. Instead, something loosened in his chest that he'd carried so long he'd forgotten it was there.
 
 ---
 

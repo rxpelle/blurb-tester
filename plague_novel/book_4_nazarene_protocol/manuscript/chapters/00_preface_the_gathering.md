@@ -84,35 +84,39 @@ Jesus was sitting with his feet in the lake, hands braced on the black basalt sh
 
 Simon sat beside him. Neither of them spoke. The lake moved. Stars emerged.
 
-"I felt it," Simon said finally. His voice was rough. "Two people. Standing together. Working together. Breathing together. And then not." His hand moved to his left side. "And then twelve hundred years of *not*."
+"I felt it," Simon said finally. His voice was rough. "Two people who — they were right there. Together. And then they weren't." His hand moved to his left side. "Twelve hundred years of reaching for someone who's already gone."
 
 Jesus said nothing.
 
-"I've had the blood my whole life," Simon said. "I've dreamed the collapse. The burning cities. The refugees. But I never felt — " He gestured at the hillside. At the empty place where forty people had wept together. "That wasn't the old skill. That wasn't the physician's eye. That was — "
+"I've dreamed the collapse my whole life," Simon said. "The burning cities. The refugees. But that —" He gestured at the hillside, at the empty place where forty people had wept together. "That wasn't the old skill. I don't know what that was."
 
 "I don't know what it was."
 
 Simon looked at him.
 
-"I don't," Jesus said. "I know what I carry. Two people loved each other and it went so deep it outlived them. Forty-two generations passed it hand to hand, and each one added something: their own grief, their own tenderness, their own reaching in the dark." He pulled his feet from the water. "But I don't know what it *is*, Simon. I've tried to understand it the way you understand wood, grain and joints and stress lines. But it's not like that. It's more like —" He stopped. Pressed his palm against the warm stone. "You know how a well works? Rain falls on the hills. Seeps through rock. Takes years. Decades. And then one day you lower a bucket and there's water that fell before your grandfather was born." He let the image settle. "I think that's what happened today. The well overflowed."
+"I don't," Jesus said. He pulled his feet from the water. "I know what I carry. Two people loved each other and it went so deep it outlived them. Forty-two generations, each one adding their own grief, their own reaching in the dark." He pressed his palm against the warm stone. "But what it *is* — I can't get my hands around it."
 
-"Something else."
+"Try."
 
-"Forty people, Simon. None of them carriers. None of them bloodline. And it reached them anyway." He looked at his hands, carpenter's hands, scarred and calloused, the hands of a man who built things. "A well feeds the family that dug it. But a river — a river doesn't ask who lives on its banks."
+Jesus was quiet for a moment. "You know how a well works? Rain falls on the hills. Seeps through rock. Takes years. And one day you lower a bucket and there's water that fell before your grandfather was born." He looked at his hands — carpenter's hands, scarred and calloused. "I think the well overflowed today. And it reached people it was never meant to reach."
+
+"Forty people," Simon said. "None of them carriers."
+
+"None of them bloodline. And it reached them anyway."
 
 The lake. The stars. The sound of water finding its level in the dark.
 
-"Maybe love that deep doesn't stay in one family," Jesus said quietly. "Maybe after enough time — enough hands passing it forward — it stops belonging to anyone. The way a song stops belonging to the person who first sang it." He drew a line in the wet sand with his finger. "Anyone standing close enough to hear it."
+"Maybe love that deep doesn't stay in one family," Jesus said quietly. "After enough hands pass it forward, it stops belonging to anyone. Like a song. You don't have to know who first sang it."
 
 "They'll say it's God," Simon said.
 
-Jesus was quiet.
+Jesus was quiet for a long time. The lake moved against the shore.
 
-"Maybe they won't be entirely wrong," he said. "What do you call something that started between two people and grew until it could hold forty strangers on a hillside? That outlived the people who made it, outlived their names, outlived the empire they lived in?" He pressed his palm against the stone. It was warm. "Maybe God is just the word we use when something holds more than it was made for."
+"Maybe they won't be entirely wrong." He pressed his palm against the warm stone. "What do you call something that started between two people and grew until it could hold forty strangers on a hillside? That outlived the people who made it, outlived their names, outlived the empire they lived in?" He looked at Simon. "Maybe God is just the word we use when something holds more than it was made for."
 
 "But you're going to teach it."
 
-"I'm going to teach the love. Because the love is what survived. Everything else fragmented. The knowledge scattered. The families split and splintered and barely remember their own origins." His voice was steady now. "But the love is *stronger* than it was at the beginning. It didn't fade. It gathered."
+"The love. Yes. Because the love is what survived." His voice was steady. "Everything else scattered. But the love is *stronger* than it was at the beginning. It gathered."
 
 Simon said nothing. His hand was on his left side, holding the place where the warmth had touched him.
 

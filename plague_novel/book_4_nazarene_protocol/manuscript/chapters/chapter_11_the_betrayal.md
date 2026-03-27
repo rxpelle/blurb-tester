@@ -28,19 +28,13 @@ Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full c
 
 They did.
 
-The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team. They thought they were preparing to save Jesus.
+The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team.
 
-They were preparing to fail.
+They were preparing to fail. Marcus had seen the other side's positioning yesterday — extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
 
-Marcus had seen the other side's positioning yesterday. Extra men hidden in adjacent buildings. Soldiers who weren't on official rosters but were being paid anyway. The rescue attempt was expected. Planned for. The defensive network thought they had surprise.
+Near the teaching platform, Mary stood with Sarah. Seven years old and holding her mother's hand. Mary's knuckles white. Her jaw clenched so tight the muscle worked visibly from forty paces.
 
-They had been watched the whole time.
-
-Near the teaching platform, Mary stood with Sarah. The girl—seven years old, too young to witness what was coming—held her mother's hand. Mary's knuckles showed white where she gripped Sarah's hand. Three weeks of knowing this day would come, and now it was here, and her jaw was clenched so tight the muscle worked visibly from forty paces.
-
-It had arrived.
-
-Jesus surveyed the crowd. Still. The way he'd been still for six years — a man who had already accepted what came next.
+Jesus climbed the platform. Still. The way he'd been still for months now — a man walking a road he could already see the end of.
 
 The teaching began.
 
@@ -56,7 +50,7 @@ He pulled out his wax tablet, stylus moving quickly. This was the last parable J
 
 "When harvest time came," Jesus continued, "the owner sent a servant to the tenants to collect his share of the fruit. But the tenants beat him and sent him away empty-handed."
 
-Fifteen thousand faces watched. He could see Mary at the crowd's edge, Sarah beside her. Mary's face showed what his couldn't — the grief of knowing what came next. Her jaw tight. Her eyes wet.
+Fifteen thousand faces. Mary at the crowd's edge, Sarah beside her. Mary's jaw tight. Her eyes wet. She was carrying the grief for both of them.
 
 He loved her for carrying that weight so he didn't have to. And for a moment — watching her face — his throat tightened with the very human desire to step down, to go to her, to choose love over duty. The feeling passed. But it had been real.
 
@@ -73,8 +67,6 @@ Sarah squeezed Mary's hand.
 Silence fell across the festival gathering.
 
 "So they threw him out of the vineyard and killed him." Jesus paused, letting the words settle. "What then will the owner of the vineyard do to them?"
-
-He answered his own question, as the parable structure required.
 
 "He will come and destroy those tenants and give the vineyard to others."
 
@@ -112,7 +104,7 @@ Sarah drank carefully, watching the adults' faces over the rim of the cup.
 
 "But understand this." Jesus set down the cup. "The one who will hand me over is here at this table."
 
-Shock rippled through the room. Twelve disciples looking at each other with sudden suspicion.
+Silence. Then chairs scraping, bodies shifting, twelve men looking at each other and not liking what they saw.
 
 "Lord, is it I?" Peter asked, hand moving unconsciously toward his sword.
 
@@ -134,15 +126,15 @@ Time to fail.
 
 Judas left. The disciples assumed he was handling meal preparations.
 
-Peter moved closer after Judas departed. "Lord, where are you going?"
+Peter moved closer after Judas departed. "Where are you going?"
 
-"Where I am going, you cannot follow now," Jesus said. "But you will follow afterward."
+"Where you can't follow. Not yet."
 
-"Why can't I follow you now?" Peter's frustration evident. "I will lay down my life for you."
+"Why not?" Peter's voice cracked. "I'd die for you. You know that."
 
-Jesus looked at the former fisherman with genuine affection. "Will you really lay down your life for me? Very truly I tell you, before the rooster crows, you will disown me three times."
+Jesus looked at him — the fisherman who'd dropped his nets three years ago and never looked back. "Peter. Before the rooster crows tomorrow, you'll deny you ever knew me. Three times."
 
-Peter's face darkened. "Even if I have to die with you, I will never disown you!"
+Peter's face went dark. "I would *never* —"
 
 The other disciples murmured agreement.
 
@@ -192,13 +184,15 @@ The signal given.
 
 The bribed guards should move now. Create confusion. Begin the rescue.
 
-Instead, different guards moved. Ones Judas didn't recognize. Extra forces. Where did they come from?
+Instead, different guards moved. Ones Judas didn't recognize. His chest went cold. Extra forces — a dozen men stepping from the shadows of the adjacent buildings, swords already drawn. Where did they come from?
 
-His bribed guards hesitated, suddenly uncertain — confused themselves.
+His bribed guards hesitated. Looked at each other. Looked at the new men.
 
-The plan was compromised.
+The ground shifted under Judas's feet. Not literally. But something that had been solid — the plan, the certainty, twelve years of knowing how this worked — cracked and fell away.
 
-"Judas, would you betray the Son of Man with a kiss?" Jesus asked. His voice carried no anger — only the sadness of a man watching someone he loved fail at saving him.
+"Judas." Jesus's voice, quiet. "Would you betray the Son of Man with a kiss?"
+
+No anger. That was the worst part. Just the steady sadness of a man who'd known this would happen and let him try anyway.
 
 "Friend, do what you came to do," Jesus said.
 
