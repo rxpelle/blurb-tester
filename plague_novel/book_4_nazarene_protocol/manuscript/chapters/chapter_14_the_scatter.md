@@ -8,9 +8,9 @@
 
 ### Day Twenty-Eight: The Upper Room
 
-Thomas hadn't been present at the first appearance. Skeptical by nature — the questioner among the Twelve, the physician's mind that demanded evidence before belief.
+Thomas hadn't been present at the first appearance. Skeptical by nature, the questioner among the Twelve, the physician's mind that demanded evidence before belief.
 
-Now he stood in the upper room with the other disciples — twelve people in a space built for eight, the air thick with the sour smell of men who hadn't left in days. Sweat, stale bread, the vinegar tang of cheap wine. Door barred with a cedar beam against Temple arrest. Oil lamps throwing unsteady shadows. Someone had been sick in the corner and cleaned it badly. Four weeks of hiding, and the room smelled like fear. Thomas had heard every secondhand account. Remained unconvinced.
+Now he stood in the upper room with the other disciples, twelve people in a space built for eight, the air thick with the sour smell of men who hadn't left in days. Sweat, stale bread, the vinegar tang of cheap wine. Door barred with a cedar beam against Temple arrest. Oil lamps throwing unsteady shadows. Someone had been sick in the corner and cleaned it badly. Four weeks of hiding, and the room smelled like fear. Thomas had heard every secondhand account. Remained unconvinced.
 
 "I won't believe unless I see the nail marks," Thomas declared. "Unless I put my finger where the nails were. Unless I touch the spear wound."
 
@@ -26,7 +26,7 @@ The lamp flames bent sideways, all at once, as if a door had opened — but the 
 
 The figure appeared.
 
-Standing in the center of the room. Door still locked. No sound of entry. The smell of the room changed — something clean cutting through the stale air, like rain on hot stone. Just presence, materializing between one heartbeat and the next.
+Standing in the center of the room. Door still locked. No sound of entry. The smell of the room changed, something clean cutting through the stale air, like rain on hot stone. Just presence, materializing between one heartbeat and the next.
 
 "Peace be with you."
 
@@ -36,13 +36,13 @@ Jesus. Or manifestation. Or collective vision. Or a network agent trained in the
 
 The figure turned toward him specifically. Knew his name. Knew his doubt. Knew his requirements.
 
-Extended hands showing marks. Wrist wounds where nails had penetrated — not the palms, which would have torn under a man's weight. Thomas had treated enough wounds to know the difference.
+Extended hands showing marks. Wrist wounds where nails had penetrated, not the palms, which would have torn under a man's weight. Thomas had treated enough wounds to know the difference.
 
 Pulled aside robe showing the side wound. Spear puncture beneath the ribs. Right side. Thomas had seen enough crucifixion dead to know where the Romans aimed the confirming thrust. The wound was real.
 
 "Put your finger here. See my hands. Reach out your hand and put it into my side. Stop doubting and believe."
 
-Thomas approached slowly. His physician's eyes took in what they could: Wounds consistent with crucifixion. Healing pattern that made no sense — four weeks was not enough for this kind of closure. Physical solidity, casting shadow in the lamplight. But he had appeared through a locked door. And knew Thomas's exact doubt without being told.
+Thomas approached slowly. His physician's eyes took in what they could: Wounds consistent with crucifixion. Healing pattern that made no sense. Four weeks was not enough for this kind of closure. Physical solidity, casting shadow in the lamplight. But he had appeared through a locked door. And knew Thomas's exact doubt without being told.
 
 He reached toward the hand wound. Fingers extending. Inches away.
 
@@ -84,13 +84,13 @@ Matthew stepped into the courtyard from the hall.
 
 "Peter." Matthew's voice was quiet but it carried. "If the Savior made her worthy, who are you to reject her? He knew her. He loved her more than us. We should be ashamed of ourselves."
 
-Nobody spoke. A child laughed somewhere in the house. The herbs Mary had been grinding released their smell — bitter, green, medicinal.
+Nobody spoke. A child laughed somewhere in the house. The herbs Mary had been grinding released their smell, bitter, green, medicinal.
 
 "We should prepare ourselves," Matthew continued. "Preach the good news the way he told us. Not lay down rules he never made."
 
 Peter uncrossed his arms. He didn't apologize. He didn't agree. He walked out of the courtyard, and Mary heard him in the next room, already talking to Andrew about organizational structure, about rules for worship, about who could teach and who could not.
 
-She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone — the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
+She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone, the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
 
 She ground the herbs until there was nothing left to grind.
 
@@ -120,7 +120,7 @@ Mary knelt to her daughter's level. "Now we wait ten days. Then we scatter. You 
 
 "So they can't burn it all in one place."
 
-Sarah nodded. She understood fire. She'd dreamed it — Pi-Ramesses, Babylon, cities she couldn't name. Fire was what happened when everything stayed in one place too long.
+Sarah nodded. She understood fire. She'd dreamed it. Pi-Ramesses, Babylon, cities she couldn't name. Fire was what happened when everything stayed in one place too long.
 
 "And me? When I'm grown?"
 
@@ -148,7 +148,7 @@ She wrote his words on the nature of sin:
 
 *"Sin does not exist. Rather it is you who make sin when you do the things which are like the nature of adultery, which is called 'sin.' Because of this the Good came among you to the things belonging to all nature, in order to set it within its root."*
 
-She set down the stylus. Heard his voice in the words — the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
+She set down the stylus. Heard his voice in the words, the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
 
 She dipped the stylus again. Wrote what he'd said about the nature of everything:
 
@@ -176,11 +176,11 @@ Then she wrote what happened after he left them:
 
 The first sermon after the resurrection wasn't Peter's at Pentecost. It was hers, in that room, to eleven men who couldn't stop weeping.
 
-She kept writing. The vision — the private teaching, the one Peter had challenged in that courtyard. The soul's ascent past the Powers.
+She kept writing. The vision: the private teaching, the one Peter had challenged in that courtyard. The soul's ascent past the Powers.
 
 The lamp guttered. Sarah brought a fresh one without being asked.
 
-Mary wrote Darkness first — the soul passing through it. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street.
+Mary wrote Darkness first: the soul passing through it. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street.
 
 She wrote Desire:
 
@@ -192,9 +192,9 @@ Her wrist ached. She flexed her fingers, kept going. Desire thought it owned her
 
 She wrote Ignorance — the power that binds by telling the soul it cannot know. *"Why do you judge me, since I have not judged?"* the soul answered. *"I was bound, though I have not bound anything. They did not recognize me, but I have recognized that the All is to be dissolved, both the things of earth and those of heaven."*
 
-The lamp smoked. The harbor sounds had gone quiet — Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
+The lamp smoked. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
 
-Mary wrote the final power — the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.*
+Mary wrote the final power, the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.*
 
 The powers demanded to know: *"Where are you coming from, human-killer, and where are you going, space-conqueror?"*
 
@@ -202,7 +202,7 @@ And the soul — her soul, the soul she'd carried through Magdala and Capernaum 
 
 *"What binds me has been slain, and what surrounds me has been destroyed, and my desire has been brought to an end, and ignorance has died. In a world I was set loose from a world, and in a type, from a type which is above, and from the chain of forgetfulness which exists in time. From this hour on, for the time of the due season of the aeon, I will receive rest in silence."*
 
-Mary set down the stylus. Her hand had cramped into the shape of holding it. Dawn light was coming through the window — grey, then blue, then the first gold touching the harbor water.
+Mary set down the stylus. Her hand had cramped into the shape of holding it. Dawn light was coming through the window: grey, then blue, then the first gold touching the harbor water.
 
 She looked at the papyrus spread across the table. Twenty-three pages. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. She didn't know which pages would survive. She wrote them all.
 
@@ -212,7 +212,7 @@ She looked at the papyrus spread across the table. Twenty-three pages. The only 
 
 Mary Magdalene knew three days before it happened. Through her body. The warmth beneath her left ribs had begun to move out. Like a tide withdrawing.
 
-She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the harbor — rigging, gulls, the creak of trading vessels — always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was encoded. Her body had done its work.
+She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the harbor, rigging, gulls, the creak of trading vessels, always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was encoded. Her body had done its work.
 
 Sarah found her on the rooftop at dusk, face turned toward the harbor. Seventeen years old.
 
@@ -272,7 +272,7 @@ And Mary Magdalene — who stood at the cross when everyone else fled, who went 
 
 Sarah sat holding her mother's hand for a long time. Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
 
-She would have copies made. Three sets — different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again.
+She would have copies made. Three sets. Different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again.
 
 She had work to do.
 
@@ -346,11 +346,11 @@ Helena unwrapped it by lamplight in her room above the Via Flaminia, the cloth f
 
 Helena was forty-six. Mother of the man who would fight for the Western Empire tomorrow. Generation 50.
 
-The dreams had started when she was twelve — late, weak, nothing like the stories passed down through the network's fragments. Jesus had been three when the visions began. Mary Magdalene, seven. Helena was twelve, and even then she only caught pieces. Pi-Ramesses burning. A woman's hands on bronze tools. Jerusalem's Temple collapsing inward, dust cloud rising like a soul leaving a body.
+The dreams had started when she was twelve. Late, weak, nothing like the stories passed down through the network's fragments. Jesus had been three when the visions began. Mary Magdalene, seven. Helena was twelve, and even then she only caught pieces. Pi-Ramesses burning. A woman's hands on bronze tools. Jerusalem's Temple collapsing inward, dust cloud rising like a soul leaving a body.
 
 That last image came most often. A woman on a hillside, watching. Holding this same disc. The Pattern Eye warm in her palms as the stones fell.
 
-Helena turned the disc over. The symbols meant nothing to her — she couldn't read them the way the old carriers had. But when she held the bronze, the dreams sharpened. Not visions exactly. Patterns. The shape of what was coming.
+Helena turned the disc over. The symbols meant nothing to her. She couldn't read them the way the old carriers had. But when she held the bronze, the dreams sharpened. Not visions exactly. Patterns. The shape of what was coming.
 
 Rome was following the cascade. She could feel it the way a sailor feels weather change — not seeing the storm, just knowing. Currency debased three times in her lifetime. Civil wars every decade. Germanic pressure on every border. The legions stretched too thin, the tax base shrinking, the bureaucracy feeding on itself.
 
@@ -384,7 +384,7 @@ The instructions were the same in each letter. The same instructions that had be
 
 *Until then: witness. Document. Pass forward.*
 
-She signed the letters. Sealed them with plain wax — no insignia, no imperial mark. Network correspondence traveled as merchant post, invisible among trade documents.
+She signed the letters. Sealed them with plain wax. No insignia, no imperial mark. Network correspondence traveled as merchant post, invisible among trade documents.
 
 The Pattern Eye sat on the table, catching lamplight. Bronze that Nefertari had cast fifteen centuries ago in a workshop in Pi-Ramesses while the Bronze Age collapsed around her. Bronze that Mary Magdalene had held in a garden while Jesus explained how to survive what couldn't be prevented. Bronze that Sarah had gripped on a hillside while Jerusalem burned.
 

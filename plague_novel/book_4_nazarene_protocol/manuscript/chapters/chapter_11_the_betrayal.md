@@ -12,7 +12,7 @@ Marcus Publius Scipio had witnessed executions before. Fifteen years in Roman se
 
 But he'd never watched someone walk deliberately toward their own execution.
 
-The Passover morning broke clear and cool over Jerusalem. Fifteen thousand pilgrims packed the streets — roasting lamb, fresh herbs, unleavened bread stacked in baskets outside every door. Children chasing each other through the crowds. The smell of hyssop and charred bone drifting from courtyards where families prepared the seder. Somewhere a ram's horn sounded from the Temple Mount, cutting through the noise.
+The Passover morning broke clear and cool over Jerusalem. Fifteen thousand pilgrims packed the streets, roasting lamb, fresh herbs, unleavened bread stacked in baskets outside every door. Children chasing each other through the crowds. The smell of hyssop and charred bone drifting from courtyards where families prepared the seder. Somewhere a ram's horn sounded from the Temple Mount, cutting through the noise.
 
 Marcus positioned himself at the crowd's edge, wax tablets hidden in his cloak. Close enough to observe. Far enough to slip away if things turned violent.
 
@@ -30,11 +30,11 @@ They did.
 
 The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team.
 
-They were preparing to fail. Marcus had seen the other side's positioning yesterday — extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
+They were preparing to fail. Marcus had seen the other side's positioning yesterday, extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
 
 Near the teaching platform, Mary stood with Sarah. Eight years old and holding her mother's hand. Mary's knuckles white. Her jaw clenched so tight the muscle worked visibly from forty paces.
 
-Jesus climbed the platform. Still. The way he'd been still for months now — a man walking a road he could already see the end of.
+Jesus climbed the platform. Still. The way he'd been still for months now, a man walking a road he could already see the end of.
 
 The teaching began.
 
@@ -78,7 +78,7 @@ Jesus stepped down from the platform. The crowd began dispersing for festival me
 
 He found Mary's eyes across the dispersing crowd. She knew.
 
-Sarah waved — a tiny gesture.
+Sarah waved, a tiny gesture.
 
 Jesus waved back. Then turned toward the upper room.
 
@@ -164,7 +164,7 @@ Then the door burst open.
 
 *Judas POV*
 
-The plan was perfect. Judas had done this before — seven successful rescues in his twelve years with the network. He knew the method. Create chaos. Use the confusion. Pull the man out during the violence.
+The plan was perfect. Judas had done this before, seven successful rescues in his twelve years with the network. He knew the method. Create chaos. Use the confusion. Pull the man out during the violence.
 
 Twenty guards bribed. Half the Temple force. They would "arrest" Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus. The real carrier would escape through the Damascus route Simon had prepared.
 
@@ -184,11 +184,11 @@ The signal given.
 
 The bribed guards should move now. Create confusion. Begin the rescue.
 
-Instead, different guards moved. Ones Judas didn't recognize. His chest went cold. Extra forces — a dozen men stepping from the shadows of the adjacent buildings, swords already drawn. Where did they come from?
+Instead, different guards moved. Ones Judas didn't recognize. His chest went cold. Extra forces: a dozen men stepping from the shadows of the adjacent buildings, swords already drawn. Where did they come from?
 
 His bribed guards hesitated. Looked at each other. Looked at the new men.
 
-The ground shifted under Judas's feet. Not literally. But something that had been solid — the plan, the certainty, twelve years of knowing how this worked — cracked and fell away.
+The ground shifted under Judas's feet. Not literally. But something that had been solid, the plan, the certainty, twelve years of knowing how this worked, cracked and fell away.
 
 "Judas." Jesus's voice, quiet. "Would you betray the Son of Man with a kiss?"
 
@@ -222,7 +222,7 @@ The taste of bile rose in his throat.
 
 From forty paces, Marcus wrote it down. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest. His stylus moved steady and precise, the hand of a man trained to observe while other men bled. He hated the steadiness. Hated that his body had learned to function while his chest hollowed out.
 
-The disciples scattered — Peter first, dropping his sword and running, then the others after him. The rescue team melted into the crowd. Mary and Sarah disappeared down the Damascus route, Simon covering their retreat.
+The disciples scattered: Peter first, dropping his sword and running, then the others after him. The rescue team melted into the crowd. Mary and Sarah disappeared down the Damascus route, Simon covering their retreat.
 
 The guards surrounded Jesus. Malchus touched his healed ear, staring at the man who'd mended it.
 
@@ -248,7 +248,7 @@ Mary ran.
 
 She ran. But Sarah's hand was in hers — small, warm, trusting — and that was enough to keep her legs moving. Simon ahead, clearing the road to Damascus. Rachel and Leah flanking. Seven years old and Sarah kept pace with adult desperation.
 
-Behind them, the sounds of chaos fading. The disciples scattering — Peter toward the harbor, Thomas inland, John circling back because he couldn't stay away. The rescue team melting into the dark.
+Behind them, the sounds of chaos fading. The disciples scattering: Peter toward the harbor, Thomas inland, John circling back because he couldn't stay away. The rescue team melting into the dark.
 
 Simon stopped at the checkpoint. "Damascus. Leah takes Sarah."
 
@@ -274,7 +274,7 @@ She went anyway.
 
 *Judas POV*
 
-Judas walked through Jerusalem's streets as night gave way to dawn. The blood money — thirty shekels of silver, payment for "betraying" Jesus to the Temple — heavy in his satchel.
+Judas walked through Jerusalem's streets as night gave way to dawn. The blood money, thirty shekels of silver, payment for "betraying" Jesus to the Temple, heavy in his satchel.
 
 Payment for a failed rescue.
 
@@ -294,7 +294,7 @@ He could still hear Jesus by the lake, three years ago, laughing at Peter's clum
 
 He found the tree on the eastern slope. Strong branch. Good height. If he'd been captured during the failed rescue, he would have been questioned. The escape routes revealed. Mary and Sarah found.
 
-Judas's hands shook as he knotted the rope. Twelve years of training guiding fingers that could barely hold steady. The hemp felt rough, real — more real than anything since watching Jesus dragged away.
+Judas's hands shook as he knotted the rope. Twelve years of training guiding fingers that could barely hold steady. The hemp felt rough, real, more real than anything since watching Jesus dragged away.
 
 The world would remember it wrong. Would call him traitor. Would remember the kiss as betrayal instead of the signal for a rescue that failed before it started. Would forget that he died trying to save Jesus, not profit from selling him.
 
@@ -310,7 +310,7 @@ Judas stepped off the branch.
 
 *Marcus POV*
 
-Marcus found Judas's body at dawn. The air tasted of woodsmoke and baking bread — Jerusalem waking to another ordinary day. The rope still swayed slightly in the morning breeze.
+Marcus found Judas's body at dawn. The air tasted of woodsmoke and baking bread, Jerusalem waking to another ordinary day. The rope still swayed slightly in the morning breeze.
 
 He wrote down the position, the method, the location. Added it to last night's record. Someone, someday, would need to understand that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work.
 

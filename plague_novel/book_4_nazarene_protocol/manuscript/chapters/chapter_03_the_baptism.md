@@ -18,9 +18,9 @@ John looked up from the baptism pool—shallow basin carved by centuries of rive
 
 *Jesus.*
 
-Even at two hundred paces — carrier strength coming off the man in waves. Not visible to anyone who hadn't grown up dreaming of cities they'd never seen. But to John, unmistakable.
+Even at two hundred paces, carrier strength coming off the man in waves. Not visible to anyone who hadn't grown up dreaming of cities they'd never seen. But to John, unmistakable.
 
-John had been out here three years — teaching, baptizing, living on locusts and wild honey until his teeth ached and his gut had forgotten what bread tasted like. The families who still carried the old knowledge sent their sons to him. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service. They came because the same dreams drove them to the river.
+John had been out here three years. Teaching, baptizing, living on locusts and wild honey until his teeth ached and his gut had forgotten what bread tasted like. The families who still carried the old knowledge sent their sons to him. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service. They came because the same dreams drove them to the river.
 
 But knowing someone was coming and actually seeing them approach were different experiences entirely.
 
@@ -44,7 +44,7 @@ John watched Jesus descend the ridge. Steady gait. No hurry. The calm certainty 
 
 Jesus reached the baptism site just after midday. The morning crowds had scattered — families back to their tents, the bread sellers loading their donkeys, a knot of Pharisees from Jerusalem still arguing under the tamarisk trees about whether John's baptism violated Levitical law. Fifteen of John's core students remained, sitting in whatever shade they could find, sharing dried figs and water from goatskin bags.
 
-Jesus walked directly through the noon heat — the kind that turned the limestone white and made the air shimmer above the road — and stopped ten paces from where John stood. The cousins looked at each other.
+Jesus walked directly through the noon heat, the kind that turned the limestone white and made the air shimmer above the road, and stopped ten paces from where John stood. The cousins looked at each other.
 
 John saw what he'd expected—the intensity, the focus. But also something new. Exhaustion. Jesus looked like someone pouring himself out before time ran out.
 
@@ -76,7 +76,7 @@ Something tight in John's chest began to loosen.
 
 "That's why I'm here." Jesus looked toward the river. "I need the whole thing. Not fragments. The complete structure. Before I run out of time."
 
-John heard it — the thing Jesus wouldn't say plainly. The same pattern he could read in empires, he could read in his own trajectory. Teacher threatens power. Power eliminates teacher.
+John heard it, the thing Jesus wouldn't say plainly. The same pattern he could read in empires, he could read in his own trajectory. Teacher threatens power. Power eliminates teacher.
 
 "If it takes you —"
 
@@ -108,7 +108,7 @@ Jesus stood, following the student downstream. The Jordan's sound changed as the
 
 John stood at the pool's edge with six of his core students. Not a crowd. Just witnesses who understood what they were seeing.
 
-"Jesus ben Yosef." John's voice shifted—formal now, ancient, channeling words older than himself. "You come seeking baptism. Do you understand what the water asks?"
+"Jesus ben Yosef." John's voice shifted. Formal now, ancient, channeling words older than himself. "You come seeking baptism. Do you understand what the water asks?"
 
 Jesus had heard these words performed for others. Standing here receiving them, they felt heavier than he'd expected.
 
@@ -124,13 +124,13 @@ Jesus had heard these words performed for others. Standing here receiving them, 
 
 John nodded. "Then enter the water."
 
-Jesus walked into the Jordan. The water was cold — fed by mountain snowmelt even in summer — and the shock of it ran up through his legs into his spine. River stones shifted under his feet, smooth and ancient. The current pressed against his thighs like a hand. He moved to the center of the pool where the depth reached his chest and the cold wrapped around him completely.
+Jesus walked into the Jordan. The water was cold, fed by mountain snowmelt even in summer, and the shock of it ran up through his legs into his spine. River stones shifted under his feet, smooth and ancient. The current pressed against his thighs like a hand. He moved to the center of the pool where the depth reached his chest and the cold wrapped around him completely.
 
-John waded in after him. His hands were rough — calloused from years of sun-dried rope and desert stone — and when he placed one on Jesus's shoulder and the other against his back, the strength in them was immediate. A man who lived outdoors and worked with his body and had pulled people out of this river before.
+John waded in after him. His hands were rough, calloused from years of sun-dried rope and desert stone, and when he placed one on Jesus's shoulder and the other against his back, the strength in them was immediate. A man who lived outdoors and worked with his body and had pulled people out of this river before.
 
 "In the name of the network," John murmured. "In memory of those who died teaching. In hope for those who survive learning. I baptize you."
 
-Jesus closed his eyes. Let John press him backward into the water. Felt cold close over his face, fill his ears, seal the world away. Total immersion. Weightless. The river held him the way the earth holds a seed — dark, patient, waiting for whatever would grow.
+Jesus closed his eyes. Let John press him backward into the water. Felt cold close over his face, fill his ears, seal the world away. Total immersion. Weightless. The river held him the way the earth holds a seed. Dark, patient, waiting for whatever would grow.
 
 *Now,* Jesus thought. *Show me.*
 
@@ -154,7 +154,7 @@ And underneath, the last thing she encoded before the fever took her:
 
 The vision accelerated. Fragments — eighty-four students scattering west. Knowledge degrading but persisting. Babylon. The exile. Bronze keys fragmenting across family lines.
 
-Then his own face. Teaching on a hillside. A Roman officer — auxiliary cavalry, Syro-Phoenician by his armor — watching from the back of a crowd, his stylus frozen over a wax tablet.
+Then his own face. Teaching on a hillside. A Roman officer, auxiliary cavalry, Syro-Phoenician by his armor, watching from the back of a crowd, his stylus frozen over a wax tablet.
 
 A hill outside Jerusalem. A cross. His body on the wood. He felt — not fear. Recognition.
 
@@ -222,7 +222,7 @@ John looked at Jesus. A man who'd just compressed twelve centuries into forty-fi
 
 The students left reluctantly. When they were gone, John and Jesus stood alone beside the Jordan.
 
-"You don't need me," John heard himself say. The words came out rougher than he intended — desert-scraped, stripped raw. "You don't need the ritual. You could teach alone and the world would listen."
+"You don't need me," John heard himself say. The words came out rougher than he intended. Desert-scraped, stripped raw. "You don't need the ritual. You could teach alone and the world would listen."
 
 "And then I'd die and it would die with me." Jesus's voice was firm. "I need you *because* you'll die first. Because your people create the roots mine build on. Because tonight — you putting me under, not the other way around — that means it was never about one man."
 

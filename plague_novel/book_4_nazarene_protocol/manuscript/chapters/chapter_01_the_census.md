@@ -10,11 +10,11 @@
 
 ## SCENE 1: The Census Taker
 
-Marcus Publius Scipio stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers — officially to verify compliance, unofficially to identify threats. Marcus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
+Marcus Publius Scipio stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, officially to verify compliance, unofficially to identify threats. Marcus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
 
 "Name," Marcus said in Aramaic. His accent was terrible, but functional. Twenty years in the legions, half of them in eastern provinces, taught you to butcher local languages well enough to observe tax collection and quell riots.
 
-The man in front of him—weathered, mid-fifties, fisherman by the smell—gave his name, family size, property holdings. Antipas's local registrar handled the actual enrollment while Marcus's scribe, Lucius, scratched duplicates onto wax tablets. Standard procedure. The census data would be copied to parchment later, sent to Caesarea for Roman records — Antipas's tribute to Rome depended on accurate counts, and Rome trusted but verified.
+The man in front of him—weathered, mid-fifties, fisherman by the smell—gave his name, family size, property holdings. Antipas's local registrar handled the actual enrollment while Marcus's scribe, Lucius, scratched duplicates onto wax tablets. Standard procedure. The census data would be copied to parchment later, sent to Caesarea for Roman records. Antipas's tribute to Rome depended on accurate counts, and Rome trusted but verified.
 
 "Next," Marcus called.
 
@@ -42,13 +42,13 @@ Marcus's other assignment—the one his tribune had given him privately, in a cl
 
 Rome's orders were simple: identify, observe, report.
 
-He'd found three so far this rotation. Two fishermen in Capernaum — Simon and Andrew — from families that kept unusually detailed genealogies. One elder woman in Cana who'd predicted drought patterns three harvests before they happened.
+He'd found three so far this rotation. Two fishermen in Capernaum, Simon and Andrew, from families that kept unusually detailed genealogies. One elder woman in Cana who'd predicted drought patterns three harvests before they happened.
 
 Nobody got arrested. The network wasn't hostile to Rome. Not yet.
 
 "Next."
 
-A young couple—newly married, barely twenty—gave their details nervously. Marcus waved them through. Beside him, Lucius the scribe stretched his cramped hand, spattering wax across the tablet.
+A young couple, newly married, barely twenty, gave their details nervously. Marcus waved them through. Beside him, Lucius the scribe stretched his cramped hand, spattering wax across the tablet.
 
 "How many more?" Lucius muttered in Latin.
 
@@ -160,7 +160,7 @@ Another silence, longer. Jesus looked at the census line—forty families still 
 
 "I've been dreaming of burning cities since I was three years old," he said quietly. "Not my cities. My ancestors'. I see what they saw—walls falling, people running, the knowledge being packed into baskets and carried out before the fire reaches it. Not from training. From the blood." He paused. "There are maybe fifty of us left who carry it. Most don't know what the dreams mean."
 
-Marcus's breath caught. Born with it — the rarest kind.
+Marcus's breath caught. Born with it. The rarest kind.
 
 "Generation?" Marcus asked.
 
@@ -248,7 +248,7 @@ Military intelligence headquarters. Not the census offices.
 
 Someone had noticed something.
 
-Caesarea gleamed white and gold — Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper — the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
+Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
 
 Marcus snapped to attention. "Centurion Scipio reporting, Tribune."
 
@@ -286,7 +286,7 @@ His voice held steady. His hands, clasped behind his back, did not.
 
 Lucullus held his gaze for three heartbeats. Then nodded. "Dismissed."
 
-Marcus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one—primary bloodline carrier, Generation 42, teaching thousands—and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
+Marcus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one, primary bloodline carrier, Generation 42, teaching thousands, and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
 
 Simon had been right about one thing: a quiet lie was safer than a loud omission.
 

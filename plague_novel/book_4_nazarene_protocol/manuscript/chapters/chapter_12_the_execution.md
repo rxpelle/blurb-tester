@@ -12,11 +12,11 @@ Marcus Publius Scipio hadn't slept. He'd spent the night smoothing wax tablets, 
 
 Now he sat in pre-dawn dark and tried to eat bread. His jaw worked but his throat wouldn't swallow. He set the bread aside.
 
-Fifteen executions he'd documented in his career — men who cursed Rome, begged for mercy, or went silent. Every one of them had surprised him in some small way. A Thracian bandit who'd asked the executioner to tell his mother he died well. A Jewish rebel who'd spat his own blood at Pilate's feet and laughed. But none of them — not one — had spent their final free hours teaching.
+Fifteen executions he'd documented in his career, men who cursed Rome, begged for mercy, or went silent. Every one of them had surprised him in some small way. A Thracian bandit who'd asked the executioner to tell his mother he died well. A Jewish rebel who'd spat his own blood at Pilate's feet and laughed. But none of them, not one, had spent their final free hours teaching.
 
 The streets were waking. Bread baking, the sour smell of too many bodies packed into a festival city, animal dung in the gutters, incense from the Temple Mount drifting over everything like a lie. Passover pilgrims still preparing the seder while soldiers positioned at every intersection. A city in festival dress attending an execution.
 
-Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. He understood the impulse — the need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
+Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. He understood the impulse: the need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
 
 He walked toward the Praetorium.
 
@@ -28,7 +28,7 @@ The Praetorium courtyard smelled of stone dust and the perfume the Temple offici
 
 Pilate sat on the judgment seat like a man who wanted to be somewhere else. Caiaphas and the council packed the opposite wall. The crowd pressed against the gates outside, their shouting muffled by the stone.
 
-Jesus stood in the center. Bound. Bruises darkening from the overnight interrogation — one eye swelling shut, lip split. But standing upright. Looking at Pilate with an expression Marcus couldn't read and didn't want to.
+Jesus stood in the center. Bound. Bruises darkening from the overnight interrogation: one eye swelling shut, lip split. But standing upright. Looking at Pilate with an expression Marcus couldn't read and didn't want to.
 
 "Are you the King of the Jews?" Pilate asked.
 
@@ -44,13 +44,13 @@ Jesus said nothing. Pilate waited. The silence stretched past uncomfortable into
 
 The crowd roared louder. Pilate looked at Caiaphas. Caiaphas looked back with the patience of a man who knew the outcome was already decided.
 
-Pilate called for water. Washed his hands in front of all of them — the performative gesture of a politician who needed the record to show reluctance. "I am innocent of this man's blood. It's yours."
+Pilate called for water. Washed his hands in front of all of them, the performative gesture of a politician who needed the record to show reluctance. "I am innocent of this man's blood. It's yours."
 
 He gave the order.
 
 ---
 
-The scourging post stood in the courtyard's corner. Flagrum — leather thongs tipped with metal and bone fragments. Marcus had seen men lose consciousness after ten lashes.
+The scourging post stood in the courtyard's corner. Flagrum: leather thongs tipped with metal and bone fragments. Marcus had seen men lose consciousness after ten lashes.
 
 Jesus was stripped and bound to the post. The soldier took position. Drew back.
 
@@ -74,9 +74,9 @@ They gave him his crossbeam. Seventy-five pounds of rough-hewn wood across shoul
 
 ## Scene 3: The Procession
 
-The procession route wound uphill through Jerusalem's narrowest streets — barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the paving stones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather.
+The procession route wound uphill through Jerusalem's narrowest streets, barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the paving stones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather.
 
-The smell of five thousand unwashed bodies mixed with festival cooking — roasting lamb, fresh bread, the bitter edge of horseradish — and underneath it all the iron tang of blood from the man at the procession's center.
+The smell of five thousand unwashed bodies mixed with festival cooking, roasting lamb, fresh bread, the bitter edge of horseradish, and underneath it all the iron tang of blood from the man at the procession's center.
 
 Jesus carried the crossbeam across his shoulders. Seventy-five pounds of rough-hewn cedar, the bark still on it, pressing into flesh already destroyed by the flagrum. Each step left blood on the paving stones. Crown of thorns still pressed into his skull — rivulets dried brown on his forehead, fresh red where the thorns shifted with each step. Four soldiers surrounding him, their hobnailed sandals grinding against the stone. Two criminals following behind with their own crossbeams, one weeping, one staring straight ahead.
 
@@ -88,7 +88,7 @@ Women wailed along the route — the keening rising and falling like something a
 
 Jesus stumbled. His knee hit the paving stones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
 
-The soldiers grabbed a man from the crowd — broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
+The soldiers grabbed a man from the crowd, broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
 
 Simon of Cyrene. A Jewish pilgrim from North Africa, visiting for festival, who'd woken this morning expecting to celebrate. He lifted the wood — winced at the blood and splinters — looked at Jesus with a mixture of pity and fear.
 
@@ -104,7 +104,7 @@ They laid the crossbeam on the ground. Spread Jesus's hands along the wood. A so
 
 ## Scene 4: The Crucifixion Begins
 
-The soldier positioned the nail against Jesus's left wrist. Not the palm — palms would tear under body weight. Through the wrist bones, where iron could hold firm.
+The soldier positioned the nail against Jesus's left wrist. Not the palm. Palms would tear under body weight. Through the wrist bones, where iron could hold firm.
 
 The hammer fell.
 
@@ -116,7 +116,7 @@ Marcus's hand shook so violently he nearly dropped the stylus. The boy at Carnun
 
 The soldiers lifted the crossbeam with Jesus attached and hoisted it onto the vertical post. The wood groaned as they fitted the joint. Jesus's weight settled onto the wrist nails and his face went white.
 
-A soldier grabbed his feet and pressed them flat against the post. Positioned the nail — a single long spike, thick as a man's finger. The hammer fell.
+A soldier grabbed his feet and pressed them flat against the post. Positioned the nail, a single long spike, thick as a man's finger. The hammer fell.
 
 Jesus's jaw locked. A sound came through his teeth that wasn't a scream but wasn't silence either.
 
@@ -128,7 +128,7 @@ Before the crucifixion, they'd offered wine mixed with myrrh — painkiller. Jes
 
 The soldiers divided his clothes. Gambled for his cloak. Among them, Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh.
 
-Pilate's inscription was nailed above Jesus's head. Three languages — Latin, Greek, Hebrew:
+Pilate's inscription was nailed above Jesus's head. Three languages: Latin, Greek, Hebrew:
 
 "JESUS OF NAZARETH, THE KING OF THE JEWS"
 
@@ -136,7 +136,7 @@ The Temple authorities objected. "Don't write 'The King of the Jews.' Write 'He 
 
 "What I have written, I have written."
 
-The crowd pressed closer. "He saved others! Let him save himself!" "Come down from the cross — then we'll believe!"
+The crowd pressed closer. "He saved others! Let him save himself!" "Come down from the cross! Then we'll believe!"
 
 Jesus focused on breathing. Push up on the feet nail. Inhale. Lower down. Each cycle excruciating.
 
@@ -154,11 +154,11 @@ The two criminals flanking him began their own dying. One cursing. One silent.
 
 At noon, darkness fell.
 
-Storm clouds rolling in from the Mediterranean, heavy enough to block the sun. The air thickened, humid and close, smelling of rain and iron. The crowd murmured — omen, divine judgment, fear.
+Storm clouds rolling in from the Mediterranean, heavy enough to block the sun. The air thickened, humid and close, smelling of rain and iron. The crowd murmured: omen, divine judgment, fear.
 
 Marcus lit a small torch to see his tablets.
 
-The two criminals were still conscious. The one on Jesus's left had been cursing since they nailed him up — a steady stream of profanity that had devolved into animal sounds.
+The two criminals were still conscious. The one on Jesus's left had been cursing since they nailed him up, a steady stream of profanity that had devolved into animal sounds.
 
 "Some messiah," he spat between gasps. "Save yourself. Save us."
 
@@ -252,13 +252,13 @@ Joseph of Arimathea approached the soldiers. "I request the body. I have permiss
 
 Joseph and Nicodemus removed the nails carefully — the sound of iron pulling free from wood and bone. They took his body down. Wrapped it in linen. Marcus helped, his hands doing what his mind couldn't process yet. He'd carried dead soldiers before, in Thrace and Pannonia. This was different. The body was lighter than it should have been, and what remained was just the carpenter — calloused hands, a blackened thumbnail, wood dust ground so deep into his knuckles it would never come out.
 
-They carried the body to Joseph's family tomb. Rock-cut, never used. Nicodemus brought spices — myrrh and aloes, seventy-five pounds. A king's burial for a crucified criminal.
+They carried the body to Joseph's family tomb. Rock-cut, never used. Nicodemus brought spices: myrrh and aloes, seventy-five pounds. A king's burial for a crucified criminal.
 
-Women followed. Jesus's mother, leaning on John. Mary Magdalene walking alone, her face the face of someone memorizing everything — the path, the entrance, the stone, the exact position of the body on the shelf.
+Women followed. Jesus's mother, leaning on John. Mary Magdalene walking alone, her face the face of someone memorizing everything, the path, the entrance, the stone, the exact position of the body on the shelf.
 
 They laid him down. Joseph and Nicodemus packed the spices around the linen. Four men rolled the massive stone across the entrance.
 
-Temple guards arrived within the hour. Caiaphas's orders — six men posted to watch a dead man's tomb. They looked embarrassed. They'd get over it.
+Temple guards arrived within the hour. Caiaphas's orders: six men posted to watch a dead man's tomb. They looked embarrassed. They'd get over it.
 
 Marcus left as darkness fell. Sabbath beginning. The air smelled of wet stone and the last smoke from the extinguished torches on Golgotha.
 
@@ -282,7 +282,7 @@ She had watched him die.
 
 The others began leaving as Sabbath approached. Marcus toward his trusted house. John with Jesus's mother.
 
-Mary stood alone outside the sealed tomb. The guards watched her nervously — something in her stillness that unnerved them.
+Mary stood alone outside the sealed tomb. The guards watched her nervously, something in her stillness that unnerved them.
 
 She had held his hands during teaching sessions. Had sat beside him while he turned fishing nets and lamp oil and mustard seeds into lessons. Had argued with him about whether the women should teach separately or alongside the Twelve. Had watched him laugh — actually laugh — when Sarah mispronounced a word and he'd said *that's actually more accurate*.
 

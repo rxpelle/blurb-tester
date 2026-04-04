@@ -22,7 +22,7 @@ Too many people. Refugees flooding in from everywhere, fleeing cities that had b
 
 Mary pressed her hands against her temples, trying to force the vision away. But it wouldn't release. It never did anymore.
 
-The woman physician—*Nefertari*, the name arriving from somewhere deep—moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
+The woman physician—*Nefertari*, the name arriving from somewhere deep, moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
 
 Mary watched—experienced, somehow more than watched—as a queen died in Nefertari's arms. *Tausret.* The name came with the vision. Dead of fever while the ancient world collapsed around them.
 
@@ -52,7 +52,7 @@ Two months ago, Mary had collapsed in the marketplace. Daytime vision, violent a
 
 She'd woken on the ground to find a crowd surrounding her. The baker's wife backing away. A Pharisee muttering about unclean spirits. Her friend Joanna kneeling beside her, frightened.
 
-The whispers had started that day: *Possessed. Seven demons. Madness runs in her family—her mother had it too.* It didn't matter that Mary owned a house and three salting vats and employed a dozen workers. It didn't matter that she'd funded the synagogue's new reading room or kept two widows fed through winter. Wealth couldn't protect you from a community that had decided your illness was spiritual corruption.
+The whispers had started that day: *Possessed. Seven demons. Madness runs in her family, her mother had it too.* It didn't matter that Mary owned a house and three salting vats and employed a dozen workers. It didn't matter that she'd funded the synagogue's new reading room or kept two widows fed through winter. Wealth couldn't protect you from a community that had decided your illness was spiritual corruption.
 
 "Mama?" Sarah's small hand pressed against Mary's jaw, turning her face. "Your hands are shaking."
 
@@ -86,7 +86,7 @@ Sarah was playing near the water's edge, throwing pebbles. Unaware that their wo
 
 Mary sat on the dock and watched her daughter. The salt wind stung her eyes—or maybe that wasn't the wind. She'd tried the exorcists. Twice. Prayers, herbs, salt and oil, invoking divine names. The second time, she'd dreamed Pi-Ramesses burning so vividly she'd woken with the smell of smoke in her hair.
 
-It wasn't possession. She knew that now. It was something inherited, something in the blood—her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
+It wasn't possession. She knew that now. It was something inherited, something in the blood. Her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
 
 She'd asked the synagogue teachers about the city she kept seeing. Described it—grid pattern, four quarters, Nile Delta. The rabbi had looked disturbed. Said Pi-Ramesses was real, abandoned over a thousand years ago. How did a fish-merchant from Magdala know the layout of a city that no longer existed?
 
@@ -116,7 +116,7 @@ She'd heard the name three days earlier—two fishermen in the marketplace talki
 
 His name was Jesus ben Yosef. Carpenter by trade. Simon the fisherman hosted him. Seven miles north along the lake shore.
 
-Mary had spent three days arguing herself out of going. A possessed woman arriving with a three-year-old at a stranger's teaching—the humiliation. He'd call for exorcists. Everyone did.
+Mary had spent three days arguing herself out of going. A possessed woman arriving with a three-year-old at a stranger's teaching. The humiliation. He'd call for exorcists. Everyone did.
 
 But the alternative was Magdala. The emptying warehouse. Neighbors crossing the street. The growing certainty that eventually someone would decide her episodes required something harsher than prayer. She'd heard stories—women beaten to drive out demons, imprisoned for their own protection. A possessed woman with property was a woman whose property the community might decide to redistribute for her own good.
 
@@ -188,7 +188,7 @@ Mary turned the idea over the way she'd turn a contract clause, looking for the 
 
 "You're not possessed."
 
-Her knees went weak. Exorcists and physicians and neighbors who crossed the street — and this carpenter in a borrowed courtyard said it like it was obvious.
+Her knees went weak. Exorcists and physicians and neighbors who crossed the street, and this carpenter in a borrowed courtyard said it like it was obvious.
 
 Sarah stirred against her shoulder. Mary held her daughter and let something loosen in her chest—a knot she'd been carrying so long she'd forgotten it was there.
 
@@ -244,7 +244,7 @@ Simon's wife Anna had taken Sarah without a word—tucked her onto a sleeping ma
 
 Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this—food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
-The twelve men were disciples — network descendants who'd been training with Jesus for a year.
+The twelve men were disciples, network descendants who'd been training with Jesus for a year.
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
@@ -308,7 +308,7 @@ Mary's face hardened.
 
 Peter moved closer, visibly uncomfortable teaching a woman. "When the old memories surface, you name five things in the present. Physical things—what you see, hear, smell. It pulls you back."
 
-He demonstrated—eyes closed, naming the lamp, the table, the fish smell, Sarah sleeping. When he opened his eyes, he shrugged. "Simple. But it works."
+He demonstrated, eyes closed, naming the lamp, the table, the fish smell, Sarah sleeping. When he opened his eyes, he shrugged. "Simple. But it works."
 
 "Try it," Jesus said to Mary.
 

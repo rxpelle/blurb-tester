@@ -18,9 +18,9 @@ Jesus walked it alone.
 
 "Teacher!" A lawyer from Jerusalem caught up, breathing hard. "I've been following your teachings for months. You say 'love your neighbor.' But who is my neighbor?"
 
-Jesus stopped walking. The crowd gathering behind them stopped too — maybe fifty people, some following since Jerusalem, others joining along the way. Marcus was there at the edges, no longer in uniform, his stylus scratching across wax with the cramped, precise hand of a man who'd spent twenty-eight years filing military reports and couldn't stop.
+Jesus stopped walking. The crowd gathering behind them stopped too, maybe fifty people, some following since Jerusalem, others joining along the way. Marcus was there at the edges, no longer in uniform, his stylus scratching across wax with the cramped, precise hand of a man who'd spent twenty-eight years filing military reports and couldn't stop.
 
-"A man was going down from Jerusalem to Jericho," Jesus began. The crowd went quiet. Some sat. Others leaned in — they'd learned that his stories were worth listening to closely.
+"A man was going down from Jerusalem to Jericho," Jesus began. The crowd went quiet. Some sat. Others leaned in. They'd learned that his stories were worth listening to closely.
 
 "He fell among robbers," Jesus continued, "who stripped him and beat him, and departed, leaving him half dead."
 
@@ -44,7 +44,7 @@ The lawyer's mouth worked. He couldn't say "the Samaritan." Couldn't give credit
 
 "Go and do likewise," Jesus said.
 
-The crowd murmured — arguing about Samaritans, about mercy, about who counted as a neighbor.
+The crowd murmured, arguing about Samaritans, about mercy, about who counted as a neighbor.
 
 Marcus's stylus had stopped moving. A Thracian soldier in his century, years ago — wounded in a border skirmish, left by the road because carrying him would have slowed the march. Marcus had walked past. Orders. The man died overnight. Marcus filed the report without noting the name.
 
@@ -54,21 +54,21 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 ## SCENE 2: Mary's Women's Circle
 
-Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time — the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
+Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
 
 Mary gripped her knees. Counted the women again. Twenty-three. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
 
 "Sisters," Mary said, and the courtyard quieted. "Last week we spoke about reading the signs of trouble in the household before violence comes. Who can share what they've practiced?"
 
-Deborah, who managed a household of twelve in Capernaum, raised her hand. "My husband came home drunk. I saw the signs — the stumble, the loud voice before he even crossed the threshold. Instead of confronting him, I had food ready. Spoke quietly. The trouble passed before it began."
+Deborah, who managed a household of twelve in Capernaum, raised her hand. "My husband came home drunk. I saw the signs: the stumble, the loud voice before he even crossed the threshold. Instead of confronting him, I had food ready. Spoke quietly. The trouble passed before it began."
 
 More hands. A younger woman described calming a dispute between merchants at the market gate. Another had interrupted gossip before it reached the ears of the accused.
 
-Small acts. Domestic scale. But this was how it actually worked — a thousand quiet corrections preventing the spark from becoming the fire.
+Small acts. Domestic scale. But this was how it actually worked. A thousand quiet corrections preventing the spark from becoming the fire.
 
 "Now the harder question," Mary said. "What about when the trouble is already there — when you've missed your chance to act early?"
 
-Silence. The harder question always drew silence. These women knew what happened when they acted too late — bruises, broken households, children who learned violence as their first language.
+Silence. The harder question always drew silence. These women knew what happened when they acted too late: bruises, broken households, children who learned violence as their first language.
 
 "We're running out of time," Mary said. "I need each of you to learn how to teach this yourselves. Because within two years, I might not be available."
 
@@ -76,7 +76,7 @@ Silence. The harder question always drew silence. These women knew what happened
 
 "Then take what you have and start with that. Next week, each of you presents a short lesson."
 
-The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head — dark curls, sun-warm. Six years old. Everything Mary was building would pass through this child, or it would be lost.
+The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Six years old. Everything Mary was building would pass through this child, or it would be lost.
 
 ---
 
@@ -94,7 +94,7 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 "Rome isn't going anywhere," Judas said flatly.
 
-The familiar tension. Judas asked this in different forms every few weeks — the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
+The familiar tension. Judas asked this in different forms every few weeks, the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
 
 "So we just accept defeat?" Judas's voice thinned to something raw. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
 
@@ -118,7 +118,7 @@ James spoke for the first time. He'd been sitting with his arms crossed since th
 
 Jesus looked at him for a long time. "I don't have an answer for that yet."
 
-The admission hung in the air. Jesus not having an answer. Simon saw the others register it — Thomas's eyebrows rising, Matthew looking down, Peter shifting uncomfortably.
+The admission hung in the air. Jesus not having an answer. Simon saw the others register it: Thomas's eyebrows rising, Matthew looking down, Peter shifting uncomfortably.
 
 "While we're saying the things nobody says," Peter said. He stared at the fire. "The women's circles. Mary's teaching. The others are talking. They say you've given a *woman* authority over the teaching while the Twelve sit around learning parables."
 
@@ -144,9 +144,9 @@ The new officer was young, clean-shaven, the kind who filed his reports on time 
 
 "A general."
 
-"Without an army. Which makes him worse." The officer drained his cup. "Pilate's building charges. Blasphemy, sedition — whatever the Sanhedrin will sign off on. Twelve months. Maybe eighteen. Faster if the crowds keep growing."
+"Without an army. Which makes him worse." The officer drained his cup. "Pilate's building charges. Blasphemy, sedition, whatever the Sanhedrin will sign off on. Twelve months. Maybe eighteen. Faster if the crowds keep growing."
 
-After the officer left, Marcus sat alone in the tavern noise — dice, arguments, a woman laughing somewhere — and pulled out a roll of papyrus. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
+After the officer left, Marcus sat alone in the tavern noise, dice, arguments, a woman laughing somewhere, and pulled out a roll of papyrus. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
 
 Twenty-eight years of military service, campaigns across three provinces. And it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Marcus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
 

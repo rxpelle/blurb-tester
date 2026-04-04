@@ -14,11 +14,11 @@ Not fever. Not sunlight. Something internal, a heat that lived on the left side 
 
 He felt it strongest at night. Lying on his sleeping mat in the workshop, wood shavings on the packed-earth floor, the smell of cedar and olive oil, an adze and a bow drill and an iron plumb line hanging from pegs his father had driven into the limestone wall before he died, a half-finished yoke clamped to the sycamore workbench — he would feel it spread from his left side across his chest, down his arm, into his fingers. And his left hand would move. Not deliberately. The way a sleeping person shifts toward a body that isn't there, fingers spreading, searching for something his mind couldn't name but his body remembered with absolute specificity: the exact temperature of another person's skin. The pressure of fingers threading through his. The particular architecture of a hand that fit his — not because they were designed for each other, but because twenty years of proximity had worn them into complementary shapes, the way a river wears stone.
 
-He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it as certainly as he knew the collapse patterns and the palace fires and the smell of burning papyrus — through inherited memory so vivid it was indistinguishable from experience.
+He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it as certainly as he knew the collapse patterns and the palace fires and the smell of burning papyrus: through inherited memory so vivid it was indistinguishable from experience.
 
-He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus: three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated — shallow, almost silent, a rhythm so specific he could have identified her in a dark room by the sound of her lungs alone.
+He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus: three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated, shallow, almost silent, a rhythm so specific he could have identified her in a dark room by the sound of her lungs alone.
 
-And he knew him. The way his shoulders dropped when he was thinking — not slouching, settling, like a building finding its foundation. The smell of copper dust and cassia that clung to his clothes. The single tap on the workbench that meant *look at this*, the two taps that meant *start over*, the three that meant *come here*. A whole language built from percussion and proximity. Twenty years of it. A vocabulary more intimate than words.
+And he knew him. The way his shoulders dropped when he was thinking. Not slouching, settling, like a building finding its foundation. The smell of copper dust and cassia that clung to his clothes. The single tap on the workbench that meant *look at this*, the two taps that meant *start over*, the three that meant *come here*. A whole language built from percussion and proximity. Twenty years of it. A vocabulary more intimate than words.
 
 Jesus had never met them. They'd been dead for twelve centuries. And still the memory arrived fresh. Still the hand reached. Still the mispronounced word hung in the air of a workshop that had been dust for a millennium, waiting for a laugh that would never come again. Some mornings he woke with tears on his face and didn't know whose grief he was crying, theirs or his own. The answer, he'd come to understand, was both.
 
@@ -30,9 +30,9 @@ He felt it all.
 
 The first time it happened, he was teaching beside the lake.
 
-Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass. Fishermen's families, mostly — salt-cracked hands, wind-carved faces, clothes that smelled of the morning's catch, children sitting cross-legged in the dirt pulling grass apart while their parents listened. A Roman tax collector's booth was visible on the road below, and beyond it the lake where tarred fishing boats rocked at anchor beside the stone piers of the fish-salting works. Jesus was explaining a parable about seeds falling on different soil, pacing on warm basalt, hands gesturing at the lake and the hills and the terraced fields beyond as if the whole landscape were a text he was reading aloud.
+Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass. Fishermen's families, mostly: salt-cracked hands, wind-carved faces, clothes that smelled of the morning's catch, children sitting cross-legged in the dirt pulling grass apart while their parents listened. A Roman tax collector's booth was visible on the road below, and beyond it the lake where tarred fishing boats rocked at anchor beside the stone piers of the fish-salting works. Jesus was explaining a parable about seeds falling on different soil, pacing on warm basalt, hands gesturing at the lake and the hills and the terraced fields beyond as if the whole landscape were a text he was reading aloud.
 
-He was mid-sentence — something about roots in shallow ground — when it moved.
+He was mid-sentence, something about roots in shallow ground, when it moved.
 
 Not stayed in his chest where it always lived. *Moved.* The way a dam gives. He felt it leave his ribcage, pour through his shoulders and down his arms and out through his palms and the soles of his feet into the stone he stood on, and then *past* him — past the boundary of his skin entirely — expanding outward like heat from a kiln when you open the door, except this wasn't heat, it was something he had no word for, something that had been pooling in his bloodline for generations, rising a little with each life — and now the dam had broken and it was all moving at once.
 
@@ -42,7 +42,7 @@ She was maybe fifty. Fisherman's wife. Hands that had mended nets for thirty yea
 
 Then it touched her.
 
-Her face changed. Not gradually — all at once, the way a landscape changes when clouds break and sunlight falls across it. Something shifted behind her eyes. Her lips parted. Her hand rose to her chest — not to her heart but to her left side, just beneath the ribs — and pressed there as if she'd felt a hand. Her eyes filled and overflowed and she made a sound that was not crying exactly, more like the sound a person makes when they surface after being underwater too long — a gasp, a release, the involuntary noise of a body suddenly filled with something it didn't know it was missing.
+Her face changed. Not gradually — all at once, the way a landscape changes when clouds break and sunlight falls across it. Something shifted behind her eyes. Her lips parted. Her hand rose to her chest — not to her heart but to her left side, just beneath the ribs — and pressed there as if she'd felt a hand. Her eyes filled and overflowed and she made a sound that was not crying exactly, more like the sound a person makes when they surface after being underwater too long: a gasp, a release, the involuntary noise of a body suddenly filled with something it didn't know it was missing.
 
 Her husband turned to her. Opened his mouth to ask what was wrong. And then it reached him too.
 
@@ -68,7 +68,7 @@ Jesus's knees gave — the weight of it buckled him. He sat down on the stone wh
 
 He didn't know how long it lasted. Minutes. Maybe longer. The lake lapped at the shore below. The wind moved through the grass. And forty people sat on a hillside in Galilee and were held inside a love that had been traveling for centuries to reach them.
 
-When it finally settled — not ended, never ended, just returned to the place beneath his ribs where it always lived — the hillside was very quiet.
+When it finally settled — not ended, never ended, just returned to the place beneath his ribs where it always lived. The hillside was very quiet.
 
 A bird called from the scrub near the water. The wind moved through the grass and the grass bent and recovered and bent again. Somewhere down the shore, a boat knocked gently against its mooring. The ordinary sounds of the world continuing, patient, unhurried, as it always continues after the wave passes and leaves everything looking the same while nothing is.
 
@@ -98,7 +98,7 @@ Simon looked at him.
 
 "Try."
 
-Jesus was quiet for a moment. "You know how a well works? Rain falls on the hills. Seeps through rock. Takes years. And one day you lower a bucket and there's water that fell before your grandfather was born." He looked at his hands — carpenter's hands, scarred and calloused. "I think the well overflowed today. And it reached people it was never meant to reach."
+Jesus was quiet for a moment. "You know how a well works? Rain falls on the hills. Seeps through rock. Takes years. And one day you lower a bucket and there's water that fell before your grandfather was born." He looked at his hands, carpenter's hands, scarred and calloused. "I think the well overflowed today. And it reached people it was never meant to reach."
 
 "Forty people," Simon said. "None of them carriers."
 
@@ -120,9 +120,9 @@ Jesus was quiet for a long time. The lake moved against the shore.
 
 Simon said nothing. His hand was on his left side, holding the place where the warmth had touched him.
 
-"Love your neighbor as yourself," Jesus said. And then stopped. Because the words, which he'd been carrying for months as a teaching, as a principle, suddenly felt different in his mouth — less instruction than description of what had happened on the hillside. A name for what the warmth did when it moved through people — dissolved the boundary between self and other, between my grief and your grief, between the love I carry and the love you've been missing. For one moment on that hillside, forty people had loved each other as themselves. Not because they chose to. Because the love chose them.
+"Love your neighbor as yourself," Jesus said. And then stopped. Because the words, which he'd been carrying for months as a teaching, as a principle, suddenly felt different in his mouth: less instruction than description of what had happened on the hillside. A name for what the warmth did when it moved through people, dissolved the boundary between self and other, between my grief and your grief, between the love I carry and the love you've been missing. For one moment on that hillside, forty people had loved each other as themselves. Not because they chose to. Because the love chose them.
 
-He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs — quieter now, settled, but there. Still reaching. Searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to understand as the voice of God.
+He didn't say any of this. He sat with Simon beside the dark water and listened to the lake and felt the warmth beneath his ribs, quieter now, settled, but there. Still reaching. Searching for a rhythm it had lost twelve hundred years ago in a workshop that no longer existed, in a city that had been dust for a millennium, between two people whose names the world had forgotten but whose love the world was about to understand as the voice of God.
 
 ---
 
@@ -134,7 +134,7 @@ He stood in the doorway. The warmth was there, in his chest, where it always was
 
 Jesus closed his eyes. Felt the reaching. Felt the weight of all those generations — every hand that had opened on empty air, every lung that had searched for a missing rhythm, every body that had carried the shape of a love it had never lived. All of it in him. All of it building.
 
-All of it about to spill into the world as teaching, as parable, as the simple radical claim that love was the force beneath everything — beneath systems, beneath empires, beneath the rise and fall of civilizations — and that it had been traveling for a very long time to reach this particular morning, this particular doorway, this particular carpenter standing with his hand extended into empty air. His heart so full of other people's love that his hands shook with it. Knowing it wouldn't break him, because the love had survived everything else — death, exile, empire, a thousand years of silence — and it would survive him too.
+All of it about to spill into the world as teaching, as parable, as the simple radical claim that love was the force beneath everything — beneath systems, beneath empires, beneath the rise and fall of civilizations, and that it had been traveling for a very long time to reach this particular morning, this particular doorway, this particular carpenter standing with his hand extended into empty air. His heart so full of other people's love that his hands shook with it. Knowing it wouldn't break him, because the love had survived everything else — death, exile, empire, a thousand years of silence — and it would survive him too.
 
 He opened his eyes. Lowered his hand. Picked up his tools.
 

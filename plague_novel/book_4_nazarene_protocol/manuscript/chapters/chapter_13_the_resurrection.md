@@ -8,7 +8,7 @@
 
 In Damascus, one hundred twenty miles north, Sarah woke before dawn.
 
-She'd cried for two days — her mother had put her on a cart and said *I have to stay* and Sarah had watched her disappear into the crowd.
+She'd cried for two days. Her mother had put her on a cart and said *I have to stay* and Sarah had watched her disappear into the crowd.
 
 Leah sat beside her sleeping mat. "Your mother is alive. She stayed to witness."
 
@@ -28,7 +28,7 @@ Dawn was approaching. The earth trembled.
 
 Mary Magdalene had not slept in three days.
 
-Her fingers kept losing their grip on the spice jars, rolling them between palms that wouldn't stay still. Three days of lying on borrowed straw, watching shadows crawl across unfamiliar walls. Her eyelids felt like sandpaper. Her mouth tasted of copper and exhaustion. Myrrh, aloe, nard — she'd purchased them the evening after burial and hadn't let go of them since.
+Her fingers kept losing their grip on the spice jars, rolling them between palms that wouldn't stay still. Three days of lying on borrowed straw, watching shadows crawl across unfamiliar walls. Her eyelids felt like sandpaper. Her mouth tasted of copper and exhaustion. Myrrh, aloe, nard. She'd purchased them the evening after burial and hadn't let go of them since.
 
 Joanna and Salome met her before dawn. One look and neither asked.
 
@@ -46,7 +46,7 @@ She approached. The tomb smelled of cold stone and myrrh, the spices Nicodemus h
 
 Empty.
 
-The linen burial cloths lay folded where Jesus's body had been. Face cloth separate, rolled neatly. No body. No blood trail. No signs of struggle. The fabric still held his shape — compressed linen remembering the form it had wrapped.
+The linen burial cloths lay folded where Jesus's body had been. Face cloth separate, rolled neatly. No body. No blood trail. No signs of struggle. The fabric still held his shape, compressed linen remembering the form it had wrapped.
 
 But the form was gone.
 
@@ -80,7 +80,7 @@ The garden was unbearable. Three days inside borrowed rooms staring at walls, an
 
 She wept. Three days of not sleeping. Three days of holding every detail of his death. And now the tomb was empty and she didn't know where they'd put him and the spices were useless and she was alone in a garden that didn't know he was dead.
 
-A man behind her. She didn't look up properly — eyes blurred, dawn light behind him, just a shape against the olive trees.
+A man behind her. She didn't look up properly, eyes blurred, dawn light behind him, just a shape against the olive trees.
 
 "Woman, why are you weeping? Who are you looking for?"
 
@@ -112,7 +112,7 @@ She reached for him.
 
 "How?"
 
-He smiled — the expression so familiar it broke something open in her chest. "Does it matter?"
+He smiled, the expression so familiar it broke something open in her chest. "Does it matter?"
 
 It didn't.
 
@@ -134,7 +134,7 @@ It didn't.
 
 He stepped back into the morning light and was gone. The garden smell intensified as the sun warmed the earth, rosemary and stone and the green tang of crushed grass where she'd knelt.
 
-Mary stood alone. The bird was still singing from the olive tree. The tomb gaped behind her, empty. Dawn had fully broken and the city was waking below — she could hear it, the first carts on stone, the first voices calling.
+Mary stood alone. The bird was still singing from the olive tree. The tomb gaped behind her, empty. Dawn had fully broken and the city was waking below. She could hear it, the first carts on stone, the first voices calling.
 
 She wiped her face. Then ran toward the upper room where twelve men hid behind a locked door, carrying the only message that mattered:
 
@@ -144,7 +144,7 @@ She wiped her face. Then ran toward the upper room where twelve men hid behind a
 
 ## Scene 4: Damascus
 
-Mary Magdalene entered the courtyard at dusk, five days later. Road-worn, thinner. She moved differently — slower, more deliberate.
+Mary Magdalene entered the courtyard at dusk, five days later. Road-worn, thinner. She moved differently, slower, more deliberate.
 
 Sarah ran to her. Mary dropped to her knees and pulled her daughter against her chest and held her and didn't speak.
 
@@ -154,7 +154,7 @@ They sat in the courtyard shade — Sarah pressed against her mother's side, Lea
 
 "I thought he was the gardener," Mary said, and her voice caught. "And then he said my name. Just — *Mary*. And my body knew before my mind did."
 
-She pressed her palm against her left side. "He told me to write it down. Everything he taught me that the others didn't hear." She was quiet a moment. "He warned me — don't let them turn the teaching into rules. Don't let them build a cage out of it. He knew what Peter would build. He said it to me because he knew I'd write it down and they wouldn't."
+She pressed her palm against her left side. "He told me to write it down. Everything he taught me that the others didn't hear." She was quiet a moment. "He warned me: don't let them turn the teaching into rules. Don't let them build a cage out of it. He knew what Peter would build. He said it to me because he knew I'd write it down and they wouldn't."
 
 "Will they listen?"
 

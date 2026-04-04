@@ -12,7 +12,7 @@
 
 Mary woke before dawn without screaming.
 
-Pi-Ramesses flickered behind her eyes — flames licking at mud-brick walls, refugees crushing through gates. Her body tensed for impact that never came. She breathed deep and grounded herself — wool, Sarah's breathing, lake smell — and held steady.
+Pi-Ramesses flickered behind her eyes. Flames licking at mud-brick walls, refugees crushing through gates. Her body tensed for impact that never came. She breathed deep and grounded herself — wool, Sarah's breathing, lake smell — and held steady.
 
 The burning city held steady in memory's corner, observed rather than experienced. Two years of practice. The visions still came each night. But she could hold them without drowning.
 
@@ -24,7 +24,7 @@ She taught forty women weekly now, in the courtyard behind Simon's house. How to
 
 "Mary?"
 
-Jesus stood in the doorway. Two years of steady teaching had weathered him — he looked older than thirty-six, skin drawn tight around his eyes, hands rough from travel.
+Jesus stood in the doorway. Two years of steady teaching had weathered him. He looked older than thirty-six, skin drawn tight around his eyes, hands rough from travel.
 
 "I need to show you something. At Qumran. There's a text I couldn't decode alone two years ago." He paused. "I think you're ready."
 
@@ -32,7 +32,7 @@ Jesus stood in the doorway. Two years of steady teaching had weathered him — h
 
 ## SCENE 2: The Journey
 
-They left at sunrise — Jesus, Mary, Peter, and John. Sarah stayed with Anna.
+They left at sunrise: Jesus, Mary, Peter, and John. Sarah stayed with Anna.
 
 Three days south through Judean wilderness. Sweat stinging, dust coating, each step on loose shale sending stones skittering toward the Dead Sea's blue far below.
 
@@ -50,15 +50,15 @@ They walked the rest of the day without speaking.
 
 ## SCENE 3: The Archive
 
-Qumran in late afternoon — white limestone on a plateau above the Dead Sea, heat rising off the stone in visible waves. Twenty scribes preserving texts they couldn't fully read.
+Qumran in late afternoon. White limestone on a plateau above the Dead Sea, heat rising off the stone in visible waves. Twenty scribes preserving texts they couldn't fully read.
 
-Matthias met them at the gate. Elderly, bent, eyes sharp as flint. He led them through narrow corridors into the scriptorium — dim, cool, shelves lined with pottery jars containing scrolls wrapped in linen. Old parchment and lamp-black ink.
+Matthias met them at the gate. Elderly, bent, eyes sharp as flint. He led them through narrow corridors into the scriptorium: dim, cool, shelves lined with pottery jars containing scrolls wrapped in linen. Old parchment and lamp-black ink.
 
 He retrieved two scrolls and unrolled them with careful reverence.
 
 "Copied from older documents that survived the exile," he said. "I've been studying them for forty years. The scribes think they're prophecy. They're something else."
 
-Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory — not hieroglyphics, something else. Waves and circles and intersecting lines, almost like music notation.
+Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory, not hieroglyphics, something else. Waves and circles and intersecting lines, almost like music notation.
 
 She traced one cluster with her finger, not quite touching the parchment. Heat spread through her fingertips. Her vision split — the scriptorium's cool shadows overlaid with blazing Egyptian sun. Her breath caught, ribs tight.
 
@@ -82,7 +82,7 @@ Mary looked at it. Dense symbol clusters arranged in spirals. Her enhanced visio
 
 "What does it say about what happens after?" Jesus asked. His voice was carefully neutral.
 
-Mary reached for the next cluster. Pain lanced behind her eyes — sharp, sudden, like staring into the sun. She gasped. The symbols scrambled, reformed, scrambled again. She caught fragments: *scattering... west... generations inheriting... keys assembling...* But the details wouldn't hold.
+Mary reached for the next cluster. Pain lanced behind her eyes, sharp, sudden, like staring into the sun. She gasped. The symbols scrambled, reformed, scrambled again. She caught fragments: *scattering... west... generations inheriting... keys assembling...* But the details wouldn't hold.
 
 "I can't read the rest." She pulled her hands back, fingers curling into fists. "It's too dense. Like trying to drink from a river." Blood trickled from her left nostril. She wiped it, stared at the red on her fingers.
 
@@ -94,7 +94,7 @@ Mary reached for the next cluster. Pain lanced behind her eyes — sharp, sudden
 
 She named them through clenched teeth: pottery jar, Matthias's face, smooth wood, old ink, her own breathing. The vision receded. Just present moment. The nosebleed stopped.
 
-But she'd seen enough. The text described a pattern that stretched generations forward — distribution of knowledge so wide that no single catastrophe could destroy it. And at the center of that pattern: Jesus's death. Her survival. A partnership that only worked if one half burned and the other half scattered the ashes.
+But she'd seen enough. The text described a pattern that stretched generations forward: distribution of knowledge so wide that no single catastrophe could destroy it. And at the center of that pattern: Jesus's death. Her survival. A partnership that only worked if one half burned and the other half scattered the ashes.
 
 "It says you die," Mary whispered. "And I carry what's left."
 
@@ -106,7 +106,7 @@ Jesus was quiet for a long time.
 
 Her stomach turned. The clarity was worse than the vision. The logic was flawless.
 
-"Make copies," Jesus told Matthias. "Three sets. Scatter them — Alexandria, Antioch, wherever your networks reach. This archive won't survive what's coming."
+"Make copies," Jesus told Matthias. "Three sets. Scatter them. Alexandria, Antioch, wherever your networks reach. This archive won't survive what's coming."
 
 "How long?" Matthias asked.
 
@@ -126,7 +126,7 @@ That night they camped in the wilderness. Peter and John slept near the fire. Je
 
 "That's not comfort."
 
-"No." Jesus picked up a stone, turned it over. "When the time comes, take Sarah south. Alexandria. The Jewish community there is the largest outside Palestine — a third of the city. Establish teaching communities. Make copies. By the time she has children of her own, the bloodline is stabilized and the knowledge is scattered across enough hands that no single fire can destroy it."
+"No." Jesus picked up a stone, turned it over. "When the time comes, take Sarah south. Alexandria. The Jewish community there is the largest outside Palestine, a third of the city. Establish teaching communities. Make copies. By the time she has children of her own, the bloodline is stabilized and the knowledge is scattered across enough hands that no single fire can destroy it."
 
 Mary thought about Sarah. Five years old now. The math hadn't changed.
 

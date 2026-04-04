@@ -10,17 +10,17 @@
 
 The summons arrived before dawn, when the room still smelled of last night's lamp oil and the cold that crept through Jerusalem's limestone walls in winter.
 
-Marcus Publius Scipio stared at the wooden tablet a courier had thrust beneath his door. Official military seal, pressed in wax — the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
+Marcus Publius Scipio stared at the wooden tablet a courier had thrust beneath his door. Official military seal, pressed in wax, the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
 
 *Consultation. Tenth hour. Headquarters. Attendance mandatory.*
 
 Two months of civilian life in Jerusalem, documenting Jesus's teachings instead of building a case against him. And still the summons found him.
 
-He dressed in civilian wool — no armor, no rank insignia. Wrapped his twenty-three tablets of testimony in oiled cloth and secured them beneath the loose floorboards. If this summons meant arrest, at least the documentation would survive him. Simon knew where to look.
+He dressed in civilian wool. No armor, no rank insignia. Wrapped his twenty-three tablets of testimony in oiled cloth and secured them beneath the loose floorboards. If this summons meant arrest, at least the documentation would survive him. Simon knew where to look.
 
 The walk to headquarters took him through Jerusalem's waking streets. Zealot graffiti near the Temple mount: *Freedom comes at Passover.* Roman patrol passing, six soldiers with hands on sword hilts. A street preacher shouting that the Galilean teacher would drive out the Romans.
 
-The guards at the gate waved him through — once a centurion, always recognizable. Tribune Lucullus waited inside.
+The guards at the gate waved him through. Once a centurion, always recognizable. Tribune Lucullus waited inside.
 
 ---
 
@@ -30,7 +30,7 @@ Old wool and lamp oil. Damp stone walls despite the brazier. Lucullus stood besi
 
 "Sit," Severus said. "You're here for your expertise."
 
-Lucullus moved markers on the map as he spoke — wooden pieces on stretched leather, each one a thousand lives. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris. The markers closed around Galilee like a noose. The brazier popped, sending a coal skittering across the stone floor. Nobody moved to retrieve it.
+Lucullus moved markers on the map as he spoke, wooden pieces on stretched leather, each one a thousand lives. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris. The markers closed around Galilee like a noose. The brazier popped, sending a coal skittering across the stone floor. Nobody moved to retrieve it.
 
 "Our interpreters have been studying the parables," Severus said. "They're carrying something underneath. We don't fully understand it, but the shape is clear. He's building something."
 
@@ -48,7 +48,7 @@ Marcus said nothing. Because that was true.
 
 Severus placed a single black marker on Jerusalem. "Decision from Rome: arrest and execution during Passover. The execution will be public, brutal, and unambiguous."
 
-Marcus's hands went cold. Outside, a rooster crowed — ordinary morning sound, absurdly ordinary — while a man's voice delivered a death sentence like a supply report.
+Marcus's hands went cold. Outside, a rooster crowed. Ordinary morning sound, absurdly ordinary, while a man's voice delivered a death sentence like a supply report.
 
 "Martyrdom," Marcus said.
 
@@ -56,7 +56,7 @@ Marcus's hands went cold. Outside, a rooster crowed — ordinary morning sound, 
 
 Standard procedure wouldn't work. But he couldn't say that.
 
-"We need your help ensuring the movement dies with him," Lucullus said. His voice carried something almost apologetic. "Pension restored. Full honors. You'd retire comfortably — your sister's children in Gaul would be provided for."
+"We need your help ensuring the movement dies with him," Lucullus said. His voice carried something almost apologetic. "Pension restored. Full honors. You'd retire comfortably, your sister's children in Gaul would be provided for."
 
 Marcus thought of his nephew's letters, the careful Latin of a boy who needed schooling. Twenty-eight years of service and this was the lever they'd found.
 
@@ -64,7 +64,7 @@ Marcus thought of his nephew's letters, the careful Latin of a boy who needed sc
 
 "Then you refuse. You have one week."
 
-Marcus walked out into cold sunlight, the echo of the temple horn still hanging over the city. He found Simon at the Siloam Pool tavern three hours early and told him everything — the execution order, the offer to help destroy the network, the week to decide.
+Marcus walked out into cold sunlight, the echo of the temple horn still hanging over the city. He found Simon at the Siloam Pool tavern three hours early and told him everything: the execution order, the offer to help destroy the network, the week to decide.
 
 Simon's hand tightened on his cup but his face stayed flat. "Can you stop it?"
 
@@ -76,7 +76,7 @@ Simon's hand tightened on his cup but his face stayed flat. "Can you stop it?"
 
 "Then be a witness. You're not his savior, Marcus."
 
-"I can't save him." Marcus's voice cracked. His shoulders shook — once, briefly.
+"I can't save him." Marcus's voice cracked. His shoulders shook, once, briefly.
 
 "He doesn't need saving. He needs someone to write down the truth." Simon was quiet a moment. "Jesus said you'd understand. Two years ago, after your first protective report. He said, 'Marcus is learning to think in generations, not months.'"
 
@@ -88,7 +88,7 @@ Marcus dropped his gaze. Generations, not months.
 
 A week later Marcus declined Severus's offer and rode north to Capernaum. Three days through winter-stripped hills, grey and brown under low clouds. The wind carried the smell of wet earth and dead grass, and at night the cold came down so hard the mule's breath hung in clouds and Marcus wrapped his cloak twice around his chest and still felt it in his teeth. He traveled with merchant caravans and listened to their talk — miracle stories, Messianic rumors, a cousin who swore Jesus would drive out the Romans at Passover. The story was already outrunning the man.
 
-He found Jesus teaching in the synagogue at sunset — the last light coming through the narrow window, turning the dust motes gold, the room smelling of sweat and olive oil, and sixty people holding their breath. He waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. Lake water and cooking smoke drifting up from the street. The evening call to prayer from the synagogue below, fading.
+He found Jesus teaching in the synagogue at sunset, the last light coming through the narrow window, turning the dust motes gold, the room smelling of sweat and olive oil, and sixty people holding their breath. He waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. Lake water and cooking smoke drifting up from the street. The evening call to prayer from the synagogue below, fading.
 
 "Passover," Marcus said. "Official. The decision is made."
 
@@ -130,7 +130,7 @@ She was teaching eighty women in the large room — oil lamps guttering in the d
 
 Mary opened her mouth. Nothing came. Eighty faces waiting, and she couldn't remember what she was supposed to say next.
 
-"We'll continue next week," she managed. The women dispersed slowly, exchanging glances. Sarah helped the younger children clean up the pattern stones — seven years old, not yet understanding why her mother couldn't finish the lesson.
+"We'll continue next week," she managed. The women dispersed slowly, exchanging glances. Sarah helped the younger children clean up the pattern stones, seven years old, not yet understanding why her mother couldn't finish the lesson.
 
 When the room was empty except for Leah, the silence crushed in.
 

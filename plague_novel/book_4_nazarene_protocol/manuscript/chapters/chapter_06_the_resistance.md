@@ -12,7 +12,7 @@
 
 Marcus Publius Scipio hated briefings in Jerusalem.
 
-Not because the reports were wrong — Tribune Lucullus maintained the most reliable network of informants Marcus had encountered in twenty-eight years of military service. But because the reports were *right*, and that made everything worse.
+Not because the reports were wrong. Tribune Lucullus maintained the most reliable network of informants Marcus had encountered in twenty-eight years of military service. But because the reports were *right*, and that made everything worse.
 
 "Numbers?" Lucullus asked, not looking up from his wax tablet.
 
@@ -22,7 +22,7 @@ Not because the reports were wrong — Tribune Lucullus maintained the most reli
 
 "Mixed. Galilean peasants, fishermen, some educated scribes. Women—unusual number of women. A core group of maybe twelve men travel with him constantly. Then there's another sixty, maybe eighty who show up consistently wherever he teaches."
 
-Lucullus finally looked up. Lines carved around his eyes that hadn't been there five years ago. The familiar knot tightened between Marcus's shoulder blades — the one that came every time they discussed the carpenter. "And the woman?"
+Lucullus finally looked up. Lines carved around his eyes that hadn't been there five years ago. The familiar knot tightened between Marcus's shoulder blades, the one that came every time they discussed the carpenter. "And the woman?"
 
 "Mary of Magdala. She's with him everywhere now. Leads a separate teaching circle for women. Maybe sixty regular attendees."
 
@@ -54,7 +54,7 @@ Marcus couldn't argue. Rome didn't distinguish between a teacher and a threat. B
 
 "What are our orders?" Marcus asked.
 
-Lucullus leaned back. "Pilate wants options. Arrest and trial is the Temple's preference. Elimination is always available. Turning him — getting him to preach obedience to Rome instead of building his own little kingdom — would be ideal, but your reports suggest he'd refuse."
+Lucullus leaned back. "Pilate wants options. Arrest and trial is the Temple's preference. Elimination is always available. Turning him, getting him to preach obedience to Rome instead of building his own little kingdom, would be ideal, but your reports suggest he'd refuse."
 
 "He'd refuse."
 
@@ -62,7 +62,7 @@ Lucullus leaned back. "Pilate wants options. Arrest and trial is the Temple's pr
 
 Three years of this question. His gut twisted.
 
-"He's not organizing armed resistance. Not calling for tax rebellion. Not challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use —"
+"He's not organizing armed resistance. Not calling for tax rebellion. Not challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use..."
 
 "He's teaching thousands of people to govern themselves," Lucullus interrupted. "To settle disputes, share resources, build communities that don't need our courts or our roads or our grain. That's not common sedition, Scipio. Common sedition we can arrest. This is a province learning to feed itself without us. Harder to crush. More dangerous in the long run."
 
@@ -82,7 +82,7 @@ Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centur
 
 Marcus found Jesus teaching in Solomon's Portico the next morning. Incense from the inner chambers mixed with olive oil from morning sacrifices and the press of unwashed bodies in the colonnade.
 
-Three years of teaching in Galilee — hillsides, lakeshores, places where informants were few. Now he was teaching in the Temple itself, where every word echoed into Roman reports. It felt deliberate.
+Three years of teaching in Galilee: hillsides, lakeshores, places where informants were few. Now he was teaching in the Temple itself, where every word echoed into Roman reports. It felt deliberate.
 
 The crowd was perhaps two hundred. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
 
@@ -124,13 +124,13 @@ Marcus filed that away. Barabbas. Known Zealot recruiter. Temple informants had 
 
 Silence. The crowd had gone completely still.
 
-His heart hammered. The exact collapse trajectory Rome's own analysts predicted — spoken aloud to a crowd in the Temple courts.
+His heart hammered. The exact collapse trajectory Rome's own analysts predicted, spoken aloud to a crowd in the Temple courts.
 
 "You can see this?" Barabbas whispered.
 
 "I can see the pattern. Every time a conquered people tries to overthrow an empire through violence, the empire wins. Not because Rome is righteous. Because empire is *built* for violence. You cannot out-fight the greatest killing machine in human history."
 
-Barabbas's face crumpled. Not disagreement — something worse. The look of a young man watching his hero tell him everything he believed in was poison.
+Barabbas's face crumpled. Not disagreement. Something worse. The look of a young man watching his hero tell him everything he believed in was poison.
 
 "You won't lead us," Barabbas said flatly.
 
@@ -150,9 +150,9 @@ Every report felt like delaying the inevitable.
 
 The man was waiting in Marcus's quarters when he returned that evening.
 
-The room smelled wrong. Marcus's quarters carried the same stale odors every night — lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight something else hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
+The room smelled wrong. Marcus's quarters carried the same stale odors every night: lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight something else hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
 
-Marcus saw him immediately — mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
+Marcus saw him immediately. Mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
 
 "Centurion Scipio." The man stood, offering the courteous nod of social equals. "My name is Matthias. I serve certain interests you know of, though perhaps not this particular faction."
 
@@ -162,7 +162,7 @@ Marcus's hand moved toward his gladius. "How did you get in here?"
 
 Marcus said nothing.
 
-"Your reports are technically accurate — that's what makes them so skillful. But they consistently discourage aggressive response." Matthias smiled. "You've bought him almost three years longer than he would have survived otherwise."
+"Your reports are technically accurate. That's what makes them so skillful. But they consistently discourage aggressive response." Matthias smiled. "You've bought him almost three years longer than he would have survived otherwise."
 
 Marcus drew his gladius. The scrape of iron leaving the scabbard sounded too loud in the small room. "Get out."
 
@@ -196,9 +196,9 @@ He walked to the door, then paused. "For what it's worth — noble effort. Futil
 
 Matthias left.
 
-Marcus dropped onto his bunk, gladius still in hand. The nard smell lingered — rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
+Marcus dropped onto his bunk, gladius still in hand. The nard smell lingered, rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
 
-The lamp had burned low. In its dying light, the walls of his quarters looked like what they were — a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
+The lamp had burned low. In its dying light, the walls of his quarters looked like what they were: a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
 
 He understood the trap. Understanding it didn't mean he could escape it.
 
@@ -206,7 +206,7 @@ He understood the trap. Understanding it didn't mean he could escape it.
 
 ## SCENE 5: Defensive Network Warning
 
-For two days Marcus searched for alternatives. He reviewed Matthias's connections — the man had ties to the Temple, to Herod's court, to Roman administrators Marcus had trusted. The network was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
+For two days Marcus searched for alternatives. He reviewed Matthias's connections. The man had ties to the Temple, to Herod's court, to Roman administrators Marcus had trusted. The network was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
 
 On the third night, with hours remaining before his answer was due, he rode to Capernaum.
 
@@ -300,7 +300,7 @@ His sister's face came to him. The last letter from Gaul: *The boys are growing 
 
 Marcus walked through Jerusalem with his hands at his sides and his knee aching and the strange lightness of a man who has finally stopped carrying something too heavy for one person.
 
-Two days later he found Jesus teaching on a hillside outside Bethany. Smaller crowd than usual — maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
+Two days later he found Jesus teaching on a hillside outside Bethany. Smaller crowd than usual, maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
 
 Jesus was teaching the fig tree parable — when the branch puts out leaves, you know summer is near. When you see certain markers, you know what's coming. What struck Marcus wasn't the teaching. It was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left.
 

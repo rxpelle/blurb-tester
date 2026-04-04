@@ -10,7 +10,7 @@
 
 ## SCENE 1: The Return
 
-Jesus walked the Capernaum road at dawn, six months gone from this place. The wind off the lake carried the smell of rotting fish and wet limestone — the opposite of the burning cities that filled his nights.
+Jesus walked the Capernaum road at dawn, six months gone from this place. The wind off the lake carried the smell of rotting fish and wet limestone, the opposite of the burning cities that filled his nights.
 
 Simon emerged from his courtyard as Jesus approached. Took one look at him. "What happened to you?"
 
@@ -56,15 +56,15 @@ She set Sarah down — nearly four, dark curls, enormous eyes. The child went to
 
 "Tomorrow I'm teaching on the hillside," Jesus said. "Come. Listen to what I say and what I *mean*. If you're right about the structure, you'll hear both layers. If you're wrong, you'll hear a sermon."
 
-Mary's mouth thinned — the expression of a woman who'd been promised explanations before and gotten exorcism prayers instead. "I'll come. But I'm not promising anything."
+Mary's mouth thinned, the expression of a woman who'd been promised explanations before and gotten exorcism prayers instead. "I'll come. But I'm not promising anything."
 
 ---
 
 ## SCENE 2: The Sermon
 
-The hillside above Capernaum reeked of unwashed bodies and morning bread. Near a thousand souls, Simon reckoned — more than he'd ever seen gather for any teacher. Scattered across the slope in family groups, children running between clusters, vendors selling bread and dried fish at the edges. Dust hung in the air, kicked up by shifting feet. Roman soldiers watched from a distance, leaning on their spears.
+The hillside above Capernaum reeked of unwashed bodies and morning bread. Near a thousand souls, Simon reckoned, more than he'd ever seen gather for any teacher. Scattered across the slope in family groups, children running between clusters, vendors selling bread and dried fish at the edges. Dust hung in the air, kicked up by shifting feet. Roman soldiers watched from a distance, leaning on their spears.
 
-Mary sat in the front section. Sarah beside her, arranging pebbles by size in the dirt — the fierce concentration of a child who'd found the only problem worth solving. Mary's eyes were already intense, locked on him before he'd even started speaking.
+Mary sat in the front section. Sarah beside her, arranging pebbles by size in the dirt. The fierce concentration of a child who'd found the only problem worth solving. Mary's eyes were already intense, locked on him before he'd even started speaking.
 
 He climbed to a limestone outcrop. The noise dropped. A thousand people, waiting.
 
@@ -80,19 +80,19 @@ But Mary. Mary's breathing had changed — shallow, rapid, her fingers digging i
 
 "Blessed are the peacemakers," Jesus continued, "for they will be called children of God."
 
-Mary's breath caught. Her hand pressed against her mouth. She was hearing something underneath the words that the crowd around her couldn't hear — the way a musician hears harmony where others hear only melody.
+Mary's breath caught. Her hand pressed against her mouth. She was hearing something underneath the words that the crowd around her couldn't hear. The way a musician hears harmony where others hear only melody.
 
 "You have heard it said, 'An eye for an eye and a tooth for a tooth.' But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also."
 
-Murmurs rippled through the crowd. Some Zealots near the back stood and left, spitting on the ground. Rome slapped them daily — taxation, conscription, arbitrary violence. And this teacher said *don't resist*?
+Murmurs rippled through the crowd. Some Zealots near the back stood and left, spitting on the ground. Rome slapped them daily: taxation, conscription, arbitrary violence. And this teacher said *don't resist*?
 
 "Love your enemies," Jesus said. "Pray for those who persecute you."
 
 The crowd thinned. But Mary was nodding — slowly, deeply, her whole body settling.
 
-He taught for two hours. By the end, perhaps six hundred remained. The rest had drifted away — confused, offended, or bored by teachings that asked them to surrender what felt like strength.
+He taught for two hours. By the end, perhaps six hundred remained. The rest had drifted away, confused, offended, or bored by teachings that asked them to surrender what felt like strength.
 
-Mary hadn't moved. Sarah was sleeping in her lap. Mary's spine was rigid, teeth set — the posture of someone holding herself together.
+Mary hadn't moved. Sarah was sleeping in her lap. Mary's spine was rigid, teeth set. The posture of someone holding herself together.
 
 Jesus descended from the outcrop.
 
@@ -106,11 +106,11 @@ Jesus descended from the outcrop.
 
 A Pharisee near the back of the dispersing crowd turned. "Woman, who taught you to interpret the teacher's words?"
 
-Mary flinched. The old instinct — possession, madness, a community deciding you were broken. But something held. She turned to face him, voice thin at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
+Mary flinched. The old instinct: possession, madness, a community deciding you were broken. But something held. She turned to face him, voice thin at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
 
 Jesus stepped in before the confrontation could harden. "Truth is truth, no matter who finds it. A woman who understands what I'm teaching is more valuable than a man who only hears the surface."
 
-The Pharisee sputtered. But some in the remaining crowd — women mostly, and a few men — had turned to Mary with recognition in their faces. She'd named something they'd felt but couldn't articulate.
+The Pharisee sputtered. But some in the remaining crowd, women mostly and a few men, had turned to Mary with recognition in their faces. She'd named something they'd felt but couldn't articulate.
 
 After the crowd dispersed, Jesus found her standing apart, holding Sarah against her shoulder with one arm and pressing her other hand flat against a stone wall. Grounding herself.
 
@@ -122,7 +122,7 @@ After the crowd dispersed, Jesus found her standing apart, holding Sarah against
 
 ## SCENE 3: First Training
 
-That evening, the Twelve crowded into Simon's main room — a low-ceilinged space that smelled of charcoal and dried fish, winter cold seeping through the stone. Oil lamps threw uneven shadows. Through the gaps in the woven screen, the lake made its night sounds — water on rock, a fishing boat's hull creaking at the dock. No crowds here. No parables. Just the hard material.
+That evening, the Twelve crowded into Simon's main room, a low-ceilinged space that smelled of charcoal and dried fish, winter cold seeping through the stone. Oil lamps threw uneven shadows. Through the gaps in the woven screen, the lake made its night sounds — water on rock, a fishing boat's hull creaking at the dock. No crowds here. No parables. Just the hard material.
 
 Mary sat in the corner with Sarah sleeping against her chest, the child's breath warm on her collarbone.
 
@@ -170,7 +170,7 @@ She was quiet for a long time. Then: "Tomorrow's harder?"
 
 "Every day is harder. Until it isn't."
 
-Mary carried Sarah to the women's quarters. The screaming dreams came that night — two collapses overlaid until she couldn't tell past from future. But the calming practices held.
+Mary carried Sarah to the women's quarters. The screaming dreams came that night, two collapses overlaid until she couldn't tell past from future. But the calming practices held.
 
 The visions receded. Never gone — but manageable.
 

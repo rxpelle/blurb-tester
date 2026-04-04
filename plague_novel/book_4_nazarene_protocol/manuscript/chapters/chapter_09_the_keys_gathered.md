@@ -9,7 +9,7 @@
 
 Jesus had been holding the Pattern Eye since before dawn, and his hands wouldn't stop shaking.
 
-The upper room was cold — summer mornings in Capernaum, the damp kind of cold that settled into stone walls and stayed. His breath clouded. Somewhere below, a woman scraped a cooking pot and a child whined about breakfast. The bronze disc sat heavy in his palms, its geometric patterns catching the first grey light through the window slats.
+The upper room was cold, summer mornings in Capernaum, the damp kind of cold that settled into stone walls and stayed. His breath clouded. Somewhere below, a woman scraped a cooking pot and a child whined about breakfast. The bronze disc sat heavy in his palms, its geometric patterns catching the first grey light through the window slats.
 
 He closed his eyes. The cascade had already begun — hours ago, in the dark — and he'd let it run.
 
@@ -17,7 +17,7 @@ Nefertari's workshop. Not the idea of it. The place itself — bronze cooling on
 
 Jesus opened his eyes. His breath was ragged, his tunic soaked through with sweat despite the cold.
 
-Forty-one generations. He'd counted. From Nefertari's daughter to himself — every single one a carrier. No breaks. No gaps.
+Forty-one generations. He'd counted. From Nefertari's daughter to himself. Every single one a carrier. No breaks. No gaps.
 
 He was the thing she'd theorized and never expected to exist.
 
@@ -27,7 +27,7 @@ He couldn't feel his fingers.
 
 "How long have you been here?"
 
-Mary stood in the doorway. Her hair was loose, her feet bare — she'd heard something and come running. Jesus set the Pattern Eye aside, but his hands fumbled it. The bronze rang against the table.
+Mary stood in the doorway. Her hair was loose, her feet bare. She'd heard something and come running. Jesus set the Pattern Eye aside, but his hands fumbled it. The bronze rang against the table.
 
 "Since before dawn." He wiped his face with his sleeve. "I don't need the keys anymore. I saw the whole thing. The complete structure."
 
@@ -49,11 +49,11 @@ Helena of Alexandria arrived that afternoon with road dust in her hair and a wra
 
 She paused at the threshold. Her eyes moved the way Simon's moved — doorways first, then rooftops, then the crowd. Three seconds. She crossed.
 
-Helena unwrapped the cloth on the table. Two bronze keys — each the length of a man's palm, covered in the same geometric patterns that marked the Pattern Eye.
+Helena unwrapped the cloth on the table. Two bronze keys, each the length of a man's palm, covered in the same geometric patterns that marked the Pattern Eye.
 
 "This is what survived." Helena's voice was flat with exhaustion. "Two keys. The Temple has three locked in their vaults. The last two have been gone since the collapse."
 
-Jesus picked up both keys. His face changed — something moving behind his eyes, deepening, the way a lake goes dark when clouds cross the sun.
+Jesus picked up both keys. His face changed, something moving behind his eyes, deepening, the way a lake goes dark when clouds cross the sun.
 
 "Nine months," Helena said.
 
@@ -77,13 +77,13 @@ Mary's hand moved toward the keys on the table — to wrap them back up, to take
 
 Three days south through Judean wilderness. Dust in their teeth, sun on their necks, the landscape drying from Galilee's green to cracked brown earth. Mary's sandals wore through on the second day and she walked the third on leather scraps Simon had patched with fishing cord.
 
-The caves above Qumran pressed close — walls worn smooth by flash floods and centuries of human hands. Oil lamps threw shadows across rock faces scratched with symbols older than Hebrew. The air was cool and tasted of chalk and something deeper, mineral and ancient, like breathing inside the earth itself.
+The caves above Qumran pressed close: walls worn smooth by flash floods and centuries of human hands. Oil lamps threw shadows across rock faces scratched with symbols older than Hebrew. The air was cool and tasted of chalk and something deeper, mineral and ancient, like breathing inside the earth itself.
 
 Jesus sat on the woven mat. Picked up the first key. Then the second.
 
 The cascade hit.
 
-Sight sharpened — Rome's trajectory laid bare, every crack in the empire visible, every strategy Nefertari had designed for surviving the collapse. How the powerful worked — Caiaphas, Pilate, the Zealots — as readable as weather. As inevitable as seasons.
+Sight sharpened: Rome's trajectory laid bare, every crack in the empire visible, every strategy Nefertari had designed for surviving the collapse. How the powerful worked — Caiaphas, Pilate, the Zealots — as readable as weather. As inevitable as seasons.
 
 Then the trauma.
 
@@ -139,9 +139,9 @@ The razor's edge. Teach enough to preserve the knowledge. Not so clearly that th
 
 Three weeks after Qumran. Jesus taught in the natural amphitheater above Capernaum, and eight thousand came.
 
-The crowd's heat rose off the hillside in waves — bodies packed shoulder to shoulder, children on fathers' necks, the smell of sweat and dust and roasting barley from the vendors at the edges. A woman near Mary fanned herself with a palm frond. Somewhere a baby wailed and was hushed.
+The crowd's heat rose off the hillside in waves, bodies packed shoulder to shoulder, children on fathers' necks, the smell of sweat and dust and roasting barley from the vendors at the edges. A woman near Mary fanned herself with a palm frond. Somewhere a baby wailed and was hushed.
 
-"A farmer went out to sow seeds," Jesus began, and the crowd went still. "Some fell on the path, and birds ate them. Some fell on rocky ground — sprouted fast but withered when the sun got hot, because the roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain — thirty, sixty, a hundred times what was sown."
+"A farmer went out to sow seeds," Jesus began, and the crowd went still. "Some fell on the path, and birds ate them. Some fell on rocky ground. Sprouted fast but withered when the sun got hot, because the roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain — thirty, sixty, a hundred times what was sown."
 
 Sarah tugged Mary's sleeve. "Mama, I can feel the pattern. The stories have two meanings."
 
@@ -153,7 +153,7 @@ That evening, the crowd gone, the hillside quiet except for crickets and the dis
 
 "You can't teach everyone everything in nine months."
 
-"No." He set the bread down. "But I keep thinking — what if the surface layer is enough? What if the parables carry more than I realize, and someone a thousand years from now hears the sower story and understands what I actually meant?"
+"No." He set the bread down. "But I keep thinking: what if the surface layer is enough? What if the parables carry more than I realize, and someone a thousand years from now hears the sower story and understands what I actually meant?"
 
 Mary didn't answer. Because the other possibility — that the meaning would be lost entirely, buried under centuries of people hearing a nice story about farming — was the one that kept her up at night.
 

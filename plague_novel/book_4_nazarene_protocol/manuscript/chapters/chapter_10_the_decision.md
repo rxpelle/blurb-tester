@@ -9,7 +9,7 @@
 
 Rain-washed nets hung from the lakeside racks. Almond blossoms dropping petals in the street. The Galilean spring hadn't warmed yet — mornings still carried winter's edge — and the upper room's thick stone walls held the night's cold, the flagstones like ice beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
 
-Marcus stood in the doorway, breathing hard from the climb — his knee stiff from the cold, breath still visible in the morning air. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Passover."
+Marcus stood in the doorway, breathing hard from the climb, his knee stiff from the cold, breath still visible in the morning air. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Passover."
 
 Outside, a donkey brayed in the market street. A child laughed. The world kept going.
 
@@ -47,7 +47,7 @@ Mary found him on the hillside above Capernaum. Wind carried the scent of olive 
 
 "I refused."
 
-Mary sat beside him, Sarah settling on her other side. Below them, Capernaum spread along the lakeshore — fishing town that had become his base for three years of teaching.
+Mary sat beside him, Sarah settling on her other side. Below them, Capernaum spread along the lakeshore, fishing town that had become his base for three years of teaching.
 
 "Don't," Mary said, her voice tight. "Don't pretend this is pure wisdom when it's also pride, stubbornness, an inability to accept that running might serve the teaching better than dying."
 
@@ -85,7 +85,7 @@ The first stars appeared over the lake. Sarah had fallen asleep against Mary's s
 
 ## SCENE 3: THE RESCUE
 
-Judas arrived at the teaching house two days later. He'd ridden from Jerusalem without sleeping, and it showed — dust in the creases of his face, eyes red-rimmed, the particular intensity of a man running on purpose instead of rest.
+Judas arrived at the teaching house two days later. He'd ridden from Jerusalem without sleeping, and it showed: dust in the creases of his face, eyes red-rimmed, the particular intensity of a man running on purpose instead of rest.
 
 "I have a plan," he said.
 
@@ -99,9 +99,9 @@ Jesus was alone. He'd sent the others to prepare the northern routes. "Sit down,
 
 "The teaching continues as the words of a man who ran."
 
-"The teaching continues *at all*." Judas stopped pacing. His voice dropped. "I've done this seven times. I know what works. You've never been extracted — you don't know how clean it can be."
+"The teaching continues *at all*." Judas stopped pacing. His voice dropped. "I've done this seven times. I know what works. You've never been extracted. You don't know how clean it can be."
 
-Jesus looked at the man he'd trusted for three years. Judas's fists were clenched at his sides — not from anger but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest.
+Jesus looked at the man he'd trusted for three years. Judas's fists were clenched at his sides, not from anger but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest.
 
 "Judas. They know about you."
 
