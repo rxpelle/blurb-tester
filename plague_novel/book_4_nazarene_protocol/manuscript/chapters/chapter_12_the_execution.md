@@ -82,7 +82,7 @@ Jesus carried the crossbeam across his shoulders. Seventy-five pounds of rough-h
 
 Marcus followed thirty paces back, close enough to see the blood trail, far enough to disappear into the crowd if he had to.
 
-Women wailed along the route — the keening rising and falling like something animal, the sound bouncing off the stone walls until it seemed to come from the buildings themselves. Jesus stopped, turned to face them despite the soldiers shoving him forward.
+Women wailed along the route — the keening rising and falling, animal and raw, the sound bouncing off the stone walls until it seemed to come from the buildings themselves. Jesus stopped, turned to face them despite the soldiers shoving him forward.
 
 "Daughters of Jerusalem. Don't weep for me. Weep for yourselves and your children. For the days are coming when they will say, 'Blessed are the barren, blessed are the wombs that never bore.'"
 

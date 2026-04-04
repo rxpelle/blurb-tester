@@ -280,7 +280,7 @@ She had work to do.
 
 ### 64 CE: Peter's Martyrdom
 
-Rome was burning. The sky had been orange for three days, ash drifting through the streets like grey snow, and the air tasted of charcoal and something sweeter underneath — the smell of a city's timber and cloth and stored grain and people all burning together. Nero blamed Christians.
+Rome was burning. The sky had been orange for three days, ash drifting through the streets like grey snow, and the air tasted of charcoal and a sickly sweetness underneath — the smell of a city's timber and cloth and stored grain and people all burning together. Nero blamed Christians.
 
 The cell was damp — cold seeping through stone into his bones. Peter held the Pattern Eye one final time. The bronze was cold. He warmed it between his palms the way he'd once warmed his hands over a charcoal fire in the high priest's courtyard, the night he'd denied knowing Jesus three times. Torchlight from the corridor caught the carved lines. Sixty-eight years old. Fisherman's hands still calloused, still too large for delicate work. Apostle.
 

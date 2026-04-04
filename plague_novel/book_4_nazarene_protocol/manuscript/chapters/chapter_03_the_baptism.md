@@ -30,7 +30,7 @@ But knowing someone was coming and actually seeing them approach were different 
 
 Not entirely true. He'd *avoided* Jesus for fifteen years. Since that afternoon in Jerusalem when they'd compared blood memory—Jesus describing an ancient city as if he'd lived there, every street corner, every building, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse coming, but he didn't *see* the way Jesus saw.
 
-That afternoon had sparked something he wasn't proud of—something that calcified over fifteen years of desert teaching, two hundred baptisms, a community built from nothing. And still the knowledge that his cousin carried more in his blood than John would ever access through practice.
+That afternoon had sparked envy—a bitterness that calcified over fifteen years of desert teaching, two hundred baptisms, a community built from nothing. And still the knowledge that his cousin carried more in his blood than John would ever access through practice.
 
 *Envy.* The word tasted like desert dust.
 
@@ -46,7 +46,7 @@ Jesus reached the baptism site just after midday. The morning crowds had scatter
 
 Jesus walked directly through the noon heat, the kind that turned the limestone white and made the air shimmer above the road, and stopped ten paces from where John stood. The cousins looked at each other.
 
-John saw what he'd expected—the intensity, the focus. But also something new. Exhaustion. Jesus looked like someone pouring himself out before time ran out.
+John saw what he'd expected—the intensity, the focus. But also exhaustion. Jesus looked like someone pouring himself out before time ran out.
 
 "John." Jesus's voice was warm. "It's been too long."
 
@@ -98,7 +98,7 @@ He wasn't sure if that excited or terrified him. Probably both.
 
 Evening crept across the wilderness, the Jordan turning amber as long shadows reached from the western ridges.
 
-Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memory — the Jordan, water closing over his head, something unlocking. The specifics were unclear. The pattern was certain.
+Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memory — the Jordan, water closing over his head, a seal breaking. The specifics were unclear. The pattern was certain.
 
 "Teacher."
 
@@ -142,7 +142,7 @@ The blood memory hit like a wall.
 
 Not fragments this time. Not the brief immersions Mary described or the echoes John experienced. Full immersion — twelve centuries compressed into heartbeats.
 
-Pi-Ramesses. But the vision didn't linger where Mary's lingered. It pushed past the overcrowded city, past Tausret dying, to something deeper.
+Pi-Ramesses. But the vision didn't linger where Mary's lingered. It pushed past the overcrowded city, past Tausret dying, to the root.
 
 *Nefertari in the scribe school.* Eighty-four frightened students. The fever already climbing through her body, and she was still teaching — not medicine, not astronomy, but how civilizations fall. How to spot the warning signs. How to carry what mattered through the burning.
 
@@ -236,7 +236,7 @@ They stood beside the Jordan as full darkness fell.
 
 John stood alone beside the river. The water kept moving. It didn't care about prophecy or bloodlines or two men who'd just agreed to die for an idea. It just moved.
 
-As he turned back toward camp, something caught his eye — a glint among the eastern ridges. Torchlight reflecting off metal. Roman armor, maybe. Or just starlight on limestone.
+As he turned back toward camp, a glint caught his eye — light among the eastern ridges. Torchlight reflecting off metal. Roman armor, maybe. Or just starlight on limestone.
 
 Nothing moved. But the unease didn't leave him, and when he finally walked back to camp, he chose a path that kept him in the shadows.
 

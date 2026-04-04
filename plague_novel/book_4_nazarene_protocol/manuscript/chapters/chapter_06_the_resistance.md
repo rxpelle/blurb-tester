@@ -48,7 +48,7 @@ Marcus knew what Jesus meant. "Current institutions will collapse," not "I'll de
 
 "Then he's drawing men away from the Zealots. That serves our interests."
 
-Lucullus gave him a look that said *you know better than that*. "He's draining the Zealots of recruits while building something that doesn't need swords. Different approach. Same problem for us."
+Lucullus gave him a look that said *you know better than that*. "He's draining the Zealots of recruits while building a movement that doesn't need swords. Different approach. Same problem for us."
 
 Marcus couldn't argue. Rome didn't distinguish between a teacher and a threat. Both looked the same from the Antonia Fortress.
 
@@ -86,7 +86,7 @@ Three years of teaching in Galilee: hillsides, lakeshores, places where informan
 
 The crowd was perhaps two hundred. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
 
-Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But the faces told two stories. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. Hearing something underneath.
+Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But the faces told two stories. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. Hearing the deeper layer.
 
 "I speak in parables," Jesus told a frustrated Pharisee, "so the meaning outlasts the teacher."
 
@@ -106,7 +106,7 @@ Three men pushed through the crowd toward Jesus. Marcus read the body language i
 
 The crowd contracted — parents pulling children closer, a man near the back already moving toward the exit. Dangerous ground. Any hint of rebellion in the Temple courts brought soldiers running.
 
-Jesus looked at the young man with something like sadness. "What is your name?"
+Jesus looked at the young man with sadness. "What is your name?"
 
 "Barabbas."
 
@@ -150,7 +150,7 @@ Every report felt like delaying the inevitable.
 
 The man was waiting in Marcus's quarters when he returned that evening.
 
-The room smelled wrong. Marcus's quarters carried the same stale odors every night: lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight something else hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
+The room smelled wrong. Marcus's quarters carried the same stale odors every night: lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight a foreign scent hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
 
 Marcus saw him immediately. Mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
 
@@ -298,13 +298,13 @@ The street hit him like cold water. No armor. No insignia. No weapon at his hip 
 
 His sister's face came to him. The last letter from Gaul: *The boys are growing fast. Decimus asks about his uncle the centurion.* His nephew would ask about an uncle who was nothing now. No pension. No honors. No farm for the boys. Just a man who'd thrown away twenty-eight years for a carpenter he couldn't save.
 
-Marcus walked through Jerusalem with his hands at his sides and his knee aching and the strange lightness of a man who has finally stopped carrying something too heavy for one person.
+Marcus walked through Jerusalem with his hands at his sides and his knee aching and the strange lightness of a man who has finally stopped carrying a weight too heavy for one person.
 
 Two days later he found Jesus teaching on a hillside outside Bethany. Smaller crowd than usual, maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
 
 Jesus was teaching the fig tree parable — when the branch puts out leaves, you know summer is near. When you see certain markers, you know what's coming. What struck Marcus wasn't the teaching. It was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left.
 
-After the teaching ended, Marcus approached. Jesus looked at him the way he'd looked at Marcus five years ago at the census — not reading his face but reading something behind it.
+After the teaching ended, Marcus approached. Jesus looked at him the way he'd looked at Marcus five years ago at the census — not reading his face but reading what lay behind it.
 
 "Simon said you needed witnesses."
 

@@ -22,7 +22,7 @@ Simon emerged from his courtyard as Jesus approached. Took one look at him. "Wha
 
 Simon's face gave nothing away. Then he stepped back, held the gate open. "The Twelve are inside. And the woman from Magdala — Mary. She stayed." He rubbed the back of his neck. "She's been sitting in on our discussions. I hope that's — she hears things in your teaching that take the rest of us months to grasp."
 
-Jesus paused at the doorway. Inside, he could hear male voices — the disciples arguing. And underneath, quieter: a woman's voice, singing to a child. The melody was old. Network old. Passed down through families who didn't know why they sang it, only that it calmed something in the blood.
+Jesus paused at the doorway. Inside, he could hear male voices — the disciples arguing. And underneath, quieter: a woman's voice, singing to a child. The melody was old. Network old. Passed down through families who didn't know why they sang it, only that it calmed the blood.
 
 "She's ready for the next phase," Jesus said. "She's not just a carrier, Simon. She's a teacher. And after what I saw at the Jordan, I need her."
 
@@ -42,7 +42,7 @@ Peter, practical as always: "Then what do we do? Today. Tomorrow."
 
 Mary appeared in the doorway, Sarah on her hip.
 
-She'd changed. Six months ago she couldn't finish a sentence without flinching at something no one else could see. Now she stood straight-backed in worn blue linen, her eyes steady — not calm, exactly, but controlled. The look of someone who'd learned to watch her own mind the way you watch a fire: carefully, from a safe distance.
+She'd changed. Six months ago she couldn't finish a sentence without flinching at visions no one else could see. Now she stood straight-backed in worn blue linen, her eyes steady — not calm, exactly, but controlled. The look of someone who'd learned to watch her own mind the way you watch a fire: carefully, from a safe distance.
 
 "You're back," she said. Not a question.
 
@@ -80,7 +80,7 @@ But Mary. Mary's breathing had changed — shallow, rapid, her fingers digging i
 
 "Blessed are the peacemakers," Jesus continued, "for they will be called children of God."
 
-Mary's breath caught. Her hand pressed against her mouth. She was hearing something underneath the words that the crowd around her couldn't hear. The way a musician hears harmony where others hear only melody.
+Mary's breath caught. Her hand pressed against her mouth. She was hearing the structure underneath the words that the crowd around her couldn't hear. The way a musician hears harmony where others hear only melody.
 
 "You have heard it said, 'An eye for an eye and a tooth for a tooth.' But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also."
 
@@ -98,7 +98,7 @@ Jesus descended from the outcrop.
 
 "You heard it," he said.
 
-"I don't know." Her voice was unsteady. "I heard — something. Underneath. But I can't tell if it's real or if I'm projecting. The visions do that. They make me see patterns everywhere. In market prices. In weather. In your words." She exhaled hard through her nose. "Peacemaking. That's not just virtue. It interrupts escalation — the same escalation I see in the visions. But maybe I'm just—"
+"I don't know." Her voice was unsteady. "I heard — structure. Underneath. But I can't tell if it's real or if I'm projecting. The visions do that. They make me see patterns everywhere. In market prices. In weather. In your words." She exhaled hard through her nose. "Peacemaking. That's not just virtue. It interrupts escalation — the same escalation I see in the visions. But maybe I'm just—"
 
 "Say it."
 
@@ -106,11 +106,11 @@ Jesus descended from the outcrop.
 
 A Pharisee near the back of the dispersing crowd turned. "Woman, who taught you to interpret the teacher's words?"
 
-Mary flinched. The old instinct: possession, madness, a community deciding you were broken. But something held. She turned to face him, voice thin at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
+Mary flinched. The old instinct: possession, madness, a community deciding you were broken. But her spine held. She turned to face him, voice thin at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
 
 Jesus stepped in before the confrontation could harden. "Truth is truth, no matter who finds it. A woman who understands what I'm teaching is more valuable than a man who only hears the surface."
 
-The Pharisee sputtered. But some in the remaining crowd, women mostly and a few men, had turned to Mary with recognition in their faces. She'd named something they'd felt but couldn't articulate.
+The Pharisee sputtered. But some in the remaining crowd, women mostly and a few men, had turned to Mary with recognition in their faces. She'd named what they'd felt but couldn't articulate.
 
 After the crowd dispersed, Jesus found her standing apart, holding Sarah against her shoulder with one arm and pressing her other hand flat against a stone wall. Grounding herself.
 

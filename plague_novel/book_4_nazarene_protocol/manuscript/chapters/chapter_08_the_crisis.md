@@ -32,7 +32,7 @@ Old wool and lamp oil. Damp stone walls despite the brazier. Lucullus stood besi
 
 Lucullus moved markers on the map as he spoke, wooden pieces on stretched leather, each one a thousand lives. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris. The markers closed around Galilee like a noose. The brazier popped, sending a coal skittering across the stone floor. Nobody moved to retrieve it.
 
-"Our interpreters have been studying the parables," Severus said. "They're carrying something underneath. We don't fully understand it, but the shape is clear. He's building something."
+"Our interpreters have been studying the parables," Severus said. "They're carrying a second meaning underneath. We don't fully understand it, but the shape is clear. He's building a structure."
 
 Breathe. They'd noticed the deeper layer.
 
@@ -56,7 +56,7 @@ Marcus's hands went cold. Outside, a rooster crowed. Ordinary morning sound, abs
 
 Standard procedure wouldn't work. But he couldn't say that.
 
-"We need your help ensuring the movement dies with him," Lucullus said. His voice carried something almost apologetic. "Pension restored. Full honors. You'd retire comfortably, your sister's children in Gaul would be provided for."
+"We need your help ensuring the movement dies with him," Lucullus said. His voice carried a note of apology. "Pension restored. Full honors. You'd retire comfortably, your sister's children in Gaul would be provided for."
 
 Marcus thought of his nephew's letters, the careful Latin of a boy who needed schooling. Twenty-eight years of service and this was the lever they'd found.
 
@@ -114,7 +114,7 @@ The room was dark now.
 
 "You're writing for them, Marcus," Jesus said from the doorway. "Not for us."
 
-He left. Marcus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and something in his chest answered it — the dead boy at Carnuntum, the census table in Nazareth, the same story every time. Open hands. A system that devoured what it couldn't control. And Marcus writing it down instead of stopping it, because stopping it was never an option.
+He left. Marcus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and grief in his chest answered it — the dead boy at Carnuntum, the census table in Nazareth, the same story every time. Open hands. A system that devoured what it couldn't control. And Marcus writing it down instead of stopping it, because stopping it was never an option.
 
 The singing stopped. A child murmured. Then silence, and the sound of Marcus's own breathing in a room that smelled of lake water and bread and the absence of the man who'd just walked out.
 

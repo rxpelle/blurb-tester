@@ -96,7 +96,7 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 The familiar tension. Judas asked this in different forms every few weeks, the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
 
-"So we just accept defeat?" Judas's voice thinned to something raw. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
+"So we just accept defeat?" Judas's voice thinned to a rasp. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
 
 Jesus emerged from the darkness beyond the firelight. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
@@ -114,7 +114,7 @@ James spoke for the first time. He'd been sitting with his arms crossed since th
 
 "And if I stop one burning?" Jesus's voice was quiet. "They burn two more to make the example."
 
-"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's face was hard. "Not violence. But something harder than stories."
+"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's face was hard. "Not violence. But resistance harder than stories."
 
 Jesus looked at him for a long time. "I don't have an answer for that yet."
 
@@ -130,7 +130,7 @@ The admission hung in the air. Jesus not having an answer. Simon saw the others 
 
 Peter's mouth compressed. He didn't argue further. But he didn't nod either. Peter accepting what he couldn't change. That wasn't the same as agreeing.
 
-Judas was still out in the darkness somewhere. James still had his arms crossed. Peter stared into the fire with the face of a man swallowing something that wouldn't go down.
+Judas was still out in the darkness somewhere. James still had his arms crossed. Peter stared into the fire with the face of a man swallowing a stone that wouldn't go down.
 
 Simon watched the fractures spread and said nothing, because he didn't know how to fix them and neither did Jesus and that was the thing nobody wanted to say out loud.
 

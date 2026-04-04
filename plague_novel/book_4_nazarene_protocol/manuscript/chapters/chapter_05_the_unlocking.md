@@ -20,7 +20,7 @@ She dressed quietly. Sarah — five years old now — had arranged her sleeping 
 
 Outside, Capernaum stirred in predawn grey. Mary saw what she hadn't been able to see before her training: Roman soldiers demanding more taxes each year. Temple priests taking bigger cuts. Young men disappearing into the hills. The same pattern she'd watched burn Pi-Ramesses — pressure building until it exploded.
 
-She taught forty women weekly now, in the courtyard behind Simon's house. How to recognize when anger was building toward something worse. How to step in early, before fists or knives. Most couldn't access blood memory directly. But they could learn the practices.
+She taught forty women weekly now, in the courtyard behind Simon's house. How to recognize when anger was building toward violence. How to step in early, before fists or knives. Most couldn't access blood memory directly. But they could learn the practices.
 
 "Mary?"
 
@@ -56,13 +56,13 @@ Matthias met them at the gate. Elderly, bent, eyes sharp as flint. He led them t
 
 He retrieved two scrolls and unrolled them with careful reverence.
 
-"Copied from older documents that survived the exile," he said. "I've been studying them for forty years. The scribes think they're prophecy. They're something else."
+"Copied from older documents that survived the exile," he said. "I've been studying them for forty years. The scribes think they're prophecy. They're instruction."
 
-Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory, not hieroglyphics, something else. Waves and circles and intersecting lines, almost like music notation.
+Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory, not hieroglyphics, older. Waves and circles and intersecting lines, almost like music notation.
 
 She traced one cluster with her finger, not quite touching the parchment. Heat spread through her fingertips. Her vision split — the scriptorium's cool shadows overlaid with blazing Egyptian sun. Her breath caught, ribs tight.
 
-The symbols shifted, resolving into something almost familiar. Like a half-remembered language rising from deep water.
+The symbols shifted, resolving into near-recognition. Like a half-remembered language rising from deep water.
 
 "I don't just see Pi-Ramesses falling," she heard herself say, the words coming unbidden. She blinked, the vision strengthening. "I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same thing, every time."
 
@@ -120,7 +120,7 @@ Matthias began rolling the scrolls, fumbling the edges twice before getting them
 
 That night they camped in the wilderness. Peter and John slept near the fire. Jesus and Mary sat apart, looking at stars.
 
-"I wake up terrified," Mary said. Her voice was steady but her fingers dug into the desert sand. "Of failing. What if I forget something that matters? What if Sarah dies in the scattering because I didn't prepare her properly?"
+"I wake up terrified," Mary said. Her voice was steady but her fingers dug into the desert sand. "Of failing. What if I forget a detail that matters? What if Sarah dies in the scattering because I didn't prepare her properly?"
 
 "That fear is what will make you thorough."
 

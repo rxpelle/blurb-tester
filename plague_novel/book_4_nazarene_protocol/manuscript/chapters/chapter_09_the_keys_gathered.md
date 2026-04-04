@@ -27,7 +27,7 @@ He couldn't feel his fingers.
 
 "How long have you been here?"
 
-Mary stood in the doorway. Her hair was loose, her feet bare. She'd heard something and come running. Jesus set the Pattern Eye aside, but his hands fumbled it. The bronze rang against the table.
+Mary stood in the doorway. Her hair was loose, her feet bare. She'd heard him cry out and come running. Jesus set the Pattern Eye aside, but his hands fumbled it. The bronze rang against the table.
 
 "Since before dawn." He wiped his face with his sleeve. "I don't need the keys anymore. I saw the whole thing. The complete structure."
 
@@ -53,7 +53,7 @@ Helena unwrapped the cloth on the table. Two bronze keys, each the length of a m
 
 "This is what survived." Helena's voice was flat with exhaustion. "Two keys. The Temple has three locked in their vaults. The last two have been gone since the collapse."
 
-Jesus picked up both keys. His face changed, something moving behind his eyes, deepening, the way a lake goes dark when clouds cross the sun.
+Jesus picked up both keys. His face changed, his eyes deepening, the way a lake goes dark when clouds cross the sun.
 
 "Nine months," Helena said.
 
@@ -69,7 +69,7 @@ After Helena left, Mary said: "You didn't tell her about keyless access."
 
 "Nine months to encode everything. I need every advantage I can get."
 
-Mary's hand moved toward the keys on the table — to wrap them back up, to take them, to do something other than watch him walk further into the thing that would kill him. She stopped herself. "Qumran in three days. I'll arrange for Sarah to stay with Leah."
+Mary's hand moved toward the keys on the table — to wrap them back up, to take them, to do anything other than watch him walk further into the thing that would kill him. She stopped herself. "Qumran in three days. I'll arrange for Sarah to stay with Leah."
 
 ---
 
@@ -77,7 +77,7 @@ Mary's hand moved toward the keys on the table — to wrap them back up, to take
 
 Three days south through Judean wilderness. Dust in their teeth, sun on their necks, the landscape drying from Galilee's green to cracked brown earth. Mary's sandals wore through on the second day and she walked the third on leather scraps Simon had patched with fishing cord.
 
-The caves above Qumran pressed close: walls worn smooth by flash floods and centuries of human hands. Oil lamps threw shadows across rock faces scratched with symbols older than Hebrew. The air was cool and tasted of chalk and something deeper, mineral and ancient, like breathing inside the earth itself.
+The caves above Qumran pressed close: walls worn smooth by flash floods and centuries of human hands. Oil lamps threw shadows across rock faces scratched with symbols older than Hebrew. The air was cool and tasted of chalk and bedrock, mineral and ancient, like breathing inside the earth itself.
 
 Jesus sat on the woven mat. Picked up the first key. Then the second.
 

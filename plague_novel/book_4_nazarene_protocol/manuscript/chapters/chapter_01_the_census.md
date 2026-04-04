@@ -132,7 +132,7 @@ His scribe looked surprised but didn't argue. When Lucius was out of earshot, Ma
 
 Most people couldn't answer past their grandfathers. Beyond that, memory blurred into tribal legend.
 
-Jesus's expression didn't change, but something shifted behind his eyes. A gate closing. "Why would a Roman census-taker care about genealogy beyond taxation purposes?"
+Jesus's expression didn't change, but his eyes shifted. A gate closing. "Why would a Roman census-taker care about genealogy beyond taxation purposes?"
 
 "Curiosity."
 
@@ -190,7 +190,7 @@ Marcus stared at him. The man wasn't calm. He was terrified and doing it anyway�
 
 "I still have to report you."
 
-"Then report me." He turned to leave, then stopped. His shoulders rose and fell with a breath that cost him something. "But you've seen the pattern too, centurion. You know how this ends. Rome will handle me wrong. They always handle it wrong. I had to try anyway."
+"Then report me." He turned to leave, then stopped. His shoulders rose and fell with a breath that cost him. "But you've seen the pattern too, centurion. You know how this ends. Rome will handle me wrong. They always handle it wrong. I had to try anyway."
 
 He walked back into the line of waiting families. Just another carpenter. Nobody looked twice.
 
@@ -246,7 +246,7 @@ Three weeks later, Marcus received a summons to Caesarea.
 
 Military intelligence headquarters. Not the census offices.
 
-Someone had noticed something.
+Someone had noticed.
 
 Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
 
@@ -268,7 +268,7 @@ Marcus met his eyes. "He teaches people to put down their swords. That's fewer Z
 
 "Short-term." Lucullus's voice hardened. "These families have been hiding knowledge since before Rome existed. They survived Egypt. They survived Babylon. They don't need us, and they're teaching others not to need us either." He leaned back. "I don't care if this carpenter calms the Zealots today. A province that can feed itself, govern itself, pass its own wisdom to its children without Roman schools or Roman gods—that's a threat no legion can answer."
 
-Marcus tasted something metallic at the back of his throat. Germania — the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Lucullus was saying it plainly now. A province that didn't need Rome was a province Rome couldn't allow.
+Marcus tasted metal at the back of his throat. Germania — the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Lucullus was saying it plainly now. A province that didn't need Rome was a province Rome couldn't allow.
 
 "What are your orders, sir?" Marcus kept his voice level.
 
@@ -292,7 +292,7 @@ Simon had been right about one thing: a quiet lie was safer than a loud omission
 
 He found Jesus teaching a crowd of maybe two hundred on a hillside overlooking the lake. Late afternoon light made the water look like hammered bronze. Marcus dismounted at a distance, pulled out his wax tablet, and began writing the version of events that would keep this man alive a little longer.
 
-Then his trained eye caught something else. A woman at the edge of the gathering—not listening the way the others listened. She stood apart, arms wrapped around herself as if holding something in, and she was watching Jesus the way Marcus had watched him at the census table—the same still, measuring look of someone who recognized what she was seeing.
+Then his trained eye caught a second figure. A woman at the edge of the gathering—not listening the way the others listened. She stood apart, arms wrapped around herself as if holding herself together, and she was watching Jesus the way Marcus had watched him at the census table—the same still, measuring look of someone who recognized what she was seeing.
 
 Another carrier.
 
