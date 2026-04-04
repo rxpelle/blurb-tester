@@ -163,7 +163,7 @@ They were running out of time.
 
 **Keys Status:**
 - Living Key (Key 1): Jesus (present) ✅
-- Pattern Eye (Key 2): Found by Mary in Byblos, integrated into training ✅
+- Pattern Eye (Key 2): Located (recovered offscreen between Ch 5-9, held by Jesus by Ch 9) ✅
 - Memory Bridge (Key 3): Still lost ✅
 - Distribution Network (Key 4): Fragmentary but rebuilding ✅
 

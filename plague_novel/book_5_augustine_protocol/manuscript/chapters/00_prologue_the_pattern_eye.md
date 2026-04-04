@@ -34,7 +34,7 @@ Outside, the army was making noise. Hammers on metal. Horses. The grinding machi
 
 She pulled papyrus toward her. Dipped her stylus.
 
-She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 48 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs.
+She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 49 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs.
 
 The instructions were the same in each letter. The same instructions that had been passed from Nefertari to her students, from Jesus to Mary, from Mary to Sarah, from Sarah to every generation after:
 

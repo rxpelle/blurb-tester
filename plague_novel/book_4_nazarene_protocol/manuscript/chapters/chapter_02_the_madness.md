@@ -114,7 +114,7 @@ She'd heard the name three days earlier—two fishermen in the marketplace talki
 
 *Hidden threads.* Mary had nearly dropped her bread.
 
-His name was Jesus ben Yosef. Carpenter by trade. Simon the fisherman hosted him. Eight miles north along the lake shore.
+His name was Jesus ben Yosef. Carpenter by trade. Simon the fisherman hosted him. Seven miles north along the lake shore.
 
 Mary had spent three days arguing herself out of going. A possessed woman arriving with a three-year-old at a stranger's teaching—the humiliation. He'd call for exorcists. Everyone did.
 

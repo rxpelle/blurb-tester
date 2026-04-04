@@ -10,7 +10,7 @@
 
 The summons arrived before dawn, when the room still smelled of last night's lamp oil and the cold that crept through Jerusalem's limestone walls in winter.
 
-Marcus Publius Scipio stared at the wooden tablet a courier had thrust beneath his door. Official military seal, pressed in red wax — the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
+Marcus Publius Scipio stared at the wooden tablet a courier had thrust beneath his door. Official military seal, pressed in wax — the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
 
 *Consultation. Tenth hour. Headquarters. Attendance mandatory.*
 
@@ -26,7 +26,7 @@ The guards at the gate waved him through — once a centurion, always recognizab
 
 ## SCENE 2: THE INTELLIGENCE BRIEFING
 
-Old wool and lamp oil. Damp stone walls despite the brazier. Lucullus stood beside a map table, and next to him — Marcus's stomach tightened — Pilate's deputy prefect, Gaius Severus.
+Old wool and lamp oil. Damp stone walls despite the brazier. Lucullus stood beside a map table, and next to him — Marcus's stomach tightened — Pilate's senior tribune, Gaius Severus.
 
 "Sit," Severus said. "You're here for your expertise."
 
