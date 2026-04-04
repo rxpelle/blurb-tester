@@ -278,7 +278,7 @@ Surveillance. Not elimination. Yet.
 
 "And Scipio—" Lucullus's voice dropped, conversational now, which was worse. "If you're network-affiliated yourself, declare it now. Concealment is grounds for discharge and prosecution."
 
-Marcus felt the boy at Carnuntum again—the raised hands, the open palms. The moment before Marcus had done what was expected of him.
+The boy at Carnuntum flashed behind his eyes again—the raised hands, the open palms. The moment before Marcus had done what was expected of him.
 
 "I'm not network-affiliated, sir."
 

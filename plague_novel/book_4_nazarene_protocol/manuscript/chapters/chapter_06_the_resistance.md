@@ -142,7 +142,7 @@ The teaching session ended shortly after. The crowd dispersed slowly, people pro
 
 Marcus walked back toward the Antonia Fortress, composing another careful report. Another month bought. Maybe two.
 
-Every report felt like delaying the inevitable.
+Every report was delaying the inevitable.
 
 ---
 

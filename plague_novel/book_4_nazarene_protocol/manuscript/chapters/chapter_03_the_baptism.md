@@ -110,7 +110,7 @@ John stood at the pool's edge with six of his core students. Not a crowd. Just w
 
 "Jesus ben Yosef." John's voice shifted. Formal now, ancient, channeling words older than himself. "You come seeking baptism. Do you understand what the water asks?"
 
-Jesus had heard these words performed for others. Standing here receiving them, they felt heavier than he'd expected.
+Jesus had heard these words performed for others. Standing here receiving them, they landed heavier than he'd expected.
 
 "I understand," he replied. "The water flows through generations. I submit to that flow."
 
@@ -156,7 +156,7 @@ The vision accelerated. Fragments — eighty-four students scattering west. Know
 
 Then his own face. Teaching on a hillside. A Roman officer, auxiliary cavalry, Syro-Phoenician by his armor, watching from the back of a crowd, his stylus frozen over a wax tablet.
 
-A hill outside Jerusalem. A cross. His body on the wood. He felt — not fear. Recognition.
+A hill outside Jerusalem. A cross. His body on the wood. Not fear. Recognition.
 
 One final image before the vision released: a bronze disc, wide as two hands laid side by side. Covered in symbols that weren't quite Egyptian. Pulsing warm. Hidden somewhere along the Phoenician coast, buried since the collapse.
 
@@ -210,7 +210,7 @@ John followed him out of the water. The six witness students were staring. Jesus
 
 "Six months. Leave your senior students in charge. If you don't find it, you come back."
 
-John looked at the wilderness he'd made his home. Sun and stone and hard teaching. Leaving felt like betrayal. But he'd watched Jesus stop breathing under that water, seen the rigid certainty in his face when he surfaced.
+John looked at the wilderness he'd made his home. Sun and stone and hard teaching. Leaving tasted like betrayal. But he'd watched Jesus stop breathing under that water, seen the rigid certainty in his face when he surfaced.
 
 "After summer," he said. "Six months. Not a day more."
 

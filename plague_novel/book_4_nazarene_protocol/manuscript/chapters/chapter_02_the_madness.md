@@ -60,7 +60,7 @@ Mary unclenched her fists. "Just tired, sweet one. Let's get breakfast. Then you
 
 If Joanna would still let Sarah near her children. Mary wasn't certain anymore. The demon-possession rumors were spreading. Even families who'd accepted her charity were keeping distance now.
 
-Mary stood, joints protesting. Twenty-eight years old but her body felt ancient. The episodes were exhausting—not physically, but they drained her vitality. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
+Mary stood, joints protesting. Twenty-eight years old but her body moved like something ancient. The episodes were exhausting—not physically, but they drained her vitality. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
 
 She dressed Sarah, then herself. Good linen, dyed the deep blue that marked her former prosperity. Mary's father, having no sons, had trained his daughter in the business before his death—three salting vats, a stone warehouse near the harbor, contracts with fishing crews along the northern shore. She'd expanded the operation through her cousin Levi, who served as her public face with merchants, though everyone in Magdala knew Mary made the real decisions. She'd negotiated contracts as far as Damascus and Jerusalem. Magdala—*Tarichaea*, the Romans called it, the place of salted fish—was prosperous, and Mary had been one of its more successful merchants.
 
@@ -122,7 +122,7 @@ But the alternative was Magdala. The emptying warehouse. Neighbors crossing the 
 
 "Will he understand why you scream at night?"
 
-Mary felt her throat tighten. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until her breathing slowed.
+Mary's throat tightened. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until her breathing slowed.
 
 "I hope so, little one. I really hope so."
 
@@ -190,7 +190,7 @@ Mary turned the idea over the way she'd turn a contract clause, looking for the 
 
 Her knees went weak. Exorcists and physicians and neighbors who crossed the street, and this carpenter in a borrowed courtyard said it like it was obvious.
 
-Sarah stirred against her shoulder. Mary held her daughter and felt a knot loosen in her chest—a knot she'd been carrying so long she'd forgotten it was there.
+Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest—a knot she'd been carrying so long she'd forgotten it was there.
 
 "Can you make it stop?" she asked when she could speak.
 
@@ -260,7 +260,7 @@ Silence. Peter's mouth compressed into a thin line. He didn't argue further—yo
 
 Jesus turned to Mary. "Tell them what you've been seeing. Don't filter it. Just describe the visions."
 
-Mary hesitated. She'd never described the visions to anyone who didn't immediately reach for prayer oil. Speaking about them openly felt dangerous.
+Mary hesitated. She'd never described the visions to anyone who didn't immediately reach for prayer oil. Speaking about them openly was dangerous.
 
 But these men claimed to understand. Jesus claimed to see the same things.
 
