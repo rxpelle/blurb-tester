@@ -36,7 +36,7 @@ Near the teaching platform, Mary stood with Sarah. Eight years old and holding h
 
 Jesus climbed the platform. Still. The way he'd been still for months now, a man walking a road he could already see the end of.
 
-The teaching began.
+Teaching began.
 
 "A certain man planted a vineyard," Jesus's voice carried across the festival gathering. Fifteen thousand pilgrims quieted. "He rented it to tenants and went on a journey for a long time."
 
@@ -136,7 +136,7 @@ Jesus looked at him — the fisherman who'd dropped his nets three years ago and
 
 Peter's face went dark. "I would *never* —"
 
-The other disciples murmured agreement.
+Around the table, the other disciples murmured agreement.
 
 He turned to Mary, who'd been silent through the entire meal.
 
@@ -154,7 +154,7 @@ Three more minutes. Maybe four.
 
 Jesus stood. "Rise, let us go. See, my betrayer is at hand."
 
-The disciples looked confused. Judas wasn't back yet. Who was betraying?
+Confused looks passed between the disciples. Judas wasn't back yet. Who was betraying?
 
 Then the door burst open.
 
@@ -180,9 +180,9 @@ Jesus emerged from the upper room, disciples behind him. Mary and Sarah already 
 
 Judas approached, committed to the role. "Greetings, Rabbi." He kissed Jesus on the cheek.
 
-The signal given.
+Signal given.
 
-The bribed guards should move now. Create confusion. Begin the rescue.
+Bribed guards should move now. Create confusion. Begin the rescue.
 
 Instead, different guards moved. Ones Judas didn't recognize. His chest went cold. Extra forces: a dozen men stepping from the shadows of the adjacent buildings, swords already drawn. Where did they come from?
 
@@ -196,7 +196,7 @@ No anger. That was the worst part. Just the steady sadness of a man who'd known 
 
 "Friend, do what you came to do," Jesus said.
 
-The unbribed guards — Malchus leading them, Caiaphas's men — moved to arrest Jesus. The rescue already failing.
+Unbribed guards — Malchus leading them, Caiaphas's men — moved to arrest Jesus. The rescue already failing.
 
 Peter drew his sword. No. That wasn't the plan. Defensive network didn't use violence except as last resort and this wasn't—
 
@@ -206,7 +206,7 @@ Peter swung wildly, striking Malchus. The blade caught the guard's ear, severing
 
 He touched Malchus's ear. The flesh knit under his fingers. Malchus gasped, touching his head in shock.
 
-The guards hesitated, disturbed.
+Guards hesitated, disturbed.
 
 Peter's sword clattered to the ground.
 
@@ -214,7 +214,7 @@ Jesus turned to Peter. "Put your sword back in its place. All who draw the sword
 
 The truth hit Judas like a blow to the chest. Jesus had known. Known the rescue would fail, known the extra guards waited, known Judas would stand here watching his teacher dragged away in chains. Had let him try anyway.
 
-The taste of bile rose in his throat.
+Bile rose in his throat.
 
 ---
 
@@ -286,9 +286,9 @@ Judas entered the Temple treasury.
 
 "I have sinned," he said, setting the silver on the table. "I have betrayed innocent blood."
 
-The priests looked at him with indifference. "What is that to us? That's your responsibility."
+Indifference from the priests. "What is that to us? That's your responsibility."
 
-He left the Temple. The rejected silver behind him. Dawn breaking over Jerusalem.
+Out of the Temple. The rejected silver behind him. Dawn breaking over Jerusalem.
 
 He could still hear Jesus by the lake, three years ago, laughing at Peter's clumsy net-casting. Could still see him kneeling to wash road dust from Sarah's feet. Could still feel the weight of Jesus's hand on his shoulder: *I trust you, Judas. More than the others know.*
 
@@ -302,7 +302,7 @@ But Mary would know the truth.
 
 Sarah would teach her children the truth.
 
-He thought of his mother in Kerioth, who would learn of her son's death from strangers. Forgive me.
+His mother in Kerioth, who would learn of her son's death from strangers. Forgive me.
 
 Judas stepped off the branch.
 
@@ -314,7 +314,7 @@ Marcus found Judas's body at dawn. The air tasted of woodsmoke and baking bread,
 
 He wrote down the position, the method, the location. Added it to last night's record. Someone, someday, would need to understand that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work.
 
-He left the body for the authorities to find. Crucifixion started in three hours.
+Left the body for the authorities to find. Crucifixion started in three hours.
 
 Somewhere on the Damascus road, a woman and an eight-year-old girl carried the teaching forward. Marcus steadied his stylus and walked toward Golgotha.
 

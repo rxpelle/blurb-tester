@@ -24,7 +24,7 @@ Thomas paced. His physician's training demanded proof. His blood showed him fort
 
 The lamp flames bent sideways, all at once, as if a door had opened — but the door was still barred. The temperature dropped. The hair rose on his forearms.
 
-The figure appeared.
+A figure appeared.
 
 Standing in the center of the room. Door still locked. No sound of entry. The smell of the room changed, something clean cutting through the stale air, like rain on hot stone. Just presence, materializing between one heartbeat and the next.
 
@@ -34,7 +34,7 @@ Jesus. Or manifestation. Or collective vision. Or a network agent trained in the
 
 "Thomas."
 
-The figure turned toward him specifically. Knew his name. Knew his doubt. Knew his requirements.
+It turned toward him specifically. Knew his name. Knew his doubt. Knew his requirements.
 
 Extended hands showing marks. Wrist wounds where nails had penetrated, not the palms, which would have torn under a man's weight. Thomas had treated enough wounds to know the difference.
 
@@ -54,7 +54,7 @@ He hadn't touched. The doubt hadn't vanished. But his hand hung in the air and h
 
 Jesus smiled. "Because you have seen me, you have believed. Blessed are those who have not seen and yet have believed."
 
-The figure began to fade — or leave — the same ambiguity as arrival.
+Fading — or leave — the same ambiguity as arrival.
 
 Thomas stared at his own hands. Physician's hands that had examined countless bodies, confirmed countless deaths.
 
@@ -148,9 +148,9 @@ She wrote his words on the nature of sin:
 
 *"Sin does not exist. Rather it is you who make sin when you do the things which are like the nature of adultery, which is called 'sin.' Because of this the Good came among you to the things belonging to all nature, in order to set it within its root."*
 
-She set down the stylus. Heard his voice in the words, the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
+Down went the stylus. She heard his voice in the words, the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
 
-She dipped the stylus again. Wrote what he'd said about the nature of everything:
+Back into the ink. She Wrote what he'd said about the nature of everything:
 
 *"All natures, all formed things, all creatures exist in and with one another, and they will again be resolved into their own roots. For the nature of matter is dissolved into what belongs to its nature alone."*
 
@@ -176,9 +176,9 @@ Then she wrote what happened after he left them:
 
 The first sermon after the resurrection wasn't Peter's at Pentecost. It was hers, in that room, to eleven men who couldn't stop weeping.
 
-She kept writing. The vision: the private teaching, the one Peter had challenged in that courtyard. The soul's ascent past the Powers.
+Still writing. The vision: the private teaching, the one Peter had challenged in that courtyard. The soul's ascent past the Powers.
 
-The lamp guttered. Sarah brought a fresh one without being asked.
+Lamplight guttered. Sarah brought a fresh one without being asked.
 
 Mary wrote Darkness first: the soul passing through it. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street.
 
@@ -192,7 +192,7 @@ Her wrist ached. She flexed her fingers, kept going. Desire thought it owned her
 
 She wrote Ignorance — the power that binds by telling the soul it cannot know. *"Why do you judge me, since I have not judged?"* the soul answered. *"I was bound, though I have not bound anything. They did not recognize me, but I have recognized that the All is to be dissolved, both the things of earth and those of heaven."*
 
-The lamp smoked. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
+Lamp smoke curling toward the ceiling. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
 
 Mary wrote the final power, the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.*
 
@@ -204,7 +204,7 @@ And the soul — her soul, the soul she'd carried through Magdala and Capernaum 
 
 Mary set down the stylus. Her hand had cramped into the shape of holding it. Dawn light was coming through the window: grey, then blue, then the first gold touching the harbor water.
 
-She looked at the papyrus spread across the table. Twenty-three pages. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. She didn't know which pages would survive. She wrote them all.
+Twenty-three pages of papyrus spread across the table. Twenty-three pages. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. She didn't know which pages would survive. She wrote them all.
 
 ---
 
@@ -368,9 +368,9 @@ Helena set the Pattern Eye on the table. Pressed her palms flat against the wood
 
 Outside, the army was making noise. Hammers on metal. Horses. The grinding machinery of men preparing to kill other men for the right to reshape civilization.
 
-She pulled papyrus toward her. Dipped her stylus.
+Papyrus toward her. Stylus dipped.
 
-She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 49 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs.
+Three letters. To carriers she'd identified across the empire — weak ones, all of them, Generation 49 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs.
 
 The instructions were the same in each letter. The same instructions that had been passed from Nefertari to her students, from Jesus to Mary, from Mary to Sarah, from Sarah to every generation after:
 
@@ -392,7 +392,7 @@ Tomorrow, Constantine would win his battle and begin reshaping Western civilizat
 
 Helena would watch from the hills. Witness. Not preventing the catastrophe — that was never the role. Just making sure the knowledge survived it.
 
-She touched the disc one final time. The bronze was warm.
+One final touch on the disc. The bronze was warm.
 
 It was always warm.
 

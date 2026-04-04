@@ -28,7 +28,7 @@ Lucullus finally looked up. Lines carved around his eyes that hadn't been there 
 
 "That's not preaching. That's organizing." Lucullus scratched a note on the tablet. "Female teaching circles suggest structure. Discipline. In a culture where women don't teach publicly, it draws complaints from the Temple and tells us he's deliberately provocative. Not just a wandering prophet anymore."
 
-Marcus said nothing. He'd filed reports on Mary for three years. To him, it looked like a teacher preparing others to carry on after him. But that looked exactly like building a resistance movement to anyone watching from the Antonia Fortress.
+Five years of observation, and he said nothing. He'd filed reports on Mary for three years. To him, it looked like a teacher preparing others to carry on after him. But that looked exactly like building a resistance movement to anyone watching from the Antonia Fortress.
 
 "Temple authorities are losing patience," Lucullus continued. "Caiaphas sent another petition yesterday. Third one this month. They want Jesus arrested for blasphemy and delivered to the Sanhedrin for trial."
 
@@ -50,11 +50,11 @@ Marcus said nothing. He'd filed reports on Mary for three years. To him, it look
 
 Lucullus gave him a look that said *you know better than that*. "He's draining the Zealots of recruits while building a movement that doesn't need swords. Different approach. Same problem for us."
 
-Marcus couldn't argue. Rome didn't distinguish between a teacher and a threat. Both looked the same from the Antonia Fortress.
+No argument came. Rome didn't distinguish between a teacher and a threat. Both looked the same from the Antonia Fortress.
 
 "What are our orders?" Marcus asked.
 
-Lucullus leaned back. "Pilate wants options. Arrest and trial is the Temple's preference. Elimination is always available. Turning him, getting him to preach obedience to Rome instead of building his own little kingdom, would be ideal, but your reports suggest he'd refuse."
+A long exhale as the tribune leaned back. "Pilate wants options. Arrest and trial is the Temple's preference. Elimination is always available. Turning him, getting him to preach obedience to Rome instead of building his own little kingdom, would be ideal, but your reports suggest he'd refuse."
 
 "He'd refuse."
 
@@ -110,7 +110,7 @@ Jesus looked at the young man with sadness. "What is your name?"
 
 "Barabbas."
 
-Marcus filed that away. Barabbas. Known Zealot recruiter. Temple informants had flagged him twice for inciting riots during Passover.
+That name went straight to memory. Barabbas. Known Zealot recruiter. Temple informants had flagged him twice for inciting riots during Passover.
 
 "Barabbas, you hear what you want to hear," Jesus said, voice even. "I never said the Kingdom comes through violence."
 
@@ -152,7 +152,7 @@ The man was waiting in Marcus's quarters when he returned that evening.
 
 The room smelled wrong. Marcus's quarters carried the same stale odors every night: lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight a foreign scent hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
 
-Marcus saw him immediately. Mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
+One glance told him enough. Mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
 
 "Centurion Scipio." The man stood, offering the courteous nod of social equals. "My name is Matthias. I serve certain interests you know of, though perhaps not this particular faction."
 
@@ -160,11 +160,11 @@ Marcus's hand moved toward his gladius. "How did you get in here?"
 
 "I have access to places that would surprise you." Matthias sat back down, uninvited. "You've been tracking Jesus of Nazareth for five years. Filing reports that frame him as harmless. Omitting details about his following. Protecting him."
 
-Marcus said nothing.
+Silence. Let the man talk.
 
 "Your reports are technically accurate. That's what makes them so skillful. But they consistently discourage aggressive response." Matthias smiled. "You've bought him almost three years longer than he would have survived otherwise."
 
-Marcus drew his gladius. The scrape of iron leaving the scabbard sounded too loud in the small room. "Get out."
+Iron cleared the scabbard with a scrape sounded too loud in the small room. "Get out."
 
 "I'm not here to threaten you." Matthias remained seated, unconcerned about the blade. The lamp flame guttered between them, throwing their shadows against opposite walls — Marcus's large and unsteady, Matthias's still as furniture. "My people recognize Jesus's value. His method of teaching is brilliant. We want to bring him to our side."
 
@@ -172,11 +172,11 @@ Marcus drew his gladius. The scrape of iron leaving the scabbard sounded too lou
 
 "Then we want you to eliminate him."
 
-Marcus kept the blade steady. "And if I refuse?"
+The blade held steady between them. "And if I refuse?"
 
 "We inform Lucullus about your loyalties. Your concealment. Your five years of false reports." Matthias's voice was pleasant, as if discussing trade routes. "You'll be discharged. Prosecuted. And we'll send someone less sentimental to handle Jesus."
 
-Marcus thought of his sister's letters from Gaul — her children needed schooling, his pension would have secured that. Twenty-eight years of service, three years from full retirement with honors. Losing his position meant losing everything he'd worked toward. And it meant losing the only shield Jesus had inside Roman reports.
+His sister's letters from Gaul came to him — her children needed schooling, his pension would have secured that. Twenty-eight years of service, three years from full retirement with honors. Losing his position meant losing everything he'd worked toward. And it meant losing the only shield Jesus had inside Roman reports.
 
 "Why me?" Marcus asked. "Why not just kill him yourselves?"
 
@@ -196,7 +196,7 @@ He walked to the door, then paused. "For what it's worth — noble effort. Futil
 
 Matthias left.
 
-Marcus dropped onto his bunk, gladius still in hand. The nard smell lingered, rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
+The bunk caught him, gladius still in hand. The nard smell lingered, rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
 
 The lamp had burned low. In its dying light, the walls of his quarters looked like what they were: a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
 
@@ -242,7 +242,7 @@ Waves against the dock. Oil lamps flickering in distant houses.
 
 "No. He won't hide. Won't run." Simon's voice was heavy. "We can't save him. We can only help him die in a way that preserves the teaching."
 
-Marcus had known that for years. Hearing it said aloud still felt like a knife.
+He'd known that for years. Hearing it said aloud still felt like a knife.
 
 "How long?"
 
@@ -254,7 +254,7 @@ Simon looked at him carefully. "Your people will kill him."
 
 "Yes. And I can't stop that. But I can make sure what he's building survives."
 
-Simon extended his hand. Marcus took it.
+A hand extended. Marcus took it.
 
 He'd just committed treason. His father's voice echoed — *Honor Rome above all.* Twenty-eight years of imperial duty, all of it betrayed for a carpenter who would die anyway.
 
@@ -284,11 +284,11 @@ Marcus returned to Jerusalem three days later and submitted his resignation to T
 
 Lucullus studied him for a long time. "You've been protecting him. Have been for years."
 
-Marcus said nothing.
+Nothing to say.
 
 "I should prosecute you. Concealment. Dereliction. Treason." Lucullus set down his tablet. "But a trial draws attention to things Pilate doesn't want examined. Questions about how a centurion filed false reports for five years without his tribune noticing." His jaw tightened. "So. Discharge. Immediate. No pension. No honors. Your replacement arrives tomorrow."
 
-Lucullus was protecting himself, not Marcus. The cold calculation of a man who'd rather lose a centurion than answer uncomfortable questions.
+Self-preservation, not mercy. The cold calculation of a man who'd rather lose a centurion than answer uncomfortable questions.
 
 "You've bought him six months," Lucullus said. "Maybe less."
 

@@ -60,7 +60,7 @@ True. Nazareth had a reputation for producing troublemakers. Small town, religio
 
 "Name," he called to the next man in line.
 
-Marcus's hand moved to his stylus and stopped. The way a dog's ears flatten before thunder arrives.
+His hand moved to the stylus and stopped. The way a dog's ears flatten before thunder arrives.
 
 The man was mid-thirties, carpenter by the wood dust ground into his knuckles and the calluses that wrapped his palms like leather. Average height. Dark hair, sun-weathered skin, lean from labor. Nothing remarkable except his eyes.
 
@@ -104,13 +104,13 @@ The way he said *her*—not abstractly, not philosophically. Like there was a sp
 
 "Yes. He taught me from age seven. I was terrible at first. He was patient."
 
-Marcus glanced at Lucius. The scribe was watching the conversation with mild interest—this was taking longer than normal, but nothing alarming.
+A glance at Lucius. The scribe was watching the conversation with mild interest—this was taking longer than normal, but nothing alarming.
 
 "Any political affiliations?" Standard question for adult males. They were supposed to ask everyone, though most census-takers skipped it to save time.
 
 "No." Jesus's expression didn't change. "I'm not a Zealot, if that's what you're asking. Hitting back just makes the other side hit harder. The cycle never ends unless someone refuses to swing."
 
-Marcus's stylus stopped. That wasn't a peasant's fatalism or a rabbi's piety. That was someone who'd watched the cycle from above—who could see the whole mechanism, not just the gears closest to him. The same quality that had flagged Simon, the same quality that had stopped Marcus cold in front of the woman in Cana.
+His stylus stopped. That wasn't a peasant's fatalism or a rabbi's piety. That was someone who'd watched the cycle from above—who could see the whole mechanism, not just the gears closest to him. The same quality that had flagged Simon, the same quality that had stopped Marcus cold in front of the woman in Cana.
 
 But stronger. Much stronger.
 
@@ -120,7 +120,7 @@ Jesus's mouth twitched—not quite a smile, more like a man who'd made a joke he
 
 *Family inheritance.*
 
-Marcus's pulse kicked. His contact in Caesarea had used that exact phrase.
+His pulse kicked. The contact in Caesarea had used that exact phrase.
 
 His orders were clear: note the name, file it with Caesarea, move on.
 
@@ -160,7 +160,7 @@ Another silence, longer. Jesus looked at the census line—forty families still 
 
 "I've been dreaming of burning cities since I was three years old," he said quietly. "Not my cities. My ancestors'. I see what they saw—walls falling, people running, the knowledge being packed into baskets and carried out before the fire reaches it. Not from training. From the blood." He paused. "There are maybe fifty of us left who carry it. Most don't know what the dreams mean."
 
-Marcus's breath caught. Born with it. The rarest kind.
+Born with it. The rarest kind.
 
 "Generation?" Marcus asked.
 
@@ -184,7 +184,7 @@ Jesus was quiet for a moment. When he spoke again, the composure was gone—no t
 
 "If I hide, the knowledge dies with me." His voice was rough now. "If I teach openly, it scatters. Survives." He looked down at his carpenter's hands—the scarred palms, the blackened thumbnail. "I dream about my grandfather's grandfather. He taught until they killed him too. I don't know how long I have. I just know the feeling—like a roof beam that's taken too much weight. You can hear the wood starting to talk before it splits." He swallowed. "I wake up every morning and think—was yesterday enough? And the answer is always no."
 
-Marcus stared at him. The man wasn't calm. He was terrified and doing it anyway—the way the boy at Carnuntum had raised his hands, knowing it wouldn't save him, doing it anyway because it was all he had left.
+The man wasn't calm. He was terrified and doing it anyway—the way the boy at Carnuntum had raised his hands, knowing it wouldn't save him, doing it anyway because it was all he had left.
 
 "Violence is like salt water," Jesus said, steadier now. "The more you drink, the thirstier you become. I'm trying to show people where the well is."
 
@@ -194,7 +194,7 @@ Marcus stared at him. The man wasn't calm. He was terrified and doing it anyway�
 
 He walked back into the line of waiting families. Just another carpenter. Nobody looked twice.
 
-Marcus sat frozen at the census table, stylus pressed into wax, the impression of a name he'd never be able to forget.
+He sat frozen at the census table, stylus pressed into wax, the impression of a name he'd never be able to forget.
 
 ---
 
@@ -222,7 +222,7 @@ Marcus hadn't expected that. "What?"
 
 The words landed like stones. Marcus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
 
-Marcus paced to the low wall. Below, the lake stretched dark, fishing boats knocking gently against stone moorings. Somewhere a woman was singing to a child—a lullaby he couldn't understand, the melody old enough to precede the language carrying it.
+He paced to the low wall. Below, the lake stretched dark, fishing boats knocking gently against stone moorings. Somewhere a woman was singing to a child—a lullaby he couldn't understand, the melody old enough to precede the language carrying it.
 
 "He teaches people to stop swinging." Marcus's throat was tight. "And you're telling me to file the report that puts a target on him."
 
@@ -250,11 +250,11 @@ Someone had noticed.
 
 Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
 
-Marcus snapped to attention. "Centurion Scipio reporting, Tribune."
+He snapped to attention. "Centurion Scipio reporting, Tribune."
 
 Lucullus returned the salute curtly. No pleasantries. "The carpenter in Nazareth."
 
-Marcus's pulse spiked. "Carpenter?"
+His pulse spiked. "Carpenter?"
 
 "Jesus ben Yosef. Temple authorities sent an inquiry. Large crowds. Anti-institutional rhetoric. 'Kingdom of God' talk." Lucullus spread parchment reports across the table. "Five thousand attended one gathering last month. He uses parables about empires rotting from within, tells peasants they can survive without Rome's protection. Those aren't normal religious concepts."
 
@@ -296,7 +296,7 @@ Then his trained eye caught a second figure. A woman at the edge of the gatherin
 
 Another carrier.
 
-Marcus's stylus stopped. The wax cooled under his hand. If there were two of them in Galilee, there might be more. And Rome was already watching.
+His stylus stopped. The wax cooled under his hand. If there were two of them in Galilee, there might be more. And Rome was already watching.
 
 ---
 

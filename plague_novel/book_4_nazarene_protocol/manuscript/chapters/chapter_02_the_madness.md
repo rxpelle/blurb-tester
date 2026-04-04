@@ -20,11 +20,11 @@ The city surrounded her—vivid, overwhelming, more real than the wool blanket t
 
 Too many people. Refugees flooding in from everywhere, fleeing cities that had burned, speaking of armies from the sea. And the fever. Always the fever.
 
-Mary pressed her hands against her temples, trying to force the vision away. But it wouldn't release. It never did anymore.
+She pressed her hands against her temples, trying to force the vision away. But it wouldn't release. It never did anymore.
 
 The woman physician—*Nefertari*, the name arriving from somewhere deep, moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
 
-Mary watched—experienced, somehow more than watched—as a queen died in Nefertari's arms. *Tausret.* The name came with the vision. Dead of fever while the ancient world collapsed around them.
+She watched—experienced, somehow more than watched—as a queen died in Nefertari's arms. *Tausret.* The name came with the vision. Dead of fever while the ancient world collapsed around them.
 
 *This isn't real*, Mary told herself desperately. *This is twelve hundred years ago. I wasn't there. This isn't my memory.*
 
@@ -44,7 +44,7 @@ Sarah didn't look convinced. She was too young to understand what was happening 
 
 Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier—fragmented images of a woman fleeing burning cities during the Bronze Age Collapse, joining a network of families who taught her to recognize pattern before chaos.
 
-Mary had told herself it was a sickness of the blood. Something inherited, like her mother's weak lungs or her grandfather's tremor. Not of the spirit but of the body. The episodes came suddenly—she would fall, her body rigid, then wake confused and drained. She'd consulted physicians in Tiberias who spoke of imbalances in the humors, but none could explain why the falling sickness carried visions of cities she'd never seen.
+She'd told herself it was a sickness of the blood. Something inherited, like her mother's weak lungs or her grandfather's tremor. Not of the spirit but of the body. The episodes came suddenly—she would fall, her body rigid, then wake confused and drained. She'd consulted physicians in Tiberias who spoke of imbalances in the humors, but none could explain why the falling sickness carried visions of cities she'd never seen.
 
 But the visions kept getting stronger. More detailed. More real.
 
@@ -56,11 +56,11 @@ The whispers had started that day: *Possessed. Seven demons. Madness runs in her
 
 "Mama?" Sarah's small hand pressed against Mary's jaw, turning her face. "Your hands are shaking."
 
-Mary unclenched her fists. "Just tired, sweet one. Let's get breakfast. Then you can play with Joanna's children while I work."
+She unclenched her fists. "Just tired, sweet one. Let's get breakfast. Then you can play with Joanna's children while I work."
 
 If Joanna would still let Sarah near her children. Mary wasn't certain anymore. The demon-possession rumors were spreading. Even families who'd accepted her charity were keeping distance now.
 
-Mary stood, joints protesting. Twenty-eight years old but her body moved like something ancient. The episodes were exhausting—not physically, but they drained her vitality. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
+She stood, joints protesting. Twenty-eight years old but her body moved like something ancient. The episodes were exhausting—not physically, but they drained her vitality. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
 
 She dressed Sarah, then herself. Good linen, dyed the deep blue that marked her former prosperity. Mary's father, having no sons, had trained his daughter in the business before his death—three salting vats, a stone warehouse near the harbor, contracts with fishing crews along the northern shore. She'd expanded the operation through her cousin Levi, who served as her public face with merchants, though everyone in Magdala knew Mary made the real decisions. She'd negotiated contracts as far as Damascus and Jerusalem. Magdala—*Tarichaea*, the Romans called it, the place of salted fish—was prosperous, and Mary had been one of its more successful merchants.
 
@@ -68,11 +68,11 @@ Until the episodes started driving her workers away.
 
 Outside, Magdala was waking. Fishing boats nosing into the harbor, oars dripping. The town smelled of brine and fish guts and the sharp mineral tang of the salting vats, undercut by bread smoke from the ovens near the synagogue. Gulls screamed over the catch. A donkey brayed somewhere uphill. The lake was flat and silver in the early light, and Mary thought, as she did every morning, that it was beautiful, and that beauty didn't help.
 
-Mary walked toward the salting works — her salting works — where the morning's catch would already be arriving. Her foreman Tobias had been managing the operations on days when Mary couldn't function, which was most days now.
+The walk to the salting works — her salting works — where the morning's catch would already be arriving. Her foreman Tobias had been managing the operations on days when Mary couldn't function, which was most days now.
 
 "Mary." Tobias—sixty, his skin creased from decades of lake wind, her foreman since her father's time—approached with the careful posture of a man delivering bad news.
 
-Mary's stomach dropped.
+Her stomach dropped.
 
 "Three more workers quit. Joanna won't watch Sarah today." He wasn't meeting her eyes. "You collapsed in the synagogue yesterday. Started speaking in languages nobody recognized. The workers think you're cursed, Mary. They think it'll spread to their families."
 
@@ -90,7 +90,7 @@ It wasn't possession. It was inherited. Carried in the blood. Her mother had exp
 
 She'd asked the synagogue teachers about the city she kept seeing. Described it—grid pattern, four quarters, Nile Delta. The rabbi had looked disturbed. Said Pi-Ramesses was real, abandoned over a thousand years ago. How did a fish-merchant from Magdala know the layout of a city that no longer existed?
 
-Mary didn't have an answer. Only that the visions were too consistent to be madness.
+She didn't have an answer. Only that the visions were too consistent to be madness.
 
 "Mama!" Sarah ran over, hands full of lake shells. "Look what I found!"
 
@@ -98,7 +98,7 @@ Mary didn't have an answer. Only that the visions were too consistent to be madn
 
 Sarah settled beside her, arranging shells in patterns on the dock with the concentration of a child who believed the world could be organized if you just found the right order.
 
-Mary watched her daughter's hands and made a decision. She couldn't let Sarah watch what she'd watched. She couldn't wait for Magdala to decide her episodes required something harsher than prayer.
+She watched her daughter's hands and made a decision. She couldn't let Sarah watch what she'd watched. She couldn't wait for Magdala to decide her episodes required something harsher than prayer.
 
 "Sarah. We're going on a trip."
 
@@ -122,7 +122,7 @@ But the alternative was Magdala. The emptying warehouse. Neighbors crossing the 
 
 "Will he understand why you scream at night?"
 
-Mary's throat tightened. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until her breathing slowed.
+Her throat tightened. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until her breathing slowed.
 
 "I hope so, little one. I really hope so."
 
@@ -150,7 +150,7 @@ A man emerged from Simon's house—not old, maybe mid-thirties, carpenter's buil
 
 "You're the merchant from Magdala." Not a question.
 
-Mary stood slowly. Her merchant's instinct—the part that evaluated strangers before trusting them—flared. "How do you know who I am?"
+She stood slowly, merchant's instinct flaring—the part that evaluated strangers before trusting them—flared. "How do you know who I am?"
 
 "Simon described you. A woman in Magdala with falling episodes, visions of burning cities. Community calling it possession." He crossed the courtyard, stopped a respectful distance away. "I'm Jesus."
 
@@ -158,7 +158,7 @@ Mary stood slowly. Her merchant's instinct—the part that evaluated strangers b
 
 He didn't flinch. Didn't smile. Just sat on the wall beside her and said, "Tell me what you see. The city."
 
-Mary almost didn't. But she was eight miles from home with a sleeping child and no plan, and his stillness—the way he waited without filling the silence—reminded her of her father, who'd taught her to negotiate by listening first.
+She almost didn't. But she was eight miles from home with a sleeping child and no plan, and his stillness—the way he waited without filling the silence—reminded her of her father, who'd taught her to negotiate by listening first.
 
 "A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses." Mary's voice was steady—her contract voice. "I know their names. Nefertari. Tausret. I don't know how I know them."
 
@@ -172,7 +172,7 @@ Mary stared at him. She'd braced for exorcism prayers, for pity, for the careful
 
 "Your mother," he said quietly. "She had it too."
 
-Mary's throat closed. "How do you—"
+Her throat closed. "How do you—"
 
 "Because it always goes the same way. The visions overwhelm. The community calls it demons. Without help, the person—" He stopped himself. "She died young?"
 
@@ -208,7 +208,7 @@ Jesus was watching her with an expression she couldn't read—surprise, maybe, o
 
 "Yes."
 
-Mary looked at her daughter. Sarah had fallen asleep against her shoulder, exhausted from the long walk.
+She looked at her daughter. Sarah had fallen asleep against her shoulder, exhausted from the long walk.
 
 "I have a business in Magdala," Mary said. "A house. A daughter who needs stability. If I stay here, that falls apart."
 
@@ -222,7 +222,7 @@ She thought about returning to Magdala. The rumors. The emptying warehouse. The 
 
 Then she thought about her mother. The end of it. The calling out.
 
-Mary didn't want that future. Didn't want Sarah growing up watching her mother deteriorate the same way.
+She didn't want that future. Didn't want Sarah growing up watching her mother deteriorate the same way.
 
 "If I stay," Mary said slowly, "what happens?"
 
@@ -284,7 +284,7 @@ The disciples were quiet. Peter's arms had uncrossed.
 
 "Probably. The defensive network created seven bronze keys during the Bronze Age Collapse. Physical objects that anchored the knowledge. Some carriers fled with keys when cities burned. Your ancestor might have been one of them." Jesus's expression turned serious. "Do you remember which key? What did it look like?"
 
-Mary looked away, reaching for the memory. The vision had been brief, fragmentary. But there—a bronze disc, eight inches across, covered in symbols that looked like hieroglyphics but weren't. Warm to the touch. Pulsing like it had its own heartbeat.
+She looked away, reaching for the memory. The vision had been brief, fragmentary. But there—a bronze disc, eight inches across, covered in symbols that looked like hieroglyphics but weren't. Warm to the touch. Pulsing like it had its own heartbeat.
 
 "A disc," Mary said. "Covered in symbols. It felt alive somehow."
 
@@ -300,7 +300,7 @@ Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced
 
 "They'll never stop. But they'll become manageable." His voice gentled. "Your mother didn't have this training. You do."
 
-Mary's face hardened.
+Her face hardened.
 
 "How long does training take?"
 

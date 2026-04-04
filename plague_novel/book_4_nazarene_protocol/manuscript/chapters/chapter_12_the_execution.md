@@ -34,7 +34,7 @@ Jesus stood in the center. Bound. Bruises darkening from the overnight interroga
 
 "You say so."
 
-The crowd outside: "Crucify him! We have no king but Caesar!"
+Outside, the crowd: "Crucify him! We have no king but Caesar!"
 
 Pilate leaned forward. "Don't you hear the accusations? You won't answer?"
 
@@ -42,7 +42,7 @@ Jesus said nothing. Pilate waited. The silence stretched past uncomfortable into
 
 "I find no fault in this man."
 
-The crowd roared louder. Pilate looked at Caiaphas. Caiaphas looked back with the patience of a man who knew the outcome was already decided.
+Roaring from outside, louder now. Pilate looked at Caiaphas. Caiaphas looked back with the patience of a man who knew the outcome was already decided.
 
 Pilate called for water. Washed his hands in front of all of them, the performative gesture of a politician who needed the record to show reluctance. "I am innocent of this man's blood. It's yours."
 
@@ -56,9 +56,9 @@ Jesus was stripped and bound to the post. The soldier took position. Drew back.
 
 The first blow opened skin from shoulder blade to spine. Jesus's body jerked against the ropes but he didn't cry out. The soldier struck again. And again. By the tenth lash, Jesus's back was a landscape of torn flesh and exposed muscle. By the twentieth, blood ran down his legs and pooled on the courtyard stones. By the thirtieth, the soldier's arm was slowing, not from mercy but from fatigue.
 
-The soldier stopped when his arm gave out. Jesus had made no sound. Not one.
+Thirty lashes in, the soldier stopped when his arm gave out. Jesus had made no sound. Not one.
 
-The soldiers looked at each other. They'd all heard men scream.
+Glances between the soldiers. They'd all heard men scream.
 
 They dressed him in a purple robe that stuck immediately to the wounds. Wove thorns into a crown and pressed it onto his head until the points broke skin. "Hail, King of the Jews!" Mock bowing. Spitting in his face. Striking him with a reed.
 
@@ -66,7 +66,7 @@ Jesus stood through it.
 
 Pilate brought him out again. "Ecce homo." Behold the man.
 
-The crowd demanded crucifixion.
+Crucifixion. The crowd demanded it.
 
 They gave him his crossbeam. Seventy-five pounds of rough-hewn wood across shoulders already destroyed. The procession began.
 
@@ -88,7 +88,7 @@ Women wailed along the route — the keening rising and falling, animal and raw,
 
 Jesus stumbled. His knee hit the paving stones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
 
-The soldiers grabbed a man from the crowd, broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
+Soldiers grabbed a man from the crowd, broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
 
 Simon of Cyrene. A Jewish pilgrim from North Africa, visiting for festival, who'd woken this morning expecting to celebrate. He lifted the wood — winced at the blood and splinters — looked at Jesus with a mixture of pity and fear.
 
@@ -106,7 +106,7 @@ They laid the crossbeam on the ground. Spread Jesus's hands along the wood. A so
 
 The soldier positioned the nail against Jesus's left wrist. Not the palm. Palms would tear under body weight. Through the wrist bones, where iron could hold firm.
 
-The hammer fell.
+Down came the hammer.
 
 Iron through flesh, through bone, through wood. The sound would follow Marcus for the rest of his life — metal on metal, then the wet sound underneath. Jesus's body arched against the wood, but he made no cry.
 
@@ -114,7 +114,7 @@ Second nail. Right wrist. Same precision. Same silence.
 
 Marcus's hand shook so violently he nearly dropped the stylus. The boy at Carnuntum had taken three seconds to die — dropped shield, raised hands, blade through the throat. Quick, at least. This would take hours. The same hands raised, the same open palms, but nailed to wood instead of air, and Marcus on the wrong side of the blade again — always on the wrong side, always holding the instrument that recorded instead of the one that intervened. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
 
-The soldiers lifted the crossbeam with Jesus attached and hoisted it onto the vertical post. The wood groaned as they fitted the joint. Jesus's weight settled onto the wrist nails and his face went white.
+Four soldiers lifted the crossbeam with Jesus attached and hoisted it onto the vertical post. The wood groaned as they fitted the joint. Jesus's weight settled onto the wrist nails and his face went white.
 
 A soldier grabbed his feet and pressed them flat against the post. Positioned the nail, a single long spike, thick as a man's finger. The hammer fell.
 
@@ -126,17 +126,17 @@ This was how crucifixion killed. Not the nails. Not the blood loss. It drowned y
 
 Before the crucifixion, they'd offered wine mixed with myrrh — painkiller. Jesus had refused.
 
-The soldiers divided his clothes. Gambled for his cloak. Among them, Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh.
+Soldiers divided his clothes. Gambled for his cloak. Among them, Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh.
 
 Pilate's inscription was nailed above Jesus's head. Three languages: Latin, Greek, Hebrew:
 
 "JESUS OF NAZARETH, THE KING OF THE JEWS"
 
-The Temple authorities objected. "Don't write 'The King of the Jews.' Write 'He claimed to be King of the Jews.'"
+Temple authorities objected. "Don't write 'The King of the Jews.' Write 'He claimed to be King of the Jews.'"
 
 "What I have written, I have written."
 
-The crowd pressed closer. "He saved others! Let him save himself!" "Come down from the cross! Then we'll believe!"
+Closer, the crowd pressed. "He saved others! Let him save himself!" "Come down from the cross! Then we'll believe!"
 
 Jesus focused on breathing. Push up on the feet nail. Inhale. Lower down. Each cycle excruciating.
 
@@ -146,7 +146,7 @@ Then he spoke. First words since crucifixion began.
 
 The crowd quieted. Marcus's hand stopped. In twenty-eight years of military service, he had never heard a dying man ask mercy for the people killing him.
 
-The two criminals flanking him began their own dying. One cursing. One silent.
+On either side, the two criminals began their own dying. One cursing. One silent.
 
 ---
 
@@ -158,17 +158,17 @@ Storm clouds rolling in from the Mediterranean, heavy enough to block the sun. T
 
 Marcus lit a small torch to see his tablets.
 
-The two criminals were still conscious. The one on Jesus's left had been cursing since they nailed him up, a steady stream of profanity that had devolved into animal sounds.
+Both criminals were still conscious. On Jesus's left, one had been cursing since they nailed him up, a steady stream of profanity that had devolved into animal sounds.
 
 "Some messiah," he spat between gasps. "Save yourself. Save us."
 
-The one on the right turned his head — slowly, every movement costing him. "Shut up. We earned this. He didn't." His voice was wrecked, barely a whisper. Blood in his mouth. "He didn't do anything."
+On the right, the other turned his head — slowly, every movement costing him. "Shut up. We earned this. He didn't." His voice was wrecked, barely a whisper. Blood in his mouth. "He didn't do anything."
 
-The man looked at Jesus. Gathered enough breath for one more sentence. "Remember me. When you — when you get where you're going."
+Eyes on Jesus. Gathered enough breath for one more sentence. "Remember me. When you — when you get where you're going."
 
 Jesus pushed up on the nail. Drew air. "Today. You'll be with me. In paradise."
 
-The man on the right closed his eyes. Something in his face loosened.
+Quiet on the right cross. Eyes closed. Something in his face loosened.
 
 Through the darkness, figures. John first. Several women behind him. Jesus's mother, walking as if the ground might give way. And Mary Magdalene.
 
@@ -182,7 +182,7 @@ To John: "Behold your mother."
 
 Then he looked at Mary Magdalene. She held his gaze the way you hold someone's hand when they're dying, except she couldn't reach him. So she held him with her eyes instead.
 
-The darkness continued. Three hours that felt like seasons. The wind picked up — cold now, bitter for spring, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
+Darkness for three hours that felt like seasons. The wind picked up — cold now, bitter for spring, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
 
 He watched Jesus's breathing slow — each push-up on the foot nail taking longer, the pause at the bottom stretching until Marcus found himself counting, his own chest tight, willing the next breath. The muscles in Jesus's shoulders had begun to spasm visibly, the body's machinery failing in sequence. Each breath shallower than the last.
 
@@ -220,7 +220,7 @@ Jesus lifted his head. The effort it cost him was visible — every muscle in hi
 
 My God, my God, why have you forsaken me?
 
-The words carried across the hillside. Someone lifted a sponge soaked in wine vinegar on a reed. Jesus tasted it.
+His words carried across the hillside. Someone lifted a sponge soaked in wine vinegar on a reed. Jesus tasted it.
 
 Then, clearer than anything he'd said in hours: "It is finished."
 
@@ -234,7 +234,7 @@ Marcus marked the time. The ninth hour.
 
 The ground shook. Not a tremor — a heave, enough to crack the limestone and send loose stones rolling down the hillside. The storm broke with it — rain falling hard, thunder rolling across the hills like something answering.
 
-The centurion supervising the execution stared at Jesus's body for a long time. Rain ran down his face. "Truly," he said to no one, "this was a righteous man."
+Standing beneath the cross, the centurion supervising the execution stared at Jesus's body for a long time. Rain ran down his face. "Truly," he said to no one, "this was a righteous man."
 
 Sabbath was approaching. The bodies had to come down before sunset. Soldiers moved to the criminals first — broke their legs with an iron bar, quick efficient blows. The men couldn't push up to breathe anymore. They died within minutes.
 
