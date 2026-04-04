@@ -8,6 +8,8 @@
 
 ---
 
+Mary would learn the watcher's name soon enough. But before Rome found Jesus, God did.
+
 ## SCENE 1: The Wilderness - John's POV
 
 John the Baptist heard him coming before he saw him.

@@ -7,6 +7,8 @@
 
 ## SCENE 1: THE OFFER
 
+The nine months went fast.
+
 Rain-washed nets hung from the lakeside racks. Almond blossoms dropping petals in the street. The Galilean spring hadn't warmed yet — mornings still carried winter's edge — and the upper room's thick stone walls held the night's cold, the flagstones like ice beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
 
 Marcus stood in the doorway, breathing hard from the climb, his knee stiff from the cold, breath still visible in the morning air. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Passover."

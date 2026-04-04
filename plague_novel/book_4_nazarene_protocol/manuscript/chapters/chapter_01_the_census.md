@@ -8,6 +8,8 @@
 
 ---
 
+The world he was about to change didn't know his name yet. Rome did.
+
 ## SCENE 1: The Census Taker
 
 Marcus Publius Scipio stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, officially to verify compliance, unofficially to identify threats. Marcus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
