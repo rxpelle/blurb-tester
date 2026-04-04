@@ -128,7 +128,7 @@ That night they camped in the wilderness. Peter and John slept near the fire. Je
 
 "No." Jesus picked up a stone, turned it over. "When the time comes, take Sarah south. Alexandria. The Jewish community there is the largest outside Palestine — a third of the city. Establish teaching communities. Make copies. By the time she has children of her own, the bloodline is stabilized and the knowledge is scattered across enough hands that no single fire can destroy it."
 
-Mary thought about Sarah. Five years old now. Would be forty-seven when Jerusalem burned.
+Mary thought about Sarah. Five years old now. Would be forty-five when Jerusalem burned.
 
 "The nosebleed scared me," she said quietly. "Not the blood. The fact that I wanted to keep going. I could feel the knowledge right there — one more push and I'd have seen all of it. The complete arc."
 

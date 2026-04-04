@@ -32,7 +32,7 @@ The defensive network's people were scattered through the crowd. Simon at the no
 
 They were preparing to fail. Marcus had seen the other side's positioning yesterday — extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
 
-Near the teaching platform, Mary stood with Sarah. Seven years old and holding her mother's hand. Mary's knuckles white. Her jaw clenched so tight the muscle worked visibly from forty paces.
+Near the teaching platform, Mary stood with Sarah. Eight years old and holding her mother's hand. Mary's knuckles white. Her jaw clenched so tight the muscle worked visibly from forty paces.
 
 Jesus climbed the platform. Still. The way he'd been still for months now — a man walking a road he could already see the end of.
 
@@ -146,7 +146,7 @@ He turned to Mary, who'd been silent through the entire meal.
 
 "Tausret wasn't ready either." Jesus reached across the table, squeezed her hand. His fingers were cold.
 
-Sarah leaned against her mother, processing everything with seven-year-old seriousness.
+Sarah leaned against her mother, processing everything with eight-year-old seriousness.
 
 Outside, sound of armed men gathering. The rescue team moving into position. The Temple's counter-forces waiting for them to show themselves.
 
@@ -316,7 +316,7 @@ He wrote down the position, the method, the location. Added it to last night's r
 
 He left the body for the authorities to find. Crucifixion started in three hours.
 
-Somewhere on the Damascus road, a woman and a seven-year-old girl carried the teaching forward. Marcus steadied his stylus and walked toward Golgotha.
+Somewhere on the Damascus road, a woman and an eight-year-old girl carried the teaching forward. Marcus steadied his stylus and walked toward Golgotha.
 
 ---
 

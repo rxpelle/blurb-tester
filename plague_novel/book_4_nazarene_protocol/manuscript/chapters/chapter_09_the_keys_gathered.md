@@ -9,7 +9,7 @@
 
 Jesus had been holding the Pattern Eye since before dawn, and his hands wouldn't stop shaking.
 
-The upper room was cold — spring mornings in Capernaum, the damp kind of cold that settled into stone walls and stayed. His breath clouded. Somewhere below, a woman scraped a cooking pot and a child whined about breakfast. The bronze disc sat heavy in his palms, its geometric patterns catching the first grey light through the window slats.
+The upper room was cold — summer mornings in Capernaum, the damp kind of cold that settled into stone walls and stayed. His breath clouded. Somewhere below, a woman scraped a cooking pot and a child whined about breakfast. The bronze disc sat heavy in his palms, its geometric patterns catching the first grey light through the window slats.
 
 He closed his eyes. The cascade had already begun — hours ago, in the dark — and he'd let it run.
 

@@ -20,7 +20,7 @@ Rome was following the cascade. She could feel it the way a sailor feels weather
 
 And her son thought Christianity would save it.
 
-She'd tried explaining. Pattern recognition. Systems thinking. The teaching beneath the theology — what Jesus had actually meant when he said *love your enemies*, which wasn't mercy but engineering. Interrupt the escalation cycle. Distribute resilience. Don't centralize what needs to scatter.
+She'd tried explaining. Pattern recognition. Systems thinking. The teaching beneath the theology — what Jesus had actually meant when he said *love your enemies*, Interrupt the escalation cycle. Distribute resilience. Don't centralize what needs to scatter.
 
 Constantine had listened. Smiled. Called her scholarly. Then gone back to planning how to use the Church as an instrument of imperial unity.
 
@@ -28,15 +28,13 @@ Tomorrow he would paint the Chi-Rho on his soldiers' shields and fight Maxentius
 
 And then Christianity — the scattered, portable, distributed methodology that had survived three centuries of persecution precisely because it had no center to destroy — would become a state religion. Centralized. Hierarchical. Imperial.
 
-The very thing Jesus died to prevent.
-
-Helena set the Pattern Eye on the table. Pressed her palms flat against the wood — the gesture Mary Magdalene had used when blood memory threatened to pull her under. Helena didn't know she was doing it. Seven generations of women had done it before her. The body remembering what the mind had lost.
+Helena set the Pattern Eye on the table. Pressed her palms flat against the wood — the gesture Mary Magdalene had used when blood memory threatened to pull her under. Helena didn't know she was doing it. Seven generations of women had done it before her.
 
 Outside, the army was making noise. Hammers on metal. Horses. The grinding machinery of men preparing to kill other men for the right to reshape civilization.
 
 She pulled papyrus toward her. Dipped her stylus.
 
-She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 48 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs when the world was about to change.
+She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 48 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs.
 
 The instructions were the same in each letter. The same instructions that had been passed from Nefertari to her students, from Jesus to Mary, from Mary to Sarah, from Sarah to every generation after:
 

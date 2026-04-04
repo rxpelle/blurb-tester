@@ -164,7 +164,7 @@ Mary looked at the three women in the doorway. "After he's gone. Check my teachi
 - Timeline: Winter 32 CE, 12 months before Passover 33 CE crucifixion
 - Marcus: Age 49, civilian status, documentation role accepted
 - Mary: Age 33, leadership role accepted despite fear, 80+ women in teaching circles
-- Jesus: Age 36, martyrdom strategy explained and accepted
+- Jesus: Age 38, martyrdom strategy explained and accepted
 - Sarah: Age 7, Generation 43, witnessing leadership under pressure
 - Network status: 150-200 followers, distributed teaching circles planned, protection protocols initiated
 - Roman intelligence: Official execution order confirmed

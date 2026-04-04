@@ -70,17 +70,17 @@ Peter found Mary alone in the courtyard, grinding herbs for the evening meal. Sa
 
 "He said them to me."
 
-"Privately. In secret." Peter's voice was careful, controlled — the voice of a man who'd rehearsed this. "Did he really speak with a woman in preference to us, and not openly? Are we supposed to turn around and listen to you?"
+"Privately. In secret." Peter's voice was careful, controlled. "Did he really speak with a woman in preference to us, and not openly? Are we supposed to turn around and listen to you?"
 
 Andrew appeared behind Peter. "I don't believe the Savior said these things. These are strange ideas."
 
-Mary set down the pestle. Her hands were steady. She'd been waiting for this since the garden — since Jesus had warned her, *they'll bury it*. She hadn't expected it to come from the man who'd wept at the Last Supper.
+Mary set down the pestle. Her hands were steady.
 
 "Peter." She met his eyes. "Do you think I made it up? Do you think I invented a teaching and put it in his mouth?"
 
 Peter didn't answer. His face said what his mouth wouldn't.
 
-Matthew stepped into the courtyard. He'd been listening from the hall — the former tax collector who understood how power worked, how it consolidated, how it wrote its own history.
+Matthew stepped into the courtyard from the hall.
 
 "Peter." Matthew's voice was quiet but it carried. "If the Savior made her worthy, who are you to reject her? He knew her. He loved her more than us. We should be ashamed of ourselves."
 
@@ -90,7 +90,7 @@ Nobody spoke. A child laughed somewhere in the house. The herbs Mary had been gr
 
 Peter uncrossed his arms. He didn't apologize. He didn't agree. He walked out of the courtyard, and Mary heard him in the next room, already talking to Andrew about organizational structure, about rules for worship, about who could teach and who could not.
 
-She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone — the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert, and someone would find it seventeen centuries later and read it and know.
+She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone — the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
 
 She ground the herbs until there was nothing left to grind.
 
@@ -154,7 +154,7 @@ She dipped the stylus again. Wrote what he'd said about the nature of everything
 
 *"All natures, all formed things, all creatures exist in and with one another, and they will again be resolved into their own roots. For the nature of matter is dissolved into what belongs to its nature alone."*
 
-Her hand stopped. She stared at the words. *Resolved into their own roots.* The teaching describing its own survival — knowledge dissolving into blood, into bone, into the bodies of daughters and granddaughters who would carry it without knowing they carried it, until someone reached left in her sleep and found it waiting. She'd been living inside this sentence her whole life. She just hadn't had the words for it until now.
+Her hand stopped. She stared at the words. Read them again.
 
 Sarah looked up from her reading. "What?"
 
@@ -180,7 +180,7 @@ She kept writing. The vision — the private teaching, the one Peter had challen
 
 The lamp guttered. Sarah brought a fresh one without being asked.
 
-Mary wrote Darkness first — the soul passing through it the way Mary had passed through the years before Jesus found her. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street. Darkness wasn't the absence of light. It was the absence of anyone who understood.
+Mary wrote Darkness first — the soul passing through it the way she had passed through the years before Jesus found her. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street.
 
 She wrote Desire:
 
@@ -188,13 +188,13 @@ She wrote Desire:
 
 *The soul answered, "I saw you. You did not see me nor did you know me. You mistook the garment I wore for my true self. And you did not recognize me."*
 
-Her wrist ached. She flexed her fingers, kept going. The garment — the body, the face, the woman people saw when they looked at her. Desire thought it owned her because it had dressed her. But the garment wasn't her. She'd learned that in the garden when Jesus said her name and her body recognized him before her mind did — the self underneath the garment, reaching for the self underneath his.
+Her wrist ached. She flexed her fingers, kept going. Desire thought it owned her because it had dressed her. But the garment wasn't her. She'd learned that in the garden when Jesus said her name and her body recognized him before her mind did.
 
 She wrote Ignorance — the power that binds by telling the soul it cannot know. *"Why do you judge me, since I have not judged?"* the soul answered. *"I was bound, though I have not bound anything. They did not recognize me, but I have recognized that the All is to be dissolved, both the things of earth and those of heaven."*
 
 The lamp smoked. The harbor sounds had gone quiet — Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
 
-Mary wrote the final power — the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.* Seven traps. Seven ways the world convinced you that you were smaller than you were.
+Mary wrote the final power — the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.*
 
 The powers demanded to know: *"Where are you coming from, human-killer, and where are you going, space-conqueror?"*
 
@@ -236,7 +236,7 @@ Sarah was quiet for a while. Then: "How will I see the way you see? The visions 
 
 Mary took her daughter's hands. Turned them palms-up. Pressed her own palms against them.
 
-"Not your feelings," Mary said. "That's the soul. It drowns. Not your beliefs — that's the spirit. It argues." She closed her eyes. "There's a place between them. Quiet. Like the surface of the lake before wind touches it. That's where the images live. Your mind — not the part that thinks, the part that *sees*."
+"Not your feelings," Mary said. "That's the soul. It drowns." She pressed Sarah's palms harder. "Not your beliefs either. That's the spirit. It argues." She closed her eyes. The wind moved through the courtyard below. "There's a place between them. Quiet. Like the lake before wind touches it. Your mind — not the part that thinks. The part that *sees*."
 
 Sarah closed her eyes. Mary felt her daughter's pulse through their pressed palms — fast, searching.
 
@@ -250,7 +250,7 @@ Nefertari. Twelve hundred years ago. Sarah was seeing her.
 
 "That's it," Mary said. "That's where you live now."
 
-The harbor. The wind. The smell of salt and acacia from the courtyard below. The ordinary sounds of the world continuing while something enormous passed between a mother and daughter on a rooftop in Alexandria.
+The harbor. The wind. The smell of salt and acacia from the courtyard below.
 
 ---
 
@@ -262,7 +262,7 @@ Mary's eyes were open but focused on something Sarah couldn't see. Her lips move
 
 Her breathing slowed further. The room sounds fell away — the wind through the shutters, the harbor bells, the cries of gulls circling the lighthouse. Each sound retreating, one by one, like powers releasing their hold.
 
-Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember — the tension of carrying forty-two lifetimes of burning cities and scattered families — loosened. Not peace exactly. Something past peace. The expression of someone who had passed through darkness and desire and ignorance and all the wrathful wisdom of the world and come out the other side into a silence that had been waiting for her.
+Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember loosened. Not peace exactly. Something past peace. The expression of someone who had passed through darkness and desire and ignorance and all the wrathful wisdom of the world.
 
 Her hand tightened on Sarah's once. Then released.
 
@@ -272,7 +272,7 @@ And Mary Magdalene — who stood at the cross when everyone else fled, who went 
 
 Sarah sat holding her mother's hand for a long time. Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
 
-She would have copies made. Three sets — different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again. If Peter's church buried the original, the copies would survive in jars in the Egyptian desert, waiting for someone to dig them up.
+She would have copies made. Three sets — different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again.
 
 She had work to do.
 
@@ -356,7 +356,7 @@ Rome was following the cascade. She could feel it the way a sailor feels weather
 
 And her son thought Christianity would save it.
 
-She'd tried explaining. Pattern recognition. Systems thinking. The teaching beneath the theology — what Jesus had actually meant when he said *love your enemies*, which wasn't mercy but engineering. Interrupt the escalation cycle. Distribute resilience. Don't centralize what needs to scatter.
+She'd tried explaining. Pattern recognition. Systems thinking. The teaching beneath the theology — what Jesus had actually meant when he said *love your enemies*. Interrupt the escalation cycle. Distribute resilience. Don't centralize what needs to scatter.
 
 Constantine had listened. Smiled. Called her scholarly. Then gone back to planning how to use the Church as an instrument of imperial unity.
 
@@ -364,15 +364,13 @@ Tomorrow he would paint the Chi-Rho on his soldiers' shields and fight Maxentius
 
 And then Christianity — the scattered, portable, distributed methodology that had survived three centuries of persecution precisely because it had no center to destroy — would become a state religion. Centralized. Hierarchical. Imperial.
 
-The very thing Jesus died to prevent.
-
-Helena set the Pattern Eye on the table. Pressed her palms flat against the wood — the gesture Mary Magdalene had used when blood memory threatened to pull her under. Helena didn't know she was doing it. Seven generations of women had done it before her. The body remembering what the mind had lost.
+Helena set the Pattern Eye on the table. Pressed her palms flat against the wood — the gesture Mary Magdalene had used when blood memory threatened to pull her under. Helena didn't know she was doing it. Seven generations of women had done it before her.
 
 Outside, the army was making noise. Hammers on metal. Horses. The grinding machinery of men preparing to kill other men for the right to reshape civilization.
 
 She pulled papyrus toward her. Dipped her stylus.
 
-She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 48 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs when the world was about to change.
+She began writing letters. Three of them. To carriers she'd identified across the empire — weak ones, all of them, Generation 48 through 51, scattered in Antioch, Alexandria, Carthage. None strong enough to see the full pattern. All strong enough to feel the warmth beneath their ribs.
 
 The instructions were the same in each letter. The same instructions that had been passed from Nefertari to her students, from Jesus to Mary, from Mary to Sarah, from Sarah to every generation after:
 
@@ -408,7 +406,7 @@ It was always warm.
 
 **Word Count:** ~4,200 words (compressed from ~8,600)
 **Status:** REVISED — Day 7 and Day 14 cut, Thomas compressed, Ascension compressed, Pentecost cut, Mary's Gospel tightened (Nag Hammadi content preserved), Gospel recap from death scene cut, Paul scene cut entirely, Peter/James essay cut, Peter's martyrdom compressed, Jerusalem burning compressed, Epilogue cut
-**Timeline Coverage:** 32 CE - 70 CE
+**Timeline Coverage:** 33 CE - 70 CE (+ Epilogue 312 CE)
 
 **Bridge to Book 5: THE CONSTANTINE CORRUPTION**
 - **Era:** 270 CE - 337 CE (Constantine's Rise → Council of Nicaea)
