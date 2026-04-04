@@ -1,0 +1,243 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_4_nazarene_protocol/manuscript/chapters/",
+  "review_date": "2026-04-04T00:00:00.000000",
+  "genre": "intellectual-historical-thriller",
+  "review_type": "manuscript_wide_editorial_pass",
+  "personas_used": [
+    "Continuity Editor",
+    "Historical Accuracy Auditor",
+    "Voice/Prose Editor",
+    "Crutch Word Analyst",
+    "Repetition Tracker"
+  ],
+  "status": "ALL FIXES APPLIED",
+  "commits": [
+    "ecd9a39 - comprehensive editorial and historical accuracy pass",
+    "bc172d1 - epilogue/prologue: The Pattern Eye",
+    "395140a - Tier 1 continuity + Tier 2 voice polish",
+    "50babab - Tier 3 similes, repetition, prose tightening"
+  ],
+  "passes_completed": {
+    "pass_1_physical_tics": {
+      "status": "COMPLETE",
+      "description": "Audited and reduced overused physical gestures across all 14 chapters",
+      "fixes_applied": [
+        {"pattern": "trembling/shaking", "before": 27, "after": 10, "method": "Replaced with grip, numbness, stiffness, failed actions"},
+        {"pattern": "jaw clenched/worked/tightened", "before": 14, "after": 7, "method": "Varied with mouth compressing, face hardening, expression closing"},
+        {"pattern": "voice cracked", "before": 7, "after": 3, "method": "Varied with rough, thin, gave out, broke"},
+        {"pattern": "eyes closed", "before": 12, "after": 10, "method": "Replaced duplicates with dropped gaze, looked away"},
+        {"pattern": "pressed flat against thighs", "before": 3, "after": 1, "method": "Kept Ch 9 as named gesture, varied others"},
+        {"pattern": "went still", "before": 5, "after": 3, "method": "Varied with stopped, gave nothing away"},
+        {"pattern": "double flinch Ch 4", "before": 2, "after": 1, "method": "Replaced one with breath caught"}
+      ]
+    },
+    "pass_2_historical_accuracy": {
+      "status": "COMPLETE",
+      "description": "Full historical audit by two parallel research agents, all issues fixed",
+      "critical_fixes": [
+        "Crucifixion moved from Sukkot 32 CE to Passover 33 CE (all chapters updated)",
+        "Sukkot festival details replaced with Passover imagery (Ch 10-12)",
+        "Roman census reframed as Antipas tax assessment with Roman observer (Ch 1)",
+        "Paul anachronism fixed in Ch 14 (not yet converted in 33 CE)",
+        "Internal timeline contradiction resolved (Ch 8 notes vs Ch 11-12)"
+      ],
+      "moderate_fixes": [
+        "39 lashes removed (Roman scourging had no set limit)",
+        "Crossbeam weight 40 to 75 lbs (matches archaeological estimates)",
+        "Chairs to reclining at Last Supper (Ch 11)",
+        "Mary age inconsistency fixed (48 to 43 at death)",
+        "Disciple training two years to a year (fixes ministry length)",
+        "Thomas martyrdom: martyred to unreachable (still alive in 64 CE)"
+      ],
+      "minor_fixes": [
+        "Via Dolorosa removed (medieval term)",
+        "Cobblestones to paving stones (Jerusalem had fitted slabs)",
+        "Fist-to-chest salute removed (not historically attested)",
+        "Jews conscript to kill or sell into slavery (exempt from Roman service)"
+      ]
+    },
+    "pass_3_gospel_of_mary_additions": {
+      "status": "COMPLETE",
+      "description": "Added 5 passages covering 7 missing Gospel of Mary concepts, all shown through action",
+      "additions": [
+        {"name": "Peter confrontation + Levi defense", "location": "Ch 14, Day 35 scene", "concept": "Peter vs Mary authority conflict, anti-legalism irony"},
+        {"name": "Matter/root teaching", "location": "Ch 14, Gospel-writing scene", "concept": "All natures resolved into roots, connected to blood memory"},
+        {"name": "Seven Powers + soul declaration", "location": "Ch 14, Gospel-writing scene expanded", "concept": "Full seven powers of wrath, garment metaphor, rest in silence"},
+        {"name": "Nous teaching", "location": "Ch 14, death scene", "concept": "Mind as intermediary between soul and spirit, Mary teaches Sarah"},
+        {"name": "Rest in silence", "location": "Ch 14, Mary death scene", "concept": "Death mirrors Gospel — powers releasing, silence received"}
+      ]
+    },
+    "pass_4_gaul_to_alexandria": {
+      "status": "COMPLETE",
+      "description": "Moved Mary Magdalene death from Gaul/Massalia to Alexandria based on deep scholarly research",
+      "rationale": "All Mary Magdalene texts found in Egypt. Provence tradition is medieval invention (no evidence before 9th century). Alexandria had largest Jewish diaspora community (35% of city).",
+      "chapters_affected": ["Ch 5", "Ch 14 (6 references)", "Epilogue"],
+      "sensory_changes": "Lavender/hillside/sea to harbor/salt/acacia/lighthouse (Pharos of Alexandria)"
+    },
+    "pass_5_continuity_sweep": {
+      "status": "COMPLETE",
+      "description": "Full manuscript continuity check after all changes",
+      "fixes_applied": [
+        {"chapter": "Ch 11", "issue": "Sarah age 7 should be 8 at Passover 33 CE", "instances": 3},
+        {"chapter": "Ch 5", "issue": "Sarah age projection 47 should be 45 (70 CE - 25 CE)", "instances": 1},
+        {"chapter": "Ch 8", "issue": "Jesus age 36 should be 38 in continuity notes", "instances": 1},
+        {"chapter": "Ch 9", "issue": "Body text says spring but header says Summer", "instances": 1},
+        {"chapter": "Ch 14", "issue": "Metadata says 32 CE should be 33 CE", "instances": 1}
+      ]
+    },
+    "pass_6_voice_polish": {
+      "status": "COMPLETE",
+      "description": "Polished all new additions to match existing spare/physical prose voice",
+      "systemic_patterns_fixed": [
+        "Em-dash glosses (8+ cut) — explanatory clauses after concrete images",
+        "Narrator-as-essayist (5 cut) — thematic commentary breaking close POV",
+        "Future-knowledge winking (reduced from 3 to 1) — characters narrating Nag Hammadi discovery"
+      ]
+    },
+    "pass_7_crutch_words_and_similes": {
+      "status": "COMPLETE",
+      "description": "Manuscript-wide sweep for overused patterns",
+      "fixes_applied": [
+        {"pattern": "the way similes", "before": 46, "after": 25, "method": "Cut weather/sailor family (5 of 6), habitual constructions, generic comparisons"},
+        {"pattern": "repeated information", "patterns_trimmed": 7, "details": [
+          "Roman watcher cliffhanger: 3 to 1 (kept Ch 2)",
+          "Mother died at 34: 5 to 2 (fragments replace full restatements)",
+          "Jerusalem burns: 7 to 3 (characters act, stop re-declaring)",
+          "Nefertari dying/teaching: trimmed Ch 8",
+          "Five things grounding: 4 to 2 full demos",
+          "Mary fear of carrying: compressed Ch 7, kept Ch 8",
+          "Carnuntum boy: trimmed Ch 8 reference"
+        ]},
+        {"pattern": "prose fixes", "count": 12, "examples": [
+          "Cut something heavy behind his eyes (Ch 1)",
+          "Cut The kind of stillness that required effort (Ch 1)",
+          "Cut It should have felt like failure (Ch 6)",
+          "Sat down heavily to dropped onto (Ch 6)",
+          "Voice came out broken to rough (Ch 9)",
+          "Split 90-word procession sentence (Ch 12)",
+          "Something cold settled duplicate to hands went still (Ch 10)",
+          "Something worse than failure to not failure but recognition (Ch 11)"
+        ]}
+      ]
+    }
+  },
+  "remaining_tier_4": {
+    "status": "NOT STARTED",
+    "description": "Diminishing-returns passes available for future session",
+    "items": [
+      {"pattern": "em dashes", "current": 609, "target": 350, "effort": "heavy — 250+ individual decisions"},
+      {"pattern": "something (vague)", "current": 113, "target": 60, "effort": "heavy — 50+ replacements"},
+      {"pattern": "paragraph opener variety", "worst_chapters": "Ch 2 (Mary x34), Ch 1 (Marcus x23), Ch 12 (The x29)", "effort": "heavy — structural rewriting"},
+      {"pattern": "felt filtering", "current": 28, "target": 20, "effort": "light"},
+      {"pattern": "knew/understood telling", "current": 43, "target": 30, "effort": "moderate"},
+      {"pattern": "rough transitions", "locations": ["Preface to Ch1", "Ch2 to Ch3", "Ch9 to Ch10"], "effort": "light"}
+    ]
+  },
+  "summary": "Comprehensive 7-pass editorial session covering physical tics, historical accuracy, Gospel of Mary content gaps, location research (Gaul to Alexandria), continuity, voice polish, and crutch word/repetition cleanup. 4 commits, 16 files changed, ~300 individual edits across 14 chapters + epilogue.",
+  "overall_grade": "B+",
+  "counts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 6,
+    "suggestion": 6,
+    "total": 12
+  },
+  "notes_remaining": [
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "minor",
+      "category": "em_dash_overuse",
+      "location": "manuscript-wide",
+      "issue": "609 em dashes across manuscript (target: 300-350)",
+      "suggestion": "Replace many with periods, commas, or colons. Prioritize Ch 2 (76), Ch 1 (67), Ch 14 (67), Ch 12 (60)"
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "minor",
+      "category": "vague_language",
+      "location": "manuscript-wide",
+      "issue": "113 uses of 'something' as vague placeholder (target: ~60)",
+      "suggestion": "Fix 'something [adjective]' pattern first (25 instances). Especially duplicates: something enormous x3, something cold settled x2"
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "minor",
+      "category": "paragraph_structure",
+      "location": "Ch 2, Ch 1, Ch 6, Ch 11, Ch 12, Ch 14",
+      "issue": "Repeated paragraph openers — same word starting 20-34 paragraphs per chapter",
+      "suggestion": "Restructure openers using action, setting, or dialogue leads. Target: no word >10% of paragraphs"
+    },
+    {
+      "persona": "Voice/Prose Editor",
+      "severity": "suggestion",
+      "category": "filtering",
+      "location": "Preface primarily (12 uses), rest scattered",
+      "issue": "28 'felt' filtering uses across manuscript",
+      "suggestion": "Trim 5-6 from Preface where 'felt' distances reader from experience"
+    },
+    {
+      "persona": "Voice/Prose Editor",
+      "severity": "suggestion",
+      "category": "telling",
+      "location": "Ch 14 (7), Ch 11 (6), Ch 2 (5)",
+      "issue": "43 uses of knew/understood as interior telling",
+      "suggestion": "Trim weakest 10-12 — show through action or dialogue instead"
+    },
+    {
+      "persona": "Continuity Editor",
+      "severity": "suggestion",
+      "category": "transition",
+      "location": "Preface to Ch 1, Ch 2 to Ch 3, Ch 9 to Ch 10",
+      "issue": "3 rough chapter transitions — register shifts or dropped threads",
+      "suggestion": "Preface to Ch1: extreme register shift (prose-poetry to census). Ch2 to Ch3: surveillance cliffhanger evaporates. Ch9 to Ch10: 9-month gap unexplained"
+    },
+    {
+      "persona": "Continuity Editor",
+      "severity": "minor",
+      "category": "continuity_notes",
+      "location": "Ch 5, line 168",
+      "issue": "Continuity notes say Pattern Eye 'found by Mary in Byblos' but no such scene in manuscript",
+      "suggestion": "Update notes to say Pattern Eye found offscreen between chapters, or add brief reference"
+    },
+    {
+      "persona": "Continuity Editor",
+      "severity": "minor",
+      "category": "age_tracking",
+      "location": "Epilogue",
+      "issue": "Helena writes to Gen 48-51 carriers — Gen 48 would be very elderly in 312 CE",
+      "suggestion": "Change to Gen 49-51 or just 'carriers across the empire'"
+    },
+    {
+      "persona": "Continuity Editor",
+      "severity": "suggestion",
+      "category": "continuity_notes",
+      "location": "Ch 8, line 117",
+      "issue": "Carnuntum boy referenced — trimmed but could be compressed further",
+      "suggestion": "Already trimmed to 'Open hands. A system that devoured what it couldn't control.' — acceptable"
+    },
+    {
+      "persona": "Historical Accuracy Auditor",
+      "severity": "suggestion",
+      "category": "material_culture",
+      "location": "Ch 8, line 13",
+      "issue": "Red wax seal — Romans used beeswax, red sealing wax is medieval",
+      "suggestion": "Change to 'sealed with wax' without specifying color"
+    },
+    {
+      "persona": "Historical Accuracy Auditor",
+      "severity": "suggestion",
+      "category": "administrative",
+      "location": "Ch 8, line 29",
+      "issue": "'Deputy prefect' is not a standard Roman rank",
+      "suggestion": "Change to 'tribune' or 'second-in-command'"
+    },
+    {
+      "persona": "Historical Accuracy Auditor",
+      "severity": "minor",
+      "category": "geography",
+      "location": "Ch 2, line 117",
+      "issue": "Magdala to Capernaum 'eight miles' — actually ~6-7 miles",
+      "suggestion": "Change to 'seven miles' or 'an hour's walk past several fishing villages'"
+    }
+  ]
+}
