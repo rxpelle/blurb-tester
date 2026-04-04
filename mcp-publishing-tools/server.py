@@ -727,6 +727,84 @@ async def publishing_launch_add_task(plan_path: str,
 
 
 # ---------------------------------------------------------------------------
+# Launch Dashboard tools
+# ---------------------------------------------------------------------------
+
+def _import_launch_dashboard():
+    from launch_dashboard.reader import BookDataReader
+    from launch_dashboard.alerts import AlertChecker
+    from launch_dashboard.config import Config as DashConfig
+    return BookDataReader, AlertChecker, DashConfig
+
+@mcp.tool()
+async def publishing_dashboard_show(asin: str) -> str:
+    """Show a one-time snapshot of book metrics — BSR, reviews, KENP, sales with trends.
+
+    Args:
+        asin: Amazon ASIN of the book.
+    """
+    BookDataReader, _, DashConfig = _import_launch_dashboard()
+
+    def _run():
+        reader = BookDataReader(DashConfig.get_db_path())
+        book = reader.get_book(asin)
+        if not book:
+            return json.dumps({"error": f"Book {asin} not found"})
+        latest = reader.get_latest_snapshot(book['id'])
+        previous = reader.get_previous_snapshot(book['id'])
+        sales = reader.get_sales_summary(book['id'], 30)
+        return json.dumps({
+            "book": dict(book),
+            "latest_snapshot": dict(latest) if latest else None,
+            "previous_snapshot": dict(previous) if previous else None,
+            "sales_30d": dict(sales) if sales else None,
+        }, indent=2, default=str)
+
+    return await anyio.to_thread.run_sync(_run)
+
+
+@mcp.tool()
+async def publishing_dashboard_list() -> str:
+    """List all tracked books with latest BSR and review counts."""
+    BookDataReader, _, DashConfig = _import_launch_dashboard()
+
+    def _run():
+        reader = BookDataReader(DashConfig.get_db_path())
+        books = reader.get_all_books()
+        return json.dumps([dict(b) for b in books], indent=2, default=str)
+
+    return await anyio.to_thread.run_sync(_run)
+
+
+@mcp.tool()
+async def publishing_dashboard_alerts(
+    asin: str,
+    bsr_threshold: int = 100000,
+    review_threshold: Optional[int] = None,
+) -> str:
+    """Check book metrics against thresholds and report any alerts.
+
+    Args:
+        asin: Amazon ASIN.
+        bsr_threshold: Alert if BSR drops below this (default 100000).
+        review_threshold: Alert when review count reaches this number.
+    """
+    BookDataReader, AlertChecker, DashConfig = _import_launch_dashboard()
+
+    def _run():
+        reader = BookDataReader(DashConfig.get_db_path())
+        book = reader.get_book(asin)
+        if not book:
+            return json.dumps({"error": f"Book {asin} not found"})
+        latest = reader.get_latest_snapshot(book['id'])
+        checker = AlertChecker(bsr_threshold=bsr_threshold, review_threshold=review_threshold)
+        alerts = checker.check_all(book, latest)
+        return json.dumps([a.__dict__ if hasattr(a, '__dict__') else a for a in alerts], indent=2, default=str)
+
+    return await anyio.to_thread.run_sync(_run)
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 

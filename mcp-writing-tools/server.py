@@ -501,6 +501,107 @@ async def writing_wordcount(
 
 
 # ---------------------------------------------------------------------------
+# Continuity Checker tools
+# ---------------------------------------------------------------------------
+
+def _import_continuity_checker():
+    from continuity_checker.scanner import full_scan, cross_reference
+    from continuity_checker.character_check import check_characters
+    from continuity_checker.timeline_check import check_timeline
+    from continuity_checker.baseline import generate_baseline
+    return full_scan, cross_reference, check_characters, check_timeline, generate_baseline
+
+@mcp.tool()
+async def writing_continuity_scan(
+    manuscript_path: str,
+    bible_path: Optional[str] = None,
+    baseline_path: Optional[str] = None,
+    severity: str = "warning",
+    use_ai: bool = False,
+) -> str:
+    """Run a full continuity scan on a manuscript — checks characters, timeline, terminology, and baseline diffs.
+
+    Args:
+        manuscript_path: Path to manuscript directory or file.
+        bible_path: Path to series bible file/directory (optional).
+        baseline_path: Path to baseline file for diff comparison (optional).
+        severity: Minimum severity to report: error, warning, or info.
+        use_ai: Enable AI-powered semantic checks via Claude (costs API tokens).
+    """
+    full_scan, *_ = _import_continuity_checker()
+
+    def _run():
+        result = full_scan(
+            manuscript_path=manuscript_path,
+            bible_path=bible_path,
+            baseline_path=baseline_path,
+            severity=severity,
+            use_ai=use_ai,
+        )
+        if hasattr(result, '__dict__'):
+            return json.dumps(result.__dict__, indent=2, default=str)
+        return str(result)
+
+    return await anyio.to_thread.run_sync(_run)
+
+
+@mcp.tool()
+async def writing_continuity_cross_ref(
+    current_path: str,
+    previous_path: str,
+    bible_path: Optional[str] = None,
+    severity: str = "warning",
+    use_ai: bool = False,
+) -> str:
+    """Cross-reference two manuscripts (e.g. Book 3 vs Book 4) for continuity issues across books.
+
+    Args:
+        current_path: Path to current manuscript directory.
+        previous_path: Path to previous book's manuscript directory.
+        bible_path: Path to series bible (optional).
+        severity: Minimum severity: error, warning, or info.
+        use_ai: Enable AI-powered semantic checks.
+    """
+    _, cross_reference, *_ = _import_continuity_checker()
+
+    def _run():
+        result = cross_reference(
+            current_path=current_path,
+            previous_path=previous_path,
+            bible_path=bible_path,
+            severity=severity,
+            use_ai=use_ai,
+        )
+        if hasattr(result, '__dict__'):
+            return json.dumps(result.__dict__, indent=2, default=str)
+        return str(result)
+
+    return await anyio.to_thread.run_sync(_run)
+
+
+@mcp.tool()
+async def writing_generate_baseline(
+    manuscript_path: str,
+    output_path: str,
+) -> str:
+    """Generate a manuscript baseline for future diff comparisons. Records chapter structure, word counts, and checksums.
+
+    Args:
+        manuscript_path: Path to manuscript directory.
+        output_path: Path to write the baseline file.
+    """
+    *_, generate_baseline = _import_continuity_checker()
+
+    def _run():
+        result = generate_baseline(manuscript_path=manuscript_path, output_path=output_path)
+        if hasattr(result, '__dict__'):
+            return json.dumps(result.__dict__, indent=2, default=str)
+        return json.dumps({"status": "ok", "output": output_path}, default=str)
+
+    return await anyio.to_thread.run_sync(_run)
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 

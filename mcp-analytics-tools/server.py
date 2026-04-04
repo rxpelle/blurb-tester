@@ -313,6 +313,88 @@ async def analytics_backmatter_report(book_title: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Wide vs KU Simulator tools
+# ---------------------------------------------------------------------------
+
+try:
+    from wide_ku_sim.simulator import run_simulation, run_breakeven
+    from wide_ku_sim.platforms import calculate_ku_revenue, calculate_wide_revenue, PLATFORMS_WIDE
+except ImportError:
+    run_simulation = None
+    run_breakeven = None
+
+@mcp.tool()
+async def analytics_wide_ku_simulate(
+    monthly_units: int,
+    price: float,
+    kenp_reads: int,
+    page_count: int,
+    genre: str = "default",
+    iterations: int = 5000,
+) -> str:
+    """Run Monte Carlo simulation comparing KU-exclusive vs Wide distribution revenue.
+
+    Args:
+        monthly_units: Average monthly unit sales.
+        price: eBook price.
+        kenp_reads: Average monthly KENP page reads.
+        page_count: Book page count (for KENP rate).
+        genre: Genre key (thriller, romance, scifi, etc.) — affects wide multipliers.
+        iterations: Monte Carlo iterations (default 5000).
+    """
+    _check(run_simulation, "wide_ku_sim")
+    def _run():
+        result = run_simulation(
+            monthly_units=monthly_units,
+            price=price,
+            kenp_reads=kenp_reads,
+            page_count=page_count,
+            genre=genre,
+            iterations=iterations,
+        )
+        if hasattr(result, '__dict__'):
+            d = result.__dict__.copy()
+            for key in d:
+                if hasattr(d[key], '__dict__'):
+                    d[key] = d[key].__dict__
+            return json.dumps(d, indent=2, default=str)
+        return str(result)
+    return await anyio.to_thread.run_sync(_run)
+
+
+@mcp.tool()
+async def analytics_wide_ku_breakeven(
+    monthly_units: int,
+    price: float,
+    kenp_reads: int,
+    page_count: int,
+    genre: str = "default",
+) -> str:
+    """Calculate how many Wide units you'd need to match your current KU income.
+
+    Args:
+        monthly_units: Current monthly KU unit sales.
+        price: eBook price.
+        kenp_reads: Monthly KENP page reads.
+        page_count: Book page count.
+        genre: Genre key (affects wide platform multipliers).
+    """
+    _check(run_breakeven, "wide_ku_sim")
+    def _run():
+        result = run_breakeven(
+            monthly_units=monthly_units,
+            price=price,
+            kenp_reads=kenp_reads,
+            page_count=page_count,
+            genre=genre,
+        )
+        if hasattr(result, '__dict__'):
+            return json.dumps(result.__dict__, indent=2, default=str)
+        return str(result)
+    return await anyio.to_thread.run_sync(_run)
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
