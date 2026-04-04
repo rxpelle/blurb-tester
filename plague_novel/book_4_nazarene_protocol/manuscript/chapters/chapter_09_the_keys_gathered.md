@@ -1,6 +1,6 @@
 # CHAPTER 9: THE KEYS GATHERED
 
-**Timeline:** 32 CE Spring (9-10 months before crucifixion)
+**Timeline:** 32 CE Summer (9-10 months before crucifixion)
 **POV:** Jesus (primary), Mary (secondary), Marcus (brief)
 
 ---
@@ -23,7 +23,7 @@ He was the thing she'd theorized and never expected to exist.
 
 The cost of that: he carried their deaths. Not as knowledge. As experience. His great-grandmother's hands bound behind her back. A man three centuries before that, watching soldiers drag his children through a doorway. A woman hiding in a grain jar while boots passed overhead. Forty-one lifetimes of being hunted, and every one of them had happened to *him* — was happening to him, right now, in this cold room above a Galilean fishing village.
 
-His hands wouldn't stop shaking.
+He couldn't feel his fingers.
 
 "How long have you been here?"
 
@@ -31,7 +31,7 @@ Mary stood in the doorway. Her hair was loose, her feet bare — she'd heard som
 
 "Since before dawn." He wiped his face with his sleeve. "I don't need the keys anymore. I saw the whole thing. The complete structure."
 
-Mary sat across from him. She looked at his sweat-soaked tunic, his trembling hands, the way he couldn't quite hold her gaze. Neither of them spoke for a long time.
+Mary sat across from him. She looked at his sweat-soaked tunic, his white knuckles, the way he couldn't quite hold her gaze. Neither of them spoke for a long time.
 
 "Helena arrives today with two bronze keys," Mary said finally. "We don't mention this."
 
@@ -53,7 +53,7 @@ Helena unwrapped the cloth on the table. Two bronze keys — each the length of 
 
 "This is what survived." Helena's voice was flat with exhaustion. "Two keys. The Temple has three locked in their vaults. The last two have been gone since the collapse."
 
-Jesus picked up both keys. His jaw tightened — something moving behind his eyes, deepening, the way a lake goes dark when clouds cross the sun.
+Jesus picked up both keys. His face changed — something moving behind his eyes, deepening, the way a lake goes dark when clouds cross the sun.
 
 "Nine months," Helena said.
 

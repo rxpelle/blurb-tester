@@ -10,15 +10,15 @@
 
 ## SCENE 1: The Census Taker
 
-Marcus Publius Scipio stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Rome's gift to the provinces: extracting tribute dressed as civic duty.
+Marcus Publius Scipio stood in Nazareth's central square—a patch of packed dirt between limestone houses, goat dung and wet clay underfoot—watching families shuffle forward to register. Galilee's winter dampness crawled under his cloak and into his bones, the kind of cold that made his left knee—broken in Thrace, badly healed—throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers — officially to verify compliance, unofficially to identify threats. Marcus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
 
-"Name," Marcus said in Aramaic. His accent was terrible, but functional. Twenty years in the legions, half of them in eastern provinces, taught you to butcher local languages well enough to collect taxes and quell riots.
+"Name," Marcus said in Aramaic. His accent was terrible, but functional. Twenty years in the legions, half of them in eastern provinces, taught you to butcher local languages well enough to observe tax collection and quell riots.
 
-The man in front of him—weathered, mid-fifties, fisherman by the smell—gave his name, family size, property holdings. Marcus's scribe, Lucius, scratched it onto wax tablets. Standard procedure. The census data would be copied to parchment later, sent to Caesarea, forwarded to Rome where some administrator would use it to calculate taxation rates and military conscription quotas.
+The man in front of him—weathered, mid-fifties, fisherman by the smell—gave his name, family size, property holdings. Antipas's local registrar handled the actual enrollment while Marcus's scribe, Lucius, scratched duplicates onto wax tablets. Standard procedure. The census data would be copied to parchment later, sent to Caesarea for Roman records — Antipas's tribute to Rome depended on accurate counts, and Rome trusted but verified.
 
 "Next," Marcus called.
 
-This was his third census rotation in Judea. He knew the pattern: most locals complied sullenly, calculating that Roman recordkeeping was marginally less painful than Roman punishment for noncompliance. A few resisted—refused to give names, claimed they owned nothing, spat creative Aramaic insults that Marcus pretended not to understand. Those got flagged for follow-up visits from less patient colleagues.
+This was his third census observation in the eastern provinces. He knew the pattern: most locals complied sullenly, calculating that Roman recordkeeping was marginally less painful than Roman punishment for noncompliance. A few resisted—refused to give names, claimed they owned nothing, spat creative Aramaic insults that Marcus pretended not to understand. Those got flagged for follow-up visits from less patient colleagues.
 
 The Zealots would come later, after dark, when the census takers had left. They'd burn the registration records if they could get to them, kill collaborators if they couldn't. Then Rome would send more soldiers, the cycle would escalate, and in twenty years this whole province would explode into the kind of revolt Marcus had seen in Pannonia and Thrace.
 
@@ -28,7 +28,7 @@ But Marcus wasn't here to prevent revolts. He was here to count people and ident
 
 "Name."
 
-The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly—widow, two adult sons, small plot of land, no outstanding debts. Marcus nodded her through, but something in the way she held her shoulders—braced, like a woman expecting a blow—stayed with him. Her sons were military age. When the revolt came, Rome would conscript or kill them. She probably knew this. She'd stood in line anyway, because the alternative was worse.
+The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly—widow, two adult sons, small plot of land, no outstanding debts. Marcus nodded her through, but something in the way she held her shoulders—braced, like a woman expecting a blow—stayed with him. Her sons were fighting age. When the revolt came, Rome would kill them or sell them into slavery. She probably knew this. She'd stood in line anyway, because the alternative was worse.
 
 The census work was mind-numbing. Ten hours a day of names and numbers. Marcus preferred it that way. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, a boy soldier outside Carnuntum who'd dropped his shield and raised both hands, palms out, and Marcus had killed him anyway because his centurion was watching. The boy's face surfaced sometimes in the gap between one registrant and the next. Fifteen. Maybe sixteen.
 
@@ -152,7 +152,7 @@ A long silence. Lake wind moved through the square, carrying the smell of charco
 
 "Simon recognized something in you," Marcus said. "Two years ago. He's the only one who has. Until now."
 
-Jesus's jaw tightened. Then, slowly, the gate opened—not wide, just a crack. "You're affiliated."
+Jesus's expression closed. Then, slowly, the gate opened—not wide, just a crack. "You're affiliated."
 
 "Five years. Recruited in Caesarea."
 
@@ -250,7 +250,7 @@ Someone had noticed something.
 
 Caesarea gleamed white and gold — Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper — the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
 
-Marcus snapped to attention, fist to chest. "Centurion Scipio reporting, Tribune."
+Marcus snapped to attention. "Centurion Scipio reporting, Tribune."
 
 Lucullus returned the salute curtly. No pleasantries. "The carpenter in Nazareth."
 

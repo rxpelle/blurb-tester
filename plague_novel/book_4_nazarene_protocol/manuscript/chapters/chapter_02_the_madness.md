@@ -122,7 +122,7 @@ But the alternative was Magdala. The emptying warehouse. Neighbors crossing the 
 
 "Will he understand why you scream at night?"
 
-Mary felt her throat tighten. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until the trembling stopped.
+Mary felt her throat tighten. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until her breathing slowed.
 
 "I hope so, little one. I really hope so."
 
@@ -162,7 +162,7 @@ Mary almost didn't. But she was eight miles from home with a sleeping child and 
 
 "A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses." Mary's voice was steady—the voice she used for contracts, not confessions. "I know their names. Nefertari. Tausret. I don't know how I know them."
 
-Jesus's hands went still on his knees. "You see Nefertari?"
+Jesus's hands stopped on his knees. "You see Nefertari?"
 
 "Every night."
 
@@ -176,7 +176,7 @@ Mary's throat closed. "How do you—"
 
 "Because it always goes the same way. The visions overwhelm. The community calls it demons. Without help, the person—" He stopped himself. "She died young?"
 
-"Thirty-four." Mary's voice cracked despite herself. "She described cities she'd never seen. The physicians couldn't explain it. The community said demons ran in our family."
+"Thirty-four." Mary's voice went rough. "She described cities she'd never seen. The physicians couldn't explain it. The community said demons ran in our family."
 
 "Not demons. Blood. Your ancestor was there when that city fell. What she lived through went so deep it passed to her children. Forty-two generations. By the time it reached you, the memories feel as real as your own life."
 
@@ -244,7 +244,7 @@ Simon's wife Anna had taken Sarah without a word—tucked her onto a sleeping ma
 
 Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this—food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
-The twelve men were disciples — network descendants who'd been training with Jesus for two years.
+The twelve men were disciples — network descendants who'd been training with Jesus for a year.
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
@@ -256,7 +256,7 @@ Andrew shifted uncomfortably. "But teaching a woman — is that appropriate?"
 
 "When Jerusalem burns and everyone scatters, do you want half the people who can carry this forward sitting at home because we decided they were the wrong sex?" Jesus's voice had an edge now. "We teach everyone who can learn. That's how the knowledge survives."
 
-Silence. Peter's jaw worked. He didn't argue further—you didn't argue with the teacher in front of a stranger—but he didn't uncross his arms either. He sat back against the wall with the stiff patience of a man waiting for someone else to be proven wrong. Thomas glanced at Andrew. Andrew studied the floor.
+Silence. Peter's mouth compressed into a thin line. He didn't argue further—you didn't argue with the teacher in front of a stranger—but he didn't uncross his arms either. He sat back against the wall with the stiff patience of a man waiting for someone else to be proven wrong. Thomas glanced at Andrew. Andrew studied the floor.
 
 Jesus turned to Mary. "Tell them what you've been seeing. Don't filter it. Just describe the visions."
 
@@ -284,7 +284,7 @@ The disciples were quiet. Peter's arms had uncrossed.
 
 "Probably. The defensive network created seven bronze keys during the Bronze Age Collapse. Physical objects that anchored the knowledge. Some carriers fled with keys when cities burned. Your ancestor might have been one of them." Jesus's expression turned serious. "Do you remember which key? What did it look like?"
 
-Mary closed her eyes, reaching for the memory. The vision had been brief, fragmentary. But there—a bronze disc, eight inches across, covered in symbols that looked like hieroglyphics but weren't. Warm to the touch. Pulsing like it had its own heartbeat.
+Mary looked away, reaching for the memory. The vision had been brief, fragmentary. But there—a bronze disc, eight inches across, covered in symbols that looked like hieroglyphics but weren't. Warm to the touch. Pulsing like it had its own heartbeat.
 
 "A disc," Mary said. "Covered in symbols. It felt alive somehow."
 
@@ -300,7 +300,7 @@ Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced
 
 "They'll never stop. But they'll become manageable." His voice gentled. "Your mother didn't have this training. You do."
 
-Mary's jaw tightened. She'd been so certain she was following her mother's trajectory—early death, mind shattered, calling out for people dead a thousand years. The idea that the road might fork felt impossible.
+Mary's face hardened. She'd been so certain she was following her mother's trajectory—early death, mind shattered, calling out for people dead a thousand years. The idea that the road might fork felt impossible.
 
 "How long does training take?"
 

@@ -68,7 +68,7 @@ The symbols shifted, resolving into something almost familiar. Like a half-remem
 
 Jesus was staring at her. "You're reading the notation. Directly."
 
-"I'm seeing it." Her hands were shaking. "Like blood memory but — I'm choosing what to look at instead of being pulled under."
+"I'm seeing it." Her fingers had gone white around the scroll's edge. "Like blood memory but — I'm choosing what to look at instead of being pulled under."
 
 "Breathe," Jesus said, hand on her shoulder. "Name what is real."
 
@@ -84,7 +84,7 @@ Mary looked at it. Dense symbol clusters arranged in spirals. Her enhanced visio
 
 Mary reached for the next cluster. Pain lanced behind her eyes — sharp, sudden, like staring into the sun. She gasped. The symbols scrambled, reformed, scrambled again. She caught fragments: *scattering... west... generations inheriting... keys assembling...* But the details wouldn't hold.
 
-"I can't read the rest." She pulled her hands back, shaking. "It's too dense. Like trying to drink from a river." Blood trickled from her left nostril. She wiped it, stared at the red on her fingers.
+"I can't read the rest." She pulled her hands back, fingers curling into fists. "It's too dense. Like trying to drink from a river." Blood trickled from her left nostril. She wiped it, stared at the red on her fingers.
 
 "That's enough," Jesus said firmly.
 
@@ -112,7 +112,7 @@ Her stomach turned. The clarity was worse than the vision. The logic was flawles
 
 "Fifteen years. Maybe twenty. When the revolt comes, Rome destroys everything."
 
-Matthias began rolling the scrolls with trembling hands.
+Matthias began rolling the scrolls, fumbling the edges twice before getting them tight.
 
 ---
 
@@ -126,7 +126,7 @@ That night they camped in the wilderness. Peter and John slept near the fire. Je
 
 "That's not comfort."
 
-"No." Jesus picked up a stone, turned it over. "When the time comes, take Sarah west. Gaul, probably. Establish teaching communities there. By the time she has children of her own, the bloodline is stabilized somewhere Rome's collapse can't reach."
+"No." Jesus picked up a stone, turned it over. "When the time comes, take Sarah south. Alexandria. The Jewish community there is the largest outside Palestine — a third of the city. Establish teaching communities. Make copies. By the time she has children of her own, the bloodline is stabilized and the knowledge is scattered across enough hands that no single fire can destroy it."
 
 Mary thought about Sarah. Five years old now. Would be forty-seven when Jerusalem burned.
 

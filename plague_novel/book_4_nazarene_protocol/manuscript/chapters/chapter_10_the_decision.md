@@ -1,15 +1,15 @@
 # CHAPTER 10: THE DECISION
 
-**Timeline:** 32 CE Summer → Autumn (3 weeks before arrest)
+**Timeline:** 33 CE Early Spring (3 weeks before arrest)
 **POV:** Jesus (primary), Mary, Marcus (brief)
 
 ---
 
 ## SCENE 1: THE OFFER
 
-Drying fish from the lakeside racks. Overripe figs rotting in the street. The Galilean summer pressed down on Capernaum, but the upper room's thick stone walls held the night's chill, and the flagstones were cool beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
+Rain-washed nets hung from the lakeside racks. Almond blossoms dropping petals in the street. The Galilean spring hadn't warmed yet — mornings still carried winter's edge — and the upper room's thick stone walls held the night's cold, the flagstones like ice beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
 
-Marcus stood in the doorway, breathing hard from the climb — his knee worse in the heat, sweat darkening the collar of his tunic. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Sukkot."
+Marcus stood in the doorway, breathing hard from the climb — his knee stiff from the cold, breath still visible in the morning air. "Caiaphas convinced Pilate. Three weeks. Maybe four. Arrest during Passover."
 
 Outside, a donkey brayed in the market street. A child laughed. The world kept going.
 
@@ -101,7 +101,7 @@ Jesus was alone. He'd sent the others to prepare the northern routes. "Sit down,
 
 "The teaching continues *at all*." Judas stopped pacing. His voice dropped. "I've done this seven times. I know what works. You've never been extracted — you don't know how clean it can be."
 
-Jesus looked at the man he'd trusted for three years. Judas's hands were shaking — not from fear but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest.
+Jesus looked at the man he'd trusted for three years. Judas's fists were clenched at his sides — not from anger but from the force of believing he could still fix this. The same hands that had pulled seven people from the jaws of arrest.
 
 "Judas. They know about you."
 
@@ -119,7 +119,7 @@ Judas's face went white. "You can't know that."
 
 "I can't do that."
 
-Jesus stood. Put his hands on Judas's shoulders. Felt the man trembling beneath his palms. "You can. You're stronger than you think."
+Jesus stood. Put his hands on Judas's shoulders. Felt the man rigid beneath his palms. "You can. You're stronger than you think."
 
 "Don't." Judas pulled away. "Don't give me the speech you give everyone. I'm not Peter. I'm not Mary. I don't carry blood memory or teach parables or write testimonies. I *rescue people*. That's what I do. That's all I do. And you're telling me I can't do the one thing I'm good at."
 

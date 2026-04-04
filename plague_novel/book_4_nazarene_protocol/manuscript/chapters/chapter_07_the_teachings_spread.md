@@ -56,7 +56,7 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time — the way a mother counts heads at a market, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
 
-Mary pressed her hands flat against her thighs to stop their trembling. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
+Mary gripped her knees. Counted the women again. Twenty-three. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
 
 "Sisters," Mary said, and the courtyard quieted. "Last week we spoke about reading the signs of trouble in the household before violence comes. Who can share what they've practiced?"
 
@@ -96,9 +96,9 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 The familiar tension. Judas asked this in different forms every few weeks — the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
 
-"So we just accept defeat?" Judas's voice cracked. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
+"So we just accept defeat?" Judas's voice thinned to something raw. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
 
-Jesus emerged from the darkness beyond the firelight. "Fair question." He settled into his usual spot, his hands trembling — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
+Jesus emerged from the darkness beyond the firelight. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
 "What's wrong with five years?"
 
@@ -114,7 +114,7 @@ James spoke for the first time. He'd been sitting with his arms crossed since th
 
 "And if I stop one burning?" Jesus's voice was quiet. "They burn two more to make the example."
 
-"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's jaw was tight. "Not violence. But something harder than stories."
+"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's face was hard. "Not violence. But something harder than stories."
 
 Jesus looked at him for a long time. "I don't have an answer for that yet."
 

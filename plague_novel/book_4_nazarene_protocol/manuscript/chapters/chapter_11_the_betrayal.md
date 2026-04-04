@@ -1,6 +1,6 @@
 # Chapter 11: The Betrayal
 
-**Timeline:** 32 CE Autumn (Sukkot Festival - Day of Arrest)
+**Timeline:** 33 CE Spring (Passover Festival - Day of Arrest)
 **POV:** Marcus Publius Scipio (primary), Jesus, Mary, Judas
 **Word Count:** ~4,800 words
 
@@ -12,7 +12,7 @@ Marcus Publius Scipio had witnessed executions before. Fifteen years in Roman se
 
 But he'd never watched someone walk deliberately toward their own execution.
 
-The Sukkot festival morning broke clear and warm over Capernaum. Fifteen thousand pilgrims packed the streets — roasting lamb, fresh citron, sukkahs built from palm branches browning in the autumn heat. Children shrieking between the shelters. A man near the well shook a lulav, the dried fronds rattling like bones. Somewhere a shofar sounded, cutting through the noise.
+The Passover morning broke clear and cool over Jerusalem. Fifteen thousand pilgrims packed the streets — roasting lamb, fresh herbs, unleavened bread stacked in baskets outside every door. Children chasing each other through the crowds. The smell of hyssop and charred bone drifting from courtyards where families prepared the seder. Somewhere a ram's horn sounded from the Temple Mount, cutting through the noise.
 
 Marcus positioned himself at the crowd's edge, wax tablets hidden in his cloak. Close enough to observe. Far enough to slip away if things turned violent.
 
@@ -50,7 +50,7 @@ He pulled out his wax tablet, stylus moving quickly. This was the last parable J
 
 "When harvest time came," Jesus continued, "the owner sent a servant to the tenants to collect his share of the fruit. But the tenants beat him and sent him away empty-handed."
 
-Fifteen thousand faces. Mary at the crowd's edge, Sarah beside her. Mary's jaw tight. Her eyes wet. She was carrying the grief for both of them.
+Fifteen thousand faces. Mary at the crowd's edge, Sarah beside her. Mary's face drawn. Her eyes wet. She was carrying the grief for both of them.
 
 He loved her for carrying that weight so he didn't have to. And for a moment — watching her face — his throat tightened with the very human desire to step down, to go to her, to choose love over duty. The feeling passed. But it had been real.
 
@@ -94,7 +94,7 @@ Jesus broke bread with hands that would be nailed to wood tomorrow.
 
 "Take, eat," he said, passing the bread. "This is my body, given for you. Do this in remembrance."
 
-Peter took the bread with trembling hands, his weathered fisherman's fingers clumsy with the simple act. The bread passed hand to hand. Twelve disciples. One woman. One child.
+Peter took the bread with stiff fingers, his weathered fisherman's hands clumsy with the simple act. The bread passed hand to hand. Twelve disciples. One woman. One child.
 
 Jesus poured wine, the cup making rounds.
 
@@ -104,7 +104,7 @@ Sarah drank carefully, watching the adults' faces over the rim of the cup.
 
 "But understand this." Jesus set down the cup. "The one who will hand me over is here at this table."
 
-Silence. Then chairs scraping, bodies shifting, twelve men looking at each other and not liking what they saw.
+Silence. Then cushions shifting, bodies rearranging on the low couches, twelve men looking at each other and not liking what they saw.
 
 "Lord, is it I?" Peter asked, hand moving unconsciously toward his sword.
 
@@ -234,7 +234,7 @@ Marcus kept writing. Third tablet now. Judas standing alone in the emptied space
 
 Marcus knew that look. He'd worn it himself three weeks ago.
 
-He watched Judas stumble toward the Temple. Then he closed his tablet with hands that trembled, tucked all three into his cloak, and followed the arrest procession at a distance.
+He watched Judas stumble toward the Temple. Then he closed his tablet with numb fingers, tucked all three into his cloak, and followed the arrest procession at a distance.
 
 Six years of watching this man, and tomorrow he would see them kill him.
 
@@ -323,7 +323,7 @@ Somewhere on the Damascus road, a woman and a seven-year-old girl carried the te
 **END CHAPTER 11**
 
 **Word Count:** ~4,800 words (compressed from ~8,200)
-**Status:** REVISED — 7 scenes to 5, Scene 7 (Temple interrogation) cut, parable/Last Supper decodings cut, "Not X. Y." tic eliminated, Sukkot sensory detail added, Marcus personal moment added
+**Status:** REVISED — 7 scenes to 5, Scene 7 (Temple interrogation) cut, parable/Last Supper decodings cut, "Not X. Y." tic eliminated, Passover sensory detail added, Marcus personal moment added
 **Next Chapter:** Chapter 12 "The Execution" - Crucifixion sequence
 
 ---

@@ -20,13 +20,13 @@ Simon emerged from his courtyard as Jesus approached. Took one look at him. "Wha
 
 "Five years. Maybe."
 
-Simon's face went still. Then he stepped back, held the gate open. "The Twelve are inside. And the woman from Magdala — Mary. She stayed." He rubbed the back of his neck. "She's been sitting in on our discussions. I hope that's — she hears things in your teaching that take the rest of us months to grasp."
+Simon's face gave nothing away. Then he stepped back, held the gate open. "The Twelve are inside. And the woman from Magdala — Mary. She stayed." He rubbed the back of his neck. "She's been sitting in on our discussions. I hope that's — she hears things in your teaching that take the rest of us months to grasp."
 
 Jesus paused at the doorway. Inside, he could hear male voices — the disciples arguing. And underneath, quieter: a woman's voice, singing to a child. The melody was old. Network old. Passed down through families who didn't know why they sang it, only that it calmed something in the blood.
 
 "She's ready for the next phase," Jesus said. "She's not just a carrier, Simon. She's a teacher. And after what I saw at the Jordan, I need her."
 
-Inside, the Twelve stood as he entered. Fishermen and tax collectors who'd been training with him for two years. They looked older. Simon had told them.
+Inside, the Twelve stood as he entered. Fishermen and tax collectors who'd been training with him for a year. They looked older. Simon had told them.
 
 "You've heard." His hands trembled against his thighs, and he let them see it. "Five years. Maybe less. We can't prevent it."
 
@@ -56,7 +56,7 @@ She set Sarah down — nearly four, dark curls, enormous eyes. The child went to
 
 "Tomorrow I'm teaching on the hillside," Jesus said. "Come. Listen to what I say and what I *mean*. If you're right about the structure, you'll hear both layers. If you're wrong, you'll hear a sermon."
 
-Mary's jaw tightened — the expression of a woman who'd been promised explanations before and gotten exorcism prayers instead. "I'll come. But I'm not promising anything."
+Mary's mouth thinned — the expression of a woman who'd been promised explanations before and gotten exorcism prayers instead. "I'll come. But I'm not promising anything."
 
 ---
 
@@ -76,11 +76,11 @@ The crowd leaned in. Familiar rhythm. Prophetic. Echoes of Isaiah they'd heard i
 
 He let each phrase settle. Watched the crowd nod, hearing moral instruction, hope for the downtrodden. Standard religious categories.
 
-But Mary. Mary's breathing had changed — shallow, rapid, her hands pressing flat against her thighs as if steadying herself. Something behind her eyes shifted with an almost audible click, like a dislocated joint finding its socket.
+But Mary. Mary's breathing had changed — shallow, rapid, her fingers digging into the cloth over her knees as if steadying herself. Something behind her eyes shifted with an almost audible click, like a dislocated joint finding its socket.
 
 "Blessed are the peacemakers," Jesus continued, "for they will be called children of God."
 
-Mary flinched. Her hand pressed against her mouth. She was hearing something underneath the words that the crowd around her couldn't hear — the way a musician hears harmony where others hear only melody.
+Mary's breath caught. Her hand pressed against her mouth. She was hearing something underneath the words that the crowd around her couldn't hear — the way a musician hears harmony where others hear only melody.
 
 "You have heard it said, 'An eye for an eye and a tooth for a tooth.' But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also."
 
@@ -92,7 +92,7 @@ The crowd thinned. But Mary was nodding — slowly, deeply, the way someone nods
 
 He taught for two hours. By the end, perhaps six hundred remained. The rest had drifted away — confused, offended, or bored by teachings that asked them to surrender what felt like strength.
 
-Mary hadn't moved. Sarah was sleeping in her lap. Mary's spine was rigid, jaw clenched — the posture of someone holding herself together.
+Mary hadn't moved. Sarah was sleeping in her lap. Mary's spine was rigid, teeth set — the posture of someone holding herself together.
 
 Jesus descended from the outcrop.
 
@@ -106,7 +106,7 @@ Jesus descended from the outcrop.
 
 A Pharisee near the back of the dispersing crowd turned. "Woman, who taught you to interpret the teacher's words?"
 
-Mary flinched. The old instinct — possession, madness, a community deciding you were broken. But something held. She turned to face him, voice shaking at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
+Mary flinched. The old instinct — possession, madness, a community deciding you were broken. But something held. She turned to face him, voice thin at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
 
 Jesus stepped in before the confrontation could harden. "Truth is truth, no matter who finds it. A woman who understands what I'm teaching is more valuable than a man who only hears the surface."
 
@@ -140,13 +140,13 @@ Peter thought. "Tax collection. Last week. Roman soldier demanding payment from 
 
 "Yes."
 
-"That's asking victims to absorb injustice." James's voice cracked. His fists clenched against his thighs. "My father was beaten by a Roman soldier for walking too slowly on a road his own grandfather built. You want me to tell my father he should have *thanked* the soldier?"
+"That's asking victims to absorb injustice." James's voice broke. His fists clenched against his thighs. "My father was beaten by a Roman soldier for walking too slowly on a road his own grandfather built. You want me to tell my father he should have *thanked* the soldier?"
 
 The room went quiet. Even Peter looked uncomfortable.
 
 "No," Jesus said. "I want you to tell your father that his rage — justified, righteous rage — is the first stone in a road that ends with his grandchildren dead in Jerusalem's ruins." He let the silence hold. "I'm not asking for forgiveness. I'm asking for strategy."
 
-James didn't answer. His jaw worked. He didn't leave, but he didn't nod either. The tension sat in the room like heat.
+James didn't answer. His mouth compressed. He didn't leave, but he didn't nod either. The tension sat in the room like heat.
 
 Mary spoke from the corner, quietly. "Triage. When the wound is too large to heal, you stop the bleeding."
 

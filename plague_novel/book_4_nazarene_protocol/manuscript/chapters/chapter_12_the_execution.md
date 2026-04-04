@@ -1,6 +1,6 @@
 # Chapter 12: The Execution
 
-**Timeline:** 32 CE Autumn (Day After Arrest - Crucifixion Day)
+**Timeline:** 33 CE Spring (Day After Arrest - Crucifixion Day)
 **POV:** Marcus Publius Scipio (primary), Jesus (brief internal), Mary (Damascus)
 **Word Count:** ~4,500 words
 
@@ -14,7 +14,7 @@ Now he sat in pre-dawn dark and tried to eat bread. His jaw worked but his throa
 
 Fifteen executions he'd documented in his career — men who cursed Rome, begged for mercy, or went silent. Every one of them had surprised him in some small way. A Thracian bandit who'd asked the executioner to tell his mother he died well. A Jewish rebel who'd spat his own blood at Pilate's feet and laughed. But none of them — not one — had spent their final free hours teaching.
 
-The streets were waking. Bread baking, the sour smell of too many bodies packed into a festival city, animal dung in the gutters, incense from the Temple Mount drifting over everything like a lie. Sukkot pilgrims still celebrating in their palm-branch shelters while soldiers positioned at every intersection. A city in festival dress attending an execution.
+The streets were waking. Bread baking, the sour smell of too many bodies packed into a festival city, animal dung in the gutters, incense from the Temple Mount drifting over everything like a lie. Passover pilgrims still preparing the seder while soldiers positioned at every intersection. A city in festival dress attending an execution.
 
 Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. He understood the impulse — the need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
 
@@ -56,7 +56,7 @@ Jesus was stripped and bound to the post. The soldier took position. Drew back.
 
 The first blow opened skin from shoulder blade to spine. Jesus's body jerked against the ropes but he didn't cry out. The soldier struck again. And again. By the tenth lash, Jesus's back was a landscape of torn flesh and exposed muscle. By the twentieth, blood ran down his legs and pooled on the courtyard stones. By the thirtieth, the soldier's arm was slowing, not from mercy but from fatigue.
 
-Thirty-nine lashes. Jesus made no sound. Not one.
+The soldier stopped when his arm gave out. Jesus had made no sound. Not one.
 
 The soldiers looked at each other. They'd all heard men scream.
 
@@ -68,15 +68,15 @@ Pilate brought him out again. "Ecce homo." Behold the man.
 
 The crowd demanded crucifixion.
 
-They gave him his crossbeam. Forty pounds of rough-hewn wood across shoulders already destroyed. The procession began.
+They gave him his crossbeam. Seventy-five pounds of rough-hewn wood across shoulders already destroyed. The procession began.
 
 ---
 
 ## Scene 3: The Procession
 
-The Via Dolorosa wound uphill through Jerusalem's narrowest streets — barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the cobblestones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather. The smell of five thousand unwashed bodies mixed with festival cooking — roasting lamb, fresh bread, the sharp sweetness of citron — and underneath it all the iron tang of blood from the man at the procession's center.
+The procession route wound uphill through Jerusalem's narrowest streets — barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the paving stones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather. The smell of five thousand unwashed bodies mixed with festival cooking — roasting lamb, fresh bread, the bitter edge of horseradish — and underneath it all the iron tang of blood from the man at the procession's center.
 
-Jesus carried the crossbeam across his shoulders. Forty pounds of rough-hewn cedar, the bark still on it, pressing into flesh already destroyed by the flagrum. Each step left blood on the cobblestones. Crown of thorns still pressed into his skull — rivulets dried brown on his forehead, fresh red where the thorns shifted with each step. Four soldiers surrounding him, their hobnailed sandals grinding against the stone. Two criminals following behind with their own crossbeams, one weeping, one staring straight ahead.
+Jesus carried the crossbeam across his shoulders. Seventy-five pounds of rough-hewn cedar, the bark still on it, pressing into flesh already destroyed by the flagrum. Each step left blood on the paving stones. Crown of thorns still pressed into his skull — rivulets dried brown on his forehead, fresh red where the thorns shifted with each step. Four soldiers surrounding him, their hobnailed sandals grinding against the stone. Two criminals following behind with their own crossbeams, one weeping, one staring straight ahead.
 
 Marcus followed thirty paces back, close enough to see the blood trail, far enough to disappear into the crowd if he had to.
 
@@ -84,7 +84,7 @@ Women wailed along the route — the keening rising and falling like something a
 
 "Daughters of Jerusalem. Don't weep for me. Weep for yourselves and your children. For the days are coming when they will say, 'Blessed are the barren, blessed are the wombs that never bore.'"
 
-Jesus stumbled. His knee hit the cobblestones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
+Jesus stumbled. His knee hit the paving stones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
 
 The soldiers grabbed a man from the crowd — broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
 
@@ -180,7 +180,7 @@ To John: "Behold your mother."
 
 Then he looked at Mary Magdalene. She held his gaze the way you hold someone's hand when they're dying, except she couldn't reach him. So she held him with her eyes instead.
 
-The darkness continued. Three hours that felt like seasons. The wind picked up — cold now, wrong for autumn, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
+The darkness continued. Three hours that felt like seasons. The wind picked up — cold now, bitter for spring, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
 
 He watched Jesus's breathing slow — each push-up on the foot nail taking longer, the pause at the bottom stretching until Marcus found himself counting, his own chest tight, willing the next breath. The muscles in Jesus's shoulders had begun to spasm visibly, the body's machinery failing in sequence. Each breath shallower than the last.
 

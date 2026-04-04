@@ -1,10 +1,10 @@
 # CHAPTER 14: The Scatter
 
-**32 CE Spring - 70 CE Autumn**
+**33 CE Spring - 70 CE Autumn**
 
 ---
 
-## PART ONE: The Forty Days (32 CE Spring)
+## PART ONE: The Forty Days (33 CE Spring)
 
 ### Day Twenty-Eight: The Upper Room
 
@@ -16,7 +16,7 @@ Now he stood in the upper room with the other disciples — twelve people in a s
 
 "You're hauling on the wrong net," Peter said. "Look around you. We're here. We're doing what he taught us. The teaching didn't die with him. That's the only resurrection I need."
 
-"But Paul's converting gentiles by promising literal resurrection," Thomas countered. "Physical body returning from death. If that's false, we're building everything on a lie."
+"But Peter's already telling people he rose bodily from the dead," Thomas countered. "Physical body returning from death. If that's false, we're building everything on a lie."
 
 "Or building it on more than one truth," Mary Magdalene said. She'd arrived from Damascus two days prior with Sarah. "All real. All serving different purposes."
 
@@ -50,7 +50,7 @@ His hand began to shake.
 
 "My Lord and my God," Thomas said.
 
-He hadn't touched. The doubt hadn't vanished. But his hand was shaking and his eyes were wet and the figure was standing there casting shadow in the lamplight.
+He hadn't touched. The doubt hadn't vanished. But his hand hung in the air and his eyes were wet and the figure was standing there casting shadow in the lamplight.
 
 Jesus smiled. "Because you have seen me, you have believed. Blessed are those who have not seen and yet have believed."
 
@@ -62,7 +62,41 @@ Thomas stared at his own hands. Physician's hands that had examined countless bo
 
 ---
 
-### Day Forty: The Ascension
+### Day Thirty-Five: The Challenge
+
+Peter found Mary alone in the courtyard, grinding herbs for the evening meal. Sarah was with Joanna's children. The sun was low and the stone walls held the day's heat.
+
+"The vision you described," Peter said. He stood with his arms crossed, blocking the doorway. "The soul rising past powers. The teaching about sin not existing." He let the pause fill. "He never said those things to us."
+
+"He said them to me."
+
+"Privately. In secret." Peter's voice was careful, controlled — the voice of a man who'd rehearsed this. "Did he really speak with a woman in preference to us, and not openly? Are we supposed to turn around and listen to you?"
+
+Andrew appeared behind Peter. "I don't believe the Savior said these things. These are strange ideas."
+
+Mary set down the pestle. Her hands were steady. She'd been waiting for this since the garden — since Jesus had warned her, *they'll bury it*. She hadn't expected it to come from the man who'd wept at the Last Supper.
+
+"Peter." She met his eyes. "Do you think I made it up? Do you think I invented a teaching and put it in his mouth?"
+
+Peter didn't answer. His face said what his mouth wouldn't.
+
+Matthew stepped into the courtyard. He'd been listening from the hall — the former tax collector who understood how power worked, how it consolidated, how it wrote its own history.
+
+"Peter." Matthew's voice was quiet but it carried. "If the Savior made her worthy, who are you to reject her? He knew her. He loved her more than us. We should be ashamed of ourselves."
+
+Nobody spoke. A child laughed somewhere in the house. The herbs Mary had been grinding released their smell — bitter, green, medicinal.
+
+"We should prepare ourselves," Matthew continued. "Preach the good news the way he told us. Not lay down rules he never made."
+
+Peter uncrossed his arms. He didn't apologize. He didn't agree. He walked out of the courtyard, and Mary heard him in the next room, already talking to Andrew about organizational structure, about rules for worship, about who could teach and who could not.
+
+She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone — the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert, and someone would find it seventeen centuries later and read it and know.
+
+She ground the herbs until there was nothing left to grind.
+
+---
+
+
 
 They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's circles, Marcus writing from the edges. The air smelled of wild thyme and warm stone.
 
@@ -80,7 +114,7 @@ Some witnesses would swear he rose into clouds. Some would understand it differe
 
 "What now?" Sarah asked.
 
-Mary knelt to her daughter's level. "Now we wait ten days. Then we scatter. You and I to Egypt, eventually Gaul. Peter to Rome. Everyone else to different cities, as far apart as we can get."
+Mary knelt to her daughter's level. "Now we wait ten days. Then we scatter. You and I south to Alexandria. Peter to Rome. Everyone else to different cities, as far apart as we can get."
 
 "Why far apart?"
 
@@ -98,13 +132,13 @@ Forty days complete. Now the long work.
 
 ---
 
-## PART TWO: The Long Decades (32-70 CE)
+## PART TWO: The Long Decades (33-70 CE)
 
 ### 40 CE: Mary's Gospel
 
 Mary Magdalene sat in an upper room in Alexandria, papyrus spread before her, stylus moving carefully. The room smelled of lamp oil and the harbor beyond the window. Her hand ached. She didn't stop.
 
-Eight years since the crucifixion. Sarah, fifteen, sat nearby.
+Seven years since the crucifixion. Sarah, fifteen, sat nearby.
 
 "What are you writing?"
 
@@ -115,6 +149,16 @@ She wrote his words on the nature of sin:
 *"Sin does not exist. Rather it is you who make sin when you do the things which are like the nature of adultery, which is called 'sin.' Because of this the Good came among you to the things belonging to all nature, in order to set it within its root."*
 
 She set down the stylus. Heard his voice in the words — the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
+
+She dipped the stylus again. Wrote what he'd said about the nature of everything:
+
+*"All natures, all formed things, all creatures exist in and with one another, and they will again be resolved into their own roots. For the nature of matter is dissolved into what belongs to its nature alone."*
+
+Her hand stopped. She stared at the words. *Resolved into their own roots.* The teaching describing its own survival — knowledge dissolving into blood, into bone, into the bodies of daughters and granddaughters who would carry it without knowing they carried it, until someone reached left in her sleep and found it waiting. She'd been living inside this sentence her whole life. She just hadn't had the words for it until now.
+
+Sarah looked up from her reading. "What?"
+
+"Nothing." Mary wiped her eyes with the back of her wrist and kept writing.
 
 She wrote his farewell:
 
@@ -132,13 +176,35 @@ Then she wrote what happened after he left them:
 
 The first sermon after the resurrection wasn't Peter's at Pentecost. It was hers, in that room, to eleven men who couldn't stop weeping.
 
-She kept writing. The vision — the private teaching, the one Peter would later challenge. The soul's ascent past the Powers:
+She kept writing. The vision — the private teaching, the one Peter had challenged in that courtyard. The soul's ascent past the Powers.
+
+The lamp guttered. Sarah brought a fresh one without being asked.
+
+Mary wrote Darkness first — the soul passing through it the way Mary had passed through the years before Jesus found her. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street. Darkness wasn't the absence of light. It was the absence of anyone who understood.
+
+She wrote Desire:
 
 *And Desire said, "I did not see you go down, yet now I see you go up. So why do you lie since you belong to me?"*
 
 *The soul answered, "I saw you. You did not see me nor did you know me. You mistook the garment I wore for my true self. And you did not recognize me."*
 
-She wrote through the night. By morning, the Gospel was complete. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. She didn't know which pages would survive. She wrote them all.
+Her wrist ached. She flexed her fingers, kept going. The garment — the body, the face, the woman people saw when they looked at her. Desire thought it owned her because it had dressed her. But the garment wasn't her. She'd learned that in the garden when Jesus said her name and her body recognized him before her mind did — the self underneath the garment, reaching for the self underneath his.
+
+She wrote Ignorance — the power that binds by telling the soul it cannot know. *"Why do you judge me, since I have not judged?"* the soul answered. *"I was bound, though I have not bound anything. They did not recognize me, but I have recognized that the All is to be dissolved, both the things of earth and those of heaven."*
+
+The lamp smoked. The harbor sounds had gone quiet — Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
+
+Mary wrote the final power — the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.* Seven traps. Seven ways the world convinced you that you were smaller than you were.
+
+The powers demanded to know: *"Where are you coming from, human-killer, and where are you going, space-conqueror?"*
+
+And the soul — her soul, the soul she'd carried through Magdala and Capernaum and Jerusalem and the garden and the cross and Alexandria — answered:
+
+*"What binds me has been slain, and what surrounds me has been destroyed, and my desire has been brought to an end, and ignorance has died. In a world I was set loose from a world, and in a type, from a type which is above, and from the chain of forgetfulness which exists in time. From this hour on, for the time of the due season of the aeon, I will receive rest in silence."*
+
+Mary set down the stylus. Her hand had cramped into the shape of holding it. Dawn light was coming through the window — grey, then blue, then the first gold touching the harbor water.
+
+She looked at the papyrus spread across the table. Twenty-three pages. The only account written by someone who was there for all of it — the teaching, the cross, the tomb, the garden. She didn't know which pages would survive. She wrote them all.
 
 ---
 
@@ -146,9 +212,9 @@ She wrote through the night. By morning, the Gospel was complete. The only accou
 
 Mary Magdalene knew three days before it happened. Through her body. The warmth beneath her left ribs had begun to move out. Like a tide withdrawing.
 
-She was forty-eight years old. Living in a small stone house outside Massalia, in Gaul, the sea visible from her doorway. Ten years since the crucifixion. Her Gospel was written. Her teaching was encoded. Her body had done its work.
+She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the harbor — rigging, gulls, the creak of trading vessels — always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was encoded. Her body had done its work.
 
-Sarah found her in the garden behind the house, face turned toward the sea. Seventeen years old.
+Sarah found her on the rooftop at dusk, face turned toward the harbor. Seventeen years old.
 
 "You're dying," Sarah said.
 
@@ -166,19 +232,47 @@ Sarah pressed her hand to her own left side. "I feel it in you right now. Moving
 
 "It's moving to you."
 
-The sea. The wind. The smell of wild lavender from the hillside. The ordinary sounds of the world continuing while something enormous passed between a mother and daughter in a garden in Gaul.
+Sarah was quiet for a while. Then: "How will I see the way you see? The visions — when they come, I can't hold them. They pull me under."
+
+Mary took her daughter's hands. Turned them palms-up. Pressed her own palms against them.
+
+"Not your feelings," Mary said. "That's the soul. It drowns. Not your beliefs — that's the spirit. It argues." She closed her eyes. "There's a place between them. Quiet. Like the surface of the lake before wind touches it. That's where the images live. Your mind — not the part that thinks, the part that *sees*."
+
+Sarah closed her eyes. Mary felt her daughter's pulse through their pressed palms — fast, searching.
+
+"Don't reach for it," Mary whispered. "Let it reach for you."
+
+Sarah's breathing changed. Slowed. Her eyelids flickered. Then her grip tightened — sharp, sudden — and her mouth opened.
+
+"I see a woman. Red hair. Standing in a workshop. Bronze tools." Sarah's voice was distant, unfocused. "She's dying. Fever. But she's teaching — eighty students, maybe more. She won't stop."
+
+Nefertari. Twelve hundred years ago. Sarah was seeing her.
+
+"That's it," Mary said. "That's where you live now."
+
+The harbor. The wind. The smell of salt and acacia from the courtyard below. The ordinary sounds of the world continuing while something enormous passed between a mother and daughter on a rooftop in Alexandria.
 
 ---
 
-She died on the third day. Sarah felt the breathing change — shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words. Then the warmth rising from Mary's body. Not disappearing — *transferring*.
+She died on the third day. Sarah felt the breathing change — shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words.
+
+Mary's eyes were open but focused on something Sarah couldn't see. Her lips moved. Sarah leaned close.
 
 "Tell them what you saw," Mary whispered. "Not what it meant. What you *saw*."
 
+Her breathing slowed further. The room sounds fell away — the wind through the shutters, the harbor bells, the cries of gulls circling the lighthouse. Each sound retreating, one by one, like powers releasing their hold.
+
+Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember — the tension of carrying forty-two lifetimes of burning cities and scattered families — loosened. Not peace exactly. Something past peace. The expression of someone who had passed through darkness and desire and ignorance and all the wrathful wisdom of the world and come out the other side into a silence that had been waiting for her.
+
 Her hand tightened on Sarah's once. Then released.
 
-And Mary Magdalene — who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — died in a stone house in Gaul with her daughter's hand in hers and the smell of lavender through the window and the sea continuing its patient work against the shore.
+Then the warmth rising from Mary's body. Not disappearing — *transferring*.
+
+And Mary Magdalene — who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — received her rest in silence, in a whitewashed room in Alexandria with her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
 
 Sarah sat holding her mother's hand for a long time. Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
+
+She would have copies made. Three sets — different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again. If Peter's church buried the original, the copies would survive in jars in the Egyptian desert, waiting for someone to dig them up.
 
 She had work to do.
 
@@ -190,9 +284,9 @@ Rome was burning. The sky had been orange for three days, ash drifting through t
 
 The cell was damp — cold seeping through stone into his bones. Peter held the Pattern Eye one final time. The bronze was cold. He warmed it between his palms the way he'd once warmed his hands over a charcoal fire in the high priest's courtyard, the night he'd denied knowing Jesus three times. Torchlight from the corridor caught the carved lines. Sixty-eight years old. Fisherman's hands still calloused, still too large for delicate work. Apostle.
 
-Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Gaul.
+Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Alexandria.
 
-"Everyone is disappearing," she said. "Thomas martyred in India. Paul executed last month. Who carries it forward?"
+"Everyone is disappearing," she said. "Thomas unreachable in India. Paul executed last month. Who carries it forward?"
 
 "You. And your daughter. The blood remembers."
 
@@ -212,7 +306,7 @@ Two days later, in the sand of Nero's circus, Peter felt rough wood against his 
 
 Sarah stood on the Mount of Olives, watching Jerusalem burn below.
 
-Thirty-eight years since crucifixion. Exactly as Jesus predicted.
+Thirty-seven years since crucifixion. Exactly as Jesus predicted.
 
 Titus's legions had besieged the city for five months. Eighty thousand soldiers starving one million people trapped inside walls. Now the Temple was burning — stone cracking under heat stress, cedar beams consumed, gold overlay melting down stone faces like divine tears.
 

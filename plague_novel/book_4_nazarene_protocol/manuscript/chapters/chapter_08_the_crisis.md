@@ -80,7 +80,7 @@ Simon's hand tightened on his cup but his face stayed flat. "Can you stop it?"
 
 "He doesn't need saving. He needs someone to write down the truth." Simon was quiet a moment. "Jesus said you'd understand. Two years ago, after your first protective report. He said, 'Marcus is learning to think in generations, not months.'"
 
-Marcus closed his eyes. Generations, not months.
+Marcus dropped his gaze. Generations, not months.
 
 ---
 
@@ -130,7 +130,7 @@ She was teaching eighty women in the large room — oil lamps guttering in the d
 
 Mary opened her mouth. Nothing came. Eighty faces waiting, and she couldn't remember what she was supposed to say next.
 
-"We'll continue next week," she managed. The women dispersed slowly, exchanging glances. Sarah helped the younger children clean up the pattern stones — seven years old, not yet understanding why her mother's hands were shaking.
+"We'll continue next week," she managed. The women dispersed slowly, exchanging glances. Sarah helped the younger children clean up the pattern stones — seven years old, not yet understanding why her mother couldn't finish the lesson.
 
 When the room was empty except for Leah, the silence crushed in.
 
@@ -138,9 +138,9 @@ When the room was empty except for Leah, the silence crushed in.
 
 "Mary —"
 
-"He sees everything. Three thousand years, clear as water." Mary's voice cracked. "I see fragments. Broken pieces. I have to *guess*. And Peter —" She stopped. Started again. "Peter told the others I'm costing them followers. Six men left last month. He's not wrong — they *are* leaving. What if Jesus dies and Peter decides the teaching survives better without me?"
+"He sees everything. Three thousand years, clear as water." Mary's voice gave out. "I see fragments. Broken pieces. I have to *guess*. And Peter —" She stopped. Started again. "Peter told the others I'm costing them followers. Six men left last month. He's not wrong — they *are* leaving. What if Jesus dies and Peter decides the teaching survives better without me?"
 
-She stopped. Her hands were shaking so badly she pressed them flat against her thighs.
+She stopped. She pressed her palms flat against her thighs and held them there until the nails bit crescents into the cloth.
 
 "Then we adapt when we're wrong," Leah said quietly. Rachel and Abigail had come back, standing in the doorway. "Three of us can hold both layers now. Because you taught us."
 

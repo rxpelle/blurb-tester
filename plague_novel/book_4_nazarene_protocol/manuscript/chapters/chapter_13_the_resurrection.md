@@ -1,6 +1,6 @@
 # CHAPTER 13: The Resurrection
 
-**32 CE Autumn - Three Days After Crucifixion**
+**33 CE Spring - Three Days After Crucifixion**
 
 ---
 
@@ -28,11 +28,11 @@ Dawn was approaching. The earth trembled.
 
 Mary Magdalene had not slept in three days.
 
-Her hands trembled as she rolled the spice jars between her palms. Three days of lying on borrowed straw, watching shadows crawl across unfamiliar walls. Her eyelids felt like sandpaper. Her mouth tasted of copper and exhaustion. Myrrh, aloe, nard — she'd purchased them the evening after burial and hadn't let go of them since.
+Her fingers kept losing their grip on the spice jars, rolling them between palms that wouldn't stay still. Three days of lying on borrowed straw, watching shadows crawl across unfamiliar walls. Her eyelids felt like sandpaper. Her mouth tasted of copper and exhaustion. Myrrh, aloe, nard — she'd purchased them the evening after burial and hadn't let go of them since.
 
 Joanna and Salome met her before dawn. One look and neither asked.
 
-The three women walked through Jerusalem's pre-dawn streets — past the lingering scent of cooking fires, over cobblestones damp with dew — carrying spices to anoint a dead man's body.
+The three women walked through Jerusalem's pre-dawn streets — past the lingering scent of cooking fires, over paving stones damp with dew — carrying spices to anoint a dead man's body.
 
 The earthquake hit as they crossed the Kidron Valley. The ground shuddering beneath their feet, enough to crack plaster and send loose stones skittering. Mary steadied herself against a wall, the cool stone rough under her palm.
 
@@ -40,7 +40,7 @@ They climbed toward the garden.
 
 The guards were gone. And the stone was rolled.
 
-Mary stopped ten paces from the tomb entrance, the spice jars suddenly absurd in her trembling hands.
+Mary stopped ten paces from the tomb entrance, the spice jars suddenly absurd in her hands.
 
 She approached. The tomb smelled of cold stone and myrrh, the spices Nicodemus had used still clinging to the air. She looked inside.
 
@@ -174,5 +174,5 @@ Mary would write her account by lamplight while Sarah slept. They would suppress
 
 **Word Count:** ~4,200 words (compressed from ~9,400)
 **Status:** REVISED — 8 scenes to 4, Caiaphas monologue cut, Peter verification cut, empty tomb told once, garden encounter preserved, Damascus reunion compressed
-**Timeline:** 32 CE Autumn, Resurrection Day
+**Timeline:** 33 CE Spring, Resurrection Day
 **Bridge to Chapter 14:** Forty-day appearance period, ascension, church formation
