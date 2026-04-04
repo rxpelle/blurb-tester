@@ -16,7 +16,7 @@ Pi-Ramesses flickered behind her eyes. Flames licking at mud-brick walls, refuge
 
 The burning city held steady in memory's corner, observed rather than experienced. Two years of practice. The visions still came each night. But she could hold them without drowning.
 
-She dressed quietly. Sarah — five years old now — had arranged her sleeping pebbles into geometric patterns overnight without waking. Instinctive ordering. Three years ago that would have terrified Mary. Now she understood what it meant.
+She dressed quietly. Sarah — five years old now — had arranged her sleeping pebbles into geometric patterns overnight without waking. Instinctive ordering. Three years ago that would have terrified Mary. Now she let it be.
 
 Outside, Capernaum stirred in predawn grey. Mary saw what she hadn't been able to see before her training: Roman soldiers demanding more taxes each year. Temple priests taking bigger cuts. Young men disappearing into the hills. The same pattern she'd watched burn Pi-Ramesses — pressure building until it exploded.
 

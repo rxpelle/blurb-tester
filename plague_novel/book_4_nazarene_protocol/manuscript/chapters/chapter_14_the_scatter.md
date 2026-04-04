@@ -120,7 +120,7 @@ Mary knelt to her daughter's level. "Now we wait ten days. Then we scatter. You 
 
 "So they can't burn it all in one place."
 
-Sarah nodded. She understood fire. She'd dreamed it. Pi-Ramesses, Babylon, cities she couldn't name. Fire was what happened when everything stayed in one place too long.
+Sarah nodded. She'd dreamed it. Pi-Ramesses, Babylon, cities she couldn't name. Fire was what happened when everything stayed in one place too long.
 
 "And me? When I'm grown?"
 

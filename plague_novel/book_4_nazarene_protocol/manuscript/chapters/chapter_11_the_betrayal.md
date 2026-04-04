@@ -164,7 +164,7 @@ Then the door burst open.
 
 *Judas POV*
 
-The plan was perfect. Judas had done this before, seven successful rescues in his twelve years with the network. He knew the method. Create chaos. Use the confusion. Pull the man out during the violence.
+The plan was perfect. Judas had done this before, seven successful rescues in his twelve years with the network. Create chaos. Use the confusion. Pull the man out during the violence.
 
 Twenty guards bribed. Half the Temple force. They would "arrest" Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus. The real carrier would escape through the Damascus route Simon had prepared.
 
@@ -176,7 +176,7 @@ Everything proceeding as planned.
 
 "The one I greet with a kiss is the man," Judas said to the guards. The signal. The bribed guards would recognize it, move to create the opening.
 
-Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route—good. They understood timing.
+Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route—good. 
 
 Judas approached, committed to the role. "Greetings, Rabbi." He kissed Jesus on the cheek.
 
@@ -232,7 +232,7 @@ They bound his hands without gentleness.
 
 Marcus kept writing. Third tablet now. Judas standing alone in the emptied space, staring at Jesus being led away — his face showing not failure but recognition. His own purpose walking away in chains.
 
-Marcus knew that look. He'd worn it himself three weeks ago.
+He'd worn that look himself three weeks ago.
 
 He watched Judas stumble toward the Temple. Then he closed his tablet with numb fingers, tucked all three into his cloak, and followed the arrest procession at a distance.
 

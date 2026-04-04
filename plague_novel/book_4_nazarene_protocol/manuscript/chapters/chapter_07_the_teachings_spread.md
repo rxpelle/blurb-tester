@@ -90,7 +90,7 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 "Then why teach publicly at all?" Judas's jaw worked, grinding words between his teeth. "Why not train fighters instead of telling stories about Samaritans?"
 
-"It's how you spread something that lasts," Matthew said. The former tax collector understood how things moved through people. "He's trying to preserve knowledge that outlives Rome."
+"It's how you spread something that lasts," Matthew said. The former tax collector had watched things move through people his whole career. "He's trying to preserve knowledge that outlives Rome."
 
 "Rome isn't going anywhere," Judas said flatly.
 

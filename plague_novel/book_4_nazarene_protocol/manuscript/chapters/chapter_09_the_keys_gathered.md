@@ -109,7 +109,7 @@ They left the cave after dark. Jesus ate nothing. Spoke once, to ask for water. 
 
 He lay on his back, staring up. "I understand now why Nefertari accepted execution."
 
-Mary pulled her blanket tighter. She already knew what he meant. That was the worst part.
+Mary pulled her blanket tighter. That was the worst part.
 
 ---
 

@@ -72,7 +72,7 @@ Mary walked toward the salting works — her salting works — where the morning
 
 "Mary." Tobias—sixty, his skin creased from decades of lake wind, her foreman since her father's time—approached with the careful posture of a man delivering bad news.
 
-Mary's stomach dropped. She knew that tone.
+Mary's stomach dropped.
 
 "Three more workers quit. Joanna won't watch Sarah today." He wasn't meeting her eyes. "You collapsed in the synagogue yesterday. Started speaking in languages nobody recognized. The workers think you're cursed, Mary. They think it'll spread to their families."
 
@@ -86,7 +86,7 @@ Sarah was playing near the water's edge, throwing pebbles. Unaware that their wo
 
 Mary sat on the dock and watched her daughter. The salt wind stung her eyes—or maybe that wasn't the wind. She'd tried the exorcists. Twice. Prayers, herbs, salt and oil, invoking divine names. The second time, she'd dreamed Pi-Ramesses burning so vividly she'd woken with the smell of smoke in her hair.
 
-It wasn't possession. She knew that now. It was inherited. Carried in the blood. Her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
+It wasn't possession. It was inherited. Carried in the blood. Her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
 
 She'd asked the synagogue teachers about the city she kept seeing. Described it—grid pattern, four quarters, Nile Delta. The rabbi had looked disturbed. Said Pi-Ramesses was real, abandoned over a thousand years ago. How did a fish-merchant from Magdala know the layout of a city that no longer existed?
 

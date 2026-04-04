@@ -36,7 +36,7 @@ Marcus said nothing. He'd filed reports on Mary for three years. To him, it look
 
 "He called the Temple 'a den of thieves.' Overturned tables in the outer courts. Disrupted commerce." Lucullus's tone was flat. "Also claims to have special authority. Says he can destroy the Temple and rebuild it in three days. The priests interpret that as a threat."
 
-Marcus knew what Jesus meant. "Current institutions will collapse," not "I'll demolish the building." But explaining that to Caiaphas would require admitting things Marcus couldn't admit.
+"Current institutions will collapse," not "I'll demolish the building." But explaining that to Caiaphas would require admitting things Marcus couldn't admit.
 
 "The Zealots?" Marcus asked instead.
 
@@ -200,7 +200,7 @@ Marcus dropped onto his bunk, gladius still in hand. The nard smell lingered, ri
 
 The lamp had burned low. In its dying light, the walls of his quarters looked like what they were: a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
 
-He understood the trap. Understanding it didn't mean he could escape it.
+The trap was clean. Seeing it didn't mean he could escape it.
 
 ---
 
@@ -288,7 +288,7 @@ Marcus said nothing.
 
 "I should prosecute you. Concealment. Dereliction. Treason." Lucullus set down his tablet. "But a trial draws attention to things Pilate doesn't want examined. Questions about how a centurion filed false reports for five years without his tribune noticing." His jaw tightened. "So. Discharge. Immediate. No pension. No honors. Your replacement arrives tomorrow."
 
-Marcus understood. Lucullus was protecting himself, not Marcus. The cold calculation of a man who'd rather lose a centurion than answer uncomfortable questions.
+Lucullus was protecting himself, not Marcus. The cold calculation of a man who'd rather lose a centurion than answer uncomfortable questions.
 
 "You've bought him six months," Lucullus said. "Maybe less."
 

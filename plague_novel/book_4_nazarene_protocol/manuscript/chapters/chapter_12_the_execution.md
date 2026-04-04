@@ -16,7 +16,7 @@ Fifteen executions he'd documented in his career, men who cursed Rome, begged fo
 
 The streets were waking. Bread baking, the sour smell of too many bodies packed into a festival city, animal dung in the gutters, incense from the Temple Mount drifting over everything like a lie. Passover pilgrims still preparing the seder while soldiers positioned at every intersection. A city in festival dress attending an execution.
 
-Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. He understood the impulse: the need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
+Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. The need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
 
 He walked toward the Praetorium.
 
