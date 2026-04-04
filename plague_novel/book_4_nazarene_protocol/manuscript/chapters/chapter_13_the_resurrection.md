@@ -144,7 +144,7 @@ She wiped her face. Then ran toward the upper room where twelve men hid behind a
 
 ## Scene 4: Damascus
 
-Mary Magdalene entered the courtyard at dusk, five days later. Road-worn, thinner. She moved differently — slower, more deliberate, the way someone moves when they're carrying something they can't set down.
+Mary Magdalene entered the courtyard at dusk, five days later. Road-worn, thinner. She moved differently — slower, more deliberate.
 
 Sarah ran to her. Mary dropped to her knees and pulled her daughter against her chest and held her and didn't speak.
 

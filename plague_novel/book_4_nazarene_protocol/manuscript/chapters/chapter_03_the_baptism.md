@@ -12,7 +12,7 @@
 
 John the Baptist heard him coming before he saw him.
 
-Not footsteps—the Jordan's rush drowned those. Something else. A shift in the wilderness atmosphere, the way air pressure changed before thunderstorms.
+Not footsteps—the Jordan's rush drowned those. Something else. A shift in the wilderness atmosphere.
 
 John looked up from the baptism pool—shallow basin carved by centuries of river flow through limestone—and saw his cousin descending the eastern ridge.
 
@@ -28,7 +28,7 @@ But knowing someone was coming and actually seeing them approach were different 
 
 "My cousin. From Nazareth." John's voice came out flatter than he intended. "I haven't seen him in fifteen years."
 
-Not entirely true. He'd *avoided* Jesus for fifteen years. Since that afternoon in Jerusalem when they'd compared blood memory—Jesus describing an ancient city as if he'd lived there, every street corner, every building, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse coming the way some people sensed weather changes, but he didn't *see* the way Jesus saw.
+Not entirely true. He'd *avoided* Jesus for fifteen years. Since that afternoon in Jerusalem when they'd compared blood memory—Jesus describing an ancient city as if he'd lived there, every street corner, every building, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse coming, but he didn't *see* the way Jesus saw.
 
 That afternoon had sparked something he wasn't proud of—something that calcified over fifteen years of desert teaching, two hundred baptisms, a community built from nothing. And still the knowledge that his cousin carried more in his blood than John would ever access through practice.
 
@@ -56,7 +56,7 @@ John saw what he'd expected—the intensity, the focus. But also something new. 
 
 "I've been teaching in Galilee for two years. Large crowds. But I need formal connection to the Judean families you represent."
 
-John's throat tightened. "You don't need my recognition. I'm a voice in the desert, cousin. You're — " He gestured at Jesus the way he'd gesture at a storm front. "You could walk into any city in Galilee and people would follow you home."
+John's throat tightened. "You don't need my recognition. I'm a voice in the desert, cousin. You're — " He gestured at Jesus, helpless. "You could walk into any city in Galilee and people would follow you home."
 
 "That's why I need it, cousin." Jesus looked at him directly. "Stand alone and they make you king. Kings burn when their kingdoms fall. But if I kneel in your river first—if another teacher baptizes me, not the other way around—then it was never about one man. It's about what we're both carrying."
 
@@ -184,7 +184,7 @@ John felt chills despite the warm evening.
 
 "What else did you see?"
 
-Jesus was quiet for a long time. Water dripped from his hair, his hands. When he spoke, his voice had changed — flatter, the way someone speaks when they're still processing what they know.
+Jesus was quiet for a long time. Water dripped from his hair, his hands. When he spoke, his voice had changed — flatter.
 
 "A cross. Outside Jerusalem. Mine." He paused. "And yours — sooner. Herod."
 

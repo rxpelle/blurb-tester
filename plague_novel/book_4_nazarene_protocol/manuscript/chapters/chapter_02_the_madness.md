@@ -66,7 +66,7 @@ She dressed Sarah, then herself. Good linen, dyed the deep blue that marked her 
 
 Until the episodes started driving her workers away.
 
-Outside, Magdala was waking. Fishing boats nosing into the harbor, oars dripping. The town smelled the way it always smelled—brine and fish guts and the sharp mineral tang of the salting vats, undercut by bread smoke from the ovens near the synagogue. Gulls screamed over the catch. A donkey brayed somewhere uphill. The lake was flat and silver in the early light, and Mary thought, as she did every morning, that it was beautiful, and that beauty didn't help.
+Outside, Magdala was waking. Fishing boats nosing into the harbor, oars dripping. The town smelled of brine and fish guts and the sharp mineral tang of the salting vats, undercut by bread smoke from the ovens near the synagogue. Gulls screamed over the catch. A donkey brayed somewhere uphill. The lake was flat and silver in the early light, and Mary thought, as she did every morning, that it was beautiful, and that beauty didn't help.
 
 Mary walked toward the salting works — her salting works — where the morning's catch would already be arriving. Her foreman Tobias had been managing the operations on days when Mary couldn't function, which was most days now.
 
@@ -98,7 +98,7 @@ Mary didn't have an answer. Only that the visions were too consistent to be madn
 
 Sarah settled beside her, arranging shells in patterns on the dock with the concentration of a child who believed the world could be organized if you just found the right order.
 
-Mary watched her daughter's hands and made a decision. She couldn't die at thirty-four with Sarah watching. She couldn't wait for Magdala to decide her episodes required something harsher than prayer.
+Mary watched her daughter's hands and made a decision. She couldn't let Sarah watch what she'd watched. She couldn't wait for Magdala to decide her episodes required something harsher than prayer.
 
 "Sarah. We're going on a trip."
 
@@ -160,7 +160,7 @@ He didn't flinch. Didn't smile. Just sat on the wall beside her and said, "Tell 
 
 Mary almost didn't. But she was eight miles from home with a sleeping child and no plan, and something in his stillness—the way he waited without filling the silence—reminded her of her father, who'd taught her to negotiate by listening first.
 
-"A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses." Mary's voice was steady—the voice she used for contracts, not confessions. "I know their names. Nefertari. Tausret. I don't know how I know them."
+"A city in Egypt. Overcrowded. Burning. A woman physician trying to save people while everything collapses." Mary's voice was steady—her contract voice. "I know their names. Nefertari. Tausret. I don't know how I know them."
 
 Jesus's hands stopped on his knees. "You see Nefertari?"
 
@@ -220,7 +220,7 @@ Mary looked at the house behind him. At the fishing nets. At the lake stretching
 
 She thought about returning to Magdala. The rumors. The emptying warehouse. The fear in her neighbors' eyes. The certainty that eventually someone would decide her episodes required violent intervention.
 
-Then she thought about her mother. Dying at thirty-four, mind shattered by visions she couldn't understand, calling out for people who'd been dead for centuries.
+Then she thought about her mother. The end of it. The calling out.
 
 Mary didn't want that future. Didn't want Sarah growing up watching her mother deteriorate the same way.
 
@@ -300,7 +300,7 @@ Sarah stirred in the corner where she'd fallen asleep on a cushion. Mary glanced
 
 "They'll never stop. But they'll become manageable." His voice gentled. "Your mother didn't have this training. You do."
 
-Mary's face hardened. She'd been so certain she was following her mother's trajectory—early death, mind shattered, calling out for people dead a thousand years. The idea that the road might fork felt impossible.
+Mary's face hardened.
 
 "How long does training take?"
 

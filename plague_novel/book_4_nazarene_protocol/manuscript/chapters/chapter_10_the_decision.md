@@ -13,7 +13,7 @@ Marcus stood in the doorway, breathing hard from the climb — his knee stiff fr
 
 Outside, a donkey brayed in the market street. A child laughed. The world kept going.
 
-Jesus set down the Pattern Eye carefully. Something cold settled behind his ribs. Three weeks.
+Jesus set down the Pattern Eye carefully. His hands went still on the stone. Three weeks.
 
 "Helena's offering extraction," Marcus continued. "Ship at Tyre. Alexandria. Safe house outside Roman jurisdiction. If you won't go voluntarily, she'll extract you by force."
 

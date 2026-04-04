@@ -30,7 +30,7 @@ He felt it all.
 
 The first time it happened, he was teaching beside the lake.
 
-Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass. Fishermen's families, mostly — salt-cracked hands, wind-carved faces, clothes that smelled of the morning's catch, children sitting cross-legged in the dirt pulling grass apart while their parents listened. A Roman tax collector's booth was visible on the road below, and beyond it the lake where tarred fishing boats rocked at anchor beside the stone piers of the fish-salting works. Jesus was explaining a parable about seeds falling on different soil, pacing the way he always paced when the patterns were flowing, bare feet on warm basalt, hands gesturing at the lake and the hills and the terraced fields beyond as if the whole landscape were a text he was reading aloud.
+Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass. Fishermen's families, mostly — salt-cracked hands, wind-carved faces, clothes that smelled of the morning's catch, children sitting cross-legged in the dirt pulling grass apart while their parents listened. A Roman tax collector's booth was visible on the road below, and beyond it the lake where tarred fishing boats rocked at anchor beside the stone piers of the fish-salting works. Jesus was explaining a parable about seeds falling on different soil, pacing on warm basalt, hands gesturing at the lake and the hills and the terraced fields beyond as if the whole landscape were a text he was reading aloud.
 
 He was mid-sentence — something about roots in shallow ground — when it moved.
 
@@ -56,7 +56,7 @@ A young mother three rows back pulled her infant closer to her body and bent her
 
 The fisherman on the rock at the edge of the group was the one who broke Jesus.
 
-A hard man. Scarred hands. The kind of face that had been hit enough times to learn not to show pain. He sat with his jaw clenched and his eyes locked on the middle distance and tears running freely down weathered cheeks that had probably not been wet since childhood. He wasn't fighting it. He was enduring it — the way you endure a wave that's too large to swim through, a grief that's too old to have a name. His right hand had moved to his left forearm and was pressing there, hard, holding something shut. And his chest was moving in a rhythm that had nothing to do with his own breathing — rising and falling in the pattern of someone else's lungs, someone who wasn't there, someone who might never have been there but whose absence his body recognized the way a phantom limb recognizes the hand it used to have.
+A hard man. Scarred hands. The kind of face that had been hit enough times to learn not to show pain. He sat with his jaw clenched and his eyes locked on the middle distance and tears running freely down weathered cheeks that had probably not been wet since childhood. He wasn't fighting it. He was enduring it — a grief too old to have a name. His right hand had moved to his left forearm and was pressing there, hard, holding something shut. And his chest was moving in a rhythm that had nothing to do with his own breathing — rising and falling in the pattern of someone else's lungs, someone who wasn't there, someone who might never have been there but whose absence his body recognized the way a phantom limb recognizes the hand it used to have.
 
 His lips moved. No sound came out. But Jesus, watching from seven paces away, could read the shape of the word on his mouth, not a name, not a prayer, just a single syllable repeated like a heartbeat. The fisherman didn't know what he was saying. Didn't know that his body was trying to pronounce a word it had never learned, a word from a language dead for a thousand years, a vowel sound that had once made someone in a workshop look up from his bench and say *Do that again.* The fisherman only knew that something inside him was speaking and the sound it made was the sound of missing someone he'd never met.
 
@@ -70,7 +70,7 @@ He didn't know how long it lasted. Minutes. Maybe longer. The lake lapped at the
 
 When it finally settled — not ended, never ended, just returned to the place beneath his ribs where it always lived — the hillside was very quiet.
 
-A bird called from the scrub near the water. The wind moved through the grass and the grass bent and recovered and bent again. Somewhere down the shore, a boat knocked gently against its mooring. The ordinary sounds of the world continuing, patient, unhurried, as it always continues after something enormous passes through it and leaves everything looking the same while nothing is.
+A bird called from the scrub near the water. The wind moved through the grass and the grass bent and recovered and bent again. Somewhere down the shore, a boat knocked gently against its mooring. The ordinary sounds of the world continuing, patient, unhurried, as it always continues after the wave passes and leaves everything looking the same while nothing is.
 
 People blinked. Wiped faces. Looked at each other with the dazed tenderness of survivors. Nobody spoke. There was nothing to say that wouldn't reduce what had happened to something smaller than it was.
 

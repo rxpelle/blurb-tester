@@ -88,7 +88,7 @@ Murmurs rippled through the crowd. Some Zealots near the back stood and left, sp
 
 "Love your enemies," Jesus said. "Pray for those who persecute you."
 
-The crowd thinned. But Mary was nodding — slowly, deeply, the way someone nods when they finally understand the structure behind something that's haunted them for years.
+The crowd thinned. But Mary was nodding — slowly, deeply, her whole body settling.
 
 He taught for two hours. By the end, perhaps six hundred remained. The rest had drifted away — confused, offended, or bored by teachings that asked them to surrender what felt like strength.
 
@@ -156,7 +156,7 @@ The training went on — Matthew's example of a market dispute, the discussion o
 
 When the Twelve filed out, Mary stayed.
 
-"Sarah will be forty-five when Jerusalem burns," she said. Not a question. She'd done the arithmetic. "Old enough to have children of her own."
+"Sarah will be forty-five," she said. Not a question. She'd done the arithmetic. "Old enough to have children of her own."
 
 "If you train her correctly, she survives it. Carries the teaching forward."
 
@@ -170,13 +170,9 @@ She was quiet for a long time. Then: "Tomorrow's harder?"
 
 "Every day is harder. Until it isn't."
 
-Mary carried Sarah to the women's quarters. The screaming dreams came that night — Pi-Ramesses burning, Jerusalem burning, two collapses overlaid until she couldn't tell past from future. But the calming practices held. Sarah's breath. Wool beneath her hands. Night sounds beyond the wall. Her own heartbeat, steady and present.
+Mary carried Sarah to the women's quarters. The screaming dreams came that night — two collapses overlaid until she couldn't tell past from future. But the calming practices held.
 
 The visions receded. Never gone — but manageable.
-
-Just before dawn, one more vision surfaced — brief but sharp as a blade. A Roman officer with intelligent eyes, standing at the edge of yesterday's crowd. Not watching Jesus. Watching *her*. Writing something on a wax tablet with the careful notation of a man filing a report.
-
-Mary's eyes snapped open. The vision dissolved. But the chill it left behind did not.
 
 ---
 

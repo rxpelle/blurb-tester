@@ -76,7 +76,7 @@ Simon's hand tightened on his cup but his face stayed flat. "Can you stop it?"
 
 "Then be a witness. You're not his savior, Marcus."
 
-"I can't save him." Marcus's voice cracked. His shoulders shook — once, briefly — before he forced himself still.
+"I can't save him." Marcus's voice cracked. His shoulders shook — once, briefly.
 
 "He doesn't need saving. He needs someone to write down the truth." Simon was quiet a moment. "Jesus said you'd understand. Two years ago, after your first protective report. He said, 'Marcus is learning to think in generations, not months.'"
 
@@ -100,7 +100,7 @@ Jesus went very still, his hands flat against the window frame. His knuckles whi
 
 "You're letting them kill you for a theory."
 
-"I'm letting them kill me because it *works*." Something raw crossed his face — weariness so deep it looked like age. "Don't pretend this is easy for me. I dream about Nefertari dying of fever while she taught. I wake up tasting my own death."
+"I'm letting them kill me because it *works*." Something raw crossed his face — weariness so deep it looked like age. "Don't pretend this is easy for me. I wake up tasting my own death."
 
 Marcus sat down heavily. "What do you need?"
 

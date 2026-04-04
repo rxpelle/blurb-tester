@@ -6,7 +6,7 @@
 
 The bronze had been cold for seven generations.
 
-Helena unwrapped it by lamplight in her room above the Via Flaminia, the cloth falling away from the disc the way skin falls from old fruit. The Pattern Eye sat in her palms — eight inches across, geometric symbols cut deep into the metal, fifteen hundred years of fingerprints worn into its surface. An old woman in Alexandria had pressed it into her hands four years ago, saying only: *You dream of burning cities. Guard this. Keep it moving.*
+Helena unwrapped it by lamplight in her room above the Via Flaminia, the cloth falling away from the disc. The Pattern Eye sat in her palms — eight inches across, geometric symbols cut deep into the metal, fifteen hundred years of fingerprints worn into its surface. An old woman in Alexandria had pressed it into her hands four years ago, saying only: *You dream of burning cities. Guard this. Keep it moving.*
 
 Helena was forty-six. Mother of the man who would fight for the Western Empire tomorrow. Generation 50.
 
@@ -54,7 +54,7 @@ The Pattern Eye sat on the table, catching lamplight. Bronze that Nefertari had 
 
 Tomorrow, Constantine would win his battle and begin reshaping Western civilization.
 
-Helena would watch from the hills. Witness, the way her ancestors had always witnessed. Not preventing the catastrophe — that was never the role. Just making sure the knowledge survived it.
+Helena would watch from the hills. Witness. Not preventing the catastrophe — that was never the role. Just making sure the knowledge survived it.
 
 She touched the disc one final time. The bronze was warm.
 

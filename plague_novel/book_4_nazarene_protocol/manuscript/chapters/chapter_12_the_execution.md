@@ -74,7 +74,9 @@ They gave him his crossbeam. Seventy-five pounds of rough-hewn wood across shoul
 
 ## Scene 3: The Procession
 
-The procession route wound uphill through Jerusalem's narrowest streets — barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the paving stones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather. The smell of five thousand unwashed bodies mixed with festival cooking — roasting lamb, fresh bread, the bitter edge of horseradish — and underneath it all the iron tang of blood from the man at the procession's center.
+The procession route wound uphill through Jerusalem's narrowest streets — barely wide enough for a cart, the buildings pressing close on both sides, their upper stories nearly touching overhead. The morning sun hadn't reached the paving stones yet and the air in the shadows was cool, but the crowd packed shoulder to shoulder generated its own heat, its own weather.
+
+The smell of five thousand unwashed bodies mixed with festival cooking — roasting lamb, fresh bread, the bitter edge of horseradish — and underneath it all the iron tang of blood from the man at the procession's center.
 
 Jesus carried the crossbeam across his shoulders. Seventy-five pounds of rough-hewn cedar, the bark still on it, pressing into flesh already destroyed by the flagrum. Each step left blood on the paving stones. Crown of thorns still pressed into his skull — rivulets dried brown on his forehead, fresh red where the thorns shifted with each step. Four soldiers surrounding him, their hobnailed sandals grinding against the stone. Two criminals following behind with their own crossbeams, one weeping, one staring straight ahead.
 

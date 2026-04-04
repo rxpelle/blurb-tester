@@ -22,7 +22,7 @@ Today he would document an arrest. Tomorrow, a crucifixion.
 
 The carpenter climbed onto the teaching platform for the final time.
 
-Marcus scanned the crowd with old instincts, reading the gathering the way a fisherman reads water. Temple watchers visible at the edges, identifiable by their careful attention and the way they didn't actually celebrate.
+Marcus scanned the crowd with old instincts. Temple watchers visible at the edges, identifiable by their careful attention and the way they didn't actually celebrate.
 
 Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full contubernium—eight men—which meant official sanction. More soldiers than a teaching carpenter warranted unless the authorities expected resistance.
 
@@ -220,7 +220,7 @@ The taste of bile rose in his throat.
 
 *Marcus POV*
 
-From forty paces, Marcus wrote it down. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest. His stylus moved the way it always moved — steady, precise, the hand of a man trained to observe while other men bled. He hated the steadiness. Hated that his body had learned to function while his chest hollowed out.
+From forty paces, Marcus wrote it down. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest. His stylus moved steady and precise, the hand of a man trained to observe while other men bled. He hated the steadiness. Hated that his body had learned to function while his chest hollowed out.
 
 The disciples scattered — Peter first, dropping his sword and running, then the others after him. The rescue team melted into the crowd. Mary and Sarah disappeared down the Damascus route, Simon covering their retreat.
 
@@ -230,7 +230,7 @@ The guards surrounded Jesus. Malchus touched his healed ear, staring at the man 
 
 They bound his hands without gentleness.
 
-Marcus kept writing. Third tablet now. Judas standing alone in the emptied space, staring at Jesus being led away — his face showing something worse than failure. Something like watching his own purpose walk away in chains.
+Marcus kept writing. Third tablet now. Judas standing alone in the emptied space, staring at Jesus being led away — his face showing not failure but recognition. His own purpose walking away in chains.
 
 Marcus knew that look. He'd worn it himself three weeks ago.
 

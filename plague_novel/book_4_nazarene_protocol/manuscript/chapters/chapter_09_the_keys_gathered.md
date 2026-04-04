@@ -101,7 +101,7 @@ Then Nefertari. Not her memory. *Her*. The workshop, the dying firelight, her ha
 
 *Forty-one generations from now, someone will feel what I feel.*
 
-Jesus opened his eyes. Tears on his face, snot on his lip. His voice came out broken. "I saw everything she built. And I felt what it cost her."
+Jesus opened his eyes. Tears on his face, snot on his lip. His voice came out rough. "I saw everything she built. And I felt what it cost her."
 
 He set the keys down. His hands wouldn't hold still. "Two keys are sufficient. I can teach with a clarity I couldn't reach before."
 

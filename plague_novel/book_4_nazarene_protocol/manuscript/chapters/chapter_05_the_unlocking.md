@@ -12,7 +12,7 @@
 
 Mary woke before dawn without screaming.
 
-Pi-Ramesses flickered behind her eyes — flames licking at mud-brick walls, refugees crushing through gates. Her body tensed for impact that never came. She breathed deep, pressed her palms to the rough wool beneath her. Sarah breathing in the next mat. Morning light through the woven screen. Lake smell. Her own heartbeat.
+Pi-Ramesses flickered behind her eyes — flames licking at mud-brick walls, refugees crushing through gates. Her body tensed for impact that never came. She breathed deep and grounded herself — wool, Sarah's breathing, lake smell — and held steady.
 
 The burning city held steady in memory's corner, observed rather than experienced. Two years of practice. The visions still came each night. But she could hold them without drowning.
 
@@ -128,19 +128,17 @@ That night they camped in the wilderness. Peter and John slept near the fire. Je
 
 "No." Jesus picked up a stone, turned it over. "When the time comes, take Sarah south. Alexandria. The Jewish community there is the largest outside Palestine — a third of the city. Establish teaching communities. Make copies. By the time she has children of her own, the bloodline is stabilized and the knowledge is scattered across enough hands that no single fire can destroy it."
 
-Mary thought about Sarah. Five years old now. Would be forty-five when Jerusalem burned.
+Mary thought about Sarah. Five years old now. The math hadn't changed.
 
 "The nosebleed scared me," she said quietly. "Not the blood. The fact that I wanted to keep going. I could feel the knowledge right there — one more push and I'd have seen all of it. The complete arc."
 
 "And it would have killed you. The way it killed your mother."
 
-Mary went still. She hadn't made that connection. Her mother — dying at thirty-four from visions she couldn't control. Mary, pressing deeper into ancient notation until her body bled to stop her.
+Mary went still. She hadn't made that connection. Her mother. Herself. The same trajectory, different instrument.
 
 "The training has limits," Jesus said. "Respect them. You're no good to Sarah dead."
 
-Mary lay down near the fire. Sleep came slowly, and when it did, one more vision surfaced — brief, sharp, present-tense. A Roman officer reading a scroll by lamplight. She recognized the handwriting before she recognized the face. Marcus. Years of careful reports, every teaching catalogued, every name recorded. He was writing her name.
-
-Mary's eyes opened in grey pre-dawn light. The vision hadn't been ancient memory. It had been *now*.
+Mary lay down near the fire. Sleep came slowly.
 
 They were running out of time.
 

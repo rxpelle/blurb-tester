@@ -38,7 +38,7 @@ He'd requested census duty specifically. Paperwork over bloodshed. Seven more ye
 
 But then the secondary mission complicated things.
 
-Marcus's other assignment—the one his tribune had given him privately, in a closed room, with no scribe present—was to watch for certain families. Old bloodlines, scattered across the eastern Mediterranean, that occasionally produced individuals who could see things others couldn't. Not prophecy, exactly. More like an instinct for what was coming—the way a sailor reads weather in the shape of a cloud.
+Marcus's other assignment—the one his tribune had given him privately, in a closed room, with no scribe present—was to watch for certain families. Old bloodlines, scattered across the eastern Mediterranean, that occasionally produced individuals who could see things others couldn't. Not prophecy, exactly. More like an instinct for what was coming.
 
 Rome's orders were simple: identify, observe, report.
 
@@ -142,7 +142,7 @@ They studied each other. Two men circling, neither willing to show his hand.
 
 Marcus tried a different approach. "I've been posted in this province three years. I've met a fisherman in Capernaum who keeps nets he never uses."
 
-Nothing. Jesus's face gave nothing. But his hands—his carpenter's hands—went still on his belt. The kind of stillness that required effort.
+Nothing. Jesus's face gave nothing. But his hands—his carpenter's hands—went still on his belt.
 
 "Lots of fishermen in Capernaum," Jesus said.
 
@@ -180,7 +180,7 @@ Twelve hundred years to the founding. Primary bloodline. And he'd been walking a
 
 "If I report you, three things can happen. Recruitment. Surveillance. Or elimination."
 
-Jesus was quiet for a moment. When he spoke again, the composure was gone—no teacher, no prophet, just a carpenter standing in a cold square with mud on his sandals and something heavy behind his eyes.
+Jesus was quiet for a moment. When he spoke again, the composure was gone—no teacher, no prophet, just a carpenter standing in a cold square with mud on his sandals.
 
 "If I hide, the knowledge dies with me." His voice was rough now. "If I teach openly, it scatters. Survives." He looked down at his carpenter's hands—the scarred palms, the blackened thumbnail. "I dream about my grandfather's grandfather. He taught until they killed him too. I don't know how long I have. I just know the feeling—like a roof beam that's taken too much weight. You can hear the wood starting to talk before it splits." He swallowed. "I wake up every morning and think—was yesterday enough? And the answer is always no."
 
@@ -206,7 +206,7 @@ He found Simon's house as the last light bled from the sky—limestone walls sti
 
 "Centurion." Simon didn't look up from his nets. "You found him."
 
-"Generation 42. Primary line." Marcus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it the way a man talks about weather he can see building on the horizon."
+"Generation 42. Primary line." Marcus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
 
 "They're already coming." Simon's hands stilled on the netting. "Temple already sent someone to listen to his teaching. A scribe from Jerusalem, watching from the back of the crowd. Taking notes." He looked up. "And now Rome knows too. Because you reported him."
 

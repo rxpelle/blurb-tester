@@ -54,7 +54,7 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 ## SCENE 2: Mary's Women's Circle
 
-Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time — the way a mother counts heads at a market, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
+Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time — the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
 
 Mary gripped her knees. Counted the women again. Twenty-three. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
 
@@ -162,9 +162,7 @@ Marcus delivered the news.
 
 "The trial will be for show." His voice was steady but his hands were clasped tight in his lap. "The outcome is already decided."
 
-Mary's breath caught. She'd known. Of course she'd known. But knowing something in your bones and hearing someone say it out loud in a room full of people were not the same thing.
-
-Sarah crawled into her lap. "Mama? Why is everyone scared?"
+Mary's breath caught. Sarah crawled into her lap. "Mama? Why is everyone scared?"
 
 Mary held her daughter close, breathing in the smell of her hair. "We're not scared. We're getting ready."
 

@@ -120,7 +120,7 @@ Marcus filed that away. Barabbas. Known Zealot recruiter. Temple informants had 
 
 "Then we do nothing?" Barabbas's voice rose. "We accept oppression? Submit to Caesar's taxes and Temple corruption?"
 
-"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Three generations from now, Jerusalem burns and the survivors scatter across the earth."
+"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Three generations from now, your grandchildren pay the final price."
 
 Silence. The crowd had gone completely still.
 
@@ -196,7 +196,7 @@ He walked to the door, then paused. "For what it's worth — noble effort. Futil
 
 Matthias left.
 
-Marcus sat down heavily on his bunk, gladius still in hand. The nard smell lingered — rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
+Marcus dropped onto his bunk, gladius still in hand. The nard smell lingered — rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
 
 The lamp had burned low. In its dying light, the walls of his quarters looked like what they were — a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
 
@@ -258,7 +258,7 @@ Simon extended his hand. Marcus took it.
 
 He'd just committed treason. His father's voice echoed — *Honor Rome above all.* Twenty-eight years of imperial duty, all of it betrayed for a carpenter who would die anyway.
 
-It should have felt like failure. Instead, something loosened in his chest that he'd carried so long he'd forgotten it was there.
+Something loosened in his chest that he'd carried so long he'd forgotten it was there.
 
 ---
 
