@@ -1,4 +1,4 @@
-# The Nazarene Protocol — Revision Plan
+# Love Remembers in Silence — Revision Plan
 
 **Created:** 2026-03-26
 **Status:** Phase 1 complete, Phase 2 complete, Review JSON triage complete

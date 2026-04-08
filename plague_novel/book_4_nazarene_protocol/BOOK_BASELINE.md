@@ -1,4 +1,4 @@
-# The Nazarene Protocol - CANONICAL BASELINE
+# Love Remembers in Silence - CANONICAL BASELINE
 
 **Book Number**: 4
 **Last Updated**: 2026-01-17 15:28:02

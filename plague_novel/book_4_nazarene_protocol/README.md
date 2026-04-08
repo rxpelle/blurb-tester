@@ -1,4 +1,4 @@
-# Book 4: The Nazarene Protocol
+# Book 4: Love Remembers in Silence
 
 **Status:** 📝 PLANNING COMPLETE - Ready for Writing
 

@@ -1,10 +1,10 @@
-# NEW SESSION PROMPT - Book 4: The Nazarene Protocol
+# NEW SESSION PROMPT - Book 4: Love Remembers in Silence
 
 Copy and paste this prompt when starting your next session:
 
 ---
 
-I'm working on **Book 4 (The Nazarene Protocol)** - Jesus era (26-70 CE) in my 12-book Genesis Protocol series.
+I'm working on **Book 4 (Love Remembers in Silence)** - Jesus era (26-70 CE) in my 12-book Genesis Protocol series.
 
 ## Current Status
 

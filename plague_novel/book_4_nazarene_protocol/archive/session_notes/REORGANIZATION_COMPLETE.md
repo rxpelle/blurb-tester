@@ -79,7 +79,7 @@ book_6_monastery_cipher/
 
 ## FILE LOCATIONS
 
-### Book 4 (The Nazarene Protocol)
+### Book 4 (Love Remembers in Silence)
 - **Planning:** [BOOK_4_CHAPTER_BREAKDOWN_PLAN.md](BOOK_4_CHAPTER_BREAKDOWN_PLAN.md)
 - **Reference:** [archive/Chapter1_The_Pattern_Seer_REFERENCE.md](archive/Chapter1_The_Pattern_Seer_REFERENCE.md)
 - **Bridge Content:** [BRIDGE_TO_BOOK_5/Chapter2_The_Fragments.md](BRIDGE_TO_BOOK_5/Chapter2_The_Fragments.md)

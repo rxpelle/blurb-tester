@@ -7,7 +7,7 @@
 
 ## BOOK 4 CONTINUITY SCORE: 98/100 ✅
 
-Book 4 ("The Nazarene Protocol") demonstrates **excellent continuity** with the published Book 1 baseline and drafted Books 2-3.
+Book 4 ("Love Remembers in Silence") demonstrates **excellent continuity** with the published Book 1 baseline and drafted Books 2-3.
 
 **Full cross-book review:** See `/plague_novel/CROSS_BOOK_CONTINUITY_REVIEW.md`
 

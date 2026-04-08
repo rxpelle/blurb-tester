@@ -1,4 +1,4 @@
-# The Nazarene Protocol — King-Pass Review Scores (Post Phase 1)
+# Love Remembers in Silence — King-Pass Review Scores (Post Phase 1)
 
 **Last updated:** 2026-03-26 (after all 6 book-wide revision passes)
 **Reviewer:** Editorial Agent king-pass (Stephen King style analysis, 10 dimensions)

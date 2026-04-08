@@ -1,4 +1,4 @@
-# Book 4: The Nazarene Protocol — Editorial Checklist
+# Book 4: Love Remembers in Silence — Editorial Checklist
 
 ## Status Key
 - [ ] Not started
