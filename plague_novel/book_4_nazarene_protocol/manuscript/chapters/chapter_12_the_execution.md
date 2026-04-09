@@ -2,7 +2,7 @@
 
 **Timeline:** 33 CE Spring (Day After Arrest - Crucifixion Day)
 **POV:** Marcus Publius Scipio (primary), Jesus (brief internal), Mary (Damascus)
-**Word Count:** ~4,500 words
+**Word Count:** ~6,300 words
 
 ---
 
@@ -82,19 +82,41 @@ Jesus carried the crossbeam across his shoulders. Seventy-five pounds of rough-h
 
 Marcus followed thirty paces back, close enough to see the blood trail, far enough to disappear into the crowd if he had to.
 
+Individual faces in the crowd. Marcus's eye caught them the way it always caught things — not choosing to look, just looking, the way a man who has spent his life observing can't stop.
+
+A mother on the left side of the street, gripping her son's wrist. The boy was maybe ten, craning forward, trying to see. She pulled him back against her hip with a roughness that wasn't anger but terror — the instinct of a woman who understood that what walked past them was contagious, that her son's eyes on this procession would put something inside him she could never remove. The boy twisted in her grip. She held tighter. Her knuckles white against the brown of his arm.
+
+Behind her, an old woman pressed against the building's wall. Marcus recognized her — not personally, but the type. She'd been at the hillside teachings. He'd seen her face in a crowd two years ago, somewhere near Capernaum, sitting in the front row with the patient attention of someone who came for the words, not the spectacle. Now she stood with both hands flat against the limestone behind her, as if the wall were holding her up, and her lips moved without sound. Not prayer. The silent repetition of someone trying to commit a face to memory before it was taken from her.
+
+An old man beside her — husband, maybe, or stranger pressed close by the crowd — had his eyes shut. Tears running from beneath closed lids. He didn't wipe them. Didn't seem to know they were there.
+
 Women wailed along the route — the keening rising and falling, animal and raw, the sound bouncing off the stone walls until it seemed to come from the buildings themselves. Jesus stopped, turned to face them despite the soldiers shoving him forward.
 
 "Daughters of Jerusalem. Don't weep for me. Weep for yourselves and your children. For the days are coming when they will say, 'Blessed are the barren, blessed are the wombs that never bore.'"
 
-Jesus stumbled. His knee hit the paving stones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick.
+His voice carried the way it always carried — not loud but clear, the clarity of a man who had spent three years pitching his voice over wind and water and crowds. Even now. Even bleeding. The teacher's instinct stronger than the body's collapse.
 
-Soldiers grabbed a man from the crowd, broad-shouldered, the dust of a long journey still on his cloak. "You. Carry it."
+Jesus stumbled. His knee hit the paving stones and the crossbeam slammed down on top of him, driving the crown deeper. Blood pooled in the gap between two stones, dark and quick. He tried to rise. His legs shook. Tried again. The wood slid off his shoulders and hit the ground beside him with a sound that silenced the nearest section of crowd. He was on his hands and knees in the street, blood dripping from his forehead onto the stone between his fingers, and for a moment the procession stopped and the world narrowed to the sound of a man breathing in a gutter while a city watched.
 
-Simon of Cyrene. A Jewish pilgrim from North Africa, visiting for festival, who'd woken this morning expecting to celebrate. He lifted the wood — winced at the blood and splinters — looked at Jesus with a mixture of pity and fear.
+Soldiers grabbed a man from the crowd. Broad-shouldered, dark-skinned, the dust of a long journey still on his cloak and in the creases of his face. North African. A Jewish pilgrim from Cyrene who had traveled weeks to celebrate Passover — who had woken this morning in a borrowed room, dressed for festival, and walked into the street expecting worship and lamb and the Temple shining in the spring light.
 
-Jesus met his eyes. "Thank you."
+"You. Carry it."
 
-Simon's expression shifted. He settled the beam across his own shoulders and walked.
+Simon of Cyrene looked at the crossbeam. Blood-slick. The bark peeling where Jesus's shoulders had worn it smooth. He looked at the soldiers. At the crowd. His jaw worked — the instinct to protest, to say *I'm a pilgrim, I'm here for the festival, find someone else* — but the soldier's hand was already on his shoulder, shoving him forward, and Simon's body obeyed before his mind consented.
+
+He bent and gripped the wood. The blood was still warm. It coated his palms immediately, sticky and thick, and the weight of the beam settled across his back — not just the weight of the wood but the weight of the man it had been crushing, transferred now to Simon's body, pressing into muscles that had spent three weeks walking from Cyrene to Jerusalem and were already tired.
+
+He straightened. Adjusted the beam. Looked down at Jesus, who was being hauled to his feet by two soldiers.
+
+Jesus met his eyes. Not the glassy unfocused stare of a man in shock. Clear. Present. Seeing Simon the way he saw everyone — not as a role or a category but as a particular person in a particular moment, a man from North Africa with blood on his hands and fear in his face and the confused decency of someone caught in a situation he hadn't chosen and couldn't understand.
+
+"Thank you."
+
+Two words. Said the way you say thank you to someone who has handed you water, or held a door, or picked up something you dropped. Ordinary. Sincere. The voice of a man who noticed kindness even when the kindness was compelled.
+
+Simon's expression shifted. Something entered his face that hadn't been there — not pity exactly, not understanding, something smaller and harder to name. Recognition, maybe. The recognition that the man bleeding at his feet was not what the soldiers said he was. That the weight on Simon's shoulders had a meaning he couldn't articulate but felt in his body the way you feel a change in weather before the clouds arrive.
+
+He settled the beam across his own shoulders and walked. Behind him, Jesus followed, lighter now but slower, his bare feet leaving red prints on the stone.
 
 They reached Golgotha as the sun climbed toward mid-morning and the hill opened up above them — bare limestone, pale as bone, dotted with scrub brush and the dark shapes of the permanent execution posts. Three vertical timbers, weathered grey, stained at the base. The crowd spreading across the hillside, five thousand or more — a festival audience assembled for a death. Vendors worked the edges, selling water and figs. Children sat on their fathers' shoulders for a better view.
 
@@ -112,7 +134,7 @@ Iron through flesh, through bone, through wood. The sound would follow Marcus fo
 
 Second nail. Right wrist. Same precision. Same silence.
 
-Marcus's hand shook so violently he nearly dropped the stylus. The boy at Carnuntum had taken three seconds to die — dropped shield, raised hands, blade through the throat. Quick, at least. This would take hours. The same hands raised, the same open palms, but nailed to wood instead of air, and Marcus on the wrong side of the blade again — always on the wrong side, always holding the instrument that recorded instead of the one that intervened. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
+Marcus's hand shook so violently he nearly dropped the stylus. He stared at his own fingers and for a moment didn't see them — saw instead the boy at Carnuntum, fifteen years ago, the Thracian ambush that killed nine men in his cohort. The boy had been seventeen. Shield dropped, hands raised — not in surrender but in the instinctive gesture of someone who doesn't yet believe the world will hurt him. Blade through the throat. Three seconds. Quick, at least. Marcus had been ten paces away, holding a tactical report he'd written three days earlier that would have prevented the ambush if anyone had read it. The same hands. The same open palms. The boy's hands raised against the blade and now Jesus's hands opened against the nails and Marcus on the wrong side again — always on the wrong side, always the one holding the instrument that recorded while other men bled. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
 
 Four soldiers lifted the crossbeam with Jesus attached and hoisted it onto the vertical post. The wood groaned as they fitted the joint. Jesus's weight settled onto the wrist nails and his face went white.
 
@@ -126,7 +148,13 @@ This was how crucifixion killed. Not the nails. Not the blood loss. It drowned y
 
 Before the crucifixion, they'd offered wine mixed with myrrh — painkiller. Jesus had refused.
 
-Soldiers divided his clothes. Gambled for his cloak. Among them, Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh.
+At the base of the cross, the soldiers settled into the long wait. Four men with a job to do and hours before it was done. One spread Jesus's outer garment on the ground and sat on it. Another produced dice — carved bone, small enough to cup in one hand. They gambled for Jesus's cloak, the seamless inner garment that was worth more than the rest of his clothes combined.
+
+The dice clattered against a flat stone. One soldier won. The others shrugged. No argument. They'd divide the rest evenly. Professional. Unhurried. The ordinariness of men for whom a man dying six feet above their heads was not a crisis or a tragedy but a Tuesday — another shift, another body, another afternoon of waiting for a condemned man's lungs to give out while the sun moved across the sky and the dice decided who got the good cloak.
+
+One of them ate an apple. Bit into it, juice running down his chin, while Jesus's blood ran down the post behind him. The crunch of the fruit and the rasp of Jesus's breathing and the rattle of dice on stone — these sounds mixed together and became the sound of an ordinary execution, and Marcus hated them for it. Not the cruelty. The normalcy. The fact that a man could eat fruit while another man suffocated three feet away and feel nothing more than the sweetness on his tongue.
+
+Among them, Malchus — the guard whose ear Jesus had healed during the arrest — watching the execution of the man who'd mended his severed flesh. He alone wasn't gambling. He sat apart, his hand moving unconsciously to his ear, touching the place where the blade had cut and the flesh had knit, and his face held the particular blankness of a man trying very hard not to feel what he was feeling.
 
 Pilate's inscription was nailed above Jesus's head. Three languages: Latin, Greek, Hebrew:
 
@@ -136,7 +164,11 @@ Temple authorities objected. "Don't write 'The King of the Jews.' Write 'He clai
 
 "What I have written, I have written."
 
-Closer, the crowd pressed. "He saved others! Let him save himself!" "Come down from the cross! Then we'll believe!"
+The crowd pressed closer. "He saved others! Let him save himself!" "Come down from the cross! Then we'll believe!"
+
+The taunts came from the middle of the crowd, where faces blurred into a single jeering surface, and each one landed on the cross like a thrown stone. Not the words themselves — words were just air and noise — but the weight behind them, the concentrated contempt of people who had listened to this man teach and were now watching him die and needed to believe he deserved it, because the alternative — that an innocent man could be nailed to wood in front of five thousand witnesses and no one would stop it — was a thought too heavy to carry home.
+
+A Temple official near the front cupped his hands around his mouth: "He trusted God! Let God rescue him now!" His voice carried the bright certainty of a man on the winning side, and the crowd around him laughed. The laughter climbed the hill and broke against the cross and Jesus absorbed it the way the wood absorbed his blood — silently, without resistance, because there was nothing left to resist with.
 
 Jesus focused on breathing. Push up on the feet nail. Inhale. Lower down. Each cycle excruciating.
 
@@ -182,9 +214,33 @@ To John: "Behold your mother."
 
 Then he looked at Mary Magdalene. She held his gaze the way you hold someone's hand when they're dying, except she couldn't reach him. So she held him with her eyes instead.
 
-Darkness for three hours that felt like seasons. The wind picked up — cold now, bitter for spring, carrying grit from the hillside that stung exposed skin. Rain came in bursts, hitting the cross with a sound like gravel thrown against wood, and Jesus's blood mixed with the rain and ran pink down the timber. The crowd thinned. The vendors left first, then the curious, then the hostile. What remained were the committed — the women, the soldiers who had no choice, and Marcus, who had chosen this.
+Five years. Five years of partnership that had no name the world would recognize — not marriage, not discipleship, not friendship, though it contained all three. Five years of teaching together, traveling together, building something together that would outlast them both. She had argued with him about the women's circle, about the parables, about whether his death would accomplish what he believed it would. She had told him he was wrong about the timing and right about the method and impossible to reason with when he'd already decided. She had watched him teach eight thousand people on a hillside and felt the warmth pour out of him and known that he was burning through something that couldn't be replenished. She had held his hand once, on a hillside above Capernaum at sunset, and felt in his fingers the same reaching she felt in her own — two people who carried twelve hundred years of someone else's love and had somehow, without meaning to, added their own to it.
 
-He watched Jesus's breathing slow — each push-up on the foot nail taking longer, the pause at the bottom stretching until Marcus found himself counting, his own chest tight, willing the next breath. The muscles in Jesus's shoulders had begun to spasm visibly, the body's machinery failing in sequence. Each breath shallower than the last.
+All of this passed between them now. Not in words. In the silence of two people who had run out of time to say what they meant and discovered that they had never needed words for it anyway.
+
+Rain came.
+
+The first drops hit the limestone like flung gravel, raising small puffs of dust that the next drops turned to mud. Then the sky opened. Cold rain, bitter for spring, driven sideways by a wind that had come from nowhere and carried grit from the hillside that stung exposed skin. The rain hit the cross with a sound like fingers drumming on wood, steady and relentless, and Jesus's blood mixed with the water and ran pink down the timber and pooled in the dirt at the base where the soldiers had been gambling an hour ago.
+
+The crowd thinned. The vendors left first, folding their awnings, gathering their figs. Then the curious — the ones who'd come to see a spectacle and discovered that a man dying slowly in the rain was not a spectacle but a weight they hadn't agreed to carry. Then the hostile, the shouters, the ones who'd thrown their words like stones — they drifted back toward the city, their anger cooling as the rain soaked through their cloaks, the righteousness leaking out of them the way heat leaks from a body when the fire dies. What remained were the committed: the women, the soldiers who had no choice, and Marcus, who had chosen this.
+
+The temperature dropped. Marcus's torch guttered and died. He wrote by the grey half-light of the storm, his stylus slipping on wax that the rain kept softening, and his letters grew ragged but he didn't stop. Couldn't. The steadiness of his hand was the last discipline he had. If he stopped writing, he would have to feel what he was seeing instead of recording it, and he knew — the way a man standing at the edge of a cliff knows — that if he let himself feel it, something in him would break that wouldn't go back together.
+
+Jesus's breathing slowed. Each push-up on the foot nail taking longer now, the pause at the bottom stretching until Marcus found himself counting, his own chest tight, willing the next breath. Three seconds between breaths. Then five. Then seven. The muscles in Jesus's shoulders had begun to spasm visibly — the body's machinery failing in sequence, the way any machine fails: first the supporting structures, the shoulders and arms and intercostal muscles that held the chest open; then the primary system, the lungs themselves, each inflation shallower than the last, each exhale longer, the rhythm slowing toward something that wasn't rest.
+
+His hands had gone dark. Not just from the nails — the circulation failing, blood pooling in his fingers and feet, the extremities the body abandoned first when it began triaging its own survival. His lips were grey. Rain ran down his face and he didn't blink it away. His head had fallen forward onto his chest, the crown of thorns pressing against his collarbone, and the only sign of consciousness was the breathing — that terrible, rhythmic labor, the push and fall, push and fall, slower each time, the pauses at the bottom growing longer until Marcus found himself leaning forward on each one, his own lungs tight, counting the seconds the way you count the seconds between lightning and thunder, knowing the gap is closing, knowing what the closing means.
+
+The criminal on the left had stopped cursing. Stopped making any sound at all. His head hung at an angle that suggested his neck had given out before his lungs. The criminal on the right was still breathing but barely — shallow, irregular, the breathing of a man whose body had already decided to stop and was only waiting for the message to reach his heart. Between them, Jesus still pushing up. Still choosing the next breath. The stubbornness of it — the sheer animal refusal to surrender, hour after hour, each push costing more than the last and yielding less — was harder to watch than the nails had been. The nails were violence. This was will. This was a man fighting his own body for one more minute, one more breath, one more moment of being alive on the earth.
+
+Mary stood in the rain. She had not moved. Her clothes were soaked through, plastered to her body, her hair flattened against her skull, and she looked smaller than she was — a woman standing in a storm watching a man die and refusing, with every fiber of her body, to look away. The rain ran down her face the way tears ran down faces and it was impossible to tell, from Marcus's distance, which was which.
+
+She didn't wipe her eyes. Didn't push the hair from her face. Didn't shift her weight or cross her arms against the cold. She stood the way the cross stood — planted, vertical, immovable — and she watched him breathe.
+
+And once, through the rain, Jesus opened his eyes and found her. Found her the way he always found her — as if there were a thread between them that didn't depend on sight or sound but on something older, something that lived in the body below the level of choice. Their eyes held.
+
+What passed between them in that look, Marcus couldn't document. He tried. He sat in the rain with his ruined tablets and watched two people say goodbye without speaking and understood that some things survived not because they were written down but because they were felt by someone who refused to forget.
+
+Darkness for three hours that felt like seasons. The wind carrying grit from the hillside. Rain on the cross. The sound of a man's breathing growing quieter, the intervals stretching, the body surrendering in increments so small that each one was invisible and all of them together were the distance between alive and not.
 
 ---
 
@@ -284,17 +340,31 @@ The others began leaving as Sabbath approached. Marcus toward his trusted house.
 
 Mary stood alone outside the sealed tomb. The guards watched her nervously, something in her stillness that unnerved them.
 
-She had held his hands during teaching sessions. Had sat beside him while he turned fishing nets and lamp oil and mustard seeds into lessons. Had argued with him about whether the women should teach separately or alongside the Twelve. Had watched him laugh — actually laugh — when Sarah mispronounced a word and he'd said *that's actually more accurate*.
+She pressed her palm flat against the stone. Cold. Not the living cold of water or wind but the dead cold of something that had never been warm — the cold of weight and finality, of a rock rolled into place to stay. The guards shifted but didn't stop her. What was one woman's hand on a stone going to do? She wasn't trying to move it. She was trying to feel through it. As if the rock were thin enough, if she pressed hard enough, she could reach the body on the other side and touch his hand one more time.
 
-Those were her memories. Not inherited. Not encoded. Hers.
+She couldn't, of course. The stone was two feet thick and sealed and six men with swords stood between her and the body of the person she knew best in the world. But her palm stayed. Fingers spread. The cold seeping into her skin, up through her wrist, settling into the bones of her arm like a second grief — physical this time, the body's own mourning, separate from the mind's.
 
-And now he was behind a stone, and the stone was sealed, and six men with swords stood between her and the body of the person she knew best in the world.
+She stood there and let the memories come. Not the teaching sessions. Not the parables, the crowds, the arguments about methodology. Those memories belonged to the movement, to the network, to the future that would take them and reshape them into something she might not recognize. The memories that came now were smaller. Hers.
 
-She pressed her palm flat against the rock. Cold. The guards shifted but didn't stop her.
+Jesus laughing at Sarah's mispronunciation of *Capernaum* — she'd said *Carpernicum*, with absolute seven-year-old confidence, and Jesus's face had broken open, the laugh sudden and helpless, and he'd said through it, "That's actually more accurate. The Romans would agree with you." Sarah beaming, not understanding the joke, understanding only that she'd made him laugh, which was better than understanding anything.
+
+Jesus sitting beside her on the ground outside Bethany while she told him about the dreams — the inherited memories that arrived at night, other women's lives pressing into hers, waking her with grief that wasn't her own. She'd been afraid to tell anyone. Afraid they'd think she was losing her mind. And he'd listened without interrupting, his hands resting on his knees, his face holding nothing but attention, and when she finished he'd said, "You are emphatically not mad. You're remembering. There's a difference." The simplest words. The first time anyone had told her that what she carried was memory, not illness. She'd wept, and he'd sat with her while she wept, and neither of them had spoken again for a long time because the silence after being believed was too full for words.
+
+Jesus humming in the workshop — a tune she didn't recognize, something he said came to him from nowhere, and she'd stood in the doorway watching his hands move across the wood and thought: *This is what he is when no one's watching. This is the man under the teacher.* A carpenter. Humming. Building something with his hands while the world outside prepared to kill him.
+
+Those were her memories. Not inherited from Nefertari or Tausret or any of the women who came before. Not encoded in blood. Not passed down through forty-two generations. Made in the last five years, in the ordinary spaces between teachings, in the small rooms and dusty roads and borrowed courtyards where two people had built something together that the world would never fully see because it happened in the margins, in the silences, in the moments when the crowds had gone home and the torches were out and it was just them — two people who knew each other the way stone knows water, by long wearing, by slow reshaping, by the patient fact of proximity.
+
+Hers. Not inherited. Not encoded.
+
+Hers.
+
+She stood at the stone until the guards changed shift. The new ones looked at her with the same unease. She didn't notice. She was inside the memories now, living in them the way you live in a house — moving from room to room, touching things, sitting down in the places where the light fell. The courtyard in Bethany where he'd taught her to quiet the inherited visions. The road to Jericho where Sarah had walked between them, holding both their hands, and Jesus had swung her over a puddle and Mary had thought: *We look like a family.* The night in Capernaum when she'd fallen asleep during a late planning session and woken to find his cloak draped over her shoulders and him still working by lamplight, having given her the warmth without waking her because that was who he was — a man who gave things away so quietly you didn't notice until you found them on you.
+
+She took her hand from the stone. The cold stayed in her palm. A white print of her fingers ghosted on the rock for a moment, then faded as the moisture evaporated. Gone. The way everything was going.
 
 Mary turned from the tomb. Walked through Jerusalem's emptying streets as Sabbath fell. Found her borrowed room. Sat in the dark.
 
-Every time she closed her eyes she saw the moment when his breathing stopped — not the dramatic final words, but the small, ordinary moment after, when his chest simply didn't rise again.
+Every time she closed her eyes she saw the moment when his breathing stopped — not the dramatic final words, but the small, ordinary moment after, when his chest simply didn't rise again. The way the rain kept falling on his face and he didn't blink. The way his hands finally relaxed against the nails, the tension gone, the reaching gone, the fingers that had broken bread and healed flesh and held her hand once on a hillside at sunset finally, completely still.
 
 She waited for the third day.
 
@@ -302,8 +372,8 @@ She waited for the third day.
 
 **END CHAPTER 12**
 
-**Word Count:** ~3,300 words (compressed from ~8,500)
-**Status:** REVISED Phase 2 — Scene 1 Marcus grounded (sleepless night, can't eat), Scene 2 Pilate/scourging expanded (Caiaphas patience, blow-by-blow lashes), Scene 4 crucifixion slowed (feet nail, breathing mechanics), Scene 5 criminals humanized (dying-man speech), Scene 6 death given space, Scene 7 burial sharpened, Scene 8 Mary's vigil deepened
+**Word Count:** ~6,500 words
+**Status:** EXPANDED Phase 2 — Scene 3 procession individualized (mother/son, old woman, Simon of Cyrene blood-slick crossbeam, look between Simon and Jesus), Scene 4 crucifixion emotional landscape (Marcus Carnuntum memory, soldiers gambling/eating apple, crowd taunts as physical blows), Scene 5 hours of darkness expanded (storm/rain, body failing in sequence, Mary in rain unmoving, eye contact through rain), Scene 8 Mary's vigil deepened (hand on cold stone, three specific memories — Sarah's mispronunciation, "emphatically not mad," humming in workshop, memories as HERS)
 **Next Chapter:** Chapter 13 "The Resurrection"
 
 ---
