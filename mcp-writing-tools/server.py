@@ -427,14 +427,25 @@ async def writing_compile_manuscript(
     title: str = "Untitled",
     author: str = "Randy Pellegrini",
     output_format: str = "both",
+    output_dir: str = "",
+    series_name: str = "",
+    series_number: int = 0,
+    epilogue_chapter: int = 0,
 ) -> str:
     """Compile chapter files into a complete manuscript (DOCX-ready and/or PDF-ready markdown).
+
+    Auto-detects chapter file naming patterns (00_*.md, chapter_01_*.md, ch01_*.md).
+    Produces intermediate markdown files ready for book-formatter or Pandoc conversion.
 
     Args:
         chapters_dir: Path to directory containing chapter markdown files.
         title: Book title.
         author: Author name.
         output_format: Output format — docx, pdf, or both.
+        output_dir: Output directory (defaults to chapters_dir).
+        series_name: Series name (e.g., "The Architecture of Survival").
+        series_number: Book number in the series.
+        epilogue_chapter: Chapter number that is the epilogue (0 = none).
     """
     try:
         compile_fn, _, _, BookConfig = _import_manuscript_compiler()
@@ -445,10 +456,17 @@ async def writing_compile_manuscript(
     if not path.exists():
         return f"Error: Directory not found — {chapters_dir}"
 
-    config = BookConfig(title=title, author=author)
+    config = BookConfig(
+        title=title,
+        author=author,
+        epilogue_chapter=epilogue_chapter if epilogue_chapter > 0 else None,
+    )
+
+    out = output_dir if output_dir else None
     result = await anyio.to_thread.run_sync(lambda: compile_fn(
         chapters_dir=str(path),
         config=config,
+        output_dir=out,
         output_format=output_format,
     ))
     return _to_json(result)

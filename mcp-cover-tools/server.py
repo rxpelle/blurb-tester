@@ -140,12 +140,17 @@ async def cover_generate(
     series: str = "",
     paper: str = "cream",
     output_dir: str = "",
+    manuscript_path: str = "",
 ) -> str:
     """Generate a full paperback cover (front + spine + back) for KDP.
 
     Produces PNG, PDF, and thumbnail files in the output directory.
     Uses Claude AI to choose genre-appropriate design parameters and
-    optionally DALL-E 3 for background art.
+    optionally DALL-E 3 for background art. If manuscript_path is provided,
+    Claude reads the book first to pick theme, period, and visual concept.
+
+    Layout: Title at top, author at bottom 25%, subtitle below author.
+    DALL-E backgrounds include photorealistic male and female figures in period clothing.
 
     Args:
         title: Book title.
@@ -160,6 +165,7 @@ async def cover_generate(
         series: Series name (e.g., "Book Three of The Architecture of Survival").
         paper: Paper type (cream, white, color).
         output_dir: Output directory (defaults to cover-generator/output/).
+        manuscript_path: Path to manuscript file (.txt, .md, .docx, .epub) — AI reads it to pick theme.
     """
     err = _check_generator_imports()
     if err:
@@ -180,10 +186,12 @@ async def cover_generate(
         )
 
         # Get design params (calls Claude API — blocking)
+        ms_path = manuscript_path if manuscript_path else None
         design = await anyio.to_thread.run_sync(
             lambda: get_design_params(
                 title=title, subtitle=subtitle, author=author,
                 series=series, genre=genre, description=description,
+                manuscript_path=ms_path,
             )
         )
 
@@ -237,11 +245,16 @@ async def cover_ebook(
     variants: int = 1,
     description: str = "",
     output_dir: str = "",
+    manuscript_path: str = "",
 ) -> str:
     """Generate an ebook cover (1600x2560, front only).
 
     Produces PNG and thumbnail files. Generate multiple variants for A/B
-    comparison by setting variants > 1.
+    comparison by setting variants > 1. If manuscript_path is provided,
+    Claude reads the book first to pick theme, period, and visual concept.
+
+    Layout: Title at top, author at bottom 25%, subtitle below author.
+    DALL-E backgrounds include photorealistic male and female figures in period clothing.
 
     Args:
         title: Book title.
@@ -253,6 +266,7 @@ async def cover_ebook(
         variants: Number of design variants to generate (1-5).
         description: Book description to help AI choose design direction.
         output_dir: Output directory (defaults to cover-generator/output/).
+        manuscript_path: Path to manuscript file (.txt, .md, .docx, .epub) — AI reads it to pick theme.
     """
     err = _check_generator_imports()
     if err:
@@ -270,6 +284,8 @@ async def cover_ebook(
     try:
         all_paths: list[str] = []
 
+        ms_path = manuscript_path if manuscript_path else None
+
         for i in range(variants):
             suffix = f"-v{i + 1}" if variants > 1 else ""
 
@@ -277,6 +293,7 @@ async def cover_ebook(
                 lambda: get_design_params(
                     title=title, subtitle=subtitle, author=author,
                     series=series, genre=genre, description=description,
+                    manuscript_path=ms_path,
                 )
             )
 
@@ -324,12 +341,14 @@ async def cover_design(
     genre: str = "thriller",
     series: str = "",
     description: str = "",
+    manuscript_path: str = "",
 ) -> str:
     """Preview AI-generated design parameters without rendering any images.
 
     Returns the design JSON that Claude would use for font choices, color
     palette, layout variant, decorative elements, and DALL-E prompt.
     Useful for reviewing design direction before committing to a render.
+    If manuscript_path is provided, Claude reads the book first.
 
     Args:
         title: Book title.
@@ -338,16 +357,19 @@ async def cover_design(
         genre: Genre key (thriller, historical, scifi, mystery, literary, romance, fantasy, horror).
         series: Series name.
         description: Book description to help AI choose design direction.
+        manuscript_path: Path to manuscript file (.txt, .md, .docx, .epub) — AI reads it to pick theme.
     """
     err = _check_generator_imports()
     if err:
         return f"Error: {err}"
 
     try:
+        ms_path = manuscript_path if manuscript_path else None
         params = await anyio.to_thread.run_sync(
             lambda: get_design_params(
                 title=title, subtitle=subtitle, author=author,
                 series=series, genre=genre, description=description,
+                manuscript_path=ms_path,
             )
         )
         return json.dumps(params, indent=2)
