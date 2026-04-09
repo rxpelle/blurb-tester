@@ -2,7 +2,7 @@
 ## "The Unlocking"
 
 **Timeline:** 30 CE, Spring (2 years into ministry) - 1,207 years after Genesis Protocol creation
-**Location:** Capernaum → Qumran
+**Location:** Capernaum → Qumran → Byblos → Capernaum
 **Generation:** 42 (Mary of Magdala - Branch 3)
 **POV Character:** Mary of Magdala
 
@@ -176,19 +176,109 @@ They were running out of time.
 
 ---
 
-## SCENE 5: The Partnership
+## SCENE 5: The Pattern Eye
 
-Two weeks after Qumran.
+Three weeks later. Byblos.
+
+The ruins began where the harbor road ended — crushed limestone and fallen columns tangled with scrub cedar, the old Phoenician port buried under centuries of neglect and earthquake and the slow patient work of roots splitting stone. Mary crouched in rubble that smelled of salt and ancient mortar and something older underneath, a mineral tang that reminded her of the salting vats in Magdala. Her knees ached against broken stone. Her fingernails were black with grit. A blister had opened on her right palm sometime in the last hour, and she'd packed it with dust without thinking — the way her hands had always handled minor damage, merchant's hands, used to rope and crate edges and the rough grain of salt crystals.
+
+Rachel knelt six feet away, digging with a bronze trowel they'd borrowed from a mason in the lower town. Sweat darkened the fabric between her shoulder blades. Her headscarf had slipped to her neck an hour ago and neither woman had mentioned it. Two Jewish women digging in Phoenician ruins — they'd told the harbor master they were looking for old trade seals. He hadn't believed them, but he'd taken Mary's silver and looked away.
+
+The Qumran texts had been specific: *beneath the physician's marker, east wall, third course from the floor*. But the east wall had collapsed sometime during the Persian period, and "third course from the floor" meant nothing when the floor itself lay under four feet of debris. They'd been excavating since dawn, working from the harbor side where Mary's blood memory placed the entrance to what had once been a teaching room. The sun was past noon now. Mary's water skin was nearly empty. Rachel hadn't complained — Rachel never complained — but her movements had slowed in the last hour, each trowel stroke arriving with deliberate effort rather than rhythm.
+
+Mary's hands found shaped stone under the rubble. A lintel. She traced its edge, brushing away packed earth. Her fingers touched carved symbols — shallow, weathered almost to nothing — and her vision split.
+
+Not the slow doubling she'd practiced in Capernaum. This was immediate. Violent. The ruins dissolved and the room rebuilt itself around her — plastered walls, oil lamps in niches, the sharp mineral smell of fresh-cast bronze cooling on a stone workbench. Nefertari stood at the bench with her back to Mary, shoulders rigid, hands working a mold. Outside, through a window that no longer existed, smoke rose from the harbor quarter. Shouts in a language Mary almost recognized. The crackle of fire eating through cedar roofing.
+
+Pi-Ramesses was burning.
+
+But Nefertari wasn't running. She was casting. Bronze, liquid and orange, pouring from a crucible into a flat disc mold. Her hands shook — from exhaustion, from the heat, from whatever had happened in the streets that morning — but the pour was precise. Twenty years of physician's training in those hands. Steady when it mattered.
+
+A girl appeared in the doorway. Fourteen, maybe fifteen. Ash in her hair.
+
+"The eastern quarter is gone," the girl said. "Amenhotep's people are dead. All of them."
+
+Nefertari didn't turn from the mold. "How many escaped?"
+
+"Three families. They're at the south gate."
+
+"Take this." Nefertari lifted the still-cooling disc with leather wraps, pressed it into the girl's hands. "Byblos. The teaching room near the harbor. Third stone course from the floor, east wall. You bury it there and you don't tell anyone where it is. Not your husband. Not your children. The blood remembers what mouths forget."
+
+The girl's hands closed around the disc. Even through the leather, Mary could see the girl's face change — eyes widening, breath catching — as the bronze touched her and twelve generations of accumulated knowledge surged through the contact.
+
+"Go," Nefertari said. "Now. Before the gates close."
+
+The vision broke. Mary gasped, hands flat on the rubble, chest heaving. Dust and afternoon sun. The taste of blood where she'd bitten the inside of her cheek.
+
+Rachel's face was close to hers, frightened but steady — Rachel who'd watched her own mother seize and speak in tongues, Rachel who knew what blood memory looked like from the outside. She had one hand on Mary's shoulder and the other hovering near her jaw, ready to turn her head if she started choking.
+
+"You went away," Rachel said. "Your eyes were open but you weren't here. Your lips were moving. You said a name — a woman's name. In a language I didn't recognize."
+
+Mary's hands were still on the lintel stone. The carved symbols under her fingers. She knew, with a certainty that lived in her bones rather than her mind, that she was kneeling exactly where the girl had knelt twelve hundred years ago. Same stone. Same threshold. She could still feel the heat of Nefertari's workshop on her face, layered beneath the real heat of Byblos afternoon.
+
+"Third course," Mary said. Her voice came out hoarse. "Not from the floor. From this lintel. She counted from the doorframe."
+
+They dug. Rachel handled the trowel while Mary cleared loose stone by hand, working by feel because her fingers were more reliable than her eyes — hands that knew the shape of Phoenician masonry the way they knew the shape of Sarah's skull in the dark.
+
+Twenty minutes. Thirty. Rachel's trowel scraped against something that wasn't stone.
+
+Mary reached into the gap between two limestone blocks. Cool air from inside the wall, stale and sealed. Her fingers found a shape — not stone, not mortar. Something wrapped. She closed her hand around it, and the instant her skin touched the bundle, heat flooded up her arm and across her chest and settled beneath her left ribs where the warmth always lived — but stronger, wider, like a door thrown open into a room she'd only ever seen through a keyhole.
+
+She drew it out carefully. The leather wrapping, stiff with age, crumbled at the edges when she turned it. She peeled back the last layer and it fell apart in her hands.
+
+Bronze. Warm. Eight inches across, covered in symbols that weren't quite Egyptian and weren't quite anything else. The disc pulsed against her palms like a second heartbeat, and when she held it, her vision didn't split — it opened. Everything at once. Nefertari casting this bronze while her city burned. The girl running south with it pressed against her chest. Generations of women burying it deeper, building walls over it, forgetting and remembering and forgetting again. Twelve hundred years of hands on this same metal, each leaving something behind in the bronze, each taking something with them when they let go.
+
+Mary held the disc and wept. Not from grief. From the weight of all that holding.
+
+Rachel didn't touch her. Didn't speak. She sat back on her heels in the rubble and watched Mary's face — the tears cutting clean lines through the dust on her cheeks, her lips moving without sound, her eyes focused on something twelve centuries past. Rachel had seen blood memory take Mary before. But not like this. This was something gentler. Not a seizure but a homecoming.
+
+"What is it?" Rachel asked when Mary's eyes found the present again.
+
+"The Pattern Eye." Mary turned the disc in her hands. Still warm. Still pulsing. As though Nefertari's urgency had never cooled. "It's been here since Pi-Ramesses fell. Twelve hundred years. Waiting."
+
+She wrapped it in her travel linen, pressed it against her ribs beneath her cloak, and felt it settle there — warm, patient, alive — like a hand she'd been reaching for her entire life.
+
+---
+
+## SCENE 6: The Partnership
+
+Five weeks after Qumran.
 
 Mary sat with Jesus on the hillside above Capernaum where he'd first taught her to hear both layers of his sermons. Below, the town bustled with its ordinary rhythms. Fishing boats. Markets. Roman patrols. The familiar operations of a place that didn't know it was sliding toward ruin.
 
 "I'm not your student anymore," Mary said.
 
-Jesus smiled. "You haven't been for months. You're teaching material I never explicitly covered. Training techniques I didn't develop. You've exceeded what I gave you."
+Jesus turned to look at her. Not startled — more like he'd been waiting for it. "No. You haven't been for months."
 
-"Because my inheritance sees things yours doesn't. You see twelve hundred years in a straight line — generation to generation, a column of fathers and daughters. I see the connections between different collapses. How the economics look the same whether it's Pi-Ramesses or Babylon or what Rome is building toward. You taught me the framework. I'm finding new uses for it."
+"You know what made me realize?" Mary pointed toward the harbor road where a Roman tax station was visible at the crossroads. "Last week. Your parable about the landowner and the vineyard workers — the one about fair wages. You were talking about how Rome's extraction creates instability. Power taking too much until the system breaks."
 
-"That's the partnership the Qumran text described. You and I, working the same problem from different angles."
+"Yes."
+
+"But you missed something. The taxation isn't just extraction — it's redirection. Rome taxes grain and fish and oil, but the money doesn't leave Galilee. It cycles back through the garrison, the road builders, the bath houses. The soldiers spend their wages in the same markets they're taxing. What's actually destroying the region isn't the amount Rome takes. It's that Rome pays its soldiers in denarii while the Temple demands shekels. Two currencies. The exchange creates a middleman class — the money changers — who bleed three to five percent on every transaction. Twice. Once when the fisherman converts his catch to denarii for the Roman tax, and again when he converts what's left to shekels for the Temple offering."
+
+She watched his face as she spoke. The shift was small but unmistakable — eyebrows drawing together, then lifting. His mouth opening slightly and closing again. Surprise first. Then recognition. Then something she hadn't expected: relief. The particular relief of a man who'd been carrying a weight alone and suddenly felt someone else's hands take part of it.
+
+"The currency split," he said quietly. "I saw the extraction. I didn't see the mechanism."
+
+"Because you see it as a spiritual teacher. Power and corruption and what happens to people ground between systems. I see it as a merchant. Supply routes. Transaction costs. Where the money actually goes." Mary pulled a handful of shekels and denarii from her belt pouch, held them side by side. "Two systems forcing the same population to serve both. That's what broke Pi-Ramesses — not the invasion, not the famine. Two supply chains competing for the same labor pool until neither could function. I can see it because Nefertari ran a clinic. She tracked medicines and beds and which patients could pay and which couldn't. My blood remembers how economies collapse from the middle, not the top."
+
+Jesus was quiet for a long time. He looked at the coins in her hand, then at the tax station below, then back at her.
+
+"I've been preaching about rendering unto Caesar," he said. "I thought it was about divided loyalty. You're telling me it's about transaction friction."
+
+"It's about both. That's what I'm saying — you see the spiritual architecture. I see the plumbing. The teaching needs both."
+
+He laughed. A short, surprised sound — not performance, not parable. Just a man being shown something he should have seen and hadn't. Mary had never heard him laugh like that before. Unguarded.
+
+"Two years," he said. "Two years I've been teaching you. And you just taught me something I couldn't see from inside my own bloodline."
+
+He sat with it for a moment — she could see him turning her analysis over the way he turned parables, looking at it from underneath, testing the weight. His hands had gone still on his knees. The hands of a carpenter who built things. Mary's hands were a merchant's hands — they counted and weighed and measured. Different instruments. Same purpose.
+
+"The money changers in the Temple courts," he said slowly. "I've been angry about them for years. I thought it was the corruption — profiting from worship. You're telling me it's structural. The currency split makes them necessary. They're not parasites. They're symptoms."
+
+"Yes. And if you drive them out without changing the structure, they come back. Because the system requires them."
+
+He looked at her with clear eyes. Not the teacher's gaze she'd grown used to — the one that evaluated and guided and held back information until the student was ready. This was the gaze of someone seeing an equal for the first time and knowing it.
 
 Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. Not teacher. Not friend, exactly. Partner. Equal in different domains. He had the deeper generational memory. She had the lateral pattern recognition. He excelled at public teaching — encoding knowledge in portable stories. She excelled at systematic training — building networks that could run without her.
 
@@ -243,7 +333,7 @@ But this one they had. And it was already changing everything.
 **Timeline:** 30 CE, Spring (2 years into ministry, 1,207 years after Protocol creation) ✅
 **Generation:** 42 (Mary of Magdala - Branch 3) ✅
 **POV:** Mary ✅
-**Location:** Capernaum → Qumran → Capernaum ✅
+**Location:** Capernaum → Qumran → Byblos → Capernaum ✅
 
 **Bloodline Status:**
 - Mary: Gen 42 Branch 3, Protocol access unlocked, Partnership with Jesus established ✅
@@ -252,7 +342,7 @@ But this one they had. And it was already changing everything.
 
 **Keys Status:**
 - Living Key (Key 1): Jesus (present) ✅
-- Pattern Eye (Key 2): Located (recovered offscreen between Ch 5-9, held by Jesus by Ch 9) ✅
+- Pattern Eye (Key 2): Found by Mary and Rachel in Byblos, integrated into training ✅
 - Memory Bridge (Key 3): Still lost ✅
 - Distribution Network (Key 4): Fragmentary but rebuilding ✅
 
@@ -268,7 +358,9 @@ But this one they had. And it was already changing everything.
 - Partnership dynamic established (equals, not teacher/student) ✅
 - Jesus's martyrdom acceptance confirmed ✅
 - Mary's post-execution mission clarified ✅
-- Pattern Eye found and integrated ✅
+- Pattern Eye found in Byblos (dramatized scene with Rachel) ✅
+- Pattern Eye integrated into training ✅
+- Mary teaches Jesus about currency-split economics ✅
 - Sarah's early training successful ✅
 - Two-year time jump handled smoothly ✅
 
@@ -294,5 +386,5 @@ But this one they had. And it was already changing everything.
 - Natural dialogue for 1st century context ✅
 - Sarah integrated naturally throughout ✅
 
-**Word Count:** ~5,500 words (compressed from ~8,000)
-**Status:** REVISED - Chapter 5 (compression pass)
+**Word Count:** ~4,500 words (expanded from ~3,010)
+**Status:** REVISED - Chapter 5 (expansion pass — added Byblos scene, expanded partnership)

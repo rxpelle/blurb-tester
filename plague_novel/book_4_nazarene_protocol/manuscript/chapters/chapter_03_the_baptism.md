@@ -12,35 +12,71 @@ Mary would learn the watcher's name soon enough. But before Rome found Jesus, Go
 
 ## SCENE 1: The Wilderness - John's POV
 
-John the Baptist heard him coming before he saw him.
+The boy went under wrong.
 
-Not footsteps—the Jordan's rush drowned those. Something else. A shift in the wilderness atmosphere.
+John felt it in his hands before he saw it — the tremor that started in the boy's shoulders and ran down through his ribs like a plucked string. Seventeen years old, olive farmer's son from the hill country south of Hebron. Thin wrists. Acne scarring on his jaw. He'd walked three days to reach the Jordan because his grandmother had told him that John baptized people who dreamed of cities they'd never seen.
 
-John looked up from the baptism pool—shallow basin carved by centuries of river flow through limestone—and saw his cousin descending the eastern ridge.
+The boy had been dreaming of fire. Walls collapsing. A harbor choked with ash. He'd described it to John the night before in halting sentences, embarrassed, picking at a callus on his palm: *I smell the smoke when I wake up. My sheets are wet. My mother thinks I'm possessed.*
 
-*Jesus.*
+John had heard this story, or versions of it, two hundred times. He knew what it meant. A carrier — weak, fragmentary, the kind of inheritance that produced nightmares rather than knowledge. The boy's bloodline had carried some scrap of the old memory forward through forty-two generations, and it had degraded into a thing that woke him screaming.
 
-Even at two hundred paces, carrier strength coming off the man in waves. Not visible to anyone who hadn't grown up dreaming of cities they'd never seen. But to John, unmistakable.
+"Breathe," John told him now, one hand on his shoulder, the other supporting the small of his back. The Jordan moved around their thighs, cold even in summer, fed by snowmelt from the Hermon range. "When you go under, the water is just water. Whatever you see, I'm here. I pull you out."
 
-John had been out here three years. Teaching, baptizing, living on locusts and wild honey until his teeth ached and his gut had forgotten what bread tasted like. The families who still carried the old knowledge sent their sons to him. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service. They came because the same dreams drove them to the river.
+The boy nodded. Jaw tight.
 
-But knowing someone was coming and actually seeing them approach were different experiences entirely.
+John pressed him backward. Water closed over the boy's face. For two seconds — normal. The body floated. The river held him.
 
-"Teacher." One of John's students—Elias, from a network family near Jericho—gestured toward Jesus. "Who is that?"
+Then the tremor became a seizure.
+
+The boy's back arched. His mouth opened under water — John saw the bubble stream erupt — and his hands came up clawing at nothing. Not at John, not at the surface. At something only he could see. His eyes were open and they were looking at a place twelve centuries and a thousand miles from this river.
+
+John hauled him up. The boy broke surface vomiting river water, gasping, and John held him upright in the current while Elias waded in from the bank to help.
+
+"I saw —" The boy was shaking. His teeth chattered despite the afternoon heat. "A city. On fire. People running. A woman in a room full of children, and she was — she was writing something, her hands were shaking and she kept writing —"
+
+"I know," John said. "Breathe."
+
+"She was dying. I could feel it. In my own body. Fever."
+
+"I know."
+
+The boy looked at John with the bewildered, violated expression of someone who had just been shown someone else's death from the inside. John had seen that face before too. On every carrier he'd baptized who was strong enough to catch a fragment.
+
+John helped the boy to shore. Wrapped him in a cloak. Told Elias to give him bread and water and not to leave him alone until the shaking stopped. The boy sat on the bank with his arms around his knees, staring at the river, looking older than he had five minutes ago.
+
+This was John's work. Two hundred baptisms in three years. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service because the dreams had become unbearable. They came because the same thing drove them to the river — visions they couldn't explain, inherited dread they couldn't name, the feeling that something terrible had happened to someone they'd never met and the grief had never been discharged. John gave them language for it. Gave them ritual. Put them under the water and let the blood memory surface, and then pulled them out and told them they weren't mad. That what they carried was real. That it meant something.
+
+But John's own inheritance was fragmentary. He could sense collapse the way some people sensed weather — a pressure change, a tightening behind the eyes. He dreamed of burning, but the edges were smeared. He caught the emotional register of catastrophe without the architecture. Grief without geography. Terror without the city that produced it.
+
+He'd spent fifteen years trying to sharpen what his blood gave him. Fasting. Prayer. Solitude. He'd lived on locusts and wild honey until his teeth ached and his gut had forgotten what bread tasted like. He could hold a baptism ritual with precision, could read the moment a carrier's body shifted into vision, could pull them out at exactly the right second. He was, by any measure, the best teacher the wilderness families had produced in a generation.
+
+And none of it would ever give him what his cousin carried in his sleep.
+
+That afternoon in Jerusalem. Jesus was seventeen. John was twenty. They'd sat in the shade of Solomon's colonnade and compared what they saw. Jesus had described Pi-Ramesses the way you'd describe the street you grew up on — the angle of light on the grain stores in late afternoon, the sound of chariot wheels on packed earth, the smell of the tannery district when the wind shifted west. Full immersion. Complete architecture. He'd been seeing it since he was three years old.
+
+John had listened and said almost nothing. Because what could he say? *I get impressions. Feelings. I dream of fire but I can't tell you what's burning.*
+
+That was the afternoon he'd stopped visiting his cousin. Fifteen years ago. And the bitterness had calcified into something he carried alongside the fragmentary visions — the knowledge that he'd given his life to the desert, built something real, baptized two hundred people, and his cousin could still access more of the old knowledge in one night's dreaming than John would touch in a lifetime of practice.
+
+*Envy.* The word tasted like desert dust. Like the locusts he'd been eating since he left civilization. A dry, chitinous bitterness that he swallowed and swallowed and it never went down.
+
+He was standing at the baptism pool, wringing river water from his robe, when Elias came to him.
+
+"Teacher." The young man gestured toward the eastern ridge. "Someone's coming."
+
+John looked up. And felt it before he saw it — the shift in the wilderness atmosphere. Not sound. Not movement. Something else. The way the air changed weight.
+
+Jesus was descending the ridge. Steady gait. No hurry. Even at two hundred paces, carrier strength coming off the man in waves. Not visible to anyone who hadn't grown up dreaming of cities they'd never seen. But to John, unmistakable. The way you could feel a bonfire before you turned the corner and saw it.
+
+John's hands were still wet from the boy's baptism. He wiped them on his robe and felt his jaw set.
+
+"Who is that?" Elias asked.
 
 "My cousin. From Nazareth." John's voice came out flatter than he intended. "I haven't seen him in fifteen years."
 
-Not entirely true. He'd *avoided* Jesus for fifteen years. Since that afternoon in Jerusalem when they'd compared blood memory—Jesus describing an ancient city as if he'd lived there, every street corner, every building, full immersion since age three. John's own inheritance was fragmentary. Impressions. Emotional echoes. He could sense collapse coming, but he didn't *see* the way Jesus saw.
+"Should we greet him?"
 
-That afternoon had sparked envy—a bitterness that calcified over fifteen years of desert teaching, two hundred baptisms, a community built from nothing. And still the knowledge that his cousin carried more in his blood than John would ever access through practice.
-
-*Envy.* The word tasted like desert dust.
-
-John watched Jesus descend the ridge. Steady gait. No hurry. The calm certainty of someone who'd already seen how this would go.
-
-"Should we greet him?" Elias asked.
-
-"He'll come to us." John turned back to the baptism pool, trying to settle the anxiety rising in his chest.
+"He'll come to us." John turned back to the baptism pool, trying to settle the anxiety rising in his chest. But his hands wouldn't stop shaking, and he wasn't sure if it was the lingering cold of the river or something worse — the humiliation of standing here in a camel-hair robe, smelling of locusts and sun-dried sweat, about to face the man who made everything John had built look like a child arranging stones.
 
 ---
 
@@ -48,7 +84,7 @@ Jesus reached the baptism site just after midday. The morning crowds had scatter
 
 Jesus walked directly through the noon heat, the kind that turned the limestone white and made the air shimmer above the road, and stopped ten paces from where John stood. The cousins looked at each other.
 
-John saw what he'd expected—the intensity, the focus. But also exhaustion. Jesus looked like someone pouring himself out before time ran out.
+John saw what he'd expected — the intensity, the focus. But also exhaustion. Jesus looked like someone pouring himself out before time ran out.
 
 "John." Jesus's voice was warm. "It's been too long."
 
@@ -60,11 +96,11 @@ John saw what he'd expected—the intensity, the focus. But also exhaustion. Jes
 
 John's throat tightened. "You don't need my recognition. I'm a voice in the desert, cousin. You're — " He gestured at Jesus, helpless. "You could walk into any city in Galilee and people would follow you home."
 
-"That's why I need it, cousin." Jesus looked at him directly. "Stand alone and they make you king. Kings burn when their kingdoms fall. But if I kneel in your river first—if another teacher baptizes me, not the other way around—then it was never about one man. It's about what we're both carrying."
+"That's why I need it, cousin." Jesus looked at him directly. "Stand alone and they make you king. Kings burn when their kingdoms fall. But if I kneel in your river first — if another teacher baptizes me, not the other way around — then it was never about one man. It's about what we're both carrying."
 
 John chewed on that. He'd been preaching against the very kind of authority Jesus was describing. And here was Jesus, voluntarily surrendering it.
 
-"What are you teaching them? I hear reports. Five thousand at a time. That's not a teaching—that's a wildfire."
+"What are you teaching them? I hear reports. Five thousand at a time. That's not a teaching — that's a wildfire."
 
 "Good." Jesus's voice was steady. "You plant deep in a few hundred. I scatter wide across thousands. Different work, same well." He paused. "Jerusalem burns within our lifetime, cousin. Twenty years. Maybe thirty. When the people scatter — and they will scatter — what survives is whatever they're carrying when they run."
 
@@ -104,9 +140,9 @@ Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memor
 
 "Teacher."
 
-One of John's students—young man, maybe twenty—approached respectfully. "John says it's time. Twilight. The deep pool. He asks that you come."
+One of John's students — young man, maybe twenty — approached respectfully. "John says it's time. Twilight. The deep pool. He asks that you come."
 
-Jesus stood, following the student downstream. The Jordan's sound changed as they walked—from shallow rapids to deeper, slower flow. The baptism pool appeared: maybe fifteen feet across, chest-deep at the center. Natural basin carved by centuries of water movement.
+Jesus stood, following the student downstream. The Jordan's sound changed as they walked — from shallow rapids to deeper, slower flow. The baptism pool appeared: maybe fifteen feet across, chest-deep at the center. Natural basin carved by centuries of water movement.
 
 John stood at the pool's edge with six of his core students. Not a crowd. Just witnesses who understood what they were seeing.
 
@@ -144,7 +180,9 @@ The blood memory hit like a wall.
 
 Not fragments this time. Not the brief immersions Mary described or the echoes John experienced. Full immersion — twelve centuries compressed into heartbeats.
 
-Pi-Ramesses. But the vision didn't linger where Mary's lingered. It pushed past the overcrowded city, past Tausret dying, to the root.
+The first thing was smell. Copper and smoke and something sweeter underneath, rotting fruit maybe, the particular sweetness of a city that had grown too large for its sewers. Pi-Ramesses. The streets were packed tight, bodies pressed shoulder to shoulder in the grain market, and Jesus could feel the texture of mudbrick against his palm — gritty, sun-warmed, crumbling at the edges where the plaster had given way. A wall that was already failing. The whole city was already failing. He could taste it in the water, alkaline and wrong.
+
+The vision didn't linger. It pushed past the overcrowded city, past Tausret dying, to the root.
 
 *Nefertari in the scribe school.* Eighty-four frightened students. The fever already climbing through her body, and she was still teaching — not medicine, not astronomy, but how civilizations fall. How to spot the warning signs. How to carry what mattered through the burning.
 
@@ -168,11 +206,25 @@ And underneath, the last thing she encoded before the fever consumed her:
 
 *Teach until they kill you. Die well. Trust the blood.*
 
-The vision accelerated. Fragments — eighty-four students scattering west. Knowledge degrading but persisting. Babylon. The exile. Bronze keys fragmenting across family lines.
+The vision shifted. Accelerated — then caught, snagged on something, and Jesus was somewhere else entirely.
+
+A workshop. Not Egyptian. The walls were plaster over fieldstone, and the smell was cedar and iron and the particular mineral tang of limestone dust. A man sat at a bench with his back to the doorway. Broad shoulders. The settled stillness of someone thinking — not slouching, *settling*, like a building finding its foundation. His hands rested on the bench, large and scarred, and a bronze tool lay between them catching lamplight. The room was quiet except for his breathing. And Jesus felt — not saw, *felt* — someone standing in the doorway behind the man, watching him. A woman. Her breathing was shallow, almost silent, the rhythm of someone who didn't want to interrupt. Who just wanted to look.
+
+The man tapped the bench once. *Look at this.*
+
+Two taps. *Start over.*
+
+Three taps. *Come here.*
+
+She came. And Jesus felt her hand find his — no, the man's — and the warmth that passed between them was so specific, so particular to these two bodies and the twenty years they'd worn against each other, that it landed in his chest like a fist. He gasped under the water. His lungs forgot where they were.
+
+Then Babylon. A windowless room that smelled of clay and lamp oil and bodies who'd been confined too long. Someone was reciting genealogies in the dark — names he half-recognized, the rhythm of them carrying a melody underneath the words, a song disguised as a list. Outside, the sound of a foreign city that didn't care about the people locked inside it.
 
 Then his own face. Teaching on a hillside. A Roman officer, auxiliary cavalry, Syro-Phoenician by his armor, watching from the back of a crowd, his stylus frozen over a wax tablet.
 
-A hill outside Jerusalem. A cross. His body on the wood. Not fear. Recognition.
+Then Jerusalem. A hill outside the eastern wall. The smell of raw wood and iron. Jesus saw his own hands — the carpenter's calluses he'd know anywhere — stretched against a crossbeam. He felt the nail before it existed: a cold point of pressure in the center of his left wrist, then a white-hot crack that split the world in two. His weight sagged forward. The wood held him. And the warmth beneath his ribs — the warmth that had lived there since he was three, the love that twelve centuries of reaching had distilled into something that could hold forty strangers on a hillside — poured out of the wound like water. Not diminished. *Released.* As if the nail had opened the well and everything that had been building since Nefertari's classroom was finally, finally flowing free.
+
+He saw his own face on the cross. Not fear. Recognition. The expression of someone who had seen this moment in blood memory for thirty years and had walked toward it anyway.
 
 One final image before the vision released: a bronze disc, wide as two hands laid side by side. Covered in symbols that weren't quite Egyptian. Pulsing warm. Hidden somewhere along the Phoenician coast, buried since the collapse.
 
@@ -184,9 +236,9 @@ Jesus surfaced, gasping.
 
 John hauled Jesus out of the water with both arms.
 
-Forty-five seconds under—longer than anyone John had ever baptized. He'd started reaching at thirty, but the ritual required letting the person surface on their own. When bubbles stopped rising and Jesus's body went rigid beneath the water, John broke protocol and dragged him up.
+Forty-five seconds under — longer than anyone John had ever baptized. He'd started reaching at thirty, but the ritual required letting the person surface on their own. When bubbles stopped rising and Jesus's body went rigid beneath the water, John broke protocol and dragged him up.
 
-Jesus broke the surface choking, river water streaming from his mouth, eyes wild—the face of someone who'd seen things that shouldn't be possible.
+Jesus broke the surface choking, river water streaming from his mouth, eyes wild — the face of someone who'd seen things that shouldn't be possible.
 
 "Breathe," John commanded, holding him upright in the current. "You're here. Jordan River. Summer evening. Breathe."
 
@@ -244,13 +296,117 @@ The students left reluctantly. When they were gone, John and Jesus stood alone b
 
 John's throat closed. Fifteen years of measuring himself against his cousin, and Jesus didn't see a lesser teacher standing beside a greater one. He saw two men digging the same well from different sides of the hill.
 
-Jesus pulled him into an embrace—the greeting of kinsmen, of equals in teaching. "We're both necessary, cousin. Don't ever doubt that."
+Jesus pulled him into an embrace — the greeting of kinsmen, of equals in teaching. "We're both necessary, cousin. Don't ever doubt that."
 
-They stood beside the Jordan as full darkness fell.
+---
 
-"Thank you," Jesus said. Then he disappeared into the dark, walking back toward Galilee.
+## SCENE 5: By the Fire - John's POV
 
-John stood alone beside the river. The water kept moving. It didn't care about prophecy or bloodlines or two men who'd just agreed to die for an idea. It just moved.
+They built the fire downstream, away from the sleeping students. Scrub brush and dead acacia, the wood popping and sending orange sparks into dark air that smelled of juniper and the mineral dampness of the river. Jesus had barely spoken since the embrace. He sat with his back against a boulder, wrapped in a dry cloak someone had left folded on the bank, and broke bread with the slow, deliberate movements of a man whose hands hadn't fully stopped shaking.
+
+John sat across from him. The bread was hard, three days old, the kind that had to be torn rather than broken. He chewed it and tasted nothing. His stomach had been living on locusts so long that wheat felt foreign.
+
+"When did you last eat real food?" Jesus asked.
+
+"I eat."
+
+"Locusts and honey. That's penance, not food."
+
+"It keeps me sharp."
+
+Jesus looked at him over the fire. The flames put moving shadows across his face and for a moment John saw the exhaustion plainly — not just tiredness but the bone-deep weariness of a man carrying too much. The kind of tired that sleep didn't fix.
+
+"You look terrible," John said.
+
+Jesus laughed. It came out short and surprised, almost a cough, and John realized he hadn't heard his cousin laugh in fifteen years. It was the same sound — the sudden bark that had erupted in Solomon's colonnade when they were boys and John had said something accidentally wise.
+
+"I look terrible," Jesus repeated. "I just saw twelve centuries of civilizational memory under your river and the first thing you say is I look terrible."
+
+"You do. You look like you haven't slept since Galilee."
+
+"I haven't slept well since I was three years old." Jesus tore bread. Chewed. "The visions don't stop for sleep. They *are* sleep. I close my eyes and I'm in Pi-Ramesses, or Babylon, or a workshop I've never been to, holding someone's hand." He stopped chewing. Swallowed. "That's the part that gets me. Not the burning cities. The hands."
+
+John didn't ask whose hands. He'd felt it too — the phantom reach, the body searching for a warmth that predated his own birth. His version was faint, an echo. For Jesus, it must be overwhelming.
+
+"The Eye," John said. "Tell me exactly what you saw. I'm walking to Phoenicia to dig up a bronze disc from twelve-hundred-year-old rubble. I'd like to know what I'm looking for."
+
+"Port ruins. South of the main harbor. There's a foundation wall — old, pre-collapse construction — and underneath it, a sealed room. Not a tomb. A workshop. Someone hid it there when the trade routes went down."
+
+"And the disc itself?"
+
+"Wide as two hands. Warm to the touch. Symbols that look Egyptian but aren't — older, something Nefertari's teachers used before hieratic standardized. You'll know it when you hold it. The blood memory will respond."
+
+"My blood memory barely responds to anything."
+
+"It'll respond to this." Jesus met his eyes across the fire. "The Eye doesn't require strong inheritance. That's the point. It bridges the gap. Lets carriers like you access what carriers like me see naturally." He paused. "That's why she built it. Not for the strong ones. For everyone else."
+
+John felt something shift in his chest. He'd always understood the Eye as a tool for the gifted — an amplifier for people who already saw clearly. But Jesus was describing something different. A bridge. An equalizer. A thing built specifically for people like John, whose blood carried the memory in fragments too degraded to assemble.
+
+The fire popped. A log collapsed into embers and the light shifted, throwing John's shadow long across the stones behind him.
+
+"Tell me about the death," John said. "Mine. Not the when — you said three years. Tell me the how."
+
+Jesus was quiet for a while. When he spoke, his voice had the particular gentleness of someone delivering news that would hurt and who had decided not to pretend otherwise.
+
+"A feast. Herod's birthday. You're already imprisoned by then — months, maybe longer. Herodias pushes him. Her daughter dances and Antipas, drunk, offers whatever she asks. Herodias tells the girl to ask for your head." Jesus paused. "It's quick. You don't suffer long."
+
+"A girl dancing." John stared at the fire. "I'm going to die because a girl dances well at a birthday party."
+
+"You're going to die because you told the truth about a powerful man's marriage. The girl is just the mechanism."
+
+"Still." John felt something between horror and absurdity rising in his throat. "A dance. I've spent three years in the desert eating insects and baptizing people in a river, and the thing that kills me is a *dance.*"
+
+Jesus's mouth twitched. And then — impossibly, under the circumstances — they were both laughing. Not joyfully. The laughter of two men sitting in the dark beside a river, sharing bread and futures that would end with nails and swords, who had just stumbled into the black comedy of how death actually worked. Not grand. Not meaningful in the moment. Stupid. Arbitrary. A drunk king and a dancing girl.
+
+"She must be a very good dancer," John managed.
+
+"Terrible, probably. Antipas is just drunk enough not to notice."
+
+The laughter ran out. The fire settled. The river kept moving in the dark, patient and indifferent, and the two cousins sat with it.
+
+"I'm not going to stop teaching," John said. "Even knowing."
+
+"I know."
+
+"And I'm not going to stop criticizing Antipas."
+
+"I know that too."
+
+"So I walk to Phoenicia, dig up your bronze disc, bring it back, and then I go home and get my head cut off at a birthday party."
+
+"That's about the shape of it."
+
+John looked at the stars. The same stars that had been watching this river since before Pi-Ramesses was built. He thought about Nefertari, dying of fever in a classroom, still teaching. He thought about the boy from Hebron, shaking on the riverbank, carrying visions he'd never asked for. He thought about two hundred baptisms and three years of desert and the taste of locusts every morning.
+
+"It's a strange life we have," John said.
+
+"It's the only one that matters."
+
+They finished the bread in silence. Jesus refilled the water skin from the river and handed it to John, and John drank, and the water was cold and clean and tasted like snowmelt from a mountain neither of them would ever climb.
+
+"I should sleep," Jesus said. "Long walk back to Galilee."
+
+"You won't sleep."
+
+"No." Jesus pulled the cloak tighter. "But I'll lie down and let the visions come, and maybe in between them I'll rest."
+
+John banked the fire with sand. They lay on opposite sides of the embers, the way they'd slept as boys when their families visited for Passover — two cousins on a rooftop in Jerusalem, whispering about the dreams they didn't yet understand.
+
+"John." Jesus's voice came quiet across the dying fire.
+
+"What."
+
+"Thank you. For building this. The teaching, the community, the ritual. All of it. None of what I'm doing works without what you did first."
+
+John closed his eyes. The Jordan moved in the dark. The stars burned overhead. And for the first time in fifteen years, the envy was gone. Not replaced by peace — he wasn't at peace, he was a man who'd just learned the date of his own death. But replaced by something quieter. The knowledge that what he'd built mattered. That two hundred baptisms and three years of desert and a mouth full of locusts had made something real.
+
+He slept. And for once, the dreams that came were not of burning cities.
+
+---
+
+In the morning, Jesus was already gone. The cloak was folded on the stone where he'd lain. The fire was ash. And the Jordan kept moving — carrying snowmelt south, the way it had carried knowledge forward through forty-two generations of sleeping and waking and reaching for hands that weren't there.
+
+John stood alone beside the river. Downstream, his students were stirring, smoke rising from the morning cook fire. Upstream, the baptism pool waited for the next carrier who would go under the water and come up weeping.
 
 As he turned back toward camp, a glint caught his eye — light among the eastern ridges. Torchlight reflecting off metal. Roman armor, maybe. Or just starlight on limestone.
 
@@ -281,7 +437,7 @@ Nothing moved. But the unease didn't leave him, and when he finally walked back 
 
 **Seven Keys Status:**
 - Living Key (Key 1): Jesus (activated via baptism)
-- Pattern Eye (Key 2): Vision reveals location—Phoenicia/Byblos, Bronze Age ruins
+- Pattern Eye (Key 2): Vision reveals location — Phoenicia/Byblos, Bronze Age ruins
 - Memory Bridge (Key 3): Still lost since Babylonian exile
 - Distribution Network (Key 4): Active but fragmented across families
 - Keys 5-7: Offensive mode keys, status unknown
@@ -323,6 +479,5 @@ Nothing moved. But the unease didn't leave him, and when he finally walked back 
 - Jesus-John familial connection (Gospel accounts)
 - Herod Antipas threat to John (historical trajectory)
 
-**Word Count:** ~5,000 words (compressed from ~8,000)
-**Status:** REVISED Phase 2 — Historical grounded (baptism site, period detail, Roman specificity), dialogue naturalized (seed speech, water warning), filtering words killed, Nefertari vision fragmented, ending tightened. Voice B-→B+, Historical C+→B+, Dialogue B-→B+, Prose B-→B+.
-
+**Word Count:** ~5,000 words (expanded from ~3,245)
+**Status:** REVISED Phase 3 — Expanded John's Envy (baptism scene with hill country boy, fragmentary blood memory, humiliation), expanded Baptism Vision (workshop/hands, Babylon, crucifixion with physical detail), added Post-Baptism Fire scene (bread, laughter, death with tenderness). Voice matched to Preface: physical, sensory, love-centered.

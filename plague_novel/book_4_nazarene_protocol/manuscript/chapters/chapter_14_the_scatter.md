@@ -254,23 +254,39 @@ The harbor. The wind. The smell of salt and acacia from the courtyard below.
 
 ---
 
-She died on the third day. Sarah felt the breathing change — shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words.
+She died on the third day.
 
-Mary's eyes were open but focused on something Sarah couldn't see. Her lips moved. Sarah leaned close.
+Sarah had not left the room. She'd slept in the corner on a reed mat, waking every few hours to check her mother's breathing, the way you check a fire through the night — not because you expect it to go out, but because the checking is the only thing your hands know how to do. She brought water Mary couldn't drink. She changed the linen beneath her mother's shoulders when the sweat soaked through. She opened and closed the shutters as the light changed, trying to find the angle that made Mary's face look the way it used to look, before the dying had started to pull everything inward.
+
+On the third morning, the breathing changed. Shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words.
+
+Sarah moved to the bedside and took her mother's hands. Pressed her palms flat against Mary's palms — the same gesture Mary had taught her on the rooftop three days ago, the gesture that meant *see*. Mary's hands were cooler than they should have been. The warmth that had always lived in her mother's skin, the warmth Sarah had felt since childhood every time their hands touched, had pulled inward, concentrating somewhere behind the ribs like a coal drawing in before it gives its last heat.
+
+But as Sarah pressed harder, she felt it begin to move.
+
+Not retreating. Not fading. *Moving toward her*. Through Mary's palms, through the thin barrier of skin between mother and daughter, into Sarah's hands and up her wrists and into her arms with a slow deliberate heat that was nothing like fever and nothing like sunlight and nothing like anything Sarah had a word for. It was the feeling of being found. Of a hand reaching through darkness and finally — after however long it had been reaching — closing around the hand it was looking for.
+
+Mary's eyes were open but focused on something Sarah couldn't see. Her lips moved. Sarah leaned close. She could smell her mother's breath, thin and dry, the ghost of the herbs she'd ground that morning nine years ago in Jerusalem when Peter had challenged her teaching and she'd said nothing and just kept grinding.
 
 "Tell them what you saw," Mary whispered. "Not what it meant. What you *saw*."
 
-Her breathing slowed further. The room sounds fell away — the wind through the shutters, the harbor bells, the cries of gulls circling the lighthouse. Each sound retreating, one by one, like powers releasing their hold.
+Her breathing slowed further. The room sounds fell away — the wind through the shutters first, then the harbor bells, then the cries of gulls circling the lighthouse, then the creak of a trading vessel adjusting its ropes at the quay. Each sound retreating, one by one, like powers releasing their hold. Darkness. Desire. Ignorance. The wrathful wisdom. Each one letting go as Mary passed through.
 
-Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember loosened. Not peace exactly. Something past peace. The expression of someone who had passed through darkness and desire and ignorance and all the wrathful wisdom of the world.
+Sarah held on. Her mother's pulse was in her palms now — faint, slowing, a rhythm Sarah had known before she was born, the rhythm her own heart had learned to beat against in the womb. She matched it. Breath for breath. Beat for beat. The way you match your stride to someone you've walked beside your whole life. Not trying to hold her mother here. Just walking with her as far as she could go.
 
-Her hand tightened on Sarah's once. Then released.
+Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember — the vigilance of a woman who had spent nine years carrying knowledge that powerful men wanted destroyed, who had stood at a cross and watched the person she trusted most die, who had raised a daughter alone in a foreign city while writing a gospel she knew would be buried — that tension loosened. Not peace exactly. Something past peace. The expression of someone who had passed through darkness and desire and ignorance and all the wrathful wisdom of the world and come out the other side into a silence so complete it was indistinguishable from love.
 
-Then the warmth rising from Mary's body. Not disappearing — *transferring*.
+Her hand tightened on Sarah's once. The grip of a woman who had never let go of anything easily — not the stylus, not the teaching, not the memory of a voice in a garden saying her name.
+
+Then released.
+
+Then the warmth rising from Mary's body. Not disappearing — *transferring*. The way a river reaches the sea and doesn't end but becomes something larger. Sarah felt it pour into her chest, settle beneath her left ribs, take up residence in the exact place where her mother had carried it, where Jesus had carried it before her, where forty-two generations of hands had pressed against their own skin and felt the reaching. It was heavier than she'd expected. Not the weight of grief. The weight of being trusted with something that had outlived everyone who'd ever held it.
 
 And Mary Magdalene — who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — received her rest in silence, in a whitewashed room in Alexandria with her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
 
-Sarah sat holding her mother's hand for a long time. Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
+Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move. She listened to the harbor — the sounds returning now that the room had gone quiet, the gulls and the rigging and the water against stone — and she understood for the first time why her mother had always lived near the water. The harbor never stopped. It held the same sounds day after day, year after year, the way stone holds heat, faithfully, without understanding, because that's what harbors do. They hold.
+
+Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
 
 She would have copies made. Three sets. Different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again.
 
@@ -308,23 +324,43 @@ Sarah stood on the Mount of Olives, watching Jerusalem burn below.
 
 Thirty-seven years since crucifixion. Exactly as Jesus predicted.
 
-Titus's legions had besieged the city for five months. Eighty thousand soldiers starving one million people trapped inside walls. Now the Temple was burning — stone cracking under heat stress, cedar beams consumed, gold overlay melting down stone faces like divine tears.
+The smoke reached her first. Before the sound, before the heat — the smell. Acrid and complex, layered the way a city is layered: timber first, the sharp bite of cedar beams that Solomon's architects had specified eight centuries ago, then cloth and stored grain and the oily smoke of olive wood, then something underneath all of it, sweet and sick, the smell that Sarah's blood memory recognized from cities she'd never visited. Burning flesh smelled the same in every century. Pi-Ramesses. Thebes. Babylon. And now Jerusalem. The same smell. The same smoke rising. The same silence from the people standing on the hills watching their world end.
 
-She held the Pattern Eye, bronze warm in her palms. Blood memory showed her other cities burning — Pi-Ramesses, Thebes, Babylon. The same fire. The same refugees streaming out of gates.
+Rebecca stood at her side. Fifteen years old. Sarah's daughter had not spoken since they'd climbed the mount at dawn. She stood with her arms wrapped around herself, her face grey with ash that had drifted up from the valley on the morning wind, and her eyes held the flat emptiness of someone watching something too large to process. She hadn't dreamed this. Her visions had shown her other collapses — older ones, cities whose names she couldn't pronounce — but not this. Not her own.
 
-The wind shifted and the smell hit her — acrid smoke, the sweet-sick stench of burning flesh, ash coating her tongue with the taste of a civilization dying.
+Titus's legions had besieged the city for five months. Eighty thousand soldiers starving one million people trapped inside walls. Sarah had heard the reports from network runners who slipped through the Roman lines: families eating leather. Mothers killing children to spare them starvation. Zealots fighting each other in the streets while the legions waited outside with Roman patience, letting hunger do what siege engines hadn't finished. Now the Temple was burning — stone cracking under heat stress like bones in a fire, cedar beams consumed, gold overlay melting down stone faces like divine tears running into the rubble.
 
-*Not one stone will be left on another.* Jesus had been right about everything, and Sarah wished desperately that he hadn't been.
+She held the Pattern Eye, bronze warm in her palms. The disc had been warm for thirty-seven years — warm when Peter pressed it into her hands in that Roman cell, warm when she'd carried it against her ribs through the streets of Rome, warm now as she watched the city where it had once been hidden burn to its foundations. Blood memory showed her the pattern: other cities burning, other temples falling, other refugees streaming through gates. The same fire. Always the same fire.
 
-The Temple fell completely by evening. Final retaining wall collapsing inward, massive stones tumbling, dust cloud rising like a soul leaving a body.
+The wind shifted and a gust carried the full force of it — not just smoke but heat, the radiant warmth of a city-sized furnace, and with it the sound that distance had been muffling: a low roar, not like any single fire but like the breathing of something enormous, punctuated by the crack and groan of stone giving way, and beneath it, almost too faint to hear at this distance, the sound of human voices. Screaming. Or praying. At this distance the two were indistinguishable.
 
-But the people were already moving west. Carrying what the stones could not hold.
+Ash coated Sarah's tongue. She tasted it and thought of Jesus's words, spoken when she was seven years old and too young to understand them, repeated to her by her mother in the Alexandria house, repeated again by Peter in his cell: *Not one stone will be left on another. All will be thrown down.*
 
-Sarah turned away from the burning city. Her daughter Rebecca, fifteen, was already dreaming cities she'd never seen. Already reaching left in her sleep.
+He had been right about everything. And Sarah, standing on the hillside where he had given his final instructions thirty-seven years ago, wished desperately that he hadn't been.
 
-Behind her, Jerusalem burned through the night. Sky orange. Smoke black. All of it becoming the kind of memory that outlives stone.
+Rebecca's hand found hers. The girl's fingers were cold despite the furnace heat rolling up from the valley. Sarah squeezed and felt something move in her daughter's grip — a tremor, not of fear but of recognition. The blood was waking in Rebecca. Standing on this hill, watching this fire, breathing this ash — it was reaching for her the way it had reached for Sarah on the night of the earthquake in Damascus, the way it had reached for Mary in the garden, the way it had reached for Jesus on a hillside above Galilee when the well overflowed and forty strangers wept.
 
-Sarah pressed her hand against her left side. The warmth was there. Forty-three lifetimes of love, and grief, and reaching in the dark.
+"Mama," Rebecca said. Her first word in hours. "I can see them. The other cities. Burning."
+
+Sarah pulled her daughter close. Held her head against her shoulder. The girl was shaking now, the visions arriving with the force they always arrived with the first time — too much, too fast, too old for a fifteen-year-old body to hold.
+
+"I know," Sarah said. "I know."
+
+The Temple fell completely by evening. The final retaining wall collapsing inward, massive stones tumbling into the courts where priests had offered sacrifices that morning, dust cloud rising above the ruins like a soul leaving a body. For a moment the cloud caught the last of the daylight and turned gold, and then the sun set behind the western hills and the cloud went dark and there was nothing left but fire and smoke and the sound of Roman soldiers moving through what remained.
+
+But the people were already moving west. Carrying scrolls, carrying children, carrying nothing but the knowledge in their bodies. Carrying what the stones could not hold.
+
+Sarah turned away from the burning city. She looked at Rebecca — ash in her hair, tears cutting tracks through the grey dust on her cheeks, her left hand pressed against her ribs the way every carrier pressed, the way Nefertari had pressed, the way the gesture would be repeated for as many generations as the blood continued.
+
+"We go west," Sarah said. "Now."
+
+Rebecca looked back once at Jerusalem. The sky behind the city was orange, grading to black where the smoke thickened, and the fire had spread beyond the Temple into the lower city, into the upper city, into every quarter. The whole horizon burned.
+
+She turned away. Took her mother's hand. They walked.
+
+Behind them, Jerusalem burned through the night. Sky orange. Smoke black. All of it becoming the kind of memory that outlives stone.
+
+Sarah pressed her hand against her left side. The warmth was there. Heavier now — forty-three lifetimes of love, and grief, and reaching in the dark, and the new weight of watching another city fall and knowing it would not be the last.
 
 She walked west.
 
@@ -404,8 +440,8 @@ It was always warm.
 
 ---
 
-**Word Count:** ~4,200 words (compressed from ~8,600)
-**Status:** REVISED — Day 7 and Day 14 cut, Thomas compressed, Ascension compressed, Pentecost cut, Mary's Gospel tightened (Nag Hammadi content preserved), Gospel recap from death scene cut, Paul scene cut entirely, Peter/James essay cut, Peter's martyrdom compressed, Jerusalem burning compressed, Epilogue cut
+**Word Count:** ~5,500 words (expanded from ~4,200)
+**Status:** EXPANDED Phase 3 — Mary's deathbed expanded (physical transfer of warmth, Sarah pressing palms, harbor sounds retreating as Mary passes through the powers, body-level witnessing), Jerusalem burning expanded (smoke/smell arriving first, Rebecca at Sarah's side with visions awakening, "Not one stone will be left on another," the moment Sarah turns west with Rebecca)
 **Timeline Coverage:** 33 CE - 70 CE (+ Epilogue 312 CE)
 
 **Bridge to Book 5: THE CONSTANTINE CORRUPTION**
