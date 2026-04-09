@@ -1,0 +1,392 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e6] [cursor=pointer]:
+        - /url: "#AACApplicationBody"
+      - generic [ref=e8]:
+        - link "Amazon Advertising Console" [ref=e9] [cursor=pointer]:
+          - /url: /mn
+          - img "Amazon Advertising Console" [ref=e10]
+        - generic [ref=e12]:
+          - link "Campaigns." [ref=e13] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+            - generic [ref=e15]: Campaigns
+          - switch "Set Campaigns as your homepage" [ref=e17] [cursor=pointer]:
+            - img [ref=e19]
+            - generic [ref=e21]: Set Campaigns as your homepage
+        - generic [ref=e22]:
+          - button "Randy Pellegrini Sponsored ads, multiple countries" [ref=e24] [cursor=pointer]:
+            - generic [ref=e26]:
+              - paragraph [ref=e27]: Randy Pellegrini
+              - paragraph [ref=e28]: Sponsored ads, multiple countries
+          - button "See my notifications" [ref=e31] [cursor=pointer]:
+            - img [ref=e33]
+            - generic [ref=e35]: See my notifications
+          - button "Open the help panel" [ref=e38] [cursor=pointer]:
+            - img [ref=e40]
+            - generic [ref=e42]: Open the help panel
+          - button "Your preferences" [ref=e45] [cursor=pointer]:
+            - img [ref=e47]
+            - generic [ref=e49]: Your preferences
+    - generic [ref=e51]:
+      - generic [ref=e53]:
+        - button "Create campaign" [ref=e55] [cursor=pointer]:
+          - img "Create campaign" [ref=e57]
+          - generic [ref=e60]: Create campaign
+        - link "Campaigns" [ref=e62] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Campaigns" [ref=e64]
+          - generic [ref=e66]:
+            - generic [ref=e67]: Campaigns
+            - switch "Set Campaigns as your homepage" [ref=e70]:
+              - img [ref=e72]
+              - generic [ref=e74]: Set Campaigns as your homepage
+        - link "Recommendations" [ref=e76] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Recommendations" [ref=e78]
+          - generic [ref=e83]:
+            - generic [ref=e84]: Recommendations
+            - generic:
+              - generic:
+                - switch "Set Recommendations as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Recommendations as your homepage
+        - generic [ref=e85]:
+          - button "Show links under Creative tools" [ref=e87] [cursor=pointer]:
+            - img "Creative tools" [ref=e89]
+            - generic [ref=e92]: Creative tools
+            - img [ref=e94]
+          - generic [ref=e97]:
+            - generic [ref=e98] [cursor=pointer]:
+              - link "Creative assets" [ref=e99]:
+                - /url: https://advertising.amazon.com/creative-assets?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - generic:
+                  - switch "Set Creative assets as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Creative assets as your homepage
+            - generic [ref=e100] [cursor=pointer]:
+              - link "Creative Studio" [ref=e101]:
+                - /url: https://advertising.amazon.com/creative-studio?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic [ref=e102]:
+                - generic "Beta_ai_with_icon" [ref=e103]:
+                  - generic [ref=e105]:
+                    - text: Beta
+                    - img [ref=e107]
+                    - text: AI
+                - generic:
+                  - switch "Set Creative Studio as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Creative Studio as your homepage
+            - generic [ref=e109] [cursor=pointer]:
+              - link "Translations" [ref=e110]:
+                - /url: https://advertising.amazon.com/translations?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - generic:
+                  - switch "Set Translations as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Translations as your homepage
+        - link "Ads planner" [ref=e112] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Ads planner" [ref=e114]
+          - generic [ref=e116]:
+            - generic [ref=e117]: Ads planner
+            - generic:
+              - generic:
+                - switch "Set Ads planner as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Ads planner as your homepage
+        - generic [ref=e118]:
+          - button "Show links under Measurement & reporting" [ref=e120] [cursor=pointer]:
+            - img "Measurement & reporting" [ref=e122]
+            - generic [ref=e125]: Measurement & reporting
+            - img [ref=e127]
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - generic [ref=e131] [cursor=pointer]:
+                - link "Amazon Attribution" [ref=e132]:
+                  - /url: https://advertising.amazon.com/attribution?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e133]:
+                  - generic "Beta" [ref=e134]:
+                    - generic [ref=e135]: Beta
+                  - generic:
+                    - switch "Set Amazon Attribution as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Amazon Attribution as your homepage
+              - generic [ref=e136] [cursor=pointer]:
+                - link "Amazon Marketing Cloud" [ref=e137]:
+                  - /url: https://advertising.amazon.com/marketing-cloud?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Amazon Marketing Cloud as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Amazon Marketing Cloud as your homepage
+              - separator
+            - generic [ref=e139]:
+              - generic [ref=e140] [cursor=pointer]:
+                - link "Reporting" [ref=e141]:
+                  - /url: https://advertising.amazon.com/reporting?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e142]:
+                  - generic "Beta" [ref=e143]:
+                    - generic [ref=e144]: Beta
+                  - generic:
+                    - switch "Set Reporting as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Reporting as your homepage
+              - generic [ref=e145] [cursor=pointer]:
+                - link "Sponsored ads reports" [ref=e146]:
+                  - /url: https://advertising.amazon.com/reports?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Sponsored ads reports as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Sponsored ads reports as your homepage
+              - generic [ref=e147] [cursor=pointer]:
+                - link "Brand lift studies" [ref=e148]:
+                  - /url: https://advertising.amazon.com/studies?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Brand lift studies as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Brand lift studies as your homepage
+        - generic [ref=e149]:
+          - button "Show links under Tools & resources" [ref=e151] [cursor=pointer]:
+            - img "Tools & resources" [ref=e153]
+            - generic [ref=e156]: Tools & resources
+            - img [ref=e158]
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - generic [ref=e162]: MORE ADVERTISING TOOLS
+              - generic [ref=e163] [cursor=pointer]:
+                - link "Partner Directory" [ref=e164]:
+                  - /url: https://advertising.amazon.com/partners/directory?ref_=ad_cons_more_ads_tools_nav
+                - img [ref=e167]
+              - generic [ref=e169] [cursor=pointer]:
+                - link "Amazon Ads Academy" [ref=e170]:
+                  - /url: https://advertising.amazon.com/academy?ref_=advcnsl_us_aaa_gw
+                - img [ref=e173]
+              - separator
+            - generic [ref=e176]:
+              - generic [ref=e177]: AMAZON SELLING TOOLS
+              - generic [ref=e178] [cursor=pointer]:
+                - link "Kindle Direct Publishing" [ref=e179]:
+                  - /url: https://kdp.amazon.com/?ref_=AAC_gnav_KDP_linkback
+                - img [ref=e182]
+        - button "All tools" [ref=e185] [cursor=pointer]:
+          - img "All tools" [ref=e187]
+          - generic [ref=e190]: All tools
+        - generic [ref=e191]:
+          - button "Show links under Administration" [ref=e193] [cursor=pointer]:
+            - img "Administration" [ref=e195]
+            - generic [ref=e198]: Administration
+            - img [ref=e200]
+          - generic [ref=e202]:
+            - generic [ref=e203]:
+              - generic [ref=e204] [cursor=pointer]:
+                - link "Account access & settings" [ref=e205]:
+                  - /url: https://advertising.amazon.com/user/management?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Account access & settings as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Account access & settings as your homepage
+              - separator
+            - generic [ref=e207]:
+              - generic [ref=e208]: BILLING & PAYMENT
+              - generic [ref=e209] [cursor=pointer]:
+                - link "Billing" [ref=e210]:
+                  - /url: https://advertising.amazon.com/billing/history?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e211]:
+                  - generic "New" [ref=e212]:
+                    - generic [ref=e213]: New
+                  - generic:
+                    - switch "Set Billing as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Billing as your homepage
+      - generic:
+        - generic:
+          - generic "Create campaign":
+            - img "Create campaign"
+            - generic:
+              - generic: Create campaign
+        - generic:
+          - link "Campaigns":
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Campaigns"
+            - generic:
+              - generic: Campaigns
+        - generic:
+          - link "Recommendations":
+            - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Recommendations"
+            - generic:
+              - generic: Recommendations
+        - generic:
+          - generic "Show links under Creative tools":
+            - img "Creative tools"
+            - generic: Creative tools
+          - generic:
+            - generic:
+              - generic:
+                - link "Creative assets":
+                  - /url: https://advertising.amazon.com/creative-assets?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - link "Creative Studio":
+                  - /url: https://advertising.amazon.com/creative-studio?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta_ai_with_icon":
+                    - generic:
+                      - generic:
+                        - text: Beta
+                        - generic:
+                          - img
+                        - text: AI
+              - generic:
+                - link "Translations":
+                  - /url: https://advertising.amazon.com/translations?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - link "Ads planner":
+            - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Ads planner"
+            - generic:
+              - generic: Ads planner
+        - generic:
+          - generic "Show links under Measurement & reporting":
+            - img "Measurement & reporting"
+            - generic: Measurement & reporting
+          - generic:
+            - generic:
+              - generic:
+                - link "Amazon Attribution":
+                  - /url: https://advertising.amazon.com/attribution?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta":
+                    - generic: Beta
+              - generic:
+                - link "Amazon Marketing Cloud":
+                  - /url: https://advertising.amazon.com/marketing-cloud?entityId=ENTITY1SABYJ3Y7NOJU
+              - separator
+            - generic:
+              - generic:
+                - link "Reporting":
+                  - /url: https://advertising.amazon.com/reporting?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta":
+                    - generic: Beta
+              - generic:
+                - link "Sponsored ads reports":
+                  - /url: https://advertising.amazon.com/reports?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - link "Brand lift studies":
+                  - /url: https://advertising.amazon.com/studies?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - generic "Show links under Tools & resources":
+            - img "Tools & resources"
+            - generic: Tools & resources
+          - generic:
+            - generic:
+              - generic: MORE ADVERTISING TOOLS
+              - generic:
+                - link "Partner Directory":
+                  - /url: https://advertising.amazon.com/partners/directory?ref_=ad_cons_more_ads_tools_nav
+                - generic:
+                  - generic:
+                    - img
+              - generic:
+                - link "Amazon Ads Academy":
+                  - /url: https://advertising.amazon.com/academy?ref_=advcnsl_us_aaa_gw
+                - generic:
+                  - generic:
+                    - img
+              - separator
+            - generic:
+              - generic: AMAZON SELLING TOOLS
+              - generic:
+                - link "Kindle Direct Publishing":
+                  - /url: https://kdp.amazon.com/?ref_=AAC_gnav_KDP_linkback
+                - generic:
+                  - generic:
+                    - img
+        - generic:
+          - generic "Show links under Administration":
+            - img "Administration"
+            - generic: Administration
+          - generic:
+            - generic:
+              - generic:
+                - link "Account access & settings":
+                  - /url: https://advertising.amazon.com/user/management?entityId=ENTITY1SABYJ3Y7NOJU
+              - separator
+            - generic:
+              - generic: BILLING & PAYMENT
+              - generic:
+                - link "Billing":
+                  - /url: https://advertising.amazon.com/billing/history?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "New":
+                    - generic: New
+  - generic [ref=e216]:
+    - navigation "Sidebar" [ref=e218]:
+      - button "Hide navigation menu" [expanded] [ref=e219] [cursor=pointer]:
+        - img [ref=e221]
+        - generic [ref=e225]: Hide navigation menu
+      - list [ref=e226]:
+        - generic [ref=e227]:
+          - listitem [ref=e228]:
+            - button "Portfolios" [ref=e230] [cursor=pointer]:
+              - generic [ref=e231]: Portfolios
+          - listitem [ref=e232]:
+            - button "Campaigns" [ref=e234] [cursor=pointer]:
+              - generic [ref=e235]: Campaigns
+          - listitem [ref=e236]:
+            - button "Drafts" [ref=e238] [cursor=pointer]:
+              - generic [ref=e239]: Drafts
+        - separator
+        - generic [ref=e241]:
+          - listitem [ref=e242]:
+            - button "Products" [ref=e244] [cursor=pointer]:
+              - generic [ref=e245]: Products
+          - listitem [ref=e246]:
+            - button "Targeting" [ref=e248] [cursor=pointer]:
+              - generic [ref=e249]: Targeting
+          - listitem [ref=e250]:
+            - button "Budgets" [ref=e252] [cursor=pointer]:
+              - generic [ref=e253]: Budgets
+        - separator
+        - generic [ref=e255]:
+          - listitem [ref=e256]:
+            - button "History" [ref=e258] [cursor=pointer]:
+              - generic [ref=e259]: History
+          - listitem [ref=e260]:
+            - button "Rules Beta" [ref=e262] [cursor=pointer]:
+              - generic [ref=e263]: Rules
+              - generic "Beta" [ref=e264]:
+                - generic [ref=e265]: Beta
+          - listitem [ref=e266]:
+            - button "Settings" [ref=e268] [cursor=pointer]:
+              - generic [ref=e269]: Settings
+    - generic [ref=e272]:
+      - button "Share feedback" [ref=e278] [cursor=pointer]
+      - img [ref=e283]
+  - generic [ref=e288]:
+    - generic [ref=e289]: © 2026 Amazon.com, Inc. or its affiliates.
+    - link "Conditions of use" [ref=e290] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088
+    - link "Privacy notice" [ref=e291] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+    - link "Amazon Advertising Agreement" [ref=e292] [cursor=pointer]:
+      - /url: https://advertising.amazon.com/terms
+    - link "Status" [ref=e293] [cursor=pointer]:
+      - /url: https://status.ads.amazon.com

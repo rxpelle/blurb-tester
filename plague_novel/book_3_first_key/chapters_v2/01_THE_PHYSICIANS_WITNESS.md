@@ -4,341 +4,268 @@
 
 ---
 
-The smell reached Nefertari before the sound: refugees from across the sea, flooding Pi-Ramesses in waves. Mycenaeans fleeing collapsed cities. Hittites walking hundreds of miles from burned empires. Disease waiting to happen.
+**1189 BCE — Pi-Ramesses, Egypt**
 
-She stood at the city's eastern edge where the canal met the reed marshes, physician's bag heavy with willow bark and honey, her green-striped linen already damp in the Delta heat. Twenty years at the Per Ankh taught her to read a pulse, set a bone, compound 700 remedies from the Ebers Papyrus. But lately she'd been tracking something else: how children of scribes learned symbols faster, how famine victims' children weakened even when fed, how pulse rhythms echoed through bloodlines. Perhaps the metu — those vessels carrying life force — also carried something else. Some imprint that passed forward through blood itself.
+The child grabbed Nefertari's wrist and spoke Egyptian.
 
-None of it could cure the end of the world.
+"Left corridor. Granary. The jars with the red seal."
 
-"Physician." A woman's voice, cracked with thirst.
+The girl was Mycenaean — six years old, wrapped in a tunic pinned at the shoulder with a bone clasp, the wool so filthy the original weave had disappeared. She'd arrived with the latest wave of refugees from across the sea, part of a family that had walked for weeks from a port city that no longer existed. She didn't speak Egyptian. Her mother had confirmed this through a Phoenician interpreter not two hours ago.
 
-A Mycenaean mother sat against a mud-brick wall, three children dying slowly from malnutrition. Their Mycenaean tunics, pinned at the shoulder with bone clasps, the fabric once fine wool, hung like rags. Nefertari knelt, checked pulses. Too fast. The oldest child had her mother's hands, same long fingers, same narrow wrists that had probably shaped pottery. Mycenaean fine ware had once filled Pi-Ramesses's markets. Now those hands just trembled.
+Yet the child's fingers dug into Nefertari's wrist and the words came out clear, accented wrong but grammatically perfect: directions to the grain store inside the Per Ankh. A building this girl had never entered, in a district she'd never visited, in a language she'd never been taught.
 
-She pressed willow bark paste into the woman's hand, dried tilapia from her own ration. "Make it last."
+"Left corridor. Granary. The jars with the red seal."
 
-Not enough. Never enough.
+Then she let go, blinked, and started crying for water as if nothing had happened.
 
-"The grain stores—" the woman began.
+Nefertari's hands went cold.
 
-"Empty by midday. Every day."
+Twenty years at the Per Ankh had taught her to read a pulse, set a bone, compound seven hundred remedies from the Ebers Papyrus. She crouched beside the child, checking pupils, feeling the pulse point at the throat. Fast. Malnourished. But the eyes were ordinary. No fever-glaze. No delirium.
 
-This family would die. Not today, but soon. Three hundred thousand people had lived in Pi-Ramesses before the refugees came. Now no one knew the real number. The city's canals, once lined with lotus and papyrus, thick with fish, now carried disease. The great faience-tiled temples of Amun and Seth still gleamed turquoise in the morning light, but the markets between them had gone hollow. Bread stalls empty by dawn. Beer jars unfilled.
+"What did you just say?" Nefertari asked, signing for the interpreter.
 
-The collapse was patient. And Nefertari had been reading its pattern for two years.
+The girl shook her head. Said something in Mycenaean. The interpreter translated: "She says she didn't say anything."
 
-Two years of the world ending in slow motion. Mycenae burned, then Pylos, then Knossos. Each failure fed the next: drought killing harvests, dead harvests killing trade, dead trade killing armies. Cities that had stood for centuries turned to ash in a single generation.
+---
 
+Nefertari spent the next three days ignoring everything else.
 
-*How do you save knowledge when the world that holds it is burning?*
+She found the child's mother first. Pressed two fingers to the woman's wrist and watched her face while asking about the family's history through the interpreter. Where they'd come from. How long they'd been walking. Whether anyone in the family had ever been to Egypt.
 
-She'd asked Amenhotep that question last week. Her colleague from the Per Ankh, though *colleague* was a word that had always been too small for what they were. All those years of shared laboratories and shared meals and a shared courtyard in the scholars' quarters where they'd argued about pulse theory until the lamp oil ran out and kept arguing in the dark because neither wanted to be the one to say goodnight. The neighbors called them married. The ration rolls listed them as one household. They'd never corrected anyone. The truth was more complicated than marriage and simpler than friendship and neither of them had ever found a word for it in Egyptian or any other language.
+No. Never. Three generations of potters from Tiryns. No connection to Egypt, no traders in the family, no one who'd ever learned a word of the language.
 
-Brilliant and difficult. That was Amenhotep. A mind that could hold six variables simultaneously and a heart that had calcified the year his family died in the grain riots. He'd spent a lifetime studying the same texts she had and drawn completely opposite conclusions.
+But when Nefertari mentioned the Per Ankh — casually, testing — the mother's left hand twitched. A micro-expression crossed her face: recognition. Then gone. She didn't know she'd done it.
 
-"You don't save the world, Nefertari," he'd said, standing in the doorway of her chamber, close enough that she could smell the copper dust on his hands. "You save who matters. You choose who survives."
+Nefertari marked her as the second case.
 
-The memory tightened her jaw, not just his words but the way he'd stood there, one hand braced against the doorframe, the lamplight catching the scar on his left thumb that she'd stitched when they were twenty-two. She could read his body like a medical text. Knowing someone completely and agreeing with them were different things entirely.
+The third was a Hittite metalworker in the eastern camp who'd been drawing diagrams in the sand — Egyptian irrigation patterns, the kind taught at the Per Ankh to first-year students. His grandfather had been a scribe in Hattusa, dead thirty years. The metalworker had never been inside any school.
 
-Breeding programs and controlled populations. That was his answer. Hers was... what? Only that watching civilization die had clarified something: *Knowledge dies with people unless you can encode it deeper than memory.*
+The fourth was a famine survivor's grandchild, born into plenty, whose body still hoarded fat as though starving.
 
-Deeper than scrolls that burn. Deeper than buildings that fall. Deeper than institutions that fragment.
+The fifth was a soldier's son who flinched at the sound of bronze on bronze, though he'd never seen a battle.
 
-Into blood itself.
+Five families. Three generations deep. The pattern wasn't random and it wasn't learned. It followed bloodlines — grandmother to mother to child — and it carried information the conscious mind had never received. The body remembered what the mind forgot.
 
-Movement at her vision's edge. A runner, wearing royal livery, pushing through the crowds. Pharaoh Tausret's colors.
+She worked from the canal district to the refugee quarter and back, checking pulses, filling her writing board with notes in a script so compressed only she could read it. She passed Amenhotep's workshop twice. Both times his lamp was burning — she could see it through the lattice window, could smell the copper dust on the air, the mineral scent that had lived in his skin for as long as she'd known him. Both times she kept walking.
 
-The runner spotted her, stumbled to a stop. "Physician Nefertari. The Pharaoh—fever since dawn. She's asking for you. Please. Hurry."
+She caught herself counting steps timed to her pulse. One beat, one step. A habit from years of counting together — his heartbeat and hers, synchronized during long nights in the laboratory, their bodies keeping time with each other while their minds worked separate problems. She stopped counting. Kept walking.
 
-Nefertari was already moving, her bag clutched tight. Behind her, the refugee mother called out thanks that she didn't hear. Her mind raced ahead, through canal-side streets, past the temple complex, toward the royal palace where Tausret—the last stable power in Egypt—lay burning with the same fever killing refugees in the streets.
+The second time she passed his workshop, she heard a tap from inside. One tap on a hard surface. The old signal from a thousand shared experiments: *look at this.* Her feet stopped before her mind caught up. She stood on the path for three seconds, listening. Then she heard him moving inside — the creak of a stool, the scratch of a stylus — and she walked on.
 
-*No. Not Tausret. Anyone but Tausret.*
+One tap meant *look at this.* Two taps meant *I was wrong, start over.* Three taps meant *come here, I need you close.*
 
-Pharaoh Tausret, who'd held Egypt together through three years of chaos. Who'd given Nefertari access to the royal libraries, encouraged her research into heredity and memory, protected the Per Ankh when grain stores dwindled. Who'd said, just last month: "If the worst comes, Nefertari, you're the one I'd trust to preserve what matters."
+They'd never spoken about the language. It had built itself, tap by tap, over twenty years. The neighbors called them married. The ration rolls listed them as one household. They'd never corrected anyone. The truth was more complicated than marriage and simpler than friendship and neither of them had ever found a word for it in Egyptian or any other language.
 
-The palace gates opened. Guards recognized her face, stepped aside.
+---
 
-Inside, cool stone corridors painted with scenes of Ramesses's victories at Kadesh, chariots and horses in fading blue and ochre. The smell of kyphi incense failing to mask decay.
+"Physician Nefertari. The Pharaoh — fever since dawn. She's asking for you."
 
-A handmaiden met her at the inner door, face streaked with tears. "She's been calling for you. She won't let anyone else touch her."
+The runner wore Tausret's colors, breathing hard, shoving through the crowd at the canal bridge. Nefertari was already moving before he finished.
 
-Nefertari pushed past, into Tausret's chambers.
+Tausret was dying. Nefertari knew it from the doorway.
 
-The Pharaoh lay on her bed, and the sight broke something in Nefertari's chest.
+Respiratory fever — the same one killing refugees in the streets. The broad gold wesekh collar still circled Tausret's neck, lapis and carnelian and turquoise in falcon-wing rows, but it looked obscene now. Power adorning a corpse that hadn't finished dying. The sleeping chamber stank of frankincense failing to mask rot.
 
-Dying. Tausret was dying.
+"Nefertari." Tausret's eyes opened. Yellow at the edges. "When."
 
-Skin gray beneath the sweat. Breath rattling in lungs already drowning. The broad gold wesekh collar still circled Tausret's neck (lapis, carnelian, and turquoise in falcon-wing rows) but it looked obscene now, power adorning a corpse. Faience beads scattered across linen sheets where fever tremors had thrown them. The sleeping chamber stank of sickness despite frankincense burning in bronze braziers, despite natron and myrrh in clay bowls beneath the bed. Rot and sweat and the particular stench of respiratory fever eating someone from the inside.
+No preamble. Eight years as Pharaoh had burned the filler out of her.
 
-Forty-six years old. Eight years as Pharaoh. Survived political coups, foreign invasions, three seasons of drought, the slow-motion failure of every trading partner Egypt had ever known.
+"Maybe two days." Then, because Tausret deserved truth: "Probably less."
 
-Dying now from giving water to a refugee.
+"Good. I hate lingering." She tried to laugh. Blood flecked her lips. "A woman in the market yesterday. Coughing. I gave her water."
 
-The gods had a sense of timing, at least.
+"Of course you did."
 
-Nefertari knelt beside the bed. Pressed fingers to Tausret's wrist.
+"Tell me about your research. The blood patterns. Talk to me about something that might outlive this."
 
-The pulse was weak. Irregular. Racing then stumbling like it couldn't remember its own rhythm.
+So Nefertari talked. She described the Mycenaean girl — the three words in Egyptian, the grain store directions, the language she'd never learned. The Hittite metalworker drawing irrigation diagrams in the sand. Five families. Three generations. The pattern in the blood.
 
-"Nefertari." Tausret's eyes opened. Unfocused. Yellow at the edges. "The refugees... the fever..."
+Tausret listened, lungs filling with the fluid that would kill her. But her eyes sharpened.
 
-"Shh. I'm here." Nefertari kept her voice steady through two decades of practice lying to dying patients. "The fever will break. You just need rest."
+"The body remembers," Tausret murmured. "Even when the world that taught it is gone."
 
-The lie tasted like copper.
+"Yes. But the information surfaces randomly. A word here, a gesture there. Most of it dies with the carrier because no one recognizes what it is."
 
-"When did it start?"
+Tausret's hand found Nefertari's wrist. Surprisingly strong.
 
-"Dawn." Tausret tried to smile. Failed. "There was a woman in the market yesterday. Coughing. I gave her water. Stupid."
+"Then don't let it be random."
 
-"Not stupid." Nefertari's throat closed. "Human."
+The fever surged. Tausret's eyes went glassy, her head pressed back into the linen, and she began to speak — but not in Egyptian.
 
-Of course Tausret had been in the markets. Of course she'd been distributing grain from her personal stores. Of course she'd ignored every advisor who'd begged her to stay away from the refugee districts.
+The words were Hittite. Old Hittite, a dialect dead for a century. Nefertari sat very still because Tausret had never studied Hittite, had never visited Hattusa, had never heard this language in her life.
 
-Of course she was dying for it.
+"The granaries are empty," Tausret said in a dead woman's tongue. "The western wall is breached. Tell the king the grain ships aren't coming. I can see the smoke from the—"
 
-Nefertari reached for her bag. Willow bark paste for fever. Honey to coat the throat. Useless remedies for a patient already drowning in her own lungs.
+She stopped. Blinked. Came back.
 
-Tausret's hand caught her wrist. Surprisingly strong for someone dying.
+"What did I just say?"
 
-"No." The word was clear. Certain. "You know this fever."
+Nefertari's hands were shaking. She'd been writing. She didn't remember starting.
 
-Nefertari's hands stilled.
+"You described the fall of a Hittite city. In Hittite. A dialect no one has spoken in a hundred years."
 
-"How long?"
+Tausret stared at her. The clarity that sometimes came to dying patients — the body burning its last reserves to think.
 
-The professional assessment came automatically. Respiratory fever from the refugee camps. Pneumonia setting in. Lungs already compromised. Fever too high. Pulse too weak. Tausret wasn't malnourished like the refugees, but she wasn't young anymore either.
+"Your mother's line," Nefertari said. "Your grandmother was Hittite. A diplomatic marriage. The memory has been in your blood for three generations."
 
-"Maybe two days," Nefertari whispered. Then, because they'd been friends for eight years and Tausret deserved truth: "Maybe less."
-
-Tausret nodded. Closed her eyes. When she opened them again, they were clearer. Focused. The clarity that sometimes came to dying patients in their final hours, the body burning its last reserves to think.
-
-"Then listen. While I can still think."
-
-She pulled Nefertari closer. Breath hot and wet against her ear. The smell of rot already creeping in.
-
-"This is the end of our world. You know it. I know it. The Hittites are gone. Mycenae is gone. Babylon is fragmenting. The trade routes are dead. Egypt will survive—we always survive—but not like this. Not as we were."
-
-Her grip tightened. Fever-hot fingers digging into Nefertari's wrist.
-
-"Setnakhte is waiting. You know he is. The moment I die—and I am dying, Nefertari, we both know it—he'll take the throne. He's strong. Strong enough to hold Egypt through what's coming. But he'll burn everything else. The libraries. The Per Ankh. Anything that reminds people of the old world. Anything that isn't immediate survival."
-
-"Then we fight him—"
-
-"With what?" Tausret tried to laugh. It turned into coughing that shook the bed. When it stopped, blood flecked her lips. "There's no grain, Nefertari. No bronze. No armies. Fighting requires resources we don't have. Survival is the only strategy left."
-
-Nefertari wiped the blood away with her sleeve. Her hands were shaking.
-
-"Then what do you want me to do?"
-
-Tausret's eyes locked on hers. Fierce. Sharp. The woman who'd held Egypt together through three years of chaos.
-
-"Preserve it. The *knowledge.* Find a way to encode what matters so deeply it can't be burned or forgotten or erased. Make it bloodline. Make it genetic. Make it so fundamental that even if civilization falls completely — and it will, Nefertari, you've seen it — the memory survives."
-
-Nefertari's breath caught.
-
-"Into the body itself?" Nefertari's mind was already racing, the pulse studies, the trauma patterns, the scribes' children who learned symbols before anyone taught them. Everything she and Amenhotep had been documenting for years. "You think it could carry something that *complex*?"
-
-"You're the only one who could do it." Tausret's voice was fading again. Weaker. The clarity burning out. "You and Amenhotep. You're the two best minds at the Per Ankh. Work together. Create something that lasts longer than empires."
-
-"Amenhotep wants selective breeding. Population control. Engineering bloodlines."
-
-"Then you give it a different purpose." Tausret's hand slipped from Nefertari's wrist. Too weak now to grip. "Promise me. Promise you'll try."
-
-Nefertari looked at the woman dying in front of her. Pharaoh. Patron. Friend. The last good ruler Egypt would have for a generation.
+"Then *encode it.*" Tausret's grip tightened until the bones in Nefertari's wrist ground together. "Not randomly. *Deliberately.* Make the blood carry what the scrolls can't survive. Promise me."
 
 "I promise."
 
-"Good." Tausret smiled. Genuine this time. "Now tell me about the refugees. The mother and children you saw this morning. Tell me you helped them."
+"Good." The Pharaoh's eyes drifted closed. "Tell me about the refugee girl. The one with the potter's hands. Tell me you helped her."
 
-Another lie would be kinder.
+So Nefertari lied. Made up stories about grain stores filling and fevers breaking and a world that was healing. All lies. But Tausret listened, and her breathing eased, and the tightness in her face softened.
 
-(Nefertari's mother had taught her that. A midwife who'd delivered half of Pi-Ramesses over thirty years. Who'd learned to lie with her hands, pressing bellies gently while whispering "the baby's strong" even when the pulse said otherwise. Who'd died the way midwives sometimes did: bleeding out after a difficult birth, her own pulse fading under her daughter's fourteen-year-old fingers. Her last words: "Tell them it didn't hurt." It had. Nefertari had lied anyway. First of many.)
-
-"I gave them willow bark and dried fish. The children will survive. The mother too, probably. They're strong."
-
-The truth was the mother would be dead in a week. The children in two. But Tausret didn't need truth right now. She needed to die believing she'd helped someone.
-
-Tausret's smile widened. "Good. Good. I'm glad."
-
-Her eyes drifted closed.
-
-"Tell me more. Tell me about the Mycenaean family. The ones with the potter's hands."
-
-So Nefertari told her. Made up stories about refugees recovering. About grain stores filling. About the fever breaking and the drought ending and the world healing.
-
-Lies. All lies.
-
-But Tausret listened, and her breathing eased, and the tightness in her face relaxed.
-
-She died at sunset.
-
-Nefertari felt the exact moment. The pulse under her fingers, already weak, already irregular, just stopped. No final gasp. No dramatic last breath. Just present, then absent.
+She died at sunset. The pulse under Nefertari's fingers just stopped. No final gasp. Just present, then absent.
 
 Like the Bronze Age itself.
 
-Nefertari kept her fingers on Tausret's wrist for a long time after. Waiting for the pulse to return. Knowing it wouldn't. Unable to let go.
+---
 
-When she finally stood, her legs didn't work properly. She had to grip the bed frame.
+Setnakhte claimed the throne by dawn. By midday he'd ordered the Per Ankh sealed and its scholars reassigned to "practical work."
 
-The handmaiden appeared in the doorway. Saw Tausret's stillness. Started crying.
+Nefertari went to find Amenhotep.
 
-"Tell Setnakhte," Nefertari heard herself say. Voice flat. Dead. "The Pharaoh is dead. Long live the Pharaoh."
+His workshop was lit. He was packing scrolls into a leather satchel — breeding charts, population records, the genealogies he'd been building for fifteen years. Methodical. Already planning.
 
-She walked out of the chamber before they could stop her. Through the palace. Through the gates. Into the street.
+"Tausret is dead," she said from the doorway.
 
-Made it three blocks before she vomited in an alley.
+"I know." He didn't look up. "Setnakhte's men are sealing the laboratories at dawn. I've arranged for the critical records to go to the Temple of Ptah in Memphis. The priesthood will protect institutional knowledge. That's what institutions are for."
 
-The world was ending. Tausret was dead. Setnakhte would burn everything. And Nefertari had just promised to preserve knowledge in bloodlines using research Amenhotep called "physician's fancy."
+"Amenhotep."
 
-She wiped her mouth. Straightened.
+Something in her voice made him stop. He looked up. The lamp caught the scar on his left thumb — the one she'd stitched when they were twenty-two, both of them trying not to notice how close her face was to his hand, how his breath changed when she tied the thread.
 
-Started walking toward the Per Ankh.
+"What."
 
-She had work to do.
+"It's real. The blood memory. Tausret spoke Hittite on her deathbed — a dead dialect, information from her grandmother's bloodline, three generations old. And there's a Mycenaean child in the refugee quarter who described the Per Ankh grain store in Egyptian without ever learning the language."
+
+His hands stopped moving. The stillness that meant his mind was running calculations she couldn't see.
+
+"If it's real," he said slowly, "then the encoding work isn't theoretical anymore. We can build a system that identifies the strongest carriers. Maps the best bloodlines. Concentrates the ability—"
+
+"You want to breed people."
+
+"I want to *ensure survival.*" He stepped closer. "You've seen the camps. Most people can't even recognize what's happening to them. If we could build a population that sees collapse coming—"
+
+"A population you select. That you control."
+
+"That someone controls. Yes." Another step. "You saw Pi-Ramesses fall apart. The grain riots. I was twelve years old and I watched my father get trampled because a crowd of people panicked and nobody was smart enough to say *the grain is three streets east, stop pushing.* My mother starved. My sister starved. Because no one could see the pattern."
+
+She heard it — the twelve-year-old boy underneath the forty-year-old scholar. The voice that had never stopped screaming in a granary doorway.
+
+"So you'll build a system that decides who's smart enough to live."
+
+"I'll build a system that ensures the people who can *see* are positioned to *act*—"
+
+"That's the grain riot with better record-keeping."
+
+He flinched. She'd never seen him do that — not in twenty years, not when patients died or experiments failed or the world ended around them. She'd hit the load-bearing wall and they both knew it.
+
+"I can see what you'll build." Her voice was steady. Her hands were not. "I've read your charts. Your breeding calculations. Your optimal lineage projections. You'll start with the best intentions — identify the carriers, protect the gifted, concentrate the bloodlines. And within a generation you'll be deciding who gets to have children. Within two you'll be culling the ones who don't measure up. Because that's where your logic goes. The grief tells you the world is a system that failed, and if you build a better system your father doesn't die. But your father didn't die because the system failed. He died because people were terrified and starving and *human.* And no system you build will fix that."
+
+The silence that followed was the loudest thing she'd ever heard.
+
+"Twenty years," he said. Voice flat. Controlled. A man dismantling something carefully so it wouldn't explode. "Twenty years, and you think that's what I am."
+
+"I think that's what the wound is. And I think the wound is winning."
+
+He crossed the workshop. Two steps. Close enough that she could smell the copper dust on his skin, feel the heat coming off him, read his pulse from the vein in his throat without touching it. Racing. Both of them.
+
+"Even if I've loved you since I was sixteen years old and watched you stitch my thumb and thought — *this is the steadiest hand in Egypt, and I will spend my life beside it*—"
+
+"Don't."
+
+"Even then, you'd walk away."
+
+Her chest did something she couldn't control. A tightening behind the sternum that didn't release on exhale. She looked at his face — the face she knew better than her own, every line earned by shared work, shared meals, shared years — and saw both the man she loved and the thing his wound would build. She couldn't separate them. That was the cruelty. The man and the machine were made of the same material.
+
+"I'm not walking away from you." The words came out broken. "I'm walking away from what you'll become. And I'd rather leave now while I still love you than stay and watch it happen."
+
+She turned. Walked to the doorway. And stopped.
+
+Her body wouldn't move. Twenty years of walking toward this man, and her legs had forgotten how to walk away from him. She stood in the doorway for three breaths. She could hear him behind her — short inhale, held, slow release. The breathing pattern he made when he was trying not to speak.
+
+Behind her, three taps on the workbench. Slow. Deliberate.
+
+*Come here. I need you close.*
+
+She closed her eyes. Her whole body pulled backward, toward the sound, toward twenty years of answering that signal without thinking. Her hand reached left — found the doorframe, gripped it, held on.
+
+She walked out.
 
 ---
 
-The Pharaoh died at sunset.
+The Mycenaean girl was dead.
 
-By dawn, Setnakhte had claimed the throne.
+Nefertari found the body at dawn, laid out on a reed mat in the eastern camp. Fever. Overnight. The mother sat beside her, dry-eyed, past crying, the bone clasps on her tunic catching the first light.
 
-By midday, he'd ordered the Per Ankh sealed and its scholars reassigned to "practical work."
+The child who had spoken Egyptian — who had carried directions to a building she'd never seen, in a language she'd never learned, from a grandmother who'd worked there a lifetime ago — was gone. Three generations of blood memory, surfacing for three seconds in a refugee camp, lost because no one had known it was there.
 
-Nefertari stood in her small chamber at the House of Life (whitewashed walls, cedar shelves stacked with papyrus rolls, a reed writing palette stained with black and red ink) surveying two decades of research. Medical texts. Heredity studies. Observations on how traits passed from parent to child, how memory echoed through bloodlines, how trauma changed something fundamental in the body that could be transmitted forward.
+Nefertari knelt. Pressed fingers to the girl's wrist from habit. Cold. Still.
 
-Speculative work. Theoretical. Amenhotep had called it "soft science" compared to his breeding calculations.
+Her left hand reached to the side — toward nothing, toward empty air, toward someone who wasn't there. She caught it. Pressed it flat against her thigh.
 
-But Tausret had believed in it. And Tausret was dead.
+She stood. Walked back through the canal district as the sun rose over Pi-Ramesses. Past the temple complex. Past the scholars' quarters with their sealed doors. Past Amenhotep's workshop.
 
-Nefertari began gathering scrolls.
+His lamp was still burning.
 
-Outside, Pi-Ramesses continued its slow unraveling. Refugees kept arriving. Disease kept spreading. The Bronze Age kept dying.
+She could see his shadow through the lattice window. Still there. Still packing. Still choosing the temples, the priesthoods, the institutions. He hadn't come after her. He hadn't come to the refugee quarter. He was doing exactly what she'd known he would do.
 
-She didn't know how yet. Only that she had to try.
+She kept walking.
 
-Nefertari rolled the last scroll, secured it, and headed for the door.
+The record room was still unsealed — Setnakhte's men hadn't reached the archives yet. She had hours. Maybe less.
 
-Amenhotep would be waiting. They had work to do.
+Nefertari sat down, pulled a fresh papyrus toward her, and began to write. Not his way. Not breeding charts or optimal lineages or controlled populations. Her way — how to encode what the blood already carried, how to protect it, how to scatter it so widely that no single loss could erase it. A system designed not to control who survived, but to ensure that what mattered could never be concentrated in one place, one bloodline, one institution.
+
+The opposite of everything he would build.
+
+Her left hand reached sideways as she wrote. She caught it every time.
 
 ---
 
-## CHAPTER 1 (CONTINUED): THE PROTOCOL
+**OFFENSIVE NETWORK INTERLUDE**
 
-**Six months later**
-**Canaanite hill country**
+*Personal thought — Amenhotep, Per Ankh workshop, Pi-Ramesses*
+*The night she left*
 
-The cough woke her.
+I finished packing an hour ago.
 
-Sharp. Wet. Coming from the child's chamber in the back of the borrowed smithy. Nefertari was on her feet before her eyes opened, moving through the dark workshop by memory — rough limestone walls, the smell of bronze and beeswax, crucibles stacked against the back wall — her physician's hands already reaching.
+The scrolls are ready. The breeding charts, the genealogies, the population models — fourteen years of work, bound for the Temple of Ptah where the priesthood will preserve it. You build institutions because people die and institutions don't.
 
-Tausret's daughter lay on her pallet, face flushed. Skin too hot. Pulse too fast beneath Nefertari's fingers.
+She called it the grain riot with better record-keeping.
 
-The same fever. The same one that had killed Tausret. The same one burning through every refugee camp between here and Egypt.
+I should be composing rebuttals. I have six, each airtight, each proving that distributed networks fail under pressure while centralized systems endure. I've mapped the evidence. The Hittites scattered their knowledge and lost everything. The Mycenaeans concentrated it and at least the tablets survived.
 
-"No." Nefertari checked breath sounds, examined the throat, assessed the progression. Early stage. Maybe. "Not her. Not now."
+My hand is on the workbench where hers was. The wood is still warm.
 
-Amenhotep appeared in the doorway, lamp in hand. The light caught the scar on his left thumb — she'd stitched it herself when they were twenty-two, and he'd watched her hands instead of the needle. She'd been listening to him breathe for twenty years. At some point her breathing had begun to synchronize with his. The body knew what the mind refused to name.
+She said she could see what I'll become. As if the man I am now is a preliminary sketch for something worse. As if the twelve-year-old who watched his father's ribs break under strangers' feet — while the grain sat three streets east and nobody moved — learned a wound instead of a lesson.
 
-"How long?" he asked.
+It was a lesson. Chaos kills. Systems save. I learned it the only way that sticks.
 
-"Days. If we're lucky." Nefertari pressed a damp cloth to the girl's forehead. Twelve years old. Orphaned. Tausret's bloodline — the bloodline they needed. "We have to start the encoding. Tonight."
+But.
 
-"Tonight? We haven't finished the keys. We haven't agreed on —"
+She mispronounced *hesat* once. Ebers Papyrus, remedy 482. Said *heset.* The jar became a cow. Honey mixed with cow. And I laughed, and she laughed, and for exactly the duration of that laugh — three seconds, maybe four — the granary didn't exist. My father's ribs were unbroken. The world was not a system that needed managing but a place where a woman could mispronounce a word and the sound of it could unmake thirty years of grief.
 
-"She could be dead by the time we agree on anything." Nefertari stood. Walked past him into the workshop where seven bronze discs lay on the bench between them, each inscribed with a symbolic language encoding the fall's patterns into visual form. Six months of work. Everything they'd documented from the collapse — every pattern, every failure, every warning sign — compressed into bronze that would outlive empires.
+I asked her to do it again. She couldn't. You can't reach that place on purpose.
 
-They had a language that wasn't language. One tap on the workbench: *look at this.* Two taps: *I was wrong, start over.* Three taps: *come here, I need you close.* And once, years ago, she'd mispronounced *hesat* as *heset* while reading aloud, wrong vowel, a mistake so minor no one else would have noticed — and he'd looked up and said, very quietly, *Do that again.* She couldn't. He'd smiled and gone back to work. Neither of them mentioned it again.
+I will not go after her.
 
-Now the world that had contained their partnership was gone. The Per Ankh sealed. The courtyard where they'd cooked together paved over. And the child who was supposed to carry all of it forward was burning with fever in the next room.
+Going after her means she's right — means the twelve-year-old was wrong, means my father died for nothing, not because the system failed but because the world is cruel and no amount of architecture can fix it. I am not built for that. I am built for control. For making sure the next time the grain runs out, someone with the authority to act is positioned to act.
 
-"We encode what we have," Nefertari said. "Now. Before we lose her too."
+She would say: *And who gives them that authority? Based on what? Bloodline? The shape of their skulls?*
 
-Amenhotep set his lamp on the bench. His hands found one of the bronze discs and turned it slowly — the gesture he made when thinking, always turning, always examining from every angle. "If we start tonight, we start with the split unresolved. Your version of the Protocol or mine."
+She would be right. She's always right. That's the problem.
 
-"We agreed. The Protocol encodes *the seeing,* not population control."
+I tapped three times. *Come here, I need you close.* And she walked out anyway.
 
-"We agreed the Protocol needs to survive." He set down the disc with deliberate care. "You want to scatter knowledge so widely it can never be lost. That's defensive thinking."
+I can already feel it — my hand reaching across the bench toward where she sat. I pull it back. It reaches again. I pull it back.
 
-"Because collapse should be *prevented,* Amenhotep."
+So I'll go to Memphis. I'll build the thing she says I'll build. And I will know where she goes — every carrier she trains, every key she hides, every node in her scattered, fragile, beautiful network. Not to destroy it. Because a man who cannot stop loving a woman can at least track her from a distance and call it intelligence work.
 
-"It's *inevitable.*" His voice stayed level, which made it worse. "Civilizations are cyclical. The question isn't whether the next one happens; it's who controls what comes after."
+The lamp is burning low. I should leave before dawn. Before she comes back for something she forgot. Because if I see her face again before the walls go up, I'll break.
 
-From the back room, another cough. Weaker this time.
-
-Nefertari's hands stilled. "So your solution is breeding programs. Engineer a bloodline intelligent enough to see the patterns, centralize the knowledge, and then... what? Rule?"
-
-"*Survive.*" He moved closer. Two steps. "You saw Pi-Ramesses. Most people can't recognize what's happening until it's already consuming them. They need someone who can see it coming and make the hard choices —"
-
-She knew this wound. The grain riots. He'd been twelve when his father was trampled to death outside granaries by panicked crowds. His mother and sister starved. He'd survived because a priest noticed his intelligence. He never forgot what the masses did when they were scared. Never forgave them for it.
-
-"Don't." Her voice cut like bronze. "Don't finish that sentence."
-
-Amenhotep broke first, turning back to the bench. "Twenty years, Nefertari. You see the fall as preventable and I see it as inevitable. That gap — that's wider than anything personal between us."
-
-He stopped. Swallowed. She saw his throat move and felt something crack along a fault line that had been forming for months.
-
-"Even if I've loved you since I was sixteen years old and watched you stitch my thumb and thought: *this is the steadiest hand in Egypt, and I will spend my life beside it.* Even if we could have been —"
-
-He didn't finish. The word he couldn't say was the one that mattered, and they both knew it.
-
-He crossed the workshop. Stopped a hand's width away.
-
-"Nefertari. If you asked me to choose differently —"
-
-"I won't." But her hand moved anyway. Found his. Their fingers threaded together, not new, not first, but the completion of something that had been building for twenty years.
-
-His pulse against hers. Both racing. Both knowing this was the only time.
-
-"I know." He lifted their joined hands. Pressed his forehead to her knuckles.
-
-"I know you won't. That's why I —"
-
-*Love you.* The words hung there. Unspoken.
-
-Another cough from the back room. Longer. The rattle of lungs starting to fill.
-
-She pulled her hand back. Had to. Not because of the argument. Because the child was dying and loving him was not enough and there wasn't time for any of this — not the grief, not the confession, not the twenty years of reaching for something they'd never name.
-
-"Then we split the network. Now." Nefertari picked up one of the bronze discs. "I take the defensive keys. You take the offensive ones. We each build our own network. We see whose approach works over the next thousand years."
-
-"That's insane."
-
-"That is how we test truth. Your way versus mine. Centralized control versus distributed knowledge."
-
-From the back room: silence. Worse than the coughing.
-
-Nefertari was already moving toward the child's chamber, bronze disc still in her hand. Amenhotep followed. They found the girl still breathing — shallow, uneven, but breathing. Nefertari pressed fingers to her wrist. Pulse faster than before.
-
-"We're out of time," Nefertari said. "Four keys to me. Three to you. The girl stays with me and carries the defensive encoding."
-
-Amenhotep looked at the child. At the bronze disc in Nefertari's hand. At the six others on the bench behind them.
-
-"And we never combine the knowledge again unless —"
-
-"Unless the catastrophe is so severe that both approaches fail," Nefertari finished. "Then the keys merge. The networks cooperate."
-
-He knelt beside the girl's pallet. Pressed his own fingers to her forehead, checking what Nefertari had already checked — the old habit, the second opinion, the way they'd always worked. Two minds confirming what one had found.
-
-"She's twelve, Nefertari." His voice was rough. "We're encoding the fate of civilizations into a dying child."
-
-"We're giving a dying child the tools to save the ones who come after her. There's a difference."
-
-"Is there?"
-
-The girl stirred. Eyes half-open, glassy with fever. She looked at them — the two people who'd been arguing over her future while she burned — and said nothing. Just watched. The way her mother used to watch.
-
-Amenhotep stood. His hands were steady. His voice was not. "You'll scatter your keys to the wind and hope the right person finds them. I'll put mine where they can do something." He stopped at the doorway. "I hope you're right, Nefertari. I hope compassion is enough. But when the grain runs out, people don't need principles. They need someone who planned ahead."
-
-"Then I suppose we'll see. A thousand years from now. Three thousand. However long it takes."
-
-They divided the keys that night. Four defensive. Three offensive. Amenhotep took his back toward Egypt — toward the temples and priesthoods that would survive Setnakhte's reign, toward institutional power that could be quietly infiltrated and controlled. He left before dawn, and neither of them said goodbye, because the word implied an ending and what they'd built would outlive them both by millennia whether they wanted it to or not.
-
-The networks split.
-
-Nefertari sat beside the child through the long hours after he left, listening to the girl's breathing — too fast, too shallow, searching for a rhythm it couldn't find. Her left hand reached to the side. Found nothing. The workshop still smelled of him: beeswax and copper dust.
-
-She placed one hand on the girl's forehead. Warm living flesh. The most fragile key and the most powerful, because bronze could be melted down, but blood remembered.
-
-And she began the encoding — voice low, hands steady, speaking patterns into the dark that no one else alive would understand.
+I will pull my hand back for the rest of my life.
 
 ---
 
@@ -348,85 +275,33 @@ And she began the encoding — voice low, hands steady, speaking patterns into t
 
 ## CONTINUITY NOTES:
 
-### Timeline Verification ✅
-- **1189 BCE**: Tausret's death, Setnakhte's coup (matches SERIES_BIBLE_master_timeline.md Era 1)
-- **1188 BCE**: Genesis Protocol creation in Canaanite hill country, six months after Tausret's death (matches timeline)
-- **1188 BCE**: Network split begins (matches SERIES_BIBLE_network_evolution.md)
+### Timeline ✅
+- **1189 BCE**: Tausret's death, Setnakhte's coup, blood memory discovery, Nefertari-Amenhotep split
 
-### Bloodline Tracking ✅
-- **Generation 1**: Tausret (1191-1189 BCE) - origin carrier (matches SERIES_BIBLE_bloodline_tracker.md)
-- **Generation 2**: Tausret's daughter (born ~1201 BCE, age 12 in 1189 BCE) - first trained carrier
-- **Living Key established**: Bloodline itself = Key 1 (matches SERIES_BIBLE_seven_keys_tracker.md)
+### Bloodline ✅
+- **Tausret**: Demonstrated natural blood memory (spoke Hittite in delirium). Generation 0.
+- **Mycenaean child**: Demonstrated blood memory (spoke Egyptian). Died of fever.
+- **Tausret's daughter**: Not yet introduced on-page — appears Ch 2.
 
-### Seven Keys Origin ✅
-**Defensive Keys (Nefertari):**
-1. Living Key - Tausret's bloodline (flesh made cipher)
-2. Pattern Eye - Bronze disc, collapse recognition
-3. Memory Bridge - Linking carriers across generations
-4. Distribution Network - Methods for scattering knowledge
+### Key Setup ✅
+- Blood memory established as real through two independent demonstrations
+- Nefertari's concept: encode deliberately, scatter widely, prevent concentration
+- Amenhotep's concept: identify carriers, concentrate bloodlines, control who survives
+- Seven keys not yet forged — Protocol still being designed
+- Physical split: Nefertari in record room writing; Amenhotep heading for Memphis temples
 
-**Offensive Keys (Amenhotep):**
-5. Blood Register - Breeding optimization, genetic control
-6. Catastrophe Clock - Predicting collapse for advantage
-7. Culling Method - Engineering who survives
+### Love Cascade Origin ✅
+- Mispronounced *hesat* / irreproducible laugh — established in interlude
+- Three-tap vocabulary: established in investigation section, used devastatingly in separation
+- Reaching-left gesture: first appears after child's death, echoed in interlude
+- Separation WHYs dramatized: her physician's diagnosis of his wound / his inability to accept chaos
 
-*Total: 6 bronze discs + 1 living carrier = 7 keys*
-*Matches SERIES_BIBLE_seven_keys_tracker.md classifications*
-
-### Network Evolution Setup ✅
-- **Defensive Network (Nefertari)**: Distributed, prevention-focused, scattered across eastern Mediterranean
-  - Philosophy: Collapse is preventable through early warning
-  - Strategy: Hide keys, distribute knowledge, protect carriers
-  - Initial base: Canaanite hill country, Phoenician trade routes
-
-- **Offensive Network (Amenhotep)**: Centralized, control-focused, embedded in Egyptian priesthood
-  - Philosophy: Collapse is inevitable, engineer who survives
-  - Strategy: Institutional infiltration, breeding programs, centralized power
-  - Initial base: Egyptian temples, Setnakhte's bureaucracy
-
-*Matches SERIES_BIBLE_network_evolution.md Era 1 descriptions*
-
-### Genetic Memory Science ✅
-- **Pattern recognition encoding**: Not facts, but cognitive ability to see connections
-- **Epigenetic inheritance**: Trauma markers, pulse patterns passing through bloodline
-- **Bronze keys as amplifiers**: Physical triggers for latent genetic memory
-- **Training requirement**: Framework needed to interpret raw genetic memories
-- **Grounded in ancient knowledge**: Based on physician observations of heredity, pulse channels, anatomical understanding
-
-### Dual-Mode System Foundation ✅
-- **Philosophical split**: Prevention (Nefertari) vs. Control (Amenhotep)
-- **Both encode same truth**: Collapse follows patterns
-- **Different questions**: Save everyone vs. choose who survives
-- **3,000-year experiment**: Testing which approach works better
-- **Merge condition**: Only if both approaches fail catastrophically
-
-### Terminology Consistency ✅
-- "Genesis Protocol" (capitalized, proper noun)
-- "the Order" (Amenhotep's network, lowercase "the")
-- "genetic memory" (lowercase, not hyphenated)
-- "defensive mode" / "offensive mode" (lowercase)
-- "bronze keys" (lowercase, material descriptor)
-- "Per Ankh" (House of Life, proper noun)
-- **REVISED**: "Pattern thinking" replaces "systems thinking" (period-appropriate)
-
-### Forward Continuity to Books 1-2 ✅
-- **Book 1 (1347 CE)**: Maria of Toledo = descendant of Tausret's daughter (Generation ~60)
-- **Book 2 (2018 CE)**: Sarah Chen = Generation 112, carries same defensive mode
-- **The Order**: Amenhotep's network evolves into GenVault (offensive mode preserved)
-- **Seven keys quest**: Sarah searching for keys Nefertari hid 3,207 years ago
-- **Dual-mode conflict**: Books 1-2 defensive network still fighting offensive network
-- **Pattern thinking**: Sarah's ability to see collapse patterns = Nefertari's encoding working
+### Forward Continuity ✅
+- **Ch 2**: Keys forged, Nefertari hiding them under pursuit, Amenhotep tracks her
+- **Ch 4**: Both deaths callback — "regret of being right" / "foundation cracked" / three taps on empty mat
+- **Ch 14**: Reaching-left + irreproducible laugh accumulate across 42 generations → overflow
 
 ---
 
-**Total Word Count**: ~4,000 words
-**Chapter Status**: REVISED - Structural restructure of second half
-**Primary Changes (latest pass)**:
-1. ✅ Child's illness moved to OPENING of workshop section — ticking clock from line 1
-2. ✅ Philosophical debate interleaved with medical crisis (coughs interrupt arguments)
-3. ✅ Seven-key catalog eliminated — keys divided under pressure, not cataloged at leisure
-4. ✅ Love confession compressed: cut met-at-14 flashback, kept core hand-holding + unspoken "love you"
-5. ✅ Activation mechanism exposition cut (reader learns what keys do when they're USED in Ch 2-4)
-6. ✅ Amenhotep departure compressed to 2 sentences (no goodbye scene — saved for Ch 2 offensive interlude)
-7. ✅ "Reaching left" motif placed at chapter end after Amenhotep leaves
-8. ✅ ~800 words cut from second half; entire section restructured for urgency
+**Word Count**: ~4,100 words
+**Chapter Status**: REWRITTEN — Author's Pass deep rewrite per REWRITE_PLAN_CH1_8.md

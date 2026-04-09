@@ -1,34 +1,101 @@
 {
   "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "entire hooks claude-code post-task"
+          }
+        ]
+      },
+      {
+        "matcher": "TodoWrite",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "entire hooks claude-code post-todo"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "entire hooks claude-code pre-task"
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "entire hooks claude-code session-end"
+          }
+        ]
+      }
+    ],
     "SessionStart": [
       {
+        "matcher": "",
         "hooks": [
           {
             "type": "command",
             "command": ".claude/session-start.sh"
+          },
+          {
+            "type": "command",
+            "command": "entire hooks claude-code session-start"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "entire hooks claude-code stop"
           }
         ]
       }
     ],
     "UserPromptSubmit": [
       {
-        "pattern": "^(check context|load context|show context)$",
+        "matcher": "",
         "hooks": [
           {
             "type": "command",
             "command": "cat .claude-context.md"
+          },
+          {
+            "type": "command",
+            "command": "entire hooks claude-code user-prompt-submit"
           }
         ]
       },
       {
-        "pattern": "^open clawd$",
+        "matcher": "",
         "hooks": [
           {
             "type": "command",
-            "command": "echo '=== ARCHITECT DESIGN DOCUMENTS ===' && echo '' && echo 'Files to read:' && echo '1. ~/clawd/architect/designs/personal-assistant-architecture.md' && echo '2. ~/clawd/personal-assistant-analysis.md' && echo '3. ~/clawd/architect/designs/personal-assistant-summary.md'"
+            "command": "echo '=== ARCHITECT DESIGN DOCUMENTS ===' \u0026\u0026 echo '' \u0026\u0026 echo 'Files to read:' \u0026\u0026 echo '1. ~/clawd/architect/designs/personal-assistant-architecture.md' \u0026\u0026 echo '2. ~/clawd/personal-assistant-analysis.md' \u0026\u0026 echo '3. ~/clawd/architect/designs/personal-assistant-summary.md'"
           }
         ]
       }
+    ]
+  },
+  "permissions": {
+    "deny": [
+      "Read(./.entire/metadata/**)"
     ]
   }
 }

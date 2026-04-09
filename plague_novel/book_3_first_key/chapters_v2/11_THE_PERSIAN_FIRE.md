@@ -1,15 +1,9 @@
 # BOOK 3: THE FIRST KEY - CHAPTER 11
 ## "The Persian Fire"
 
-**Timeline:** 480 BCE
-**Location:** Greece (Thermopylae, Athens, Salamis)
-**Generation:** 22 (Aristodemos of Sparta, age 28) and 22 (Artemisia of Halicarnassus, age 34)
-**POV Character:** Alternating (Aristodemos → Artemisia)
-**Historical Context:** Xerxes' invasion of Greece; Battles of Thermopylae and Salamis
-
 ---
 
-## SCENE 1: The Spartan Carrier (Aristodemos POV)
+**480 BCE — Thermopylae**
 
 Aristodemos stood with the three hundred Spartans at Thermopylae, knowing exactly how this would end.
 
@@ -35,7 +29,7 @@ Aristodemos hesitated. The network's protocol was clear: people like him shouldn
 
 But he was also Spartan. And Sparta didn't retreat.
 
-"I'm Generation twenty-two," Aristodemos said. "My daughter is eleven. Already showing activation signs. The bloodline continues even if I fall."
+"I'm Generation twenty-two," Aristodemos said. "My daughter is eleven. Already showing the signs. The bloodline continues even if I fall."
 
 Leonidas studied him. "You could leave before the encirclement. Take a message to Athens. Coordinate the naval defense. Your strategic mind would serve Greece better alive than dead in this pass."
 
@@ -85,7 +79,7 @@ The old training wound on his right forearm began to ache — a directional pull
 
 Neither of them mentioned what they felt. They were professionals. They were enemies. They had a battle starting at dawn.
 
-When Artemisia turned to leave, the scar on Aristodemos' forearm went cold. He pressed his thumb into it, hard. But this wasn't old memory. This was new. And it ached like something that intended to last.
+When Artemisia turned to leave, the scar on Aristodemos' forearm went cold. Not old memory. Something new. And it ached like something that intended to last.
 
 ---
 
@@ -101,9 +95,9 @@ Artemisia moved into his line of sight, let him see her face fully. Blood recogn
 
 Aristodemos finally looked at her. His jaw tightened. "You engineered Thermopylae to kill me?"
 
-"To test you. If you die here, offensive mode proves its point -- compassion kills our kind. If you survive, defensive mode adapts. Learns that pragmatism serves prevention better than martyrdom." She gestured toward the Persian camp. "Either way, the experiment continues. But only if you're alive for it."
+"To test you. If you die here, the Order proves its point — compassion kills our kind. If you survive, your network adapts. Learns that pragmatism serves prevention better than martyrdom." She gestured toward the Persian camp. "Either way, the experiment continues. But only if you're alive for it."
 
-"And your network? Does offensive mode preserve its own?"
+"And yours? Does the Order preserve its own?"
 
 "We're more... practical." Artemisia's smile was cold. "Our side doesn't romanticize sacrifice -- we engineer survival."
 
@@ -124,6 +118,14 @@ Aristodemos fought alongside his brothers, the old memories overlaying present c
 And Nefertari's people always chose death. That was the problem.
 
 He stood breathing hard between engagements, his bronze greaves slick with blood, shield arm shaking, while he watched the Persian dead — Immortals in their embroidered robes, conscripts in leather caps — pile up at the narrowest point of the pass. The bodies made the footing treacherous. Flies were already settling. Somewhere in his bloodline, someone had stood in a pass just like this one, long before memory, and had not walked out.
+
+Then the pass wasn't a pass. He was on a harbor wall — high, sun-bleached stone, the smell of burning pitch — and the sea below was full of ships with animal-headed prows. Hundreds of them. A woman stood beside him, and he knew without looking that her hands were a physician's hands. She was counting the ships, lips moving, and the count wasn't for hope. It was for the record. She was documenting how the world ended.
+
+*Forty-seven large vessels. Over two hundred smaller craft. The harbor chain won't hold.*
+
+The knowledge arrived with her voice — not words exactly, but the shape of her thinking laid over his, warm and precise, the mind of someone who'd catalogued seven hundred remedies and could read a pulse at twenty paces. The ships were the Sea Peoples. The harbor was somewhere in the eastern Mediterranean, seven centuries before he was born. And the woman was still counting, because that was what she did when everything was lost. She counted. She recorded. She refused to look away.
+
+The pass came back. The Persian dead. The flies. His shield arm, shaking. But the count stayed with him — the habit of precision in the face of annihilation — and when he looked at the narrow water beyond the pass, he saw it the way she would have seen it. Strategically. Clinically. *This is where the fleet will fight.*
 
 During a lull in the fighting, Leonidas found him. "The Persian fleet is moving toward Salamis. Your strategic advice about evacuating Athens, the council listened. The civilian population is escaping. Whatever happens here, we've saved thousands."
 
@@ -229,7 +231,7 @@ He didn't correct them. Didn't explain that Leonidas had ordered him south. Didn
 
 The curse of the seeing. He could see the pattern with perfect clarity — survival served the network, served Greece, served the three-thousand-year experiment. And he could *feel* with equal clarity that none of that mattered. That he'd walked away from men who'd died for him. That every descendant in his bloodline for the next fifty generations would dream this walk and wake up reaching for a shield that wasn't there.
 
-His daughter, Damaris, eleven years old, already showing activation signs, came home from lessons one afternoon with dirt on her wool dress and her chin set at the angle he recognized as controlled fury.
+His daughter, Damaris, eleven years old, already dreaming the old dreams, came home from lessons one afternoon with dirt on her wool dress and her chin set at the angle he recognized as controlled fury.
 
 "They said you ran," she told him. "Nikias's mother. She said you ran from the pass while real Spartans died."
 
@@ -325,9 +327,9 @@ Artemisia wrote back the same night. Two lines.
 
 She sent it through the same channels. Then sat alone in her stone chamber overlooking the harbor of Halicarnassus, an oil lamp guttering on the cedar desk, and noticed that her battle-sight had gone dull again. The doubled clarity she'd felt beside the pass at Thermopylae — the impossible sharpness, as if two strategic minds were working at once — had faded the moment she'd turned away from him, and it hadn't returned since.
 
-She pressed her palm flat against the wooden desk. Wondered if the Spartan's old scar was aching tonight.
+She pressed her palm flat against the wooden desk. Wondered if the Spartan's old scar was aching tonight. Wondered what it meant that the inheritance sharpened when two carriers from opposing sides stood close enough to feel each other's pulse — as if the bloodline itself remembered something the networks had spent seven centuries trying to forget.
 
-She hoped that long after her bones were dust, her descendants would understand: sometimes the most important thing warriors could do was not kill each other.
+The compact said both approaches would be tested in parallel. But the blood said something else. The blood said they were never supposed to be apart.
 
 ---
 
@@ -359,6 +361,12 @@ The Spartan, Aristodemos, Generation 22, recognized me at Thermopylae. I gave hi
 Xerxes, watching from shore, believed I'd sunk a Greek vessel. He will never know I killed his allies to save his enemy.
 
 But here is what I did not expect: the Spartan let me escape. He turned his trireme away when he could have pursued. He chose the experiment over the battle.
+
+I did not return the favor entirely. Before Salamis, in the confusion of the strait, I sank the Corinthian merchantman that carried their Aegean courier. No carrier aboard — I checked. But that vessel was their communication line between the Greek and Egyptian branches. Without it, the Greek families are blind to what Egypt knows, and Egypt is blind to Greece. They will rebuild the link. It will take them a decade. A decade in which our intelligence moves freely and theirs does not.
+
+The compact says we do not kill each other's carriers. It says nothing about their mail.
+
+One more thing. Their Pythia at Delphi — Aristonike — has dissolved. Fifteen years of service and the inheritance consumed her. Seventeen generations of carriers flooding one woman's mind until she couldn't find herself among them. Our intelligence says she no longer recognizes her own name on some days. The inheritance has a ceiling. Their Spartan is nowhere near it yet. But the ceiling exists, and it kills.
 
 We are not enemies, Darius. We are collaborators testing opposite hypotheses.
 

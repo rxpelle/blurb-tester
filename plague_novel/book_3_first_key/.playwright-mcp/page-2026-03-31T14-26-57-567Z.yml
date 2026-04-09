@@ -1,0 +1,367 @@
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - link "Your Account" [ref=e8] [cursor=pointer]:
+      - /url: https://account.kdp.amazon.com/account?ref_=kdp_kdp_BS_D_TN_ac
+    - text: "|"
+    - button "English" [ref=e10] [cursor=pointer]: English
+    - text: "|"
+    - link "Help" [ref=e12] [cursor=pointer]:
+      - /url: /en_US/help?ref_=kdp_kdp_BS_D_TN_help
+    - text: "|"
+    - link "Sign out" [ref=e13] [cursor=pointer]:
+      - /url: /en_US/signout?ref_=kdp_kdp_BS_D_TN_so
+    - text: "|"
+    - button "Give Feedback" [ref=e16] [cursor=pointer]: Give Feedback
+  - separator [ref=e18]
+  - generic [ref=e20]:
+    - link [ref=e22] [cursor=pointer]:
+      - /url: /en_US/signin
+    - generic [ref=e24]:
+      - link "Bookshelf" [ref=e25] [cursor=pointer]:
+        - /url: /en_US/bookshelf?ref_=kdp_kdp_BS_D_TN_bs
+      - text: "|"
+      - link "Reports" [ref=e26] [cursor=pointer]:
+        - /url: https://kdpreports.amazon.com/
+      - text: "|"
+      - link "Community" [ref=e27] [cursor=pointer]:
+        - /url: https://www.kdpcommunity.com/s/?language=en
+      - text: "|"
+      - link "Marketing" [ref=e28] [cursor=pointer]:
+        - /url: /en_US/marketing/manager?ref_=kdp_kdp_BS_D_TN_mk
+  - generic [ref=e32]:
+    - generic [ref=e33]:
+      - heading "Create. Manage. Publish." [level=1] [ref=e34]
+      - paragraph [ref=e35]: Reach readers in the format they want. Publish an eBook, paperback, hardcover, or series.
+      - paragraph [ref=e36]:
+        - link "+ Create new title or series" [ref=e39] [cursor=pointer]:
+          - /url: /action/dualbookshelf.createnew/create
+      - paragraph [ref=e40]: "New to KDP? Learn more about our resources to help you get started:"
+      - paragraph [ref=e41]:
+        - generic [ref=e42]:
+          - link "How to create a book" [ref=e44] [cursor=pointer]:
+            - /url: /action/dualbookshelf.helplink.createbook/help/topic/G202172740
+          - text: "|"
+          - link "Book timelines" [ref=e46] [cursor=pointer]:
+            - /url: /action/dualbookshelf.helplink.timeline/help/topic/G202173620
+          - text: "|"
+          - link "Free ISBNs" [ref=e48] [cursor=pointer]:
+            - /url: /action/dualbookshelf.helplink.isbn/help/topic/G201834170
+          - text: "|"
+          - link "Tools and resources" [ref=e50] [cursor=pointer]:
+            - /url: /action/dualbookshelf.helplink.resources/help/topic/G200735480
+    - generic [ref=e53]:
+      - generic [ref=e56]:
+        - heading "Bookshelf" [level=2] [ref=e59]
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - paragraph [ref=e62]:
+              - generic [ref=e63]: "View:"
+            - generic [ref=e64]: "View:"
+            - generic [ref=e66]:
+              - combobox "View:" [ref=e67]:
+                - option "Your titles" [selected]
+                - option "Series titles"
+                - option "Archived titles"
+                - option "All titles"
+              - generic [ref=e70] [cursor=pointer]: Your titles
+          - generic [ref=e72]:
+            - paragraph [ref=e73]:
+              - generic [ref=e74]: "Sort by:"
+            - generic [ref=e75]: "Sort by:"
+            - generic [ref=e77]:
+              - combobox "Sort by:" [ref=e78]:
+                - option "Last modified" [selected]
+                - option "Date submitted"
+                - option "Title"
+                - option "Contributor"
+                - option "eBook price"
+                - option "Paperback price"
+                - option "Hardcover price"
+              - generic [ref=e81] [cursor=pointer]: Last modified
+          - generic [ref=e83]:
+            - paragraph [ref=e84]:
+              - generic [ref=e85]: "Filter by:"
+            - generic [ref=e86]: "Filter by:"
+            - generic [ref=e88]:
+              - combobox "Filter by:" [ref=e89]:
+                - option "All" [selected]
+                - option "Draft"
+                - option "In review"
+                - option "Publishing"
+                - option "Live"
+                - option "Blocked"
+              - generic [ref=e92] [cursor=pointer]: All
+          - generic [ref=e95]:
+            - paragraph [ref=e96]:
+              - generic [ref=e97]: "Search by title:"
+            - generic [ref=e98]:
+              - searchbox [ref=e102]
+              - generic [ref=e105] [cursor=pointer]:
+                - button "Search" [ref=e106]
+                - generic [ref=e107]: Search
+      - table [ref=e110]:
+        - rowgroup [ref=e111]:
+          - 'row "The First Key by Randy Pellegrini KDP Select: eBook enrolled Manage title Kindle eBook Pre-order publishing Scheduled for April 3, 2026 $4.99 USD ASIN: B0GSWLM1WV Paperback Draft Last modified on March 28, 2026 Continue setup more actions Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e112]':
+            - cell [ref=e113]
+            - 'cell "The First Key by Randy Pellegrini KDP Select: eBook enrolled Manage title Kindle eBook Pre-order publishing Scheduled for April 3, 2026 $4.99 USD ASIN: B0GSWLM1WV Paperback Draft Last modified on March 28, 2026 Continue setup more actions Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e116]':
+              - generic [ref=e117]:
+                - table [ref=e122]:
+                  - rowgroup [ref=e123]:
+                    - 'row "The First Key by Randy Pellegrini KDP Select: eBook enrolled Manage title" [ref=e124]':
+                      - 'cell "The First Key by Randy Pellegrini KDP Select: eBook enrolled" [ref=e125]':
+                        - generic [ref=e126]:
+                          - generic [ref=e130]: The First Key
+                          - generic [ref=e133]: by Randy Pellegrini
+                          - generic [ref=e135]: "KDP Select: eBook enrolled"
+                      - cell "Manage title" [ref=e136]:
+                        - button "Manage title" [ref=e141] [cursor=pointer]: Manage title
+                - generic [ref=e143]:
+                  - separator [ref=e144]
+                  - table [ref=e148]:
+                    - rowgroup [ref=e149]:
+                      - 'row "Kindle eBook Pre-order publishing Scheduled for April 3, 2026 $4.99 USD ASIN: B0GSWLM1WV" [ref=e150]':
+                        - cell "Kindle eBook Pre-order publishing Scheduled for April 3, 2026" [ref=e151]:
+                          - generic [ref=e152]:
+                            - generic [ref=e154]: Kindle eBook
+                            - button "Pre-order publishing" [ref=e158] [cursor=pointer]: Pre-order publishing
+                            - generic [ref=e162]: Scheduled for April 3, 2026
+                        - 'cell "$4.99 USD ASIN: B0GSWLM1WV" [ref=e163]':
+                          - generic [ref=e164]:
+                            - link "$4.99 USD" [ref=e166] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.editkindlepricing/en_US/title-setup/kindle/A19070TESDUZXH/pricing?ref_=kdp_BS_D_ta_ep
+                            - generic [ref=e169]: "ASIN: B0GSWLM1WV"
+                        - cell [ref=e170]
+                - generic [ref=e173]:
+                  - separator [ref=e174]
+                  - table [ref=e178]:
+                    - rowgroup [ref=e179]:
+                      - row "Paperback Draft Last modified on March 28, 2026 Continue setup more actions" [ref=e180]:
+                        - cell "Paperback Draft Last modified on March 28, 2026" [ref=e181]:
+                          - generic [ref=e182]:
+                            - generic [ref=e184]: Paperback
+                            - button "Draft" [ref=e188] [cursor=pointer]: Draft
+                            - generic [ref=e192]: Last modified on March 28, 2026
+                        - cell [ref=e193]
+                        - cell "Continue setup more actions" [ref=e195]:
+                          - generic [ref=e197]:
+                            - link "Continue setup" [ref=e200] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.editpaperbackdetails/en_US/title-setup/paperback/0KZD0VHJG7Q/details?ref_=kdp_BS_D_ta_de_main
+                            - button "more actions" [ref=e203] [cursor=pointer]
+                - generic [ref=e204]:
+                  - separator [ref=e205]
+                  - table [ref=e209]:
+                    - rowgroup [ref=e210]:
+                      - row "Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e211]:
+                        - cell "Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e212]:
+                          - generic [ref=e213]:
+                            - generic [ref=e215]: Hardcover
+                            - button "+ Create hardcover" [ref=e220] [cursor=pointer]
+                            - button "Link existing hardcover" [ref=e225] [cursor=pointer]
+                            - button "Why offer multiple formats?" [ref=e229] [cursor=pointer]: Why offer multiple formats?
+          - 'row "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death by Randy Pellegrini KDP Select: eBook enrolled Manage title Kindle eBook Live Submitted on January 28, 2026 $3.99 USD View on Amazon ASIN: B0GJTGCHS2 Promote and advertise more actions Paperback Live Submitted on February 10, 2026 $9.99 USD View on Amazon ASIN: B0GMRN61MG Order author copies more actions Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e231]':
+            - cell [ref=e232]
+            - 'cell "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death by Randy Pellegrini KDP Select: eBook enrolled Manage title Kindle eBook Live Submitted on January 28, 2026 $3.99 USD View on Amazon ASIN: B0GJTGCHS2 Promote and advertise more actions Paperback Live Submitted on February 10, 2026 $9.99 USD View on Amazon ASIN: B0GMRN61MG Order author copies more actions Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e235]':
+              - generic [ref=e236]:
+                - table [ref=e241]:
+                  - rowgroup [ref=e242]:
+                    - 'row "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death by Randy Pellegrini KDP Select: eBook enrolled Manage title" [ref=e243]':
+                      - 'cell "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death by Randy Pellegrini KDP Select: eBook enrolled" [ref=e244]':
+                        - generic [ref=e245]:
+                          - generic [ref=e249]: "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death"
+                          - generic [ref=e252]: by Randy Pellegrini
+                          - generic [ref=e254]: "KDP Select: eBook enrolled"
+                      - cell "Manage title" [ref=e255]:
+                        - button "Manage title" [ref=e260] [cursor=pointer]: Manage title
+                - generic [ref=e262]:
+                  - separator [ref=e263]
+                  - table [ref=e267]:
+                    - rowgroup [ref=e268]:
+                      - 'row "Kindle eBook Live Submitted on January 28, 2026 $3.99 USD View on Amazon ASIN: B0GJTGCHS2 Promote and advertise more actions" [ref=e269]':
+                        - cell "Kindle eBook Live Submitted on January 28, 2026" [ref=e270]:
+                          - generic [ref=e271]:
+                            - generic [ref=e273]: Kindle eBook
+                            - button "Live" [ref=e277] [cursor=pointer]: Live
+                            - generic [ref=e281]: Submitted on January 28, 2026
+                        - 'cell "$3.99 USD View on Amazon ASIN: B0GJTGCHS2" [ref=e282]':
+                          - generic [ref=e283]:
+                            - link "$3.99 USD" [ref=e285] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.editkindlepricing/en_US/title-setup/kindle/A2MBM4DEYKGIJQ/pricing?ref_=kdp_BS_D_ta_ep
+                            - button "View on Amazon" [ref=e289] [cursor=pointer]: View on Amazon
+                            - generic [ref=e293]: "ASIN: B0GJTGCHS2"
+                        - cell "Promote and advertise more actions" [ref=e294]:
+                          - generic [ref=e296]:
+                            - link "Promote and advertise" [ref=e299] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.kindlepromotions/en_US/marketing/A2MBM4DEYKGIJQ/promotion-manager?ref_=kdp_BS_D_ta_pa_main
+                            - button "more actions" [ref=e302] [cursor=pointer]
+                - generic [ref=e303]:
+                  - separator [ref=e304]
+                  - table [ref=e308]:
+                    - rowgroup [ref=e309]:
+                      - 'row "Paperback Live Submitted on February 10, 2026 $9.99 USD View on Amazon ASIN: B0GMRN61MG Order author copies more actions" [ref=e310]':
+                        - cell "Paperback Live Submitted on February 10, 2026" [ref=e311]:
+                          - generic [ref=e312]:
+                            - generic [ref=e314]: Paperback
+                            - button "Live" [ref=e318] [cursor=pointer]: Live
+                            - generic [ref=e322]: Submitted on February 10, 2026
+                        - 'cell "$9.99 USD View on Amazon ASIN: B0GMRN61MG" [ref=e323]':
+                          - generic [ref=e324]:
+                            - link "$9.99 USD" [ref=e326] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.editpaperbackpricing/en_US/title-setup/paperback/2VHBXM84S94/pricing?ref_=kdp_BS_D_ta_pr
+                            - button "View on Amazon" [ref=e330] [cursor=pointer]: View on Amazon
+                            - generic [ref=e334]: "ASIN: B0GMRN61MG"
+                        - cell "Order author copies more actions" [ref=e335]:
+                          - generic [ref=e337]:
+                            - link "Order author copies" [ref=e340] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.paperbackauthororders/en_US/title-setup/paperback/2VHBXM84S94/author-orders?ref_=kdp_BS_D_ta_ao_main
+                            - button "more actions" [ref=e343] [cursor=pointer]
+                - generic [ref=e344]:
+                  - separator [ref=e345]
+                  - table [ref=e349]:
+                    - rowgroup [ref=e350]:
+                      - row "Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e351]:
+                        - cell "Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e352]:
+                          - generic [ref=e353]:
+                            - generic [ref=e355]: Hardcover
+                            - button "+ Create hardcover" [ref=e360] [cursor=pointer]
+                            - button "Link existing hardcover" [ref=e365] [cursor=pointer]
+                            - button "Why offer multiple formats?" [ref=e369] [cursor=pointer]: Why offer multiple formats?
+          - 'row "The Genesis Protocol by Randy Pellegrini KDP Select: eBook enrolled Manage title Kindle eBook Live Submitted on February 22, 2026 $4.99 USD View on Amazon ASIN: B0GPM973N1 Promote and advertise more actions Paperback Live Submitted on March 9, 2026 $9.99 USD View on Amazon ASIN: B0GRVVFMWY Order author copies more actions Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e371]':
+            - cell [ref=e372]
+            - 'cell "The Genesis Protocol by Randy Pellegrini KDP Select: eBook enrolled Manage title Kindle eBook Live Submitted on February 22, 2026 $4.99 USD View on Amazon ASIN: B0GPM973N1 Promote and advertise more actions Paperback Live Submitted on March 9, 2026 $9.99 USD View on Amazon ASIN: B0GRVVFMWY Order author copies more actions Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e375]':
+              - generic [ref=e376]:
+                - table [ref=e381]:
+                  - rowgroup [ref=e382]:
+                    - 'row "The Genesis Protocol by Randy Pellegrini KDP Select: eBook enrolled Manage title" [ref=e383]':
+                      - 'cell "The Genesis Protocol by Randy Pellegrini KDP Select: eBook enrolled" [ref=e384]':
+                        - generic [ref=e385]:
+                          - generic [ref=e389]: The Genesis Protocol
+                          - generic [ref=e392]: by Randy Pellegrini
+                          - generic [ref=e394]: "KDP Select: eBook enrolled"
+                      - cell "Manage title" [ref=e395]:
+                        - button "Manage title" [ref=e400] [cursor=pointer]: Manage title
+                - generic [ref=e402]:
+                  - separator [ref=e403]
+                  - table [ref=e407]:
+                    - rowgroup [ref=e408]:
+                      - 'row "Kindle eBook Live Submitted on February 22, 2026 $4.99 USD View on Amazon ASIN: B0GPM973N1 Promote and advertise more actions" [ref=e409]':
+                        - cell "Kindle eBook Live Submitted on February 22, 2026" [ref=e410]:
+                          - generic [ref=e411]:
+                            - generic [ref=e413]: Kindle eBook
+                            - button "Live" [ref=e417] [cursor=pointer]: Live
+                            - generic [ref=e421]: Submitted on February 22, 2026
+                        - 'cell "$4.99 USD View on Amazon ASIN: B0GPM973N1" [ref=e422]':
+                          - generic [ref=e423]:
+                            - link "$4.99 USD" [ref=e425] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.editkindlepricing/en_US/title-setup/kindle/A1RIOATM1863YP/pricing?ref_=kdp_BS_D_ta_ep
+                            - button "View on Amazon" [ref=e429] [cursor=pointer]: View on Amazon
+                            - generic [ref=e433]: "ASIN: B0GPM973N1"
+                        - cell "Promote and advertise more actions" [ref=e434]:
+                          - generic [ref=e436]:
+                            - link "Promote and advertise" [ref=e439] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.kindlepromotions/en_US/marketing/A1RIOATM1863YP/promotion-manager?ref_=kdp_BS_D_ta_pa_main
+                            - button "more actions" [ref=e442] [cursor=pointer]
+                - generic [ref=e443]:
+                  - separator [ref=e444]
+                  - table [ref=e448]:
+                    - rowgroup [ref=e449]:
+                      - 'row "Paperback Live Submitted on March 9, 2026 $9.99 USD View on Amazon ASIN: B0GRVVFMWY Order author copies more actions" [ref=e450]':
+                        - cell "Paperback Live Submitted on March 9, 2026" [ref=e451]:
+                          - generic [ref=e452]:
+                            - generic [ref=e454]: Paperback
+                            - button "Live" [ref=e458] [cursor=pointer]: Live
+                            - generic [ref=e462]: Submitted on March 9, 2026
+                        - 'cell "$9.99 USD View on Amazon ASIN: B0GRVVFMWY" [ref=e463]':
+                          - generic [ref=e464]:
+                            - link "$9.99 USD" [ref=e466] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.editpaperbackpricing/en_US/title-setup/paperback/CF9NC435B9Q/pricing?ref_=kdp_BS_D_ta_pr
+                            - button "View on Amazon" [ref=e470] [cursor=pointer]: View on Amazon
+                            - generic [ref=e474]: "ASIN: B0GRVVFMWY"
+                        - cell "Order author copies more actions" [ref=e475]:
+                          - generic [ref=e477]:
+                            - link "Order author copies" [ref=e480] [cursor=pointer]:
+                              - /url: /action/dualbookshelf.paperbackauthororders/en_US/title-setup/paperback/CF9NC435B9Q/author-orders?ref_=kdp_BS_D_ta_ao_main
+                            - button "more actions" [ref=e483] [cursor=pointer]
+                - generic [ref=e484]:
+                  - separator [ref=e485]
+                  - table [ref=e489]:
+                    - rowgroup [ref=e490]:
+                      - row "Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e491]:
+                        - cell "Hardcover + Create hardcover Link existing hardcover Why offer multiple formats?" [ref=e492]:
+                          - generic [ref=e493]:
+                            - generic [ref=e495]: Hardcover
+                            - button "+ Create hardcover" [ref=e500] [cursor=pointer]
+                            - button "Link existing hardcover" [ref=e505] [cursor=pointer]
+                            - button "Why offer multiple formats?" [ref=e509] [cursor=pointer]: Why offer multiple formats?
+      - generic [ref=e517]:
+        - combobox [ref=e518]:
+          - option "10 Per Page" [selected]
+          - option "25 Per Page"
+          - option "50 Per Page"
+        - generic [ref=e521] [cursor=pointer]: 10 Per Page
+  - generic [ref=e524]:
+    - generic:
+      - generic [ref=e531]:
+        - paragraph [ref=e535]:
+          - generic [ref=e536]:
+            - text: Make more money and reach more readers through Kindle Unlimited.
+            - link "Learn More" [ref=e537] [cursor=pointer]:
+              - /url: https://kdp.amazon.com/en_US/select
+        - img "KDP Select logo" [ref=e538]
+      - generic [ref=e546]:
+        - paragraph [ref=e548]: Total KDP Select Author Earnings
+        - generic [ref=e550]:
+          - paragraph [ref=e552]: February 2026
+          - paragraph [ref=e554]: •
+          - paragraph [ref=e556]: $61.7 Million
+  - generic [ref=e557]:
+    - link "Amazon Kindle logo" [ref=e559] [cursor=pointer]:
+      - /url: http://www.amazon.com
+      - img "Amazon Kindle logo" [ref=e560]
+    - generic [ref=e561]:
+      - text: © 1996-2026, Amazon.com, Inc. or its affiliates. All Rights Reserved.
+      - text: Amazon and Kindle are trademarks of Amazon.com Inc. or its affiliates.
+    - link "Kindle Direct Publishing on Facebook, opens in a new window." [ref=e564] [cursor=pointer]:
+      - /url: https://www.facebook.com/KindleDirectPublishing
+    - link "Kindle Direct Publishing on X, opens in a new window." [ref=e567] [cursor=pointer]:
+      - /url: https://twitter.com/AmazonKDP
+    - link "Kindle Direct Publishing on Instagram, opens in a new window." [ref=e570] [cursor=pointer]:
+      - /url: https://www.instagram.com/amazonkdp?igsh=cmxubTlzbTAwdDl5
+    - generic [ref=e572]:
+      - link "KDP Select Earn more money and reach new readers" [ref=e574] [cursor=pointer]:
+        - /url: /en_US/select?ref_=kdp_kdp_BS_D_FOOT_kdps
+        - generic [ref=e575]: KDP Select
+        - text: Earn more money and
+        - text: reach new readers
+      - link "KDP Community Connect with experts and fellow authors" [ref=e577] [cursor=pointer]:
+        - /url: https://www.kdpcommunity.com/s/?language=en
+        - generic [ref=e578]: KDP Community
+        - text: Connect with experts
+        - text: and fellow authors
+      - link "CreateSpace Indie print publishing made easy" [ref=e580] [cursor=pointer]:
+        - /url: https://kdp.amazon.com/en_US/createspace-transfer
+        - generic [ref=e581]: CreateSpace
+        - text: Indie print publishing
+        - text: made easy
+      - link "ACX Indie audiobook publishing made easy" [ref=e583] [cursor=pointer]:
+        - /url: https://www.acx.com/?utm_source=KDP&utm_medium=w&utm_campaign=home
+        - generic [ref=e584]: ACX
+        - text: Indie audiobook publishing
+        - text: made easy
+  - generic [ref=e586]:
+    - link "KDP Terms and Conditions" [ref=e587] [cursor=pointer]:
+      - /url: /en_US/terms-and-conditions?ref_=kdp_kdp_BS_D_FOOT_tac
+    - text: "|"
+    - link "Privacy Notice" [ref=e588] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496
+    - text: "|"
+    - link "Conditions of Use" [ref=e589] [cursor=pointer]:
+      - /url: http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088
+    - text: "|"
+    - link "Contact Us" [ref=e590] [cursor=pointer]:
+      - /url: /en_US/contact-us?ref_=kdp_kdp_BS_D_FOOT_cu
+    - text: "|"
+    - link "Join Our Team" [ref=e591] [cursor=pointer]:
+      - /url: https://www.amazon.jobs/en/teams/author-publisher-experience
+    - text: "|"
+    - link "kdp.amazon.co.jp" [ref=e592] [cursor=pointer]:
+      - /url: https://kdp.amazon.co.jp/

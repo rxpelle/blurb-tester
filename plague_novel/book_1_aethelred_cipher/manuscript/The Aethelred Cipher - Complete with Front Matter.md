@@ -5715,7 +5715,25 @@ She had to move fast.
 
 Seven centuries after Thomas, Margarethe, and Maria distributed the Genesis Protocol, Sarah Chen discovers the Order they exposed still exists—and is preparing to do it again.
 
-For more information on the books in this series and to better understand the meaning behind the concepts these books elicit, go to the author's webpage [randypellegrini.com/series](https://randypellegrini.com/series).
+[Get The Genesis Protocol on Amazon](https://www.amazon.com/dp/B0GPM973N1)
+
+\newpage
+
+* * *
+
+**Also by Randy Pellegrini**
+
+**The Architecture of Survival Series**
+
+*Book 2: The Genesis Protocol* — When geneticist Sarah Chen discovers an engineered bioweapon hidden inside GenVault Corporation, she has forty-three seconds to escape. What follows is a race against a three-thousand-year-old conspiracy.
+[Available on Amazon](https://www.amazon.com/dp/B0GPM973N1)
+
+*Book 3: The First Key* — Three thousand years before Sarah Chen, a physician in Bronze Age Egypt witnessed the first collapse and made a choice that would echo through millennia. The origin story of both networks.
+Coming April 2026
+
+For more information on the books in this series, go to [randypellegrini.com/series](https://randypellegrini.com/series).
+
+Sign up for new release alerts and get a free prequel story at [randypellegrini.com](https://randypellegrini.com).
 
 Looking forward to your feedback and correspondence,
 

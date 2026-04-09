@@ -1,6 +1,6 @@
 title: "The First Key"
 author: "Randy Pellegrini"
-manuscript: "output/The First Key - Complete with Front Matter.md"
+manuscript: "chapters_v3/The First Key - PDF Source.md"
 output: "output/"
 style: default
 
@@ -12,6 +12,6 @@ print:
   trim: "5.5x8.5"
 
 typography:
-  body_font: "Palatino"
+  body_font: "EB Garamond"
   body_size: 11
-  line_spacing: 1.15
+  line_spacing: 1.3

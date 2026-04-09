@@ -3,29 +3,23 @@
 
 ---
 
-*From the Archive of Carriers, entry of Tamar bat-Hannah, Generation 12, 700 BCE:*
-
-*His name was Micah. He was sixteen.*
-
-*I held his hand while he died. Our breathing synchronized and I do not know how. When his breathing stopped, mine kept searching for it.*
-
-*The ring was on my hand the whole time. Shiphra's ring, then my mother's ring, now mine. I clutched it so hard the bronze bit into my finger and I could not tell where the old guilt ended and the new grief began.*
-
-*To whoever carries this next: Micah was right. Seeing collapse coming and standing on the wall to watch is not prevention. It is cowardice with better information.*
-
-*But he is dead, and I am writing this, and I do not know if he was right enough.*
-
-*— Tamar*
-
----
-
-**586 BCE**
+**586 BCE — Jerusalem**
 
 Rachel bat-Yonah walked through burning Jerusalem with the old dreams screaming in her mind.
 
-Her own memories and beneath them, older ones — the way infection layers on top of injury. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations, each one compounding the last, the accumulated trauma flooding her like a fever she couldn't break.
+The Temple quarter was an inferno. Babylonian soldiers dragged loot from buildings already collapsing.
 
-She was thirty-one. A physician and midwife, her daughter strapped to her chest, and the ancestral memory so acute it was like double vision — two cities burning at once, twelve centuries apart, and her trained eye unable to tell which patient was dying in front of her.
+*A woman counts refugees at the city's eastern edge. The canal smells of disease. She has a physician's bag and not enough willow bark for the end of the world.*
+
+Rachel pressed her daughter tighter to her chest. The baby was silent — too young to cry at fire, too new to understand that the world she'd been born into was ending.
+
+*The walls of Mycenae have fallen. A man carries tablets onto a boat, not his wife, not his children — the tablets. Because the tablets are what survives.*
+
+Smoke seared her lungs. She held a cloth over her daughter's face and counted steps — one, two, three, four — timing them to her pulse the way a physician counts to stay present when the body wants to flee.
+
+*Ugarit. The harbor is on fire. The alphabet the scribes invented is burning with the library that held it.*
+
+She was thirty-one. A physician and midwife, and the ancestral memory was so acute it was like double vision — four cities burning at once, twelve centuries apart, and her trained eye unable to tell which patient was dying in front of her.
 
 *I told him.* The thought came hard and hot, searing through her. *I told Zedekiah exactly what would happen. I showed him the symptoms: trade routes failing, alliances going septic, the same cascade that killed the Bronze Age. I gave him the diagnosis and the prognosis and he chose prayer over treatment.*
 
@@ -85,7 +79,7 @@ They met in a borrowed room, mudbrick walls sealed with bitumen plaster, reed ma
 
 "What about the Order?" Esther asked. "I've seen their people here. Egyptian priests working for Babylon. They're advising the empire on population management."
 
-"Of course they are," Rachel said. "This is exactly what offensive mode is designed for."
+"Of course they are," Rachel said. "This is exactly what the Order was built for."
 
 "Should we interfere?"
 
@@ -101,7 +95,7 @@ She gestured at the room. The reed mats. The single lamp. Thirty-two refugees.
 
 Silence. Half the room was looking at Esther. The other half was looking at Rachel.
 
-"She's right," said a voice from the back. Old Yonatan, who rarely spoke. "We followed the rules. We warned the king. We preserved the network. And we lost everything anyway. Maybe the rules are wrong."
+"She's right," said a voice from the back. Old Yonatan, who rarely spoke. "We followed the rules. We warned the king. We preserved the network. And we lost everything anyway. Maybe the rules are wrong." He paused. "There was a boy five generations back. Micah. He walked into an Assyrian plague camp because he couldn't stand watching from the wall anymore. Saved hundreds. Died at sixteen." Yonatan's voice was flat. "One boy who acted accomplished more in a week than our network accomplished in a century of advising kings. What does that tell you about the rules?"
 
 Rachel looked around the circle. Thirty-two people who'd lost everything: kingdom, city, homes, status. Esther's argument was clean and sharp and half right, which made it dangerous.
 
@@ -151,7 +145,7 @@ Her knees buckled. She caught herself against the doorframe, fingers scraping do
 
 Chalk.
 
-The cities fell away. The corridor became a street. The smoke dissolved. Rachel was crouching in the exile quarter in Babylon with her fingers on a small, precise mark at knee height — a symbol she recognized from the Archive: the old notation for *early activation*. Not their notation. The Order's.
+The cities fell away. The corridor became a street. The smoke dissolved. Rachel was crouching in the exile quarter in Babylon with her fingers on a small, precise mark at knee height — a symbol she recognized from the Archive: the old notation for *early awakening*. Not their notation. The Order's.
 
 Her breath came back in a gasp. The chalk was *now*. The chalk was the only thing in this street that belonged to 586 BCE and no other year. None of the ancestors had carried this. None of the burning cities had this mark on their doors. It was new, it was real, and her fingers were touching it.
 
@@ -183,13 +177,13 @@ The room changed. Esther's hand went to the table edge. One of the others stood 
 
 Rachel nodded. Made a mark on the tablet. Moved to the next item.
 
-They worked until dawn, but the work was different now. Not cataloging — countermapping. Identifying which families to move, which streets to avoid, which children showed early activation and needed to be hidden before the Order's chalk marks led to a conversation, a recruitment, an offer that sounded like rescue and worked like a trap.
+They worked until dawn, but the work was different now. Not cataloging — countermapping. Identifying which families to move, which streets to avoid, which children showed early awakening and needed to be hidden before the Order's chalk marks led to a conversation, a recruitment, an offer that sounded like rescue and worked like a trap.
 
 Rachel walked back through the waking exile quarter as the sky grayed. Past Judean merchants setting up stalls beside Babylonian ones. Past children playing in two languages. Past a doorframe she'd scraped clean six hours ago — already re-marked. Fresh chalk. A new symbol she hadn't seen before: a single vertical line. *Identified. Approach pending.*
 
 She scraped it again. Knowing it would be back tomorrow.
 
-Leah was still sleeping. Rachel lay down beside her daughter and watched the shallow rise and fall of the child's breathing — the rhythm that had been dreaming since six months old, the earliest activation in twenty-three generations.
+Leah was still sleeping. Rachel lay down beside her daughter and watched the shallow rise and fall of the child's breathing — the rhythm that had been dreaming since six months old, the earliest awakening in twenty-three generations.
 
 Twenty-four, when Leah carried it forward. Twenty-four generations of burning cities in a body that would be smaller than Rachel's.
 
@@ -271,47 +265,51 @@ He walked away along the riverbank, toward the quarter where Babylonian official
 
 She filled her own vessel and walked back to Leah.
 
----
+Two enemies carrying water for sick daughters. The same river. The same disease. Six hundred years of the experiment, and neither side could prove it was winning.
 
-In the years that followed, the network rooted deep in Babylon's soil. When Cyrus of Persia conquered the empire in 538 BCE and decreed the exiles could return, Rachel split the network: twenty families back to Judah, twelve staying in Babylon and Persia, the Mediterranean branches continuing independently. Forty-four families across four regions. She stayed. Her daughter stayed. The Living Key went where it could do the most good, and Rachel had learned that diaspora wasn't exile. It was design.
+Rachel pressed her palm against the clay vessel. It was warm from the Euphrates. Warm the way the ring was warm, the way stone was warm after the sun went down — holding heat from a source that was already gone.
 
-On the morning of the decree, Rachel took the bronze ring from her left hand and pressed it into Leah's palm. Her daughter was a woman now, gray threading her hair, exile written into the lines around her eyes. Every hand that had worn the ring had lost someone.
-
-"What is it?" Leah asked.
-
-"Everything it cost," Rachel said. "Wear it on your left hand when it fits. And when you write your entry in the Archive, be honest. Your successor deserves to know."
+Somewhere upstream, Sethnakht was doing the same thing. Walking home. Carrying water. Wondering if six centuries of the experiment had produced anything except two networks full of people who dreamed the same nightmares and couldn't agree on what they meant.
 
 ---
 
 **OFFENSIVE NETWORK INTERLUDE**
 
-The fire was warm when Sethnakht reached the Temple.
+**Recovered fragments — Sethnakht, Generation 17**
+**Jerusalem/Babylon — Year 591 of the Protocol (586 BCE)**
+*[Fragments recovered from multiple sources. Order unclear. Some sections damaged or missing.]*
 
-Three days since Nebuchadnezzar's army breached the walls. Jerusalem was ash and rubble and the sound of chains. The Temple of Solomon was a skeleton of blackened stone.
+---
 
-Generation 17, offensive network, he'd traveled from Memphis in eleven days, killing horses and bribing caravan masters. The Order had waited four centuries for this -- since Khepri's report confirmed the Pattern Eye beneath the eastern colonnade. Sixteen infiltration attempts over generations. Sixteen failures. Nefertari's people had never left the lower foundations unmonitored.
+Fragment 1. The fire was warm when I reached the Temple. Three days since the breach. Jerusalem was ash and rubble and the sound of chains.
 
-But now the Temple was burning.
+Fragment 2. Eleven days from Memphis. Killed horses and bribed caravan masters. Four centuries we'd waited — since Khepri's report confirmed the Pattern Eye beneath the eastern colonnade. Sixteen infiltration attempts over generations. Sixteen failures.
 
-Sethnakht picked his way through debris still hot enough to scorch sandal leather. His team worked through the night, levering fallen stone from the eastern colonnade, clearing the foundation floor.
-
-At dawn, they found the vault. Exactly where Khepri's four-hundred-year-old report said it would be. Beneath the central eastern column, a sealed chamber cut into bedrock.
+Fragment 3. The vault. Exactly where Khepri said. Beneath the central eastern column, sealed chamber cut into bedrock.
 
 Empty.
 
-He ran his fingers along the depression where a bronze disc had rested. The linen wrapping was still there -- brittle fragments, centuries old, shaped by what they'd held. But the Pattern Eye was gone.
+Fragment 4. Linen wrapping still there. Brittle. Centuries old. Shaped by what it had held. The Pattern Eye was gone.
 
-They searched for three days. No Pattern Eye.
+Fragment 5. *[Three-day search. No result. Younger operative's assessment:]* "They moved it before the siege. The defensive network reads the signs earlier than anyone."
 
-"They moved it," a younger operative said. "Before the siege. The defensive network reads the signs earlier than anyone. They'd have seen Jerusalem's fall coming years before it happened."
+Fragment 6. Rachel bat-Yonah split her network three days before the breach. Judah, Egypt, Babylon. The key could be anywhere. Which was everywhere.
 
-Sethnakht threw the torch into the rubble. Of course. Rachel bat-Yonah had split the network three days before the breach -- Judah, Egypt, Babylon. The key could be anywhere. Which was everywhere.
+Fragment 7. *[From the hardest report this station has ever sent:]* We are not chasing a key. We are chasing a philosophy. And a philosophy has no fixed address.
 
-That night he composed the hardest report the Order's Jerusalem station had ever sent. He wrote the operational details. Then he dipped the reed pen again.
+Fragment 8. Walking back through burning Jerusalem. Past columns of chained exiles. Feeling something rare: respect. Not for Nefertari's people. For their architect. For the woman who, centuries dead, outmaneuvered us by encoding a single principle: *When centralized power comes for you, become something it cannot grasp.*
 
-*We are not chasing a key. We are chasing a philosophy. And a philosophy has no fixed address.*
+Fragment 9. Respect is not surrender.
 
-He sealed the message and walked back through burning Jerusalem, past columns of chained exiles, and felt something rare in his career as an Order operative: respect. Not for Nefertari's people. For their architect. For the woman who, centuries dead, had outmaneuvered generations of offensive planning by encoding a single principle into her network's doctrine: *When centralized power comes for you, become something it cannot grasp.*
+Fragment 10. Babylon. Two weeks later. A carpenter named Ezra. One of Rachel's forty families. Children hungry. Wife pregnant. Babylonian markets charging triple for exiles.
+
+Fragment 11. I offered work. Honest carpentry. Good wages, steady meals, a house where his wife could deliver safely. "All I ask is that you tell me what the community discusses. Who leads the gatherings. What they plan."
+
+Fragment 12. He looked at his hands. "I'm not a spy."
+
+Fragment 13. "You're a father. Feed your children first. The rest is just conversation."
+
+Fragment 14. *[Final observation, filed separately:]* The next morning, the chalk mark disappeared from Ezra's doorframe. Their keeper noticed. She scraped the adjacent marks harder, as if persistence could compensate for what she'd already lost.
 
 ---
 

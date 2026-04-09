@@ -60,7 +60,7 @@ def init(title, author, style):
 
 
 @main.command()
-@click.option('--format', 'fmt', type=click.Choice(['all', 'epub', 'paperback', 'large-print', 'hardcover']),
+@click.option('--format', 'fmt', type=click.Choice(['all', 'epub', 'docx', 'paperback', 'large-print', 'hardcover']),
               default='all', help='Output format to build')
 @click.option('--trim', type=click.Choice(list(TRIM_SIZES.keys())),
               default=None, help='Override trim size for print formats')
@@ -116,6 +116,8 @@ def build(fmt, trim, config_path, output, clean, verbose):
         formats_to_build.append(('paperback', _build_paperback))
     if fmt in ('all', 'epub'):
         formats_to_build.append(('epub', _build_epub))
+    if fmt in ('all', 'docx'):
+        formats_to_build.append(('docx', _build_docx))
     if fmt in ('all', 'large-print'):
         formats_to_build.append(('large-print', _build_large_print))
     if fmt in ('all', 'hardcover'):
@@ -174,6 +176,12 @@ def _build_paperback(config, book, verbose=False):
 def _build_epub(config, book, verbose=False):
     from book_formatter.generators.epub_standard import StandardEPUBGenerator
     gen = StandardEPUBGenerator(config, book)
+    return gen.build(verbose=verbose)
+
+
+def _build_docx(config, book, verbose=False):
+    from book_formatter.generators.docx_ebook import DOCXEbookGenerator
+    gen = DOCXEbookGenerator(config, book)
     return gen.build(verbose=verbose)
 
 

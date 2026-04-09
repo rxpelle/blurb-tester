@@ -1,0 +1,434 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_3_first_key/chapters_v2/clean_review/11_THE_PERSIAN_FIRE.md",
+  "review_date": "2026-03-27T16:43:39.202270",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "First-Time Reader",
+    "Binge-Read Tester",
+    "Thread Tracker",
+    "Onboarding Editor",
+    "Genre Bridge Editor",
+    "Series Arc Editor"
+  ],
+  "notes": [
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "series entry confusion",
+      "location": "opening paragraphs",
+      "issue": "The chapter opens with 'ancestral memory' and 'the pattern' as if these are established concepts, but provides no explanation for what they are or how they work",
+      "suggestion": "Add 1-2 sentences establishing that Aristodemos experiences inherited memories from his bloodline that show him historical patterns",
+      "example_before": "The ancestral memory had shown him the pattern three nights ago",
+      "example_after": "The ancestral memory\u2014visions from his bloodline that had plagued his family for generations\u2014had shown him the pattern three nights ago"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "jargon without context",
+      "location": "throughout chapter",
+      "issue": "Terms like 'the network,' 'defensive/offensive networks,' 'Generation twenty-two,' and 'the Order' are used extensively without explanation",
+      "suggestion": "Introduce these terms gradually with brief context, or have characters explain them naturally in dialogue",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "assumed knowledge",
+      "location": "Scene 2, Artemisia introduction",
+      "issue": "Artemisia appears as if readers should know who she is and why her presence matters. No introduction of her significance",
+      "suggestion": "Add a sentence or two establishing her role and importance when she first appears",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "world-building gaps",
+      "location": "Scene 2-3",
+      "issue": "The 'compact' between networks is referenced as crucial but never explained. What is this agreement? Why does it exist?",
+      "suggestion": "Have Artemisia or Aristodemos briefly explain the compact's origins and terms during their conversation",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "character confusion",
+      "location": "Scene 2",
+      "issue": "References to 'Amenhotep's side' and 'Nefertari's people' without context\u2014unclear who these people are or their significance",
+      "suggestion": "Add brief identifiers like 'the ancient founders' or similar context clues",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "unexplained concepts",
+      "location": "Scene 2",
+      "issue": "The scar's supernatural reaction (aching, directional pull) is presented without explanation of why this happens",
+      "suggestion": "Add internal monologue explaining that carriers can sense each other, or that the inheritance manifests physically",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "assumed knowledge",
+      "location": "Scene 3",
+      "issue": "'The experiment' is referenced as if readers understand what's being tested and why",
+      "suggestion": "Have Artemisia explain what the experiment is testing\u2014whether defensive or offensive approaches better prevent some catastrophe",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "lost moments",
+      "location": "Scene 4",
+      "issue": "Reference to evacuating Athens assumes readers understand the broader strategic situation",
+      "suggestion": "Add a sentence about why Athens needs evacuation (Persian advance threatening the city)",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "character introduction",
+      "location": "Scene 8",
+      "issue": "The final scene references 'neutral merchants who served both networks' without establishing that such intermediaries exist",
+      "suggestion": "Brief mention earlier that the networks maintain neutral communication channels",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "suggestion",
+      "category": "emotional access",
+      "location": "throughout",
+      "issue": "While the character emotions are clear, the stakes feel abstract without understanding what catastrophe the networks are trying to prevent",
+      "suggestion": "Add hints about what disaster these people are working to prevent\u2014even vague references to 'the fall' or 'the collapse coming'",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "pacing",
+      "location": "Opening paragraph",
+      "issue": "The hook is interesting but the opening line promises immediate action that doesn't deliver. We get 'knowing exactly how this would end' but then shift to sensory description for several paragraphs.",
+      "suggestion": "Either deliver the promised revelation immediately or rework the opening to match the contemplative pacing that follows.",
+      "example_before": "Aristodemos stood with the three hundred Spartans at Thermopylae, knowing exactly how this would end.",
+      "example_after": "Aristodemos pressed his thumb into the old scar as the ancestral memory surged\u2014he'd seen this battle before, through Bronze Age eyes, and he knew exactly how it would end."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "momentum killer",
+      "location": "Scenes 2-3",
+      "issue": "The back-and-forth between Artemisia and Aristodemos discussing 'the compact' reads like exposition disguised as dialogue. Two full scenes of characters explaining rules to each other.",
+      "suggestion": "Show the compact through action instead of explanation. Let us discover the rules through violations or near-violations.",
+      "example_before": "The compact says we don't interfere with each other... Defensive and offensive networks run in parallel...",
+      "example_after": "Cut most of this dialogue and show the tension through their actions and internal conflict."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "put-down point",
+      "location": "Scene 7 - The Aftermath section",
+      "issue": "The entire 'trembler' aftermath sequence, while well-written, is a momentum killer. It's introspective processing when we want forward motion.",
+      "suggestion": "Condense to 2-3 sharp paragraphs focused on the key emotional beat, then move to the letter exchange which has more forward tension.",
+      "example_before": "The 8+ paragraphs about returning to Sparta and being called trembler",
+      "example_after": "Compress to: He returned to Sparta a hero in official records and a coward in whispered conversations. The word 'trembler' followed him through the agora, scratched into his doorpost, carried in his daughter's eyes."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "scene transition",
+      "location": "Between Scenes 5-6",
+      "issue": "The shift from Aristodemos's POV to Artemisia's POV in the naval battle is confusing and breaks momentum. We're tracking one character's tactical decisions then suddenly we're in another's head.",
+      "suggestion": "Stay in one POV for the entire naval sequence, or create a cleaner break between the perspectives.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "minor",
+      "category": "engagement killer",
+      "location": "Scene 4 battle description",
+      "issue": "The battle description, while visceral, goes on too long before getting to the emotional core\u2014the choice to leave.",
+      "suggestion": "Cut the battle description by half. Get to Leonidas's order faster.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "chapter ending",
+      "location": "Final paragraph",
+      "issue": "The ending is too philosophical and abstract. 'The blood said they were never supposed to be apart' is intellectually interesting but not compelling enough to make me turn the page.",
+      "suggestion": "End with a concrete action or revelation. Maybe she decides to respond to his letter, or she makes a decision about the next phase of their conflict.",
+      "example_before": "The blood said something else. The blood said they were never supposed to be apart.",
+      "example_after": "She reached for a fresh sheet of papyrus and began writing a third letter\u2014one that would change everything."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "critical",
+      "category": "cliffhanger quality",
+      "location": "final paragraphs",
+      "issue": "Chapter ends on introspection and realization rather than immediate threat or revelation that compels page-turning",
+      "suggestion": "End with a concrete threat or discovery. Perhaps Artemisia receives intelligence that forces from both networks are being targeted by a third party, or she discovers evidence that the 'experiment' is being manipulated by an outside force",
+      "example_before": "The blood said they were never supposed to be apart.",
+      "example_after": "The blood said they were never supposed to be apart. Which made the third letter, arriving as she finished writing, all the more terrifying. Different handwriting. Different seal. 'The experiment has been compromised. Both networks are being hunted. Trust no one. - A Friend.'"
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "thread resolution vs. opening",
+      "location": "throughout chapter",
+      "issue": "Chapter resolves too many threads (Thermopylae outcome, Aristodemos' choice, compact honored) without opening compelling new questions",
+      "suggestion": "Leave key questions unresolved. Instead of fully explaining why the scar aches when carriers are near, hint at deeper mysteries. Introduce evidence that someone else is manipulating the 'experiment'",
+      "example_before": "The compact said both approaches would be tested in parallel. But the blood said something else.",
+      "example_after": "The compact said both approaches would be tested in parallel. But someone had been watching their exchange at Thermopylae. The merchant who delivered Aristodemos' letter bore a scar identical to theirs - yet he served neither network."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "pacing",
+      "location": "scenes 6-8",
+      "issue": "Final three scenes feel like denouement rather than escalation, slowing momentum when it should build toward next chapter",
+      "suggestion": "Compress the aftermath and focus on new threats emerging. Use the letter exchange to reveal danger rather than just philosophical musing",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "minor",
+      "category": "thread management",
+      "location": "scene 4",
+      "issue": "The moral weight of Aristodemos' decision gets fully explored and resolved rather than left as ongoing tension",
+      "suggestion": "Leave his internal conflict partially unresolved. Perhaps he still plans to seek redemption at Plataea, creating ongoing tension about whether he'll survive",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "suggestion",
+      "category": "mid-chapter hooks",
+      "location": "scene breaks",
+      "issue": "Some scene transitions resolve tension rather than building it",
+      "suggestion": "End scenes 2, 4, and 6 with immediate threats or revelations rather than character reflection",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "critical",
+      "category": "jargon before drama",
+      "location": "paragraph 3",
+      "issue": "The term 'ancestral memory' is introduced before readers experience what it feels like or see it in action",
+      "suggestion": "Show Aristodemos experiencing vivid flashes of Bronze Age battles first, then later have him or another character name it as 'ancestral memory'",
+      "example_before": "The ancestral memory had shown him the pattern three nights ago: narrow pass, vastly superior enemy force, defensive position that couldn't hold indefinitely.",
+      "example_after": "Three nights ago, he'd seen it in his dreams\u2014or not dreams exactly, but something deeper. Bronze shields locked against bronze, mountain passes choked with the dead, cities burning while refugees fled. The same pattern, played out centuries before he was born."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "terminology dump",
+      "location": "paragraphs 18-22",
+      "issue": "Multiple network concepts (Generation numbers, Order, networks, carrier, compact) introduced rapidly without sufficient experiential grounding",
+      "suggestion": "Space these reveals across multiple scenes, showing their effects on characters before naming them",
+      "example_before": "\"Generation twenty-two,\" Aristodemos said... \"I bring terms from the Great King Xerxes\"... \"Generation twenty-two. Offensive network. Currently advising Xerxes' naval command.\"",
+      "example_after": "Let the strange recognition between characters build tension first, then reveal they're part of opposing factions, then much later introduce the formal terminology"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "show-before-name violation",
+      "location": "paragraphs 25-28",
+      "issue": "The 'compact' and its rules are explained before readers feel why it matters",
+      "suggestion": "Show the internal conflict and tension first, then reveal there are rules governing their interaction",
+      "example_before": "\"The compact says we don't interfere with each other,\" Aristodemos said.",
+      "example_after": "Have them struggle with the decision to help/harm each other first, show the emotional weight, then reveal there are ancient agreements that bind their choices"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "mechanic explanations",
+      "location": "paragraphs 29-31",
+      "issue": "Artemisia explains the experimental design before readers understand why they should care about the outcome",
+      "suggestion": "Show the personal stakes and emotional investment first, then reveal the larger experimental framework",
+      "example_before": "\"We engineered the strategic situation knowing someone on your side would feel compelled to die for it. That's the test -- whether your network's psychology turns honor into self-destruction.\"",
+      "example_after": "Focus on the personal betrayal Aristodemos feels, his realization that his honor is being manipulated, then gradually reveal the systematic nature of the test"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "progressive disclosure",
+      "location": "paragraph 53",
+      "issue": "The scar's directional sensing ability is introduced too abruptly",
+      "suggestion": "Build up the scar as a recurring detail first, then gradually reveal its special properties",
+      "example_before": "The old training wound on his right forearm began to ache \u2014 a directional pull, deep in the scar tissue, as if the wound were orienting itself toward her.",
+      "example_after": "Establish the scar as his anchor to the present first, then show it behaving strangely around her, then reveal its directional properties"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "suggestion",
+      "category": "emotional hook",
+      "location": "paragraph 96",
+      "issue": "The council vote feels procedural rather than emotionally weighted",
+      "suggestion": "Show more of the personal cost each member feels in making this decision",
+      "example_before": "They voted at dawn, with stones on the olive-wood table. Seven to honor the compact. Five to break it.",
+      "example_after": "Add individual reactions, hesitations, the weight of burying family members versus preserving the larger experiment"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "critical",
+      "category": "speculative grounding",
+      "location": "Multiple scenes throughout chapter",
+      "issue": "The 'blood memory/bloodline inheritance' mechanic needs stronger historical anchoring to avoid fantasy dismissal by historical fiction readers",
+      "suggestion": "Ground the ability in documented historical practices. For example: 'The Spartans called it *ancestral dreaming* - what the Egyptian priests termed *blood knowledge* and the Phoenician navigators recorded as inherited star-paths. Families of seers, strategists, and navigators had documented this phenomenon for centuries.' Add references to real historical traditions of inherited knowledge (Celtic bardic traditions, Jewish oral law transmission, etc.)",
+      "example_before": "The ancestral memory had shown him the pattern three nights ago",
+      "example_after": "The blood-dreams had shown him the pattern three nights ago - what his grandfather called the *inherited sight*, recorded in Spartan military families since Lycurgus, documented by Herodotus as the 'oracular bloodlines' that advised kings in war"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "Scene 7 - The Aftermath",
+      "issue": "8-paragraph sequence of pure reflection/backstory with no action, dialogue, or new information - thriller readers will skip",
+      "suggestion": "Break up the reflection with present action. Have Damaris interrupt with questions, or have neighbors actively shunning him, or have a messenger arrive with news of the next battle. Keep the emotional core but add forward momentum.",
+      "example_before": "That night \u2014 after Damaris had gone to bed, after the house was dark... [long internal monologue]",
+      "example_after": "That night, as Aristodemos sat in his courtyard pressing the scar, footsteps approached his gate. 'Spartan.' The voice belonged to Kleomenes, whose brother had died at the pass. 'Tomorrow we march to Plataea. The front rank needs men.' [Continue with internal reflection woven through dialogue]"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "historical plausibility",
+      "location": "Scene 2 - The emissary scene",
+      "issue": "A Persian emissary visiting the Spartan camp at Thermopylae is historically implausible - would violate military protocol and put emissary at extreme risk",
+      "suggestion": "Change to a neutral meeting ground (sacred ground between camps, or a herald meeting at the pass entrance) or have the contact occur before the armies engage. This maintains the dramatic tension while respecting historical military conventions.",
+      "example_before": "The Persian emissary who visited their camp the next morning",
+      "example_after": "The Persian emissary who met them at the sacred stones marking the pass entrance"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "genre friction",
+      "location": "Scenes 1-3",
+      "issue": "Too much exposition about 'the network' and 'the experiment' without sufficient emotional grounding - literary readers need character depth before concept",
+      "suggestion": "Lead with Aristodemos' personal conflict (duty vs. survival instinct) before revealing the larger conspiracy. Let readers connect emotionally with the character's dilemma, then gradually reveal the inherited burden. This serves all three audiences.",
+      "example_before": "The network's protocol was clear: people like him shouldn't sacrifice themselves unnecessarily",
+      "example_after": "His grandfather's voice echoed in his mind: 'The sight comes with a price, boy. You'll see patterns others miss, but you'll also feel the weight of every ancestor who died for honor when survival would have served better.'"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "anachronism",
+      "location": "Scene 4 - 'like stepping on a basket of crabs'",
+      "issue": "The metaphor feels too modern/specific for 480 BCE Greek warrior mindset",
+      "suggestion": "Use a metaphor more grounded in ancient military experience",
+      "example_before": "like stepping on a basket of crabs",
+      "example_after": "like shields grinding over broken pottery"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "literary depth",
+      "location": "Scene 6 - Artemisia's decision sequence",
+      "issue": "The three-second decision structure is effective but could use more sensory/emotional depth to satisfy literary readers",
+      "suggestion": "Add visceral details that ground the tactical thinking in physical reality",
+      "example_before": "In the first second, she thought... In the second second... In the third second...",
+      "example_after": "In the first second\u2014oar-spray cold on her face, bronze ram gleaming like a spear point\u2014she thought... In the second second\u2014her helmsman's breathing sharp beside her ear\u2014she thought... In the third second\u2014salt wind carrying the screams of drowning men\u2014she saw..."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "suggestion",
+      "category": "bridge moments",
+      "location": "Scene 5 - Naval battle description",
+      "issue": "This is excellent cross-genre writing that serves all three audiences",
+      "suggestion": "This sequence successfully balances tactical detail (thriller), historical accuracy (historical fiction), and emotional resonance (literary). Consider this a model for other action sequences.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "critical",
+      "category": "throughline advancement",
+      "location": "scenes 5-7",
+      "issue": "The love echo/reaching gesture appears strongly in scenes 1-2 with the scar aching/directional pull, but completely vanishes during the major naval battle and aftermath. This breaks the book's primary connective thread during pivotal moments.",
+      "suggestion": "Add brief scar sensations during the naval confrontation and aftermath - even subtle ones. The gesture/pull should intensify during key emotional beats, especially when Aristodemos chooses survival over honor.",
+      "example_before": "Aristodemos hadn't spoken. He was watching the others...",
+      "example_after": "Aristodemos hadn't spoken, his thumb unconsciously finding the scar as he watched the others..."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "critical",
+      "category": "chapter handoff momentum",
+      "location": "final scene",
+      "issue": "The chapter ends with fascinating revelation about blood connection but provides no clear hook to pull readers forward. What question drives us to the next chapter?",
+      "suggestion": "End with Artemisia discovering something concrete - a physical sign that the blood connection has consequences, or intelligence that the Order is tracking this phenomenon. Give readers a specific mystery to pursue.",
+      "example_before": "The blood said they were never supposed to be apart.",
+      "example_after": "The blood said they were never supposed to be apart. And somewhere in the Empire, Artemisia suspected, someone was already tracking who had felt what she'd felt."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "key progression",
+      "location": "entire chapter",
+      "issue": "No mention of the seven hidden keys at all. This is Book 3: 'The First Key' but the key subplot is completely absent, missing a major throughline.",
+      "suggestion": "Integrate key-seeking into the Persian invasion. Either Aristodemos or Artemisia should be pursuing/protecting/aware of a key artifact. This could explain why both networks are so invested in this particular conflict.",
+      "example_before": "The network's protocol was clear: people like him shouldn't sacrifice themselves unnecessarily.",
+      "example_after": "The network's protocol was clear: people like him shouldn't sacrifice themselves unnecessarily. Especially not when the first key was somewhere in Persian territory, and his strategic mind might be the only thing that could track it."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "order pursuit tracking",
+      "location": "scenes 2-3",
+      "issue": "Artemisia appears as Order operative but there's no sense of larger Order infrastructure or ongoing pursuit. She seems to act in isolation rather than as part of a threatening network.",
+      "suggestion": "Add references to Order coordination, intelligence networks, or other operatives. Show this is part of a larger campaign, not just individual carrier interactions.",
+      "example_before": "Generation twenty-two. Offensive network. Currently advising Xerxes' naval command.",
+      "example_after": "Generation twenty-two. Offensive network. Currently advising Xerxes' naval command under direct orders from Memphis. They've been tracking your movements for three months."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "philosophical debate integration",
+      "location": "scenes 7-8",
+      "issue": "The preservation vs control debate gets mentioned but isn't deeply explored through the characters' specific choices. The philosophical weight feels abstract rather than lived.",
+      "suggestion": "Show how each character's decision embodies their philosophy. Aristodemos choosing pragmatic survival represents preservation thinking; Artemisia's strategic manipulation represents control thinking. Make this explicit.",
+      "example_before": "The experiment is bigger than any single war",
+      "example_after": "The experiment is bigger than any single war. Preservation means sometimes we have to preserve ourselves even when honor demands sacrifice. That's what separates us from them - they control outcomes, we preserve possibilities."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "minor",
+      "category": "motif consistency",
+      "location": "scene 8",
+      "issue": "The final letter exchange is touching but doesn't connect to the reaching gesture motif established earlier. Missed opportunity for callback.",
+      "suggestion": "Have Artemisia's writing hand mirror the reaching gesture, or have her pause mid-letter with a familiar pulling sensation toward Sparta.",
+      "example_before": "She sent it through the same channels.",
+      "example_after": "She sent it through the same channels, her hand lingering over the parchment as if reaching across the sea toward Sparta."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "suggestion",
+      "category": "connective tissue",
+      "location": "scene 1",
+      "issue": "Strong callback to Bronze Age Collapse but no clear setup for future chapters. Could plant seeds for what comes next.",
+      "suggestion": "Add a brief reference to what the network expects to happen next, or what other carriers are doing in different regions during this same period.",
+      "example_before": "My daughter is eleven. Already showing the signs.",
+      "example_after": "My daughter is eleven. Already showing the signs. And according to the last message from Alexandria, she's not the only one in her generation manifesting early."
+    }
+  ],
+  "summary": "Review complete: 41 notes from 6 personas. Critical: 10, Major: 18, Minor: 8, Suggestions: 5. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 10,
+    "major": 18,
+    "minor": 8,
+    "suggestion": 5,
+    "total": 41
+  }
+}

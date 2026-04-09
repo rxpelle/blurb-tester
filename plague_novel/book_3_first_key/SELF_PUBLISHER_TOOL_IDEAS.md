@@ -1,6 +1,6 @@
 # AI-Powered Book Production Pipeline
 
-*Updated 2026-03-14 — 25 of 36 tools built. Reorganized as a full lifecycle pipeline. Each tool is a CLI that AI agents can orchestrate end-to-end: from market research through published, marketed book. Tools marked ✅ are built. Remaining: 11 tools across analytics, publishing automation, and discovery.*
+*Updated 2026-03-24 — 26 of 37 tools built. Reorganized as a full lifecycle pipeline. Each tool is a CLI that AI agents can orchestrate end-to-end: from market research through published, marketed book. Tools marked ✅ are built. Remaining: 11 tools across analytics, publishing automation, and discovery.*
 
 ---
 
@@ -115,28 +115,35 @@ Multi-pass AI editor that runs sequential editorial passes on a manuscript: (1) 
 
 *Turn manuscript into publishable formats.*
 
-### 13. Book Formatter ✅
+### 13. Manuscript Compiler ✅
+Takes a directory of individual chapter markdown files + a book.yaml config → discovers, validates, and assembles them into a complete manuscript. Generates front matter (title page, copyright, about author, table of contents), normalizes chapter headers with anchor links, cleans editorial metadata, standardizes scene breaks, strips end-of-chapter markers, and appends back matter (next-book teaser, author links). Outputs both DOCX-ready and PDF-ready markdown source files. Includes validation (duplicate chapters, gaps, empty files) and word count reporting per chapter.
+
+**Agent use**: Takes Editorial Agent output (polished individual chapter files) and produces the unified manuscript that Book Formatter consumes. The bridge between writing and formatting.
+
+**Blog post**: "I Built a Tool That Assembles My Novel from Chapter Files in One Command"
+
+### 14. Book Formatter ✅
 Feed it a markdown or docx manuscript → generates KDP-ready EPUB, paperback interior PDF (with proper trim, bleed, gutter margins), and large-print PDF. Handles front matter, chapter breaks, scene breaks, and consistent formatting. One command, all formats.
 
 **Agent use**: Takes Editorial Agent output and produces all format files needed for publishing.
 
 **Blog post**: "One Command to Format Your Book for Every Platform"
 
-### 14. Cover Generator ✅
+### 15. Cover Generator ✅
 Input genre + title + subtitle + author name + optional mood/concept keywords → AI generates cover concepts using genre conventions learned from Cover Comp Analyzer data. Produces multiple variants. Scores each against genre norms (thumbnail readability, color palette, font weight). Outputs print-ready cover files (front, spine, back, full wrap) with correct dimensions for KDP.
 
 **Agent use**: Produces cover files for the Publisher. Can iterate based on Cover Comp Analyzer feedback.
 
 **Blog post**: "I Let AI Design My Book Cover — Then Scored It Against the Bestsellers"
 
-### 15. Cover Comp Analyzer ✅
+### 16. Cover Comp Analyzer ✅
 Upload your book cover + genre → analyzes top 20 BSR covers in that category → uses vision AI to score thumbnail readability, color palette, font weight, layout patterns. Flags issues ("title too small at thumbnail size", "color palette doesn't match thriller conventions").
 
 **Agent use**: Quality gate for Cover Generator output. Reject/iterate until score passes threshold.
 
 **Blog post**: "I Built an AI That Grades Your Book Cover Against the Bestsellers"
 
-### 16. Blurb A/B Tester & Scorer ✅
+### 17. Blurb A/B Tester & Scorer ✅
 Paste your book description → AI analyzes against proven copywriting frameworks (hook/stakes/CTA), scores readability, and compares structure to top-selling blurbs in your category. Generates 3 variant blurbs for A/B testing.
 
 **Agent use**: Generates the book description for the Publisher. Takes reader praise phrases from Review Miner for social proof language.
@@ -149,14 +156,14 @@ Paste your book description → AI analyzes against proven copywriting framework
 
 *Get the book live on all platforms.*
 
-### 17. KDP Publisher (NEW) 🔗
+### 18. KDP Publisher (NEW) 🔗
 Automates KDP book setup: takes manuscript files (EPUB, PDF), cover files, metadata (title, description, keywords, categories, pricing), and creates/updates the KDP listing. Handles both ebook and paperback. Validates all files against KDP requirements before submission. Manages series linking, A+ Content upload, and author page updates.
 
 **Agent use**: Takes all outputs from Stage 4 (formatted files, cover, blurb, keywords from KDP Scout) and publishes with one command.
 
 **Blog post**: "I Automated My Entire KDP Publishing Process"
 
-### 18. ARC Manager ✅
+### 19. ARC Manager ✅
 CLI + simple web interface for Advance Reader Copy distribution. Upload EPUB → generates unique watermarked copies → sends personalized emails with download links → tracks who downloaded, who reviewed, who ghosted. Auto-sends gentle reminder emails. Maintains reviewer reputation scores.
 
 **Agent use**: Distributes ARCs before launch. Feeds review status into Launch Orchestrator.
@@ -169,28 +176,28 @@ CLI + simple web interface for Advance Reader Copy distribution. Upload EPUB →
 
 *Maximize visibility and sales.*
 
-### 19. Launch Orchestrator ✅
+### 20. Launch Orchestrator ✅
 Coordinates all launch activities on a timeline: ARC distribution (T-30 days), email sequence scheduling, social media posts, blog post publication, Amazon Ads campaign creation, price promotions, category monitoring. Pulls status from all other tools into a single dashboard. Alerts when action items are due.
 
 **Agent use**: The master controller for launch week. Triggers Ad Copy Generator, email sequences, blog deployment, and price changes on schedule.
 
 **Blog post**: "I Built an AI Launch Manager That Runs My Book Release"
 
-### 20. Ad Copy Generator ✅
+### 21. Ad Copy Generator ✅
 Feed it your book + top-performing keywords → generates Amazon Sponsored Brand headlines, product display ad copy, and A+ Content text. Uses praise phrases from Review Miner and reader language patterns. Outputs ready-to-paste campaign copy.
 
 **Agent use**: Creates all ad creative for Launch Orchestrator to deploy.
 
 **Blog post**: "I Built a Tool That Writes My Amazon Ads For Me"
 
-### 21. Blog Post Generator ✅
+### 22. Blog Post Generator ✅
 Takes book themes, research notes, and author expertise → generates "Science Behind the Fiction" style blog posts, reading list articles, and topic explainers that target reader search queries (not author queries). SEO-optimized with proper front matter for the author's site. Includes book CTA sections.
 
 **Agent use**: Creates marketing content that drives organic traffic to the author's website and books.
 
 **Blog post**: "I Automated My Entire Content Marketing Strategy"
 
-### 22. Newsletter Swap Finder
+### 23. Newsletter Swap Finder
 Builds a database of authors in your genre who do newsletter swaps. Scores potential swap partners by: list size, genre overlap, recent activity, and reciprocity reputation. Generates personalized outreach templates.
 
 **Agent use**: Identifies and drafts outreach for cross-promotion opportunities.
@@ -203,7 +210,7 @@ Builds a database of authors in your genre who do newsletter swaps. Scores poten
 
 *Track performance, iterate, improve.*
 
-### 23. Launch Day Dashboard ✅
+### 24. Launch Day Dashboard ✅
 Real-time CLI dashboard combining KDP sales rank, KENP reads, Amazon Ads spend, and social mentions into one terminal view. Auto-refreshes during launch week.
 
 **Agent use**: Feeds real-time data to Launch Orchestrator for dynamic decisions (increase ad spend, trigger price change, etc.).
@@ -220,14 +227,14 @@ Real-time CLI dashboard combining KDP sales rank, KENP reads, Amazon Ads spend, 
 - **Deduplication**: track review IDs to avoid re-alerting on the same review; track BSR by timestamp to build trend data
 - Cost: near-zero using existing PA infrastructure + Claude Haiku for analysis
 
-### 24. Series Read-Through Calculator 🔗
+### 25. Series Read-Through Calculator 🔗
 Tracks how many readers who bought/read Book 1 go on to Book 2, Book 3, etc. Calculates true lifetime reader value and optimal Book 1 pricing/promo strategy.
 
 **Agent use**: Informs Price Optimizer and determines when to run Book 1 promotions.
 
 **Blog post**: "The Real Math Behind Series Read-Through (And Why Book 1 Pricing Matters)"
 
-### 25. Price Optimizer 🔗
+### 26. Price Optimizer 🔗
 Tracks BSR + revenue at different price points over time. Runs price experiments and calculates optimal price per format. Factors in KU page rate, royalty tiers (35% vs 70%), and competitor pricing.
 
 **Agent use**: Automatically adjusts pricing based on performance data from Launch Day Dashboard and Series Read-Through Calculator.
@@ -240,7 +247,7 @@ Tracks BSR + revenue at different price points over time. Runs price experiments
 - Alert types: "Competitor X dropped to $2.99 and jumped 50K BSR spots — consider matching", "Your BSR improved 20% after last price change — hold current price", "KU page rate changed this month — recalculate per-page vs. purchase revenue"
 - Store price history in JSON/SQLite: `{asin, date, price, bsr, kenp_rate}` for both your books and tracked competitors
 
-### 26. Royalty Reconciler
+### 27. Royalty Reconciler
 Ingests KDP, Apple Books, Kobo, Google Play, D2D, and ACX royalty CSVs into one SQLite database. Normalizes currencies, tracks payment delays, calculates true monthly P&L. Generates Schedule C-ready tax reports.
 
 **Agent use**: Provides the ground truth for all ROI calculations across the pipeline.
@@ -255,21 +262,21 @@ Ingests KDP, Apple Books, Kobo, Google Play, D2D, and ACX royalty CSVs into one 
 - **Deduplication**: hash each CSV row to prevent double-counting when re-importing overlapping date ranges
 - **Tax output**: Generate Schedule C categories (gross receipts, platform fees, ad spend, production costs) with line references to source data
 
-### 27. Backmatter Link Tracker
+### 28. Backmatter Link Tracker
 Generates unique tracking links for every backmatter CTA (newsletter signup, next book, review request). Tracks click-through rates per book, per format. Shows which CTAs convert.
 
 **Agent use**: Data feeds into Reader Magnet Funnel Analyzer.
 
 **Blog post**: "I Tracked Every Link in My Backmatter — Here's What Readers Actually Click"
 
-### 28. Reader Magnet Funnel Analyzer 🔗
+### 29. Reader Magnet Funnel Analyzer 🔗
 Tracks the full funnel: free book downloads → email signups → email opens → clicks to Book 1 → purchases → series read-through. A/B tests different reader magnets. Identifies where readers drop off.
 
 **Agent use**: Optimizes the top of the reader acquisition funnel.
 
 **Blog post**: "I Tracked 1,000 Free Book Downloads to See How Many Became Paying Readers"
 
-### 29. Wide vs. KU Simulator
+### 30. Wide vs. KU Simulator
 Input current KDP sales + KENP data → simulates revenue if you went wide. Adjusted for genre. Factors in platform market share, promotional opportunities, and library income. Runs Monte Carlo simulations with confidence intervals.
 
 **Agent use**: Informs the exclusive-vs-wide strategic decision.
@@ -280,12 +287,12 @@ Input current KDP sales + KENP data → simulates revenue if you went wide. Adju
 
 ## Stage 8: Protection & Maintenance
 
-### 30. KU Page-Flip Detector
+### 31. KU Page-Flip Detector
 Monitors KENP reads for anomalous patterns: sudden spikes followed by clawbacks, reads matching exact page count (bot signature), reads from unexpected countries. Flags suspicious activity with evidence for KDP support.
 
 **Blog post**: "I Built a Tool to Detect If Bots Are Reading My Books"
 
-### 31. Audiobook Cost Calculator & ROI Tracker
+### 32. Audiobook Cost Calculator & ROI Tracker
 Input word count, genre, and sales data → estimates ACX production costs, projects audiobook revenue, calculates break-even under different deal structures (royalty share vs. per-hour vs. AI narration).
 
 **Blog post**: "The Math Behind Whether Your Book Should Be an Audiobook"
@@ -296,35 +303,35 @@ Input word count, genre, and sales data → estimates ACX production costs, proj
 
 *Multiply the value of every piece of content. Turn one blog post into a week of social media.*
 
-### 32. Content Repurposer ✅
+### 33. Content Repurposer ✅
 Takes a blog post, Medium article, or book excerpt → generates platform-specific content: TikTok/Reels scripts with hooks, tweet threads, newsletter excerpts, LinkedIn posts, and video scripts. Adapts tone, length, and format per platform automatically. Tracks which repurposed formats drive the most traffic back to books.
 
 **Agent use**: Takes Blog Post Generator output and multiplies it across all platforms. Feeds performance data back to optimize future content.
 
 **Blog post**: "I Wrote One Article and Got a Week of Content — Here's the Tool"
 
-### 33. MCP Book Data Server ✅
+### 34. MCP Book Data Server ✅
 A Model Context Protocol server that provides a unified interface to all book data: KDP royalties, Amazon BSR/reviews, Goodreads ratings, ad performance, email subscriber counts, and website analytics. Claude can query "how are my books performing?" and get answers from all platforms through one standardized connection. Exposes tools for: querying sales by date range, comparing books, tracking trends, and triggering alerts.
 
 **Agent use**: The central nervous system — every other tool can query book data through MCP instead of custom integrations. Launch Day Dashboard, Price Optimizer, and Series Read-Through Calculator all consume data from this single source.
 
 **Blog post**: "I Built One AI Interface to All My Book Data"
 
-### 34. GEO Optimizer (NEW)
+### 35. GEO Optimizer (NEW)
 Optimizes content for AI search engines (Generative Engine Optimization), not just traditional Google SEO. Analyzes blog posts and book landing pages for: structured data markup, clear direct-answer formatting, authoritative sourcing, citation-friendly paragraphs, and entity markup. Scores content on "AI discoverability" — how likely AI assistants are to surface it when readers ask about your topics.
 
 **Agent use**: Post-processes Blog Post Generator output. Audits author website pages. Ensures book-related content appears in AI-generated recommendations.
 
 **Blog post**: "SEO Is Dead. GEO Is How Readers Find Books in 2026."
 
-### 35. BookTok Script Generator ✅
+### 36. BookTok Script Generator ✅
 Takes book scenes, historical facts, or "did you know" hooks → generates short-form video scripts (15-60 seconds) optimized for TikTok/Reels. Includes: opening hook (first 3 seconds), atmospheric scene descriptions for visual overlay, text-on-screen prompts, trending audio suggestions, and hashtag sets. Targets emotional authenticity over polish — the style BookTok rewards.
 
 **Agent use**: Takes high-performing excerpts (identified by Review Miner praise phrases) and historical research (from Blog Post Generator) and turns them into video scripts.
 
 **Blog post**: "I Let AI Write My BookTok Scripts — Here's What Went Viral"
 
-### 36. Author Tools SaaS (NEW — Future)
+### 37. Author Tools SaaS (NEW — Future)
 Packages existing tools (Review Miner, Category Spy, Comp Title Decay Tracker, Cover Comp Analyzer, Blurb Tester) as a paid web service for other indie authors. Subscription model with tiered access. Hosted on Cloudflare Workers + managed database. Stripe billing. Each tool exposed via web UI and API.
 
 **Agent use**: Revenue diversification beyond book sales. Validated by the fact that these tools already work for my own publishing.
@@ -339,6 +346,7 @@ Packages existing tools (Review Miner, Category Spy, Comp Title Decay Tracker, C
 |---|---|---|
 | **Indie Bestseller Scout** | `indie-scout/` | ✅ 130 tests, live-tested on thriller bestsellers |
 | **Review Miner** | `review-miner/` | ✅ 116 tests, tested on Genesis Protocol reviews |
+| **Manuscript Compiler** | `manuscript-compiler/` | ✅ 113 tests, chapter files → unified manuscript with front/back matter |
 | **Book Formatter** | `book-formatter/` | ✅ Markdown/docx → EPUB + PDF |
 | **KDP Scout** | `kdp-scout/` | ✅ Keyword research |
 | **Etsy Scout** | `etsy-scout/` | ✅ Market research |
@@ -374,15 +382,15 @@ market_research    →  concept          →  framework        →  outline
 (1-5)                 (6)                 (7-8)               (9)
                                                                 ↓
 launch & marketing ←  publish          ←  production       ←  writing
-(19-22)               (17-18)             (13-16)             (10-12)
+(20-23)               (18-19)             (13-17)             (10-12)
         ↓                                                       ↓
-content amplification    analytics & optimization (23-29)
-(32-35)                              ↓
+content amplification    analytics & optimization (24-30)
+(33-36)                              ↓
         ↓                     next book concept (loop)
-   SaaS (36)  ←  proven tools from all stages
+   SaaS (37)  ←  proven tools from all stages
 ```
 
-**MCP Book Data Server (#33)** sits beneath all stages — the unified data layer every tool queries.
+**MCP Book Data Server (#34)** sits beneath all stages — the unified data layer every tool queries.
 
 Each stage's output is the next stage's input. Human review gates at: concept approval, outline approval, final manuscript approval, cover approval, and launch go/no-go.
 
@@ -392,16 +400,16 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 
 *Vision: A multi-agent system where I feed it an idea and it produces a published, marketed book — with human review gates at key decisions. Each phase below builds toward that, while delivering standalone value immediately.*
 
-### What's Already Built (25 tools)
+### What's Already Built (26 tools)
 
 | Stage | Tools | Gap |
 |---|---|---|
 | Market Research | Indie Scout, Review Miner, Category Spy, Comp Tracker, KDP Scout | Missing: Also-Bought Mapper (#5) |
 | Concept & Framework | Concept Generator, Series Framework Generator | Complete |
 | Writing | Chapter Outliner, Chapter Drafter, Continuity Checker, Editorial Agent | Missing: Series Bible Generator (#8) |
-| Production | Book Formatter, Cover Generator, Cover Comp Analyzer, Blurb Tester | Complete |
-| Launch & Marketing | Launch Orchestrator, Ad Copy Generator, Blog Post Generator, ARC Manager, Content Repurposer, BookTok Script Generator | Missing: Newsletter Swap Finder (#22) |
-| Analytics | Launch Day Dashboard, MCP Book Data Server | Missing: Price Optimizer (#25), Series Read-Through (#24), Royalty Reconciler (#26) |
+| Production | Manuscript Compiler, Book Formatter, Cover Generator, Cover Comp Analyzer, Blurb Tester | Complete |
+| Launch & Marketing | Launch Orchestrator, Ad Copy Generator, Blog Post Generator, ARC Manager, Content Repurposer, BookTok Script Generator | Missing: Newsletter Swap Finder (#23) |
+| Analytics | Launch Day Dashboard, MCP Book Data Server | Missing: Price Optimizer (#26), Series Read-Through (#25), Royalty Reconciler (#27) |
 | Other | Grounds Reader, Etsy Scout | — |
 
 **Remaining gaps**: Analytics/optimization tools (Price Optimizer, Read-Through Calculator, Royalty Reconciler, GEO Optimizer), Publishing automation (KDP Publisher), Series Bible Generator, and network/discovery tools (Also-Bought Mapper, Newsletter Swap Finder).
@@ -413,10 +421,10 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 
 | Priority | Build | Status |
 |---|---|---|
-| 1a | **MCP Book Data Server (#33)** | ✅ Built — `mcp-book-data/` |
-| 1b | **Launch Day Dashboard (#23)** | ✅ Built — `launch-dashboard/` |
-| 1c | **Content Repurposer (#32)** | ✅ Built — `content-repurposer/` |
-| 1d | **BookTok Script Generator (#35)** | ✅ Built — `booktok-gen/` |
+| 1a | **MCP Book Data Server (#34)** | ✅ Built — `mcp-book-data/` |
+| 1b | **Launch Day Dashboard (#24)** | ✅ Built — `launch-dashboard/` |
+| 1c | **Content Repurposer (#33)** | ✅ Built — `content-repurposer/` |
+| 1d | **BookTok Script Generator (#36)** | ✅ Built — `booktok-gen/` |
 
 **Phase 1 outcome**: All launch tools ready. Focus now shifts to Phase 2 analytics and Phase 3 writing engine.
 
@@ -428,10 +436,10 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 | Priority | Build | Why | Effort |
 |---|---|---|---|
 | 2a | **Review Miner — monitoring mode** (enhance #2) | Weekly agent scrapes new reviews across all books, runs sentiment analysis, emails digest. Catches problems early, feeds praise into ad copy. | 1-2 days |
-| 2b | **Price Optimizer (#25)** | With 3 books live, pricing decisions matter. Tracks BSR at different price points, monitors competitor pricing, recommends changes. | 2-3 days |
-| 2c | **Series Read-Through Calculator (#24)** | 3-book series = read-through data. Calculates true reader lifetime value. Tells you whether Book 1 promos are worth it. | 1-2 days |
-| 2d | **GEO Optimizer (#34)** | AI search is replacing Google for book discovery. Optimize your website and blog posts now, compound over time. | 1-2 days |
-| 2e | **Royalty Reconciler (#26)** | With royalties coming from KDP (ebook + paperback + KU), you need one source of truth. Automated P&L, tax-ready reports. | 2-3 days |
+| 2b | **Price Optimizer (#26)** | With 3 books live, pricing decisions matter. Tracks BSR at different price points, monitors competitor pricing, recommends changes. | 2-3 days |
+| 2c | **Series Read-Through Calculator (#25)** | 3-book series = read-through data. Calculates true reader lifetime value. Tells you whether Book 1 promos are worth it. | 1-2 days |
+| 2d | **GEO Optimizer (#35)** | AI search is replacing Google for book discovery. Optimize your website and blog posts now, compound over time. | 1-2 days |
+| 2e | **Royalty Reconciler (#27)** | With royalties coming from KDP (ebook + paperback + KU), you need one source of truth. Automated P&L, tax-ready reports. | 2-3 days |
 
 **Phase 2 outcome**: Hands-off intelligence. Agents monitor reviews, track pricing, calculate read-through, optimize for AI search, and reconcile royalties. You get weekly email digests with action items.
 
@@ -459,14 +467,14 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 
 | Priority | Build | Why | Effort |
 |---|---|---|---|
-| 4a | **KDP Publisher (#17)** | Automates the last manual step: uploading to KDP. Takes formatted files, cover, metadata → creates/updates listings. | 3-4 days |
+| 4a | **KDP Publisher (#18)** | Automates the last manual step: uploading to KDP. Takes formatted files, cover, metadata → creates/updates listings. | 3-4 days |
 | 4b | **Also-Bought Mapper (#5)** | Deepens market research — crawls "also bought" chains to find hidden comp titles and audience crossover. | 2-3 days |
-| 4c | **Newsletter Swap Finder (#22)** | Automated cross-promotion partner discovery and outreach drafting. | 2 days |
-| 4d | **Reader Magnet Funnel Analyzer (#28)** | Full funnel tracking: free download → email → purchase → series read-through. Identifies where readers drop off. | 2-3 days |
-| 4e | **Backmatter Link Tracker (#27)** | Tracks which CTAs in your backmatter actually convert. Data feeds into funnel analyzer. | 1-2 days |
-| 4f | **Wide vs KU Simulator (#29)** | Monte Carlo simulation of going wide. With 3+ books of KDP data, this becomes meaningful. | 2-3 days |
-| 4g | **KU Page-Flip Detector (#30)** | Bot detection for KENP reads. Protects your account. | 1-2 days |
-| 4h | **Audiobook Calculator (#31)** | ROI analysis for audiobook production. | 1 day |
+| 4c | **Newsletter Swap Finder (#23)** | Automated cross-promotion partner discovery and outreach drafting. | 2 days |
+| 4d | **Reader Magnet Funnel Analyzer (#29)** | Full funnel tracking: free download → email → purchase → series read-through. Identifies where readers drop off. | 2-3 days |
+| 4e | **Backmatter Link Tracker (#28)** | Tracks which CTAs in your backmatter actually convert. Data feeds into funnel analyzer. | 1-2 days |
+| 4f | **Wide vs KU Simulator (#30)** | Monte Carlo simulation of going wide. With 3+ books of KDP data, this becomes meaningful. | 2-3 days |
+| 4g | **KU Page-Flip Detector (#31)** | Bot detection for KENP reads. Protects your account. | 1-2 days |
+| 4h | **Audiobook Calculator (#32)** | ROI analysis for audiobook production. | 1 day |
 | 4i | **Pipeline Orchestrator** (NEW — the master agent) | The conductor. Takes an idea, routes it through all stages, manages human review gates, tracks progress. "Build me a book from this concept." | 5-7 days |
 
 **Agent Migration Strategy:**
@@ -485,7 +493,7 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 
 | Priority | Build | Why |
 |---|---|---|
-| 5a | **Author Tools SaaS (#36)** | Package the best tools as a paid service. Review Miner, Category Spy, Comp Tracker, Blurb Tester, Cover Analyzer — other indie authors would pay $29-99/mo for these. |
+| 5a | **Author Tools SaaS (#37)** | Package the best tools as a paid service. Review Miner, Category Spy, Comp Tracker, Blurb Tester, Cover Analyzer — other indie authors would pay $29-99/mo for these. |
 
 ---
 
@@ -497,12 +505,12 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 │              "Build me a book from this idea"             │
 ├──────────┬──────────┬──────────┬──────────┬──────────────┤
 │ RESEARCH │ WRITING  │PRODUCTION│ LAUNCH   │ INTELLIGENCE │
-│ Scout    │ Bible    │ Formatter│ Orchestr.│ Dashboard    │
-│ Miner    │ Concept  │ Cover Gen│ Ad Copy  │ Price Opt.   │
-│ Cat. Spy │ Framework│ Cover Cmp│ Blog Gen │ Read-Through │
-│ Comp Trk │ Outliner │ Blurb    │ ARC Mgr  │ Rev. Monitor │
-│ Also-Bot │ Drafter  │ KDP Pub  │ Repurpose│ Royalty Rec. │
-│          │ Editor   │          │ BookTok  │ GEO Opt.     │
+│ Scout    │ Bible    │ Compiler │ Orchestr.│ Dashboard    │
+│ Miner    │ Concept  │ Formatter│ Ad Copy  │ Price Opt.   │
+│ Cat. Spy │ Framework│ Cover Gen│ Blog Gen │ Read-Through │
+│ Comp Trk │ Outliner │ Cover Cmp│ ARC Mgr  │ Rev. Monitor │
+│ Also-Bot │ Drafter  │ Blurb    │ Repurpose│ Royalty Rec. │
+│          │ Editor   │ KDP Pub  │ BookTok  │ GEO Opt.     │
 │          │ Contin.  │          │ NL Swap  │ Funnel Anlz. │
 ├──────────┴──────────┴──────────┴──────────┴──────────────┤
 │              MCP BOOK DATA SERVER (unified data)          │
@@ -512,4 +520,4 @@ Each stage's output is the next stage's input. Human review gates at: concept ap
 └───────────────────────────────────────────────────────────┘
 ```
 
-**36 tools (25 built, 11 remaining). 5 human review gates. One orchestrator. Ideas in, books out.**
+**37 tools (26 built, 11 remaining). 5 human review gates. One orchestrator. Ideas in, books out.**

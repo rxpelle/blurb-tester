@@ -1,0 +1,444 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_3_first_key/chapters_v2/clean_review/02_THE_SCATTER.md",
+  "review_date": "2026-03-27T16:38:24.988372",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "First-Time Reader",
+    "Binge-Read Tester",
+    "Thread Tracker",
+    "Series Arc Editor",
+    "Onboarding Editor",
+    "Genre Bridge Editor"
+  ],
+  "notes": [
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "series entry confusion",
+      "location": "paragraph 1",
+      "issue": "Chapter opens with Nefertari as if reader knows who she is. No introduction or context for a main character.",
+      "suggestion": "Add a brief introduction establishing Nefertari's role and situation - even one sentence like 'Nefertari, former court physician to the dead Pharaoh Tausret, had been running for three weeks.'",
+      "example_before": "The man at the stern was not a merchant. Nefertari had noticed him when he boarded at Sidon",
+      "example_after": "The man at the stern was not a merchant. Nefertari, former court physician to the dead Pharaoh Tausret, had noticed him when he boarded at Sidon"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "unexplained concepts",
+      "location": "paragraph 4",
+      "issue": "'Amenhotep had found her' - no explanation of who Amenhotep is or why finding her matters",
+      "suggestion": "Add context: 'Amenhotep, Egypt's master physician and her former colleague, had found her' or similar identifying information",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "jargon without context",
+      "location": "paragraph 10",
+      "issue": "'the first key' mentioned casually with no explanation of what keys are or why they matter",
+      "suggestion": "Add brief explanation: 'the first of seven keys she needed to hide - devices that would preserve crucial knowledge for future generations' or similar",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "assumed knowledge",
+      "location": "paragraph 11",
+      "issue": "Pattern Eye introduced as if reader knows what it is. 'Eight centimeters of bronze inscribed with collapse recognition markers' is meaningless without context",
+      "suggestion": "Explain what the Pattern Eye does before describing its physical properties",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "unexplained concepts",
+      "location": "paragraph 24",
+      "issue": "'Tausret's bloodline' mentioned without explaining the significance of bloodlines in this world",
+      "suggestion": "Add explanation of why bloodlines matter - genetic memory, special abilities, etc.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "character introduction",
+      "location": "Memory Bridge section",
+      "issue": "Memory Bridge key introduced with same lack of context as Pattern Eye",
+      "suggestion": "Explain what the Memory Bridge does differently from the Pattern Eye",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "world-building gaps",
+      "location": "throughout",
+      "issue": "The entire premise of why these keys need to be hidden and what they prevent is unclear",
+      "suggestion": "Add exposition about what catastrophe these keys are meant to prevent or what knowledge they preserve",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "assumed knowledge",
+      "location": "Tirzah introduction",
+      "issue": "Tirzah appears suddenly with no introduction or explanation of her relationship to Nefertari or importance to the plot",
+      "suggestion": "Introduce Tirzah with context: who she is, why she's traveling with Nefertari, what makes her special",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "jargon without context",
+      "location": "final sections",
+      "issue": "References to 'the Protocol,' 'defensive keys,' 'offensive network,' 'breeding programs' without explanation",
+      "suggestion": "Provide context for what the Protocol is and why it's divided into offensive/defensive components",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "emotional access",
+      "location": "grief references throughout",
+      "issue": "References to Nefertari's grief and 'reaching left' are emotionally compelling but unclear in origin",
+      "suggestion": "Brief explanation of what relationship ended (death? betrayal?) would help readers connect emotionally",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "suggestion",
+      "category": "world-building clarity",
+      "location": "historical setting",
+      "issue": "Bronze Age Collapse context could be clearer for general readers",
+      "suggestion": "Add one or two sentences explaining the historical context and why this period was chosen",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "opening momentum",
+      "location": "first paragraph",
+      "issue": "Opens with a weak, passive observation instead of immediate tension or action",
+      "suggestion": "Start with active conflict or immediate danger - perhaps with Nefertari already being pursued or making a critical decision",
+      "example_before": "The man at the stern was not a merchant.",
+      "example_after": "Nefertari's hand froze halfway to her water cup. The man at the stern had been watching her for three days, and now he was moving."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "pacing killer",
+      "location": "paragraphs 4-8",
+      "issue": "Massive exposition dump about her observation skills and backstory that completely stops momentum",
+      "suggestion": "Weave this information into action - show her skills through immediate conflict with the pursuer",
+      "example_before": "Now, three weeks later, he was studying the coastline with the same systematic scanning she used. Except he wasn't studying the coastline. He was studying her.",
+      "example_after": "Now he was closing the distance. Three steps closer than yesterday. Two more than the day before. Hunting pattern."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "engagement killer",
+      "location": "temple scene with priestess",
+      "issue": "Long philosophical debate about preserving knowledge kills all tension when reader expects action/pursuit",
+      "suggestion": "Cut the debate to bare essentials, maintain urgency of being hunted",
+      "example_before": "Long exchange about dead vs. living knowledge",
+      "example_after": "Compress to: 'Can you hide this?' 'For how long?' 'Forever.' The priestess nodded."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "put-down point",
+      "location": "Cyprus archive scene",
+      "issue": "Another long discussion about preservation when reader wants to see the pursuit intensify",
+      "suggestion": "Show the pursuit closing in DURING the hiding, create immediate danger",
+      "example_before": "Extended conversation with Theia about archives",
+      "example_after": "Make the agents arrive mid-conversation, force quick decisions under pressure"
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "momentum killer",
+      "location": "hill country sequence",
+      "issue": "Seven different hiding locations with repetitive interactions - loses all urgency",
+      "suggestion": "Compress to 2-3 key interactions, focus on mounting pressure from pursuit",
+      "example_before": "Detailed description of each family interaction",
+      "example_after": "Quick montage with one significant refusal, then immediate crisis"
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "chapter ending",
+      "location": "final paragraphs",
+      "issue": "Ends on quiet melancholy instead of compelling hook for next chapter",
+      "suggestion": "End with immediate threat or revelation that demands next chapter",
+      "example_before": "Behind her, the workshop door swung shut on its leather hinges, and the borrowed room went dark.",
+      "example_after": "Behind her, footsteps on gravel. Egyptian voices. They'd found her workshop. Time was up."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "scene transition",
+      "location": "Amenhotep's interlude",
+      "issue": "Switches to reflective character study when reader needs forward momentum",
+      "suggestion": "Make this section reveal immediate threat or plot development, not just emotional processing",
+      "example_before": "Contemplative scene about his choices",
+      "example_after": "Show him discovering her location or making a decision that creates immediate danger"
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "minor",
+      "category": "pacing",
+      "location": "grief references throughout",
+      "issue": "Repeated 'reaching left' motif slows momentum each time it appears",
+      "suggestion": "Use this sparingly, only at key emotional moments, not as recurring filler",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "critical",
+      "category": "cliffhanger quality",
+      "location": "final paragraph",
+      "issue": "Chapter ends on emotional resolution rather than forward momentum. Amenhotep's internal reflection provides closure instead of urgency.",
+      "suggestion": "End with an active threat or revelation. Consider ending with news of the second agent's fate, or Amenhotep receiving intelligence about Nefertari's next destination, or discovery that one of the keys has already been compromised.",
+      "example_before": "...carrying the particular grief of a man who had weighed love against legacy and chosen legacy and would spend the remaining thirty-seven years of his life pretending the scales had balanced.",
+      "example_after": "The third dispatch arrived as temple bells marked sunset. Cyprus. His agent was three days overdue. Either Nefertari had found another way to disappear\u2014or she'd found a way to fight back."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "thread management",
+      "location": "Distribution Network section",
+      "issue": "The seventh family rejection thread opens and closes within the same section without creating lasting tension",
+      "suggestion": "Either extend this conflict across multiple scenes or use it to escalate the pursuit threat. The rejection could alert Amenhotep's agents or force Nefertari into a more dangerous hiding place.",
+      "example_before": "She left without arguing further. Revised the design: seven fragments instead of eight.",
+      "example_after": "She left without arguing further, not seeing the neighbor who watched from behind the grain storage. Hadara's refusal would be reported by dawn\u2014one more thread for Amenhotep's hunters to follow."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "pacing",
+      "location": "Cyprus section",
+      "issue": "The agent's death resolves too quickly and cleanly. This major escalation needs more consequences that carry forward.",
+      "suggestion": "Show how killing the agent changes the pursuit dynamic. Perhaps it forces Amenhotep to send more dangerous operatives, or triggers a manhunt that affects all future hiding locations.",
+      "example_before": "The second agent never found them.",
+      "example_after": "The second agent's disappearance would be noticed within days. Amenhotep would know she'd moved from evasion to elimination. The rules had changed."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "minor",
+      "category": "mid-chapter hooks",
+      "location": "scene breaks throughout",
+      "issue": "Several scene transitions lack compelling hooks to pull readers forward. Each break should end on tension or questions.",
+      "suggestion": "Add micro-cliffhangers at key transitions. When Nefertari leaves Byblos, hint at what's waiting in Cyprus. When she finishes the Distribution Network, suggest the final confrontation approaching.",
+      "example_before": "One key hidden. Three more to go.",
+      "example_after": "One key hidden. Three more to go. And somewhere behind her, Amenhotep's next move was already in motion\u2014a chess piece she hadn't seen yet sliding across the board."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "throughline momentum",
+      "location": "entire chapter",
+      "issue": "The chapter establishes excellent throughline presence but fails to create forward momentum. Three keys are hidden successfully with no major complications, and the chase sequences resolve too cleanly. This creates a 'mission accomplished' feeling that could stall reader momentum.",
+      "suggestion": "Add an unresolved complication or failure in one of the key-hiding attempts. Perhaps one custodian betrays the location, or Amenhotep's agents successfully intercept one key, forcing Nefertari to adapt the Protocol mid-stream.",
+      "example_before": "They built the Memory Bridge into the archive wall during those three days. Sealed in waterproofed leather, placed behind a marked stone.",
+      "example_after": "They built the Memory Bridge into the archive wall\u2014but as they sealed it, Theia noticed scorch marks on nearby stones. Someone had been here before them, searching. The hiding was complete, but compromised from the start."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "chapter handoff",
+      "location": "final paragraphs",
+      "issue": "The chapter ends with both protagonists walking away in opposite directions, creating closure rather than forward pull. There's no specific question or threat driving the reader to the next chapter.",
+      "suggestion": "End with a revelation that reframes everything\u2014perhaps Amenhotep's final words hint that he knows something about Tirzah's bloodline that Nefertari doesn't, or introduce evidence that the Order's reach is larger than expected.",
+      "example_before": "Behind her, the workshop door swung shut on its leather hinges, and the borrowed room went dark.",
+      "example_after": "Behind her, the workshop door swung shut\u2014but scratched into the doorframe, so fresh the wood was still pale, someone had carved the fractal symbol from Tausret's cipher. The one only bloodline carriers should recognize. Someone else was here. Someone else was watching."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "minor",
+      "category": "love echo tracking",
+      "location": "multiple instances throughout",
+      "issue": "The reaching-left gesture appears multiple times but doesn't evolve or deepen. It's mentioned mechanically rather than being woven into the emotional fabric of the scenes.",
+      "suggestion": "Show the gesture changing or intensifying under stress, or have it trigger specific memories that inform her decisions about the keys.",
+      "example_before": "Her left hand reached to the side, feeling for a workbench that wasn't there.",
+      "example_after": "Her left hand reached to the side\u2014not for empty air this time, but specifically for the spot where Tausret's hand would rest when she was thinking. The gesture so automatic she could feel the phantom warmth of that absent palm."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "suggestion",
+      "category": "motif development",
+      "location": "Offensive Network Interlude",
+      "issue": "Amenhotep's section shows him making similar reaching gestures but doesn't explicitly connect this to the love echo throughline. This is a missed opportunity to show the echo operating across both sides of the conflict.",
+      "suggestion": "Make the parallel more explicit\u2014show Amenhotep experiencing the same phantom gestures, perhaps while reviewing reports of her movements.",
+      "example_before": "He pressed his thumb against the crease of the report and held it there. One gesture.",
+      "example_after": "He pressed his thumb against the crease of the report\u2014then caught his hand reaching right, toward where her stool would be in their shared workshop. Twenty years of shared space. The body didn't forget when the mind chose duty over love."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "minor",
+      "category": "connective tissue",
+      "location": "throughout chapter",
+      "issue": "While the chapter establishes the key-hiding well, it lacks specific callbacks to previous chapters or clear setups for future ones beyond the general throughlines.",
+      "suggestion": "Add brief references to how this chapter's events will echo in future chapters, or include subtle details that will pay off later in the series.",
+      "example_before": "The Phoenician trader's ship smelled of cedar and salt, fish oil and unwashed wool.",
+      "example_after": "The Phoenician trader's ship smelled of cedar and salt, fish oil and unwashed wool\u2014the same combination that would, centuries later, trigger recognition in a Roman harbor when another carrier caught the scent."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "critical",
+      "category": "Jargon Before Drama",
+      "location": "paragraph 15 and throughout",
+      "issue": "The 'Pattern Eye' is named before we experience what it actually does. The reader gets the label but no visceral understanding of its function.",
+      "suggestion": "Show Nefertari or someone else experiencing the Pattern Eye's effect first - maybe a brief flashback to using it, or having Nefertari react to touching it - before naming it.",
+      "example_before": "Behind her, wrapped in oiled leather and buried in her satchel, lay the Pattern Eye. Eight centimeters of bronze inscribed with collapse recognition markers.",
+      "example_after": "Behind her, wrapped in oiled leather, lay the bronze disc. Even through the leather she could feel it - that subtle wrongness in her fingertips, the way her pulse quickened whenever she touched the inscribed surface. Twenty years of working with Tausret, and she'd never grown used to how the collapse markers made her skin crawl."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "Terminology Dumps",
+      "location": "paragraphs 15-16",
+      "issue": "Multiple technical terms introduced rapidly: 'Pattern Eye,' 'collapse recognition markers,' 'keys,' 'cipher,' 'bloodline carriers' without emotional grounding.",
+      "suggestion": "Space these concepts across scenes and attach each to a character's visceral reaction or emotional stake.",
+      "example_before": "Eight centimeters of bronze inscribed with collapse recognition markers. Small enough to hide anywhere. Durable enough to last three thousand years.",
+      "example_after": "Eight centimeters of bronze that had cost her everything to create. She'd watched Tausret die for this, watched Egypt burn. But when someone from the bloodline finally found it..."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "Mechanic Explanations",
+      "location": "priestess dialogue sections",
+      "issue": "Characters explain how the bloodline encoding works before the reader cares about the outcome.",
+      "suggestion": "Show the urgency first - what happens if the key is never found, what happens if the wrong person finds it - then explain the mechanics.",
+      "example_before": "The inscriptions are mnemonic triggers. They don't contain the knowledge; that's encoded in bloodline carriers.",
+      "example_after": "If the wrong person finds this, they get bronze and gibberish. But someone from Tausret's line... their blood will sing when they see these marks. The memories will flood back like breaking a dam."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "Show-Before-Name Score",
+      "location": "Memory Bridge introduction",
+      "issue": "The 'Memory Bridge' is named and explained mechanically without showing its emotional significance to Nefertari or demonstrating its effect.",
+      "suggestion": "Show Nefertari remembering something crucial through the Memory Bridge mechanism before naming it.",
+      "example_before": "She unwrapped the Memory Bridge, eight centimeters of bronze, twin to the Pattern Eye she'd hidden in Byblos.",
+      "example_after": "She unwrapped the second disc. For a moment, holding both pieces, she felt Tausret's presence so strongly she turned expecting to see her. The bronze grew warm in her palm, and suddenly she could recall not just what Tausret had said about network building, but how it had felt to think alongside her, two minds working as one. Then the sensation faded. She set down what she'd come to call the Memory Bridge."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "Progressive Disclosure",
+      "location": "Distribution Network explanation",
+      "issue": "The fragmentation concept is explained abstractly before we understand what's at stake if it fails.",
+      "suggestion": "Show the consequences of network failure before explaining the technical solution.",
+      "example_before": "The Distribution Network was different from the other keys: fragmentary by design.",
+      "example_after": "She'd learned from watching cities burn: cut off the head, and the body dies. But what if there was no head to cut off? What if the knowledge lived in pieces, scattered, redundant?"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "suggestion",
+      "category": "Emotional Hook First",
+      "location": "Tirzah naming scene",
+      "issue": "This scene does emotional grounding well - Tirzah's choice to rename herself is felt before it's explained.",
+      "suggestion": "Use this as a model for other concept introductions throughout the chapter.",
+      "example_before": "N/A - this section works well",
+      "example_after": "N/A - keep as is"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "Why Should I Care Test",
+      "location": "Protocol references throughout",
+      "issue": "The 'Protocol' is referenced multiple times but the reader hasn't been given a reason to care about its integrity or violation.",
+      "suggestion": "Ground Protocol mentions in specific consequences - what happens to real people when it fails.",
+      "example_before": "You scattered the defensive keys without authorization. You're building a network that undermines the Protocol's integrity.",
+      "example_after": "You scattered the keys without authorization. Every family that dies in the next collapse because they couldn't see it coming - that blood is on your hands."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "critical",
+      "category": "speculative grounding",
+      "location": "Pattern Eye/Memory Bridge explanations throughout",
+      "issue": "The blood memory/inheritance mechanism lacks sufficient scientific grounding for historical fiction readers. Terms like 'mnemonic triggers,' 'bloodline carriers,' and 'fractal/recursive' patterns sound more fantasy than science.",
+      "suggestion": "Ground in real historical practices: ancient Egyptian dream incubation, Mesopotamian hepatoscopy, or Greek mystery cult initiation. Frame as advanced understanding of what we now call epigenetics or collective unconscious. Use period-appropriate language for the mechanism.",
+      "example_before": "The inscriptions are mnemonic triggers. They don't contain the knowledge; that's encoded in bloodline carriers.",
+      "example_after": "The inscriptions mirror the sacred patterns used in Thoth's dream chambers\u2014symbols that awaken inherited memories, the way certain scents can recall a childhood feast. What the Egyptians call 'blood wisdom'\u2014knowledge that passes through the ka of bloodlines."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "Temple of Ba'alat Gebal extended dialogue sequence",
+      "issue": "The philosophical debate with the priestess runs 8+ paragraphs with no action or immediate stakes. Thriller readers will skim or bail here.",
+      "suggestion": "Intercut the dialogue with physical action\u2014Nefertari watching for agents, the priestess leading her deeper into the temple while talking, immediate consequences of being discovered. Make the philosophy emerge from urgent circumstances.",
+      "example_before": "Long unbroken dialogue about dead knowledge vs living mysteries",
+      "example_after": "Break with: 'Through the bronze, Nefertari glimpsed movement\u2014the Egyptian merchant entering the temple courtyard. \"We need to move deeper,\" she whispered. \"And I need your answer now.\"'"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "genre friction",
+      "location": "Cyprus agent confrontation and murder",
+      "issue": "The violence escalates too suddenly from hiding keys to pushing someone off a cliff. Historical fiction readers expect more political/social consequences; thriller readers need better setup for the life-or-death stakes.",
+      "suggestion": "Establish earlier that Amenhotep's agents have kill orders. Show evidence of other scholars/priests who disappeared. Make the violence feel inevitable rather than sudden.",
+      "example_before": "She ran... He caught her at the cliff edge... Last chance. Tell me about the keys.",
+      "example_after": "Add earlier: evidence of other missing scholars, or the agent mentioning previous 'failures' to report back. Make it clear this isn't negotiation\u2014it's execution delayed."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "historical anchor points",
+      "location": "Mycenaean refugee settlement details",
+      "issue": "The settlement feels generically ancient rather than specifically post-Bronze Age collapse. Historical fiction readers want authentic period detail.",
+      "suggestion": "Add specific historical markers: references to specific destroyed palaces (Pylos, Mycenae), authentic Linear B tablets being copied, specific refugee trades/skills, period-accurate building materials and techniques.",
+      "example_before": "The Mycenaean refugee settlement near Enkomi had built an archive from salvaged tablets",
+      "example_after": "The refugees from Pylos had salvaged what tablets they could when the palace burned\u2014land tenure records, religious calendars, the Linear B syllabary itself. Now they worked by sesame oil lamps, pressing Cypriot clay into familiar shapes."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "suspension of disbelief",
+      "location": "Nefertari's consistent ability to evade trained agents",
+      "issue": "Her escape skills feel implausibly advanced for a court physician. This is the hardest ask for reader belief.",
+      "suggestion": "Establish her background earlier\u2014perhaps she was trained in palace security protocols, or learned evasion from treating fugitive patients, or had military medical training. Make her competence feel earned.",
+      "example_before": "She changed her route... doubling back... reasonably certain she'd lost them",
+      "example_after": "Add: 'Twenty years treating wounded soldiers had taught her their movement patterns\u2014how they swept buildings, posted watches, anticipated escape routes. Palace physicians learned to think like the people they treated.'"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "suggestion",
+      "category": "literary depth",
+      "location": "Grief motifs throughout",
+      "issue": "The reaching-left gesture and grief processing are beautifully handled and serve all three audiences, but could be even more powerful.",
+      "suggestion": "Expand the sensory details of grief\u2014not just the reaching gesture, but phantom conversations, muscle memory of shared work, the way space feels wrong without the other person. This grounds the speculative elements in universal human experience.",
+      "example_before": "Her left hand reached to the side, feeling for a workbench that wasn't there",
+      "example_after": "Her left hand reached to the side, fingers expecting the worn wood grain of Tausret's workbench, the familiar resistance of a scalpel being passed between them. Instead: salt air and the hollow ache of gestures with no recipient."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "bridge moments",
+      "location": "Tirzah choosing her name sequence",
+      "issue": "This scene successfully serves all three audiences\u2014historical (authentic naming practices), thriller (character agency drives plot), literary (emotional growth). More moments like this needed.",
+      "suggestion": "Identify similar opportunities where plot, character, and historical detail converge. The hill country negotiations could work this way if expanded with more specific tribal/clan politics.",
+      "example_before": "Current scene works well as-is",
+      "example_after": "Replicate this structure elsewhere\u2014where individual choice intersects with historical forces and drives plot forward."
+    }
+  ],
+  "summary": "Review complete: 42 notes from 6 personas. Critical: 10, Major: 19, Minor: 9, Suggestions: 4. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 10,
+    "major": 19,
+    "minor": 9,
+    "suggestion": 4,
+    "total": 42
+  }
+}

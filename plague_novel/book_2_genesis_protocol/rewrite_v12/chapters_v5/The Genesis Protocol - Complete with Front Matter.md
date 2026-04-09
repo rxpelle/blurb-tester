@@ -7394,7 +7394,25 @@ She had work to do.
 
 Three thousand years before Sarah Chen, before the Order, before the Genesis Protocol — a physician in Bronze Age Egypt witnessed the first collapse and made a choice that would echo through millennia.
 
-For more information on the books in this series and to better understand the meaning behind the concepts these books elicit, go to the author's webpage [randypellegrini.com/series](https://randypellegrini.com/series).
+Coming April 2026
+
+\newpage
+
+* * *
+
+**Also by Randy Pellegrini**
+
+**The Architecture of Survival Series**
+
+*Book 1: The Aethelred Cipher* — When a dying monk thrusts an iron key into scribe Thomas of Eltville's hands, he inherits more than an artifact — he becomes the target of a millennia-old conspiracy. Set during the Black Death of 1347.
+[Available on Amazon](https://www.amazon.com/dp/B0GMRN61MG)
+
+*Book 3: The First Key* — The origin story. Bronze Age Egypt, 1177 BCE. Nefertari sees the pattern of civilizational collapse — and creates a protocol to prevent it. But her colleague Amenhotep reaches the opposite conclusion. Their split creates two networks that will chase each other through 3,200 years.
+Coming April 2026
+
+For more information on the books in this series, go to [randypellegrini.com/series](https://randypellegrini.com/series).
+
+Sign up for new release alerts and get a free prequel story at [randypellegrini.com](https://randypellegrini.com).
 
 Looking forward to your feedback and correspondence,
 

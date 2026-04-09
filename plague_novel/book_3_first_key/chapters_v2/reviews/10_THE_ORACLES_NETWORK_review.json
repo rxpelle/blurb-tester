@@ -1,0 +1,870 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_3_first_key/chapters_v2/10_THE_ORACLES_NETWORK.md",
+  "review_date": "2026-03-27T12:10:13.754611",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Proofreader",
+    "Sensitivity Editor",
+    "Copy Editor",
+    "Developmental Editor",
+    "Line Editor",
+    "Scientific Accuracy Editor",
+    "Immersive Experience Editor",
+    "Genre Editor",
+    "Acquisitions Editor",
+    "Historical Authenticity Editor",
+    "Emotional Resonance Editor",
+    "Accessibility Editor"
+  ],
+  "notes": [
+    {
+      "persona": "Proofreader",
+      "severity": "critical",
+      "category": "continuity error",
+      "location": "Scene 1, paragraph 9-11",
+      "issue": "Duplicate text with slight variations - the paragraph about Aristonike's analytical clarity appears twice",
+      "suggestion": "Remove the duplicate paragraph entirely",
+      "example_before": "But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.\n\nUnless Delphi wasn't just one woman with a thin line delivering confused visions.\n\nUnless Delphi was something much more sophisticated.",
+      "example_after": "[Remove this duplicate - the same concept is expressed more clearly in the preceding paragraph]"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "major",
+      "category": "pronoun consistency",
+      "location": "Scene 3, paragraph about pneuma exposure",
+      "issue": "Inconsistent pronoun usage - 'None should serve longer' should match 'each Pythia'",
+      "suggestion": "Change to maintain singular consistency",
+      "example_before": "We limit each Pythia to five-year terms. None should serve longer than ten.",
+      "example_after": "We limit each Pythia to five-year terms. No one should serve longer than ten."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "major",
+      "category": "punctuation",
+      "location": "Scene 5, dialogue",
+      "issue": "Missing closing quotation mark",
+      "suggestion": "",
+      "example_before": "\"There has to be another way, Kleomenes said.",
+      "example_after": "\"There has to be another way,\" Kleomenes said."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "Scene 6, Kiya's dialogue",
+      "issue": "Awkward phrasing with 'extract'",
+      "suggestion": "Use more natural verb",
+      "example_before": "Kiya didn't extract a condition.",
+      "example_after": "Kiya didn't negotiate a condition."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "formatting",
+      "location": "Scene 7, Year markers",
+      "issue": "Inconsistent spacing around year markers",
+      "suggestion": "Standardize spacing",
+      "example_before": "**Year one. 549 BCE.**",
+      "example_after": "**Year One. 549 BCE.**"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "Cultural representation",
+      "location": "Scene 3, paragraph describing rotating Pythias",
+      "issue": "The portrayal of sacred vapor poisoning relies on ancient Greek beliefs without acknowledging potential cultural significance of 'divine madness' or exploring how this practice might be viewed by different cultural perspectives",
+      "suggestion": "Consider adding a brief acknowledgment of how the sacred vapors were viewed as divine communication by practitioners, even while showing the physical toll, to avoid reducing religious practice to mere toxicity",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "Power dynamics",
+      "location": "Scene 3, Aristonike's dialogue about memory loss",
+      "issue": "The narrative frames women's sacrifice for institutional knowledge as noble without sufficiently questioning the system that demands such sacrifice",
+      "suggestion": "Consider having Aristonike or another character explicitly question whether the institutional benefits justify the personal cost, rather than simply accepting it as necessary",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "Agency",
+      "location": "Scene 5, Aristonike's memory dissolution",
+      "issue": "While Aristonike maintains agency in her decision to serve, the ancestral memory plot device risks reducing her to a vessel for ancient personalities",
+      "suggestion": "Strengthen moments where Aristonike asserts her own identity and choices against the ancestral memories to maintain her agency as a character",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "Trauma portrayal",
+      "location": "Scene 7, Year three section",
+      "issue": "The portrayal of memory loss and identity dissolution is handled sensitively, but could benefit from acknowledging the real trauma of losing one's sense of self",
+      "suggestion": "Consider adding brief acknowledgment of how traumatic this experience would be, perhaps through Kleomenes's perspective or Aristonike's own recognition of the loss",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "Historical authenticity",
+      "location": "Throughout",
+      "issue": "The chapter successfully avoids imposing modern gender dynamics while giving female characters meaningful agency and complex roles",
+      "suggestion": "Continue this balanced approach - the historical setting justifies certain limitations while the characters transcend stereotypical roles",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "critical",
+      "category": "repetition",
+      "location": "Scene 1, paragraphs 7-9",
+      "issue": "Identical content repeated in consecutive paragraphs",
+      "suggestion": "Delete one of the repeated segments",
+      "example_before": "But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.\n\nUnless Delphi wasn't just one woman with a thin line delivering confused visions.\n\nUnless Delphi was something much more sophisticated.",
+      "example_after": "But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch. Unless Delphi was something much more sophisticated."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "major",
+      "category": "dialogue punctuation",
+      "location": "Scene 1, paragraph 5",
+      "issue": "Missing comma before dialogue attribution",
+      "suggestion": "Add comma after 'spoke'",
+      "example_before": "The Oracle spoke: \"*If Croesus crosses the Halys, he will destroy a great empire.*\"",
+      "example_after": "The Oracle spoke, \"*If Croesus crosses the Halys, he will destroy a great empire.*\""
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "major",
+      "category": "pronoun reference",
+      "location": "Scene 3, paragraph 3",
+      "issue": "Unclear pronoun reference - 'them' could refer to women or markers",
+      "suggestion": "Specify the antecedent",
+      "example_before": "all showing the markers. All practicing prophecy delivery... She watched them with something between pride and grief.",
+      "example_after": "all showing the markers. All practicing prophecy delivery... She watched the women with something between pride and grief."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "major",
+      "category": "tense consistency",
+      "location": "Scene 4, paragraph 8",
+      "issue": "Inconsistent past tense forms",
+      "suggestion": "Use consistent simple past tense",
+      "example_before": "Outcome: Croesus interpreted favorably, attacked Persia, destroyed his own empire exactly as patterns predicted.",
+      "example_after": "Outcome: Croesus interpreted the prophecy favorably, attacked Persia, and destroyed his own empire exactly as the patterns predicted."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "comma usage",
+      "location": "Scene 2, paragraph 2",
+      "issue": "Missing Oxford comma in series",
+      "suggestion": "Add comma before 'and' in final item",
+      "example_before": "purification in the Castalian Spring, laurel and barley meal on the great altar",
+      "example_after": "purification in the Castalian Spring, and laurel and barley meal on the great altar"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "em-dash usage",
+      "location": "Scene 1, paragraph 5",
+      "issue": "Inconsistent spacing around em-dashes",
+      "suggestion": "Use consistent spacing (no spaces around em-dashes)",
+      "example_before": "His retinue murmured approval \u2014 gold ingots",
+      "example_after": "His retinue murmured approval\u2014gold ingots"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "number style",
+      "location": "Scene 3, paragraph 2",
+      "issue": "Inconsistent number treatment",
+      "suggestion": "Spell out numbers under ten consistently",
+      "example_before": "the 5 who \"interpreted\"",
+      "example_after": "the five who \"interpreted\""
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "word choice",
+      "location": "Scene 5, paragraph 13",
+      "issue": "Awkward phrasing with 'the loss of control'",
+      "suggestion": "Rephrase for clarity",
+      "example_before": "It terrified him. Not the strangeness \u2014 he'd spent his career in strange places. The loss of control.",
+      "example_after": "It terrified him\u2014not the strangeness (he'd spent his career in strange places) but the loss of control."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "formatting",
+      "location": "Throughout",
+      "issue": "Inconsistent use of italics for emphasis vs. thoughts",
+      "suggestion": "Establish clear distinction between emphasis italics and internal thoughts",
+      "example_before": "*collaborative* vs *certain*",
+      "example_after": "Use italics consistently for either emphasis or thoughts, not both"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "structure",
+      "location": "opening scenes",
+      "issue": "Chapter opens with strong momentum but lacks a clear central question for the reader to follow",
+      "suggestion": "Establish early that Kleomenes is investigating whether Delphi represents a fundamental evolution or violation of the network's principles - this becomes the spine of the chapter",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "critical",
+      "category": "pacing",
+      "location": "Scene 3 through Scene 5",
+      "issue": "The romance subplot develops too quickly and dominates the investigative thriller momentum",
+      "suggestion": "Slow the romantic development and keep it secondary to the institutional mystery. The pulse-syncing moment should be brief, more unsettling than romantic",
+      "example_before": "His pulse changed. Not gradually. Immediately... He pushed the thought down. It didn't stay down.",
+      "example_after": "His pulse shifted - briefly, unsettlingly - to match hers before he stepped back. The sensation lingered like an echo of something that shouldn't exist."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "plot logic",
+      "location": "Scene 4",
+      "issue": "The revelation that both networks are collaborating feels like a twist for twist's sake rather than logical progression",
+      "suggestion": "Better foreshadow this collaboration earlier. Show Kleomenes noticing anomalies that only make sense if both networks are involved, building toward this revelation",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "repetitive information",
+      "location": "multiple paragraphs",
+      "issue": "Some information is repeated unnecessarily, slowing pacing",
+      "suggestion": "Remove redundant explanations",
+      "example_before": "Unless Delphi wasn't just one woman with inherited sight. Unless Delphi was something much more sophisticated. But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch. Unless Delphi wasn't just one woman with a thin line delivering confused visions.",
+      "example_after": "Unless Delphi wasn't just one oracle with diluted inheritance. Unless it was something much more sophisticated."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "character arc",
+      "location": "Scenes 5-7",
+      "issue": "Aristonike's memory dissolution arc is powerful but overshadows the main plot investigation",
+      "suggestion": "Integrate her deterioration more tightly with the institutional mystery. Her memory loss should reveal network secrets, not just be tragic backdrop",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "scene purpose",
+      "location": "Scene 6",
+      "issue": "Council scene serves plot function but lacks dramatic tension",
+      "suggestion": "Add more personal stakes. Show how the vote affects specific relationships, not just abstract network politics",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "suggestion",
+      "category": "narrative momentum",
+      "location": "Scene 7",
+      "issue": "Epilogue structure diffuses tension rather than building toward next chapter",
+      "suggestion": "End with a more immediate cliffhanger - perhaps Darius making his move or a new threat emerging from the network split",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "dialogue consistency",
+      "location": "various scenes",
+      "issue": "Some dialogue feels modern rather than period-appropriate",
+      "suggestion": "Maintain more formal register consistent with ancient Greek settings",
+      "example_before": "That's not enough.",
+      "example_after": "It will not suffice."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "redundancy",
+      "location": "paragraph 8-9",
+      "issue": "The same idea is expressed twice in consecutive paragraphs with nearly identical language",
+      "suggestion": "Delete one of these paragraphs entirely - they convey the same information",
+      "example_before": "But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.\n\nUnless Delphi wasn't just one woman with a thin line delivering confused visions.\n\nUnless Delphi was something much more sophisticated.",
+      "example_after": "Unless Delphi wasn't just one woman with inherited sight. Unless it was something much more sophisticated."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "word choice",
+      "location": "throughout",
+      "issue": "Overuse of weak verbs and generic constructions ('was,' 'were,' 'had been')",
+      "suggestion": "Replace with stronger, more specific verbs",
+      "example_before": "Three weeks under cover as a minor priest. White linen robes, barley porridge at dawn, purification in the Castalian Spring",
+      "example_after": "Three weeks masquerading as a minor priest. White linen robes, dawn porridge of barley, ritual purification in the Castalian Spring"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "sentence rhythm",
+      "location": "Scene 2, paragraph 3",
+      "issue": "Monotonous sentence structure - too many short, clipped sentences in succession",
+      "suggestion": "Vary sentence length and combine some for better flow",
+      "example_before": "All of them. Every one.",
+      "example_after": "All of them, every one, showed the same recognition."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph with 'quite'",
+      "issue": "Weak modifier adds nothing",
+      "suggestion": "Delete 'quite' - the meaning is clear without it",
+      "example_before": "couldn't quite see",
+      "example_after": "couldn't see"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "cliche",
+      "location": "Scene 1, final paragraph",
+      "issue": "'went cold' is an overused expression",
+      "suggestion": "Find a more specific, vivid way to show his reaction",
+      "example_before": "Kleomenes, standing in the crowd along the Sacred Way, went cold.",
+      "example_after": "Kleomenes, standing in the crowd along the Sacred Way, felt his breath catch."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "word choice",
+      "location": "Scene 5",
+      "issue": "The phrase 'He pushed the thought down. It didn't stay down' feels mechanical",
+      "suggestion": "Make this more visceral and specific to the character",
+      "example_before": "He pushed the thought down. It didn't stay down.",
+      "example_after": "He tried to dismiss the thought, but it clung like smoke in his chest."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "dialogue tags",
+      "location": "throughout",
+      "issue": "Overuse of 'said' with adverbs instead of stronger action beats",
+      "suggestion": "Replace adverb tags with action that shows the emotion",
+      "example_before": "she said flatly",
+      "example_after": "Her voice went flat."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "passive voice",
+      "location": "Scene 3",
+      "issue": "Passive construction weakens the impact",
+      "suggestion": "Make active for stronger prose",
+      "example_before": "Prolonged exposure does that. Tremors. Memory loss. Confusion that never fully clears.",
+      "example_after": "Prolonged exposure ravages the mind. Tremors. Memory loss. Confusion that never lifts."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "precision",
+      "location": "Scene 7",
+      "issue": "The metaphor 'like a song through an instrument' could be more precise to the setting",
+      "suggestion": "Use a metaphor more grounded in the ancient world",
+      "example_before": "playing through her body like a song through an instrument",
+      "example_after": "flowing through her body like wine through a cracked amphora"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "geological terminology",
+      "location": "Scene 3",
+      "issue": "The text mentions 'sacred vapors' and 'pneuma' as causing neurological effects, implying ethylene or similar gas emissions. While Delphi did have geological features that could produce gases, the specific neurological effects described (memory loss, tremors, confusion) are more consistent with chronic heavy metal poisoning or specific neurotoxins rather than the ethylene that geological studies suggest was present at Delphi.",
+      "suggestion": "Consider specifying the nature of the vapors more precisely or acknowledge that the specific neurological pattern described is part of the fictional elements. The effects described are plausible for certain toxins but not typically associated with ethylene exposure.",
+      "example_before": "The sacred vapors. Prolonged exposure does that. Tremors. Memory loss. Confusion that never fully clears.",
+      "example_after": "The sacred vapors\u2014whatever mixture of gases rises from the geological fissures beneath the temple. Prolonged exposure does that. Tremors. Memory loss. Confusion that never fully clears."
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "medical accuracy",
+      "location": "Scene 5",
+      "issue": "The synchronized pulse between Kleomenes and Aristonike is described in a way that suggests physiological entrainment, which is a real phenomenon but typically requires specific conditions (like synchronized breathing or prolonged close contact) and wouldn't be as immediate or dramatic as described.",
+      "suggestion": "Either ground this more realistically in known physiological entrainment or present it more clearly as a supernatural/inherited memory phenomenon rather than a purely physical response.",
+      "example_before": "His heart locked into a rhythm that wasn't his \u2014 her rhythm, matching without permission.",
+      "example_after": "His heart shifted toward her rhythm\u2014the physiological entrainment that sometimes occurred between people in close proximity, amplified by whatever connection their shared bloodline created."
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "technical plausibility",
+      "location": "Scene 7",
+      "issue": "The progression of Aristonike's neurological decline follows a pattern more consistent with dementia or specific neurological diseases than with toxin exposure. While this could be intentional for narrative purposes, it might be worth acknowledging that the specific pattern (personality preservation with memory loss, language switching) is complex.",
+      "suggestion": "The progression is medically plausible for certain conditions, but consider briefly acknowledging that the specific pattern of decline is unusual and possibly related to her unique circumstances.",
+      "example_before": "The pneuma haze. Just \u2014 absence. As if the woman behind the eyes had stepped out of the room",
+      "example_after": "The pneuma haze mixed with something deeper\u2014the kind of absence that spoke of neural pathways reorganizing themselves around damage, memories competing for the same deteriorating space."
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "internal consistency",
+      "location": "Multiple scenes",
+      "issue": "The text establishes that carriers have recognition abilities and inherited memories, but the mechanism by which this works alongside the gas-induced neurological effects could be clearer. Are the inherited memories becoming stronger because the gas weakens her own memories, or is there another mechanism?",
+      "suggestion": "A brief clarification of how the toxic exposure interacts with inherited memory would strengthen the internal logic.",
+      "example_before": "Their memories are stronger than mine. Clearer. More vivid. I'm losing a competition with dead women for control of my own mind.",
+      "example_after": "The vapors eat away the barriers that normally keep inherited memories dormant. As my own neural pathways weaken, theirs become the stronger signal. I'm losing a competition with dead women for control of my own mind."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "sensory grounding",
+      "location": "Scene 1, opening paragraphs",
+      "issue": "The Oracle's prophecy delivery lacks visceral sensory detail - we're told it happens but don't experience the sacred setting",
+      "suggestion": "Ground the prophecy scene in specific sensory details of the sacred space",
+      "example_before": "The Oracle spoke: 'If Croesus crosses the Halys, he will destroy a great empire.'",
+      "example_after": "Sweet smoke billowed from the sacred chasm as the Pythia's voice rose from the adyton, hoarse with sacred vapor: 'If Croesus crosses the Halys, he will destroy a great empire.' The sulfurous reek of pneuma clung to her words like incense to wool."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "critical",
+      "category": "showing vs telling",
+      "location": "Scene 1, Kleomenes's reaction",
+      "issue": "Kleomenes 'went cold' is pure telling - we need his physical response to show the recognition",
+      "suggestion": "Show his body's reaction to understanding the deception",
+      "example_before": "Kleomenes, standing in the crowd along the Sacred Way, went cold.",
+      "example_after": "Kleomenes felt his breath catch in his throat. His palms grew slick against the rough wool of his cloak as the crowd's murmurs of approval washed over him like mockery."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "emotional resonance",
+      "location": "Scene 3, Aristonike's memory confusion",
+      "issue": "The pomegranate garden memory needs more visceral sensory detail to make the disorientation felt",
+      "suggestion": "Deepen the sensory experience of the false memory",
+      "example_before": "'My mother's garden had pomegranates,' she said. 'The tree was old. Bent. The fruit split open in summer and the wasps came...'",
+      "example_after": "'My mother's garden had pomegranates,' she said, and suddenly she could taste the sweet-tart juice on her tongue, feel the papery seeds between her teeth. 'The tree was old. Bent. The fruit split open in summer and the wasps came, drunk on the fermenting flesh, and she'd brush them away with her bare hands while the juice stained her fingers red...'"
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "visceral moments",
+      "location": "Scene 5, pulse synchronization",
+      "issue": "The supernatural connection lacks physical immediacy - too much analysis, not enough sensation",
+      "suggestion": "Lead with the body's experience before the mind's interpretation",
+      "example_before": "Kleomenes' pulse changed. Not gradually. Immediately. His heart locked into a rhythm that wasn't his \u2014 her rhythm, matching without permission.",
+      "example_after": "His heart stumbled, then caught a rhythm that wasn't his own. Kleomenes felt it like a hook behind his sternum, tugging his pulse into lockstep with hers. The sensation crawled up his throat, pounded in his wrists, until even his breathing matched the rise and fall of her chest."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "sensory detail",
+      "location": "Scene 6, council meeting",
+      "issue": "The confrontational meeting lacks physical environment and tension markers",
+      "suggestion": "Add the room's atmosphere and physical tension",
+      "example_before": "Kiya \u2014 Generation 18, forty years running the Memphis safe house \u2014 stood so fast her chair scraped stone.",
+      "example_after": "The oil lamps guttered in the sudden draft as Kiya shot to her feet, her chair grinding against stone. The sound echoed off the chamber walls like a challenge, and Kleomenes felt the temperature in the room drop."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "showing vs telling",
+      "location": "Scene 7, year three",
+      "issue": "Aristonike's confusion when she calls him Amenhotep needs more physical grounding",
+      "suggestion": "Show her disorientation through physical details",
+      "example_before": "Her eyes refocused. The softness drained.",
+      "example_after": "Her pupils contracted as if adjusting to sudden light. She blinked rapidly, her hand dropping from his arm like she'd touched a snake."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "suggestion",
+      "category": "sensory detail",
+      "location": "Throughout",
+      "issue": "Limited use of smell and taste to ground scenes in the temple environment",
+      "suggestion": "Integrate more olfactory details - incense, sacred vapors, mountain air, food, etc.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "ideas-drive-plot failure",
+      "location": "entire chapter",
+      "issue": "Chapter lacks a central intellectual discovery or mystery driving the plot forward. The revelation that Delphi operates as an institutional network is presented as exposition rather than a thriller-worthy puzzle that demands solving.",
+      "suggestion": "Restructure around a specific intellectual mystery: What if Kleomenes discovers the Oracle's prophecies contain impossible information - details about distant events that haven't happened yet, or knowledge no human intelligence network could gather? This creates a genuine puzzle that drives investigation.",
+      "example_before": "The first thing he noticed: the Hosioi priests \u2014 the five who \"interpreted\" the Pythia's ecstatic utterances \u2014 took shifts.",
+      "example_after": "The first thing he noticed: the Oracle had described the exact layout of Cyrus's war camp three days before Cyrus had chosen the location himself. No intelligence network could explain that."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "scenes 2-4",
+      "issue": "The discovery sequence lacks escalating tension. Kleomenes finds evidence too easily, and revelations are delivered through exposition rather than mounting suspense.",
+      "suggestion": "Create obstacles and near-misses. Have Kleomenes almost caught multiple times, force him to piece together fragmentary clues, make each revelation raise higher stakes questions.",
+      "example_before": "Found scrolls organized not by date but by region",
+      "example_after": "The scroll crumbled as he touched it, but not before he glimpsed coordinates that shouldn't exist - a mapping system centuries ahead of current Greek mathematics."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "intellectual stakes",
+      "location": "scene 3-4",
+      "issue": "The stakes feel administrative rather than existential. Learning that Delphi is an organized network is interesting but not thrilling. Missing the 'what if this changes everything' element.",
+      "suggestion": "Raise the philosophical stakes: What if the Oracle's accuracy comes from accessing future memories, not just intelligence networks? This questions the nature of time, causation, and free will - classic intellectual thriller territory.",
+      "example_before": "We're an institutional network. Coordinated. Systematic.",
+      "example_after": "We don't predict the future. We remember it. The pneuma doesn't cause visions - it dissolves the barrier between past and future memory."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "chapter ending",
+      "location": "final scene",
+      "issue": "Chapter ends on an emotional note rather than a compelling intellectual cliffhanger. Readers aren't compelled to discover what happens next intellectually.",
+      "suggestion": "End with a paradox or impossible discovery that demands explanation: Kleomenes finds evidence that the Oracle predicted its own predictions, creating a causality loop that shouldn't be possible.",
+      "example_before": null,
+      "example_after": "In the archive's deepest vault, Kleomenes found Aristonike's prophecy from fifteen years ago - describing in perfect detail the conversation they'd just finished having, including words he was certain he'd never spoken before."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "information reveal strategy",
+      "location": "scenes 3-5",
+      "issue": "Information is dumped in large blocks rather than parceled strategically. The collaborative network revelation kills mystery rather than deepening it.",
+      "suggestion": "Reveal information in fragments that raise new questions. Each answer should spawn two new mysteries. Use the collaboration reveal to introduce a larger puzzle rather than resolve the current one.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "minor",
+      "category": "genre conventions",
+      "location": "scene 6",
+      "issue": "The council politics scene feels more like historical drama than intellectual thriller. Lacks the puzzle-solving momentum expected in this genre.",
+      "suggestion": "Frame the political conflict around a specific intellectual dilemma: What happens when two different methodologies for accessing inherited memory produce contradictory results? Which version of the 'truth' is accurate?",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "suggestion",
+      "category": "comp title alignment",
+      "location": "overall structure",
+      "issue": "Chapter reads more like literary historical fiction than the puzzle-driven narrative that Eco or Brown fans expect. Missing the 'race to solve the mystery' element.",
+      "suggestion": "Add time pressure and competing investigators. Maybe Amenhotep's network is also trying to solve the same puzzle, creating a race for discovery that drives momentum.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "critical",
+      "category": "hook strength",
+      "location": "opening scene",
+      "issue": "The famous Croesus prophecy is historically powerful but buried in backstory exposition. This reads like middle book material, not a hook that grabs new readers.",
+      "suggestion": "Lead with Kleomenes's visceral realization in real-time: 'That wasn't prophecy. That was assassination by ambiguity.' Then cut to him breaking into archives. Start with action, not historical setup.",
+      "example_before": "The Oracle spoke: 'If Croesus crosses the Halys, he will destroy a great empire.' The wealthiest king in the known world smiled...",
+      "example_after": "Kleomenes went cold as Croesus walked away smiling. That wasn't prophecy\u2014that was a death sentence wrapped in divine clothing. And no single oracle should be capable of that level of precision."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "market fit",
+      "location": "institutional network reveal",
+      "issue": "The conspiracy revelation feels academic rather than visceral. Intellectual thriller readers expect emotional stakes with their puzzle-solving.",
+      "suggestion": "When Kleomenes discovers the joint network operation, emphasize personal betrayal and danger. His mentor at Athens is implicated? His life is at risk? Make it personal before making it institutional.",
+      "example_before": "The messages weren't hostile. They were... collaborative.",
+      "example_after": "The messages weren't hostile. They were collaborative. Which meant everything Kleomenes had been taught about the network war was a lie\u2014and everyone in Athens who'd sent him here knew it."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "pacing",
+      "location": "scenes 3-6",
+      "issue": "The middle section becomes exposition-heavy. Too much standing around explaining systems when the chapter needs forward momentum.",
+      "suggestion": "Cut 30% of the institutional explanation. Keep Kleomenes moving\u2014fleeing discovery, racing against time, making active choices under pressure. Less briefing, more thriller mechanics.",
+      "example_before": "Five women, ages ranging from early twenties to late sixties, all showing the markers. All practicing prophecy delivery.",
+      "example_after": "Five women practicing prophecy delivery. Kleomenes had thirty seconds before the guard rotation returned. He counted trembling hands, vacant stares\u2014the cost of systematized sight."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "uniqueness",
+      "location": "oracle network concept",
+      "issue": "The 'ancient conspiracy' angle isn't distinctive enough. Every historical thriller has hidden knowledge. What makes this different?",
+      "suggestion": "Emphasize the inherited memory aspect more strongly. This isn't just ancient knowledge\u2014it's personalities bleeding through genetics. That's genuinely unique and deeply unsettling.",
+      "example_before": "We turned the noise into signal.",
+      "example_after": "We don't just inherit the sight. We inherit their memories, their voices, their loves. I'm losing myself to women who died centuries ago, and their personalities are stronger than mine."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "series potential",
+      "location": "chapter ending",
+      "issue": "Sets up tragic romance but doesn't establish clear ongoing questions for next books. Where does the larger plot go from here?",
+      "suggestion": "End with a specific threat or discovery that propels into Book 4. Perhaps Aristonike sees something in her final prophetic moments that changes everything about the larger mythology.",
+      "example_before": "Below them on the Sacred Way, a Lydian merchant was asking a priest about Croesus's war with Persia.",
+      "example_after": "Below them, a Persian messenger was climbing toward the temple. In three days, Cyrus would demand tribute. In six months, Aristonike would prophecy his death\u2014and realize she'd seen not just his ending, but the beginning of something much worse."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "readability",
+      "location": "pneuma poisoning scenes",
+      "issue": "The memory dissolution sequences are powerful but might be too literary for thriller pacing.",
+      "suggestion": "Intersperse more action beats during the memory loss scenes. Show don't tell through behavior rather than internal monologue.",
+      "example_before": "Her eyes were soft, unfocused, looking at someone behind his face.",
+      "example_after": "She reached for the wrong scroll\u2014one written in hieratic, not Greek. Her hand moved with centuries-old muscle memory for tools that hadn't existed for eight hundred years."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "suggestion",
+      "category": "blurb material",
+      "location": "prophecy ambiguity concept",
+      "issue": "Great premise for marketing copy but needs sharper expression in the text.",
+      "suggestion": "Create one killer line about prophecies as weapons. Something like: 'Every prediction was a loaded gun\u2014the only question was whether the client would pull the trigger.'",
+      "example_before": "The Oracle doesn't prevent collapse. We just show it coming.",
+      "example_after": "We don't prevent disasters. We just hand people the gun and let them choose whether to fire."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "critical",
+      "category": "anachronism - writing materials",
+      "location": "paragraph describing temple archives",
+      "issue": "Papyrus scrolls and wax tablets coexisting in pigeonhole shelves is problematic. In 550 BCE, papyrus was extremely expensive and would not be stored in simple pigeonhole shelving alongside wax tablets.",
+      "suggestion": "Either use primarily wax tablets for routine records with precious papyrus reserved for only the most important documents, or describe more elaborate storage befitting expensive materials - cedar chests with linen wrappings.",
+      "example_before": "wooden pigeonhole shelves holding wax tablets and papyrus scrolls",
+      "example_after": "cedar chests containing precious papyrus scrolls, with routine records kept on wax tablets in wooden pigeonholes"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "critical",
+      "category": "anachronism - social norms",
+      "location": "Scene 6, Council meeting",
+      "issue": "The democratic voting process (counting votes, formal proposals, parliamentary procedure) is anachronistic for 550 BCE Greek culture. Decision-making would be more consensus-based or hierarchical.",
+      "suggestion": "Reframe as elder council discussion with senior members speaking by precedence, ending in consensus or elder decree rather than formal vote counting.",
+      "example_before": "counted the votes before they were cast. Six committed... Eleven to nine. Approved",
+      "example_after": "read the council's mood... The senior elders nodded their assent one by one, until only Kiya's faction remained opposed"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - language register",
+      "location": "throughout dialogue",
+      "issue": "Phrases like 'plausible deniability,' 'intelligence summaries,' 'operational distance,' and 'joint operations' are modern military/intelligence terminology completely foreign to 6th century BCE.",
+      "suggestion": "Replace with period-appropriate concepts: 'shared wisdom,' 'gathered knowledge,' 'sacred distance,' 'coordinated counsel.'",
+      "example_before": "plausible deniability for both networks",
+      "example_after": "divine protection for both sacred lines"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "material culture - architecture",
+      "location": "temple complex description",
+      "issue": "Bronze pin locks and pivot-socket doors are described but 6th century BCE Delphi would more likely use wooden bars, rope bindings, or simple bronze latches.",
+      "suggestion": "Use wooden beam barriers or bronze latches consistent with known 6th century Greek temple security.",
+      "example_before": "sealed with a bronze pin",
+      "example_after": "barred with a heavy oak beam"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - concepts",
+      "location": "discussion of 'institutional cover' and 'operational network'",
+      "issue": "The concept of institutional cover and operational networks reflects modern intelligence methodology. Ancient Greeks would think in terms of sacred mysteries, divine service, or ritual obligations.",
+      "suggestion": "Reframe using concepts of sacred service, mystery cults, or divine calling that would resonate with the period.",
+      "example_before": "institutional cover, systematic intelligence collection",
+      "example_after": "sacred mysteries, gathered wisdom from divine sources"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "material culture - food",
+      "location": "description of temple routine",
+      "issue": "Barley porridge is appropriate, but the casual mention needs context. Temple food would be more ritually significant.",
+      "suggestion": "Emphasize the sacred nature of temple meals - 'sacred barley prepared at dawn for purification' rather than casual 'barley porridge.'",
+      "example_before": "barley porridge at dawn",
+      "example_after": "sacred barley prepared at dawn for ritual purification"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "cultural detail - religious practice",
+      "location": "purification ritual description",
+      "issue": "The Castalian Spring purification is accurate, but the sequence of rituals (spring, then altar offerings) should be emphasized as required religious practice, not routine.",
+      "suggestion": "Add more weight to these as sacred obligations rather than mundane tasks.",
+      "example_before": "purification in the Castalian Spring, laurel and barley meal on the great altar",
+      "example_after": "the required purification in Apollo's sacred Castalian Spring, followed by the dawn offering of laurel and barley meal"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "suggestion",
+      "category": "historical accuracy - geography",
+      "location": "references to Memphis safe house",
+      "issue": "While Memphis existed in 550 BCE, it was under Persian control. A 'safe house' there would be operating in occupied territory, which should be acknowledged.",
+      "suggestion": "Add a brief reference to Persian oversight or the challenges of operating under foreign rule.",
+      "example_before": "forty years running the Memphis safe house",
+      "example_after": "forty years running the Memphis safe house, even through the Persian conquest"
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "critical",
+      "category": "emotional pacing",
+      "location": "Scene 3 - Aristonike's memory loss revelation",
+      "issue": "The emotional devastation of losing one's identity is rushed through in exposition. This should be the chapter's emotional climax but feels intellectualized rather than felt.",
+      "suggestion": "Show her confusion in real-time through fragmented dialogue and behavior before explaining it. Let us witness a moment where she loses herself, then recovers, so we feel the horror alongside Kleomenes.",
+      "example_before": "\"The gas eats the walls between memories. Mine and theirs. I used to know which were which.\"",
+      "example_after": "She stopped mid-sentence, staring at her hands. \"My daughter liked to braid flowers. Little white ones from the\u2014\" Her face changed. \"I don't have a daughter. I never... whose daughter was that?\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "character vulnerability",
+      "location": "Scene 5 - The romantic moment",
+      "issue": "Kleomenes's emotional transformation from investigator to lover feels abrupt. His vulnerability is told rather than shown, making their connection feel manufactured rather than earned.",
+      "suggestion": "Build his emotional investment earlier through smaller moments of connection. Show his growing concern through actions and internal conflict before the revelation scene.",
+      "example_before": "\"Because you need someone who can learn the system before you can't run it anymore.\"",
+      "example_after": "He'd watched her steady her trembling hand against his arm three times this week. Each time, something in his chest had tightened\u2014not professional concern, but something rawer. \"Because I can't leave you to face this alone.\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional stakes",
+      "location": "Scene 6 - Network split",
+      "issue": "Kiya's departure should feel like a betrayal or tragedy, but it reads as political maneuvering. The emotional cost of splitting the network isn't felt by characters or readers.",
+      "suggestion": "Show the personal relationships being severed. Give Kleomenes and Kiya shared history that makes her departure personally painful, not just strategically problematic.",
+      "example_before": "\"You broke it when you brought the proposal.\"",
+      "example_after": "\"Thirty years, Kleomenes. Since we were children in the same training cohort. I taught you the memory exercises. You held my hand through your first prophetic vision.\" Her voice cracked. \"And now you're asking me to watch you become everything we swore to prevent.\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional truth",
+      "location": "Scene 7 - Aristonike's decline",
+      "issue": "The progression of her memory loss is clinically described rather than emotionally experienced. We should feel devastated, but it reads like a medical report.",
+      "suggestion": "Focus on specific, intimate moments of loss rather than general progression. Show her forgetting something precious about Kleomenes specifically, not just generic confusion.",
+      "example_before": "She looked at him, and for three seconds her eyes were blank.",
+      "example_after": "\"I'm sorry, I don't\u2014who are you?\" The question was polite, careful. She looked at him the way you look at a stranger whose name you should remember. Three seconds that lasted forever, before recognition flooded back. \"Oh. Oh, Kleomenes. I'm sorry, I\u2014\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "reader connection",
+      "location": "Opening scene - Croesus prophecy",
+      "issue": "The opening lacks emotional hook. We're observing cleverness rather than feeling invested in the stakes.",
+      "suggestion": "Give us a glimpse of Kleomenes's emotional reaction to realizing the Oracle's sophistication before diving into analysis.",
+      "example_before": "Kleomenes, standing in the crowd along the Sacred Way, went cold.",
+      "example_after": "Kleomenes felt his stomach drop. He'd spent months tracking diluted bloodlines, assuming Delphi was just another fading echo. But this\u2014this was something else entirely. Something that could reshape the world."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "emotional subtlety",
+      "location": "Scene 5 - Synchronized heartbeat",
+      "issue": "The mystical connection is overwrought and pulls away from the human emotion. The supernatural element overshadows the genuine attraction.",
+      "suggestion": "Ground the connection in smaller, more human details. Let their attraction build through shared purpose and mutual recognition rather than mystical synchronization.",
+      "example_before": "His pulse changed. Not gradually. Immediately. His heart locked into a rhythm that wasn't his\u2014her rhythm, matching without permission.",
+      "example_after": "When she steadied herself against his arm, he noticed she was exactly the right height to fit against his shoulder. Something so simple, so ordinary, and it undid three weeks of professional distance."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "critical",
+      "category": "concept accessibility",
+      "location": "Scene 1, paragraph 3",
+      "issue": "Complex geopolitical analysis explanation lacks accessible breakdown",
+      "suggestion": "Break down 'precise piece of geopolitical analysis' into simpler terms that show the reader what Kleomenes sees",
+      "example_before": "That wasn't prophecy. That was a precise piece of geopolitical analysis wrapped in divine clothing \u2014 ambiguous enough to pass as Apollo's blessing, lethal enough to warn anyone trained to read it.",
+      "example_after": "That wasn't prophecy. That was politics disguised as divine blessing. The Oracle had told Croesus exactly what would happen if he attacked\u2014but in words that could mean two different things. Either 'you'll destroy the Persian empire' or 'you'll destroy your own empire.' Croesus heard what he wanted to hear."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "jargon management",
+      "location": "Scene 2, throughout",
+      "issue": "Technical terms like 'adyton,' 'Hosioi priests,' 'pivot-socket door' create barriers without adequate context",
+      "suggestion": "Introduce specialized vocabulary through character experience with brief, natural explanations",
+      "example_before": "Found scrolls organized not by date but by region: Lydia, Ionia, Egypt, the Levant.",
+      "example_after": "Found scrolls organized not by date but by region\u2014different countries and kingdoms: Lydia, Ionia, Egypt, the Levant."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "exposition balance",
+      "location": "Scene 3, Aristonike's explanation",
+      "issue": "Dense information dump about Oracle rotation system delivered as lecture",
+      "suggestion": "Show the system through what Kleomenes observes first, then have Aristonike fill gaps naturally",
+      "example_before": "Diluted bloodlines. Recruited. Trained in the seeing. Rotated through the Pythia role... We turned the noise into signal.",
+      "example_after": "Kleomenes watched the women practice\u2014some young, some old, all moving with that same distant look he'd learned to recognize. 'You train multiple oracles?' he asked. 'Five-year rotations,' Aristonike said. 'The gas... it damages the mind if you breathe it too long.'"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "concept accessibility",
+      "location": "Scene 3, pneuma poisoning explanation",
+      "issue": "Medical/neurological effects need clearer, more visceral explanation",
+      "suggestion": "Show the effects through concrete details that a general reader can understand",
+      "example_before": "The sacred vapors. Prolonged exposure does that. Tremors. Memory loss. Confusion that never fully clears.",
+      "example_after": "The sacred gases that rise from the earth\u2014they poison the mind slowly. First your hands shake. Then you start forgetting things. Eventually you can't tell your own memories from dreams."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "reader orientation",
+      "location": "Scene 4, network collaboration reveal",
+      "issue": "The 'twist' about cooperation lacks sufficient setup and explanation for general readers",
+      "suggestion": "Provide more context about why this cooperation matters and what it violates",
+      "example_before": "The messages weren't hostile. They were... collaborative.",
+      "example_after": "The messages weren't hostile. They were working together\u2014the two networks that had split apart centuries ago because they couldn't agree on how to use their power. Now they were sharing information like old friends."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "character-driven explanation",
+      "location": "Scene 4, compact violation discussion",
+      "issue": "Abstract concepts like 'the compact' need grounding in character understanding",
+      "suggestion": "Have characters explain what 'evolving the compact' means in practical terms",
+      "example_before": "We're evolving it.",
+      "example_after": "We're changing the rules. The original agreement was that we'd never work together. But when we combine what we know\u2014their strategy, our visions\u2014we can actually help people without controlling them."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "concept accessibility",
+      "location": "Scene 5, inherited emotion concept",
+      "issue": "Complex philosophical idea about inherited vs. chosen feelings needs clearer explanation",
+      "suggestion": "Break down the concept through Kleomenes's direct experience and thoughts",
+      "example_before": "What if this wasn't Kleomenes and Aristonike? What if this was the original pair, running through descendants like water through old channels, and the two of them were just the latest vessels to mistake the echo for something new?",
+      "example_after": "Was this really him falling for her? Or was it just an ancient memory playing out again\u2014Nefertari and Amenhotep's love story, programmed into their blood, making him feel things that belonged to people who'd been dead for eight hundred years?"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "jargon management",
+      "location": "Scene 6, council meeting",
+      "issue": "'Memphis safe house' and operational terminology could be clearer",
+      "suggestion": "Use more accessible terms or provide brief context",
+      "example_before": "Forty years running the Memphis safe house",
+      "example_after": "Forty years running our operation in Memphis\u2014the hidden network that helps people escape when their cities fall"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "suggestion",
+      "category": "character-driven explanation",
+      "location": "Scene 7, memory dissolution",
+      "issue": "Aristonike's condition could be more viscerally demonstrated",
+      "suggestion": "Show specific moments of confusion that readers can easily understand",
+      "example_before": "She called him Amenhotep.",
+      "example_after": "She turned to ask him about the schedule, and when she looked at him, her eyes went soft. 'Amenhotep,' she said, reaching for his hand. 'Can you help me read this? My eyes aren't what they used to be.' She was looking at him like she'd known him for decades."
+    }
+  ],
+  "summary": "Review complete: 84 notes from 12 personas. Critical: 10, Major: 35, Minor: 25, Suggestions: 14. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 10,
+    "major": 35,
+    "minor": 25,
+    "suggestion": 14,
+    "total": 84
+  }
+}

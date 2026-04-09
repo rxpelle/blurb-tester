@@ -1,0 +1,1164 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e5] [cursor=pointer]:
+        - /url: "#AACApplicationBody"
+      - generic [ref=e7]:
+        - link "Amazon Advertising Console" [ref=e8] [cursor=pointer]:
+          - /url: /mn
+          - img "Amazon Advertising Console" [ref=e9]
+        - generic [ref=e11]:
+          - link "Campaigns." [ref=e12] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+            - generic [ref=e14]: Campaigns
+          - switch "Set Campaigns as your homepage" [ref=e16] [cursor=pointer]:
+            - img [ref=e18]
+            - generic [ref=e20]: Set Campaigns as your homepage
+        - generic [ref=e21]:
+          - button "Randy Pellegrini Sponsored ads, multiple countries" [ref=e266] [cursor=pointer]:
+            - generic [ref=e268]:
+              - paragraph [ref=e269]: Randy Pellegrini
+              - paragraph [ref=e270]: Sponsored ads, multiple countries
+          - button "See my notifications" [ref=e30] [cursor=pointer]:
+            - img [ref=e32]
+            - generic [ref=e34]: See my notifications
+          - button "Open the help panel" [ref=e37] [cursor=pointer]:
+            - img [ref=e39]
+            - generic [ref=e41]: Open the help panel
+          - button "Your preferences" [ref=e44] [cursor=pointer]:
+            - img [ref=e46]
+            - generic [ref=e48]: Your preferences
+    - generic [ref=e50]:
+      - generic [ref=e52]:
+        - button "Create campaign" [ref=e54] [cursor=pointer]:
+          - img "Create campaign" [ref=e56]
+          - generic [ref=e59]: Create campaign
+        - link "Campaigns" [ref=e61] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Campaigns" [ref=e63]
+          - generic [ref=e65]:
+            - generic [ref=e66]: Campaigns
+            - generic:
+              - generic:
+                - switch "Set Campaigns as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Campaigns as your homepage
+        - link "Recommendations" [ref=e68] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Recommendations" [ref=e70]
+          - generic [ref=e75]:
+            - generic [ref=e76]: Recommendations
+            - generic:
+              - generic:
+                - switch "Set Recommendations as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Recommendations as your homepage
+        - generic [ref=e77]:
+          - button "Show links under Creative tools" [ref=e79] [cursor=pointer]:
+            - img "Creative tools" [ref=e81]
+          - generic [ref=e84]:
+            - generic [ref=e85] [cursor=pointer]:
+              - link "Creative assets" [ref=e86]:
+                - /url: https://advertising.amazon.com/creative-assets?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - generic:
+                  - switch "Set Creative assets as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Creative assets as your homepage
+            - generic [ref=e87] [cursor=pointer]:
+              - link "Creative Studio" [ref=e88]:
+                - /url: https://advertising.amazon.com/creative-studio?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic [ref=e89]:
+                - generic "Beta_ai_with_icon" [ref=e90]:
+                  - generic [ref=e92]:
+                    - text: Beta
+                    - img [ref=e94]
+                    - text: AI
+                - generic:
+                  - switch "Set Creative Studio as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Creative Studio as your homepage
+            - generic [ref=e96] [cursor=pointer]:
+              - link "Translations" [ref=e97]:
+                - /url: https://advertising.amazon.com/translations?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - generic:
+                  - switch "Set Translations as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Translations as your homepage
+        - link "Ads planner" [ref=e99] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Ads planner" [ref=e101]
+          - generic [ref=e103]:
+            - generic [ref=e104]: Ads planner
+            - generic:
+              - generic:
+                - switch "Set Ads planner as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Ads planner as your homepage
+        - generic [ref=e105]:
+          - button "Show links under Measurement & reporting" [ref=e107] [cursor=pointer]:
+            - img "Measurement & reporting" [ref=e109]
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - generic [ref=e113] [cursor=pointer]:
+                - link "Amazon Attribution" [ref=e114]:
+                  - /url: https://advertising.amazon.com/attribution?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e115]:
+                  - generic "Beta" [ref=e116]:
+                    - generic [ref=e117]: Beta
+                  - generic:
+                    - switch "Set Amazon Attribution as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Amazon Attribution as your homepage
+              - generic [ref=e118] [cursor=pointer]:
+                - link "Amazon Marketing Cloud" [ref=e119]:
+                  - /url: https://advertising.amazon.com/marketing-cloud?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Amazon Marketing Cloud as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Amazon Marketing Cloud as your homepage
+              - separator
+            - generic [ref=e121]:
+              - generic [ref=e122] [cursor=pointer]:
+                - link "Reporting" [ref=e123]:
+                  - /url: https://advertising.amazon.com/reporting?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e124]:
+                  - generic "Beta" [ref=e125]:
+                    - generic [ref=e126]: Beta
+                  - generic:
+                    - switch "Set Reporting as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Reporting as your homepage
+              - generic [ref=e127] [cursor=pointer]:
+                - link "Sponsored ads reports" [ref=e128]:
+                  - /url: https://advertising.amazon.com/reports?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Sponsored ads reports as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Sponsored ads reports as your homepage
+              - generic [ref=e129] [cursor=pointer]:
+                - link "Brand lift studies" [ref=e130]:
+                  - /url: https://advertising.amazon.com/studies?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Brand lift studies as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Brand lift studies as your homepage
+        - generic [ref=e131]:
+          - button "Show links under Tools & resources" [ref=e133] [cursor=pointer]:
+            - img "Tools & resources" [ref=e135]
+          - generic [ref=e137]:
+            - generic [ref=e138]:
+              - generic [ref=e139]: MORE ADVERTISING TOOLS
+              - generic [ref=e140] [cursor=pointer]:
+                - link "Partner Directory" [ref=e141]:
+                  - /url: https://advertising.amazon.com/partners/directory?ref_=ad_cons_more_ads_tools_nav
+                - img [ref=e144]
+              - generic [ref=e146] [cursor=pointer]:
+                - link "Amazon Ads Academy" [ref=e147]:
+                  - /url: https://advertising.amazon.com/academy?ref_=advcnsl_us_aaa_gw
+                - img [ref=e150]
+              - separator
+            - generic [ref=e153]:
+              - generic [ref=e154]: AMAZON SELLING TOOLS
+              - generic [ref=e155] [cursor=pointer]:
+                - link "Kindle Direct Publishing" [ref=e156]:
+                  - /url: https://kdp.amazon.com/?ref_=AAC_gnav_KDP_linkback
+                - img [ref=e159]
+        - button "All tools" [ref=e162] [cursor=pointer]:
+          - img "All tools" [ref=e164]
+          - generic [ref=e167]: All tools
+        - generic [ref=e168]:
+          - button "Show links under Administration" [ref=e170] [cursor=pointer]:
+            - img "Administration" [ref=e172]
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - generic [ref=e176] [cursor=pointer]:
+                - link "Account access & settings" [ref=e177]:
+                  - /url: https://advertising.amazon.com/user/management?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Account access & settings as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Account access & settings as your homepage
+              - separator
+            - generic [ref=e179]:
+              - generic [ref=e180]: BILLING & PAYMENT
+              - generic [ref=e181] [cursor=pointer]:
+                - link "Billing" [ref=e182]:
+                  - /url: https://advertising.amazon.com/billing/history?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e183]:
+                  - generic "New" [ref=e184]:
+                    - generic [ref=e185]: New
+                  - generic:
+                    - switch "Set Billing as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Billing as your homepage
+      - generic:
+        - generic:
+          - generic "Create campaign":
+            - img "Create campaign"
+            - generic:
+              - generic: Create campaign
+        - generic:
+          - link "Campaigns":
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Campaigns"
+            - generic:
+              - generic: Campaigns
+        - generic:
+          - link "Recommendations":
+            - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Recommendations"
+            - generic:
+              - generic: Recommendations
+        - generic:
+          - generic "Show links under Creative tools":
+            - img "Creative tools"
+            - generic: Creative tools
+          - generic:
+            - generic:
+              - generic:
+                - link "Creative assets":
+                  - /url: https://advertising.amazon.com/creative-assets?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - link "Creative Studio":
+                  - /url: https://advertising.amazon.com/creative-studio?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta_ai_with_icon":
+                    - generic:
+                      - generic:
+                        - text: Beta
+                        - generic:
+                          - img
+                        - text: AI
+              - generic:
+                - link "Translations":
+                  - /url: https://advertising.amazon.com/translations?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - link "Ads planner":
+            - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Ads planner"
+            - generic:
+              - generic: Ads planner
+        - generic:
+          - generic "Show links under Measurement & reporting":
+            - img "Measurement & reporting"
+            - generic: Measurement & reporting
+          - generic:
+            - generic:
+              - generic:
+                - link "Amazon Attribution":
+                  - /url: https://advertising.amazon.com/attribution?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta":
+                    - generic: Beta
+              - generic:
+                - link "Amazon Marketing Cloud":
+                  - /url: https://advertising.amazon.com/marketing-cloud?entityId=ENTITY1SABYJ3Y7NOJU
+              - separator
+            - generic:
+              - generic:
+                - link "Reporting":
+                  - /url: https://advertising.amazon.com/reporting?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta":
+                    - generic: Beta
+              - generic:
+                - link "Sponsored ads reports":
+                  - /url: https://advertising.amazon.com/reports?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - link "Brand lift studies":
+                  - /url: https://advertising.amazon.com/studies?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - generic "Show links under Tools & resources":
+            - img "Tools & resources"
+            - generic: Tools & resources
+          - generic:
+            - generic:
+              - generic: MORE ADVERTISING TOOLS
+              - generic:
+                - link "Partner Directory":
+                  - /url: https://advertising.amazon.com/partners/directory?ref_=ad_cons_more_ads_tools_nav
+                - generic:
+                  - generic:
+                    - img
+              - generic:
+                - link "Amazon Ads Academy":
+                  - /url: https://advertising.amazon.com/academy?ref_=advcnsl_us_aaa_gw
+                - generic:
+                  - generic:
+                    - img
+              - separator
+            - generic:
+              - generic: AMAZON SELLING TOOLS
+              - generic:
+                - link "Kindle Direct Publishing":
+                  - /url: https://kdp.amazon.com/?ref_=AAC_gnav_KDP_linkback
+                - generic:
+                  - generic:
+                    - img
+        - generic:
+          - generic "Show links under Administration":
+            - img "Administration"
+            - generic: Administration
+          - generic:
+            - generic:
+              - generic:
+                - link "Account access & settings":
+                  - /url: https://advertising.amazon.com/user/management?entityId=ENTITY1SABYJ3Y7NOJU
+              - separator
+            - generic:
+              - generic: BILLING & PAYMENT
+              - generic:
+                - link "Billing":
+                  - /url: https://advertising.amazon.com/billing/history?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "New":
+                    - generic: New
+  - generic [ref=e188]:
+    - navigation "Sidebar" [ref=e190]:
+      - button "Hide navigation menu" [expanded] [ref=e191] [cursor=pointer]:
+        - img [ref=e193]
+        - generic [ref=e197]: Hide navigation menu
+      - list [ref=e198]:
+        - generic [ref=e199]:
+          - listitem [ref=e200]:
+            - button "Portfolios" [ref=e202] [cursor=pointer]:
+              - generic [ref=e203]: Portfolios
+          - listitem [ref=e204]:
+            - button "Campaigns" [ref=e206] [cursor=pointer]:
+              - generic [ref=e207]: Campaigns
+          - listitem [ref=e208]:
+            - button "Drafts" [ref=e210] [cursor=pointer]:
+              - generic [ref=e211]: Drafts
+        - separator
+        - generic [ref=e213]:
+          - listitem [ref=e214]:
+            - button "Products" [ref=e216] [cursor=pointer]:
+              - generic [ref=e217]: Products
+          - listitem [ref=e218]:
+            - button "Targeting" [ref=e220] [cursor=pointer]:
+              - generic [ref=e221]: Targeting
+          - listitem [ref=e222]:
+            - button "Budgets" [ref=e224] [cursor=pointer]:
+              - generic [ref=e225]: Budgets
+        - separator
+        - generic [ref=e227]:
+          - listitem [ref=e228]:
+            - button "History" [ref=e230] [cursor=pointer]:
+              - generic [ref=e231]: History
+          - listitem [ref=e232]:
+            - button "Rules Beta" [ref=e234] [cursor=pointer]:
+              - generic [ref=e235]: Rules
+              - generic "Beta" [ref=e236]:
+                - generic [ref=e237]: Beta
+          - listitem [ref=e238]:
+            - button "Settings" [ref=e240] [cursor=pointer]:
+              - generic [ref=e241]: Settings
+    - generic [ref=e244]:
+      - button "Share feedback" [ref=e250] [cursor=pointer]
+      - generic [ref=e272]:
+        - img [ref=e275]
+        - generic [ref=e277]:
+          - heading "Set up billing to advertise in India" [level=4] [ref=e279]
+          - generic [ref=e281]:
+            - text: To launch your first sponsored ads campaign in India,
+            - link "set up billing" [ref=e282] [cursor=pointer]:
+              - /url: https://advertising.amazon.in/in/sauron/payment/settings/select
+            - text: .
+        - button "Dismiss message" [ref=e283] [cursor=pointer]:
+          - img [ref=e285]
+          - generic [ref=e287]: Dismiss message
+      - generic [ref=e288]:
+        - navigation [ref=e289]:
+          - generic [ref=e290]:
+            - button "All" [pressed] [ref=e292] [cursor=pointer]:
+              - generic [ref=e294]: All
+            - button "Sponsored Products" [pressed] [ref=e296] [cursor=pointer]:
+              - generic [ref=e298]: Sponsored Products
+            - button "Sponsored Brands" [pressed] [ref=e300] [cursor=pointer]:
+              - generic [ref=e302]: Sponsored Brands
+            - button "Display, Video, & Audio" [pressed] [ref=e304] [cursor=pointer]:
+              - generic [ref=e306]: Display, Video, & Audio
+        - generic [ref=e307]:
+          - generic [ref=e312]:
+            - generic [ref=e313]:
+              - generic [ref=e314]:
+                - paragraph [ref=e315]: Date range
+                - button "Open tooltip" [ref=e317] [cursor=pointer]:
+                  - img [ref=e319]
+              - button "Open date range picker" [ref=e325] [cursor=pointer]:
+                - paragraph [ref=e326]: Mar 24 - Mar 30, 2026
+                - img [ref=e328]
+            - generic [ref=e330]:
+              - generic [ref=e331]:
+                - generic "Impressions" [ref=e332]
+                - button "Open tooltip" [ref=e335] [cursor=pointer]:
+                  - img [ref=e337]
+              - generic [ref=e341]:
+                - heading "113,715" [level=5] [ref=e342]
+                - img "Trend visualization" [ref=e345]
+              - button "View metric details" [ref=e348] [cursor=pointer]: View details
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - generic "Clicks" [ref=e351]
+                - button "Open tooltip" [ref=e354] [cursor=pointer]:
+                  - img [ref=e356]
+              - generic [ref=e360]:
+                - heading "115" [level=5] [ref=e361]
+                - img "Trend visualization" [ref=e364]
+              - button "View metric details" [ref=e367] [cursor=pointer]: View details
+            - generic [ref=e368]:
+              - generic [ref=e369]:
+                - generic "Branded searches" [ref=e370]
+                - button "Open tooltip" [ref=e373] [cursor=pointer]:
+                  - img [ref=e375]
+              - heading "0" [level=5] [ref=e380]
+              - button "View metric details" [ref=e382] [cursor=pointer]: View details
+            - generic [ref=e383]:
+              - generic [ref=e384]:
+                - generic "Detail page views" [ref=e385]
+                - button "Open tooltip" [ref=e388] [cursor=pointer]:
+                  - img [ref=e390]
+              - heading "0" [level=5] [ref=e395]
+              - button "View metric details" [ref=e397] [cursor=pointer]: View details
+            - generic [ref=e398]:
+              - generic [ref=e399]:
+                - generic "Purchases (new to brand)" [ref=e400]
+                - button "Open tooltip" [ref=e403] [cursor=pointer]:
+                  - img [ref=e405]
+              - heading "0" [level=5] [ref=e410]
+              - button "View metric details" [ref=e412] [cursor=pointer]: View details
+            - generic [ref=e413]:
+              - generic [ref=e414]:
+                - generic "Sales" [ref=e415]
+                - button "Open tooltip" [ref=e418] [cursor=pointer]:
+                  - img [ref=e420]
+              - heading "$0.00" [level=5] [ref=e425]
+              - button "View metric details" [ref=e427] [cursor=pointer]: View details
+          - generic [ref=e429]:
+            - generic [ref=e433]:
+              - generic [ref=e434]:
+                - generic "View all guidance cards with the performance chart" [ref=e435]: Show all (5)
+                - generic [ref=e437]: View chart only
+                - generic "Hide all cards" [ref=e439]: Hide all
+              - generic [ref=e441]:
+                - button "Scroll to the next card" [ref=e1930] [cursor=pointer]:
+                  - img [ref=e1933]
+                  - generic [ref=e1937]: Scroll to the next card
+                - generic [ref=e451]:
+                  - generic [ref=e457]:
+                    - generic [ref=e459]:
+                      - heading "Budget performance" [level=4] [ref=e460]
+                      - button [ref=e463] [cursor=pointer]:
+                        - img [ref=e465]
+                    - paragraph [ref=e467]: Optimize your campaign budgets
+                    - generic [ref=e468]:
+                      - paragraph [ref=e470]: 3 campaigns went out of budget and had missed opportunities.
+                      - heading "$11.00 - $28.00" [level=4] [ref=e472]
+                      - generic [ref=e473]:
+                        - paragraph [ref=e475]: Estimated missed sales
+                        - paragraph [ref=e477]: Last 14 days
+                    - generic [ref=e478]:
+                      - generic [ref=e481]:
+                        - img [ref=e483]
+                        - generic [ref=e485]: 1 Advertiser
+                      - generic [ref=e487]:
+                        - img [ref=e489]
+                        - generic [ref=e491]: United States
+                    - link "View filtered budget data" [ref=e493] [cursor=pointer]:
+                      - /url: https://advertising.amazon.com/cm/budgets?entityId=ENTITY1SABYJ3Y7NOJU&insightType=MissedSales&startDate=2026-03-10&endDate=2026-03-23&campaignCount=3
+                  - generic [ref=e499]:
+                    - generic [ref=e501]:
+                      - heading "Increase sales" [level=4] [ref=e502]
+                      - button [ref=e505] [cursor=pointer]:
+                        - img [ref=e507]
+                    - paragraph [ref=e509]: Reach more shoppers with Streaming TV
+                    - generic [ref=e510]:
+                      - paragraph [ref=e513]: On average, advertisers see 110% sales growth when adding Streaming TV to their existing ad mix. Use video generator for TV-quality ads.
+                      - img [ref=e517]
+                      - generic [ref=e518]:
+                        - paragraph [ref=e520]: Amazon internal data
+                        - button "Open tooltip" [ref=e522] [cursor=pointer]:
+                          - img [ref=e524]
+                    - generic [ref=e528]:
+                      - generic [ref=e531]:
+                        - img [ref=e533]
+                        - generic [ref=e535]: 1 Advertiser
+                      - generic [ref=e537]:
+                        - img [ref=e539]
+                        - generic [ref=e541]: United States
+                    - link "Create a Streaming TV campaign" [ref=e543] [cursor=pointer]:
+                      - /url: https://advertising.amazon.com/create/settings/st?refUrl=recommendations-use-vid-ai-card-v&entityId=ENTITY1HVWPSUXU8MG8
+                  - generic [ref=e545]:
+                    - generic [ref=e546]:
+                      - generic [ref=e547]:
+                        - heading "Performance" [level=4] [ref=e548]
+                        - paragraph [ref=e1093]: Mar 1 - Mar 31, 2026
+                      - button "View chart only" [ref=e549] [cursor=pointer]:
+                        - img [ref=e551]
+                        - generic [ref=e553]: View chart only
+                    - generic [ref=e1095]:
+                      - generic [ref=e1098]:
+                        - generic [ref=e1099]:
+                          - generic [ref=e1100]:
+                            - generic [ref=e1101]:
+                              - generic [ref=e1102] [cursor=pointer]: Select a metric
+                              - button "Select a metric Clicks" [ref=e1103] [cursor=pointer]:
+                                - generic [ref=e1104]: Clicks
+                                - img [ref=e1106]
+                            - button "Open tooltip" [ref=e1114] [cursor=pointer]:
+                              - img [ref=e1116]
+                          - button "Hide metric" [ref=e1122] [cursor=pointer]:
+                            - paragraph [ref=e1124]: "306"
+                        - generic [ref=e1125]:
+                          - generic [ref=e1126]:
+                            - generic [ref=e1127]:
+                              - generic [ref=e1128] [cursor=pointer]: Select a metric
+                              - button "Select a metric Total cost" [ref=e1129] [cursor=pointer]:
+                                - generic [ref=e1130]: Total cost
+                                - img [ref=e1132]
+                            - button "Open tooltip" [ref=e1140] [cursor=pointer]:
+                              - img [ref=e1142]
+                          - button "Hide metric" [ref=e1148] [cursor=pointer]:
+                            - paragraph [ref=e1150]: $459.54
+                        - generic [ref=e1151]:
+                          - generic [ref=e1152]:
+                            - generic [ref=e1153]:
+                              - generic [ref=e1154] [cursor=pointer]: Select a metric
+                              - button "Select a metric Purchases" [ref=e1155] [cursor=pointer]:
+                                - generic [ref=e1156]: Purchases
+                                - img [ref=e1158]
+                            - button "Open tooltip" [ref=e1166] [cursor=pointer]:
+                              - img [ref=e1168]
+                          - button "Hide metric" [ref=e1174] [cursor=pointer]:
+                            - paragraph [ref=e1176]: "9"
+                        - generic [ref=e1177]:
+                          - generic [ref=e1178]:
+                            - generic [ref=e1179]:
+                              - generic [ref=e1180] [cursor=pointer]: Select a metric
+                              - button "Select a metric Sales" [ref=e1181] [cursor=pointer]:
+                                - generic [ref=e1182]: Sales
+                                - img [ref=e1184]
+                            - button "Open tooltip" [ref=e1192] [cursor=pointer]:
+                              - img [ref=e1194]
+                          - button "Hide metric" [ref=e1200] [cursor=pointer]:
+                            - paragraph [ref=e1202]: $19.91
+                      - generic [ref=e1209]:
+                        - generic:
+                          - img [ref=e1210]:
+                            - generic [ref=e1211]: Mar 01
+                            - generic [ref=e1212]: Mar 04
+                            - generic [ref=e1213]: Mar 07
+                            - generic [ref=e1214]: Mar 10
+                            - generic [ref=e1215]: Mar 13
+                            - generic [ref=e1216]: Mar 16
+                            - generic [ref=e1217]: Mar 19
+                            - generic [ref=e1218]: Mar 22
+                            - generic [ref=e1219]: Mar 25
+                            - generic [ref=e1220]: Mar 28
+                            - generic [ref=e1221]: Mar 31
+                            - generic [ref=e1222]: "0"
+                            - generic [ref=e1223]: "4"
+                            - generic [ref=e1224]: "8"
+                            - generic [ref=e1225]: "12"
+                            - generic [ref=e1226]: "16"
+                            - generic [ref=e1227]: "20"
+                            - generic [ref=e1229]: $0
+                            - generic [ref=e1230]: $6
+                            - generic [ref=e1231]: $12
+                            - generic [ref=e1232]: $18
+                            - generic [ref=e1233]: $24
+                            - generic [ref=e1234]: $30
+                            - generic [ref=e1236]: "0"
+                            - generic [ref=e1237]: "0.4"
+                            - generic [ref=e1238]: "0.8"
+                            - generic [ref=e1239]: "1.2"
+                            - generic [ref=e1240]: "1.6"
+                            - generic [ref=e1241]: "2"
+                            - generic [ref=e1243]: $0
+                            - generic [ref=e1244]: $2.5
+                            - generic [ref=e1245]: $5
+                            - generic [ref=e1246]: $7.5
+                            - generic [ref=e1247]: $10
+                            - generic [ref=e1248]: $13
+                          - generic:
+                            - img
+                  - generic [ref=e644]:
+                    - generic [ref=e646]:
+                      - heading "Targeting performance" [level=4] [ref=e647]
+                      - button [ref=e650] [cursor=pointer]:
+                        - img [ref=e652]
+                    - paragraph [ref=e654]: Review top-performing targets
+                    - generic [ref=e655]:
+                      - paragraph [ref=e657]: Consistently reviewing your targets can help optimize your ad strategy.
+                      - heading "1 of 107" [level=4] [ref=e659]
+                      - progressbar [ref=e663]
+                      - generic [ref=e664]:
+                        - paragraph [ref=e666]: Targets with sales
+                        - paragraph [ref=e668]: Last 14 days
+                    - generic [ref=e669]:
+                      - generic [ref=e672]:
+                        - img [ref=e674]
+                        - generic [ref=e676]: 1 Advertiser
+                      - generic [ref=e678]:
+                        - img [ref=e680]
+                        - generic [ref=e682]: United States
+                    - button "View filtered targeting data" [ref=e684] [cursor=pointer]
+                  - generic [ref=e690]:
+                    - generic [ref=e692]:
+                      - heading "Targeting performance" [level=4] [ref=e693]
+                      - button [ref=e696] [cursor=pointer]:
+                        - img [ref=e698]
+                    - paragraph [ref=e700]: Review bottom-performing targets
+                    - generic [ref=e701]:
+                      - paragraph [ref=e703]: Consistently reviewing your targets can help optimize your ad strategy.
+                      - heading "6 of 107" [level=4] [ref=e705]
+                      - progressbar [ref=e709]
+                      - generic [ref=e710]:
+                        - paragraph [ref=e712]: Targets with clicks but zero sales
+                        - paragraph [ref=e714]: Last 14 days
+                    - generic [ref=e715]:
+                      - generic [ref=e718]:
+                        - img [ref=e720]
+                        - generic [ref=e722]: 1 Advertiser
+                      - generic [ref=e724]:
+                        - img [ref=e726]
+                        - generic [ref=e728]: United States
+                    - button "View filtered targeting data" [ref=e730] [cursor=pointer]
+            - generic [ref=e731]:
+              - generic [ref=e732]:
+                - generic [ref=e735]:
+                  - generic [ref=e736] [cursor=pointer]: Search
+                  - generic [ref=e737]:
+                    - img [ref=e740]
+                    - searchbox "Search with metrics or settings" [ref=e743]
+                - generic [ref=e745]:
+                  - generic "Targets with clicks and no orders" [ref=e746] [cursor=pointer]:
+                    - generic [ref=e747]: Targets with clicks and no orders
+                  - generic "Campaigns with clicks and no orders" [ref=e748] [cursor=pointer]:
+                    - generic [ref=e749]: Campaigns with clicks and no orders
+                  - generic "Targets with impressions and no sales" [ref=e750] [cursor=pointer]:
+                    - generic [ref=e751]: Targets with impressions and no sales
+              - generic [ref=e753]:
+                - generic [ref=e755]:
+                  - generic [ref=e756]:
+                    - button "[object Object]" [ref=e758] [cursor=pointer]:
+                      - heading "Campaigns" [level=1] [ref=e760]
+                      - img [ref=e762]
+                    - link "Create campaign" [ref=e767] [cursor=pointer]:
+                      - /url: /cb?entityId=ENTITY1SABYJ3Y7NOJU
+                    - generic [ref=e770]:
+                      - generic [ref=e771] [cursor=pointer]: Search
+                      - generic [ref=e772]:
+                        - img [ref=e775]
+                        - searchbox "Search" [ref=e780]
+                    - button "Filter by" [ref=e1251] [cursor=pointer]:
+                      - generic [ref=e1252]: Filter by
+                      - img [ref=e1254]
+                    - button "Bulk actions" [disabled] [ref=e793]:
+                      - generic [ref=e794]: Bulk actions
+                      - img [ref=e796]
+                  - generic [ref=e800]:
+                    - 'button "View: Default" [ref=e802] [cursor=pointer]':
+                      - generic [ref=e803]: "View: Default"
+                      - img [ref=e805]
+                    - button "Columns" [ref=e1259] [cursor=pointer]:
+                      - generic [ref=e1260]: Columns
+                      - img [ref=e1262]
+                    - button "Mar 1 - Mar 31, 2026" [ref=e818] [cursor=pointer]:
+                      - text: Mar 1 - Mar 31, 2026
+                      - img [ref=e820]
+                    - button [ref=e822] [cursor=pointer]:
+                      - img [ref=e824]
+                    - button "Export" [ref=e828] [cursor=pointer]:
+                      - generic [ref=e829]: Export
+                      - img [ref=e831]
+                - generic [ref=e836]:
+                  - text:  
+                  - grid [ref=e837]:
+                    - row "Active Campaign name Open tooltip" [ref=e838]:
+                      - columnheader [ref=e839]:
+                        - text: 
+                        - checkbox [ref=e842]
+                      - columnheader "Active" [ref=e844]:
+                        - text: 
+                        - button "Active" [ref=e848] [cursor=pointer]:
+                          - generic [ref=e849]: Active
+                      - columnheader "Campaign name Open tooltip" [ref=e850]:
+                        - text: 
+                        - generic [ref=e853]:
+                          - button "Campaign name" [ref=e854] [cursor=pointer]:
+                            - generic [ref=e855]: Campaign name
+                          - button "Open tooltip" [ref=e859] [cursor=pointer]:
+                            - img [ref=e861]
+                    - rowgroup [ref=e865]:
+                      - row "Country Status Open tooltip Type Open tooltip Campaign start date Open tooltip Campaign end date Open tooltip Campaign budget amount Open tooltip Top-of-search impression share Open tooltip Top-of-search bid adjustment Open tooltip Clicks Open tooltip CTR Open tooltip Total cost Open tooltip CPC Open tooltip Purchases Open tooltip Sales Open tooltip ACOS Open tooltip" [ref=e866]:
+                        - columnheader "Country" [ref=e867]:
+                          - text: 
+                          - button "Country" [ref=e871] [cursor=pointer]:
+                            - generic [ref=e872]: Country
+                        - columnheader "Status Open tooltip" [ref=e873]:
+                          - text: 
+                          - generic [ref=e876] [cursor=pointer]:
+                            - button "Status" [ref=e877]:
+                              - generic [ref=e878]: Status
+                            - button "Open tooltip" [ref=e882]:
+                              - img [ref=e884]
+                        - columnheader "Type Open tooltip" [active] [ref=e888]:
+                          - text: 
+                          - generic [ref=e891] [cursor=pointer]:
+                            - button "Type" [ref=e892]:
+                              - generic [ref=e893]: Type
+                            - button "Open tooltip" [ref=e895]:
+                              - img [ref=e897]
+                        - columnheader "Campaign start date Open tooltip" [ref=e901]:
+                          - text: 
+                          - generic [ref=e904] [cursor=pointer]:
+                            - button "Campaign start date" [ref=e905]:
+                              - generic [ref=e906]: Campaign start date
+                            - button "Open tooltip" [ref=e908]:
+                              - img [ref=e910]
+                        - columnheader "Campaign end date Open tooltip" [ref=e914]:
+                          - text: 
+                          - generic [ref=e917] [cursor=pointer]:
+                            - button "Campaign end date" [ref=e918]:
+                              - generic [ref=e919]: Campaign end date
+                            - button "Open tooltip" [ref=e921]:
+                              - img [ref=e923]
+                        - columnheader "Campaign budget amount Open tooltip" [ref=e927]:
+                          - text: 
+                          - generic [ref=e930] [cursor=pointer]:
+                            - button "Campaign budget amount" [ref=e931]:
+                              - generic [ref=e932]: Campaign budget amount
+                            - button "Open tooltip" [ref=e936]:
+                              - img [ref=e938]
+                        - columnheader "Top-of-search impression share Open tooltip" [ref=e942]:
+                          - text: 
+                          - generic [ref=e945] [cursor=pointer]:
+                            - button "Top-of-search impression share" [ref=e946]:
+                              - generic [ref=e947]: Top-of-search impression share
+                            - button "Open tooltip" [ref=e949]:
+                              - img [ref=e951]
+                        - columnheader "Top-of-search bid adjustment Open tooltip" [ref=e955]:
+                          - text: 
+                          - generic [ref=e958] [cursor=pointer]:
+                            - button "Top-of-search bid adjustment" [ref=e959]:
+                              - generic [ref=e960]: Top-of-search bid adjustment
+                            - button "Open tooltip" [ref=e962]:
+                              - img [ref=e964]
+                        - columnheader "Clicks Open tooltip" [ref=e968]:
+                          - text: 
+                          - generic [ref=e971] [cursor=pointer]:
+                            - button "Clicks" [ref=e972]:
+                              - generic [ref=e973]: Clicks
+                            - button "Open tooltip" [ref=e977]:
+                              - img [ref=e979]
+                        - columnheader "CTR Open tooltip" [ref=e983]:
+                          - text: 
+                          - generic [ref=e986] [cursor=pointer]:
+                            - button "CTR" [ref=e987]:
+                              - generic [ref=e988]: CTR
+                            - button "Open tooltip" [ref=e992]:
+                              - img [ref=e994]
+                        - columnheader "Total cost Open tooltip" [ref=e998]:
+                          - text: 
+                          - generic [ref=e1001] [cursor=pointer]:
+                            - button "Total cost" [ref=e1002]:
+                              - generic [ref=e1003]: Total cost
+                            - button "Open tooltip" [ref=e1007]:
+                              - img [ref=e1009]
+                        - columnheader "CPC Open tooltip" [ref=e1013]:
+                          - text: 
+                          - generic [ref=e1016] [cursor=pointer]:
+                            - button "CPC" [ref=e1017]:
+                              - generic [ref=e1018]: CPC
+                            - button "Open tooltip" [ref=e1022]:
+                              - img [ref=e1024]
+                        - columnheader "Purchases Open tooltip" [ref=e1028]:
+                          - text: 
+                          - generic [ref=e1031] [cursor=pointer]:
+                            - button "Purchases" [ref=e1032]:
+                              - generic [ref=e1033]: Purchases
+                            - button "Open tooltip" [ref=e1037]:
+                              - img [ref=e1039]
+                        - columnheader "Sales Open tooltip" [ref=e1043]:
+                          - text: 
+                          - generic [ref=e1046] [cursor=pointer]:
+                            - button "Sales" [ref=e1047]:
+                              - generic [ref=e1048]: Sales
+                            - button "Open tooltip" [ref=e1052]:
+                              - img [ref=e1054]
+                        - columnheader "ACOS Open tooltip" [ref=e1058]:
+                          - text: 
+                          - generic [ref=e1061] [cursor=pointer]:
+                            - button "ACOS" [ref=e1062]:
+                              - generic [ref=e1063]: ACOS
+                            - button "Open tooltip" [ref=e1067]:
+                              - img [ref=e1069]
+                    - rowgroup [ref=e1266]:
+                      - row "Press SPACE to select this row." [ref=e1267]:
+                        - gridcell "Press Space to toggle row selection (unchecked)" [ref=e1268]:
+                          - checkbox "Press Space to toggle row selection (unchecked)" [ref=e1269] [cursor=pointer]
+                        - gridcell "Enabled" [ref=e1270]:
+                          - switch "Enabled" [checked] [ref=e1277] [cursor=pointer]:
+                            - img [ref=e1279]
+                        - gridcell "Genesis Protocol - Comp Author Keywords Open menu" [ref=e1285]:
+                          - generic [ref=e1288]:
+                            - generic "Genesis Protocol - Comp Author Keywords" [ref=e1290]:
+                              - link "Genesis Protocol - Comp Author Keywords" [ref=e1291] [cursor=pointer]:
+                                - /url: https://advertising.amazon.com/cm/sp/campaigns/A049823432EX1GPY78GTM?entityId=ENTITY1SABYJ3Y7NOJU
+                            - button "Open menu" [ref=e1292] [cursor=pointer]:
+                              - img [ref=e1294]
+                      - row "Press SPACE to select this row." [ref=e1296]:
+                        - gridcell "Press Space to toggle row selection (unchecked)" [ref=e1297]:
+                          - checkbox "Press Space to toggle row selection (unchecked)" [ref=e1298] [cursor=pointer]
+                        - gridcell "Enabled" [ref=e1299]:
+                          - switch "Enabled" [checked] [ref=e1306] [cursor=pointer]:
+                            - img [ref=e1308]
+                        - gridcell "Genesis Protocol - Genre Keywords Open menu" [ref=e1314]:
+                          - generic [ref=e1317]:
+                            - generic "Genesis Protocol - Genre Keywords" [ref=e1319]:
+                              - link "Genesis Protocol - Genre Keywords" [ref=e1320] [cursor=pointer]:
+                                - /url: https://advertising.amazon.com/cm/sp/campaigns/A1032573347U2F9SUE9R9?entityId=ENTITY1SABYJ3Y7NOJU
+                            - button "Open menu" [ref=e1321] [cursor=pointer]:
+                              - img [ref=e1323]
+                      - row "Press SPACE to select this row." [ref=e1325]:
+                        - gridcell "Press Space to toggle row selection (unchecked)" [ref=e1326]:
+                          - checkbox "Press Space to toggle row selection (unchecked)" [ref=e1327] [cursor=pointer]
+                        - gridcell "Paused" [ref=e1328]:
+                          - switch "Paused" [ref=e1335] [cursor=pointer]
+                        - gridcell "Genesis Protocol - Keyword Targeting Open menu" [ref=e1338]:
+                          - generic [ref=e1341]:
+                            - generic "Genesis Protocol - Keyword Targeting" [ref=e1343]:
+                              - link "Genesis Protocol - Keyword Targeting" [ref=e1344] [cursor=pointer]:
+                                - /url: https://advertising.amazon.com/cm/sp/campaigns/A03658961Z2L5BN6RCWG0?entityId=ENTITY1SABYJ3Y7NOJU
+                            - button "Open menu" [ref=e1345] [cursor=pointer]:
+                              - img [ref=e1347]
+                      - row "Press SPACE to select this row." [ref=e1349]:
+                        - gridcell "Press Space to toggle row selection (unchecked)" [ref=e1350]:
+                          - checkbox "Press Space to toggle row selection (unchecked)" [ref=e1351] [cursor=pointer]
+                        - gridcell "Paused" [ref=e1352]:
+                          - switch "Paused" [ref=e1359] [cursor=pointer]
+                        - gridcell "Aethelred Cipher - Product Targeting Open menu" [ref=e1362]:
+                          - generic [ref=e1365]:
+                            - generic "Aethelred Cipher - Product Targeting" [ref=e1367]:
+                              - link "Aethelred Cipher - Product Targeting" [ref=e1368] [cursor=pointer]:
+                                - /url: https://advertising.amazon.com/cm/sp/campaigns/A0657184322Z791U5OMS2?entityId=ENTITY1SABYJ3Y7NOJU
+                            - button "Open menu" [ref=e1369] [cursor=pointer]:
+                              - img [ref=e1371]
+                      - row "Press SPACE to select this row." [ref=e1373]:
+                        - gridcell "Press Space to toggle row selection (unchecked)" [ref=e1374]:
+                          - checkbox "Press Space to toggle row selection (unchecked)" [ref=e1375] [cursor=pointer]
+                        - gridcell "Enabled" [ref=e1376]:
+                          - switch "Enabled" [checked] [ref=e1383] [cursor=pointer]:
+                            - img [ref=e1385]
+                        - gridcell "Aethelred Cipher - Manual Keywords Open menu" [ref=e1391]:
+                          - generic [ref=e1394]:
+                            - generic "Aethelred Cipher - Manual Keywords" [ref=e1396]:
+                              - link "Aethelred Cipher - Manual Keywords" [ref=e1397] [cursor=pointer]:
+                                - /url: https://advertising.amazon.com/cm/sp/campaigns/A04309311U30HDUJ9NP9R?entityId=ENTITY1SABYJ3Y7NOJU
+                            - button "Open menu" [ref=e1398] [cursor=pointer]:
+                              - img [ref=e1400]
+                    - rowgroup [ref=e1402]:
+                      - row "Press SPACE to select this row." [ref=e1403]:
+                        - gridcell "United States" [ref=e1404]:
+                          - generic "United States" [ref=e1408]:
+                            - generic [ref=e1410]: United States
+                        - gridcell "Delivering Details" [ref=e1411]:
+                          - generic "Delivering" [ref=e1414]:
+                            - paragraph [ref=e1415]: Delivering
+                            - button "Details" [ref=e1417] [cursor=pointer]:
+                              - img [ref=e1419]
+                        - gridcell "Sponsored Products Manual Targeting" [ref=e1423]:
+                          - generic [ref=e1426]:
+                            - generic "Sponsored Products" [ref=e1427]:
+                              - generic [ref=e1429]: Sponsored Products
+                            - generic [ref=e1432]: Manual Targeting
+                        - gridcell "Feb 28, 2026 Feb 28, 2026" [ref=e1433]:
+                          - generic "Feb 28, 2026" [ref=e1436]:
+                            - generic [ref=e1437]:
+                              - generic [ref=e1439]: Feb 28, 2026
+                              - button "Feb 28, 2026" [disabled] [ref=e1441]:
+                                - button "Feb 28, 2026" [disabled] [ref=e1442] [cursor=pointer]:
+                                  - generic [ref=e1443]: Feb 28, 2026
+                        - gridcell "No End Date No End Date" [ref=e1446]:
+                          - generic "No End Date" [ref=e1449]:
+                            - generic [ref=e1450]:
+                              - generic [ref=e1452]: No End Date
+                              - button "No End Date" [ref=e1453] [cursor=pointer]:
+                                - generic [ref=e1454]: No End Date
+                        - gridcell "$5.00 - daily $5.00 - daily" [ref=e1457]:
+                          - generic "$5.00 - daily" [ref=e1460]:
+                            - generic [ref=e1461]:
+                              - generic [ref=e1463]:
+                                - generic: $5.00 - daily
+                              - button "$5.00 - daily" [ref=e1464] [cursor=pointer]:
+                                - generic [ref=e1466]: $5.00 - daily
+                        - gridcell "<5%" [ref=e1797]:
+                          - generic "<5%" [ref=e1800]:
+                            - generic [ref=e1802]: <5%
+                        - gridcell "0% 0%" [ref=e1803]:
+                          - generic "0%" [ref=e1806]:
+                            - generic [ref=e1807]:
+                              - generic [ref=e1809]: 0%
+                              - button "0%" [ref=e1810] [cursor=pointer]:
+                                - generic [ref=e1811]: 0%
+                        - gridcell "69" [ref=e1814]:
+                          - generic "69" [ref=e1817]:
+                            - generic [ref=e1819]: "69"
+                        - gridcell "0.14%" [ref=e1938]:
+                          - generic "0.14%" [ref=e1941]:
+                            - generic [ref=e1943]: 0.14%
+                      - row "Press SPACE to select this row." [ref=e1469]:
+                        - gridcell "United States" [ref=e1470]:
+                          - generic "United States" [ref=e1474]:
+                            - generic [ref=e1476]: United States
+                        - gridcell "Out of budget Details" [ref=e1477]:
+                          - generic "Out of budget" [ref=e1480]:
+                            - paragraph [ref=e1481]: Out of budget
+                            - button "Details" [ref=e1483] [cursor=pointer]:
+                              - img [ref=e1485]
+                        - gridcell "Sponsored Products Manual Targeting" [ref=e1489]:
+                          - generic [ref=e1492]:
+                            - generic "Sponsored Products" [ref=e1493]:
+                              - generic [ref=e1495]: Sponsored Products
+                            - generic [ref=e1498]: Manual Targeting
+                        - gridcell "Feb 28, 2026 Feb 28, 2026" [ref=e1499]:
+                          - generic "Feb 28, 2026" [ref=e1502]:
+                            - generic [ref=e1503]:
+                              - generic [ref=e1505]: Feb 28, 2026
+                              - button "Feb 28, 2026" [disabled] [ref=e1507]:
+                                - button "Feb 28, 2026" [disabled] [ref=e1508] [cursor=pointer]:
+                                  - generic [ref=e1509]: Feb 28, 2026
+                        - gridcell "No End Date No End Date" [ref=e1512]:
+                          - generic "No End Date" [ref=e1515]:
+                            - generic [ref=e1516]:
+                              - generic [ref=e1518]: No End Date
+                              - button "No End Date" [ref=e1519] [cursor=pointer]:
+                                - generic [ref=e1520]: No End Date
+                        - 'gridcell "$5.00 - daily $5.00 - daily Recommended: $14.00 Open tooltip" [ref=e1523]':
+                          - generic [ref=e1525]:
+                            - generic "$5.00 - daily" [ref=e1526]:
+                              - generic [ref=e1527]:
+                                - generic [ref=e1529]:
+                                  - generic: $5.00 - daily
+                                - button "$5.00 - daily" [ref=e1530] [cursor=pointer]:
+                                  - generic [ref=e1532]: $5.00 - daily
+                            - generic [ref=e1537]:
+                              - paragraph [ref=e1538]: "Recommended:"
+                              - button "$14.00" [ref=e1539] [cursor=pointer]
+                              - button "Open tooltip" [ref=e1545] [cursor=pointer]:
+                                - img [ref=e1547]
+                        - gridcell "<5%" [ref=e1820]:
+                          - generic "<5%" [ref=e1823]:
+                            - generic [ref=e1825]: <5%
+                        - gridcell "0% 0%" [ref=e1826]:
+                          - generic "0%" [ref=e1829]:
+                            - generic [ref=e1830]:
+                              - generic [ref=e1832]: 0%
+                              - button "0%" [ref=e1833] [cursor=pointer]:
+                                - generic [ref=e1834]: 0%
+                        - gridcell "52" [ref=e1837]:
+                          - generic "52" [ref=e1840]:
+                            - generic [ref=e1842]: "52"
+                        - gridcell "0.17%" [ref=e1944]:
+                          - generic "0.17%" [ref=e1947]:
+                            - generic [ref=e1949]: 0.17%
+                      - row "Press SPACE to select this row." [ref=e1553]:
+                        - gridcell "United States" [ref=e1554]:
+                          - generic "United States" [ref=e1558]:
+                            - generic [ref=e1560]: United States
+                        - gridcell "Paused Details" [ref=e1561]:
+                          - generic "Paused" [ref=e1564]:
+                            - paragraph [ref=e1565]: Paused
+                            - button "Details" [ref=e1567] [cursor=pointer]:
+                              - img [ref=e1569]
+                        - gridcell "Sponsored Products Manual Targeting" [ref=e1573]:
+                          - generic [ref=e1576]:
+                            - generic "Sponsored Products" [ref=e1577]:
+                              - generic [ref=e1579]: Sponsored Products
+                            - generic [ref=e1582]: Manual Targeting
+                        - gridcell "Feb 22, 2026 Feb 22, 2026" [ref=e1583]:
+                          - generic "Feb 22, 2026" [ref=e1586]:
+                            - generic [ref=e1587]:
+                              - generic [ref=e1589]: Feb 22, 2026
+                              - button "Feb 22, 2026" [disabled] [ref=e1591]:
+                                - button "Feb 22, 2026" [disabled] [ref=e1592] [cursor=pointer]:
+                                  - generic [ref=e1593]: Feb 22, 2026
+                        - gridcell "No End Date No End Date" [ref=e1596]:
+                          - generic "No End Date" [ref=e1599]:
+                            - generic [ref=e1600]:
+                              - generic [ref=e1602]: No End Date
+                              - button "No End Date" [ref=e1603] [cursor=pointer]:
+                                - generic [ref=e1604]: No End Date
+                        - gridcell "$5.00 - daily $5.00 - daily" [ref=e1607]:
+                          - generic "$5.00 - daily" [ref=e1610]:
+                            - generic [ref=e1611]:
+                              - generic [ref=e1613]:
+                                - generic: $5.00 - daily
+                              - button "$5.00 - daily" [ref=e1614] [cursor=pointer]:
+                                - generic [ref=e1616]: $5.00 - daily
+                        - gridcell "<5%" [ref=e1843]:
+                          - generic "<5%" [ref=e1846]:
+                            - generic [ref=e1848]: <5%
+                        - gridcell "0% 0%" [ref=e1849]:
+                          - generic "0%" [ref=e1852]:
+                            - generic [ref=e1853]:
+                              - generic [ref=e1855]: 0%
+                              - button "0%" [ref=e1856] [cursor=pointer]:
+                                - generic [ref=e1857]: 0%
+                        - gridcell "12" [ref=e1860]:
+                          - generic "12" [ref=e1863]:
+                            - generic [ref=e1865]: "12"
+                        - gridcell "0.18%" [ref=e1950]:
+                          - generic "0.18%" [ref=e1953]:
+                            - generic [ref=e1955]: 0.18%
+                      - row "Press SPACE to select this row." [ref=e1619]:
+                        - gridcell "United States" [ref=e1620]:
+                          - generic "United States" [ref=e1624]:
+                            - generic [ref=e1626]: United States
+                        - gridcell "Paused Details" [ref=e1627]:
+                          - generic "Paused" [ref=e1630]:
+                            - paragraph [ref=e1631]: Paused
+                            - button "Details" [ref=e1633] [cursor=pointer]:
+                              - img [ref=e1635]
+                        - gridcell "Sponsored Products Manual Targeting" [ref=e1639]:
+                          - generic [ref=e1642]:
+                            - generic "Sponsored Products" [ref=e1643]:
+                              - generic [ref=e1645]: Sponsored Products
+                            - generic [ref=e1648]: Manual Targeting
+                        - gridcell "Feb 22, 2026 Feb 22, 2026" [ref=e1649]:
+                          - generic "Feb 22, 2026" [ref=e1652]:
+                            - generic [ref=e1653]:
+                              - generic [ref=e1655]: Feb 22, 2026
+                              - button "Feb 22, 2026" [disabled] [ref=e1657]:
+                                - button "Feb 22, 2026" [disabled] [ref=e1658] [cursor=pointer]:
+                                  - generic [ref=e1659]: Feb 22, 2026
+                        - gridcell "No End Date No End Date" [ref=e1662]:
+                          - generic "No End Date" [ref=e1665]:
+                            - generic [ref=e1666]:
+                              - generic [ref=e1668]: No End Date
+                              - button "No End Date" [ref=e1669] [cursor=pointer]:
+                                - generic [ref=e1670]: No End Date
+                        - gridcell "$5.00 - daily $5.00 - daily" [ref=e1673]:
+                          - generic "$5.00 - daily" [ref=e1676]:
+                            - generic [ref=e1677]:
+                              - generic [ref=e1679]:
+                                - generic: $5.00 - daily
+                              - button "$5.00 - daily" [ref=e1680] [cursor=pointer]:
+                                - generic [ref=e1682]: $5.00 - daily
+                        - gridcell "—" [ref=e1866]:
+                          - generic "—" [ref=e1869]:
+                            - generic [ref=e1871]: —
+                        - gridcell "0% 0%" [ref=e1872]:
+                          - generic "0%" [ref=e1875]:
+                            - generic [ref=e1876]:
+                              - generic [ref=e1878]: 0%
+                              - button "0%" [ref=e1879] [cursor=pointer]:
+                                - generic [ref=e1880]: 0%
+                        - gridcell "—" [ref=e1883]:
+                          - generic "—" [ref=e1886]:
+                            - generic [ref=e1888]: —
+                        - gridcell "—" [ref=e1956]:
+                          - generic "—" [ref=e1959]:
+                            - generic [ref=e1961]: —
+                      - row "Press SPACE to select this row." [ref=e1685]:
+                        - gridcell "United States" [ref=e1686]:
+                          - generic "United States" [ref=e1690]:
+                            - generic [ref=e1692]: United States
+                        - gridcell "Delivering Details" [ref=e1693]:
+                          - generic "Delivering" [ref=e1696]:
+                            - paragraph [ref=e1697]: Delivering
+                            - button "Details" [ref=e1699] [cursor=pointer]:
+                              - img [ref=e1701]
+                        - gridcell "Sponsored Products Manual Targeting" [ref=e1705]:
+                          - generic [ref=e1708]:
+                            - generic "Sponsored Products" [ref=e1709]:
+                              - generic [ref=e1711]: Sponsored Products
+                            - generic [ref=e1714]: Manual Targeting
+                        - gridcell "Feb 21, 2026 Feb 21, 2026" [ref=e1715]:
+                          - generic "Feb 21, 2026" [ref=e1718]:
+                            - generic [ref=e1719]:
+                              - generic [ref=e1721]: Feb 21, 2026
+                              - button "Feb 21, 2026" [disabled] [ref=e1723]:
+                                - button "Feb 21, 2026" [disabled] [ref=e1724] [cursor=pointer]:
+                                  - generic [ref=e1725]: Feb 21, 2026
+                        - gridcell "No End Date No End Date" [ref=e1728]:
+                          - generic "No End Date" [ref=e1731]:
+                            - generic [ref=e1732]:
+                              - generic [ref=e1734]: No End Date
+                              - button "No End Date" [ref=e1735] [cursor=pointer]:
+                                - generic [ref=e1736]: No End Date
+                        - gridcell "$10.00 - daily $10.00 - daily" [ref=e1739]:
+                          - generic "$10.00 - daily" [ref=e1742]:
+                            - generic [ref=e1743]:
+                              - generic [ref=e1745]:
+                                - generic: $10.00 - daily
+                              - button "$10.00 - daily" [ref=e1746] [cursor=pointer]:
+                                - generic [ref=e1748]: $10.00 - daily
+                        - gridcell "<5%" [ref=e1889]:
+                          - generic "<5%" [ref=e1892]:
+                            - generic [ref=e1894]: <5%
+                        - gridcell "0% 0%" [ref=e1895]:
+                          - generic "0%" [ref=e1898]:
+                            - generic [ref=e1899]:
+                              - generic [ref=e1901]: 0%
+                              - button "0%" [ref=e1902] [cursor=pointer]:
+                                - generic [ref=e1903]: 0%
+                        - gridcell "173" [ref=e1906]:
+                          - generic "173" [ref=e1909]:
+                            - generic [ref=e1911]: "173"
+                        - gridcell "0.10%" [ref=e1962]:
+                          - generic "0.10%" [ref=e1965]:
+                            - generic [ref=e1967]: 0.10%
+                    - rowgroup [ref=e1751]:
+                      - row "Press SPACE to select this row." [ref=e1752]:
+                        - gridcell [ref=e1753]
+                        - gridcell [ref=e1754]
+                        - 'gridcell "Total: 5" [ref=e1756]':
+                          - 'generic "Total: 5" [ref=e1758]'
+                    - rowgroup [ref=e1759]:
+                      - row "Press SPACE to select this row." [ref=e1760]:
+                        - gridcell [ref=e1761]
+                        - gridcell [ref=e1767]
+                        - gridcell [ref=e1769]
+                        - gridcell [ref=e1775]
+                        - gridcell [ref=e1777]
+                        - gridcell [ref=e1779]
+                        - gridcell "<5%" [ref=e1912]:
+                          - generic "<5%" [ref=e1917]
+                        - gridcell "—" [ref=e1918]:
+                          - generic "—" [ref=e1923]
+                        - gridcell "306" [ref=e1924]:
+                          - generic "306" [ref=e1929]
+                        - gridcell "0.12%" [ref=e1968]:
+                          - generic "0.12%" [ref=e1973]
+                  - text:    
+  - generic [ref=e260]:
+    - generic [ref=e261]: © 2026 Amazon.com, Inc. or its affiliates.
+    - link "Conditions of use" [ref=e262] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088
+    - link "Privacy notice" [ref=e263] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+    - link "Amazon Advertising Agreement" [ref=e264] [cursor=pointer]:
+      - /url: https://advertising.amazon.com/terms
+    - link "Status" [ref=e265] [cursor=pointer]:
+      - /url: https://status.ads.amazon.com

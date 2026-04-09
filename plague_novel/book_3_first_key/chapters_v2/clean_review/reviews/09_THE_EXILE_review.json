@@ -1,0 +1,384 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_3_first_key/chapters_v2/clean_review/09_THE_EXILE.md",
+  "review_date": "2026-03-27T16:42:27.361828",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Thread Tracker",
+    "First-Time Reader",
+    "Binge-Read Tester",
+    "Genre Bridge Editor",
+    "Onboarding Editor",
+    "Series Arc Editor"
+  ],
+  "notes": [
+    {
+      "persona": "Thread Tracker",
+      "severity": "critical",
+      "category": "thread management",
+      "location": "chapter end",
+      "issue": "Chapter ends with zero open questions or immediate threats, providing resolution rather than propulsion",
+      "suggestion": "End on a revelation or immediate threat. Consider having Rachel discover something alarming about Leah's condition, or Sethnakht making an unexpected move that threatens the network.",
+      "example_before": "For the woman who, centuries dead, had outmaneuvered generations of offensive planning by encoding a single principle into her network's doctrine: *When centralized power comes for you, become something it cannot grasp.*",
+      "example_after": "For the woman who, centuries dead, had outmaneuvered generations of offensive planning by encoding a single principle into her network's doctrine: *When centralized power comes for you, become something it cannot grasp.* But as Sethnakht walked away, he smiled. Because he'd noticed something about Rachel's daughter that she hadn't seen yet."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "cliffhanger quality",
+      "location": "final paragraphs",
+      "issue": "Chapter concludes with philosophical reflection rather than dramatic tension or immediate stakes",
+      "suggestion": "Replace the contemplative ending with an urgent discovery or threat that demands immediate attention in the next chapter",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "thread closure imbalance",
+      "location": "throughout chapter",
+      "issue": "Chapter closes multiple threads (Pattern Eye location, Order's presence in Babylon, Sethnakht's mission) without opening equivalent new mysteries",
+      "suggestion": "Introduce new urgent questions: What is the Order's real plan for the cataloged families? What is Leah's unusual condition progressing toward? What did Sethnakht really discover about Rachel's network?",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "minor",
+      "category": "scene break hooks",
+      "location": "section transitions",
+      "issue": "Scene breaks don't end on mini-cliffhangers that pull reader forward",
+      "suggestion": "End each scene section with a question, revelation, or threat rather than resolution",
+      "example_before": "She scraped it again. Knowing it would be back tomorrow.",
+      "example_after": "She scraped it again. Knowing it would be back tomorrow. But this time, she heard footsteps behind her in the dark."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "suggestion",
+      "category": "pacing",
+      "location": "river scene",
+      "issue": "The Sethnakht encounter, while well-written, feels too resolved and cordial given the stakes",
+      "suggestion": "Add underlying tension or a veiled threat that suggests this peaceful encounter masks something more dangerous",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "series entry confusion",
+      "location": "opening paragraph",
+      "issue": "Multiple unexplained concepts thrown at reader immediately: 'old dreams,' 'bloodline,' 'twenty-three generations,' 'ancestral memory.' No context for what these mean or why they matter.",
+      "suggestion": "Add a brief grounding sentence explaining what Rachel is experiencing - perhaps comparing the ancestral memories to a specific physical sensation readers can understand.",
+      "example_before": "Rachel bat-Yonah walked through burning Jerusalem with the old dreams screaming in her mind. Her own memories and beneath them, older ones \u2014 the way infection layers on top of injury. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations",
+      "example_after": "Rachel bat-Yonah walked through burning Jerusalem with inherited memories flooding her mind like a fever she couldn't break. Her own memories and beneath them, older ones passed down through her family line \u2014 the way infection layers on top of injury. Pi-Ramesses burning. Mycenae burning. Every collapse her ancestors had witnessed for twenty-three generations"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "unexplained concepts",
+      "location": "paragraph 2",
+      "issue": "'The network' is referenced as if I should know what it is. No explanation of what this network does, who runs it, or why preserving it matters.",
+      "suggestion": "Add a sentence explaining what the network is and its purpose when first mentioned.",
+      "example_before": "And Rachel had to make a choice: try to preserve the network through displacement, or let centuries of work burn with Jerusalem.",
+      "example_after": "And Rachel had to make a choice: try to preserve her family's secret network of knowledge-keepers through displacement, or let centuries of work burn with Jerusalem."
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "assumed knowledge",
+      "location": "meeting with Esther",
+      "issue": "'The Order' is introduced as if I know who they are, what they want, and why they're enemies. The 'original agreement' is referenced with no context.",
+      "suggestion": "When first mentioning the Order, include a brief explanation of who they are and their relationship to Rachel's network.",
+      "example_before": "This is exactly what the Order was built for.",
+      "example_after": "This is exactly what the Order - the rival network that seeks to control rather than preserve knowledge - was built for."
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "character introduction",
+      "location": "Egyptian man at plaza",
+      "issue": "The Egyptian man is introduced as significant but I have no context for why he matters or what makes him dangerous/important.",
+      "suggestion": "Add Rachel's internal thoughts explaining why this man's presence concerns her.",
+      "example_before": "His eyes tracked the crowd \u2014 not watching people but watching *patterns.* The same seeing. Different training.",
+      "example_after": "His eyes tracked the crowd \u2014 not watching people but watching *patterns.* The same inherited sight that ran in her bloodline, but trained by her enemies rather than her family."
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "jargon without context",
+      "location": "multiple locations",
+      "issue": "Terms used without explanation: 'Pattern Eye,' 'Archive,' 'early awakening,' 'breeding program,' 'genealogical records,' 'essential populations'",
+      "suggestion": "Either provide context clues or brief explanations for these terms when first used.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "world-building gaps",
+      "location": "chalk marks scene",
+      "issue": "The significance of the chalk marks and what they mean for the families is unclear. Why is being 'cataloged' dangerous?",
+      "suggestion": "Add Rachel's realization about what happens to cataloged families - recruitment, disappearance, etc.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "character introduction",
+      "location": "Sethnakht introduction",
+      "issue": "Sethnakht appears as 'Generation 17' but I don't understand the generation numbering system or what it signifies.",
+      "suggestion": "Briefly explain what the generation numbers mean - perhaps distance from the original founders.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "unexplained concepts",
+      "location": "Nefertari and Amenhotep references",
+      "issue": "These names are referenced as founders/important figures but I have no context for who they were or when they lived.",
+      "suggestion": "Add brief context when their names first appear - 'Nefertari, who founded their network centuries ago' or similar.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "pacing",
+      "location": "paragraphs 3-7",
+      "issue": "Opening loses momentum immediately after the strong first line. The explanation of ancestral memory and double vision reads like exposition rather than lived experience.",
+      "suggestion": "Show Rachel experiencing the double vision through action - stumbling, reaching for something that isn't there, speaking to someone who died centuries ago. Make the reader feel the disorientation rather than explaining it.",
+      "example_before": "her trained eye unable to tell which patient was dying in front of her",
+      "example_after": "She knelt beside a wounded man, but her hands reached for Egyptian linen bandages that weren't there, tried to treat burns with medicines that wouldn't be invented for a thousand years"
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "engagement killer",
+      "location": "paragraphs 45-60",
+      "issue": "The network meeting scene is a classic 'committee meeting' - characters sitting around discussing philosophy and strategy. Pure momentum killer.",
+      "suggestion": "Cut this scene entirely or make it urgent/active. Have them discovering the chalk marks together, arguing while moving families, making decisions under time pressure.",
+      "example_before": "They met in a borrowed room... Around them, ten thousand Judean exiles tried to rebuild lives from nothing.",
+      "example_after": "Rachel burst into Esther's room. 'They're marking our doors. Right now. We have maybe an hour before they finish the quarter.'"
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "put-down point",
+      "location": "paragraphs 70-85",
+      "issue": "Rachel's nighttime walk and psychological breakdown is introspective and static. A tired reader would skip this entire section.",
+      "suggestion": "Make this discovery active. Have her following someone, being followed, or witnessing something that advances the plot while she's having the breakdown.",
+      "example_before": "Rachel got up. She crossed the exile quarter in bare feet...",
+      "example_after": "Rachel woke to footsteps in the alley. Someone was moving house to house with deliberate purpose. She followed."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "minor",
+      "category": "scene transition",
+      "location": "paragraph 95",
+      "issue": "The river scene transition feels arbitrary - why is Rachel at the river? The setup with Leah's fever is weak.",
+      "suggestion": "Strengthen the connection. Maybe Rachel is fleeing the quarter after erasing marks, or following the Egyptian operative.",
+      "example_before": "Rachel went to the river because Leah had a fever.",
+      "example_after": "Rachel went to the river because she'd seen him heading there - the Egyptian from the plaza, moving with purpose just before dawn."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "chapter ending",
+      "location": "final paragraphs",
+      "issue": "The Sethnakht interlude completely kills momentum. It's backstory masquerading as revelation. After 6000+ words, this feels like padding.",
+      "suggestion": "Either cut this entirely or make it a short, punchy revelation that raises stakes for the next chapter. The current version is an essay, not a cliffhanger.",
+      "example_before": "[entire interlude]",
+      "example_after": "The message Sethnakht sent that night contained one line that would change everything: 'The Pattern Eye was never in the Temple. It's been moving for centuries.'"
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "engagement killer",
+      "location": "paragraphs 25-35",
+      "issue": "The exile march description is literary but static. Catalog of details without forward momentum.",
+      "suggestion": "Give Rachel a specific goal during the march - someone to protect, information to relay, a decision to make. Turn observation into action.",
+      "example_before": "Rachel walked in a column of ten thousand exiles...",
+      "example_after": "Rachel counted the children as they marched. Thirty-seven under age ten. If the Order was recruiting, those were the targets."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "critical",
+      "category": "speculative grounding",
+      "location": "paragraphs 2-3 and throughout",
+      "issue": "The blood memory concept needs stronger historical anchoring. Currently reads as fantasy to historical fiction readers.",
+      "suggestion": "Ground the inherited memory in documented historical practices - Jewish oral tradition preservation, Egyptian priestly knowledge transmission, or documented trauma responses in displaced populations. Add a line about how this resembles known cultural memory transmission but operates at a biological level.",
+      "example_before": "Her own memories and beneath them, older ones \u2014 the way infection layers on top of injury.",
+      "example_after": "Her own memories and beneath them, older ones \u2014 the way infection layers on top of injury. The physicians at the Temple had documented this in displaced families: children born knowing songs their parents never sang, speaking words in languages they'd never heard. But this was deeper, cellular, as if trauma carved grooves in the blood itself."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "paragraphs in 'One night in Babylon' section",
+      "issue": "The long introspective passage about Rachel's insomnia runs 6+ paragraphs with no action or dialogue. Thriller readers will skip ahead.",
+      "suggestion": "Break up the introspection with physical actions, discoveries, or brief dialogue. Insert the chalk mark discovery earlier to maintain forward momentum.",
+      "example_before": "The extended internal monologue about wrong sounds and exile grief",
+      "example_after": "Cut the reflection in half and insert: 'She pressed her hand against the doorframe to steady herself - and felt something. Cool. Gritty. Chalk.' This discovery then drives the remaining reflection."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "historical plausibility",
+      "location": "Sethnakht encounter at river",
+      "issue": "The civilized conversation between sworn enemies strains credibility for both historical and thriller readers.",
+      "suggestion": "Add tension and realistic wariness. Show the professional respect through actions rather than direct dialogue. Make it feel like two spies circling each other, not old friends chatting.",
+      "example_before": "Neither of them ran... 'You're Nefertari's,' he said.",
+      "example_after": "She could run. Should run. But her daughter's fever left no choice but the river. He watched her approach, hand near his belt. Neither moved suddenly. 'You know what I am,' she said. Not a question."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "anachronism",
+      "location": "paragraph describing Jerusalem burning",
+      "issue": "'Bronze scale armor' and 'iron-tipped spears' - historical accuracy issue that will bother historical fiction readers.",
+      "suggestion": "Research period-accurate Babylonian military equipment. Bronze scale was earlier; by 586 BCE they'd have iron scale or lamellar armor.",
+      "example_before": "bronze scale armor",
+      "example_after": "iron scale armor"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "suggestion",
+      "category": "literary depth",
+      "location": "throughout",
+      "issue": "The chapter has strong emotional complexity but could use more moments of prose beauty to fully satisfy literary readers.",
+      "suggestion": "Enhance a few key descriptions with more lyrical language, particularly around the river scene and the burning city imagery.",
+      "example_before": "The Euphrates moved the way rivers move",
+      "example_after": "The Euphrates moved with the patience of centuries, brown water thick as blood between mudflats that had drunk the runoff of empires"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "genre friction",
+      "location": "Offensive Network Interlude",
+      "issue": "The shift to Sethnakht's POV breaks the chapter's narrative flow and may confuse readers expecting single POV.",
+      "suggestion": "Either integrate this information into Rachel's storyline (perhaps through her deductions about the chalk marks) or clearly mark it as a separate section/chapter.",
+      "example_before": "OFFENSIVE NETWORK INTERLUDE",
+      "example_after": "Move this content to a separate chapter or integrate Sethnakht's background into his river conversation with Rachel"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "jargon before drama",
+      "location": "early paragraphs",
+      "issue": "Terms like 'the bloodline,' 'Generation 22,' 'ancestral memory,' and 'the Archive' are thrown at readers before they understand what these concepts mean emotionally",
+      "suggestion": "Let Rachel experience the overwhelming visions first, then gradually introduce the terminology as she processes what's happening to her",
+      "example_before": "A woman walked beside her. Esther. Generation 22, one of theirs, older than Rachel by fifteen years.",
+      "example_after": "A woman walked beside her. Esther, whose eyes held the same haunted look Rachel recognized in mirrors\u2014the weight of dreams that weren't her own. Fifteen years older, she'd carried the burden longer."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "critical",
+      "category": "terminology dump",
+      "location": "network meeting scene",
+      "issue": "Multiple concepts introduced rapidly: 'the Order,' 'the compact,' 'original agreement,' 'network,' 'the rules'\u2014readers don't have emotional investment in any of these yet",
+      "suggestion": "Focus on one concept at a time, grounding each in immediate stakes before introducing the next",
+      "example_before": "'If we break the compact,' Rachel said slowly, 'we become what they are. Effective. Ruthless. And indistinguishable from the thing we were built to oppose.'",
+      "example_after": "'If we abandon what makes us different from them,' Rachel said slowly, watching Esther's face, 'we become the very thing that burned our city.'"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "mechanic explanations",
+      "location": "multiple locations throughout",
+      "issue": "The text explains HOW the ancestral memory system works before establishing WHY the reader should care about Rachel's suffering",
+      "suggestion": "Show Rachel's disorientation and pain first, let readers experience her confusion, then reveal the mechanism",
+      "example_before": "The old dreams are overwhelming... I can barely think past the ancestral trauma. Pi-Ramesses, Mycenae, Ugarit. Every burning city our bloodline ever witnessed.",
+      "example_after": "Rachel pressed her palms to her temples. The screaming in her mind wasn't stopping\u2014other voices, other terror, cities she'd never seen burning behind her eyes as if they were her own memories."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "show-before-name violation",
+      "location": "Sethnakht introduction",
+      "issue": "Sethnakht is immediately labeled as 'Generation 17, offensive network' before we see what makes him different or threatening",
+      "suggestion": "Show his methodical observation skills and clinical approach first, then reveal his network affiliation",
+      "example_before": "Sethnakht. Generation 17.",
+      "example_after": "A man whose gaze dissected crowds like a physician examining symptoms\u2014searching for patterns others missed."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "suggestion",
+      "category": "emotional hook first",
+      "location": "Pattern Eye introduction",
+      "issue": "The Pattern Eye is mentioned as a plot device before establishing its emotional significance to the characters",
+      "suggestion": "Ground this artifact in what it means to the people who've died protecting it",
+      "example_before": "Phoenician traders carried it. The Pattern Eye is still safe in Byblos.",
+      "example_after": "The thing our people have died to protect for centuries\u2014it survived. Hidden where no empire would think to look."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "progressive disclosure",
+      "location": "opening paragraphs",
+      "issue": "Too many specialized concepts introduced simultaneously without proper scaffolding",
+      "suggestion": "Layer the speculative elements more gradually, anchoring each in Rachel's immediate physical/emotional experience",
+      "example_before": "Her own memories and beneath them, older ones \u2014 the way infection layers on top of injury. Pi-Ramesses burning. Mycenae burning. Every collapse the bloodline had witnessed for twenty-three generations",
+      "example_after": "The dreams weren't hers. They crashed over her own memories like fever-visions\u2014other women, other fires, other cities falling. She couldn't tell where her grief ended and theirs began."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "critical",
+      "category": "throughline momentum",
+      "location": "final pages",
+      "issue": "All major throughlines reach resolution or stasis simultaneously, killing forward momentum. The love echo gesture is acknowledged but doesn't advance, the Order pursuit ends in mutual exhaustion/respect, the key is moved but not progressed toward discovery, and the philosophical debate reaches an equipoise.",
+      "suggestion": "Leave one throughline with active tension. Either have Sethnakht discover a concrete clue about the key's new location, or have Rachel make a decision that will echo into future chapters (perhaps regarding Leah's training), or show the love echo gesture manifesting in Leah in a new way that sets up the next generation.",
+      "example_before": "Two enemies carrying water for sick daughters. The same river. The same disease. Six hundred years of the experiment, and neither side could prove it was winning.",
+      "example_after": "Two enemies carrying water for sick daughters. The same river. The same disease. Six hundred years of the experiment, and neither side could prove it was winning. But as Rachel walked home, Leah's fever broke\u2014and with it came the child's first clear memory of Pi-Ramesses burning, vivid as her own life. The inheritance was accelerating."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "chapter handoff",
+      "location": "ending",
+      "issue": "The chapter concludes with philosophical reflection rather than a compelling question that pulls readers forward. The mutual recognition scene between Rachel and Sethnakht provides closure rather than creating urgency for the next chapter.",
+      "suggestion": "End with a discovery or development that creates immediate stakes for the next chapter. Perhaps Rachel finds evidence of where the Pattern Eye was moved, or Leah demonstrates new abilities, or the Order changes tactics based on Sethnakht's report.",
+      "example_before": "For the woman who, centuries dead, had outmaneuvered generations of offensive planning by encoding a single principle into her network's doctrine: *When centralized power comes for you, become something it cannot grasp.*",
+      "example_after": "For the woman who, centuries dead, had outmaneuvered generations of offensive planning by encoding a single principle into her network's doctrine: *When centralized power comes for you, become something it cannot grasp.* He sealed the report and prepared to leave Jerusalem. But first, he would follow the water-bearer. The defensive network thought they had hidden their key. They had only revealed their next destination."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "love echo progression",
+      "location": "multiple instances",
+      "issue": "The reaching gesture appears repeatedly but doesn't evolve or connect to other carriers beyond Rachel's recognition of it. Missing opportunity to show how this gesture might manifest in Leah or create a connection across generations.",
+      "suggestion": "Show the gesture evolving or manifesting in a new way. Perhaps Leah unconsciously mirrors it, or Rachel recognizes it in another exile, creating a tangible connection between past and future carriers.",
+      "example_before": "Rachel did not reach left. She reached forward, and put her hand on her daughter's chest, and felt the heartbeat, and did not sleep.",
+      "example_after": "Rachel did not reach left. She reached forward, and put her hand on her daughter's chest\u2014and felt the small fist unclench, reaching left in perfect mimicry. The gesture, passing from her body to Leah's, as it had passed for twenty-three generations. As it would pass for twenty-four."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "minor",
+      "category": "connective tissue",
+      "location": "throughout",
+      "issue": "While the chapter references previous cities (Pi-Ramesses, Mycenae, Ugarit), it lacks specific callbacks to characters from earlier chapters or clear setups for named future characters/locations.",
+      "suggestion": "Include a reference to specific earlier carriers by name, or plant details that will connect to future chapters. The Archive mentions could reference specific entries that readers have seen.",
+      "example_before": "She thought of Micah \u2014 Tamar's entry in the Archive, the boy who walked into a plague camp at sixteen",
+      "example_after": "She thought of Micah \u2014 Tamar's entry in the Archive, the boy who walked into a plague camp at sixteen with the same reaching gesture she carried. Tamar had written: 'He reached for something that wasn't there, as if his hand remembered holding it.' The same inheritance, the same loss, three generations before her own."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "suggestion",
+      "category": "motif development",
+      "location": "river scene",
+      "issue": "The river encounter between Rachel and Sethnakht is powerful but could better serve the series arc by including subtle intelligence exchange or a revelation that impacts future chapters.",
+      "suggestion": "Have one character inadvertently reveal information that will matter later, or plant a detail that creates dramatic irony for future chapters.",
+      "example_before": "Your network moved the key from a location we'd been watching for four centuries.",
+      "example_after": "Your network moved the key from a location we'd been watching for four centuries. We found textile fragments\u2014Phoenician purple, still holding its color after all this time. Your people have interesting allies."
+    }
+  ],
+  "summary": "Review complete: 36 notes from 6 personas. Critical: 9, Major: 15, Minor: 8, Suggestions: 4. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 9,
+    "major": 15,
+    "minor": 8,
+    "suggestion": 4,
+    "total": 36
+  }
+}

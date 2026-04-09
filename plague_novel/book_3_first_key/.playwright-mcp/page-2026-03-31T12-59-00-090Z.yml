@@ -1,0 +1,787 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e5] [cursor=pointer]:
+        - /url: "#AACApplicationBody"
+      - generic [ref=e7]:
+        - link "Amazon Advertising Console" [ref=e8] [cursor=pointer]:
+          - /url: /mn
+          - img "Amazon Advertising Console" [ref=e9]
+        - generic [ref=e11]:
+          - link "Campaigns." [ref=e12] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+            - generic [ref=e14]: Campaigns
+          - switch "Set Campaigns as your homepage" [ref=e16] [cursor=pointer]:
+            - img [ref=e18]
+            - generic [ref=e20]: Set Campaigns as your homepage
+        - generic [ref=e21]:
+          - button "Randy Pellegrini Sponsored ads, multiple countries" [ref=e23] [cursor=pointer]:
+            - generic [ref=e25]:
+              - paragraph [ref=e26]: Randy Pellegrini
+              - paragraph [ref=e27]: Sponsored ads, multiple countries
+          - button "See my notifications" [ref=e30] [cursor=pointer]:
+            - img [ref=e32]
+            - generic [ref=e34]: See my notifications
+          - button "Open the help panel" [ref=e2255] [cursor=pointer]:
+            - img [ref=e2257]
+            - generic [ref=e2259]: Open the help panel
+          - button "Your preferences" [ref=e44] [cursor=pointer]:
+            - img [ref=e46]
+            - generic [ref=e48]: Your preferences
+    - generic [ref=e50]:
+      - generic [ref=e52]:
+        - button "Create campaign" [ref=e54] [cursor=pointer]:
+          - img "Create campaign" [ref=e237]
+          - generic [ref=e56]: Create campaign
+        - link "Campaigns" [ref=e58] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Campaigns" [ref=e240]
+          - generic [ref=e59]:
+            - generic [ref=e60]: Campaigns
+            - generic:
+              - generic:
+                - switch "Set Campaigns as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Campaigns as your homepage
+        - link "Recommendations" [ref=e62] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Recommendations" [ref=e243]
+          - generic [ref=e63]:
+            - generic [ref=e64]: Recommendations
+            - generic:
+              - generic:
+                - switch "Set Recommendations as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Recommendations as your homepage
+        - generic [ref=e65]:
+          - button "Show links under Creative tools" [ref=e67] [cursor=pointer]:
+            - img "Creative tools" [ref=e249]
+          - generic [ref=e69]:
+            - generic [ref=e70] [cursor=pointer]:
+              - link "Creative assets" [ref=e71]:
+                - /url: https://advertising.amazon.com/creative-assets?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - generic:
+                  - switch "Set Creative assets as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Creative assets as your homepage
+            - generic [ref=e72] [cursor=pointer]:
+              - link "Creative Studio" [ref=e73]:
+                - /url: https://advertising.amazon.com/creative-studio?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic [ref=e74]:
+                - generic "Beta_ai_with_icon" [ref=e75]:
+                  - generic [ref=e77]:
+                    - text: Beta
+                    - img [ref=e79]
+                    - text: AI
+                - generic:
+                  - switch "Set Creative Studio as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Creative Studio as your homepage
+            - generic [ref=e81] [cursor=pointer]:
+              - link "Translations" [ref=e82]:
+                - /url: https://advertising.amazon.com/translations?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - generic:
+                  - switch "Set Translations as your homepage":
+                    - generic:
+                      - img
+                    - generic: Set Translations as your homepage
+        - link "Ads planner" [ref=e84] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Ads planner" [ref=e252]
+          - generic [ref=e85]:
+            - generic [ref=e86]: Ads planner
+            - generic:
+              - generic:
+                - switch "Set Ads planner as your homepage":
+                  - generic:
+                    - img
+                  - generic: Set Ads planner as your homepage
+        - generic [ref=e87]:
+          - button "Show links under Measurement & reporting" [ref=e89] [cursor=pointer]:
+            - img "Measurement & reporting" [ref=e255]
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e92] [cursor=pointer]:
+                - link "Amazon Attribution" [ref=e93]:
+                  - /url: https://advertising.amazon.com/attribution?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e94]:
+                  - generic "Beta" [ref=e95]:
+                    - generic [ref=e96]: Beta
+                  - generic:
+                    - switch "Set Amazon Attribution as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Amazon Attribution as your homepage
+              - generic [ref=e97] [cursor=pointer]:
+                - link "Amazon Marketing Cloud" [ref=e98]:
+                  - /url: https://advertising.amazon.com/marketing-cloud?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Amazon Marketing Cloud as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Amazon Marketing Cloud as your homepage
+              - separator
+            - generic [ref=e100]:
+              - generic [ref=e101] [cursor=pointer]:
+                - link "Reporting" [ref=e102]:
+                  - /url: https://advertising.amazon.com/reporting?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e103]:
+                  - generic "Beta" [ref=e104]:
+                    - generic [ref=e105]: Beta
+                  - generic:
+                    - switch "Set Reporting as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Reporting as your homepage
+              - generic [ref=e106] [cursor=pointer]:
+                - link "Sponsored ads reports" [ref=e107]:
+                  - /url: https://advertising.amazon.com/reports?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Sponsored ads reports as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Sponsored ads reports as your homepage
+              - generic [ref=e108] [cursor=pointer]:
+                - link "Brand lift studies" [ref=e109]:
+                  - /url: https://advertising.amazon.com/studies?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Brand lift studies as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Brand lift studies as your homepage
+        - generic [ref=e110]:
+          - button "Show links under Tools & resources" [ref=e112] [cursor=pointer]:
+            - img "Tools & resources" [ref=e258]
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - generic [ref=e115]: MORE ADVERTISING TOOLS
+              - generic [ref=e116] [cursor=pointer]:
+                - link "Partner Directory" [ref=e117]:
+                  - /url: https://advertising.amazon.com/partners/directory?ref_=ad_cons_more_ads_tools_nav
+                - img [ref=e120]
+              - generic [ref=e122] [cursor=pointer]:
+                - link "Amazon Ads Academy" [ref=e123]:
+                  - /url: https://advertising.amazon.com/academy?ref_=advcnsl_us_aaa_gw
+                - img [ref=e126]
+              - separator
+            - generic [ref=e129]:
+              - generic [ref=e130]: AMAZON SELLING TOOLS
+              - generic [ref=e131] [cursor=pointer]:
+                - link "Kindle Direct Publishing" [ref=e132]:
+                  - /url: https://kdp.amazon.com/?ref_=AAC_gnav_KDP_linkback
+                - img [ref=e135]
+        - button "All tools" [ref=e138] [cursor=pointer]:
+          - img "All tools" [ref=e261]
+          - generic [ref=e140]: All tools
+        - generic [ref=e141]:
+          - button "Show links under Administration" [ref=e143] [cursor=pointer]:
+            - img "Administration" [ref=e264]
+          - generic [ref=e144]:
+            - generic [ref=e145]:
+              - generic [ref=e146] [cursor=pointer]:
+                - link "Account access & settings" [ref=e147]:
+                  - /url: https://advertising.amazon.com/user/management?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic:
+                    - switch "Set Account access & settings as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Account access & settings as your homepage
+              - separator
+            - generic [ref=e149]:
+              - generic [ref=e150]: BILLING & PAYMENT
+              - generic [ref=e151] [cursor=pointer]:
+                - link "Billing" [ref=e152]:
+                  - /url: https://advertising.amazon.com/billing/history?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic [ref=e153]:
+                  - generic "New" [ref=e154]:
+                    - generic [ref=e155]: New
+                  - generic:
+                    - switch "Set Billing as your homepage":
+                      - generic:
+                        - img
+                      - generic: Set Billing as your homepage
+      - generic:
+        - generic:
+          - generic "Create campaign":
+            - img "Create campaign"
+            - generic:
+              - generic: Create campaign
+        - generic:
+          - link "Campaigns":
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Campaigns"
+            - generic:
+              - generic: Campaigns
+        - generic:
+          - link "Recommendations":
+            - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Recommendations"
+            - generic:
+              - generic: Recommendations
+        - generic:
+          - generic "Show links under Creative tools":
+            - img "Creative tools"
+            - generic: Creative tools
+          - generic:
+            - generic:
+              - generic:
+                - link "Creative assets":
+                  - /url: https://advertising.amazon.com/creative-assets?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - link "Creative Studio":
+                  - /url: https://advertising.amazon.com/creative-studio?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta_ai_with_icon":
+                    - generic:
+                      - generic:
+                        - text: Beta
+                        - generic:
+                          - img
+                        - text: AI
+              - generic:
+                - link "Translations":
+                  - /url: https://advertising.amazon.com/translations?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - link "Ads planner":
+            - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+            - img "Ads planner"
+            - generic:
+              - generic: Ads planner
+        - generic:
+          - generic "Show links under Measurement & reporting":
+            - img "Measurement & reporting"
+            - generic: Measurement & reporting
+          - generic:
+            - generic:
+              - generic:
+                - link "Amazon Attribution":
+                  - /url: https://advertising.amazon.com/attribution?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta":
+                    - generic: Beta
+              - generic:
+                - link "Amazon Marketing Cloud":
+                  - /url: https://advertising.amazon.com/marketing-cloud?entityId=ENTITY1SABYJ3Y7NOJU
+              - separator
+            - generic:
+              - generic:
+                - link "Reporting":
+                  - /url: https://advertising.amazon.com/reporting?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "Beta":
+                    - generic: Beta
+              - generic:
+                - link "Sponsored ads reports":
+                  - /url: https://advertising.amazon.com/reports?entityId=ENTITY1SABYJ3Y7NOJU
+              - generic:
+                - link "Brand lift studies":
+                  - /url: https://advertising.amazon.com/studies?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - generic "Show links under Tools & resources":
+            - img "Tools & resources"
+            - generic: Tools & resources
+          - generic:
+            - generic:
+              - generic: MORE ADVERTISING TOOLS
+              - generic:
+                - link "Partner Directory":
+                  - /url: https://advertising.amazon.com/partners/directory?ref_=ad_cons_more_ads_tools_nav
+                - generic:
+                  - generic:
+                    - img
+              - generic:
+                - link "Amazon Ads Academy":
+                  - /url: https://advertising.amazon.com/academy?ref_=advcnsl_us_aaa_gw
+                - generic:
+                  - generic:
+                    - img
+              - separator
+            - generic:
+              - generic: AMAZON SELLING TOOLS
+              - generic:
+                - link "Kindle Direct Publishing":
+                  - /url: https://kdp.amazon.com/?ref_=AAC_gnav_KDP_linkback
+                - generic:
+                  - generic:
+                    - img
+        - generic:
+          - generic "Show links under Administration":
+            - img "Administration"
+            - generic: Administration
+          - generic:
+            - generic:
+              - generic:
+                - link "Account access & settings":
+                  - /url: https://advertising.amazon.com/user/management?entityId=ENTITY1SABYJ3Y7NOJU
+              - separator
+            - generic:
+              - generic: BILLING & PAYMENT
+              - generic:
+                - link "Billing":
+                  - /url: https://advertising.amazon.com/billing/history?entityId=ENTITY1SABYJ3Y7NOJU
+                - generic:
+                  - generic "New":
+                    - generic: New
+  - generic [ref=e158]:
+    - navigation "Sidebar" [ref=e160]:
+      - button "Hide navigation menu" [expanded] [ref=e161] [cursor=pointer]:
+        - img [ref=e163]
+        - generic [ref=e167]: Hide navigation menu
+      - list [ref=e168]:
+        - generic [ref=e169]:
+          - listitem [ref=e170]:
+            - button "Portfolios" [ref=e172] [cursor=pointer]:
+              - generic [ref=e173]: Portfolios
+          - listitem [ref=e174]:
+            - button "Campaigns" [active] [ref=e176] [cursor=pointer]:
+              - generic [ref=e177]: Campaigns
+          - listitem [ref=e178]:
+            - button "Drafts" [ref=e180] [cursor=pointer]:
+              - generic [ref=e181]: Drafts
+        - separator
+        - generic [ref=e183]:
+          - listitem [ref=e184]:
+            - button "Products" [ref=e186] [cursor=pointer]:
+              - generic [ref=e187]: Products
+          - listitem [ref=e188]:
+            - button "Targeting" [ref=e190] [cursor=pointer]:
+              - generic [ref=e191]: Targeting
+          - listitem [ref=e192]:
+            - button "Budgets" [ref=e194] [cursor=pointer]:
+              - generic [ref=e195]: Budgets
+        - separator
+        - generic [ref=e197]:
+          - listitem [ref=e198]:
+            - button "History" [ref=e200] [cursor=pointer]:
+              - generic [ref=e201]: History
+          - listitem [ref=e202]:
+            - button "Rules Beta" [ref=e204] [cursor=pointer]:
+              - generic [ref=e205]: Rules
+              - generic "Beta" [ref=e206]:
+                - generic [ref=e207]: Beta
+          - listitem [ref=e208]:
+            - button "Settings" [ref=e210] [cursor=pointer]:
+              - generic [ref=e211]: Settings
+    - generic [ref=e214]:
+      - button "Share feedback" [ref=e2265] [cursor=pointer]
+      - generic [ref=e2267]:
+        - img [ref=e2270]
+        - generic [ref=e2272]:
+          - heading "Set up billing to advertise in India" [level=4] [ref=e2274]
+          - generic [ref=e2276]:
+            - text: To launch your first sponsored ads campaign in India,
+            - link "set up billing" [ref=e2277] [cursor=pointer]:
+              - /url: https://advertising.amazon.in/in/sauron/payment/settings/select
+            - text: .
+        - button "Dismiss message" [ref=e2278] [cursor=pointer]:
+          - img [ref=e2280]
+          - generic [ref=e2282]: Dismiss message
+      - generic [ref=e2283]:
+        - navigation [ref=e2284]:
+          - generic [ref=e2285]:
+            - button "All" [pressed] [ref=e2287] [cursor=pointer]:
+              - generic [ref=e2289]: All
+            - button "Sponsored Products" [pressed] [ref=e2291] [cursor=pointer]:
+              - generic [ref=e2293]: Sponsored Products
+            - button "Sponsored Brands" [pressed] [ref=e2295] [cursor=pointer]:
+              - generic [ref=e2297]: Sponsored Brands
+            - button "Display, Video, & Audio" [pressed] [ref=e2299] [cursor=pointer]:
+              - generic [ref=e2301]: Display, Video, & Audio
+        - generic [ref=e2302]:
+          - generic [ref=e2307]:
+            - generic [ref=e2308]:
+              - generic [ref=e2309]:
+                - paragraph [ref=e2310]: Date range
+                - button "Open tooltip" [ref=e2312] [cursor=pointer]:
+                  - img [ref=e2314]
+              - button "Open date range picker" [ref=e2320] [cursor=pointer]:
+                - paragraph [ref=e2321]: Mar 24 - Mar 30, 2026
+                - img [ref=e2323]
+            - generic [ref=e2325]:
+              - generic [ref=e2326]:
+                - generic "Impressions" [ref=e2327]
+                - button "Open tooltip" [ref=e2330] [cursor=pointer]:
+                  - img [ref=e2332]
+              - generic [ref=e2336]:
+                - heading "113,715" [level=5] [ref=e2337]
+                - img "Trend visualization" [ref=e2340]
+              - button "View metric details" [ref=e2343] [cursor=pointer]: View details
+            - generic [ref=e2344]:
+              - generic [ref=e2345]:
+                - generic "Clicks" [ref=e2346]
+                - button "Open tooltip" [ref=e2349] [cursor=pointer]:
+                  - img [ref=e2351]
+              - generic [ref=e2355]:
+                - heading "115" [level=5] [ref=e2356]
+                - img "Trend visualization" [ref=e2359]
+              - button "View metric details" [ref=e2362] [cursor=pointer]: View details
+            - generic [ref=e2363]:
+              - generic [ref=e2364]:
+                - generic "Branded searches" [ref=e2365]
+                - button "Open tooltip" [ref=e2368] [cursor=pointer]:
+                  - img [ref=e2370]
+              - heading "0" [level=5] [ref=e2375]
+              - button "View metric details" [ref=e2377] [cursor=pointer]: View details
+            - generic [ref=e2378]:
+              - generic [ref=e2379]:
+                - generic "Detail page views" [ref=e2380]
+                - button "Open tooltip" [ref=e2383] [cursor=pointer]:
+                  - img [ref=e2385]
+              - heading "0" [level=5] [ref=e2390]
+              - button "View metric details" [ref=e2392] [cursor=pointer]: View details
+            - generic [ref=e2393]:
+              - generic [ref=e2394]:
+                - generic "Purchases (new to brand)" [ref=e2395]
+                - button "Open tooltip" [ref=e2398] [cursor=pointer]:
+                  - img [ref=e2400]
+              - heading "0" [level=5] [ref=e2405]
+              - button "View metric details" [ref=e2407] [cursor=pointer]: View details
+            - generic [ref=e2408]:
+              - generic [ref=e2409]:
+                - generic "Sales" [ref=e2410]
+                - button "Open tooltip" [ref=e2413] [cursor=pointer]:
+                  - img [ref=e2415]
+              - heading "$0.00" [level=5] [ref=e2420]
+              - button "View metric details" [ref=e2422] [cursor=pointer]: View details
+          - generic [ref=e2424]:
+            - generic [ref=e2428]:
+              - generic [ref=e2429]:
+                - generic "View all guidance cards with the performance chart" [ref=e2430]: Show all (5)
+                - generic [ref=e2432]: View chart only
+                - generic "Hide all cards" [ref=e2434]: Hide all
+              - generic [ref=e2436]:
+                - button "Scroll to the next card" [ref=e2437] [cursor=pointer]:
+                  - img [ref=e2440]
+                  - generic [ref=e2444]: Scroll to the next card
+                - generic [ref=e2446]:
+                  - generic [ref=e2452]:
+                    - generic [ref=e2454]:
+                      - heading "Budget performance" [level=4] [ref=e2455]
+                      - button [ref=e2458] [cursor=pointer]:
+                        - img [ref=e2460]
+                    - paragraph [ref=e2462]: Optimize your campaign budgets
+                    - generic [ref=e2463]:
+                      - paragraph [ref=e2465]: 3 campaigns went out of budget and had missed opportunities.
+                      - heading "$11.00 - $28.00" [level=4] [ref=e2467]
+                      - generic [ref=e2468]:
+                        - paragraph [ref=e2470]: Estimated missed sales
+                        - paragraph [ref=e2472]: Last 14 days
+                    - generic [ref=e2473]:
+                      - generic [ref=e2476]:
+                        - img [ref=e2478]
+                        - generic [ref=e2480]: 1 Advertiser
+                      - generic [ref=e2482]:
+                        - img [ref=e2484]
+                        - generic [ref=e2486]: United States
+                    - link "View filtered budget data" [ref=e2488] [cursor=pointer]:
+                      - /url: https://advertising.amazon.com/cm/budgets?entityId=ENTITY1SABYJ3Y7NOJU&insightType=MissedSales&startDate=2026-03-10&endDate=2026-03-23&campaignCount=3
+                  - generic [ref=e2494]:
+                    - generic [ref=e2496]:
+                      - heading "Targeting performance" [level=4] [ref=e2497]
+                      - button [ref=e2500] [cursor=pointer]:
+                        - img [ref=e2502]
+                    - paragraph [ref=e2504]: Review bottom-performing targets
+                    - generic [ref=e2505]:
+                      - paragraph [ref=e2507]: Consistently reviewing your targets can help optimize your ad strategy.
+                      - heading "6 of 107" [level=4] [ref=e2509]
+                      - progressbar [ref=e2513]
+                      - generic [ref=e2514]:
+                        - paragraph [ref=e2516]: Targets with clicks but zero sales
+                        - paragraph [ref=e2518]: Last 14 days
+                    - generic [ref=e2519]:
+                      - generic [ref=e2522]:
+                        - img [ref=e2524]
+                        - generic [ref=e2526]: 1 Advertiser
+                      - generic [ref=e2528]:
+                        - img [ref=e2530]
+                        - generic [ref=e2532]: United States
+                    - button "View filtered targeting data" [ref=e2534] [cursor=pointer]
+                  - generic [ref=e2536]:
+                    - generic [ref=e2537]:
+                      - generic [ref=e2538]:
+                        - heading "Performance" [level=4] [ref=e2539]
+                        - paragraph [ref=e2540]: Mar 1 - Mar 31, 2026
+                      - button "View chart only" [ref=e2541] [cursor=pointer]:
+                        - img [ref=e2543]
+                        - generic [ref=e2545]: View chart only
+                    - generic [ref=e2548]:
+                      - generic [ref=e2551]:
+                        - generic [ref=e2552]:
+                          - generic [ref=e2554]:
+                            - generic [ref=e2555] [cursor=pointer]: Select a metric
+                            - button "Select a metric —" [disabled] [ref=e2556]:
+                              - generic [ref=e2557]: —
+                              - img [ref=e2559]
+                          - button "Hide metric" [disabled] [ref=e2565]:
+                            - paragraph [ref=e2567]: —
+                        - generic [ref=e2568]:
+                          - generic [ref=e2570]:
+                            - generic [ref=e2571] [cursor=pointer]: Select a metric
+                            - button "Select a metric —" [disabled] [ref=e2572]:
+                              - generic [ref=e2573]: —
+                              - img [ref=e2575]
+                          - button "Hide metric" [disabled] [ref=e2581]:
+                            - paragraph [ref=e2583]: —
+                        - generic [ref=e2584]:
+                          - generic [ref=e2586]:
+                            - generic [ref=e2587] [cursor=pointer]: Select a metric
+                            - button "Select a metric —" [disabled] [ref=e2588]:
+                              - generic [ref=e2589]: —
+                              - img [ref=e2591]
+                          - button "Hide metric" [disabled] [ref=e2597]:
+                            - paragraph [ref=e2599]: —
+                        - generic [ref=e2600]:
+                          - generic [ref=e2602]:
+                            - generic [ref=e2603] [cursor=pointer]: Select a metric
+                            - button "Select a metric —" [disabled] [ref=e2604]:
+                              - generic [ref=e2605]: —
+                              - img [ref=e2607]
+                          - button "Hide metric" [disabled] [ref=e2613]:
+                            - paragraph [ref=e2615]: —
+                      - generic [ref=e2619]:
+                        - generic [ref=e2622]:
+                          - generic:
+                            - img [ref=e2623]
+                            - generic:
+                              - img
+                        - generic [ref=e2625]:
+                          - img [ref=e2627]
+                          - heading "Loading" [level=4] [ref=e2630]
+                  - generic [ref=e2636]:
+                    - generic [ref=e2638]:
+                      - heading "Targeting performance" [level=4] [ref=e2639]
+                      - button [ref=e2642] [cursor=pointer]:
+                        - img [ref=e2644]
+                    - paragraph [ref=e2646]: Review top-performing targets
+                    - generic [ref=e2647]:
+                      - paragraph [ref=e2649]: Consistently reviewing your targets can help optimize your ad strategy.
+                      - heading "1 of 107" [level=4] [ref=e2651]
+                      - progressbar [ref=e2655]
+                      - generic [ref=e2656]:
+                        - paragraph [ref=e2658]: Targets with sales
+                        - paragraph [ref=e2660]: Last 14 days
+                    - generic [ref=e2661]:
+                      - generic [ref=e2664]:
+                        - img [ref=e2666]
+                        - generic [ref=e2668]: 1 Advertiser
+                      - generic [ref=e2670]:
+                        - img [ref=e2672]
+                        - generic [ref=e2674]: United States
+                    - button "View filtered targeting data" [ref=e2676] [cursor=pointer]
+                  - generic [ref=e2682]:
+                    - generic [ref=e2684]:
+                      - heading "Increase sales" [level=4] [ref=e2685]
+                      - button [ref=e2688] [cursor=pointer]:
+                        - img [ref=e2690]
+                    - paragraph [ref=e2692]: Reach more shoppers with Streaming TV
+                    - generic [ref=e2693]:
+                      - paragraph [ref=e2696]: On average, advertisers see 110% sales growth when adding Streaming TV to their existing ad mix. Use video generator for TV-quality ads.
+                      - img [ref=e2700]
+                      - generic [ref=e2701]:
+                        - paragraph [ref=e2703]: Amazon internal data
+                        - button "Open tooltip" [ref=e2705] [cursor=pointer]:
+                          - img [ref=e2707]
+                    - generic [ref=e2711]:
+                      - generic [ref=e2714]:
+                        - img [ref=e2716]
+                        - generic [ref=e2718]: 1 Advertiser
+                      - generic [ref=e2720]:
+                        - img [ref=e2722]
+                        - generic [ref=e2724]: United States
+                    - link "Create a Streaming TV campaign" [ref=e2726] [cursor=pointer]:
+                      - /url: https://advertising.amazon.com/create/settings/st?refUrl=recommendations-use-vid-ai-card-v&entityId=ENTITY1HVWPSUXU8MG8
+            - generic [ref=e2727]:
+              - generic [ref=e2728]:
+                - generic [ref=e2731]:
+                  - generic [ref=e2732] [cursor=pointer]: Search
+                  - generic [ref=e2733]:
+                    - img [ref=e2736]
+                    - searchbox "Search with metrics or settings" [ref=e2739]
+                - generic [ref=e2741]:
+                  - generic "Targets with clicks and no orders" [ref=e2742] [cursor=pointer]:
+                    - generic [ref=e2743]: Targets with clicks and no orders
+                  - generic "Campaigns with clicks and no orders" [ref=e2744] [cursor=pointer]:
+                    - generic [ref=e2745]: Campaigns with clicks and no orders
+                  - generic "Targets with impressions and no sales" [ref=e2746] [cursor=pointer]:
+                    - generic [ref=e2747]: Targets with impressions and no sales
+              - generic [ref=e2749]:
+                - generic [ref=e2751]:
+                  - generic [ref=e2752]:
+                    - button "[object Object]" [ref=e2754] [cursor=pointer]:
+                      - heading "Campaigns" [level=1] [ref=e2756]
+                      - img [ref=e2758]
+                    - link "Create campaign" [ref=e2763] [cursor=pointer]:
+                      - /url: /cb?entityId=ENTITY1SABYJ3Y7NOJU
+                    - generic [ref=e2766]:
+                      - generic [ref=e2767] [cursor=pointer]: Search
+                      - generic [ref=e2768]:
+                        - img [ref=e2771]
+                        - searchbox "Search" [ref=e2776]
+                    - button "Filter by" [ref=e2778] [cursor=pointer]:
+                      - generic [ref=e2779]: Filter by
+                      - img [ref=e2781]
+                    - button "Bulk actions" [disabled] [ref=e2789]:
+                      - generic [ref=e2790]: Bulk actions
+                      - img [ref=e2792]
+                  - generic [ref=e2796]:
+                    - 'button "View: Default" [ref=e2798] [cursor=pointer]':
+                      - generic [ref=e2799]: "View: Default"
+                      - img [ref=e2801]
+                    - button "Columns" [ref=e2806] [cursor=pointer]:
+                      - generic [ref=e2807]: Columns
+                      - img [ref=e2809]
+                    - button "Mar 1 - Mar 31, 2026" [ref=e2814] [cursor=pointer]:
+                      - text: Mar 1 - Mar 31, 2026
+                      - img [ref=e2816]
+                    - button [ref=e2818] [cursor=pointer]:
+                      - img [ref=e2820]
+                    - button "Export" [ref=e2824] [cursor=pointer]:
+                      - generic [ref=e2825]: Export
+                      - img [ref=e2827]
+                - generic [ref=e2832]:
+                  - text:  
+                  - grid [ref=e2833]:
+                    - row "Active Campaign name Open tooltip" [ref=e2834]:
+                      - columnheader [ref=e2835]:
+                        - text: 
+                        - checkbox [ref=e2838]
+                      - columnheader "Active" [ref=e2840]:
+                        - text: 
+                        - button "Active" [ref=e2844] [cursor=pointer]:
+                          - generic [ref=e2845]: Active
+                      - columnheader "Campaign name Open tooltip" [ref=e2846]:
+                        - text: 
+                        - generic [ref=e2849]:
+                          - button "Campaign name" [ref=e2850] [cursor=pointer]:
+                            - generic [ref=e2851]: Campaign name
+                          - button "Open tooltip" [ref=e2855] [cursor=pointer]:
+                            - img [ref=e2857]
+                    - rowgroup [ref=e2861]:
+                      - row "Country Status Open tooltip Type Open tooltip Campaign start date Open tooltip Campaign end date Open tooltip Campaign budget amount Open tooltip Top-of-search impression share Open tooltip Top-of-search bid adjustment Open tooltip Clicks Open tooltip CTR Open tooltip Total cost Open tooltip CPC Open tooltip Purchases Open tooltip Sales Open tooltip ACOS Open tooltip" [ref=e2862]:
+                        - columnheader "Country" [ref=e2863]:
+                          - text: 
+                          - button "Country" [ref=e2867] [cursor=pointer]:
+                            - generic [ref=e2868]: Country
+                        - columnheader "Status Open tooltip" [ref=e2869]:
+                          - text: 
+                          - generic [ref=e2872] [cursor=pointer]:
+                            - button "Status" [ref=e2873]:
+                              - generic [ref=e2874]: Status
+                            - button "Open tooltip" [ref=e2878]:
+                              - img [ref=e2880]
+                        - columnheader "Type Open tooltip" [ref=e2884]:
+                          - text: 
+                          - generic [ref=e2887] [cursor=pointer]:
+                            - button "Type" [ref=e2888]:
+                              - generic [ref=e2889]: Type
+                            - button "Open tooltip" [ref=e2891]:
+                              - img [ref=e2893]
+                        - columnheader "Campaign start date Open tooltip" [ref=e2897]:
+                          - text: 
+                          - generic [ref=e2900] [cursor=pointer]:
+                            - button "Campaign start date" [ref=e2901]:
+                              - generic [ref=e2902]: Campaign start date
+                            - button "Open tooltip" [ref=e2904]:
+                              - img [ref=e2906]
+                        - columnheader "Campaign end date Open tooltip" [ref=e2910]:
+                          - text: 
+                          - generic [ref=e2913] [cursor=pointer]:
+                            - button "Campaign end date" [ref=e2914]:
+                              - generic [ref=e2915]: Campaign end date
+                            - button "Open tooltip" [ref=e2917]:
+                              - img [ref=e2919]
+                        - columnheader "Campaign budget amount Open tooltip" [ref=e2923]:
+                          - text: 
+                          - generic [ref=e2926] [cursor=pointer]:
+                            - button "Campaign budget amount" [ref=e2927]:
+                              - generic [ref=e2928]: Campaign budget amount
+                            - button "Open tooltip" [ref=e2932]:
+                              - img [ref=e2934]
+                        - columnheader "Top-of-search impression share Open tooltip" [ref=e2938]:
+                          - text: 
+                          - generic [ref=e2941] [cursor=pointer]:
+                            - button "Top-of-search impression share" [ref=e2942]:
+                              - generic [ref=e2943]: Top-of-search impression share
+                            - button "Open tooltip" [ref=e2945]:
+                              - img [ref=e2947]
+                        - columnheader "Top-of-search bid adjustment Open tooltip" [ref=e2951]:
+                          - text: 
+                          - generic [ref=e2954] [cursor=pointer]:
+                            - button "Top-of-search bid adjustment" [ref=e2955]:
+                              - generic [ref=e2956]: Top-of-search bid adjustment
+                            - button "Open tooltip" [ref=e2958]:
+                              - img [ref=e2960]
+                        - columnheader "Clicks Open tooltip" [ref=e2964]:
+                          - text: 
+                          - generic [ref=e2967] [cursor=pointer]:
+                            - button "Clicks" [ref=e2968]:
+                              - generic [ref=e2969]: Clicks
+                            - button "Open tooltip" [ref=e2973]:
+                              - img [ref=e2975]
+                        - columnheader "CTR Open tooltip" [ref=e2979]:
+                          - text: 
+                          - generic [ref=e2982] [cursor=pointer]:
+                            - button "CTR" [ref=e2983]:
+                              - generic [ref=e2984]: CTR
+                            - button "Open tooltip" [ref=e2988]:
+                              - img [ref=e2990]
+                        - columnheader "Total cost Open tooltip" [ref=e2994]:
+                          - text: 
+                          - generic [ref=e2997] [cursor=pointer]:
+                            - button "Total cost" [ref=e2998]:
+                              - generic [ref=e2999]: Total cost
+                            - button "Open tooltip" [ref=e3003]:
+                              - img [ref=e3005]
+                        - columnheader "CPC Open tooltip" [ref=e3009]:
+                          - text: 
+                          - generic [ref=e3012] [cursor=pointer]:
+                            - button "CPC" [ref=e3013]:
+                              - generic [ref=e3014]: CPC
+                            - button "Open tooltip" [ref=e3018]:
+                              - img [ref=e3020]
+                        - columnheader "Purchases Open tooltip" [ref=e3024]:
+                          - text: 
+                          - generic [ref=e3027] [cursor=pointer]:
+                            - button "Purchases" [ref=e3028]:
+                              - generic [ref=e3029]: Purchases
+                            - button "Open tooltip" [ref=e3033]:
+                              - img [ref=e3035]
+                        - columnheader "Sales Open tooltip" [ref=e3039]:
+                          - text: 
+                          - generic [ref=e3042] [cursor=pointer]:
+                            - button "Sales" [ref=e3043]:
+                              - generic [ref=e3044]: Sales
+                            - button "Open tooltip" [ref=e3048]:
+                              - img [ref=e3050]
+                        - columnheader "ACOS Open tooltip" [ref=e3054]:
+                          - text: 
+                          - generic [ref=e3057] [cursor=pointer]:
+                            - button "ACOS" [ref=e3058]:
+                              - generic [ref=e3059]: ACOS
+                            - button "Open tooltip" [ref=e3063]:
+                              - img [ref=e3065]
+                    - rowgroup
+                    - heading [level=4] [ref=e3074]:
+                      - img [ref=e3076]
+                      - text: Loading
+                  - text:    
+  - generic [ref=e230]:
+    - generic [ref=e231]: © 2026 Amazon.com, Inc. or its affiliates.
+    - link "Conditions of use" [ref=e232] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088
+    - link "Privacy notice" [ref=e233] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+    - link "Amazon Advertising Agreement" [ref=e234] [cursor=pointer]:
+      - /url: https://advertising.amazon.com/terms
+    - link "Status" [ref=e235] [cursor=pointer]:
+      - /url: https://status.ads.amazon.com

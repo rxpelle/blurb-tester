@@ -1,0 +1,429 @@
+- generic [ref=e4]:
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e12]: Analytics
+      - button "Open the universal picker." [ref=e15] [cursor=pointer]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e18]: All accounts
+            - img [ref=e19]: chevron_right
+            - generic [ref=e20]: Randy Pellegrini Author Site
+          - generic [ref=e21]:
+            - generic [ref=e23]: Randy Pellegrini Author Site
+            - img [ref=e24]: arrow_drop_down
+      - search [ref=e28]:
+        - img [ref=e29]: search
+        - textbox "Search" [ref=e31]:
+          - /placeholder: Try searching "trend of conversions from organic last month"
+      - button "Switch products" [ref=e33] [cursor=pointer]:
+        - img [ref=e34]
+      - button "Ask Analytics Advisor" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]: button_magic
+      - button "Help entry menu" [ref=e43] [cursor=pointer]:
+        - img [ref=e44]: help
+      - button "Open the user account switcher panel." [ref=e48] [cursor=pointer]
+  - generic [ref=e51]:
+    - generic [ref=e55]:
+      - navigation "Main pages" [ref=e56]:
+        - link "Home" [ref=e58] [cursor=pointer]:
+          - img [ref=e59]:
+            - img [ref=e60]
+          - generic [ref=e63]: Home
+        - link "Reports" [ref=e66] [cursor=pointer]:
+          - img [ref=e67]: insert_chart_filled
+          - generic [ref=e68]: Reports
+        - link "Explore" [ref=e70] [cursor=pointer]:
+          - img [ref=e71]: data_exploration
+          - generic [ref=e72]: Explore
+        - link "Advertising" [ref=e74] [cursor=pointer]:
+          - img [ref=e75]: ads_click
+          - generic [ref=e76]: Advertising
+      - navigation "Settings pages" [ref=e77]:
+        - link "Admin" [ref=e79] [cursor=pointer]:
+          - img [ref=e80]: settings_filled
+          - generic [ref=e81]: Admin
+    - generic [ref=e1455]:
+      - main [ref=e1456]:
+        - generic [ref=e1457]:
+          - generic [ref=e1460]:
+            - generic [ref=e2118]:
+              - generic [ref=e2119]:
+                - generic [ref=e2120]:
+                  - button "All Users" [ref=e2123]:
+                    - generic [ref=e2127]:
+                      - generic [ref=e2128]: A
+                      - generic: All Users
+                  - button "Add comparison" [ref=e2130] [cursor=pointer]:
+                    - generic: Add comparison
+                    - img [ref=e2131]: add
+                - separator [ref=e2132]
+                - generic [ref=e2133]:
+                  - 'heading "Traffic acquisition: Session primary channel group (Default Channel Group)" [level=1] [ref=e2135]':
+                    - 'button "Traffic acquisition: Session primary channel group (Default Channel Group)" [ref=e2136]'
+                  - button "This report uses 100% of available data. Click to view more information." [ref=e2139] [cursor=pointer]:
+                    - img [ref=e2140]: check_circle
+                    - generic [ref=e2141]: This report uses 100% of available data. Click to view more information.
+                    - img [ref=e2142]: arrow_drop_down
+                  - button "Add filter" [ref=e2145] [cursor=pointer]:
+                    - generic: Add filter
+                    - img [ref=e2146]: add
+              - generic [ref=e2147]:
+                - combobox "Open date range picker" [ref=e2151] [cursor=pointer]:
+                  - generic [ref=e2153]:
+                    - generic [ref=e2154]: Last 28 days
+                    - generic [ref=e2155]: Mar 3 - Mar 30, 2026
+                  - img [ref=e2156]: arrow_drop_down
+                - separator [ref=e2159]
+              - generic [ref=e2163]:
+                - generic "View annotations" [ref=e2164]:
+                  - button "View annotations" [ref=e2165] [cursor=pointer]:
+                    - img [ref=e2167]:
+                      - img [ref=e2168]
+                - generic "Edit comparisons" [ref=e2172]:
+                  - button "Edit comparisons" [ref=e2173] [cursor=pointer]:
+                    - img [ref=e2175]:
+                      - img [ref=e2176]
+                - generic "Open this report as an exploration" [ref=e2182]:
+                  - button "Open this report as an exploration" [ref=e2183] [cursor=pointer]:
+                    - img [ref=e2185]: data_exploration
+                - generic "Share this report" [ref=e2188]:
+                  - button "Share this report" [ref=e2189] [cursor=pointer]:
+                    - img [ref=e2191]: share
+                - generic "Insights" [ref=e2194]:
+                  - button "Insights" [ref=e2195] [cursor=pointer]:
+                    - img [ref=e2197]:
+                      - img [ref=e2198]
+                - generic "Customize report" [ref=e2205]:
+                  - button "Customize report" [ref=e2206] [cursor=pointer]:
+                    - img [ref=e2208]: edit
+            - generic [ref=e1560]:
+              - generic [ref=e1565]:
+                - generic [ref=e1567]:
+                  - generic [ref=e1568]:
+                    - img [ref=e1569]: insights_auto
+                    - heading "On March 7, 2026, \"Direct\" sessions declined to 113, but not to the expected 5" [level=2] [ref=e1572]:
+                      - generic [ref=e1573]: On March 7, 2026, "Direct" sessions declined to 113, but not to the expected 5
+                  - generic [ref=e1575]: BETA
+                  - button "Dismiss the insight card" [ref=e1576] [cursor=pointer]:
+                    - img [ref=e1577]: close
+                - generic [ref=e1580]:
+                  - region [ref=e1581]:
+                    - generic [ref=e1585]: This deviation stemmed from a significant increase in "Chrome" browser users, rising from 5 to 45 week-over-week. Additionally, the page path "/blog/i-built-a-free-keyword-tool/" debuted, contributing a substantial 105 new sessions to the total.
+                  - button "View key drivers" [ref=e1592] [cursor=pointer]:
+                    - generic [ref=e1597]: View key drivers
+                - text: thumb_up thumb_down more_vert
+              - generic [ref=e1601]:
+                - generic [ref=e1605]:
+                  - generic:
+                    - generic [ref=e1610]:
+                      - heading "Sessions by Session primary channel group (Default Channel Group) over time" [level=2] [ref=e1612]
+                      - combobox "Date granularity selector" [ref=e1617] [cursor=pointer]:
+                        - generic [ref=e1618]:
+                          - generic [ref=e1620]: Day
+                          - img [ref=e1623]
+                    - img [ref=e1631]:
+                      - generic [ref=e1632]:
+                        - generic [ref=e1641]:
+                          - generic [ref=e1643]: 03Mar
+                          - generic [ref=e1645]: "05"
+                          - generic [ref=e1647]: "07"
+                          - generic [ref=e1649]: "09"
+                          - generic [ref=e1651]: "11"
+                          - generic [ref=e1653]: "13"
+                          - generic [ref=e1655]: "15"
+                          - generic [ref=e1657]: "17"
+                          - generic [ref=e1659]: "19"
+                          - generic [ref=e1661]: "21"
+                          - generic [ref=e1663]: "23"
+                          - generic [ref=e1665]: "25"
+                          - generic [ref=e1667]: "27"
+                          - generic [ref=e1669]: "29"
+                        - generic [ref=e1670]:
+                          - generic [ref=e1672]: "0"
+                          - generic [ref=e1674]: "100"
+                          - generic [ref=e1676]: "200"
+                          - generic [ref=e1678]: "300"
+                          - generic [ref=e1680]: "400"
+                          - generic [ref=e1682]: "500"
+                      - list [ref=e1727]:
+                        - listitem [ref=e1728]:
+                          - generic [ref=e1730]: Total
+                          - button "Highlight Total line" [pressed] [ref=e1731] [cursor=pointer]
+                        - listitem [ref=e1732]:
+                          - generic [ref=e1734]: Direct
+                          - button "Highlight Direct line" [pressed] [ref=e1735] [cursor=pointer]
+                        - listitem [ref=e1736]:
+                          - generic [ref=e1738]: Organic Social
+                          - button "Highlight Organic Social line" [pressed] [ref=e1739] [cursor=pointer]
+                        - listitem [ref=e1740]:
+                          - generic [ref=e1742]: Organic Search
+                          - button "Highlight Organic Search line" [pressed] [ref=e1743] [cursor=pointer]
+                        - listitem [ref=e1744]:
+                          - generic [ref=e1746]: Unassigned
+                          - button "Highlight Unassigned line" [pressed] [ref=e1747] [cursor=pointer]
+                        - listitem [ref=e1748]:
+                          - generic [ref=e1750]: Organic Shopping
+                          - button "Highlight Organic Shopping line" [pressed] [ref=e1751] [cursor=pointer]
+                - generic [ref=e1758]:
+                  - generic [ref=e1759]:
+                    - generic [ref=e1760]:
+                      - generic [ref=e1762]:
+                        - button "Plot rows" [disabled]:
+                          - generic: Plot rows
+                      - generic [ref=e1768]:
+                        - img [ref=e1770]: search
+                        - textbox "Search" [ref=e1772]:
+                          - /placeholder: Search…
+                        - generic: cancel
+                    - generic [ref=e1775]:
+                      - generic [ref=e1776]:
+                        - generic [ref=e1777]: "Rows per page:"
+                        - 'combobox "Rows per page: 10" [ref=e1782] [cursor=pointer]':
+                          - generic [ref=e1783]:
+                            - generic [ref=e1785]: "10"
+                            - img [ref=e1788]
+                      - generic [ref=e1790]: 1-6 of 6
+                  - grid "Report data." [ref=e1792]:
+                    - rowgroup [ref=e1793]:
+                      - row "selection column Checkbox for deselecting all rows Index Session primary channel group (Default Channel Group) open dimensions picker Sessions Engaged sessions Engagement rate Average engagement time per session Events per session Event count All events Key events All events Session key event rate All events Total revenue" [ref=e1794]:
+                        - columnheader "selection column Checkbox for deselecting all rows" [ref=e1795]:
+                          - generic [ref=e1796]: selection column
+                          - generic [ref=e1800] [cursor=pointer]:
+                            - checkbox "Checkbox for deselecting all rows" [checked=mixed] [ref=e1802]
+                            - generic:
+                              - img
+                        - columnheader "Index" [ref=e1803]:
+                          - generic [ref=e1804]: Index
+                        - columnheader "Session primary channel group (Default Channel Group) open dimensions picker" [ref=e1805] [cursor=pointer]:
+                          - button "Session primary channel group (Default Channel Group) open dimensions picker" [ref=e1806]:
+                            - generic [ref=e1808]:
+                              - button "Session primary channel group (Default Channel Group)" [ref=e1812]:
+                                - generic [ref=e1814]:
+                                  - generic [ref=e1815]: Session primary channel group (Default Channel Group)
+                                  - text: Session primary…Channel Group)
+                                - img [ref=e1816]: arrow_drop_down
+                              - button "open dimensions picker" [ref=e1821]:
+                                - img [ref=e1822]: add
+                            - img [ref=e1826]
+                        - columnheader "Sessions" [ref=e1828] [cursor=pointer]:
+                          - button "Sessions" [ref=e1829]:
+                            - button "Sessions" [ref=e1832]
+                            - img [ref=e1834]
+                        - columnheader "Engaged sessions" [ref=e1836] [cursor=pointer]:
+                          - button "Engaged sessions" [ref=e1837]:
+                            - button "Engaged sessions" [ref=e1840]
+                            - img [ref=e1842]
+                        - columnheader "Engagement rate" [ref=e1844] [cursor=pointer]:
+                          - button "Engagement rate" [ref=e1845]:
+                            - button "Engagement rate" [ref=e1848]
+                            - img [ref=e1850]
+                        - columnheader "Average engagement time per session" [ref=e1852] [cursor=pointer]:
+                          - button "Average engagement time per session" [ref=e1853]:
+                            - button "Average engagement time per session" [ref=e1856]
+                            - img [ref=e1858]
+                        - columnheader "Events per session" [ref=e1860] [cursor=pointer]:
+                          - button "Events per session" [ref=e1861]:
+                            - button "Events per session" [ref=e1864]
+                            - img [ref=e1866]
+                        - columnheader "Event count All events" [ref=e1868] [cursor=pointer]:
+                          - button "Event count All events" [ref=e1869]:
+                            - generic [ref=e1870]:
+                              - button "Event count" [ref=e1871]
+                              - button "All events" [ref=e1874]:
+                                - generic [ref=e1876]:
+                                  - generic [ref=e1877]: All events
+                                  - text: All events
+                                - img [ref=e1878]: arrow_drop_down
+                            - img [ref=e1882]
+                        - columnheader "Key events All events" [ref=e1884] [cursor=pointer]:
+                          - button "Key events All events" [ref=e1885]:
+                            - generic [ref=e1886]:
+                              - button "Key events" [ref=e1887]
+                              - button "All events" [ref=e1890]:
+                                - generic [ref=e1892]:
+                                  - generic [ref=e1893]: All events
+                                  - text: All events
+                                - img [ref=e1894]: arrow_drop_down
+                            - img [ref=e1898]
+                        - columnheader "Session key event rate All events" [ref=e1900] [cursor=pointer]:
+                          - button "Session key event rate All events" [ref=e1901]:
+                            - generic [ref=e1902]:
+                              - button "Session key event rate" [ref=e1903]
+                              - button "All events" [ref=e1906]:
+                                - generic [ref=e1908]:
+                                  - generic [ref=e1909]: All events
+                                  - text: All events
+                                - img [ref=e1910]: arrow_drop_down
+                            - img [ref=e1914]
+                        - columnheader "Total revenue" [ref=e1916] [cursor=pointer]:
+                          - button "Total revenue" [ref=e1917]:
+                            - button "Total revenue" [ref=e1920]
+                            - img [ref=e1922]
+                      - row "Checkbox for total row Empty Summary Totals cell for Empty Summary Totals cell for Index column Total 1,284 100% of total 592 100% of total 46.11% Avg 0% 28s Avg 0% 5.39 Avg 0% 6,923 100% of total Empty Summary Totals cell for Key events column 0.00 Empty Summary Totals cell for Session key event rate column 0% Empty Summary Totals cell for Total revenue column $0.00" [ref=e1924]:
+                        - columnheader "Checkbox for total row Empty Summary Totals cell for" [ref=e1925]:
+                          - generic [ref=e1928] [cursor=pointer]:
+                            - checkbox "Checkbox for total row" [checked] [ref=e1930]
+                            - generic:
+                              - img
+                          - generic [ref=e1931]: Empty Summary Totals cell for
+                        - columnheader "Empty Summary Totals cell for Index column" [ref=e1932]:
+                          - generic [ref=e1933]: Empty Summary Totals cell for Index column
+                        - columnheader "Total" [ref=e1934]:
+                          - generic [ref=e1935]: Total
+                        - columnheader "1,284 100% of total" [ref=e1936]:
+                          - generic [ref=e1939]: 1,284
+                          - generic [ref=e1940]: 100% of total
+                        - columnheader "592 100% of total" [ref=e1941]:
+                          - generic [ref=e1944]: "592"
+                          - generic [ref=e1945]: 100% of total
+                        - columnheader "46.11% Avg 0%" [ref=e1946]:
+                          - generic [ref=e1949]: 46.11%
+                          - generic [ref=e1950]: Avg 0%
+                        - columnheader "28s Avg 0%" [ref=e1951]:
+                          - generic [ref=e1954]: 28s
+                          - generic [ref=e1955]: Avg 0%
+                        - columnheader "5.39 Avg 0%" [ref=e1956]:
+                          - generic [ref=e1959]: "5.39"
+                          - generic [ref=e1960]: Avg 0%
+                        - columnheader "6,923 100% of total" [ref=e1961]:
+                          - generic [ref=e1964]: 6,923
+                          - generic [ref=e1965]: 100% of total
+                        - columnheader "Empty Summary Totals cell for Key events column 0.00" [ref=e1966]:
+                          - generic [ref=e1967]: Empty Summary Totals cell for Key events column
+                          - generic [ref=e1970]: "0.00"
+                        - columnheader "Empty Summary Totals cell for Session key event rate column 0%" [ref=e1972]:
+                          - generic [ref=e1973]: Empty Summary Totals cell for Session key event rate column
+                          - generic [ref=e1976]: 0%
+                        - columnheader "Empty Summary Totals cell for Total revenue column $0.00" [ref=e1978]:
+                          - generic [ref=e1979]: Empty Summary Totals cell for Total revenue column
+                          - generic [ref=e1982]: $0.00
+                    - rowgroup [ref=e1984]:
+                      - row "Checkbox for selecting row 1 1 Direct 739 (57.55%) 305 (51.52%) 41.27% 23s 4.96 3,666 (52.95%) 0.00 (–) 0% $0.00 (–)" [ref=e1985]:
+                        - gridcell "Checkbox for selecting row 1" [ref=e1986]:
+                          - generic [ref=e1990] [cursor=pointer]:
+                            - checkbox "Checkbox for selecting row 1" [checked] [ref=e1992]
+                            - generic:
+                              - img
+                        - gridcell "1" [ref=e1993]
+                        - gridcell "Direct" [ref=e1994]:
+                          - generic [ref=e1996]: Direct
+                        - gridcell "739 (57.55%)" [ref=e1997]
+                        - gridcell "305 (51.52%)" [ref=e1998]
+                        - gridcell "41.27%" [ref=e1999]
+                        - gridcell "23s" [ref=e2000]
+                        - gridcell "4.96" [ref=e2001]
+                        - gridcell "3,666 (52.95%)" [ref=e2002]
+                        - gridcell "0.00 (–)" [ref=e2003]
+                        - gridcell "0%" [ref=e2004]
+                        - gridcell "$0.00 (–)" [ref=e2005]
+                      - row "Checkbox for selecting row 2 2 Organic Social 496 (38.63%) 255 (43.07%) 51.41% 28s 6.00 2,975 (42.97%) 0.00 (–) 0% $0.00 (–)" [ref=e2006]:
+                        - gridcell "Checkbox for selecting row 2" [ref=e2007]:
+                          - generic [ref=e2011] [cursor=pointer]:
+                            - checkbox "Checkbox for selecting row 2" [checked] [ref=e2013]
+                            - generic:
+                              - img
+                        - gridcell "2" [ref=e2014]
+                        - gridcell "Organic Social" [ref=e2015]:
+                          - generic [ref=e2017]: Organic Social
+                        - gridcell "496 (38.63%)" [ref=e2018]
+                        - gridcell "255 (43.07%)" [ref=e2019]
+                        - gridcell "51.41%" [ref=e2020]
+                        - gridcell "28s" [ref=e2021]
+                        - gridcell "6.00" [ref=e2022]
+                        - gridcell "2,975 (42.97%)" [ref=e2023]
+                        - gridcell "0.00 (–)" [ref=e2024]
+                        - gridcell "0%" [ref=e2025]
+                        - gridcell "$0.00 (–)" [ref=e2026]
+                      - row "Checkbox for selecting row 3 3 Organic Search 39 (3.04%) 27 (4.56%) 69.23% 2m 11s 5.90 230 (3.32%) 0.00 (–) 0% $0.00 (–)" [ref=e2027]:
+                        - gridcell "Checkbox for selecting row 3" [ref=e2028]:
+                          - generic [ref=e2032] [cursor=pointer]:
+                            - checkbox "Checkbox for selecting row 3" [checked] [ref=e2034]
+                            - generic:
+                              - img
+                        - gridcell "3" [ref=e2035]
+                        - gridcell "Organic Search" [ref=e2036]:
+                          - generic [ref=e2038]: Organic Search
+                        - gridcell "39 (3.04%)" [ref=e2039]
+                        - gridcell "27 (4.56%)" [ref=e2040]
+                        - gridcell "69.23%" [ref=e2041]
+                        - gridcell "2m 11s" [ref=e2042]
+                        - gridcell "5.90" [ref=e2043]
+                        - gridcell "230 (3.32%)" [ref=e2044]
+                        - gridcell "0.00 (–)" [ref=e2045]
+                        - gridcell "0%" [ref=e2046]
+                        - gridcell "$0.00 (–)" [ref=e2047]
+                      - row "Checkbox for selecting row 4 4 Unassigned 9 (0.7%) 0 (0%) 0% 3s 3.00 27 (0.39%) 0.00 (–) 0% $0.00 (–)" [ref=e2048]:
+                        - gridcell "Checkbox for selecting row 4" [ref=e2049]:
+                          - generic [ref=e2053] [cursor=pointer]:
+                            - checkbox "Checkbox for selecting row 4" [checked] [ref=e2055]
+                            - generic:
+                              - img
+                        - gridcell "4" [ref=e2056]
+                        - gridcell "Unassigned" [ref=e2057]:
+                          - generic [ref=e2059]: Unassigned
+                        - gridcell "9 (0.7%)" [ref=e2060]
+                        - gridcell "0 (0%)" [ref=e2061]
+                        - gridcell "0%" [ref=e2062]
+                        - gridcell "3s" [ref=e2063]
+                        - gridcell "3.00" [ref=e2064]
+                        - gridcell "27 (0.39%)" [ref=e2065]
+                        - gridcell "0.00 (–)" [ref=e2066]
+                        - gridcell "0%" [ref=e2067]
+                        - gridcell "$0.00 (–)" [ref=e2068]
+                      - row "Checkbox for selecting row 5 5 Organic Shopping 3 (0.23%) 3 (0.51%) 100% 25s 6.00 18 (0.26%) 0.00 (–) 0% $0.00 (–)" [ref=e2069]:
+                        - gridcell "Checkbox for selecting row 5" [ref=e2070]:
+                          - generic [ref=e2074] [cursor=pointer]:
+                            - checkbox "Checkbox for selecting row 5" [checked] [ref=e2076]
+                            - generic:
+                              - img
+                        - gridcell "5" [ref=e2077]
+                        - gridcell "Organic Shopping" [ref=e2078]:
+                          - generic [ref=e2080]: Organic Shopping
+                        - gridcell "3 (0.23%)" [ref=e2081]
+                        - gridcell "3 (0.51%)" [ref=e2082]
+                        - gridcell "100%" [ref=e2083]
+                        - gridcell "25s" [ref=e2084]
+                        - gridcell "6.00" [ref=e2085]
+                        - gridcell "18 (0.26%)" [ref=e2086]
+                        - gridcell "0.00 (–)" [ref=e2087]
+                        - gridcell "0%" [ref=e2088]
+                        - gridcell "$0.00 (–)" [ref=e2089]
+                      - row "Checkbox for selecting row 6 6 Referral 1 (0.08%) 1 (0.17%) 100% 1m 12s 7.00 7 (0.1%) 0.00 (–) 0% $0.00 (–)" [ref=e2090]:
+                        - gridcell "Checkbox for selecting row 6" [ref=e2091]:
+                          - generic [ref=e2092]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - checkbox "Checkbox for selecting row 6" [disabled]
+                                  - generic:
+                                    - img
+                        - gridcell "6" [ref=e2093]
+                        - gridcell "Referral" [ref=e2094]:
+                          - generic [ref=e2096]: Referral
+                        - gridcell "1 (0.08%)" [ref=e2097]
+                        - gridcell "1 (0.17%)" [ref=e2098]
+                        - gridcell "100%" [ref=e2099]
+                        - gridcell "1m 12s" [ref=e2100]
+                        - gridcell "7.00" [ref=e2101]
+                        - gridcell "7 (0.1%)" [ref=e2102]
+                        - gridcell "0.00 (–)" [ref=e2103]
+                        - gridcell "0%" [ref=e2104]
+                        - gridcell "$0.00 (–)" [ref=e2105]
+          - generic [ref=e2107]:
+            - text: © 2026 Google |
+            - link "Analytics home" [ref=e2108] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/?hl=en-US
+            - text: "|"
+            - link "Terms of Service" [ref=e2109] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/tos.html?hl=en-US
+            - text: "|"
+            - link "Privacy Policy" [ref=e2110] [cursor=pointer]:
+              - /url: https://www.google.com/policies/privacy/?hl=en-US
+            - text: "|"
+            - button "Send feedback" [ref=e2111] [cursor=pointer]:
+              - img [ref=e2112]: feedback
+              - generic [ref=e2113]: Send feedback
+      - generic:
+        - complementary
+    - generic:
+      - button "Open context menu"

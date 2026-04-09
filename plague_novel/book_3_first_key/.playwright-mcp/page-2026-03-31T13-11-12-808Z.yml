@@ -1,0 +1,909 @@
+- generic [ref=e4]:
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e12]: Analytics
+      - button "Open the universal picker." [ref=e15] [cursor=pointer]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e18]: All accounts
+            - img [ref=e19]: chevron_right
+            - generic [ref=e20]: Randy Pellegrini Author Site
+          - generic [ref=e21]:
+            - generic [ref=e23]: Randy Pellegrini Author Site
+            - img [ref=e24]: arrow_drop_down
+      - search [ref=e28]:
+        - img [ref=e29]: search
+        - textbox "Search" [ref=e31]:
+          - /placeholder: Try searching "trend of conversions from organic last month"
+      - button "Switch products" [ref=e33] [cursor=pointer]:
+        - img [ref=e34]
+      - button "Ask Analytics Advisor" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]: button_magic
+      - button "Help entry menu" [ref=e43] [cursor=pointer]:
+        - img [ref=e44]: help
+      - button "Open the user account switcher panel." [ref=e48] [cursor=pointer]
+  - generic [ref=e51]:
+    - generic [ref=e55]:
+      - navigation "Main pages" [ref=e56]:
+        - link "Home" [ref=e58] [cursor=pointer]:
+          - img [ref=e59]:
+            - img [ref=e60]
+          - generic [ref=e63]: Home
+        - link "Reports" [ref=e66] [cursor=pointer]:
+          - img [ref=e67]: insert_chart_filled
+          - generic [ref=e68]: Reports
+        - link "Explore" [ref=e70] [cursor=pointer]:
+          - img [ref=e71]: data_exploration
+          - generic [ref=e72]: Explore
+        - link "Advertising" [ref=e74] [cursor=pointer]:
+          - img [ref=e75]: ads_click
+          - generic [ref=e76]: Advertising
+      - navigation "Settings pages" [ref=e77]:
+        - link "Admin" [ref=e79] [cursor=pointer]:
+          - img [ref=e80]: settings_filled
+          - generic [ref=e81]: Admin
+    - generic [ref=e85]:
+      - main [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e90]:
+            - generic [ref=e93]:
+              - heading "Home" [active] [level=1] [ref=e97]
+              - generic [ref=e102]:
+                - generic "View annotations" [ref=e103]:
+                  - button "View annotations" [ref=e104] [cursor=pointer]:
+                    - img [ref=e106]:
+                      - img [ref=e107]
+                - generic "Insights" [ref=e111]:
+                  - button "Insights" [ref=e112] [cursor=pointer]:
+                    - img [ref=e114]:
+                      - img [ref=e115]
+            - generic [ref=e123]:
+              - generic [ref=e127]:
+                - generic [ref=e128]:
+                  - generic [ref=e130]:
+                    - img [ref=e131]: auto_awesome
+                    - generic [ref=e136]:
+                      - generic [ref=e137]:
+                        - generic [ref=e138]:
+                          - tablist [ref=e141]:
+                            - generic [ref=e142]:
+                              - tab "Total users 1K" [selected] [ref=e143] [cursor=pointer]:
+                                - generic "Total users 1K" [ref=e149]:
+                                  - button "Total users" [ref=e151]:
+                                    - generic [ref=e152]: Total users
+                                    - img [ref=e153]: arrow_drop_down
+                                  - generic [ref=e154]:
+                                    - generic [ref=e156]: 1K
+                                    - generic [ref=e157]: "-"
+                              - tab "Sessions 1.5K" [ref=e158] [cursor=pointer]:
+                                - generic "Sessions 1.5K" [ref=e164]:
+                                  - button "Sessions" [ref=e166]:
+                                    - generic [ref=e167]: Sessions
+                                    - img [ref=e168]: arrow_drop_down
+                                  - generic [ref=e169]:
+                                    - generic [ref=e171]: 1.5K
+                                    - generic [ref=e172]: "-"
+                              - tab "Active users 1K" [ref=e173] [cursor=pointer]:
+                                - generic "Active users 1K" [ref=e179]:
+                                  - button "Active users" [ref=e181]:
+                                    - generic [ref=e182]: Active users
+                                    - img [ref=e183]: arrow_drop_down
+                                  - generic [ref=e184]:
+                                    - generic [ref=e186]: 1K
+                                    - generic [ref=e187]: "-"
+                              - tab "Event count 8.4K" [ref=e188] [cursor=pointer]:
+                                - generic "Event count 8.4K" [ref=e194]:
+                                  - button "Event count" [ref=e196]:
+                                    - generic [ref=e197]: Event count
+                                    - img [ref=e198]: arrow_drop_down
+                                  - generic [ref=e199]:
+                                    - generic [ref=e201]: 8.4K
+                                    - generic [ref=e202]: "-"
+                          - generic:
+                            - tabpanel "Total users 1K"
+                        - button "Benchmarking data off" [ref=e204] [cursor=pointer]:
+                          - img [ref=e205]:
+                            - img [ref=e206]
+                          - generic [ref=e208]: "Off"
+                        - button "This card uses 100% of available data. Click to view more information." [ref=e213] [cursor=pointer]:
+                          - img [ref=e214]: check_circle
+                          - generic [ref=e215]: This card uses 100% of available data. Click to view more information.
+                          - img [ref=e216]: arrow_drop_down
+                      - img [ref=e221]:
+                        - generic [ref=e222]:
+                          - generic [ref=e225]:
+                            - generic [ref=e227]: 04Jan
+                            - generic [ref=e229]: "11"
+                            - generic [ref=e231]: "18"
+                            - generic [ref=e233]: "25"
+                            - generic [ref=e235]: 01Feb
+                            - generic [ref=e237]: "08"
+                            - generic [ref=e239]: "15"
+                            - generic [ref=e241]: "22"
+                            - generic [ref=e243]: 01Mar
+                            - generic [ref=e245]: "08"
+                            - generic [ref=e247]: "15"
+                            - generic [ref=e249]: "22"
+                            - generic [ref=e251]: "29"
+                          - generic [ref=e252]:
+                            - generic [ref=e254]: "0"
+                            - generic [ref=e256]: "200"
+                            - generic [ref=e258]: "400"
+                            - generic [ref=e260]: "600"
+                            - generic [ref=e262]: "800"
+                        - list [ref=e285]:
+                          - listitem [ref=e286]:
+                            - generic [ref=e287]: Last 90 days
+                            - button "Highlight Last 90 days line" [pressed] [ref=e288] [cursor=pointer]
+                          - listitem [ref=e289]:
+                            - generic [ref=e290]: Previous period
+                            - button "Highlight Previous period line" [pressed] [ref=e291] [cursor=pointer]
+                  - generic [ref=e292]:
+                    - combobox "Open date range picker" [ref=e296] [cursor=pointer]:
+                      - generic [ref=e299]: Last 90 days
+                      - img [ref=e300]: arrow_drop_down
+                    - button "View reports snapshot" [ref=e304] [cursor=pointer]:
+                      - generic [ref=e306]: View reports snapshot
+                      - img [ref=e307]: arrow_forward
+                - generic [ref=e310]:
+                  - generic [ref=e312]:
+                    - img [ref=e313]: auto_awesome
+                    - generic [ref=e314]:
+                      - generic:
+                        - generic [ref=e318]:
+                          - generic [ref=e319]:
+                            - button "Active users in last 30 minutes" [ref=e321]
+                            - generic [ref=e322]: "0"
+                          - button "This card uses 100% of available data. Click to view more information." [ref=e325] [cursor=pointer]:
+                            - img [ref=e326]: check_circle
+                            - generic [ref=e327]: This card uses 100% of available data. Click to view more information.
+                            - img [ref=e328]: arrow_drop_down
+                        - generic [ref=e337]: Active users per minute
+                        - img [ref=e342]:
+                          - listbox [ref=e344]:
+                            - option [ref=e347]
+                            - option [ref=e349]
+                            - option [ref=e351]
+                            - option [ref=e353]
+                            - option [ref=e355]
+                            - option [ref=e357]
+                            - option [ref=e359]
+                            - option [ref=e361]
+                            - option [ref=e363]
+                            - option [ref=e365]
+                            - option [ref=e367]
+                            - option [ref=e369]
+                            - option [ref=e371]
+                            - option [ref=e373]
+                            - option [ref=e375]
+                            - option [ref=e377]
+                            - option [ref=e379]
+                            - option [ref=e381]
+                            - option [ref=e383]
+                            - option [ref=e385]
+                            - option [ref=e387]
+                            - option [ref=e389]
+                            - option [ref=e391]
+                            - option [ref=e393]
+                            - option [ref=e395]
+                            - option [ref=e397]
+                            - option [ref=e399]
+                            - option [ref=e401]
+                            - option [ref=e403]
+                        - generic [ref=e416]:
+                          - table [ref=e417]:
+                            - row "Country Active users" [ref=e418]:
+                              - columnheader "Country" [ref=e419]:
+                                - button "Country" [ref=e422] [cursor=pointer]:
+                                  - generic [ref=e424]:
+                                    - generic [ref=e425]: Country
+                                    - img [ref=e426]: arrow_drop_down
+                              - columnheader "Active users" [ref=e429]:
+                                - button "Active users" [ref=e432] [cursor=pointer]:
+                                  - generic [ref=e434]:
+                                    - generic [ref=e435]: Active users
+                                    - img [ref=e436]: arrow_drop_down
+                          - generic [ref=e439]: No data available
+                          - table:
+                            - row
+                  - button "View realtime" [ref=e442] [cursor=pointer]:
+                    - generic [ref=e444]: View realtime
+                    - img [ref=e445]: arrow_forward
+                - generic [ref=e450]:
+                  - generic [ref=e451]:
+                    - generic [ref=e453]:
+                      - img [ref=e454]: assistant
+                      - generic [ref=e455]: Recommendation
+                    - generic: thumb_up thumb_down close more_vert
+                  - generic [ref=e456]:
+                    - heading "Complete your implementation by collecting Lead Gen Key Event" [level=2] [ref=e464]:
+                      - generic [ref=e465]: Complete your implementation by collecting Lead Gen Key Event
+                    - generic [ref=e478]: Import offline/CRM data directly into Analytics for bidding and enhanced segmentation and audience targeting
+                    - generic [ref=e487]: Recommended because, you are a GA4 Admin/Editor for this property, and an offline event data import configuration has not been set up yet
+                  - generic [ref=e488]:
+                    - button "Expand this insight" [ref=e489] [cursor=pointer]:
+                      - img [ref=e490]: fullscreen
+                    - link "Import data now" [ref=e498] [cursor=pointer]:
+                      - /url: "#/a380987086p520342810/admin/data-import/create?dataType=6"
+                      - generic [ref=e502]: Import data now
+              - generic [ref=e506]:
+                - heading "Recently accessed" [level=2] [ref=e509]:
+                  - generic [ref=e510]: Recently accessed
+                - generic [ref=e513]:
+                  - button "Move scrollable area backwards" [disabled]:
+                    - img: keyboard_arrow_left
+                  - generic [ref=e514]:
+                    - generic [ref=e523]:
+                      - img [ref=e524]: insert_chart_outlined
+                      - generic [ref=e525]:
+                        - button "Reports snapshot" [ref=e526] [cursor=pointer]:
+                          - generic [ref=e530]: Reports snapshot
+                        - generic [ref=e534]: 16 days ago
+                    - generic [ref=e543]:
+                      - img [ref=e544]: insert_chart_outlined
+                      - generic [ref=e545]:
+                        - button "Tech details" [ref=e546] [cursor=pointer]:
+                          - generic [ref=e550]: Tech details
+                        - generic [ref=e554]: 18 days ago
+                    - generic [ref=e563]:
+                      - img [ref=e564]: insert_chart_outlined
+                      - generic [ref=e565]:
+                        - button "Demographic details" [ref=e566] [cursor=pointer]:
+                          - generic [ref=e570]: Demographic details
+                        - generic [ref=e574]: 18 days ago
+                    - generic [ref=e583]:
+                      - img [ref=e584]: insert_chart_outlined
+                      - generic [ref=e585]:
+                        - button "Traffic acquisition" [ref=e586] [cursor=pointer]:
+                          - generic [ref=e590]: Traffic acquisition
+                        - generic [ref=e594]: 18 days ago
+                    - generic [ref=e603]:
+                      - img [ref=e604]: insert_chart_outlined
+                      - generic [ref=e605]:
+                        - button "Landing page" [ref=e606] [cursor=pointer]:
+                          - generic [ref=e610]: Landing page
+                        - generic [ref=e614]: 18 days ago
+                  - button "Move scrollable area forwards" [ref=e615] [cursor=pointer]:
+                    - img [ref=e616]: keyboard_arrow_right
+              - generic [ref=e620]:
+                - heading "Suggested for you" [level=2] [ref=e623]:
+                  - generic "Suggested for you" [ref=e624]:
+                    - button "Message explaining how cards in this section are surfaced." [ref=e625]: Suggested for you
+                - generic [ref=e628]:
+                  - button "Move scrollable area backwards" [disabled]:
+                    - img: keyboard_arrow_left
+                  - generic [ref=e629]:
+                    - generic [ref=e630]:
+                      - generic [ref=e633]:
+                        - generic:
+                          - generic [ref=e637]:
+                            - generic [ref=e638]:
+                              - generic "Active users" [ref=e639]:
+                                - combobox "Metrics" [ref=e640]:
+                                  - generic [ref=e641] [cursor=pointer]:
+                                    - generic [ref=e643]: Active users
+                                    - img [ref=e646]
+                              - text: by
+                              - generic "Country ID" [ref=e648]:
+                                - combobox "Dimensions" [ref=e649]:
+                                  - generic [ref=e650] [cursor=pointer]:
+                                    - generic [ref=e652]: Country ID
+                                    - img [ref=e655]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e660] [cursor=pointer]:
+                              - img [ref=e661]: check_circle
+                              - generic [ref=e662]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e663]: arrow_drop_down
+                          - generic [ref=e667]:
+                            - img
+                          - generic [ref=e676]:
+                            - table [ref=e677]:
+                              - row "Country Active users" [ref=e678]:
+                                - columnheader "Country" [ref=e679]:
+                                  - button "Country" [ref=e680]
+                                - columnheader "Active users" [ref=e681]:
+                                  - button "Active users" [ref=e682]
+                              - row "United States 636 736.8%" [ref=e683]:
+                                - cell "United States" [ref=e684]
+                                - cell "636" [ref=e685]
+                                - cell "736.8%" [ref=e686]:
+                                  - img [ref=e687]:
+                                    - img [ref=e688]
+                                  - text: 736.8%
+                              - row "Canada 102 10,100.0%" [ref=e691]:
+                                - cell "Canada" [ref=e692]
+                                - cell "102" [ref=e693]
+                                - cell "10,100.0%" [ref=e694]:
+                                  - img [ref=e695]:
+                                    - img [ref=e696]
+                                  - text: 10,100.0%
+                              - row "Australia 40 -" [ref=e699]:
+                                - cell "Australia" [ref=e700]
+                                - cell "40" [ref=e701]
+                                - cell "-" [ref=e702]:
+                                  - img [ref=e703]
+                                  - text: "-"
+                              - row "India 21 -" [ref=e704]:
+                                - cell "India" [ref=e705]
+                                - cell "21" [ref=e706]
+                                - cell "-" [ref=e707]:
+                                  - img [ref=e708]
+                                  - text: "-"
+                              - row "Nigeria 16 700.0%" [ref=e709]:
+                                - cell "Nigeria" [ref=e710]
+                                - cell "16" [ref=e711]
+                                - cell "700.0%" [ref=e712]:
+                                  - img [ref=e713]:
+                                    - img [ref=e714]
+                                  - text: 700.0%
+                              - row "South Africa 8 700.0%" [ref=e717]:
+                                - cell "South Africa" [ref=e718]
+                                - cell "8" [ref=e719]
+                                - cell "700.0%" [ref=e720]:
+                                  - img [ref=e721]:
+                                    - img [ref=e722]
+                                  - text: 700.0%
+                              - row "South Korea 7 -" [ref=e725]:
+                                - cell "South Korea" [ref=e726]
+                                - cell "7" [ref=e727]
+                                - cell "-" [ref=e728]:
+                                  - img [ref=e729]
+                                  - text: "-"
+                            - table:
+                              - row:
+                                - columnheader
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                      - text: thumb_up thumb_down
+                      - generic [ref=e730]:
+                        - combobox "Open date range picker" [ref=e734] [cursor=pointer]:
+                          - generic [ref=e737]: Last 30 days
+                          - img [ref=e738]: arrow_drop_down
+                        - button "View countries" [ref=e742] [cursor=pointer]:
+                          - generic [ref=e744]: View countries
+                          - img [ref=e745]: arrow_forward
+                    - generic [ref=e748]:
+                      - generic [ref=e751]:
+                        - generic:
+                          - generic [ref=e755]:
+                            - generic [ref=e756]:
+                              - generic "Views" [ref=e757]:
+                                - button "Views" [ref=e758]
+                              - text: by
+                              - generic "Page title and screen class" [ref=e759]:
+                                - button "Page title and screen class" [ref=e760]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e764] [cursor=pointer]:
+                              - img [ref=e765]: check_circle
+                              - generic [ref=e766]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e767]: arrow_drop_down
+                          - generic [ref=e774]:
+                            - table [ref=e775]:
+                              - row "Page title and screen class Views" [ref=e776]:
+                                - columnheader "Page title and screen class" [ref=e777]:
+                                  - button "Page title and screen class" [ref=e778]
+                                - columnheader "Views" [ref=e779]:
+                                  - button "Views" [ref=e780]
+                              - row "I Built a Free Keyword Research Tool for Authors | Randy Pellegrini 26 74.3%" [ref=e781]:
+                                - cell "I Built a Free Keyword Research Tool for Authors | Randy Pellegrini" [ref=e782]
+                                - cell "26" [ref=e783]
+                                - cell "74.3%" [ref=e784]:
+                                  - img [ref=e785]:
+                                    - img [ref=e786]
+                                  - text: 74.3%
+                              - row "Randy Pellegrini | Official Site 12 40.0%" [ref=e789]:
+                                - cell "Randy Pellegrini | Official Site" [ref=e790]
+                                - cell "12" [ref=e791]
+                                - cell "40.0%" [ref=e792]:
+                                  - img [ref=e793]:
+                                    - img [ref=e794]
+                                  - text: 40.0%
+                              - row "Free Coffee Grounds Reading Online | AI Tasseography | Randy Pellegrini 15 150.0%" [ref=e797]:
+                                - cell "Free Coffee Grounds Reading Online | AI Tasseography | Randy Pellegrini" [ref=e798]
+                                - cell "15" [ref=e799]
+                                - cell "150.0%" [ref=e800]:
+                                  - img [ref=e801]:
+                                    - img [ref=e802]
+                                  - text: 150.0%
+                              - row "All Books | The Architecture of Survival | Randy Pellegrini 1 87.5%" [ref=e805]:
+                                - cell "All Books | The Architecture of Survival | Randy Pellegrini" [ref=e806]
+                                - cell "1" [ref=e807]
+                                - cell "87.5%" [ref=e808]:
+                                  - img [ref=e809]:
+                                    - img [ref=e810]
+                                  - text: 87.5%
+                              - row "I Built a Free Book Formatting Tool for Authors | Randy Pellegrini 1 85.7%" [ref=e813]:
+                                - cell "I Built a Free Book Formatting Tool for Authors | Randy Pellegrini" [ref=e814]
+                                - cell "1" [ref=e815]
+                                - cell "85.7%" [ref=e816]:
+                                  - img [ref=e817]:
+                                    - img [ref=e818]
+                                  - text: 85.7%
+                              - row "Blog | Randy Pellegrini 2 60.0%" [ref=e821]:
+                                - cell "Blog | Randy Pellegrini" [ref=e822]
+                                - cell "2" [ref=e823]
+                                - cell "60.0%" [ref=e824]:
+                                  - img [ref=e825]:
+                                    - img [ref=e826]
+                                  - text: 60.0%
+                              - row "I Built an AI Book Cover Generator (And Open-Sourced It) | Randy Pellegrini 0 100.0%" [ref=e829]:
+                                - cell "I Built an AI Book Cover Generator (And Open-Sourced It) | Randy Pellegrini" [ref=e830]
+                                - cell "0" [ref=e831]
+                                - cell "100.0%" [ref=e832]:
+                                  - img [ref=e833]:
+                                    - img [ref=e834]
+                                  - text: 100.0%
+                            - table:
+                              - row:
+                                - columnheader
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                      - text: thumb_up thumb_down
+                      - generic [ref=e837]:
+                        - combobox "Open date range picker" [ref=e841] [cursor=pointer]:
+                          - generic [ref=e844]: Last 7 days
+                          - img [ref=e845]: arrow_drop_down
+                        - button "View pages and screens" [ref=e849] [cursor=pointer]:
+                          - generic [ref=e851]: View pages and screens
+                          - img [ref=e852]: arrow_forward
+                    - generic [ref=e855]:
+                      - generic [ref=e858]:
+                        - generic:
+                          - generic [ref=e862]:
+                            - generic [ref=e863]:
+                              - generic "Sessions" [ref=e864]:
+                                - combobox "Metrics" [ref=e865]:
+                                  - generic [ref=e866] [cursor=pointer]:
+                                    - generic [ref=e868]: Sessions
+                                    - img [ref=e871]
+                              - text: by
+                              - generic "Session primary channel group (Default Channel Group)" [ref=e873]:
+                                - combobox "Dimensions" [ref=e874]:
+                                  - generic [ref=e875] [cursor=pointer]:
+                                    - generic [ref=e877]: Session primary channel group (Default Channel Group)
+                                    - img [ref=e880]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e885] [cursor=pointer]:
+                              - img [ref=e886]: check_circle
+                              - generic [ref=e887]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e888]: arrow_drop_down
+                          - generic [ref=e895]:
+                            - table [ref=e896]:
+                              - row "Session primary channel group (Default Channel Group) Sessions" [ref=e897]:
+                                - columnheader "Session primary channel group (Default Channel Group)" [ref=e898]
+                                - columnheader "Sessions" [ref=e899]:
+                                  - button "Sessions" [ref=e900]
+                              - row "Direct 36 58.1%" [ref=e901]:
+                                - cell "Direct" [ref=e902]
+                                - cell "36" [ref=e903]
+                                - cell "58.1%" [ref=e904]:
+                                  - img [ref=e905]:
+                                    - img [ref=e906]
+                                  - text: 58.1%
+                              - row "Organic Social 14 66.7%" [ref=e909]:
+                                - cell "Organic Social" [ref=e910]
+                                - cell "14" [ref=e911]
+                                - cell "66.7%" [ref=e912]:
+                                  - img [ref=e913]:
+                                    - img [ref=e914]
+                                  - text: 66.7%
+                              - row "Organic Search 2 60.0%" [ref=e917]:
+                                - cell "Organic Search" [ref=e918]
+                                - cell "2" [ref=e919]
+                                - cell "60.0%" [ref=e920]:
+                                  - img [ref=e921]:
+                                    - img [ref=e922]
+                                  - text: 60.0%
+                              - row "Unassigned 3 -" [ref=e925]:
+                                - cell "Unassigned" [ref=e926]
+                                - cell "3" [ref=e927]
+                                - cell "-" [ref=e928]:
+                                  - img [ref=e929]
+                                  - text: "-"
+                            - table:
+                              - row:
+                                - columnheader
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                      - text: thumb_up thumb_down
+                      - generic [ref=e930]:
+                        - combobox "Open date range picker" [ref=e934] [cursor=pointer]:
+                          - generic [ref=e937]: Last 7 days
+                          - img [ref=e938]: arrow_drop_down
+                        - button "View traffic acquisition" [ref=e942] [cursor=pointer]:
+                          - generic [ref=e944]: View traffic acquisition
+                          - img [ref=e945]: arrow_forward
+                    - generic [ref=e948]:
+                      - generic [ref=e951]:
+                        - generic:
+                          - generic [ref=e955]:
+                            - generic [ref=e956]:
+                              - generic "Active users" [ref=e957]:
+                                - combobox "Metrics" [ref=e958]:
+                                  - generic [ref=e959] [cursor=pointer]:
+                                    - generic [ref=e961]: Active users
+                                    - img [ref=e964]
+                              - text: by
+                              - generic "City" [ref=e966]:
+                                - button "City" [ref=e967]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e971] [cursor=pointer]:
+                              - img [ref=e972]: check_circle
+                              - generic [ref=e973]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e974]: arrow_drop_down
+                          - generic [ref=e981]:
+                            - table [ref=e982]:
+                              - row "City Active users" [ref=e983]:
+                                - columnheader "City" [ref=e984]:
+                                  - button "City" [ref=e985]
+                                - columnheader "Active users" [ref=e986]:
+                                  - button "Active users" [ref=e987]
+                              - row "London 3 75.0%" [ref=e988]:
+                                - cell "London" [ref=e989]
+                                - cell "3" [ref=e990]
+                                - cell "75.0%" [ref=e991]:
+                                  - img [ref=e992]:
+                                    - img [ref=e993]
+                                  - text: 75.0%
+                              - row "Portland 1 66.7%" [ref=e996]:
+                                - cell "Portland" [ref=e997]
+                                - cell "1" [ref=e998]
+                                - cell "66.7%" [ref=e999]:
+                                  - img [ref=e1000]:
+                                    - img [ref=e1001]
+                                  - text: 66.7%
+                              - row "Lagos 2 100.0%" [ref=e1004]:
+                                - cell "Lagos" [ref=e1005]
+                                - cell "2" [ref=e1006]
+                                - cell "100.0%" [ref=e1007]:
+                                  - img [ref=e1008]:
+                                    - img [ref=e1009]
+                                  - text: 100.0%
+                              - row "Atlanta 0 100.0%" [ref=e1012]:
+                                - cell "Atlanta" [ref=e1013]
+                                - cell "0" [ref=e1014]
+                                - cell "100.0%" [ref=e1015]:
+                                  - img [ref=e1016]:
+                                    - img [ref=e1017]
+                                  - text: 100.0%
+                              - row "Bengaluru 0 100.0%" [ref=e1020]:
+                                - cell "Bengaluru" [ref=e1021]
+                                - cell "0" [ref=e1022]
+                                - cell "100.0%" [ref=e1023]:
+                                  - img [ref=e1024]:
+                                    - img [ref=e1025]
+                                  - text: 100.0%
+                              - row "Council Bluffs 1 0.0%" [ref=e1028]:
+                                - cell "Council Bluffs" [ref=e1029]
+                                - cell "1" [ref=e1030]
+                                - cell "0.0%" [ref=e1031]:
+                                  - img [ref=e1032]
+                                  - text: 0.0%
+                              - row "Jasper 1 0.0%" [ref=e1033]:
+                                - cell "Jasper" [ref=e1034]
+                                - cell "1" [ref=e1035]
+                                - cell "0.0%" [ref=e1036]:
+                                  - img [ref=e1037]
+                                  - text: 0.0%
+                            - table:
+                              - row:
+                                - columnheader
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                      - text: thumb_up thumb_down
+                      - generic [ref=e1038]:
+                        - combobox "Open date range picker" [ref=e1042] [cursor=pointer]:
+                          - generic [ref=e1045]: Last 7 days
+                          - img [ref=e1046]: arrow_drop_down
+                        - button "View cities" [ref=e1050] [cursor=pointer]:
+                          - generic [ref=e1052]: View cities
+                          - img [ref=e1053]: arrow_forward
+                    - generic [ref=e1056]:
+                      - generic [ref=e1059]:
+                        - generic:
+                          - generic [ref=e1063]:
+                            - generic [ref=e1064]:
+                              - generic "Key events" [ref=e1065]:
+                                - combobox "Metrics" [ref=e1066]:
+                                  - generic [ref=e1067] [cursor=pointer]:
+                                    - generic [ref=e1069]: Key events
+                                    - img [ref=e1072]
+                              - text: by
+                              - generic "Platform" [ref=e1074]:
+                                - button "Platform" [ref=e1075]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e1079] [cursor=pointer]:
+                              - img [ref=e1080]: check_circle
+                              - generic [ref=e1081]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e1082]: arrow_drop_down
+                          - img [ref=e1087]:
+                            - generic [ref=e1093]: No data available
+                      - text: thumb_up thumb_down
+                      - generic [ref=e1098]:
+                        - combobox "Open date range picker" [ref=e1102] [cursor=pointer]:
+                          - generic [ref=e1105]: Last 7 days
+                          - img [ref=e1106]: arrow_drop_down
+                        - button "View tech details" [ref=e1110] [cursor=pointer]:
+                          - generic [ref=e1112]: View tech details
+                          - img [ref=e1113]: arrow_forward
+                    - generic [ref=e1116]:
+                      - generic [ref=e1119]:
+                        - generic:
+                          - generic [ref=e1123]:
+                            - generic [ref=e1124]:
+                              - generic "Active users" [ref=e1125]:
+                                - button "Active users" [ref=e1126]
+                              - text: by
+                              - generic "First user source / medium" [ref=e1127]:
+                                - button "First user source / medium" [ref=e1128]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e1132] [cursor=pointer]:
+                              - img [ref=e1133]: check_circle
+                              - generic [ref=e1134]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e1135]: arrow_drop_down
+                          - generic [ref=e1142]:
+                            - table [ref=e1143]:
+                              - row "First user source / medium Active users" [ref=e1144]:
+                                - columnheader "First user source / medium" [ref=e1145]:
+                                  - button "First user source / medium" [ref=e1146]
+                                - columnheader "Active users" [ref=e1147]:
+                                  - button "Active users" [ref=e1148]
+                              - row "(direct) / (none) 28 50.9%" [ref=e1149]:
+                                - cell "(direct) / (none)" [ref=e1150]
+                                - cell "28" [ref=e1151]
+                                - cell "50.9%" [ref=e1152]:
+                                  - img [ref=e1153]:
+                                    - img [ref=e1154]
+                                  - text: 50.9%
+                              - row "reddit.com / referral 5 54.5%" [ref=e1157]:
+                                - cell "reddit.com / referral" [ref=e1158]
+                                - cell "5" [ref=e1159]
+                                - cell "54.5%" [ref=e1160]:
+                                  - img [ref=e1161]:
+                                    - img [ref=e1162]
+                                  - text: 54.5%
+                              - row "google / organic 2 33.3%" [ref=e1165]:
+                                - cell "google / organic" [ref=e1166]
+                                - cell "2" [ref=e1167]
+                                - cell "33.3%" [ref=e1168]:
+                                  - img [ref=e1169]:
+                                    - img [ref=e1170]
+                                  - text: 33.3%
+                              - row "l.facebook.com / referral 0 100.0%" [ref=e1173]:
+                                - cell "l.facebook.com / referral" [ref=e1174]
+                                - cell "0" [ref=e1175]
+                                - cell "100.0%" [ref=e1176]:
+                                  - img [ref=e1177]:
+                                    - img [ref=e1178]
+                                  - text: 100.0%
+                              - row "linkedin.com / referral 1 0.0%" [ref=e1181]:
+                                - cell "linkedin.com / referral" [ref=e1182]
+                                - cell "1" [ref=e1183]
+                                - cell "0.0%" [ref=e1184]:
+                                  - img [ref=e1185]
+                                  - text: 0.0%
+                              - row "m.facebook.com / referral 0 100.0%" [ref=e1186]:
+                                - cell "m.facebook.com / referral" [ref=e1187]
+                                - cell "0" [ref=e1188]
+                                - cell "100.0%" [ref=e1189]:
+                                  - img [ref=e1190]:
+                                    - img [ref=e1191]
+                                  - text: 100.0%
+                            - table:
+                              - row:
+                                - columnheader
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                      - text: thumb_up thumb_down
+                      - combobox "Open date range picker" [ref=e1198] [cursor=pointer]:
+                        - generic [ref=e1201]: Last 7 days
+                        - img [ref=e1202]: arrow_drop_down
+                    - generic [ref=e1205]:
+                      - generic [ref=e1208]:
+                        - generic:
+                          - generic [ref=e1212]:
+                            - generic [ref=e1213]:
+                              - generic "Active users" [ref=e1214]:
+                                - button "Active users" [ref=e1215]
+                              - text: by
+                              - generic "City" [ref=e1216]:
+                                - button "City" [ref=e1217]
+                            - button "This card uses 100% of available data. Click to view more information." [ref=e1221] [cursor=pointer]:
+                              - img [ref=e1222]: check_circle
+                              - generic [ref=e1223]: This card uses 100% of available data. Click to view more information.
+                              - img [ref=e1224]: arrow_drop_down
+                          - generic [ref=e1231]:
+                            - table [ref=e1232]:
+                              - row "City Active users" [ref=e1233]:
+                                - columnheader "City" [ref=e1234]:
+                                  - button "City" [ref=e1235]
+                                - columnheader "Active users" [ref=e1236]:
+                                  - button "Active users" [ref=e1237]
+                              - row "London 3 75.0%" [ref=e1238]:
+                                - cell "London" [ref=e1239]
+                                - cell "3" [ref=e1240]
+                                - cell "75.0%" [ref=e1241]:
+                                  - img [ref=e1242]:
+                                    - img [ref=e1243]
+                                  - text: 75.0%
+                              - row "Portland 1 66.7%" [ref=e1246]:
+                                - cell "Portland" [ref=e1247]
+                                - cell "1" [ref=e1248]
+                                - cell "66.7%" [ref=e1249]:
+                                  - img [ref=e1250]:
+                                    - img [ref=e1251]
+                                  - text: 66.7%
+                              - row "Lagos 2 100.0%" [ref=e1254]:
+                                - cell "Lagos" [ref=e1255]
+                                - cell "2" [ref=e1256]
+                                - cell "100.0%" [ref=e1257]:
+                                  - img [ref=e1258]:
+                                    - img [ref=e1259]
+                                  - text: 100.0%
+                              - row "Atlanta 0 100.0%" [ref=e1262]:
+                                - cell "Atlanta" [ref=e1263]
+                                - cell "0" [ref=e1264]
+                                - cell "100.0%" [ref=e1265]:
+                                  - img [ref=e1266]:
+                                    - img [ref=e1267]
+                                  - text: 100.0%
+                              - row "Bengaluru 0 100.0%" [ref=e1270]:
+                                - cell "Bengaluru" [ref=e1271]
+                                - cell "0" [ref=e1272]
+                                - cell "100.0%" [ref=e1273]:
+                                  - img [ref=e1274]:
+                                    - img [ref=e1275]
+                                  - text: 100.0%
+                              - row "Council Bluffs 1 0.0%" [ref=e1278]:
+                                - cell "Council Bluffs" [ref=e1279]
+                                - cell "1" [ref=e1280]
+                                - cell "0.0%" [ref=e1281]:
+                                  - img [ref=e1282]
+                                  - text: 0.0%
+                              - row "Jasper 1 0.0%" [ref=e1283]:
+                                - cell "Jasper" [ref=e1284]
+                                - cell "1" [ref=e1285]
+                                - cell "0.0%" [ref=e1286]:
+                                  - img [ref=e1287]
+                                  - text: 0.0%
+                            - table:
+                              - row:
+                                - columnheader
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                              - row:
+                                - cell
+                      - text: thumb_up thumb_down
+                      - generic [ref=e1288]:
+                        - combobox "Open date range picker" [ref=e1292] [cursor=pointer]:
+                          - generic [ref=e1295]: Last 7 days
+                          - img [ref=e1296]: arrow_drop_down
+                        - button "View cities" [ref=e1300] [cursor=pointer]:
+                          - generic [ref=e1302]: View cities
+                          - img [ref=e1303]: arrow_forward
+                  - button "Move scrollable area forwards" [ref=e1306] [cursor=pointer]:
+                    - img [ref=e1307]: keyboard_arrow_right
+              - generic [ref=e1311]:
+                - generic [ref=e1312]:
+                  - heading "Insights & recommendations" [level=2] [ref=e1314]:
+                    - generic [ref=e1315]: Insights & recommendations
+                  - link "View all insights" [ref=e1316] [cursor=pointer]:
+                    - /url: "#/a380987086p520342810/insights/hub"
+                    - generic [ref=e1317]: View all insights
+                    - img [ref=e1318]: arrow_right_alt
+                - generic [ref=e1323]:
+                  - button "Move scrollable area backwards" [disabled]:
+                    - img: keyboard_arrow_left
+                  - generic [ref=e1324]:
+                    - generic [ref=e1327]:
+                      - generic [ref=e1328]:
+                        - generic [ref=e1330]:
+                          - img [ref=e1331]: assistant
+                          - generic [ref=e1332]: Recommendation
+                        - generic: thumb_up thumb_down close more_vert
+                      - generic [ref=e1333]:
+                        - generic [ref=e1342]: Complete your implementation by collecting Lead Gen Key Event
+                        - generic [ref=e1355]: Import offline/CRM data directly into Analytics for bidding and enhanced segmentation and audience targeting
+                        - generic [ref=e1364]: Recommended because, you are a GA4 Admin/Editor for this property, and an offline event data import configuration has not been set up yet
+                      - generic [ref=e1365]:
+                        - button "Expand this insight" [ref=e1366] [cursor=pointer]:
+                          - img [ref=e1367]: fullscreen
+                        - link "Import data now" [ref=e1375] [cursor=pointer]:
+                          - /url: "#/a380987086p520342810/admin/data-import/create?dataType=6"
+                          - generic [ref=e1379]: Import data now
+                    - generic [ref=e1384]:
+                      - generic [ref=e1385]:
+                        - generic [ref=e1386]:
+                          - generic [ref=e1387]:
+                            - img [ref=e1388]: sell
+                            - generic [ref=e1389]: Upsell
+                          - generic [ref=e1390]: New
+                        - generic: thumb_up thumb_down close more_vert
+                      - generic [ref=e1391]:
+                        - generic [ref=e1400]: Stay connected to your business on the go
+                        - generic [ref=e1413]: Recommended because you have not used the Google Analytics mobile app recently
+                        - generic [ref=e1422]: The Google Analytics mobile app helps you monitor your business in real-time, build your own reports, and take actions to improve your account.
+                      - generic [ref=e1423]:
+                        - button "Expand this insight" [ref=e1424] [cursor=pointer]:
+                          - img [ref=e1425]: fullscreen
+                        - link "Download app" [ref=e1433] [cursor=pointer]:
+                          - /url: https://support.google.com/analytics/answer/12674799
+                          - generic [ref=e1435]:
+                            - generic [ref=e1437]: Download app
+                            - img [ref=e1438]: open_in_new
+                  - button "Move scrollable area forwards" [disabled]:
+                    - img: keyboard_arrow_right
+          - generic [ref=e1442]:
+            - text: © 2026 Google |
+            - link "Analytics home" [ref=e1443] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/?hl=en-US
+            - text: "|"
+            - link "Terms of Service" [ref=e1444] [cursor=pointer]:
+              - /url: https://www.google.com/analytics/tos.html?hl=en-US
+            - text: "|"
+            - link "Privacy Policy" [ref=e1445] [cursor=pointer]:
+              - /url: https://www.google.com/policies/privacy/?hl=en-US
+            - text: "|"
+            - button "Send feedback" [ref=e1446] [cursor=pointer]:
+              - img [ref=e1447]: feedback
+              - generic [ref=e1448]: Send feedback
+      - generic:
+        - complementary
+    - generic:
+      - button "Open context menu"

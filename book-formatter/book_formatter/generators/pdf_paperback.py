@@ -52,9 +52,10 @@ HEADER_TEMPLATE = StringTemplate(r"""\usepackage{fancyhdr}
 \widowpenalty=10000
 \clubpenalty=10000
 
-% Paragraph settings
-\setlength{\parindent}{1.5em}
-\setlength{\parskip}{0pt}
+% Paragraph settings — no indents, block-style paragraphs
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.2\baselineskip plus 0.15\baselineskip minus 0.1\baselineskip}
+\flushbottom
 """)
 
 TITLE_TEMPLATE = StringTemplate(r"""\thispagestyle{empty}
@@ -173,6 +174,7 @@ class PaperbackPDFGenerator(BaseGenerator):
         args = [
             '--to', 'pdf',
             '--pdf-engine=xelatex',
+            '--toc',
             '--top-level-division=chapter',
             '--include-in-header', header_file,
             '--include-before-body', title_file,

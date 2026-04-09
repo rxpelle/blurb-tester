@@ -1,0 +1,1872 @@
+- generic [ref=e2]:
+  - navigation "Shortcuts menu" [ref=e3]:
+    - heading "Skip to" [level=2] [ref=e4]
+    - list "Skip to" [ref=e5]:
+      - listitem [ref=e6]:
+        - link "main content" [ref=e7] [cursor=pointer]:
+          - /url: "#skippedLink"
+          - text: Main content
+      - listitem [ref=e8]:
+        - link "Buying options" [ref=e9] [cursor=pointer]:
+          - /url: "#buybox"
+      - listitem [ref=e10]:
+        - link "Videos" [ref=e11] [cursor=pointer]:
+          - /url: "#va-related-videos-widget_feature_div"
+      - listitem [ref=e12]:
+        - link "Reviews" [ref=e13] [cursor=pointer]:
+          - /url: "#customerReviews"
+    - separator [ref=e14]
+    - heading "Keyboard shortcuts" [level=2] [ref=e15]
+    - list "Keyboard shortcuts" [ref=e16]:
+      - listitem [ref=e17]:
+        - link "Search, option, forward slash" [ref=e18] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e19]:
+            - generic [ref=e20]: Search
+            - generic [ref=e21]:
+              - generic [ref=e22]: opt
+              - generic [ref=e23]: +
+              - generic [ref=e24]: /
+      - listitem [ref=e25]:
+        - link "Cart, shift, option, c" [ref=e26] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e27]:
+            - generic [ref=e28]: Cart
+            - generic [ref=e29]:
+              - generic [ref=e30]: shift
+              - generic [ref=e31]: +
+              - generic [ref=e32]: opt
+              - generic [ref=e33]: +
+              - generic [ref=e34]: C
+      - listitem [ref=e35]:
+        - link "Home, shift, option, h" [ref=e36] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e37]:
+            - generic [ref=e38]: Home
+            - generic [ref=e39]:
+              - generic [ref=e40]: shift
+              - generic [ref=e41]: +
+              - generic [ref=e42]: opt
+              - generic [ref=e43]: +
+              - generic [ref=e44]: H
+      - listitem [ref=e45]:
+        - link "Your orders, shift, option, o" [ref=e46] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e47]:
+            - generic [ref=e48]: Orders
+            - generic [ref=e49]:
+              - generic [ref=e50]: shift
+              - generic [ref=e51]: +
+              - generic [ref=e52]: opt
+              - generic [ref=e53]: +
+              - generic [ref=e54]: O
+      - listitem [ref=e55]:
+        - button "Show/hide shortcuts, shift, option, z" [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]:
+            - generic [ref=e58]: Show/Hide shortcuts
+            - generic [ref=e59]:
+              - generic [ref=e60]: shift
+              - generic [ref=e61]: +
+              - generic [ref=e62]: opt
+              - generic [ref=e63]: +
+              - generic [ref=e64]: Z
+    - generic [ref=e70]: To move between items, use your keyboard's up or down arrows.
+  - banner [ref=e71]:
+    - navigation "Primary" [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - link "Amazon Prime" [ref=e76] [cursor=pointer]:
+              - /url: /ref=nav_logo
+            - generic:
+              - link:
+                - /url: /ref=nav_logo_prime
+          - button "Deliver to randolph Portland 97219‌" [ref=e79] [cursor=pointer]:
+            - generic [ref=e81]:
+              - generic [ref=e82]: Deliver to randolph
+              - generic [ref=e83]: Portland 97219‌
+        - search [ref=e86]:
+          - generic [ref=e89]:
+            - generic [ref=e91]: Kindle Store
+            - combobox "Select the department you want to search in" [ref=e93] [cursor=pointer]:
+              - option "All Departments"
+              - option "Alexa Skills"
+              - option "Amazon Autos"
+              - option "Amazon Devices"
+              - option "Amazon Fresh"
+              - option "Amazon Global Store"
+              - option "Amazon Haul"
+              - option "Amazon One Medical"
+              - option "Amazon Pharmacy"
+              - option "Amazon Resale"
+              - option "Appliances"
+              - option "Apps & Games"
+              - option "Arts, Crafts & Sewing"
+              - option "Audible Books & Originals"
+              - option "Automotive Parts & Accessories"
+              - option "Baby"
+              - option "Beauty & Personal Care"
+              - option "Books"
+              - option "CDs & Vinyl"
+              - option "Cell Phones & Accessories"
+              - option "Clothing, Shoes & Jewelry"
+              - option "Women's Clothing, Shoes & Jewelry"
+              - option "Men's Clothing, Shoes & Jewelry"
+              - option "Girl's Clothing, Shoes & Jewelry"
+              - option "Boy's Clothing, Shoes & Jewelry"
+              - option "Baby Clothing, Shoes & Jewelry"
+              - option "Collectibles & Fine Art"
+              - option "Computers"
+              - option "Credit and Payment Cards"
+              - option "Digital Music"
+              - option "Electronics"
+              - option "Garden & Outdoor"
+              - option "Gift Cards"
+              - option "Grocery & Gourmet Food"
+              - option "Handmade"
+              - option "Health, Household & Baby Care"
+              - option "Home & Business Services"
+              - option "Home & Kitchen"
+              - option "Industrial & Scientific"
+              - option "Just for Prime"
+              - option "Kindle Store" [selected]
+              - option "Luggage & Travel Gear"
+              - option "Luxury Stores"
+              - option "Magazine Subscriptions"
+              - option "Movies & TV"
+              - option "Musical Instruments"
+              - option "New Seasons Market"
+              - option "Office Products"
+              - option "Pet Supplies"
+              - option "Premium Beauty"
+              - option "Prime Video"
+              - option "Same-Day Store"
+              - option "Smart Home"
+              - option "Software"
+              - option "Sports & Outdoors"
+              - option "Subscribe & Save"
+              - option "Subscription Boxes"
+              - option "Tools & Home Improvement"
+              - option "Toys & Games"
+              - option "Under $10"
+              - option "Video Games"
+              - option "Whole Foods Market"
+          - searchbox "Search Amazon" [ref=e96]
+          - generic "Go" [ref=e99] [cursor=pointer]:
+            - button "Go" [ref=e100]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - link "Choose a language for shopping in Amazon United States. The current selection is English (EN)." [ref=e104] [cursor=pointer]:
+              - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+              - generic [ref=e107]:
+                - img "United States" [ref=e108]
+                - generic [ref=e109]: EN
+            - button "Expand to Change Language or Country" [ref=e110] [cursor=pointer]
+          - generic [ref=e111]:
+            - link "Hello, randy Account & Lists" [ref=e112] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+              - generic [ref=e114]: Hello, randy
+              - generic [ref=e115]: Account & Lists
+            - button "Expand Account and Lists" [ref=e116] [cursor=pointer]
+          - link "Returns & Orders" [ref=e117] [cursor=pointer]:
+            - /url: /gp/css/order-history?ref_=nav_orders_first
+            - generic [ref=e118]: Returns
+            - generic [ref=e119]: "& Orders"
+          - link "0 items in cart" [ref=e120] [cursor=pointer]:
+            - /url: /gp/cart/view.html?ref_=nav_cart
+            - generic [ref=e122]: "0"
+            - generic [ref=e125]: Cart
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - button "Open All Categories Menu" [ref=e128] [cursor=pointer]:
+            - generic [ref=e130]: All
+          - button "Open Rufus panel" [ref=e131] [cursor=pointer]:
+            - generic [ref=e133]: Rufus
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - link "Big Spring Sale" [ref=e140] [cursor=pointer]:
+              - /url: /bigspringsale?ref_=nav_cs_bss_disco_2026_desk
+          - listitem [ref=e141]:
+            - link "Health AI" [ref=e143] [cursor=pointer]:
+              - /url: https://health.amazon.com/health-ai?ref_=nav_cs_health_ai
+          - listitem [ref=e144]:
+            - link "3 Hour Delivery" [ref=e146] [cursor=pointer]:
+              - /url: /fmc/ssd-storefront?gsc=fe16aGPfFs46S&speed=3HR&ref_=nav_cs_SSD_3hr_nav_storefront
+          - listitem [ref=e147]:
+            - link "Amazon Haul" [ref=e149] [cursor=pointer]:
+              - /url: /haul/store?ref_=nav_cs_hul_disb
+          - listitem [ref=e150]:
+            - generic [ref=e151]:
+              - link "Medical Care" [ref=e152] [cursor=pointer]:
+                - /url: https://health.amazon.com/prime?ref_=nav_cs_all_health_ingress_onem_h
+              - button "Medical Care Details" [ref=e153] [cursor=pointer]
+          - listitem [ref=e154]:
+            - link "Best Sellers" [ref=e156] [cursor=pointer]:
+              - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+          - listitem [ref=e157]:
+            - link "Books" [ref=e159] [cursor=pointer]:
+              - /url: /books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books
+          - listitem [ref=e160]:
+            - link "Amazon Basics" [ref=e162] [cursor=pointer]:
+              - /url: /Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics
+          - listitem [ref=e163]:
+            - link "Buy Again" [ref=e165] [cursor=pointer]:
+              - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+          - listitem [ref=e166]:
+            - link "Groceries" [ref=e168] [cursor=pointer]:
+              - /url: /fmc/grocery-gateway?gsc=fe16aGPfFs46S&ref_=nav_cs_groceries
+          - listitem [ref=e169]:
+            - link "Sell" [ref=e171] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+          - listitem [ref=e172]:
+            - generic [ref=e173]:
+              - link "Amazon Business" [ref=e174] [cursor=pointer]:
+                - /url: /business/register/org/landing?ref_=nav_cs_business_flyout
+              - button "Amazon Business Details" [ref=e175] [cursor=pointer]
+          - listitem [ref=e176]:
+            - link "Keep Shopping For" [ref=e178] [cursor=pointer]:
+              - /url: /hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db
+          - listitem [ref=e179]:
+            - link "Audible" [ref=e181] [cursor=pointer]:
+              - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible
+          - listitem [ref=e182]:
+            - link "Household, Health & Baby Care" [ref=e184] [cursor=pointer]:
+              - /url: /health-personal-care-nutrition-fitness/b/?ie=UTF8&node=3760901&ref_=nav_cs_hpc
+          - listitem [ref=e185]:
+            - link "Pet Supplies" [ref=e187] [cursor=pointer]:
+              - /url: /pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets
+          - listitem [ref=e188]:
+            - link "Beauty & Personal Care" [ref=e190] [cursor=pointer]:
+              - /url: /Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty
+          - listitem [ref=e191]:
+            - generic [ref=e192]:
+              - link "Browsing History" [ref=e193] [cursor=pointer]:
+                - /url: /gp/history?ref_=nav_cs_timeline
+              - button "Browsing History Details" [ref=e194] [cursor=pointer]
+          - listitem [ref=e195]:
+            - link "Handmade" [ref=e197] [cursor=pointer]:
+              - /url: /gp/browse.html?node=120955898011&ref_=nav_cs_handmade
+          - listitem [ref=e198]:
+            - link "Subscribe & Save" [ref=e200] [cursor=pointer]:
+              - /url: /auto-deliveries/landing?ref_=nav_cs_sns
+          - listitem [ref=e201]:
+            - link "Pharmacy" [ref=e203] [cursor=pointer]:
+              - /url: https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy
+          - listitem [ref=e204]:
+            - link "Computers" [ref=e206] [cursor=pointer]:
+              - /url: /computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc
+          - listitem [ref=e207]:
+            - link "Livestreams" [ref=e209] [cursor=pointer]:
+              - /url: /live?ref_=nav_cs_amazonlive
+          - listitem [ref=e210]:
+            - link "Video Games" [ref=e212] [cursor=pointer]:
+              - /url: /computer-video-games-hardware-accessories/b/?ie=UTF8&node=468642&ref_=nav_cs_video_games
+          - listitem [ref=e213]:
+            - link "Customer Service" [ref=e215] [cursor=pointer]:
+              - /url: /hz/contact-us/foresight/hubgateway?ref_=nav_cs_fs_hybridhub_navbar_c
+          - listitem [ref=e216]:
+            - link "Shop By Interest" [ref=e218] [cursor=pointer]:
+              - /url: /finds?ref_=nav_cs_foundit
+          - listitem [ref=e219]:
+            - link "TV & Video" [ref=e221] [cursor=pointer]:
+              - /url: /tvs/b/?ie=UTF8&node=172659&ref_=nav_cs_tv
+          - listitem [ref=e222]:
+            - link "randy 's Amazon.com" [ref=e224] [cursor=pointer]:
+              - /url: /gp/yourstore/home?ref_=nav_cs_ys
+              - generic [ref=e225]:
+                - generic [ref=e226]: randy
+                - text: "'s Amazon.com"
+          - listitem [ref=e227]:
+            - link "Prime Video" [ref=e229] [cursor=pointer]:
+              - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+          - listitem [ref=e230]:
+            - generic [ref=e231]:
+              - link "Prime" [ref=e232] [cursor=pointer]:
+                - /url: /prime?ref_=nav_cs_primelink_member
+              - button "Prime Details" [ref=e233] [cursor=pointer]
+          - listitem [ref=e234]:
+            - link "Registry" [ref=e236] [cursor=pointer]:
+              - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+          - listitem [ref=e237]:
+            - link "Kindle Books" [ref=e239] [cursor=pointer]:
+              - /url: /Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books
+          - listitem [ref=e240]:
+            - link "Amazon Home" [ref=e242] [cursor=pointer]:
+              - /url: /home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home
+          - listitem [ref=e243]:
+            - link "New Releases" [ref=e245] [cursor=pointer]:
+              - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+          - listitem [ref=e246]:
+            - generic [ref=e247]:
+              - link "Gift Cards" [ref=e248] [cursor=pointer]:
+                - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+              - button "Gift Cards Details" [ref=e249] [cursor=pointer]
+          - listitem [ref=e250]:
+            - link "Automotive" [ref=e252] [cursor=pointer]:
+              - /url: /automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive
+          - listitem [ref=e253]:
+            - link "Fashion" [ref=e255] [cursor=pointer]:
+              - /url: /amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion
+      - navigation [ref=e261]:
+        - generic [ref=e262]:
+          - link "Kindle Books" [ref=e263] [cursor=pointer]:
+            - /url: /amz-books/store?ref=ebooks_dsk_sn_books-logo-1b731
+            - img "Kindle Books" [ref=e264]
+          - link "Shop Books" [ref=e267] [cursor=pointer]:
+            - /url: /amz-books/store?ref=ebooks_dsk_sn_USF_sb
+          - button "Categories" [ref=e269] [cursor=pointer]: Categories
+          - button "New & Trending" [ref=e272] [cursor=pointer]: New & Trending
+          - button "Deals" [ref=e275] [cursor=pointer]: Deals
+          - button "Best Sellers & More" [ref=e278] [cursor=pointer]: Best Sellers & More
+          - button "More" [ref=e281] [cursor=pointer]: More
+          - button "Your Books" [ref=e285] [cursor=pointer]: Your Books
+      - dialog [ref=e287]
+  - main [ref=e290]:
+    - generic [ref=e291]:
+      - link "Shop new arrivals from Shopbop" [ref=e295] [cursor=pointer]:
+        - /url: /stores/page/A9784236-8EDB-4131-8AA0-23930A929812/?_encoding=UTF8&channel=SB_Dpxxmarnewarrivals&pd_rd_w=44dPR&content-id=amzn1.sym.f08dd6d9-12fa-4373-8f05-43a7becae7e1&pf_rd_p=f08dd6d9-12fa-4373-8f05-43a7becae7e1&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=5mEd9&pd_rd_r=3f315fb5-3777-44ad-91f6-a3ca173cef27
+        - img "Shop new arrivals from Shopbop" [ref=e296]
+      - list [ref=e301]:
+        - listitem [ref=e302]:
+          - link "Kindle Store" [ref=e304] [cursor=pointer]:
+            - /url: /Kindle-Store/b/ref=dp_bc_1?ie=UTF8&node=133140011
+        - listitem [ref=e305]: ›
+        - listitem [ref=e306]:
+          - link "Kindle eBooks" [ref=e308] [cursor=pointer]:
+            - /url: /Kindle-eBooks/b/ref=dp_bc_2?ie=UTF8&node=154606011
+        - listitem [ref=e309]: ›
+        - listitem [ref=e310]:
+          - link "Literature & Fiction" [ref=e312] [cursor=pointer]:
+            - /url: /Literature-Fiction-Kindle-eBooks/b/ref=dp_bc_3?ie=UTF8&node=157028011
+        - listitem [ref=e313]: ›
+        - listitem [ref=e314]:
+          - link "Action & Adventure" [ref=e316] [cursor=pointer]:
+            - /url: /Action-Adventure-Fiction-eBooks-Kindle/b/ref=dp_bc_4?ie=UTF8&node=157055011
+        - listitem [ref=e317]: ›
+        - listitem [ref=e318]:
+          - link "Mystery, Thriller & Suspense" [ref=e320] [cursor=pointer]:
+            - /url: /Mystery-Thriller-Suspense-Action-Fiction/b/ref=dp_bc_5?ie=UTF8&node=7588731011
+        - listitem [ref=e321]: ›
+        - listitem [ref=e322]:
+          - link "Crime" [ref=e324] [cursor=pointer]:
+            - /url: /Crime-Action-Fiction/b/ref=dp_bc_6?ie=UTF8&node=7588732011
+    - generic [ref=e325]:
+      - generic [ref=e326]:
+        - list [ref=e330]:
+          - listitem [ref=e331]:
+            - 'radio "Kindle Format: $0.00 With Kindle Unlimited or $4.99 to buy" [checked] [ref=e334] [cursor=pointer]':
+              - generic "Kindle Format:" [ref=e336]: Kindle
+              - generic [ref=e337]:
+                - text: $0.00
+                - img "With Kindle Unlimited" [ref=e338]
+              - generic [ref=e341]: or $4.99 to buy
+          - listitem [ref=e342]:
+            - 'radio "Paperback Format: $9.99 Prime" [ref=e345] [cursor=pointer]':
+              - generic "Paperback Format:" [ref=e347]: Paperback
+              - generic [ref=e348]: $9.99
+              - button "Prime" [ref=e351]
+        - button "Other New from $9.99" [ref=e354] [cursor=pointer]:
+          - generic "Other New from $9.99" [ref=e355]
+        - generic [ref=e366]:
+          - generic [ref=e369]:
+            - generic [ref=e370]:
+              - img "Kindle Unlimited" [ref=e372]
+              - generic [ref=e373]:
+                - text: Unlimited reading. Over 5 million titles.
+                - link "Learn more" [ref=e374] [cursor=pointer]:
+                  - /url: /kindle-dbs/ku2?passThroughAsin=B0GPM973N1&ref=dbs_p_ebk_r00_pbcb_diupu0
+            - link "Join Now" [ref=e378] [cursor=pointer]:
+              - /url: /kindle-dbs/ku2?passThroughAsin=B0GPM973N1&ref=dbs_p_ebk_r00_pbcb_diupu0
+          - generic [ref=e381]: OR
+          - generic [ref=e386]:
+            - generic [ref=e387]:
+              - generic [ref=e388]:
+                - generic [ref=e389]: $4.99 with 50 percent savings
+                - generic [ref=e390]: "-50%"
+                - generic [ref=e392]:
+                  - text: $
+                  - generic [ref=e393]:
+                    - text: "4"
+                    - generic [ref=e394]: .
+                  - text: "99"
+              - generic [ref=e396]:
+                - generic [ref=e397]:
+                  - generic [ref=e398]: "Print List Price: $9.99"
+                  - generic [ref=e399]:
+                    - text: "Print List Price:"
+                    - generic [ref=e400]:
+                      - generic [ref=e401]: $9.99
+                      - text: $9.99
+                - link "Learn more about Amazon pricing and savings" [ref=e404] [cursor=pointer]:
+                  - /url: "#"
+                  - img "Learn more about Amazon pricing and savings" [ref=e405]
+              - generic [ref=e406]:
+                - text: "You Earn: 15 pts"
+                - link "Details" [ref=e408] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - generic [ref=e412] [cursor=pointer]:
+              - button "Buy now with 1-Click The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e413]: Buy now with 1-Click
+              - generic [ref=e414]: Buy now with 1-Click
+            - contentinfo [ref=e415]:
+              - generic [ref=e416]:
+                - text: By placing an order, you're purchasing a content license & agreeing to
+                - link "Kindle's Store Terms of Use" [ref=e417] [cursor=pointer]:
+                  - /url: /gp/help/customer/display.html?nodeId=201014950
+                - text: .
+            - generic [ref=e418]: Sold by Amazon.com Services LLC.
+      - generic [ref=e423]:
+        - generic [ref=e424]:
+          - heading "Buy for others" [level=3] [ref=e425]
+          - generic [ref=e426]:
+            - text: Give as a gift or purchase for a team or group.
+            - button "Learn more" [ref=e428] [cursor=pointer]: Learn more
+        - generic [ref=e434] [cursor=pointer]:
+          - button "Buy this Kindle book for others now." [ref=e435]: Buy for others
+          - generic [ref=e436]: Buy for others
+      - generic [ref=e443] [cursor=pointer]:
+        - button "Send a free sample" [ref=e444]
+        - generic [ref=e445]: Send a free sample
+      - generic [ref=e448]:
+        - generic [ref=e450]: Save this item
+        - generic [ref=e451]:
+          - generic [ref=e453] [cursor=pointer]:
+            - button "Add to List" [ref=e454]
+            - generic [ref=e456]: Add to List
+          - button "Select a list from the dropdown" [ref=e460] [cursor=pointer]
+      - generic [ref=e463]:
+        - iframe [ref=e464]:
+          - generic [ref=f31e3]:
+            - link "Unreal Frontier" [ref=f31e5] [cursor=pointer]:
+              - /url: https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RHKTb3trLDcEmxSkcWIChQwAAAGdRDtZ2gEAAAH0AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICAP_C51/clv1c_ek8OM3GX57OOBXc78KNgTRSoOEZF3oS4yJGJw8q4dWYGSEGglDdA4RPGdh6gwUHxvVzrpo8mWOVTK9k6enqnVlGCel4B6weBbj6emy4-mkrOIaqyruynypnbfpTpLSGcyn_bqZhBAl-AitWA28n365kRUgk-TUwoMgHo96RCthK7uUt8z4nYHH6ff0TBjhQBvNMoznxwuC_1ZjQ3kf8QPjpAV4jvyvYDUkAI9f71FEvClto_2of8FxdnKOucG5AEUlAy6cyR4cC--PMiHnnONl7EulkFNFSYCLbnR-g2naV-f53ok_jLr1Y_W18JWN2uvMCmtj8kDKBXiyS7MU6oFtpYav3VyrOOFzLBAmxLu3Lk9FxLTQbboSs_l8wjyKMgHdJG7GacWXtuAO1QSfOVdgpGfBflsDx7QgsQF1WZxDxId5Qr004y63t4pr4aLFmkp4NvynAyUfZi4v4/https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjQ4MDkxMzUyNDg4NDAwOjE3NzQ5NjYyMzI6c3BfZGV0YWlsX3JpZ2h0X3NoYXJlZDozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_right_aax_0%3Fpsc%3D1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfcmlnaHRfc2hhcmVk
+            - generic [ref=f31e7]:
+              - img "Unreal Frontier" [ref=f31e9]
+              - generic [ref=f31e10]:
+                - generic [ref=f31e12]:
+                  - generic [ref=f31e13]: Unreal Frontier
+                  - generic [ref=f31e14]: Unreal Frontier
+                - generic [ref=f31e16]: by Christopher Lannan
+                - generic [ref=f31e17]: "3"
+                - generic [ref=f31e20]:
+                  - generic [ref=f31e21]: $0.99
+                  - generic [ref=f31e22]:
+                    - text: $
+                    - generic [ref=f31e23]:
+                      - text: "0"
+                      - generic [ref=f31e24]: .
+                    - text: "99"
+                - generic [ref=f31e25]: Kindle Edition
+        - button "Leave feedback on Sponsored ad" [ref=e466] [cursor=pointer]:
+          - generic [ref=e467]: Sponsored
+    - generic [ref=e475]:
+      - heading "Paperback purchased on Mar 9, 2026" [ref=e476]
+      - link "View order" [ref=e477] [cursor=pointer]:
+        - /url: /gp/your-account/order-details/ref=dp_siou_view_this_order_d?ie=UTF8&orderID=114-6986675-5650619
+        - generic [ref=e478]: View order
+      - text: "|"
+      - link "View Your Books" [ref=e479] [cursor=pointer]:
+        - /url: /your-books?ref=yb_ip_dp_siou_d
+        - generic [ref=e480]: View Your Books
+      - text: "|"
+      - link "Discover more" [ref=e481] [cursor=pointer]:
+        - /url: /your-books?ref=yb_ip_dp_siou_dm_d&l_at=B0GRVVFMWY&discoveryType=on&filtersMapping=%7B%22genres%22%3A%5B%7B%22id%22%3A%22d4e6df9ed278f82f4d86319927d2faf8%22%2C%22rank%22%3A1%2C%22stringId%22%3A%22%22%2C%22imageURL%22%3A%22%22%2C%22name%22%3A%22Mystery%2C+Thriller+%26+Suspense%22%7D%5D%7D
+        - generic [ref=e482]: Discover more
+    - generic [ref=e483]:
+      - generic [ref=e491]:
+        - list
+        - list [ref=e492]:
+          - listitem [ref=e493] [cursor=pointer]:
+            - button "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e496]:
+              - img "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e497]
+      - button "Read sample" [ref=e505] [cursor=pointer]
+      - generic [ref=e508]:
+        - separator [ref=e509]
+        - heading "Follow the author" [level=1] [ref=e510]
+        - img "Follow authors for new release and deal updates, plus improved recommendations. See updates from all followed authors in Your Books." [ref=e512]
+        - generic [ref=e513]:
+          - link [ref=e516] [cursor=pointer]:
+            - /url: /Randy-Pellegrini/e/B0GMFLQFB3/ref=aufs_dp_fta_ai_dsk
+            - img [ref=e517]
+          - link "Randy Pellegrini" [ref=e519] [cursor=pointer]:
+            - /url: /Randy-Pellegrini/e/B0GMFLQFB3/ref=aufs_dp_fta_an_dsk
+            - generic [ref=e520]:
+              - generic [ref=e521]: Randy Pellegrini
+              - generic [ref=e522]: Randy Pellegrini
+          - button "Follow" [ref=e526] [cursor=pointer]
+    - generic [ref=e527]:
+      - generic [ref=e528]:
+        - button "Share" [ref=e530] [cursor=pointer]
+        - heading "The Genesis Protocol (The Architecture of Survival Book 2) Kindle Edition" [level=1] [ref=e532]
+      - generic [ref=e534]:
+        - text: by
+        - generic [ref=e535]:
+          - link "Randy Pellegrini" [ref=e536] [cursor=pointer]:
+            - /url: /Randy-Pellegrini/e/B0GMFLQFB3/ref=dp_byline_cont_ebooks_1
+          - generic [ref=e537]: (Author)
+        - text: "Format: Kindle Edition"
+      - generic [ref=e538]:
+        - generic [ref=e539]:
+          - table [ref=e541]:
+            - rowgroup [ref=e542]:
+              - row "4.9 out of 5 stars 29 Reviews" [ref=e543]:
+                - cell "4.9 out of 5 stars 29 Reviews" [ref=e544]:
+                  - generic [ref=e545]:
+                    - generic "4.9 out of 5 stars" [ref=e547]:
+                      - button "4.9 out of 5 stars" [ref=e549] [cursor=pointer]:
+                        - text: "4.9"
+                        - generic [ref=e551]: 4.9 out of 5 stars
+                    - link "29 Reviews" [ref=e554] [cursor=pointer]:
+                      - /url: "#averageCustomerReviewsAnchor"
+                      - text: (29)
+          - 'link "Book 2 of 3: The Architecture of Survival" [ref=e556] [cursor=pointer]':
+            - /url: /dp/B0GK9G17NS?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
+        - link "See all formats and editions" [ref=e560] [cursor=pointer]:
+          - /url: "#"
+      - separator [ref=e561]
+      - generic [ref=e563]:
+        - generic [ref=e564]:
+          - paragraph [ref=e565]: A geneticist discovers that the greatest threat to humanity was engineered by the people claiming to protect it.
+          - paragraph [ref=e566]: When Dr. Sarah Chen is recruited to consult on a classified intelligence operation, she expects government bureaucracy and national security theater. What she finds instead is THRESHOLD — a bioweapons program spanning forty-seven cities across six continents, designed to deploy an engineered pathogen capable of killing four billion people.
+          - paragraph [ref=e567]: The program wasn't built by a rogue state or a terrorist cell. It was built by GenVault, the world's most powerful pharmaceutical corporation — and behind GenVault stands the Order, a secret organization that has been shaping human genetics for three thousand years. They don't see THRESHOLD as a weapon. They see it as a correction. A genetic reset designed to save our species from itself.
+          - paragraph [ref=e568]: "Sarah has nine days to stop the deployment. Her only allies: a defecting physicist haunted by the weapon he helped design, an intelligence officer running out of authorized options, and a retired health inspector in Lisbon who built something no one expected — a distributed defense network of ordinary people positioned to dismantle the most sophisticated bioweapons infrastructure ever constructed."
+          - paragraph [ref=e569]: "But stopping the countdown is only the beginning. When a containment breach unleashes the pathogen, Sarah is forced to confront an impossible equation: the corporation that engineered the outbreak is the only entity capable of developing the cure. Exposing the truth means destroying the vaccine. Justice and survival cannot coexist."
+          - paragraph [ref=e570]: The math says silence saves more lives than truth. Sarah believes the math. She doesn't accept it — which is different, and worse.
+          - paragraph [ref=e571]: The Genesis Protocol is the second book in The Architecture of Survival series.
+        - button "Read more" [ref=e574] [cursor=pointer]: Read more
+      - generic [ref=e577]:
+        - separator [ref=e578]
+        - region "Book details" [ref=e579]:
+          - list [ref=e584]:
+            - listitem [ref=e585]:
+              - generic [ref=e586]:
+                - generic [ref=e588]: Book 2 of 3
+                - link "The Architecture of Survival" [ref=e592] [cursor=pointer]:
+                  - /url: /dp/B0GK9G17NS?binding=kindle_edition&ref=dbs_dp_sirpi
+            - listitem [ref=e593]:
+              - generic [ref=e594]:
+                - generic [ref=e596]: Print length
+                - 'button "Print length: 401 pages" [ref=e601] [cursor=pointer]': 401 pages
+            - listitem [ref=e603]:
+              - generic [ref=e604]:
+                - generic [ref=e606]: Language
+                - generic [ref=e609]: English
+            - listitem [ref=e610]:
+              - generic [ref=e611]:
+                - generic [ref=e613]: Accessibility
+                - 'button "Accessibility: Learn more" [ref=e618] [cursor=pointer]': Learn more
+            - listitem [ref=e619]:
+              - generic [ref=e620]:
+                - generic [ref=e622]: Publication date
+                - generic [ref=e625]: February 22, 2026
+            - listitem [ref=e626]:
+              - generic [ref=e627]:
+                - generic [ref=e629]: File size
+                - generic [ref=e632]: 844 KB
+            - listitem [ref=e633]:
+              - generic [ref=e634]:
+                - generic [ref=e636]: Page Flip
+                - 'button "Page Flip: Enabled" [ref=e641] [cursor=pointer]': Enabled
+            - listitem [ref=e643]:
+              - generic [ref=e644]:
+                - generic [ref=e646]: Word Wise
+                - 'button "Word Wise: Enabled" [ref=e651] [cursor=pointer]': Enabled
+            - listitem [ref=e653]:
+              - generic [ref=e654]:
+                - generic [ref=e656]: Enhanced typesetting
+                - 'button "Enhanced typesetting: Enabled" [ref=e661] [cursor=pointer]': Enabled
+        - link "See all details" [ref=e664] [cursor=pointer]:
+          - /url: "#detailBullets_feature_div"
+      - link "Report an issue with this product or seller" [ref=e669] [cursor=pointer]:
+        - /url: "#"
+        - text: Report an issue with this product or seller
+      - generic [ref=e671]:
+        - separator [ref=e672]
+        - generic [ref=e675]:
+          - iframe [ref=e676]:
+            - generic [ref=f32e1]:
+              - 'link "Mr. Average and the 12th Stone: Watch your Mandibles" [ref=f32e2] [cursor=pointer]':
+                - /url: https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxODYxMzEwNzQ2OTM2MjkyOjE3NzQ5NjYyMzI6c3BfaHFwX3NoYXJlZDozMDEyMTU1NzI1MjQyMDI6Ojo6&url=%2Fdp%2FB0CW1FVQS2%2Fref%3Dsspa_dk_hqp_detail_aax_0%3Fpsc%3D1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk
+              - generic [ref=f32e4]: "\"One-of-a-kind escape from reality that you won't want to miss.\"—Manhattan Book Review"
+              - 'img "Mr. Average and the 12th Stone: Watch your Mandibles" [ref=f32e6]'
+              - generic [ref=f32e7]:
+                - generic [ref=f32e8]: "Mr. Average and the 12th Stone: Watch your Mandibles by Ben Run"
+                - generic [ref=f32e9]: "30"
+                - generic [ref=f32e11]:
+                  - generic [ref=f32e12]: $0.99
+                  - generic [ref=f32e13]:
+                    - generic [ref=f32e14]: "|"
+                    - text: Kindle Edition
+                - generic [ref=f32e15]: Shop now ›
+          - button "Leave feedback on Sponsored ad" [ref=e678] [cursor=pointer]:
+            - generic [ref=e679]: Sponsored
+    - generic [ref=e684]:
+      - separator [ref=e685]
+      - generic [ref=e686]:
+        - heading "Shop this series" [level=2] [ref=e687]
+        - link "See full series" [ref=e688] [cursor=pointer]:
+          - /url: /dp/B0GK9G17NS?binding=kindle_edition&ref_=saga_dp_bnx_dsk_sdp
+      - generic [ref=e690]: There are 3 books in this series.
+      - tablist [ref=e692]:
+        - tab "All 2 available $8.98" [selected] [ref=e695] [cursor=pointer]:
+          - generic [ref=e696]:
+            - text: All 2 available
+            - generic [ref=e698]: $8.98
+      - tabpanel "All 2 available $8.98" [ref=e699]:
+        - generic [ref=e701]:
+          - generic [ref=e702]:
+            - generic [ref=e704]:
+              - generic [ref=e706]: This option includes 2 books.
+              - link "See included items" [ref=e709] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e714]: 1 unreleased or unavailable book is excluded.
+          - list [ref=e717]:
+            - listitem [ref=e718]:
+              - 'img "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death (The Architecture of Survival Book 1)" [ref=e725] [cursor=pointer]':
+                - img [ref=e728]
+                - generic [ref=e730]: Book 1
+            - listitem [ref=e731]:
+              - img "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e738] [cursor=pointer]:
+                - img [ref=e741]
+                - generic [ref=e743]: Book 2
+            - listitem [ref=e744]:
+              - generic [ref=e747]:
+                - generic [ref=e749]:
+                  - generic [ref=e751]: "Kindle Price:"
+                  - generic [ref=e753]: $8.98
+                - generic [ref=e760] [cursor=pointer]:
+                  - button "Buy 2 items now with 1-Click" [ref=e761]
+                  - generic [ref=e762]: Buy 2 items now with 1-Click
+                - generic [ref=e764]:
+                  - text: By placing your order,
+                  - strong [ref=e765]: you're purchasing a license to the content
+                  - text: and you agree to the
+                  - link "Kindle Store Terms of Use" [ref=e766] [cursor=pointer]:
+                    - /url: /gp/help/customer/display.html?nodeId=201014950
+                  - text: .
+    - generic [ref=e769]:
+      - separator [ref=e770]
+      - group [ref=e773]:
+        - generic [ref=e775]:
+          - heading "Customers who viewed this item also viewed" [level=2] [ref=e778]
+          - button "Not interested in specific items" [ref=e783] [cursor=pointer]
+        - group [ref=e787]:
+          - list [ref=e788]:
+            - listitem [ref=e789]:
+              - generic [ref=e791]:
+                - link [ref=e792] [cursor=pointer]:
+                  - /url: /Aethelred-Cipher-Conspiracy-Shepherding-Architecture-ebook/dp/B0GJTGCHS2/ref=pd_sbs_d_sccl_1_1/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GJTGCHS2&psc=1
+                  - img [ref=e794]
+                - generic [ref=e796]:
+                  - 'link "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death (The Architecture of Survival Book 1)" [ref=e797] [cursor=pointer]':
+                    - /url: /Aethelred-Cipher-Conspiracy-Shepherding-Architecture-ebook/dp/B0GJTGCHS2/ref=pd_sbs_d_sccl_1_1/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GJTGCHS2&psc=1
+                    - generic [ref=e799]: "The Aethelred Cipher: A Medieval Conspiracy Shepherding the Black Death (The Architecture of Survival Book 1)"
+                  - link "Randy Pellegrini" [ref=e801] [cursor=pointer]:
+                    - /url: /Randy-Pellegrini/e/B0GMFLQFB3/ref=pd_sbs_d_sccl_1_1_bl/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GJTGCHS2
+                    - generic [ref=e802]: Randy Pellegrini
+                  - link "4.7 out of 5 stars, 68 ratings" [ref=e805] [cursor=pointer]:
+                    - /url: /product-reviews/B0GJTGCHS2/ref=pd_sbs_d_sccl_1_1_cr/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GJTGCHS2
+                    - generic [ref=e807]: 4.7 out of 5 stars
+                    - text: "68"
+                  - generic [ref=e808]: Kindle Edition
+                  - generic [ref=e809]:
+                    - link "$3.99" [ref=e813] [cursor=pointer]:
+                      - /url: /Aethelred-Cipher-Conspiracy-Shepherding-Architecture-ebook/dp/B0GJTGCHS2/ref=pd_sbs_d_sccl_1_1/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GJTGCHS2&psc=1
+                      - generic [ref=e814]:
+                        - generic [ref=e815]: $3.99
+                        - generic [ref=e816]:
+                          - text: $
+                          - generic [ref=e817]:
+                            - text: "3"
+                            - generic [ref=e818]: .
+                          - text: "99"
+                    - link "12 pts" [ref=e820] [cursor=pointer]:
+                      - /url: /Aethelred-Cipher-Conspiracy-Shepherding-Architecture-ebook/dp/B0GJTGCHS2/ref=pd_sbs_d_sccl_1_1/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GJTGCHS2&psc=1
+            - listitem [ref=e821]:
+              - generic [ref=e823]:
+                - link [ref=e824] [cursor=pointer]:
+                  - /url: /DISCONNECTED-Prison-Paradise-Two-Souls-ebook/dp/B0GR6QT91W/ref=pd_sbs_d_sccl_1_2/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GR6QT91W&psc=1
+                  - img [ref=e826]
+                - generic [ref=e828]:
+                  - 'link "DISCONNECTED: A Prison. A Paradise. Two Souls." [ref=e829] [cursor=pointer]':
+                    - /url: /DISCONNECTED-Prison-Paradise-Two-Souls-ebook/dp/B0GR6QT91W/ref=pd_sbs_d_sccl_1_2/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GR6QT91W&psc=1
+                    - generic [ref=e831]: "DISCONNECTED: A Prison. A Paradise. Two Souls."
+                  - link "Marcelo Marçal" [ref=e833] [cursor=pointer]:
+                    - /url: /Marcelo-Mar%C3%A7al/e/B0GR7KH4H7/ref=pd_sbs_d_sccl_1_2_bl/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GR6QT91W
+                    - generic [ref=e834]: Marcelo Marçal
+                  - generic [ref=e835]: Kindle Edition
+                  - generic [ref=e836]:
+                    - link "$3.99" [ref=e840] [cursor=pointer]:
+                      - /url: /DISCONNECTED-Prison-Paradise-Two-Souls-ebook/dp/B0GR6QT91W/ref=pd_sbs_d_sccl_1_2/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GR6QT91W&psc=1
+                      - generic [ref=e841]:
+                        - generic [ref=e842]: $3.99
+                        - generic [ref=e843]:
+                          - text: $
+                          - generic [ref=e844]:
+                            - text: "3"
+                            - generic [ref=e845]: .
+                          - text: "99"
+                    - link "12 pts" [ref=e847] [cursor=pointer]:
+                      - /url: /DISCONNECTED-Prison-Paradise-Two-Souls-ebook/dp/B0GR6QT91W/ref=pd_sbs_d_sccl_1_2/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GR6QT91W&psc=1
+            - listitem [ref=e848]:
+              - generic [ref=e850]:
+                - link [ref=e851] [cursor=pointer]:
+                  - /url: /Zero-Time-truths-cannot-discovered-ebook/dp/B0GMC2C8HP/ref=pd_sbs_d_sccl_1_3/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GMC2C8HP&psc=1
+                  - img [ref=e853]
+                - generic [ref=e855]:
+                  - 'link "Zero Time: Some truths cannot be given. They can only be discovered" [ref=e856] [cursor=pointer]':
+                    - /url: /Zero-Time-truths-cannot-discovered-ebook/dp/B0GMC2C8HP/ref=pd_sbs_d_sccl_1_3/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GMC2C8HP&psc=1
+                    - generic [ref=e858]: "Zero Time: Some truths cannot be given. They can only be discovered"
+                  - generic [ref=e861]: Daniel Blackwood
+                  - link "4.4 out of 5 stars, 6 ratings" [ref=e864] [cursor=pointer]:
+                    - /url: /product-reviews/B0GMC2C8HP/ref=pd_sbs_d_sccl_1_3_cr/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GMC2C8HP
+                    - generic [ref=e866]: 4.4 out of 5 stars
+                    - text: "6"
+                  - generic [ref=e867]: Kindle Edition
+                  - generic [ref=e868]:
+                    - link "$4.99" [ref=e872] [cursor=pointer]:
+                      - /url: /Zero-Time-truths-cannot-discovered-ebook/dp/B0GMC2C8HP/ref=pd_sbs_d_sccl_1_3/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GMC2C8HP&psc=1
+                      - generic [ref=e873]:
+                        - generic [ref=e874]: $4.99
+                        - generic [ref=e875]:
+                          - text: $
+                          - generic [ref=e876]:
+                            - text: "4"
+                            - generic [ref=e877]: .
+                          - text: "99"
+                    - link "15 pts" [ref=e879] [cursor=pointer]:
+                      - /url: /Zero-Time-truths-cannot-discovered-ebook/dp/B0GMC2C8HP/ref=pd_sbs_d_sccl_1_3/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GMC2C8HP&psc=1
+            - listitem [ref=e880]:
+              - generic [ref=e882]:
+                - link [ref=e883] [cursor=pointer]:
+                  - /url: /Last-Vision-Science-Fiction-Thriller-ebook/dp/B0GHZM21JV/ref=pd_sbs_d_sccl_1_4/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GHZM21JV&psc=1
+                  - img [ref=e885]
+                - generic [ref=e887]:
+                  - 'link "Last Vision: AI Science Fiction Thriller" [ref=e888] [cursor=pointer]':
+                    - /url: /Last-Vision-Science-Fiction-Thriller-ebook/dp/B0GHZM21JV/ref=pd_sbs_d_sccl_1_4/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GHZM21JV&psc=1
+                    - generic [ref=e890]: "Last Vision: AI Science Fiction Thriller"
+                  - link "Sar Maroof" [ref=e892] [cursor=pointer]:
+                    - /url: /Sar-Maroof/e/B075CCQT57/ref=pd_sbs_d_sccl_1_4_bl/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GHZM21JV
+                    - generic [ref=e893]: Sar Maroof
+                  - link "2.0 out of 5 stars, 1 ratings" [ref=e896] [cursor=pointer]:
+                    - /url: /product-reviews/B0GHZM21JV/ref=pd_sbs_d_sccl_1_4_cr/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GHZM21JV
+                    - generic [ref=e898]: 2.0 out of 5 stars
+                    - text: "1"
+                  - generic [ref=e899]: Kindle Edition
+                  - generic [ref=e900]:
+                    - link "$0.99" [ref=e904] [cursor=pointer]:
+                      - /url: /Last-Vision-Science-Fiction-Thriller-ebook/dp/B0GHZM21JV/ref=pd_sbs_d_sccl_1_4/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GHZM21JV&psc=1
+                      - generic [ref=e905]:
+                        - generic [ref=e906]: $0.99
+                        - generic [ref=e907]:
+                          - text: $
+                          - generic [ref=e908]:
+                            - text: "0"
+                            - generic [ref=e909]: .
+                          - text: "99"
+                    - link "3 pts" [ref=e911] [cursor=pointer]:
+                      - /url: /Last-Vision-Science-Fiction-Thriller-ebook/dp/B0GHZM21JV/ref=pd_sbs_d_sccl_1_4/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GHZM21JV&psc=1
+            - listitem [ref=e912]:
+              - generic [ref=e914]:
+                - link [ref=e915] [cursor=pointer]:
+                  - /url: /Signal-Beneath-Sand-Hank-Garner-ebook/dp/B0GFFP87FN/ref=pd_sbs_d_sccl_1_5/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GFFP87FN&psc=1
+                  - img [ref=e917]
+                - generic [ref=e919]:
+                  - link "The Signal Beneath the Sand" [ref=e920] [cursor=pointer]:
+                    - /url: /Signal-Beneath-Sand-Hank-Garner-ebook/dp/B0GFFP87FN/ref=pd_sbs_d_sccl_1_5/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GFFP87FN&psc=1
+                    - generic [ref=e922]: The Signal Beneath the Sand
+                  - link "Hank Garner" [ref=e924] [cursor=pointer]:
+                    - /url: /Hank-Garner/e/B00IPISPCO/ref=pd_sbs_d_sccl_1_5_bl/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GFFP87FN
+                    - generic [ref=e925]: Hank Garner
+                  - generic [ref=e926]: Kindle Edition
+                  - link "$3.99" [ref=e931] [cursor=pointer]:
+                    - /url: /Signal-Beneath-Sand-Hank-Garner-ebook/dp/B0GFFP87FN/ref=pd_sbs_d_sccl_1_5/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0GFFP87FN&psc=1
+                    - generic [ref=e932]:
+                      - generic [ref=e933]: $3.99
+                      - generic [ref=e934]:
+                        - text: $
+                        - generic [ref=e935]:
+                          - text: "3"
+                          - generic [ref=e936]: .
+                        - text: "99"
+            - listitem [ref=e937]:
+              - generic [ref=e939]:
+                - link [ref=e940] [cursor=pointer]:
+                  - /url: /Case-Silent-Scream-Curious-Mysteries-ebook/dp/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL&psc=1
+                  - img [ref=e942]
+                - generic [ref=e944]:
+                  - 'link "The Case of the Silent Scream: A Curious Cases Mystery (The Curious Cases Mysteries Book 1)" [ref=e945] [cursor=pointer]':
+                    - /url: /Case-Silent-Scream-Curious-Mysteries-ebook/dp/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL&psc=1
+                    - generic [ref=e947]: "The Case of the Silent Scream: A Curious Cases Mystery (The Curious Cases Mysteries Book 1)"
+                  - link "Sidney Wainwright" [ref=e949] [cursor=pointer]:
+                    - /url: /Sidney-Wainwright/e/B07D5W6FFT/ref=pd_sbs_d_sccl_1_6_bl/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL
+                    - generic [ref=e950]: Sidney Wainwright
+                  - link "4.1 out of 5 stars, 28 ratings" [ref=e953] [cursor=pointer]:
+                    - /url: /product-reviews/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6_cr/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL
+                    - generic [ref=e955]: 4.1 out of 5 stars
+                    - text: "28"
+                  - generic [ref=e956]: Kindle Edition
+                  - generic [ref=e957]:
+                    - generic [ref=e959]:
+                      - generic [ref=e960]:
+                        - link "-90%" [ref=e961] [cursor=pointer]:
+                          - /url: /Case-Silent-Scream-Curious-Mysteries-ebook/dp/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL&psc=1
+                          - text: "-90%"
+                        - link "$0.99" [ref=e962] [cursor=pointer]:
+                          - /url: /Case-Silent-Scream-Curious-Mysteries-ebook/dp/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL&psc=1
+                          - generic [ref=e963]:
+                            - generic [ref=e964]: $0.99
+                            - generic [ref=e965]:
+                              - text: $
+                              - generic [ref=e966]:
+                                - text: "0"
+                                - generic [ref=e967]: .
+                              - text: "99"
+                      - 'link "Print List Price: $9.99" [ref=e969] [cursor=pointer]':
+                        - /url: /Case-Silent-Scream-Curious-Mysteries-ebook/dp/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL&psc=1
+                        - generic [ref=e971]: "Print List Price: $9.99"
+                    - link "3 pts" [ref=e973] [cursor=pointer]:
+                      - /url: /Case-Silent-Scream-Curious-Mysteries-ebook/dp/B0CTHQ7GGL/ref=pd_sbs_d_sccl_1_6/135-0762291-9797266?pd_rd_w=wugEY&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=JJ8ZV4X8ECK02AMFKDRY&pd_rd_wg=WBWI3&pd_rd_r=f95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd&pd_rd_i=B0CTHQ7GGL&psc=1
+    - generic [ref=e975]:
+      - separator [ref=e976]
+      - heading "From the Publisher" [level=2] [ref=e977]
+      - generic [ref=e980]:
+        - generic [ref=e982]:
+          - heading "A Genetic Conspiracy Three Millennia in the Making" [level=3] [ref=e984]
+          - paragraph [ref=e986]: "What if your DNA carried secrets that could reshape humanity — or destroy it? Dr. Sarah Chen thought she was investigating routine genetic anomalies at GenVault Corporation. Instead, she uncovered humanity's most dangerous secret: a bioweapon engineered not in months or years, but across three thousand years of careful manipulation. With forty-three seconds to escape GenVault's collapsing containment protocols, Sarah becomes the most hunted woman on Earth. Her crime? Discovering that her own genetic code carries the memories of 82 generations — a living archive that two shadow organizations will kill to possess. The Defensive Network has protected carriers like Sarah for millennia, operating in the spaces between governments and corporations. The Order has spent just as long trying to weaponize what flows through their veins. Now both sides converge on Sarah, who holds the key to either humanity's evolution or its extinction. As Sarah races through a world where every hospital, every genetic testing facility, every drop of blood becomes a potential weapon, she must decode not just her own genetic memory, but the impossible mathematics that have kept this conspiracy hidden. Each revelation pulls her deeper into a web of connections spanning ancient bloodlines, modern biotech, and the classified pandemic protocols that governments hoped they'd never need. From the laboratories of GenVault to the shadow networks protecting genetic carriers, every page pulses with authentic scientific detail and relentless tension. Perfect for readers who devoured The Andromeda Strain, Dark Matter, and The Genesis Machine. Book 2 of The Architecture of Survival — a 12-book epic spanning 3,200 years from Bronze Age Egypt to the modern era. Some genetic codes are meant to be broken. Others are meant to survive. Sarah Chen is about to discover which kind she carries."
+        - generic [ref=e988]:
+          - heading "From the Author" [level=3] [ref=e990]
+          - paragraph [ref=e992]: "The Genesis Protocol started with a question I couldn't shake: what if the most important information in human history wasn't stored in libraries or databases, but in our cells? I'd spent years researching genetic memory and epigenetic inheritance for The Aethelred Cipher, and the deeper I went, the more the science blurred into something that felt like science fiction. Except it wasn't fiction — researchers are genuinely discovering that trauma, knowledge, and behavioral patterns can be passed down through DNA across generations. The implications are staggering. Sarah Chen came to life because I wanted to explore what happens when that science collides with conspiracy. What if someone discovered that their genetic code carried not just ancestral memories, but evidence of deliberate manipulation spanning millennia? And what if the organizations behind that manipulation were still operating today? This is the second book in The Architecture of Survival series, and it shifts the timeline forward from medieval Germany to the modern era. The same conspiracy Thomas of Eltville uncovered in The Aethelred Cipher is still running — but now it's operating through biotech corporations, genetic testing facilities, and classified pandemic protocols. The tools have changed. The stakes haven't. Writing Sarah's story meant diving deep into genetics, bioweapons research, and network theory. I wanted every scientific detail to feel authentic, even when the conspiracy surrounding it pushes into thriller territory. If you've ever wondered what secrets might be hiding in your family's DNA, this book is for you. The series spans 3,200 years and 12 books. Each one stands alone as a thriller, but together they tell the story of how one organization has shaped human civilization from the shadows — and what happens when ordinary people start pushing back. — Randy Pellegrini"
+    - generic [ref=e993]:
+      - generic [ref=e994]:
+        - separator [ref=e995]
+        - heading "Product details" [level=2] [ref=e996]
+        - list [ref=e998]:
+          - listitem [ref=e999]:
+            - generic [ref=e1000]: "ASIN ‏ : ‎ B0GPM973N1"
+          - listitem [ref=e1001]:
+            - generic [ref=e1002]: "Publisher ‏ : ‎ Amazon"
+          - listitem [ref=e1003]:
+            - generic [ref=e1004]:
+              - text: "Accessibility ‏ : ‎"
+              - 'button "Accessibility: Learn more" [ref=e1006] [cursor=pointer]': Learn more
+          - listitem [ref=e1007]:
+            - generic [ref=e1008]: "Publication date ‏ : ‎ February 22, 2026"
+          - listitem [ref=e1009]:
+            - generic [ref=e1010]: "Edition ‏ : ‎ 1st"
+          - listitem [ref=e1011]:
+            - generic [ref=e1012]: "Language ‏ : ‎ English"
+          - listitem [ref=e1013]:
+            - generic [ref=e1014]: "File size ‏ : ‎ 844 KB"
+          - listitem [ref=e1015]:
+            - generic [ref=e1016]: "Screen Reader ‏ : ‎ Supported"
+          - listitem [ref=e1017]:
+            - generic [ref=e1018]:
+              - text: "Enhanced typesetting ‏ : ‎"
+              - 'button "Enhanced typesetting: Enabled" [ref=e1020] [cursor=pointer]': Enabled
+          - listitem [ref=e1022]:
+            - generic [ref=e1023]: "X-Ray ‏ : ‎ Not Enabled"
+          - listitem [ref=e1024]:
+            - generic [ref=e1025]:
+              - text: "Word Wise ‏ : ‎"
+              - 'button "Word Wise: Enabled" [ref=e1027] [cursor=pointer]': Enabled
+          - listitem [ref=e1029]:
+            - generic [ref=e1030]:
+              - text: "Print length ‏ : ‎"
+              - 'button "Print length: 401 pages" [ref=e1032] [cursor=pointer]': 401 pages
+          - listitem [ref=e1034]:
+            - generic [ref=e1035]:
+              - text: "Page Flip ‏ : ‎"
+              - 'button "Page Flip: Enabled" [ref=e1037] [cursor=pointer]': Enabled
+          - listitem [ref=e1039]:
+            - generic [ref=e1040]:
+              - text: "Book 2 of 3 ‏ : ‎"
+              - link "The Architecture of Survival" [ref=e1041] [cursor=pointer]:
+                - /url: /dp/B0GK9G17NS?binding=kindle_edition&ref=dbs_dp_sirpi
+          - listitem [ref=e1042]:
+            - generic [ref=e1043]:
+              - text: "Best Sellers Rank: #954,936 in Kindle Store ("
+              - link "See Top 100 in Kindle Store" [ref=e1044] [cursor=pointer]:
+                - /url: /gp/bestsellers/digital-text/ref=pd_zg_ts_digital-text
+              - text: )
+              - list [ref=e1045]:
+                - listitem [ref=e1046]:
+                  - generic [ref=e1047]:
+                    - text: "#995 in"
+                    - link "Medical Thrillers (Kindle Store)" [ref=e1048] [cursor=pointer]:
+                      - /url: /gp/bestsellers/digital-text/2225099011/ref=pd_zg_hrsr_digital-text
+                - listitem [ref=e1049]:
+                  - generic [ref=e1050]:
+                    - text: "#3,773 in"
+                    - link "Conspiracy Thrillers (Kindle Store)" [ref=e1051] [cursor=pointer]:
+                      - /url: /gp/bestsellers/digital-text/7130644011/ref=pd_zg_hrsr_digital-text
+                - listitem [ref=e1052]:
+                  - generic [ref=e1053]:
+                    - text: "#4,314 in"
+                    - link "Crime Action & Adventure" [ref=e1054] [cursor=pointer]:
+                      - /url: /gp/bestsellers/books/10159269011/ref=pd_zg_hrsr_books
+          - listitem [ref=e1055]:
+            - generic [ref=e1056]:
+              - text: "Customer Reviews:"
+              - generic [ref=e1057]:
+                - generic "4.9 out of 5 stars" [ref=e1059]:
+                  - button "4.9 out of 5 stars" [ref=e1061] [cursor=pointer]:
+                    - text: "4.9"
+                    - generic [ref=e1063]: 4.9 out of 5 stars
+                - link "29 Reviews" [ref=e1066] [cursor=pointer]:
+                  - /url: "#averageCustomerReviewsAnchor"
+                  - text: (29)
+      - generic:
+        - navigation:
+          - navigation "Navigate within the product detail page":
+            - navigation "Back to top jump link":
+              - generic:
+                - generic: Top
+            - navigation "About this item widget jump link":
+              - generic:
+                - generic: About this item
+            - navigation "From the brand widget jump link":
+              - generic:
+                - generic: From the Brand
+            - navigation "From the author widget jump link":
+              - generic:
+                - generic: From the Author
+            - navigation "Questions widget jump link":
+              - generic:
+                - generic: Questions
+            - navigation "Customer reviews widget jump link":
+              - generic:
+                - generic: Reviews
+            - navigation "Similar widget jump link":
+              - generic:
+                - generic: Similar
+          - navigation "Back to top Image jump link":
+            - img "The Genesis Protocol (The Architecture of Survival Book 2)"
+          - navigation "Back to top title jump link":
+            - generic: The Genesis Protocol (The Architecture of Survival Book 2)
+    - generic [ref=e1072]:
+      - heading "Videos" [level=2] [ref=e1074]
+      - generic [ref=e1075]: Help others learn more about this product by uploading a video!
+      - link "Upload your video" [ref=e1078] [cursor=pointer]:
+        - /url: /creatorhub/video/upload?productASIN=B0GPM973N1&referringURL=ZHAvQjBHUE05NzNOMQ%3D%3D&ref=RVSW
+    - generic [ref=e1081]:
+      - separator [ref=e1082]
+      - heading "About the author" [level=2] [ref=e1083]
+      - generic [ref=e1084]:
+        - text: Follow authors for new release and deal updates, plus improved recommendations.
+        - link "See updates from all followed authors in Your Books." [ref=e1086] [cursor=pointer]:
+          - /url: /your-books/?_encoding=UTF8&tabView=following&ref_=aufs_dp_mata_dsk_yb_yf
+      - generic [ref=e1091]:
+        - generic [ref=e1092]:
+          - img "Randy Pellegrini" [ref=e1095]
+          - button "Follow" [ref=e1099] [cursor=pointer]
+        - generic [ref=e1100]:
+          - link "Randy Pellegrini" [ref=e1102] [cursor=pointer]:
+            - /url: /Randy-Pellegrini/e/B0GMFLQFB3/ref=aufs_dp_mata_dsk
+            - heading "Randy Pellegrini" [level=2] [ref=e1103]
+          - generic [ref=e1106]:
+            - generic [ref=e1110]:
+              - paragraph [ref=e1111]: "Randy Pellegrini writes The Architecture of Survival, a 12-book epic spanning 3,200 years from Bronze Age Egypt to the AI era. The series explores genetic memory as hard science, civilizational collapse patterns, and the moral complexity of two competing philosophies: knowledge preservation versus genetic control."
+              - paragraph [ref=e1112]: With ~500,000 words completed and five books finished, the saga weaves real historical events with speculative elements grounded in epigenetics, network theory, and systems thinking. Each book stands alone while revealing how defensive methodology has been embedded into human civilization through every era's dominant technology.
+              - paragraph [ref=e1113]: When not writing, Randy travels near and far to better imagine history up close and personal. He continuously wonders why we continue to replay broken patterns of human systems. That wonder was the seed that has grown into this series.
+            - button [ref=e1117] [cursor=pointer]:
+              - generic [ref=e1119]: Read more about this author
+    - generic [ref=e1122]:
+      - separator [ref=e1123]
+      - group "Products related to this item" [ref=e1124]:
+        - generic [ref=e1126]:
+          - heading "Products related to this item" [level=2] [ref=e1127]
+          - link "Sponsored" [ref=e1131] [cursor=pointer]:
+            - /url: "#sp_detail2_feedbackForm"
+            - generic [ref=e1132]:
+              - text: Sponsored
+              - img [ref=e1133]
+        - group [ref=e1140]:
+          - list [ref=e1141]:
+            - listitem [ref=e1142]:
+              - generic [ref=e1143]:
+                - link "The Suwalki Crisis (A World on Fire)" [ref=e1144] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjM5MTQ2NzczMDI6Ojo6&url=%2Fdp%2F1967436320%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D1967436320%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1147]
+                  - generic [ref=e1148]: The Suwalki Crisis (A World on Fire)
+                - link "James Rosone" [ref=e1150] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjM5MTQ2NzczMDI6Ojo6&url=%2Fdp%2F1967436320%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D1967436320%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "4.6 out of 5 stars 787 ratings" [ref=e1152] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjM5MTQ2NzczMDI6Ojo6&url=%2Fdp%2F1967436320%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D1967436320%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: "787"
+                - link "Hardcover" [ref=e1155] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjM5MTQ2NzczMDI6Ojo6&url=%2Fdp%2F1967436320%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D1967436320%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "$24.99" [ref=e1157] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjM5MTQ2NzczMDI6Ojo6&url=%2Fdp%2F1967436320%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D1967436320%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1158]:
+                    - generic [ref=e1159]: $24.99
+                    - generic [ref=e1160]:
+                      - text: $
+                      - generic [ref=e1161]:
+                        - text: "24"
+                        - generic [ref=e1162]: .
+                      - text: "99"
+                - link "Amazon Prime" [ref=e1163] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjM5MTQ2NzczMDI6Ojo6&url=%2Fdp%2F1967436320%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D1967436320%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img "Amazon Prime" [ref=e1165]
+            - listitem [ref=e1166]:
+              - generic [ref=e1167]:
+                - link "Unreal Frontier" [ref=e1168] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CBY9BSFS%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1171]
+                  - generic [ref=e1172]: Unreal Frontier
+                - link "Christopher Lannan" [ref=e1174] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CBY9BSFS%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "Experience the mind-twisting combat of reality and unreality in this psychological thriller. Will we survive the destruction of two worlds colliding?" [ref=e1175] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CBY9BSFS%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1176]: Experience the mind-twisting combat of reality and unreality in this psychological thriller. Will we survive the destruction of two worlds colliding?
+                - link "4.4 out of 5 stars 3 ratings" [ref=e1178] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CBY9BSFS%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: "3"
+                - link "Kindle Edition" [ref=e1181] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CBY9BSFS%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - 'link "-85% $0.99 Print List Price: $6.49 Print List Price: $6.49" [ref=e1183] [cursor=pointer]':
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDA0NzYwMDUxOTU1MDI6Ojo6&url=%2Fdp%2FB0CBY9BSFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CBY9BSFS%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - text: "-85%"
+                  - generic [ref=e1184]:
+                    - generic [ref=e1185]: $0.99
+                    - generic [ref=e1186]:
+                      - text: $
+                      - generic [ref=e1187]:
+                        - text: "0"
+                        - generic [ref=e1188]: .
+                      - text: "99"
+                  - generic [ref=e1189]: "Print List Price: $6.49"
+                  - generic [ref=e1190]:
+                    - text: "Print List Price:"
+                    - generic [ref=e1191]:
+                      - generic [ref=e1192]: $6.49
+                      - text: $6.49
+            - listitem [ref=e1193]:
+              - generic [ref=e1194]:
+                - link "Just released" [ref=e1196] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjIwMzU4MDcyMDI6Ojo6&url=%2Fdp%2FB0GJF63NV5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GJF63NV5%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1197]: Just released
+                  - img [ref=e1198]
+                - 'link "The Codex: The First Light" [ref=e1199] [cursor=pointer]':
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjIwMzU4MDcyMDI6Ojo6&url=%2Fdp%2FB0GJF63NV5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GJF63NV5%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1202]
+                  - generic [ref=e1203]: "The Codex: The First Light"
+                - link "Richard Phillips" [ref=e1205] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjIwMzU4MDcyMDI6Ojo6&url=%2Fdp%2FB0GJF63NV5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GJF63NV5%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "5.0 out of 5 stars 2 ratings" [ref=e1207] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjIwMzU4MDcyMDI6Ojo6&url=%2Fdp%2FB0GJF63NV5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GJF63NV5%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: "2"
+                - link "Kindle Edition" [ref=e1210] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjIwMzU4MDcyMDI6Ojo6&url=%2Fdp%2FB0GJF63NV5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GJF63NV5%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "$3.99" [ref=e1212] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMjIwMzU4MDcyMDI6Ojo6&url=%2Fdp%2FB0GJF63NV5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GJF63NV5%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1213]:
+                    - generic [ref=e1214]: $3.99
+                    - generic [ref=e1215]:
+                      - text: $
+                      - generic [ref=e1216]:
+                        - text: "3"
+                        - generic [ref=e1217]: .
+                      - text: "99"
+            - listitem [ref=e1218]:
+              - generic [ref=e1219]:
+                - link "Just released" [ref=e1221] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMTYzMDAwNjU2MDI6Ojo6&url=%2Fdp%2FB0GDWGCQG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GDWGCQG2%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1222]: Just released
+                  - img [ref=e1223]
+                - link "A World Free of Politicians (IO Sci-Fi Saga Book 1)" [ref=e1224] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMTYzMDAwNjU2MDI6Ojo6&url=%2Fdp%2FB0GDWGCQG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GDWGCQG2%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1227]
+                  - generic [ref=e1228]: A World Free of Politicians (IO Sci-Fi Saga Book 1)
+                - link "A.R. Uribe" [ref=e1230] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMTYzMDAwNjU2MDI6Ojo6&url=%2Fdp%2FB0GDWGCQG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GDWGCQG2%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "4.8 out of 5 stars 5 ratings" [ref=e1232] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMTYzMDAwNjU2MDI6Ojo6&url=%2Fdp%2FB0GDWGCQG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GDWGCQG2%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: "5"
+                - link "Kindle Edition" [ref=e1235] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMTYzMDAwNjU2MDI6Ojo6&url=%2Fdp%2FB0GDWGCQG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GDWGCQG2%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "$0.99" [ref=e1237] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEyMTYzMDAwNjU2MDI6Ojo6&url=%2Fdp%2FB0GDWGCQG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GDWGCQG2%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1238]:
+                    - generic [ref=e1239]: $0.99
+                    - generic [ref=e1240]:
+                      - text: $
+                      - generic [ref=e1241]:
+                        - text: "0"
+                        - generic [ref=e1242]: .
+                      - text: "99"
+            - listitem [ref=e1243]:
+              - generic [ref=e1244]:
+                - link "The Michelangelo Effect (The Michelangelo Effect Trilogy)" [ref=e1245] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1248]
+                  - generic [ref=e1249]: The Michelangelo Effect (The Michelangelo Effect Trilogy)
+                - link "L.S. Chase" [ref=e1251] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "What would Michelangelo do with the technology of today at his fingertips? It's not what you're thinking! Renaissance genius gone rogue." [ref=e1252] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1253]: What would Michelangelo do with the technology of today at his fingertips? It's not what you're thinking! Renaissance genius gone rogue.
+                - link "4.0 out of 5 stars 23 ratings" [ref=e1255] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: "23"
+                - link "Hardcover" [ref=e1258] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "$27.99" [ref=e1260] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1261]:
+                    - generic [ref=e1262]: $27.99
+                    - generic [ref=e1263]:
+                      - text: $
+                      - generic [ref=e1264]:
+                        - text: "27"
+                        - generic [ref=e1265]: .
+                      - text: "99"
+                - link "Amazon Prime" [ref=e1266] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDEwOTg3MTk1MjYyMDI6Ojo6&url=%2Fdp%2FB0FY21K114%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FY21K114%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img "Amazon Prime" [ref=e1268]
+            - listitem [ref=e1269]:
+              - generic [ref=e1270]:
+                - 'link "ARISEN : Operators, Volume I – The Fall of the Third Temple: (The Special Ops Military Apocalypse Epic - Beyond Genre, Beyond Expectation.)" [ref=e1271] [cursor=pointer]':
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDExOTk4NzAzMDQxMDI6Ojo6&url=%2Fdp%2FB0CKZLD2LY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKZLD2LY%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1274]
+                  - generic [ref=e1275]: "ARISEN : Operators, Volume I – The Fall of the Third Temple: (The Special Ops Milit..."
+                - link "Michael Stephen Fuchs" [ref=e1277] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDExOTk4NzAzMDQxMDI6Ojo6&url=%2Fdp%2FB0CKZLD2LY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKZLD2LY%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "4.7 out of 5 stars 818 ratings" [ref=e1279] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDExOTk4NzAzMDQxMDI6Ojo6&url=%2Fdp%2FB0CKZLD2LY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKZLD2LY%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: "818"
+                - link "Kindle Edition" [ref=e1282] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDExOTk4NzAzMDQxMDI6Ojo6&url=%2Fdp%2FB0CKZLD2LY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKZLD2LY%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "$5.99" [ref=e1284] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjozMDExOTk4NzAzMDQxMDI6Ojo6&url=%2Fdp%2FB0CKZLD2LY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKZLD2LY%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - generic [ref=e1285]:
+                    - generic [ref=e1286]: $5.99
+                    - generic [ref=e1287]:
+                      - text: $
+                      - generic [ref=e1288]:
+                        - text: "5"
+                        - generic [ref=e1289]: .
+                      - text: "99"
+            - listitem [ref=e1290]:
+              - generic [ref=e1291]:
+                - 'link "Project Hail Mary: A Novel" [ref=e1292] [cursor=pointer]':
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img [ref=e1295]
+                  - generic [ref=e1296]: "Project Hail Mary: A Novel"
+                - link "Andy Weir" [ref=e1298] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - link "4.7 out of 5 stars 206,121 ratings" [ref=e1300] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+                  - text: 206,121
+                - generic [ref=e1302]:
+                  - generic:
+                    - link "#1 Best Seller":
+                      - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                      - generic [ref=e1304] [cursor=pointer]: "#1 Best Seller"
+                - link "Paperback" [ref=e1306] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                - 'link "-36% $13.98 List: $22.00 List: $22.00" [ref=e1308] [cursor=pointer]':
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - text: "-36%"
+                  - generic [ref=e1309]:
+                    - generic [ref=e1310]: $13.98
+                    - generic [ref=e1311]:
+                      - text: $
+                      - generic [ref=e1312]:
+                        - text: "13"
+                        - generic [ref=e1313]: .
+                      - text: "98"
+                  - generic [ref=e1314]: "List: $22.00"
+                  - generic [ref=e1315]:
+                    - text: "List:"
+                    - generic [ref=e1316]:
+                      - generic [ref=e1317]: $22.00
+                      - text: $22.00
+                - link "Amazon Prime" [ref=e1318] [cursor=pointer]:
+                  - /url: /sspa/click?ie=UTF8&spc=MTo0MzIxMjMzMTcxMjc5MzEzOjE3NzQ5NjYyMzI6c3BfZGV0YWlsMjoyMDAwOTIwODg3NTM1OTg6Ojo6&url=%2Fdp%2F0593135229%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D0593135229%26pd_rd_w%3DDomY1%26content-id%3Damzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_p%3D953c7d66-4120-4d22-a777-f19dbfa69309%26pf_rd_r%3DJJ8ZV4X8ECK02AMFKDRY%26pd_rd_wg%3DWBWI3%26pd_rd_r%3Df95d4c37-1dac-4a64-9d5e-5cc38a3cd6cd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+                  - img "Amazon Prime" [ref=e1320]
+    - generic [ref=e1325]:
+      - separator [ref=e1326]
+      - generic "Rate today's book shopping experience" [ref=e1328]:
+        - group [ref=e1330]:
+          - heading [level=2] [ref=e1331]: Rate today's book shopping experience
+          - generic [ref=e1332]:
+            - radio "Very poor" [ref=e1335]
+            - radio "Poor" [ref=e1339]
+            - radio "Neutral" [ref=e1343]
+            - radio "Good" [ref=e1347]
+            - radio "Great" [ref=e1351]
+            - generic [ref=e1353]: Very poor
+            - generic [ref=e1354]: Poor
+            - generic [ref=e1355]: Neutral
+            - generic [ref=e1356]: Good
+            - generic [ref=e1357]: Great
+      - button "Hide for 30 days" [ref=e1359] [cursor=pointer]
+      - button "Hide for 30 days" [ref=e1361] [cursor=pointer]
+    - generic [ref=e1363]:
+      - separator [ref=e1364]
+      - generic [ref=e1365]:
+        - heading "Looking for specific info?" [level=2] [ref=e1366]:
+          - generic [ref=e1367]: Looking for specific info?
+        - generic [ref=e1368]:
+          - searchbox "Looking for specific info?" [ref=e1371]
+          - button "Search" [ref=e1375] [cursor=pointer]
+    - generic "Top reviews" [ref=e1379]:
+      - separator [ref=e1380]
+      - generic [ref=e1382]:
+        - generic [ref=e1383]:
+          - generic [ref=e1388]:
+            - heading "Customer reviews" [level=2] [ref=e1390]
+            - generic [ref=e1392]:
+              - generic [ref=e1395]: 4.9 out of 5 stars
+              - generic [ref=e1398]: 4.9 out of 5
+            - generic [ref=e1399]: 29 global ratings
+            - list [ref=e1403]:
+              - listitem [ref=e1404]:
+                - link "89 percent of reviews have 5 stars" [ref=e1406] [cursor=pointer]:
+                  - /url: /product-reviews/B0GPM973N1/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+                  - generic [ref=e1407]: 5 star
+                  - progressbar [ref=e1409]
+                  - generic [ref=e1410]: 89%
+              - listitem [ref=e1411]:
+                - link "11 percent of reviews have 4 stars" [ref=e1413] [cursor=pointer]:
+                  - /url: /product-reviews/B0GPM973N1/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+                  - generic [ref=e1414]: 4 star
+                  - progressbar [ref=e1416]
+                  - generic [ref=e1417]: 11%
+              - listitem [ref=e1418]:
+                - generic "0 percent of reviews have 3 stars" [ref=e1420]:
+                  - generic [ref=e1421]: 3 star
+                  - progressbar [ref=e1423]
+                  - generic [ref=e1424]: 0%
+              - listitem [ref=e1425]:
+                - generic "0 percent of reviews have 2 stars" [ref=e1427]:
+                  - generic [ref=e1428]: 2 star
+                  - progressbar [ref=e1430]
+                  - generic [ref=e1431]: 0%
+              - listitem [ref=e1432]:
+                - generic "0 percent of reviews have 1 stars" [ref=e1434]:
+                  - generic [ref=e1435]: 1 star
+                  - progressbar [ref=e1437]
+                  - generic [ref=e1438]: 0%
+            - button "How customer reviews and ratings work" [ref=e1443] [cursor=pointer]: How customer reviews and ratings work
+          - separator [ref=e1445]
+          - separator [ref=e1446]
+          - generic [ref=e1448]:
+            - iframe [ref=e1449]:
+              - generic [ref=f33e3]:
+                - generic [ref=f33e4]: Sponsored Ad. Brand logo. Product image. Husky Liners Ford Mats 127.49 Add to cart
+                - link "Sponsored Ad. Brand logo. Product image. Husky Liners Ford Mats 127.49 Add to cart" [ref=f33e7] [cursor=pointer]:
+                  - /url: https://www.amazon.com/dp/B07ZG9HW9G?aref=PHj21Kc6Fu&aaxitk=47a1eefa9b47832591563b1211641ae8&language=en_US&pd_rd_plhdr=t&ref=dacx_dp_588198276838274452_593288444232345912
+                - generic [ref=f33e8]:
+                  - img "Product image" [ref=f33e12]
+                  - generic [ref=f33e15]: Laser Fit. American Made. Protection That Lasts.
+            - button "Leave feedback on Sponsored ad" [ref=e1451] [cursor=pointer]:
+              - generic [ref=e1452]: Sponsored
+        - generic [ref=e1461]:
+          - heading "Top reviews from the United States" [level=3] [ref=e1463]
+          - list [ref=e1466]:
+            - listitem [ref=e1467]:
+              - generic [ref=e1470]:
+                - link "Yolanda Anon Cristobal" [ref=e1472] [cursor=pointer]:
+                  - /url: /gp/profile/amzn1.account.AEKYTEWEEC4MTIJZCNFMH32HNZNA
+                  - img [ref=e1475]
+                  - generic [ref=e1476]: Yolanda Anon Cristobal
+                - heading "5.0 out of 5 stars The Genesis Protocol" [level=5] [ref=e1478]:
+                  - link "5.0 out of 5 stars The Genesis Protocol" [ref=e1479] [cursor=pointer]:
+                    - /url: /gp/customer-reviews/R1UT30YHNUIIKG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8
+                    - generic [ref=e1481]: 5.0 out of 5 stars
+                    - text: The Genesis Protocol
+                - heading "Reviewed in the United States on March 1, 2026" [level=6] [ref=e1482]
+                - generic [ref=e1483]: "Format: Kindle"
+                - generic [ref=e1486]:
+                  - generic [ref=e1488]:
+                    - text: "In The Genesis Protocol, the second installment of The Architecture of Survival series, science, morality, and power collide in a thriller that feels disturbingly plausible. The novel builds on high-stakes speculative science but grounds its terror not in fantasy, but in systems that already exist: corporate monopolies, classified programs, genetic engineering, and the quiet arithmetic of utilitarian decision-making. It is a story that asks not only whether humanity can survive its own creations—but whether it deserves to."
+                    - text: "At the center of the narrative stands Dr. Sarah Chen, a geneticist whose strength lies not in physical heroics but in intellectual clarity. When she is recruited to advise on a classified intelligence operation, she anticipates political theater and bureaucratic opacity. Instead, she uncovers THRESHOLD: a coordinated bioweapons infrastructure spanning forty-seven cities across six continents, engineered to release a pathogen capable of killing four billion people. The scale is staggering, but what truly unsettles is its origin. This is not the work of rogue extremists. It is the product of GenVault, the world’s most powerful pharmaceutical corporation, operating under the guidance of the Order—a clandestine organization that has shaped human genetics for three millennia."
+                    - text: The conceptual audacity of the plot is one of the book’s greatest strengths. THRESHOLD is not framed by its architects as an act of destruction, but as a “correction.” A genetic reset intended to prevent humanity’s long-term collapse. The logic is chilling in its coherence. Overpopulation, environmental degradation, escalating instability—what if the only sustainable solution is controlled devastation? The novel refuses to caricature its antagonists. Instead, it gives them a rationale that is disturbingly rational.
+                    - text: "Sarah’s conflict is therefore not simply external but philosophical. She believes in mathematics. She understands probability curves, mortality projections, epidemiological models. And the models suggest something unbearable: that silence may save more lives than exposure. That justice may cost the cure. The novel’s most haunting line of tension emerges from this divide between calculation and conscience. Sarah does not reject the math; she rejects the surrender it demands."
+                    - text: The supporting cast deepens the emotional and ethical texture of the story. A physicist haunted by his role in designing the weapon represents scientific guilt—intelligence severed from accountability. An intelligence officer operating beyond authorized limits embodies institutional desperation. And perhaps most compellingly, a retired health inspector in Lisbon has quietly built a distributed civilian defense network, a decentralized system of ordinary people positioned to dismantle sophisticated bioweapons infrastructure. This element of grassroots resistance injects the novel with cautious optimism. While power concentrates at the top, resilience spreads at the edges.
+                    - text: "The pacing is relentless but controlled. The nine-day countdown structure creates urgency without sacrificing depth. Each revelation escalates the stakes, yet the narrative avoids melodrama. Instead of explosive spectacle, the tension arises from systems: supply chains, laboratories, communication networks, containment protocols. The thriller mechanics are tight, but the true weight of the novel lies in its ethical calculus."
+                    - text: When a containment breach releases the pathogen, the story pivots from prevention to damage control. Here, the moral dilemma sharpens to a knife’s edge. GenVault, architect of the catastrophe, is also the only entity capable of engineering a viable cure. To expose the corporation risks collapsing the very infrastructure needed to distribute the vaccine. The paradox is brutal. Accountability and survival become mutually exclusive variables.
+                    - text: What makes The Genesis Protocol particularly compelling is its refusal to offer easy resolution. The narrative does not indulge in simplistic heroism. There is no clean triumph where evil is exposed and humanity rallies unambiguously behind truth. Instead, the book explores the uncomfortable terrain where moral clarity fractures under pressure. If revealing corruption costs billions of lives, is silence complicity—or mercy? The novel does not dictate the answer; it forces readers to confront their own threshold for compromise.
+                    - text: The scientific elements are handled with convincing authority. Genetic engineering, pathogen modeling, and biocontainment protocols are integrated seamlessly into the narrative without overwhelming it. The technical detail enhances plausibility, making the speculative premise feel alarmingly near-future rather than distant dystopia. The global scope—forty-seven cities across six continents—reinforces the interconnected vulnerability of modern civilization.
+                    - text: "Stylistically, the prose is sharp and disciplined. There is little indulgence in ornamental description. The tone mirrors the subject matter: precise, clinical, occasionally stark. Yet beneath this restraint runs a current of moral intensity. Sarah’s internal struggle gives the narrative its emotional anchor. She is neither naïve idealist nor cold strategist. She is a scientist confronting the limits of rationalism when faced with human cost."
+                    - text: "As the second entry in The Architecture of Survival, the novel expands the thematic ambition of the series. It interrogates who has the authority to decide humanity’s future and whether technological capability inevitably tempts ethical transgression. It also raises a subtler question: when survival becomes the ultimate metric, what happens to truth?"
+                    - text: The Genesis Protocol is not merely a biotech thriller; it is a meditation on power, responsibility, and the perilous space between calculation and conscience. It leaves readers unsettled—and appropriately so. In a world increasingly shaped by genetic innovation and corporate influence, its warnings feel less like fiction and more like foresight.
+                  - button "Read more of this review" [ref=e1491] [cursor=pointer]: Read more
+                - generic [ref=e1493]:
+                  - generic [ref=e1494]:
+                    - generic [ref=e1495]: One person found this helpful
+                    - generic [ref=e1498] [cursor=pointer]:
+                      - button "Mark Review As Helpful" [ref=e1499]: Mark this review as helpful BUTTON
+                      - generic [ref=e1501]: Helpful
+                  - generic [ref=e1503]:
+                    - img [ref=e1504]
+                    - link "Report review by Yolanda Anon Cristobal" [ref=e1506] [cursor=pointer]:
+                      - /url: /hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hJE%2FrKnCJpUQwymFu63DePAOGpO0ItcANsdTK7eL%2FCyVAAAAAGnL1dkAAAAB&reviewId=R1UT30YHNUIIKG
+                      - text: Report
+            - listitem [ref=e1507]:
+              - generic [ref=e1510]:
+                - link "Jean A. Donnel" [ref=e1512] [cursor=pointer]:
+                  - /url: /gp/profile/amzn1.account.AEOVQG5XSZVEUZMHAERMMVEYJLZA
+                  - img [ref=e1515]
+                  - generic [ref=e1516]: Jean A. Donnel
+                - heading "5.0 out of 5 stars Science meets history, myth and mystery. Well researched and well written." [level=5] [ref=e1518]:
+                  - link "5.0 out of 5 stars Science meets history, myth and mystery. Well researched and well written." [ref=e1519] [cursor=pointer]:
+                    - /url: /gp/customer-reviews/R2QCVWHSUN71MD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8
+                    - generic [ref=e1521]: 5.0 out of 5 stars
+                    - text: Science meets history, myth and mystery. Well researched and well written.
+                - heading "Reviewed in the United States on March 30, 2026" [level=6] [ref=e1522]
+                - generic [ref=e1523]: "Format: Kindle"
+                - generic [ref=e1526]:
+                  - generic [ref=e1528]:
+                    - text: Sarah Chen received a message from a Linda Marsh, that she has some important information on GeneVault’s genetic research. VERY important! Sarah needs to come now. But when she gets to Linda Marsh’s house, it’s on fire. She can smell kerosene. The fire was intentional. She sees the body of Linda on the floor and tries to save her. She’s holding a box. In the box, Sarah will find a flash drive, a key and a note.
+                    - text: I’m not fully describing the first chapter as there is more and it’s intense. But it’s the start of a conspiracy of people that want to control humanities DNA. They want to kill 4 billion people whose genetic code they want eliminated. Why? What are they trying to achieve in the long run?
+                    - text: Sarah breaks into Yale’s Sterling Memorial Library at night. She goes looking for a document that has info on a Defensive Protocol. “…Nefertari’s intention to PREVENT collapse, not engineer survival…” There she meets Dr. Maya Chen. CDC Emerging Infectious Diseases division. Dr. Maya noticed Genetic markers for plague resistance appearing in populations that shouldn’t have them. Pre-dating the selective pressure by centuries.
+                    - text: The conspiracy grows wider and has existed for much of human history. There is another group though. People make desperate decisions. Some die, some change, some fail. Billions of lives are at stake. A plan to kill more than half of humanity. A claim that only by killing half will the human species survive – but that claim doesn’t look at the full facts.
+                    - text: I’d like to tell you more. The book is so much more than I’ve told you, but that would spoil. I’m not going to give away spoilers. So why, who, will they win? Read the book. Decide for yourself what you think of it. Myself, I enjoyed it. Conspiracy, mystery, science meeting science fiction, it’s all there and more. Myself? I enjoyed the book. Read and decide for yourself.
+                  - button "Read more of this review" [ref=e1531] [cursor=pointer]: Read more
+                - generic [ref=e1533]:
+                  - generic [ref=e1536] [cursor=pointer]:
+                    - button "Mark Review As Helpful" [ref=e1537]: Mark this review as helpful BUTTON
+                    - generic [ref=e1539]: Helpful
+                  - generic [ref=e1541]:
+                    - img [ref=e1542]
+                    - link "Report review by Jean A. Donnel" [ref=e1544] [cursor=pointer]:
+                      - /url: /hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hHQ9ig9svJkMnHG0N6NQEKvcZlmZFHmKMACMb2a%2FBrzZAAAAAGnL1dkAAAAB&reviewId=R2QCVWHSUN71MD
+                      - text: Report
+            - listitem [ref=e1545]:
+              - generic [ref=e1548]:
+                - link "Cindy L." [ref=e1550] [cursor=pointer]:
+                  - /url: /gp/profile/amzn1.account.AFYQA3KOPGWSFQOMWFOMQA4GE4TA
+                  - img [ref=e1553]
+                  - generic [ref=e1554]: Cindy L.
+                - heading "5.0 out of 5 stars The Genesis Protocol" [level=5] [ref=e1556]:
+                  - link "5.0 out of 5 stars The Genesis Protocol" [ref=e1557] [cursor=pointer]:
+                    - /url: /gp/customer-reviews/R3E7TNGZM643Z0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8
+                    - generic [ref=e1559]: 5.0 out of 5 stars
+                    - text: The Genesis Protocol
+                - heading "Reviewed in the United States on March 24, 2026" [level=6] [ref=e1560]
+                - generic [ref=e1561]: "Format: Kindle"
+                - generic [ref=e1566]:
+                  - text: The Genesis Protocol was a strong continuation of the series. If you enjoyed the first book, this one definitely builds on it with higher stakes and a deeper look into the bigger picture behind everything that’s going on.
+                  - text: I liked how the story expands without losing momentum. There’s a good balance between action, suspense, and developing the overall storyline, and it keeps you interested in where things are headed next.
+                  - text: The tension feels a bit more elevated in this one, and you can tell the story is moving toward something bigger. It’s the kind of sequel that makes you want to keep going with the series.
+                  - text: Overall, a solid follow-up and an enjoyable read for anyone who likes fast-paced, suspense-driven stories with an ongoing mystery.
+                - generic [ref=e1567]:
+                  - generic [ref=e1570] [cursor=pointer]:
+                    - button "Mark Review As Helpful" [ref=e1571]: Mark this review as helpful BUTTON
+                    - generic [ref=e1573]: Helpful
+                  - generic [ref=e1575]:
+                    - img [ref=e1576]
+                    - link "Report review by Cindy L." [ref=e1578] [cursor=pointer]:
+                      - /url: /hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hFR6T9yPmuADeIGwWMscsRvilbuJXTrPYOCckuPypJTmAAAAAGnL1dkAAAAB&reviewId=R3E7TNGZM643Z0
+                      - text: Report
+            - listitem [ref=e1579]:
+              - generic [ref=e1582]:
+                - link "barry hampton" [ref=e1584] [cursor=pointer]:
+                  - /url: /gp/profile/amzn1.account.AHVHVGCITL3RCEFWF7LFZAXXWWPQ
+                  - img [ref=e1587]
+                  - generic [ref=e1588]: barry hampton
+                - heading "5.0 out of 5 stars A little too real" [level=5] [ref=e1590]:
+                  - link "5.0 out of 5 stars A little too real" [ref=e1591] [cursor=pointer]:
+                    - /url: /gp/customer-reviews/R7EZEEEKH8I04/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8
+                    - generic [ref=e1593]: 5.0 out of 5 stars
+                    - text: A little too real
+                - heading "Reviewed in the United States on March 22, 2026" [level=6] [ref=e1594]
+                - generic [ref=e1595]: "Format: Kindle"
+                - generic [ref=e1600]: I will never forget covid, i was infected in 2020 and had some health issues resulting from it. Many people have still not recovered from that, even now 6 years later. I dont think releasing covid was accidental, the people handling that are too intelligent to have made an accident.
+                - generic [ref=e1601]:
+                  - generic [ref=e1604] [cursor=pointer]:
+                    - button "Mark Review As Helpful" [ref=e1605]: Mark this review as helpful BUTTON
+                    - generic [ref=e1607]: Helpful
+                  - generic [ref=e1609]:
+                    - img [ref=e1610]
+                    - link "Report review by barry hampton" [ref=e1612] [cursor=pointer]:
+                      - /url: /hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hEpTmfQMCDKSMvY2OAOhleP3tSAyjIpnEtaeW7bcC2%2FjAAAAAGnL1dkAAAAB&reviewId=R7EZEEEKH8I04
+                      - text: Report
+            - listitem [ref=e1613]:
+              - generic [ref=e1616]:
+                - link "Tanglewood121" [ref=e1618] [cursor=pointer]:
+                  - /url: /gp/profile/amzn1.account.AGBS42KNEO6NKDWRP4UDFUKOMUHQ
+                  - img [ref=e1621]
+                  - generic [ref=e1622]: Tanglewood121
+                - heading "4.0 out of 5 stars Smart, Intense, Hard to put down" [level=5] [ref=e1624]:
+                  - link "4.0 out of 5 stars Smart, Intense, Hard to put down" [ref=e1625] [cursor=pointer]:
+                    - /url: /gp/customer-reviews/R1Q0A1SRY7HYJF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8
+                    - generic [ref=e1627]: 4.0 out of 5 stars
+                    - text: Smart, Intense, Hard to put down
+                - heading "Reviewed in the United States on March 23, 2026" [level=6] [ref=e1628]
+                - generic [ref=e1629]: "Format: Kindle"
+                - generic [ref=e1634]:
+                  - text: The Genesis Protocol delivers a gripping techno-thriller that blends genetic science, conspiracy, and high-stakes moral dilemmas. The story moves fast from page one, pulling you into a world where data, biology, and power collide with chilling plausibility.
+                  - text: "The characters, especially Sarah and Maya, feel sharp and capable, and the pacing keeps tension high without losing clarity. The book shines in its exploration of big ideas: survival vs. ethics, control vs. freedom, and how far humanity should go to “save itself.”"
+                  - text: At times, I felt the technical detail was a little dense, but it also adds authenticity and depth. If you enjoy thought-provoking thrillers with real scientific grounding, this is a strong read.
+                - generic [ref=e1635]:
+                  - generic [ref=e1638] [cursor=pointer]:
+                    - button "Mark Review As Helpful" [ref=e1639]: Mark this review as helpful BUTTON
+                    - generic [ref=e1641]: Helpful
+                  - generic [ref=e1643]:
+                    - img [ref=e1644]
+                    - link "Report review by Tanglewood121" [ref=e1646] [cursor=pointer]:
+                      - /url: /hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hKW1uXmGYhXxuHUt3K%2BZANZmyx5KLCneHuatuKgfJjfFAAAAAGnL1dkAAAAB&reviewId=R1Q0A1SRY7HYJF
+                      - text: Report
+            - listitem [ref=e1647]:
+              - generic [ref=e1650]:
+                - link "Nicole collins" [ref=e1652] [cursor=pointer]:
+                  - /url: /gp/profile/amzn1.account.AHOE2AYXPDLDS6ABS5ZBIX3WNGVQ
+                  - img [ref=e1655]
+                  - generic [ref=e1656]: Nicole collins
+                - heading "5.0 out of 5 stars good book PRC" [level=5] [ref=e1658]:
+                  - link "5.0 out of 5 stars good book PRC" [ref=e1659] [cursor=pointer]:
+                    - /url: /gp/customer-reviews/R1RBFCBYR17QZL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8
+                    - generic [ref=e1661]: 5.0 out of 5 stars
+                    - text: good book PRC
+                - heading "Reviewed in the United States on March 23, 2026" [level=6] [ref=e1662]
+                - generic [ref=e1663]: "Format: Kindle"
+                - generic [ref=e1668]: good book lot of information
+                - generic [ref=e1669]:
+                  - generic [ref=e1672] [cursor=pointer]:
+                    - button "Mark Review As Helpful" [ref=e1673]: Mark this review as helpful BUTTON
+                    - generic [ref=e1675]: Helpful
+                  - generic [ref=e1677]:
+                    - img [ref=e1678]
+                    - link "Report review by Nicole collins" [ref=e1680] [cursor=pointer]:
+                      - /url: /hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hMLFEH0%2FVEFjBqBwpWSzKNLyD0XJSk0yhp59cghV8ZS1AAAAAGnL1dkAAAAB&reviewId=R1RBFCBYR17QZL
+                      - text: Report
+          - generic [ref=e1682]:
+            - separator [ref=e1683]
+            - link "See more reviews" [ref=e1684] [cursor=pointer]:
+              - /url: /product-reviews/B0GPM973N1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8
+    - generic [ref=e1698]:
+      - heading "Report an issue" [level=2] [ref=e1700]
+      - list [ref=e1701]:
+        - listitem [ref=e1702]:
+          - generic [ref=e1703]: Does this item contain inappropriate content?
+          - link "Report" [ref=e1705] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e1706]:
+          - generic [ref=e1707]: Do you believe that this item violates a copyright?
+          - link "Report" [ref=e1709] [cursor=pointer]:
+            - /url: /report/infringement/
+        - listitem [ref=e1710]:
+          - generic [ref=e1711]: Does this item contain quality or formatting issues?
+          - link "Report" [ref=e1713] [cursor=pointer]:
+            - /url: "#"
+  - complementary "Your recently viewed items and featured recommendations"
+  - generic [ref=e1714]:
+    - button "Back to top" [ref=e1715] [cursor=pointer]:
+      - generic [ref=e1716]: Back to top
+    - generic [ref=e1717]:
+      - generic [ref=e1718]:
+        - heading "Get to Know Us" [level=6] [ref=e1719]
+        - list [ref=e1720]:
+          - listitem [ref=e1721]:
+            - link "Careers" [ref=e1722] [cursor=pointer]:
+              - /url: https://www.amazon.jobs
+          - listitem [ref=e1723]:
+            - link "Amazon Newsletter" [ref=e1724] [cursor=pointer]:
+              - /url: https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup
+          - listitem [ref=e1725]:
+            - link "About Amazon" [ref=e1726] [cursor=pointer]:
+              - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about
+          - listitem [ref=e1727]:
+            - link "Accessibility" [ref=e1728] [cursor=pointer]:
+              - /url: https://www.amazon.com/b?node=15701038011&ie=UTF8
+          - listitem [ref=e1729]:
+            - link "Sustainability" [ref=e1730] [cursor=pointer]:
+              - /url: https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer
+          - listitem [ref=e1731]:
+            - link "Press Center" [ref=e1732] [cursor=pointer]:
+              - /url: https://www.amazon.com/pr
+          - listitem [ref=e1733]:
+            - link "Investor Relations" [ref=e1734] [cursor=pointer]:
+              - /url: https://www.amazon.com/ir
+          - listitem [ref=e1735]:
+            - link "Amazon Devices" [ref=e1736] [cursor=pointer]:
+              - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+          - listitem [ref=e1737]:
+            - link "Amazon Science" [ref=e1738] [cursor=pointer]:
+              - /url: https://www.amazon.science
+      - generic [ref=e1740]:
+        - heading "Make Money with Us" [level=6] [ref=e1741]
+        - list [ref=e1742]:
+          - listitem [ref=e1743]:
+            - link "Sell on Amazon" [ref=e1744] [cursor=pointer]:
+              - /url: https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa
+          - listitem [ref=e1745]:
+            - link "Sell apps on Amazon" [ref=e1746] [cursor=pointer]:
+              - /url: https://developer.amazon.com
+          - listitem [ref=e1747]:
+            - link "Supply to Amazon" [ref=e1748] [cursor=pointer]:
+              - /url: https://supply.amazon.com
+          - listitem [ref=e1749]:
+            - link "Protect & Build Your Brand" [ref=e1750] [cursor=pointer]:
+              - /url: https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT
+          - listitem [ref=e1751]:
+            - link "Become an Affiliate" [ref=e1752] [cursor=pointer]:
+              - /url: https://affiliate-program.amazon.com/
+          - listitem [ref=e1753]:
+            - link "Become a Delivery Driver" [ref=e1754] [cursor=pointer]:
+              - /url: https://dspjobhub.com/
+          - listitem [ref=e1755]:
+            - link "Start a Package Delivery Business" [ref=e1756] [cursor=pointer]:
+              - /url: https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home
+          - listitem [ref=e1757]:
+            - link "Advertise Your Products" [ref=e1758] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+          - listitem [ref=e1759]:
+            - link "Self-Publish with Us" [ref=e1760] [cursor=pointer]:
+              - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+          - listitem [ref=e1761]:
+            - link "Become an Amazon Hub Partner" [ref=e1762] [cursor=pointer]:
+              - /url: https://www.amazon.com/b?node=216188543011
+          - listitem [ref=e1763]:
+            - text: ›
+            - link "See More Ways to Make Money" [ref=e1764] [cursor=pointer]:
+              - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+      - generic [ref=e1766]:
+        - heading "Amazon Payment Products" [level=6] [ref=e1767]
+        - list [ref=e1768]:
+          - listitem [ref=e1769]:
+            - link "Amazon Visa" [ref=e1770] [cursor=pointer]:
+              - /url: /iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc
+          - listitem [ref=e1771]:
+            - link "Amazon Store Card" [ref=e1772] [cursor=pointer]:
+              - /url: /credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc
+          - listitem [ref=e1773]:
+            - link "Amazon Secured Card" [ref=e1774] [cursor=pointer]:
+              - /url: /dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB
+          - listitem [ref=e1775]:
+            - link "Amazon Business Card" [ref=e1776] [cursor=pointer]:
+              - /url: /dp/B0DVBL912R?plattr=ACOMFO&ie=UTF-8
+          - listitem [ref=e1777]:
+            - link "Shop with Points" [ref=e1778] [cursor=pointer]:
+              - /url: https://www.amazon.com/hp/shopwithpoints/servicing
+          - listitem [ref=e1779]:
+            - link "Credit Card Marketplace" [ref=e1780] [cursor=pointer]:
+              - /url: /gp/browse.html?node=3561432011&ref_=footer_ccmp
+          - listitem [ref=e1781]:
+            - link "Reload Your Balance" [ref=e1782] [cursor=pointer]:
+              - /url: /gp/browse.html?node=10232440011&ref_=footer_reload_us
+          - listitem [ref=e1783]:
+            - link "Gift Cards" [ref=e1784] [cursor=pointer]:
+              - /url: https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop
+          - listitem [ref=e1785]:
+            - link "Amazon Currency Converter" [ref=e1786] [cursor=pointer]:
+              - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+      - generic [ref=e1788]:
+        - heading "Let Us Help You" [level=6] [ref=e1789]
+        - list [ref=e1790]:
+          - listitem [ref=e1791]:
+            - link "Your Account" [ref=e1792] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+          - listitem [ref=e1793]:
+            - link "Your Orders" [ref=e1794] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+          - listitem [ref=e1795]:
+            - link "Shipping Rates & Policies" [ref=e1796] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+          - listitem [ref=e1797]:
+            - link "Amazon Prime" [ref=e1798] [cursor=pointer]:
+              - /url: /gp/prime?ref_=footer_prime
+          - listitem [ref=e1799]:
+            - link "Returns & Replacements" [ref=e1800] [cursor=pointer]:
+              - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+          - listitem [ref=e1801]:
+            - link "Manage Your Content and Devices" [ref=e1802] [cursor=pointer]:
+              - /url: /hz/mycd/myx?ref_=footer_myk
+          - listitem [ref=e1803]:
+            - link "Recalls and Product Safety Alerts" [ref=e1804] [cursor=pointer]:
+              - /url: https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa
+          - listitem [ref=e1805]:
+            - link "Registry & Gift List" [ref=e1806] [cursor=pointer]:
+              - /url: /registries?ref_=nav_footer_registry_giftlist_desktop
+          - listitem [ref=e1807]:
+            - link "Help" [ref=e1808] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+    - generic [ref=e1810]:
+      - link "Amazon US Home" [ref=e1813] [cursor=pointer]:
+        - /url: /?ref_=footer_logo
+      - generic [ref=e1816]:
+        - generic [ref=e1817]:
+          - link "Choose a language for shopping. Current selection is English." [ref=e1818] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+            - generic [ref=e1820]: English
+          - button "Expand to Change Language or Country" [ref=e1821] [cursor=pointer]
+        - button "Choose a country/region for shopping. The current selection is United States." [ref=e1822] [cursor=pointer]:
+          - generic [ref=e1824]: United States
+    - navigation "More on Amazon" [ref=e1825]:
+      - generic "More on Amazon" [ref=e1826]:
+        - list [ref=e1827]:
+          - listitem [ref=e1828]:
+            - link "Amazon Music Stream millions of songs" [ref=e1829] [cursor=pointer]:
+              - /url: https://music.amazon.com?ref=dm_aff_amz_com
+              - heading "Amazon Music" [level=5] [ref=e1830]
+              - generic [ref=e1831]:
+                - text: Stream millions
+                - text: of songs
+          - listitem [ref=e1832]
+          - listitem [ref=e1833]:
+            - link "Amazon Ads Reach customers wherever they spend their time" [ref=e1834] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+              - heading "Amazon Ads" [level=5] [ref=e1835]
+              - generic [ref=e1836]:
+                - text: Reach customers
+                - text: wherever they
+                - text: spend their time
+          - listitem [ref=e1837]
+          - listitem [ref=e1838]:
+            - link "6pm Score deals on fashion brands" [ref=e1839] [cursor=pointer]:
+              - /url: https://www.6pm.com
+              - heading "6pm" [level=5] [ref=e1840]
+              - generic [ref=e1841]:
+                - text: Score deals
+                - text: on fashion brands
+          - listitem [ref=e1842]
+          - listitem [ref=e1843]:
+            - link "AbeBooks Books, art & collectibles" [ref=e1844] [cursor=pointer]:
+              - /url: https://www.abebooks.com
+              - heading "AbeBooks" [level=5] [ref=e1845]
+              - generic [ref=e1846]:
+                - text: Books, art
+                - text: "& collectibles"
+          - listitem [ref=e1847]
+          - listitem [ref=e1848]:
+            - link "ACX Audiobook Publishing Made Easy" [ref=e1849] [cursor=pointer]:
+              - /url: https://www.acx.com/
+              - heading "ACX" [level=5] [ref=e1850]
+              - generic [ref=e1851]:
+                - text: Audiobook Publishing
+                - text: Made Easy
+          - listitem [ref=e1852]
+          - listitem [ref=e1853]:
+            - link "Sell on Amazon Start a Selling Account" [ref=e1854] [cursor=pointer]:
+              - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+              - heading "Sell on Amazon" [level=5] [ref=e1855]
+              - generic [ref=e1856]: Start a Selling Account
+          - listitem [ref=e1857]
+          - listitem [ref=e1858]:
+            - link "Veeqo Shipping Software Inventory Management" [ref=e1859] [cursor=pointer]:
+              - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+              - heading "Veeqo" [level=5] [ref=e1860]
+              - generic [ref=e1861]:
+                - text: Shipping Software
+                - text: Inventory Management
+        - list [ref=e1862]:
+          - listitem [ref=e1863]:
+            - link "Amazon Business Everything For Your Business" [ref=e1864] [cursor=pointer]:
+              - /url: /business?ref_=footer_retail_b2b
+              - heading "Amazon Business" [level=5] [ref=e1865]
+              - generic [ref=e1866]:
+                - text: Everything For
+                - text: Your Business
+          - listitem [ref=e1867]
+          - listitem [ref=e1868]:
+            - link "Amazon Fresh Groceries & More Right To Your Door" [ref=e1869] [cursor=pointer]:
+              - /url: /alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh
+              - heading "Amazon Fresh" [level=5] [ref=e1870]
+              - generic [ref=e1871]:
+                - text: Groceries & More
+                - text: Right To Your Door
+          - listitem [ref=e1872]
+          - listitem [ref=e1873]:
+            - link "AmazonGlobal Ship Orders Internationally" [ref=e1874] [cursor=pointer]:
+              - /url: /gp/browse.html?node=230659011&ref_=footer_amazonglobal
+              - heading "AmazonGlobal" [level=5] [ref=e1875]
+              - generic [ref=e1876]:
+                - text: Ship Orders
+                - text: Internationally
+          - listitem [ref=e1877]
+          - listitem [ref=e1878]:
+            - link "Home Services Experienced Pros Happiness Guarantee" [ref=e1879] [cursor=pointer]:
+              - /url: /services?ref_=footer_services
+              - heading "Home Services" [level=5] [ref=e1880]
+              - generic [ref=e1881]:
+                - text: Experienced Pros
+                - text: Happiness Guarantee
+          - listitem [ref=e1882]
+          - listitem [ref=e1883]:
+            - link "Amazon Web Services Scalable Cloud Computing Services" [ref=e1884] [cursor=pointer]:
+              - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+              - heading "Amazon Web Services" [level=5] [ref=e1885]
+              - generic [ref=e1886]:
+                - text: Scalable Cloud
+                - text: Computing Services
+          - listitem [ref=e1887]
+          - listitem [ref=e1888]:
+            - link "Audible Listen to Books & Original Audio Performances" [ref=e1889] [cursor=pointer]:
+              - /url: https://www.audible.com
+              - heading "Audible" [level=5] [ref=e1890]
+              - generic [ref=e1891]:
+                - text: Listen to Books & Original
+                - text: Audio Performances
+          - listitem [ref=e1892]
+          - listitem [ref=e1893]:
+            - link "Box Office Mojo Find Movie Box Office Data" [ref=e1894] [cursor=pointer]:
+              - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+              - heading "Box Office Mojo" [level=5] [ref=e1895]
+              - generic [ref=e1896]:
+                - text: Find Movie
+                - text: Box Office Data
+        - list [ref=e1897]:
+          - listitem [ref=e1898]:
+            - link "Goodreads Book reviews & recommendations" [ref=e1899] [cursor=pointer]:
+              - /url: https://www.goodreads.com
+              - heading "Goodreads" [level=5] [ref=e1900]
+              - generic [ref=e1901]:
+                - text: Book reviews
+                - text: "& recommendations"
+          - listitem [ref=e1902]
+          - listitem [ref=e1903]:
+            - link "IMDb Movies, TV & Celebrities" [ref=e1904] [cursor=pointer]:
+              - /url: https://www.imdb.com
+              - heading "IMDb" [level=5] [ref=e1905]
+              - generic [ref=e1906]:
+                - text: Movies, TV
+                - text: "& Celebrities"
+          - listitem [ref=e1907]
+          - listitem [ref=e1908]:
+            - link "IMDbPro Get Info Entertainment Professionals Need" [ref=e1909] [cursor=pointer]:
+              - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+              - heading "IMDbPro" [level=5] [ref=e1910]
+              - generic [ref=e1911]:
+                - text: Get Info Entertainment
+                - text: Professionals Need
+          - listitem [ref=e1912]
+          - listitem [ref=e1913]:
+            - link "Kindle Direct Publishing Indie Digital & Print Publishing Made Easy" [ref=e1914] [cursor=pointer]:
+              - /url: https://kdp.amazon.com
+              - heading "Kindle Direct Publishing" [level=5] [ref=e1915]
+              - generic [ref=e1916]:
+                - text: Indie Digital & Print Publishing
+                - text: Made Easy
+          - listitem [ref=e1917]
+          - listitem [ref=e1918]:
+            - link "Amazon Photos Unlimited Photo Storage Free With Prime" [ref=e1919] [cursor=pointer]:
+              - /url: /gp/browse.html?node=13234696011&ref_=_gno_p_foot
+              - heading "Amazon Photos" [level=5] [ref=e1920]
+              - generic [ref=e1921]:
+                - text: Unlimited Photo Storage
+                - text: Free With Prime
+          - listitem [ref=e1922]
+          - listitem [ref=e1923]:
+            - link "Prime Video Direct Video Distribution Made Easy" [ref=e1924] [cursor=pointer]:
+              - /url: https://videodirect.amazon.com/home/landing
+              - heading "Prime Video Direct" [level=5] [ref=e1925]
+              - generic [ref=e1926]:
+                - text: Video Distribution
+                - text: Made Easy
+          - listitem [ref=e1927]
+          - listitem [ref=e1928]:
+            - link "Shopbop Designer Fashion Brands" [ref=e1929] [cursor=pointer]:
+              - /url: https://www.shopbop.com
+              - heading "Shopbop" [level=5] [ref=e1930]
+              - generic [ref=e1931]:
+                - text: Designer
+                - text: Fashion Brands
+        - list [ref=e1932]:
+          - listitem [ref=e1933]:
+            - link "Amazon Resale Great Deals on Quality Used Products" [ref=e1934] [cursor=pointer]:
+              - /url: /gp/browse.html?node=10158976011&ref_=footer_wrhsdls
+              - heading "Amazon Resale" [level=5] [ref=e1935]
+              - generic [ref=e1936]:
+                - text: Great Deals on
+                - text: Quality Used Products
+          - listitem [ref=e1937]
+          - listitem [ref=e1938]:
+            - link "Whole Foods Market America’s Healthiest Grocery Store" [ref=e1939] [cursor=pointer]:
+              - /url: https://www.wholefoodsmarket.com
+              - heading "Whole Foods Market" [level=5] [ref=e1940]
+              - generic [ref=e1941]:
+                - text: America’s Healthiest
+                - text: Grocery Store
+          - listitem [ref=e1942]
+          - listitem [ref=e1943]:
+            - link "Woot! Deals and Shenanigans" [ref=e1944] [cursor=pointer]:
+              - /url: https://www.woot.com/
+              - heading "Woot!" [level=5] [ref=e1945]
+              - generic [ref=e1946]:
+                - text: Deals and
+                - text: Shenanigans
+          - listitem [ref=e1947]
+          - listitem [ref=e1948]:
+            - link "Zappos Shoes & Clothing" [ref=e1949] [cursor=pointer]:
+              - /url: https://www.zappos.com
+              - heading "Zappos" [level=5] [ref=e1950]
+              - generic [ref=e1951]:
+                - text: Shoes &
+                - text: Clothing
+          - listitem [ref=e1952]
+          - listitem [ref=e1953]:
+            - link "Ring Smart Home Security Systems" [ref=e1954] [cursor=pointer]:
+              - /url: https://ring.com
+              - heading "Ring" [level=5] [ref=e1955]
+              - generic [ref=e1956]:
+                - text: Smart Home
+                - text: Security Systems
+          - listitem [ref=e1957]
+          - listitem [ref=e1958]:
+            - link "eero WiFi Stream 4K Video in Every Room" [ref=e1959] [cursor=pointer]:
+              - /url: https://eero.com/
+              - heading "eero WiFi" [level=5] [ref=e1960]
+              - generic [ref=e1961]:
+                - text: Stream 4K Video
+                - text: in Every Room
+          - listitem [ref=e1962]
+          - listitem [ref=e1963]:
+            - link "Blink Smart Security for Every Home" [ref=e1964] [cursor=pointer]:
+              - /url: https://blinkforhome.com/?ref=nav_footer
+              - heading "Blink" [level=5] [ref=e1965]
+              - generic [ref=e1966]:
+                - text: Smart Security
+                - text: for Every Home
+        - list [ref=e1967]:
+          - listitem [ref=e1968]
+          - listitem [ref=e1969]
+          - listitem [ref=e1970]:
+            - link "Neighbors App Real-Time Crime & Safety Alerts" [ref=e1971] [cursor=pointer]:
+              - /url: https://shop.ring.com/pages/neighbors-app
+              - heading "Neighbors App" [level=5] [ref=e1972]
+              - generic [ref=e1973]:
+                - text: Real-Time Crime
+                - text: "& Safety Alerts"
+          - listitem [ref=e1974]
+          - listitem [ref=e1975]:
+            - link "Amazon Subscription Boxes Top subscription boxes – right to your door" [ref=e1976] [cursor=pointer]:
+              - /url: /gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa
+              - heading "Amazon Subscription Boxes" [level=5] [ref=e1977]
+              - generic [ref=e1978]: Top subscription boxes – right to your door
+          - listitem [ref=e1979]
+          - listitem [ref=e1980]:
+            - link "PillPack Pharmacy Simplified" [ref=e1981] [cursor=pointer]:
+              - /url: https://www.pillpack.com
+              - heading "PillPack" [level=5] [ref=e1982]
+              - generic [ref=e1983]: Pharmacy Simplified
+          - listitem [ref=e1984]
+          - listitem [ref=e1985]:
+            - link "Amazon Renewed Refurbished tech you can trust" [ref=e1986] [cursor=pointer]:
+              - /url: /gp/browse.html?node=12653393011&ref_=footer_usrenew
+              - heading "Amazon Renewed" [level=5] [ref=e1987]
+              - generic [ref=e1988]:
+                - text: Refurbished tech
+                - text: you can trust
+          - listitem [ref=e1989]
+          - listitem [ref=e1990]
+          - listitem [ref=e1991]
+          - listitem [ref=e1992]
+    - generic [ref=e1993]:
+      - list [ref=e1994]:
+        - listitem [ref=e1995]:
+          - link "Conditions of Use" [ref=e1996] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+        - listitem [ref=e1997]:
+          - link "Privacy Notice" [ref=e1998] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy
+        - listitem [ref=e1999]:
+          - link "Consumer Health Data Privacy Disclosure" [ref=e2000] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+        - listitem [ref=e2001]:
+          - link "Your Ads Privacy Choices" [ref=e2002] [cursor=pointer]:
+            - /url: /privacyprefs?ref_=footer_iba
+        - listitem [ref=e2003]
+      - generic [ref=e2005]: © 1996-2026, Amazon.com, Inc. or its affiliates

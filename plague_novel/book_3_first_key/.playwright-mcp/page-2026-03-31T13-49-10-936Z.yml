@@ -1,0 +1,155 @@
+- application [ref=e1]:
+  - iframe [ref=e2]:
+    
+  - iframe [ref=e3]:
+    
+  - banner "Menu bar" [ref=e4]:
+    - generic [ref=e7]:
+      - link "Sheets home" [ref=e9] [cursor=pointer]:
+        - /url: https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web
+      - generic [ref=e16]:
+        - generic "PA Welcome Sequence" [ref=e18]:
+          - generic [ref=e19]:
+            - generic: PA Welcome Sequence
+            - textbox "Rename" [ref=e21]: PA Welcome Sequence
+          - generic [ref=e22]:
+            - checkbox "Star" [ref=e24] [cursor=pointer]
+            - 'button "Document status: Saved to Drive." [ref=e28]':
+              - generic [ref=e33] [cursor=pointer]: Saved to Drive
+        - generic [ref=e36]:
+          - button "Last edit was 5 days ago" [ref=e38] [cursor=pointer]
+          - button "Show all comments" [ref=e42] [cursor=pointer]
+          - button "Join a call here or present this tab to the call" [ref=e46] [cursor=pointer]
+          - generic [ref=e51]:
+            - button "Share. Private to only me." [ref=e52] [cursor=pointer]: Share
+            - button "Quick sharing actions" [ref=e54] [cursor=pointer]
+          - 'button "Google Account: randy pellegrini (randypellegrini@gmail.com)" [ref=e58] [cursor=pointer]':
+            - img [ref=e60]
+            - img [ref=e65]
+    - generic [ref=e66]:
+      - menubar [ref=e68]:
+        - menuitem "File" [ref=e69] [cursor=pointer]
+        - menuitem "Edit" [ref=e70] [cursor=pointer]
+        - menuitem "View" [ref=e71] [cursor=pointer]
+        - menuitem "Insert" [ref=e72] [cursor=pointer]
+        - menuitem "Format" [ref=e73] [cursor=pointer]
+        - menuitem "Data" [ref=e74] [cursor=pointer]
+        - menuitem "Tools" [ref=e75] [cursor=pointer]
+        - menuitem "Extensions" [ref=e76] [cursor=pointer]
+        - menuitem "Help" [ref=e77] [cursor=pointer]
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - toolbar "Search the menus (Option+/)" [ref=e80]:
+            - combobox "Menus" [ref=e82]
+          - toolbar "Main" [ref=e83]:
+            - button "Undo (⌘Z)" [ref=e84] [cursor=pointer]
+            - button "Redo (⌘Y)" [ref=e89] [cursor=pointer]
+            - button "Print (⌘P)" [ref=e94] [cursor=pointer]
+            - button "Paint format" [ref=e99] [cursor=pointer]
+            - combobox "Zoom" [ref=e104] [cursor=pointer]:
+              - option "Zoom list. 100% selected." [selected] [ref=e107]:
+                - textbox "Zoom" [ref=e108]: 100%
+            - separator [disabled] [ref=e112]
+            - button "Format as currency" [ref=e113] [cursor=pointer]:
+              - generic [ref=e115]: $
+            - button "Format as percent" [ref=e116] [cursor=pointer]:
+              - generic [ref=e118]: "%"
+            - button "Decrease decimal places" [ref=e119] [cursor=pointer]
+            - button "Increase decimal places" [ref=e124] [cursor=pointer]
+            - button "More formats" [ref=e129] [cursor=pointer]:
+              - generic [ref=e132]: "123"
+            - separator [disabled] [ref=e133]
+            - listbox "Font" [ref=e134] [cursor=pointer]:
+              - option "Font list. Default (Arial) selected." [selected] [ref=e137]: Default (Arial)
+            - separator [disabled] [ref=e141]
+            - button "Decrease font size (⌘+Shift+comma)" [ref=e142] [cursor=pointer]
+            - combobox "Font size" [ref=e147] [cursor=pointer]:
+              - option "Font size list. 10 selected." [selected] [ref=e150]:
+                - textbox "Font size" [ref=e151]: "10"
+            - button "Increase font size (⌘+Shift+period)" [ref=e152] [cursor=pointer]
+            - separator [disabled] [ref=e157]
+            - button "Bold (⌘B)" [ref=e158] [cursor=pointer]
+            - button "Italic (⌘I)" [ref=e163] [cursor=pointer]
+            - button "Strikethrough (⌘+Shift+X)" [ref=e168] [cursor=pointer]
+            - button "Text color" [ref=e173] [cursor=pointer]
+            - separator [disabled] [ref=e180]
+            - button "More" [ref=e181] [cursor=pointer]
+        - toolbar "Mode and view" [ref=e188]:
+          - button "Hide the menus (Ctrl+Shift+F)" [ref=e189] [cursor=pointer]
+    - generic:
+      - generic:
+        - button "Show side panel":
+          - img [ref=e195] [cursor=pointer]
+    - generic [ref=e200]:
+      - generic "Name box (⌘ + J)" [ref=e201]:
+        - textbox [ref=e202]: A1
+        - button "Name box menu button. Select one of the menu items to navigate to its corresponding named range." [ref=e204] [cursor=pointer]
+      - textbox [ref=e220]
+  - navigation "Sheet tab bar" [ref=e256]:
+    - toolbar [ref=e257]:
+      - button "Add Sheet" [ref=e258] [cursor=pointer]
+      - button "All Sheets" [ref=e263] [cursor=pointer]
+    - toolbar [ref=e270]:
+      - button "Sheet1" [ref=e271]:
+        - generic [ref=e275]: Sheet1
+      - button "Submission Log" [ref=e279] [cursor=pointer]:
+        - generic [ref=e283]: Submission Log
+      - button "Welcome Sequence" [ref=e287] [cursor=pointer]:
+        - generic [ref=e291]: Welcome Sequence
+      - button "grinds" [ref=e295] [cursor=pointer]:
+        - generic [ref=e299]: grinds
+    - toolbar [ref=e303]
+  - generic [ref=e304]:
+    - textbox [active]
+  - link "Turn on screen reader support" [ref=e305] [cursor=pointer]:
+    - /url: "#"
+  - textbox [ref=e306]
+  - region
+  - region [ref=e307]: To enable screen reader support, press ⌘+Option+Z To learn about keyboard shortcuts, press ⌘slash
+  - complementary "Tables" [ref=e308]:
+    - generic [ref=e310]:
+      - generic [ref=e315]: Tables
+      - button "Close" [ref=e316] [cursor=pointer]
+    - generic [ref=e319]:
+      - generic [ref=e320]:
+        - generic [ref=e321]: Start with pre-built tables
+        - generic [ref=e322]: Includes smart chips, placeholders, and custom color palettes
+        - img "Tables promo image" [ref=e323]
+      - generic [ref=e324]:
+        - button "Featured" [expanded] [ref=e325]:
+          - generic [ref=e329]: Featured
+        - generic [ref=e330]:
+          - generic:
+            - generic:
+              - button "Blank table":
+                - generic: Blank table
+              - button "Event tasks":
+                - generic: Event tasks
+              - button "Project tasks":
+                - generic: Project tasks
+              - button "Content tracker":
+                - generic: Content tracker
+              - button "Product prioritization":
+                - generic: Product prioritization
+              - button "Recruitment applicants":
+                - generic: Recruitment applicants
+      - button "Event planning" [ref=e332]:
+        - generic [ref=e336]: Event planning
+      - button "Customer relations" [ref=e338]:
+        - generic [ref=e342]: Customer relations
+      - button "Project management" [ref=e344]:
+        - generic [ref=e348]: Project management
+      - button "Travel planner" [ref=e350]:
+        - generic [ref=e354]: Travel planner
+      - button "Product roadmap" [ref=e356]:
+        - generic [ref=e360]: Product roadmap
+      - button "Inventory management" [ref=e362]:
+        - generic [ref=e366]: Inventory management
+      - button "Recruitment" [ref=e368]:
+        - generic [ref=e372]: Recruitment
+      - button "Team planner" [ref=e374]:
+        - generic [ref=e378]: Team planner
+      - button "Marketing" [ref=e380]:
+        - generic [ref=e384]: Marketing
+  - iframe [ref=e386]:
+    

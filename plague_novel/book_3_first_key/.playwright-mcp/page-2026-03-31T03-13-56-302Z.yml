@@ -1,0 +1,312 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e9]:
+        - link [ref=e611] [cursor=pointer]:
+          - /url: https://account.kdp.amazon.com/account?ref_=kdp_kdp_TAC_TN_ac
+          - text: Your Account
+        - text: "|"
+        - button [ref=e612] [cursor=pointer]: English
+        - text: "|"
+        - link [ref=e613] [cursor=pointer]:
+          - /url: https://kdp.amazon.com/en_US/help?ref_=kdp_kdp_TAC_TN_help
+          - text: Help
+        - text: "|"
+        - link [ref=e614] [cursor=pointer]:
+          - /url: https://kdp.amazon.com/en_US/signout?ref_=kdp_kdp_TAC_TN_so
+          - text: Sign out
+        - text: "|"
+        - button [ref=e615] [cursor=pointer]: Give Feedback
+      - separator [ref=e20]
+      - generic [ref=e22]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: https://kdp.amazon.com/en_US/signin
+        - generic [ref=e26]:
+          - link [ref=e616] [cursor=pointer]:
+            - /url: https://kdp.amazon.com/en_US/bookshelf?ref_=kdp_kdp_TAC_TN_bs
+            - text: Bookshelf
+          - text: "|"
+          - link [ref=e617] [cursor=pointer]:
+            - /url: https://kdpreports.amazon.com/
+            - text: Reports
+          - text: "|"
+          - link [ref=e618] [cursor=pointer]:
+            - /url: https://www.kdpcommunity.com/s/?language=en
+            - text: Community
+          - text: "|"
+          - link [ref=e619] [cursor=pointer]:
+            - /url: https://kdp.amazon.com/en_US/marketing/manager?ref_=kdp_kdp_TAC_TN_mk
+            - text: Marketing
+    - generic [ref=e35]:
+      - generic [ref=e36]: The First Key
+      - generic [ref=e39]:
+        - heading [level=4] [ref=e620]: This title is a pre-order. Changes allowed for the next 11 days, 20 hours, 46 minutes, and 5 seconds.
+        - generic [ref=e43]:
+          - text: You can update your manuscript and book settings up until 3 days prior to your pre-order going live.
+          - link [ref=e621] [cursor=pointer]:
+            - /url: /en_US/help/topic/AGSSZQVFKECO5?ref_=_phl
+            - text: Learn more
+      - generic [ref=e45]:
+        - link [ref=e622] [cursor=pointer]:
+          - /url: details
+          - paragraph [ref=e48]: Kindle eBook Details
+          - generic [ref=e52]: Complete
+        - generic [ref=e54]:
+          - paragraph [ref=e55]: Kindle eBook Content
+          - generic [ref=e59]: In Progress...
+        - link [ref=e623] [cursor=pointer]:
+          - /url: pricing
+          - paragraph [ref=e62]: Kindle eBook Pricing
+          - generic [ref=e66]: In Progress...
+      - generic [ref=e68]:
+        - heading [level=4] [ref=e624]: Manuscript
+        - generic [ref=e71]:
+          - generic [ref=e75]:
+            - text: Upload your manuscript (i.e. your book's interior content). We recommend using a KPF file.
+            - link [ref=e625] [cursor=pointer]:
+              - /url: /en_US/help/topic/A2GF0UFHIYG9VQ?ref_=_fg
+              - text: See all supported file types
+          - generic [ref=e80]:
+            - text: For help designing your manuscript with professional themes, chapter titles, or images, you can use Kindle Create or
+            - link [ref=e626] [cursor=pointer]:
+              - /url: /en_US/help/topic/A2GF0UFHIYG9VQ?ref_=_fg
+              - text: our eBook Formatting Guide
+            - text: .
+          - generic [ref=e84]:
+            - generic [ref=e89]:
+              - generic [ref=e90]: Ready to upload your pre-order book manuscript file?
+              - group [ref=e97]:
+                - generic [ref=e100] [cursor=pointer]:
+                  - radio [checked] [disabled] [ref=e627]
+                  - text: Yes. I have a file I would like to upload at this time.
+                - generic [ref=e104] [cursor=pointer]:
+                  - radio [disabled] [ref=e628]
+                  - text: No. I’ll upload the file I want customers to receive later, before the submission deadline below
+            - heading [level=4] [ref=e631]
+          - heading [level=4] [ref=e636]: You must submit the final version of your pre-order title before Saturday, April 11, 2026 11:59 PM GMT.
+          - generic [ref=e174]:
+            - text: Digital Rights Management (DRM) protects the rights of copyright holders, and limits unauthorized access and distribution of the content.
+            - button [ref=e638] [cursor=pointer]: Learn more
+          - generic [ref=e180]: Would you like to apply Digital Rights Management (DRM) to your files?
+          - group [ref=e191]:
+            - generic [ref=e194] [cursor=pointer]:
+              - radio [checked] [ref=e639]
+              - text: Yes, apply Digital Rights Management
+            - generic [ref=e198] [cursor=pointer]:
+              - radio [ref=e640]
+              - text: No, do not apply Digital Rights Management and allow customers who buy this book to download it as a PDF or EPUB file
+      - generic [ref=e204]:
+        - heading [level=4] [ref=e641]: Kindle eBook Cover
+        - generic [ref=e207]:
+          - generic [ref=e212]:
+            - text: Upload a front cover for your book or use our
+            - link [ref=e642] [cursor=pointer]:
+              - /url: /en_US/help/topic/A1DHGMW609HBI8?ref_=_cc
+              - text: Cover Creator
+            - text: to design one today.
+            - link [ref=e643] [cursor=pointer]:
+              - /url: /en_US/help/topic/A2J0TRG6OPX0VM
+              - text: Required cover specifications
+          - group [ref=e220]:
+            - heading [level=5] [ref=e644]:
+              - button [ref=e645] [cursor=pointer]: Use Cover Creator to make your book cover (upload your own cover image or use KDP's stock images)
+            - generic [ref=e228]:
+              - heading [level=5] [ref=e646]:
+                - button [expanded] [ref=e647]: Upload a cover you already have (JPG/TIFF only)
+              - generic [ref=e239]:
+                - button [ref=e648] [cursor=pointer]: Upload your cover file
+                - alert [ref=e248]:
+                  - heading [level=4] [ref=e649]: An error occurred.
+      - generic [ref=e260]:
+        - heading [level=4] [ref=e650]: AI-Generated Content
+        - generic [ref=e268]:
+          - generic [ref=e269]:
+            - text: Amazon is collecting information about the use of Artificial Intelligence (AI) tools in creating content.
+            - button [ref=e651] [cursor=pointer]: What is AI-generated content?
+          - generic [ref=e273]: Did you use AI tools in creating texts, images, and/or translations in your book?
+          - generic [ref=e652]:
+            - generic [ref=e277]:
+              - radio [checked] [ref=e653]:
+                - link [ref=e654]:
+                  - /url: "#"
+                  - heading [level=5] [ref=e655]: "Yes"
+              - generic [ref=e282]:
+                - generic [ref=e283]:
+                  - generic [ref=e286]: Texts
+                  - generic [ref=e656]:
+                    - combobox [ref=e290]
+                    - button [ref=e293] [cursor=pointer]: None
+                - separator [ref=e295]
+                - generic [ref=e296]:
+                  - generic [ref=e299]: Images
+                  - generic [ref=e300]:
+                    - generic [ref=e657]:
+                      - combobox [ref=e303]
+                      - button [ref=e306] [cursor=pointer]: One or a few AI-generated images, with extensive editing
+                    - generic [ref=e308]: Which tool(s) did you use to create the AI-generated images in your work?
+                    - generic [ref=e309]:
+                      - textbox [ref=e658]:
+                        - /placeholder: e.g. DALL-E
+                        - text: DALL-E
+                      - textbox [ref=e659]
+                      - textbox [ref=e660]
+                - separator [ref=e319]
+                - generic [ref=e320]:
+                  - generic [ref=e323]: Translations
+                  - generic [ref=e661]:
+                    - combobox [ref=e327]
+                    - button [ref=e330] [cursor=pointer]: None
+            - radio [ref=e662]:
+              - link [ref=e663] [cursor=pointer]:
+                - /url: "#"
+                - heading [level=5] [ref=e664]: "No"
+          - alert [ref=e339]:
+            - img [ref=e340]
+            - generic [ref=e342]:
+              - paragraph [ref=e343]: It looks like you’ve uploaded a new manuscript or book cover.
+              - checkbox [ref=e665] [cursor=pointer]:
+                - img [ref=e347]:
+                  - img [ref=e348]
+                - paragraph [ref=e351]: By clicking this, I confirm that my answers are accurate
+      - generic [ref=e353]:
+        - heading [level=4] [ref=e666]: Kindle eBook Preview
+        - generic [ref=e356]:
+          - generic [ref=e359]: Online Preview and Quality Check
+          - generic [ref=e363]:
+            - text: "Preview your book online to check for quality issues and see how it appears on Kindle and mobile devices. TIP: Use our"
+            - link [ref=e667] [cursor=pointer]:
+              - /url: /en_US/help/topic/G202131170
+              - text: Kindle Previewer
+            - text: to preview books with interactive features.
+          - generic [ref=e395]:
+            - button [disabled] [ref=e668]: Launch Previewer
+            - generic [ref=e404]:
+              - generic [ref=e407]: Downloadable Preview Options
+              - heading [level=4] [ref=e669]: Your book cannot be downloaded.
+      - generic [ref=e422]:
+        - heading [level=4] [ref=e670]: Kindle eBook ISBN
+        - generic [ref=e425]:
+          - generic [ref=e430]: ISBN (Optional)
+          - generic [ref=e434]:
+            - generic [ref=e435]:
+              - text: Kindle eBooks are not required to have an ISBN.
+              - button [ref=e671] [cursor=pointer]: What is an ISBN?
+            - textbox [ref=e441]
+          - generic [ref=e445]: Publisher (Optional)
+          - textbox [ref=e452]
+      - generic [ref=e463]:
+        - heading [level=4] [ref=e672]: Accessibility Features
+        - generic [ref=e471]:
+          - paragraph [ref=e472]:
+            - text: This will provide customers with detailed information about accessibility features in your eBook. Customers can review these features on your book's product detail page.
+            - link [ref=e673] [cursor=pointer]:
+              - /url: /help/topic/GBPE3QVZ2J3HLQ4B#bestpractices
+              - text: Learn why accessibility is important to readers.
+          - group [ref=e474]:
+            - paragraph [ref=e475]:
+              - strong [ref=e476]: Are your images accessible?
+              - link [ref=e674] [cursor=pointer]:
+                - /url: /help/topic/GBPE3QVZ2J3HLQ4B#images
+                - text: Learn what it means to have accessible images.
+            - generic [ref=e479] [cursor=pointer]:
+              - radio [ref=e675]
+              - paragraph [ref=e483]: I don't know if my informative images include alternative text and/or extended description.
+            - generic [ref=e485] [cursor=pointer]:
+              - radio [checked] [ref=e676]
+              - paragraph [ref=e489]: None of the informative images include alternative text and/or extended description.
+            - generic [ref=e491] [cursor=pointer]:
+              - radio [ref=e677]
+              - paragraph [ref=e495]: Some informative images include alternative text and/or extended description.
+            - generic [ref=e497] [cursor=pointer]:
+              - radio [ref=e678]
+              - paragraph [ref=e501]: All informative images include alternative text and/or extended description.
+          - alert [ref=e503]:
+            - img [ref=e504]
+            - generic [ref=e506]:
+              - paragraph [ref=e507]: It looks like you’ve uploaded a new manuscript or book cover.
+              - checkbox [ref=e679] [cursor=pointer]:
+                - img [ref=e511]:
+                  - img [ref=e512]
+                - paragraph [ref=e515]: By clicking this, I confirm that my answers are accurate
+      - generic [ref=e516]:
+        - generic [ref=e517]:
+          - link [ref=e680] [cursor=pointer]:
+            - /url: /en_US/title-setup/kindle/A19070TESDUZXH/details
+            - text: < Back to Details
+          - button [ref=e681] [cursor=pointer]: Save as Draft
+          - button [ref=e682] [cursor=pointer]: Save and Continue
+        - generic [ref=e538]: "Next step: Pricing"
+    - generic [ref=e540]:
+      - generic [ref=e542]:
+        - generic [ref=e549]:
+          - paragraph [ref=e553]:
+            - generic [ref=e554]:
+              - text: Make more money and reach more readers through Kindle Unlimited.
+              - link [ref=e683] [cursor=pointer]:
+                - /url: https://kdp.amazon.com/en_US/select
+                - text: Learn More
+          - img [ref=e684]
+        - generic [ref=e564]:
+          - paragraph [ref=e566]: Total KDP Select Author Earnings
+          - generic [ref=e568]:
+            - paragraph [ref=e570]: February 2026
+            - paragraph [ref=e572]: •
+            - paragraph [ref=e574]: $61.7 Million
+      - generic [ref=e575]:
+        - link [ref=e685] [cursor=pointer]:
+          - /url: http://www.amazon.com
+          - img [ref=e686]
+        - generic [ref=e579]: © 1996-2026, Amazon.com, Inc. or its affiliates. All Rights Reserved. Amazon and Kindle are trademarks of Amazon.com Inc. or its affiliates.
+        - link [ref=e687] [cursor=pointer]:
+          - /url: https://www.facebook.com/KindleDirectPublishing
+        - link [ref=e688] [cursor=pointer]:
+          - /url: https://twitter.com/AmazonKDP
+        - link [ref=e689] [cursor=pointer]:
+          - /url: https://www.instagram.com/amazonkdp?igsh=cmxubTlzbTAwdDl5
+        - generic [ref=e590]:
+          - link [ref=e690] [cursor=pointer]:
+            - /url: https://kdp.amazon.com/en_US/select?ref_=kdp_kdp_TAC_FOOT_kdps
+            - generic [ref=e593]: KDP Select
+            - text: Earn more money and reach new readers
+          - link [ref=e691] [cursor=pointer]:
+            - /url: https://www.kdpcommunity.com/s/?language=en
+            - generic [ref=e596]: KDP Community
+            - text: Connect with experts and fellow authors
+          - link [ref=e692] [cursor=pointer]:
+            - /url: https://kdp.amazon.com/en_US/createspace-transfer
+            - generic [ref=e599]: CreateSpace
+            - text: Indie print publishing made easy
+          - link [ref=e693] [cursor=pointer]:
+            - /url: https://www.acx.com/?utm_source=KDP&utm_medium=w&utm_campaign=home
+            - generic [ref=e602]: ACX
+            - text: Indie audiobook publishing made easy
+      - generic [ref=e604]:
+        - link [ref=e694] [cursor=pointer]:
+          - /url: https://kdp.amazon.com/en_US/terms-and-conditions?ref_=kdp_kdp_TAC_FOOT_tac
+          - text: KDP Terms and Conditions
+        - text: "|"
+        - link [ref=e695] [cursor=pointer]:
+          - /url: https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496
+          - text: Privacy Notice
+        - text: "|"
+        - link [ref=e696] [cursor=pointer]:
+          - /url: http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088
+          - text: Conditions of Use
+        - text: "|"
+        - link [ref=e697] [cursor=pointer]:
+          - /url: https://kdp.amazon.com/en_US/contact-us?ref_=kdp_kdp_TAC_FOOT_cu
+          - text: Contact Us
+        - text: "|"
+        - link [ref=e698] [cursor=pointer]:
+          - /url: https://www.amazon.jobs/en/teams/author-publisher-experience
+          - text: Join Our Team
+        - text: "|"
+        - link [ref=e699] [cursor=pointer]:
+          - /url: https://kdp.amazon.co.jp/
+          - text: kdp.amazon.co.jp
+  - dialog [ref=e701]:
+    - generic [ref=e708]:
+      - generic [ref=e709]: Uploading...
+      - generic [ref=e714]:
+        - button "Cancel Upload" [disabled] [ref=e715] [cursor=pointer]
+        - generic [ref=e716]: Cancel Upload

@@ -3,155 +3,77 @@
 
 ---
 
-*From the Archive of Carriers, entry of Shiphra bat-Hiram, Generation 9, 950 BCE:*
+**950 BCE — Jerusalem**
 
-*I killed a man tonight.*
+Miriam pressed two fingers to the king's wrist and listened.
 
-*His name was Adoniram. He was brilliant and kind and he helped me build the vault. Three years we worked together — he designed the stone channels, calculated the load-bearing walls, showed me how to hide a chamber beneath a foundation so perfectly that the temple above would never shift. He was my collaborator. My friend. The only person outside the network I trusted with the architecture of what we were protecting, if not the thing itself.*
+David's pulse was weaker this month. The intervals stretching, the rhythm losing the precision that had carried him through seventy years of war and compromise. She could map his decline in the changes — the blankets despite warm air, the untouched figs, the particular economy of movement that came when the body began rationing its energy. He had months. Maybe a year.
 
-*His questions started six months ago. Not threats — curiosity. The curiosity of a craftsman who'd built a vault and wanted to understand what it held. The offensive network hadn't sent him. He'd arrived at the questions on his own, through loyalty, through the same intelligence that made him useful to us. He was about to protect the Pattern Eye the wrong way — by understanding it, by talking about it, by being brilliant in public about a thing that survived by being invisible.*
+His pulse told her something else, too. Something his face wouldn't.
 
-*I pulled a rope. A stone fell. It was quick. He looked at me and understood everything in the space between heartbeats, and then he was gone.*
+The Egyptian entered the courtyard through the eastern colonnade. Trade envoy, officially. Phoenician robes over Egyptian shoulders, the disguise as old as the network that trained him. He walked with the measured stride of someone who'd mapped every exit before choosing which one to use.
 
-*I wear his ring now. The council says I must. Bronze, the width of a barley stalk, a craftsman's measuring ring he used to check column widths. It was lying in his blood when the lamp stopped swinging. I picked it up and I cannot tell you why. I can tell you that three years of friendship fit inside a bronze circle, and that the circle is warm in the morning and cold at night, and that I deserve both.*
+Under Miriam's fingers, David's pulse changed.
 
-*It fits my left hand. The hand that pulled the rope. The hand that reaches in the night for someone I've never met.*
+Not faster. Not the spike of fear or the stutter of surprise. Something subtler: the rhythm of recognition. The particular steadying a body does when it sees someone familiar and decides not to react. The way your heartbeat settles into a lower gear when a known face enters a room.
 
-*To my successor: this is what it costs. You will dream this murder. You will feel the rope in your hand and the ring on your finger and the moment when prevention became control. Carry it. Learn from it. And when you are standing over someone asking dangerous questions — choose differently than I did.*
+David knew this man.
 
-*I could not afford to fail. But I think failing would have been better than this.*
+Not from today. Not from this week. The recognition was old — deep in the autonomic system, the kind that only came from years of proximity. David's body didn't just recognize the Egyptian. It was *comfortable* with him.
 
-*— Shiphra*
+Miriam kept her face neutral. Kept counting. Her inheritance had taught her to read pulses before she could read tablets — twelve generations of physicians who'd learned that the body confessed what the mouth refused. And David's body was confessing a forty-year secret.
 
----
+"How's the pain?" she asked.
 
-**950 BCE**
+"Manageable. Your willow bark helps." He tracked her work with shrewd eyes. "But you're not here about my health."
 
-Miriam woke gasping. Both dreams again — the burning city and the murder. She touched the ring. Her left hand had moved in the night, reaching for someone who wasn't there. Some mornings the reaching almost felt like prayer.
+The ring on her left hand — bronze, the width of a barley stalk, warm from her skin or from something older — pressed against his wrist where she held it. Shiphra's ring. The murder ring. She'd woken gasping from both dreams again that morning: the burning city and the stone falling, her left hand reaching for someone who wasn't there. And beneath both, the older dream: a foundation pit, the smell of cedar and blood. She'd been ten. She'd carried a water jug. She'd dropped it.
 
-"Mother?" Judith appeared in the doorway, ten years old, studying her with eyes that saw too much. "The dream again?"
+"Your sons," she said. "They're positioning for succession. Adonijah thinks he'll be king. Solomon's supporters are gathering resources. Neither side is talking to the other."
 
-"Both of them." Miriam's hands were shaking. "The murder dream too."
-
-"The Pattern Eye is still safe?" The practical question. The one that mattered.
-
-"Hidden in the Temple foundation. Still ours to protect." Miriam rose, pulling her healer's robe from its hook. "But right now, we have David's succession crisis to navigate. And a kingdom to prevent from collapsing."
-
----
-
-King David was dying.
-
-Not immediately — he'd probably live another year, maybe two — but Miriam had seen enough death to recognize the trajectory. Seventy years old, weakening, struggling to maintain control over a kingdom that was already fracturing beneath him.
-
-She found him in the palace courtyard, painted columns in red and blue, incense smoke drifting from bronze stands, monarchy announced in carved cedar beams shipped from Lebanon. A servant fanned him with a palm frond while another held a tray of honeyed figs untouched. He sat wrapped in blankets despite the warm morning, a lyre player silent in the corner, his gaze following his sons as they argued.
-
-A man stood at the courtyard's far colonnade. Egyptian features beneath a wig of braided linen, dressed in the fine pleated kilt and broad collar of a visiting trade envoy. He wasn't looking at the arguing princes. He was looking at Miriam. The same systematic scanning she used: exits mapped, power structure read, threat assessment running behind calm eyes. One of theirs. Had to be. She held his gaze for two heartbeats. He looked away first.
-
-She had a choice: pull back, protect the network's anonymity, let David's succession crisis unfold without intervention. Or continue, knowing that the other side now knew one of hers was advising the king of Israel. Knowing they'd report it. Knowing that every word she said to David would be observed, analyzed, used to map the defensive network's methods.
-
-She sat down beside David. The Egyptian shifted closer to the colonnade's edge, listening.
-
-"Miriam." David's voice was strong, but his body betrayed him. "Come to lecture me about rest again?"
-
-"Among other things." She knelt beside him, checking his pulse. Steady but weak. "How's the pain?"
-
-"Manageable. Your willow bark tea helps." He tracked her work with shrewd eyes. "But you're not here about my health, are you? You have that look. The one you get when you see things others miss."
-
-Miriam had served David's household for fifteen years. He'd learned to trust her instincts, which meant she'd learned how to use them. A king didn't want prophecy. A king wanted a problem he could solve and a reason to solve it now.
-
-She'd been rehearsing this conversation since before dawn. Not the words, the framing. David responded to threats he could act on, not abstractions about civilizational decay. She needed him to feel the succession crisis as a wound he could stitch closed, not poison already in the blood.
-
-"Your sons." She kept her voice even. "They're positioning for succession. Adonijah thinks he'll be king. Solomon's supporters are gathering resources. Neither side is talking to the other."
-
-She paused — deliberately. Let the weight of the words settle into him.
+Around them, the courtyard announced monarchy in carved cedar beams and painted columns. A servant fanned David with a palm frond. His sons argued at the far end, performing for the court.
 
 "I know," David said.
 
-"Do you know what happens next? If succession isn't clear?"
+"Do you know what happens next?"
 
-David waved a hand, dismissive, kingly. "Nathan says God will make His choice known. The prophet sees further than the physician."
+David waved a hand. "Nathan says God will make His choice known."
 
-Miriam kept her face still. Nathan saw visions. She saw systems.
+"Nathan sees comfort. I see trade routes." She'd rehearsed this framing since before dawn. Kings wanted solvable problems, not abstractions about civilizational decay. "Northern tribes are already operating independently. Phoenician alliances shifting. Three caravans rerouted through Megiddo last month instead of Jerusalem, hedging against instability."
 
-"Nathan sees comfort," she said carefully. "I see trade routes. Northern tribes are already operating independently. Phoenician alliances are shifting. Three caravans rerouted through Megiddo last month instead of Jerusalem, hedging against instability. If Israel fractures, it destabilizes the whole region."
-
-"You sound like your grandmother. She used to talk like this. 'Seeing how pieces connect,' she called it. The physician's way of thinking."
+"You sound like your grandmother."
 
 "It's in the family."
 
-"And your bloodline's been wrong before." David's eyes sharpened, still a warrior's eyes, even in a dying body. "Your mother warned my father about the Philistine campaign. Said the supply lines were overextended. He listened. Pulled back. And the Philistines took Gath anyway."
+The Egyptian had settled against the far colonnade. Close enough to hear. Miriam could feel the geometry of the situation: three points of a triangle — the healer, the king, the operative — and David at the center, perfectly positioned between two networks he wasn't supposed to know existed.
 
-The criticism landed. Miriam's mother had made that call. It was the right analysis (the supply lines *were* overextended) but the Philistines had attacked from a direction nobody predicted. Prevention had failed. The network's records carried it as a case study in the limits of pattern recognition.
+"The succession," she pressed. "If it isn't clear —"
 
-"She was right about the supply lines," Miriam said. "Wrong about the attack vector."
+"Tell me something first." David's eyes were suddenly warrior-sharp, the dying body forgotten. "Your Egyptian friend at the colonnade. When did you first notice him?"
 
-"And you're right about the succession. But wrong about — what? What aren't you seeing?"
+Miriam's stomach dropped. David had noticed the operative. Of course he had. Seventy years old and dying, but the man who'd outmaneuvered Saul.
 
-This was the moment. The pivot from diagnosis to prescription. Say it wrong and he'd defer another month, wait for Nathan's vision, let the fracture lines deepen. The Egyptian at the colonnade had moved again, closer now, close enough to hear. Whatever Miriam said next, Amenhotep's people would know within the week.
+"Three days ago."
 
-The ring warmed on her finger. It did that sometimes — a flush of heat she couldn't explain, always at the moments when she was choosing what to show and what to withhold. Shiphra's ring. Adoniram's ring. The ring of a friend killed for asking the right questions at the wrong time.
+"I've known him for twelve years."
 
-She could soften it. Hedge. Protect her methods from enemy analysis. Or she could be honest and accept the exposure.
+The courtyard continued around them — servants, incense, the arguing sons. Miriam's hand was still on David's wrist. His pulse was steady. Calm. The pulse of a man who'd been waiting for this conversation.
 
-"I'm not seeing Adonijah's response," she admitted. "I can tell you the kingdom splits without clear succession. I can't tell you whether naming Solomon prevents the split or accelerates it. Adonijah has military support. If he feels cornered —"
+"Your pulse changed when he walked in," Miriam said. "Not fear. Recognition. You've known him for twelve years?"
 
-"Then I'm choosing between two disasters. A slow one or a fast one."
-
-"You're choosing between a fall you can shape and one you can't."
-
-David studied her. Behind him, Adonijah laughed too loudly at something — performing for the court, already acting like a king.
-
-"Nathan says wait," David said. "You say act. And the Egyptian trade envoy at my colonnade has been watching you since you arrived, which tells me someone else has opinions about my succession too."
-
-Miriam's stomach dropped. David had noticed the watcher. Of course he had. Seventy years old and dying, but the man who'd outmaneuvered Saul.
-
-"He's not a trade envoy," she said.
-
-"I know what he is. I've had foreign advisors whispering in my ear for forty years. The question is whether he's whispering to Adonijah or Solomon."
-
-"Neither yet. He's watching to see which way you lean. Then he'll whisper."
-
-David's jaw tightened. "And if I name Solomon tomorrow — publicly, before the Egyptian can position himself — I take that option away from him."
-
-Miriam said nothing. Let the king arrive at the prescription himself. The ring tightened — or her finger swelled beneath it, she could never tell which — and she thought of Adoniram, who had also arrived at conclusions on his own, guided by someone who stayed silent at the right moments.
-
-"That's what you wanted me to see." David's voice was flat. "Not the succession crisis. The foreign hand waiting to shape it."
-
-"I wanted you to see all of it. The choice is yours."
-
-*Is it?* The ring asked the question she wouldn't.
-
-David turned back to his arguing sons. His left hand drifted on the armrest, slow, unconscious, reaching toward the empty space beside him on the bench. The gesture was barely there. But Miriam's inheritance recognized it before her mind did, and her own hand tightened on the ring.
-
-He wasn't a carrier. He carried nothing but seventy years and a kingdom and whatever name his body still reached for in the hours before dawn.
-
-She wondered if the Protocol had invented anything at all, or simply found a way to remember what everyone already did.
-
-"I'll make the announcement tomorrow," he said finally. "Solomon will be king. And I want that Egyptian envoy gone from my court by sunset."
-
-"That will create other problems."
-
-"Smaller problems." He didn't smile. "Your family has been advising Israel's kings for how many generations now?"
-
-"Ten. Longer than most kingdoms last."
-
-"And you've prevented how many collapses I don't even know about?"
-
-"We don't count prevented collapses. Only survived ones."
-
-The court had emptied while they spoke. Servants gone, Adonijah's entourage drifted to the inner halls. Just Miriam and a dying king and, at the far colonnade, the Egyptian who hadn't left yet. Not quite sunset.
-
-David watched her for a long moment. Then he said, very quietly: "How long did you think I wouldn't notice?"
-
-Miriam went still.
-
-"Three generations of women from the same family. Same hands. Same way of going silent for half a breath when something hits you — your eyes go somewhere else and come back with information you shouldn't have. Your grandmother did it. Your mother did it. You do it every time you sit beside me." He adjusted his blankets with shaking fingers. "And the Egyptians. Different faces, same method. Thirty years."
+"Longer than that. Different faces. Same method." David adjusted his blankets with fingers that shook, but his voice didn't. "I've had foreign advisors whispering in my ear for forty years, Miriam. Your grandmother was the first. The Egyptian priest who arrived the year after was the second."
 
 "David —"
 
-"I've been listening to both of you." His voice was flat, factual, the voice of a man inventorying his estate before death. "Your family shows me the danger and lets me choose. The Egyptians show me the danger and tell me what to do. Forty years of comparison, Miriam. Do you want to hear the results?"
+"Three generations of women from the same family. Same hands. Same way of going silent for half a breath when something hits you — your eyes go somewhere else and come back with information you shouldn't have. Your grandmother did it. Your mother did it. You do it every time you sit beside me." He looked at the colonnade. "And the Egyptians. Different faces, same training. Thirty years of comparison."
 
-Her throat closed. She shook her head.
+Miriam pulled her hand from his wrist. The ring burned against her finger.
+
+"You've been using both networks."
+
+"I've been *listening* to both." His voice was flat, factual — the voice of a man inventorying his estate before death. "Yours shows me the danger and lets me choose. Theirs shows me the danger and tells me what to do. Forty years, Miriam. Do you want to hear the results?"
+
+She shook her head.
 
 He told her anyway.
 
@@ -159,185 +81,171 @@ He told her anyway.
 
 He held up a third finger. Lowered it.
 
-"Your family sees the shape of things better than anyone I've ever known. But seeing isn't acting." He looked toward the colonnade, where the Egyptian stood motionless in the late light. "Your way is kinder, Miriam. Their way works more often."
+"Your family sees the shape of things better than anyone I've ever known. But seeing isn't acting." He looked toward the colonnade. "Your way is kinder, Miriam. Their way works more often."
 
-She couldn't speak.
+The words landed like a judgment rendered from a height she couldn't reach. Not philosophy. Data. Forty years of controlled comparison by a man who'd tested both approaches with a kingdom as his laboratory.
 
-"I'm telling you this because Solomon thinks like them, not like you. He builds. Temples, walls, hierarchies. Within a year of my death, they'll have his ear. And your family won't."
+"Why tell me this now?"
 
-"Why tell me now?"
+"Because Solomon thinks like them, not like you. He builds. Temples. Walls. Hierarchies. Within a year of my death, they'll have his ear. Your family won't."
 
-"Because you deserve to know what you're losing." His hand found the armrest again, gripping it the way the dying grip things — not for support but for proof they're still present. "And because the honest answer to your question — have you prevented collapses — is that I don't know. I used both of you. Both sides. And I still can't tell you which one saved this kingdom."
+"Then help me position —"
 
-The Egyptian turned from the colonnade and walked toward the gate. Unhurried. He'd heard enough.
+"No." The word was hard. Final. "I'm done positioning. I've played both sides for forty years and I still can't tell you which one saved this kingdom." His hand drifted on the armrest — slow, unconscious, reaching toward the empty space beside him on the bench. The gesture was barely there. Not a carrier's reaching. An old man's. The reaching that everyone did, carrier or not, when the body remembered someone the mind had learned to live without.
+
+Miriam's inheritance recognized it before her mind did. Her own left hand tightened on the ring.
+
+He wasn't a carrier. He carried nothing but seventy years and a kingdom and whatever name his body still reached for in the hours before dawn. But forty years of standing close to the love — close to carriers who reached and counted and breathed in rhythms they couldn't explain — had left a mark. Proximity itself had changed him. Not enough to see what they saw. Enough to *reach*.
+
+She wondered if the Protocol had invented anything at all, or simply found a way to remember what everyone already did.
+
+"One more thing," David said. His voice had dropped. The arguing sons were drifting toward the inner halls. The courtyard emptying. Even the Egyptian had pulled back from the colonnade — heard enough, or enough for now.
+
+"I know what's under my Temple."
+
+Miriam's blood stopped.
+
+"The eastern foundation. The column your people reinforced beyond any structural explanation. The geometric encoding in the spacing." He watched her face with the expression of a man who had been saving this card for fifteen years. "Your grandmother showed me the engineering. Not what it meant — she was careful. But I've had forty years to think about why a Phoenician architect would die in a construction accident the night before a foundation stone was set. And why my Temple's eastern colonnade is designed to last a thousand years while the western wall was built for three hundred."
+
+"David —"
+
+"I've been protecting it. Not because your network asked me to. Because whatever is down there matters enough that someone killed for it and someone else amended their entire code of conduct over the killing." He looked at his hands — shaking, old, the hands of a king who'd held a sling and a harp and a kingdom and none of it steadily enough. "I'm telling Solomon to maintain the eastern foundation. I won't tell him why. But the protection ends when I die. You should know that."
 
 Miriam stood. Her legs felt like someone else's.
 
-"Miriam." David's voice caught her at the edge of the courtyard. "Tell your daughter I said she has your grandmother's hands."
+"Miriam." His voice caught her at the edge of the courtyard. "Tell your daughter I said she has your grandmother's hands."
 
 He'd seen Judith. Of course he had.
 
 ---
 
-**OFFENSIVE NETWORK INTERLUDE**
+The network gathered that evening. Twelve members in Miriam's stone-walled house near the Temple quarter. Delegates from forty families scattered across Israel, Phoenicia, and Egypt. Including Judith, cross-legged in the corner with those too-old eyes, who needed to learn.
 
-**Memphis. The same morning.**
+Miriam told them about the Egyptian. About David. Every body around the table shifted — the instinctive contraction of people who'd spent generations invisible and just learned they'd been visible for decades.
 
-The same morning Miriam advised King David, Khenti stood in Pharaoh Shoshenq's audience chamber in Memphis, three hundred miles south.
+"He saw you advise David?" Keret, the Egyptian member, leaned forward. Three generations of network integration. Memphis liaison. "Directly?"
 
-"Third consecutive low flood," Shoshenq said, studying grain reports. "If this continues —"
+"He observed the conversation. And David noticed him."
 
-"It will," Khenti replied. "The next five years will test Egypt's resilience."
+"Then they know. Amenhotep's side knows one of ours is embedded in the Israelite court."
 
-"Then we ration. Restrict trade. Close the borders —"
+"It's worse than that." Miriam looked at the twelve faces in the lamplight. "David knows about us. Not suspicions. He's tracked three generations of this family. He described our method — the pause, the eyes going elsewhere. He's known for forty years."
 
-"No, Divine One. Hoarding accelerates the unraveling." Khenti kept his voice respectful but firm. "We identify the essential populations — priests, scribes, craftsmen, the best farmers. Allocate grain preferentially. The rest receive subsistence rations. Not enough to thrive, but enough to prevent revolt."
+The room didn't tighten. It broke open.
 
-Shoshenq hesitated. "That's cold."
+"He also knows about them." She nodded toward Keret. "Different faces, same method. Thirty years. He's been using both networks."
 
-"That's survival. Not through hope, but through design."
+"What did he say?" Keret's face had gone gray. "About our methods versus theirs?"
 
-The pharaoh nodded. "Implement your plan. Discreetly."
+This was the part that had been sitting in her chest like a stone since the courtyard.
 
----
-
-**That evening: Defensive network gathering**
-
-Twelve members gathered in Miriam's house. Delegates from forty families scattered across Israel, Phoenicia, and Egypt. Including Judith, cross-legged in the corner, who needed to learn.
-
-Miriam told them about the Egyptian watcher. Every body around the table shifted — a tightening, a collective held breath, the instinctive contraction of people who'd spent generations invisible and just learned they'd been seen.
-
-"He saw you advise David?" The Egyptian member, a man who'd traveled from Memphis, three generations of network integration, leaned forward. "Directly?"
-
-"He observed the entire conversation. And David noticed him. Had the man expelled from court by sunset."
-
-"Then they know." The Egyptian member's voice was flat. "Amenhotep's side now knows one of ours is embedded in the Israelite court. They'll map your methods. They'll position their own advisor — with Adonijah, probably, since you pushed David toward Solomon."
-
-"I didn't push. I showed him the pattern. He chose."
-
-"The distinction won't matter to them."
-
-Miriam's hands were still. She looked at the twelve faces in the lamplight and made a decision she'd been turning over since the courtyard emptied.
-
-"There's more."
-
-Something in her voice stopped the side conversations. The Egyptian member set down his cup.
-
-"David knows about us. Not suspicions. Not fragments. He's tracked three generations of this family — my grandmother, my mother, me. He described our method: the pause, the eyes going elsewhere, the information we shouldn't have." She kept her voice level. "He's known for forty years."
-
-The room didn't just tighten. It broke open. Twelve people who'd built their lives on invisibility learning they'd been visible for decades.
-
-"That's not possible," someone said. "We've been —"
-
-"He also knows about them." Miriam nodded toward the Egyptian member. "Different faces, same method. Thirty years of comparison. He's been using both networks. Playing us against each other."
-
-The Egyptian member's face had gone gray. "What did he say about our methods versus theirs?"
-
-This was the part that had been sitting in Miriam's chest like a stone since the courtyard.
-
-"He gave two examples. The northern secession, twelve years ago. My aunt mapped the fracture and advised patience. Their operative said cut the ringleader's trade access. David took their advice. Secession collapsed in a month." She forced herself to continue. "The Moabite alliance. My cousin recommended diplomacy — gifts, marriages, shared festivals. Two years minimum. Their operative said burn one fort. Thirty casualties. Alliance dissolved in a week."
-
-Silence. Not the held-breath kind from before. The kind that comes when something you've believed for generations meets evidence it can't absorb.
+She gave the two examples. The northern secession. The Moabite alliance. Watched the silence change from the held-breath kind to the kind that comes when something you've believed for generations meets evidence it can't absorb.
 
 "He said our way is kinder." Miriam's voice was steady, but the ring was cutting into her finger where she gripped it. "He said their way works more often."
 
-The Egyptian member stood up. "Then maybe it does."
+Keret stood up.
+
+"Then maybe it does."
 
 Every head turned.
 
-"I've spent three years in Memphis watching the Order operate." His voice was rough. "Breeding programs. Genealogical records. Sixty operatives embedded in the priesthood. They're advising Pharaoh on grain distribution right now — choosing who eats and who doesn't. And it's *working*, Miriam. Egypt isn't fracturing. Egypt isn't about to lose its kingdom to a succession crisis because its advisors were too principled to engineer the outcome."
+"I've spent three years in Memphis watching the Order operate. Breeding programs. Genealogical records. Sixty operatives embedded in the priesthood. They're advising Pharaoh on grain distribution right now — choosing who eats and who doesn't. And it's *working*. Egypt isn't fracturing. Egypt isn't losing its kingdom to a succession crisis because its advisors were too principled to engineer the outcome."
 
 "Sit down, Keret."
 
-"David is telling you the truth and you don't want to hear it. Ten generations we've been doing this. Ten generations of showing people the danger and letting them choose. And the kingdom is splitting anyway. Solomon will build his temple and tax the north into revolt and the whole thing will crack in two within a generation. I've seen the pattern. You've seen it. We all dream the same collapses." He was breathing hard. "Maybe it's time we stopped advising and started acting."
+"David told you the truth and you don't want to hear it. Ten generations. Ten generations of showing people the danger and letting them choose. And the kingdom is splitting anyway. Solomon will build his temple and tax the north into revolt and the whole thing will crack in two." He was breathing hard. "Maybe it's time we stopped advising and started acting."
 
 "Acting how?" Miriam said. "Burning forts? Cutting trade access? Choosing who eats?"
 
 "Choosing outcomes. The way they do. The way that *works.*"
 
-The oil lamps flickered in a draft from the doorway. Nobody moved.
+The oil lamps flickered in a draft from the doorway.
 
-"If we do that," Miriam said, "we become the thing Nefertari built us to oppose. And we can't undo it. You don't go back from engineering outcomes. You just find better reasons to keep doing it."
+"If we do that," Miriam said, "we become the thing Nefertari built us to oppose. And we can't undo it."
 
 "And if we don't, we watch another kingdom fall while we hold our principles like a blanket over a corpse."
 
-Miriam looked around the table. She could see the fracture — not everyone, not even most, but enough. Three faces that wouldn't meet her eyes. Two who were watching Keret with something that looked like relief, the relief of hearing someone say the thing they'd been thinking.
+Miriam looked around the table. She could see the fracture. Not everyone. But enough. Three faces that wouldn't meet her eyes. Two watching Keret with something that looked like relief — the relief of hearing someone say the thing they'd been thinking.
 
-"David chose on his own today," she said. "I showed him the danger and he chose. That's what we protect — the capacity to choose. Even when the choice is imperfect. Even when an engineered succession would be cleaner."
+Judith hadn't spoken all evening. She'd sat with her arms wrapped around her knees, those too-old eyes moving from face to face.
 
-"David chose Solomon because you showed him the Egyptian." Keret's voice was flat. "You shaped the outcome, Miriam. You just used a longer lever."
-
-She had no answer for that. Because he wasn't wrong.
-
-The ring burned. She looked down at it — bronze, the width of a barley stalk, warm from her skin or warm from something older — and heard Shiphra's voice through the inheritance, clear as if the woman were sitting beside her: *the moment when prevention became control.*
-
-The offensive network engineered outcomes with force. They burned forts. Cut trade access. Chose who ate. They knew what they were. Miriam engineered outcomes with silence and timing and the careful appearance of choice. She showed David the Egyptian at the exact moment that would push him toward Solomon. She let him "arrive at the prescription himself" the way a shepherd lets a flock "choose" the gate he's already opened.
-
-She'd spent ten generations calling that different. The ring said otherwise. Adoniram had arrived at his own conclusions too. Guided by a friend who stayed silent at the right moments. Until the silence wasn't enough, and a stone fell.
-
-*The difference between us and them,* Miriam thought, *is that they admit what they're doing.*
-
-She couldn't hold that thought. It was too large and too true and it would break everything she'd built if she let it settle. So she did what carriers had always done with unbearable knowledge: she carried it.
-
-Judith hadn't spoken all evening. She'd sat with her arms wrapped around her knees, those too-old eyes moving from face to face — eyes that had been dreaming since she was five.
-
-"Mother." Her voice was small but steady. "In the dreams, every city that burned had someone like us. Warning them."
+"Mother." Her voice was small. Steady. "In the dreams, every city that burned had someone like us. Warning them."
 
 The room went still. Keret, still standing, looked down at the girl.
 
 "And it burned anyway."
 
-Twelve adults looked at a ten-year-old girl and had nothing to say. The question hung there — not an accusation, not despair, just the clean blade of a child who'd inherited the evidence and read it without flinching.
+The words hung there. Not an argument. Not a rebuttal. Something worse: the observation of a child who had dreamed a hundred collapses and noticed what no one wanted to say.
 
-Keret sat down. Not because he'd been answered. Because the girl had said what he'd been saying, stripped of strategy, stripped of anger, and it was worse that way.
+Keret walked to the door. Not in anger. In exhaustion. The exhaustion of a man who'd been standing in front of a decision for three years and had just heard a ten-year-old make it for him.
 
-Miriam wanted to explain — context, the collapses they'd softened even if they couldn't stop them. But David's voice was in her head, and Keret's voice was in her head, and her daughter's voice was in her head, and none of them were saying the same thing, and all of them were right.
+"I can't do this anymore," he said. Not to Miriam. To the room. To the inheritance that had been whispering in his blood since childhood. "I can't watch another kingdom crack while we pass the doubt to our children and call it wisdom."
 
-"We'll talk about it tomorrow," Miriam said. Which was what her mother had said, and her grandmother before that.
+He walked out. The door closed behind him. The lamplight steadied.
 
-Judith nodded. She didn't argue. She'd inherited that too — the patience to wait for adults to catch up.
+Nobody moved. The network's first visible fracture had just walked through the door, and nobody had a word that could bring it back.
+
+Miriam looked down at the ring. Bronze circle, warm from her skin, Shiphra's confession wound tight around her hand.
+
+*The difference between us and them is that they admit what they're doing.*
+
+She looked at her daughter. Judith's eyes were wet but her jaw was set, and Miriam recognized the expression — the same one she'd seen in the mirror every morning for thirty years. The look of someone carrying a question that had no answer, and choosing to carry it anyway.
+
+"We'll talk about it tomorrow," Miriam said.
+
+The same deferral every generation had used. The same lie. Because tomorrow would bring the same question, and the generation after that, and the one after that, and the doubt would encode alongside the love and the guilt and the reaching, accumulating in the blood until someone born a thousand years from now would feel all of it at once and have no name for what they carried.
 
 ---
 
 **OFFENSIVE NETWORK INTERLUDE**
 
-**Memphis, Egypt — 950 BCE**
+**Memphis — 950 BCE**
 
-The boy's name was Ipu, and he asked the question on the fifth day of the decan.
+"Third consecutive low flood," Pharaoh Shoshenq said, studying grain reports. "If this continues —"
 
-Khenti stood before twenty-three junior carriers in the training hall beneath the Temple of Ptah and delivered the briefing on the grain allocation plan Shoshenq had just approved. Nile flood data. Population projections. The mathematics of managed survival.
+"It will," Khenti replied. "The next five years will test Egypt's resilience."
 
-Ipu raised his hand. Seventeen. Son of a temple physician and an administrative scribe, both from carrier bloodlines paired deliberately. His activation had been strong and early, age nine.
+They were alone in the audience chamber. Khenti, Generation 10, senior operative, the man who'd replaced Senbi's generation and expanded the Order's reach into three new kingdoms. He kept his voice respectful but the content wasn't.
 
-"The subsistence populations," Ipu said. "The ones receiving minimal rations. The projections show a twelve to fifteen percent mortality increase over five years. That's roughly forty thousand people in the Nile Valley alone."
+"We identify the essential populations — priests, scribes, craftsmen, the best farmers. Allocate grain preferentially. The rest receive subsistence rations. Not enough to thrive, but enough to prevent revolt."
 
-"Forty thousand who would die *regardless* if no intervention occurs," Khenti said. "Our plan reduces total mortality by sixty percent compared to unmanaged distribution."
+"That's cold."
 
-"I understand the comparison. But I'm asking a different question." Ipu's voice was steady, almost clinical. "Has any of it actually prevented a collapse? Or have we just rearranged who dies?"
+"That's survival. Not through hope. Through design."
 
-The training hall went still.
+The pharaoh nodded. "Implement your plan."
 
-"The experiment requires patience," Khenti said. "Three thousand years. We don't abandon the approach because a seventeen-year-old read the census tallies and felt uncomfortable."
+---
 
-"I don't feel uncomfortable. I feel curious. We *see* the weak floods coming. We *see* the population stress building. And our intervention is to choose who eats. Not to prevent the shortage."
+That evening, in the training hall beneath the Temple of Ptah, Khenti stood before twenty-three junior carriers and delivered the briefing on the grain allocation plan. Nile flood data. Population projections. The mathematics of managed survival.
 
-"You can't prevent Nile floods."
+The boy's name was Ipu. Seventeen. Son of a temple physician and a scribe, both from carrier bloodlines paired deliberately. His awakening had been strong and early.
 
-"No. But you can dig canals so one bad flood doesn't kill the harvest. You can plant more than just emmer wheat so one blight doesn't starve a province. You can get Memphis talking to Thebes about sharing grain before the crisis hits instead of after." Ipu paused. "That's what Nefertari's side does. They don't pick who lives. They make it harder for everyone to die."
+"The subsistence populations," Ipu said. "The ones receiving minimal rations. The projections show twelve to fifteen percent mortality increase over five years. Roughly forty thousand people."
 
-Khenti crossed the distance between them in three steps. "The defensive network is forty families scattered across three kingdoms. We are embedded in the Egyptian royal court with sixty trained operatives and the ear of the Pharaoh. When the next civilizational collapse comes, which network survives?"
+"Forty thousand who would die regardless if no intervention occurs. Our plan reduces total mortality by sixty percent."
 
-Ipu held his gaze. "I don't know. That's why I'm asking."
+"I understand the comparison. But has any of it actually prevented a collapse? Or have we just rearranged who dies?"
 
-"The question is noted," Khenti said flatly. "The curriculum continues."
+The hall went still.
 
-But later that night, alone in his chambers, Khenti unrolled the oldest document in his personal archive: Amenhotep's original protocol notes.
+"The experiment requires patience," Khenti said. "Three thousand years."
 
-*The experiment runs for three thousand years. Both approaches tested in parallel. The approach that preserves civilization inherits the future.*
+"You can't prevent Nile floods. But you can dig canals. Plant more than emmer wheat. Get Memphis talking to Thebes before the crisis. That's what the other side does. They don't pick who lives. They make it harder for everyone to die."
 
-Preserves. Not controls. Not manages. *Preserves.*
+"The defensive network is forty families. We are embedded in the royal court with sixty operatives and the ear of the Pharaoh. When the next collapse comes, which network survives?"
 
-Amenhotep had written *preserves*. And the offensive network had spent ten generations learning to *select*.
+"I don't know," Ipu said. "That's why I'm asking."
+
+---
+
+Late that night. A knock on Khenti's door.
+
+Keret stood in the corridor. He looked like a man who'd walked a long distance to arrive at a door he'd been standing in front of for years.
+
+"I want to talk," Keret said. "About what works."
+
+Khenti stepped aside. Let him in.
 
 ---
 
@@ -345,73 +253,41 @@ Amenhotep had written *preserves*. And the offensive network had spent ten gener
 
 ---
 
----
+## CONTINUITY NOTES:
 
-## REVISION NOTES:
+### Timeline ✅
+- **950 BCE**: David dying. Solomon's succession imminent.
+- Miriam: ~27, Generation 10, David's healer for 15 years
+- Judith: ~10, Generation 11, already dreaming
+- Keret: Egyptian member, 3 years in Memphis, defects to Order
+- Khenti: Generation 10, Order senior operative
 
-### Changes Applied from Editorial Review (Round 2):
+### Love Cascade ✅
+- Miriam reads David's pulse — discovery through touch, the carrier's language
+- Cedar-and-blood memory: foundation pit, water jug, age 10 (Ch 6 murder)
+- Ring burns at moments of choice — Shiphra's guilt encoded in bronze
+- David reaches on the armrest — a non-carrier's reaching, proximity to love
+- "Forty years of standing close to the love had left a mark" — foreshadows Ch 14 overflow
+- Doubt encodes alongside love and guilt and reaching
 
-**1. Compressed opening dream re-explanation (was ~26 lines, now ~5)**:
-Eliminated full Pi-Ramesses dream replay and genetic memory mechanics explanation. Reader has seen this pattern in multiple previous chapters. Now: Miriam wakes, notes dreams are worsening, moves on.
+### Key Developments ✅
+- Miriam discovers David's double game through pulse-reading
+- David's 40-year comparison: "Your way is kinder. Their way works more often."
+- David reveals he knows about Pattern Eye under Temple — has been protecting it
+- Protection ends with his death — Solomon won't know why
+- Seven keys: David protecting one (Pattern Eye) without being asked
+- Keret defects on-page — walks out of network meeting. First visible fracture.
+- Judith's devastating line: "every city that burned had someone like us. And it burned anyway."
+- Ipu (Order trainee) asks the same doubt from the other side
 
-**2. Compressed Shiphra murder re-explanation (was ~53 lines, now ~8)**:
-Reader already experienced the murder in Ch 6. Eliminated full retelling and Judith Q&A walkthrough. Now: brief reference to "the murder dream," Judith already knows what it means, one line about the Pattern Eye, then pivot to the day's real problem.
-
-**3. Cut network meeting key-location reports (was ~42 lines, now ~18)**:
-Eliminated fourth repetition of "Pattern Eye secure / Memory Bridge survived / Distribution Network adapted" inventory check. Kept ONLY the Egyptian member's report about Order consolidating power in Egypt's priesthood — the only new information. Cut Miriam's speech about network growth statistics.
-
-**4. Killed journal entry (was ~43 lines, cut entirely)**:
-End-of-chapter written reflection restated everything the chapter already showed. Chapter now ends on Miriam's line about trusting descendants will remember what they're fighting for — stronger closer.
-
-**5. Sharpened Miriam's political voice (+8 lines)**:
-Added interior calculation before David conversation: rehearsing framing, knowing kings want solvable problems not abstractions, choosing advisor's register over prophet's. Added pivot moment before prescription: "Say it wrong and he'd defer another month." Miriam now reads as a political operator who has learned to navigate power, distinct from previous generation's carriers.
-
-**6. Compressed Memphis/Khenti scene (~40% reduction)**:
-Cut repeated philosophical framing (offensive vs. defensive explanation), compressed Shoshenq dialogue, removed Khenti's post-audience internal monologue. Kept cold calculation, cut re-explanation of contrast reader already understands.
-
-**7. David's confession scene (NEW, ~430 words)**:
-After succession chess concludes, court empties, David drops the pretense. Reveals he's tracked Miriam's family across three generations, noticed the pattern ("your eyes go somewhere else and come back with information you shouldn't have"). Reveals he's been listening to BOTH networks for forty years. Delivers two specific examples where the offensive approach produced better results (northern secession, Moabite alliance). Key line: "Your way is kinder, Miriam. Their way works more often." Warns her Solomon will align with the offensive network. Egyptian watcher overhears from the colonnade, walks away unhurried. Parting shot: "Tell your daughter she has your grandmother's hands."
-
-**8. Judith's doubt (NEW, ~150 words)**:
-End of network meeting. After Miriam's defensive-philosophy speech, Judith (10, silent all evening) speaks: "In the dreams, every city that burned had someone like us. Warning them. And it burned anyway." Twelve adults have no answer. Miriam hears David's assessment in her head and can only say "We'll talk about it tomorrow" — the same deferral every generation has used. Mirrors Ipu's question in the immediately following interlude: same doubt, both networks, same generation.
-
-### Preserved per instructions:
-- Offensive Network Interlude (Ipu questioning methodology) — kept in full
-- David succession crisis scene — kept and strengthened with confession
-- All revision notes structure
-- File markdown structure
-
-### Previous revision notes (Round 1):
-
-**TIER 1 (Critical Strengthening)**:
-1. Compressed opening dream (Lines 9-23): Reduced from ~350 words to ~280 words, cutting atmospheric detail while keeping essential collapse pattern
-2. Added explicit defensive/offensive contrast (Lines 158-168): New section showing what offensive network would do differently
-3. Fixed chapter number: Changed "END CHAPTER 4" to "END CHAPTER 6"
-4. Fixed timeline error: Removed "almost four hundred years ago" reference
-
-**TIER 2 (Clarity & Efficiency)**:
-5. Streamlined Shiphra explanation: Compressed technical details, emphasized moral choice
-6. Added trauma encoding explanation: New paragraph explaining how trauma marks the body biologically
-7. Replaced "systems thinking" terminology: Changed to "Seeing how pieces connect...The physician's way of thinking"
-8. Compressed network gathering updates: Reduced Pattern Eye/Memory Bridge status reports
-9. Tightened written reflection: Reduced from 11 lines to 8
-10. Added offensive mode definition: Brief explanation for readers who need context
-
-**TIER 3 (Polish & Enhancement)**:
-11. Enhanced Pattern Eye explanation with mechanism clarity
-12. Added sensory grounding to Memphis scene
-13. Added sensory grounding to Jerusalem scene
-14. Added emotional dimension to network scene
-15. Clarified offensive network ethics
-16. Added Distribution Network clarification
-
-### Continuity Verification:
-- Timeline: 950 BCE = 238 years after 1188 BCE
-- Generation 10: Miriam age 43, Judith age 10
-- Historical context: David's late reign, Solomon succession
-- Network evolution: 5 survivors to 40 families across 3 kingdoms
-- Genetic memory: Activation at age 5 (Gen 11) vs. age 7 (Gen 10) vs. age 12 (Gen 2)
+### Forward Continuity ✅
+- **Ch 8**: Tamar inherits doubts. "Is it worth it?" encodes.
+- **Ch 8**: Micah echoes Keret's argument: "If watching from the wall is just control with a longer lever"
+- **Ch 9**: Kingdom splits as David predicted. North fractures.
+- **Ch 10**: Pattern Eye still under Temple — David's protection fading
+- **Ch 14**: Non-carrier reaching (David) foreshadows love overflowing to forty strangers
 
 ---
 
-**END REVISION NOTES**
+**Word Count**: ~5,400 words
+**Chapter Status**: REWRITTEN — Author's Pass deep rewrite per REWRITE_PLAN_CH1_8.md

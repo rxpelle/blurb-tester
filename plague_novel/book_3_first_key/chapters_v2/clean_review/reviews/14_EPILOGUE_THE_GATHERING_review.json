@@ -1,0 +1,434 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_3_first_key/chapters_v2/clean_review/14_EPILOGUE_THE_GATHERING.md",
+  "review_date": "2026-03-27T16:45:22.056174",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Thread Tracker",
+    "Onboarding Editor",
+    "Genre Bridge Editor",
+    "Series Arc Editor",
+    "First-Time Reader",
+    "Binge-Read Tester"
+  ],
+  "notes": [
+    {
+      "persona": "Thread Tracker",
+      "severity": "critical",
+      "category": "thread management",
+      "location": "entire chapter",
+      "issue": "This epilogue resolves nearly every major thread without opening sufficient new ones for Book 4 continuation",
+      "suggestion": "Transform this from a resolution-heavy epilogue into a revelation that opens new questions. The love overflow should raise more mysteries than it answers.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "cliffhanger quality",
+      "location": "final paragraphs",
+      "issue": "Chapter ends on resolution ('He had work to do') rather than compelling forward momentum",
+      "suggestion": "End on a disturbing implication or new threat. Perhaps Simon realizes something troubling about what they've unleashed, or Jesus senses the love connecting to something unexpected.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "new thread opening",
+      "location": "love overflow sequence",
+      "issue": "The love affecting non-carriers is mentioned but not developed into a proper mystery thread",
+      "suggestion": "Have Jesus or Simon realize this shouldn't be possible according to everything they know about the bloodline. Make this a central puzzle for Book 4.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "minor",
+      "category": "mid-chapter hooks",
+      "location": "scene transitions",
+      "issue": "Smooth transitions between teaching scene, aftermath, and workshop lack tension beats",
+      "suggestion": "Add mini-cliffhangers: end teaching scene on someone's disturbing reaction, end Simon conversation on an ominous realization.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "suggestion",
+      "category": "thread seeding",
+      "location": "Simon's dialogue",
+      "issue": "Simon could plant seeds about dangerous implications of the overflow",
+      "suggestion": "Have Simon express worry: 'What if it reaches the wrong people? What if Rome feels this?' Create new threat vectors.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "critical",
+      "category": "concept introduction sequence",
+      "location": "paragraph 3",
+      "issue": "Multiple technical concepts introduced rapidly without grounding in character experience first",
+      "suggestion": "Show Jesus experiencing fragmented memories/knowledge before naming 'inherited memory,' 'collapse patterns,' 'palace fires'",
+      "example_before": "he knew the collapse patterns and the palace fires and the smell of burning papyrus \u2014 through inherited memory so vivid it was indistinguishable from experience",
+      "example_after": "Images would flash through his mind: stone walls cracking in geometric lines he'd never seen but somehow recognized, smoke rising from buildings with impossible angles, the acrid smell of something burning that wasn't wood or cloth. Only later did he understand these weren't his memories at all, but something passed down, worn smooth by forty-two generations of telling."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "jargon before drama",
+      "location": "paragraph 4",
+      "issue": "Technical terminology ('hieratic script') appears before reader experiences what this knowledge feels like",
+      "suggestion": "Show the physical sensation of knowing how to hold something you've never held, then reveal the technical term",
+      "example_before": "the grip of someone trained in hieratic script",
+      "example_after": "fingers angled in a way that felt practiced, natural, though he'd never held such an instrument \u2014 the grip of someone trained in hieratic script, his mind supplied, though he didn't know where that knowledge came from"
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "major",
+      "category": "emotional hook first",
+      "location": "paragraphs 1-6",
+      "issue": "The opening warmth sensation is excellent, but technical concepts intrude before we're fully invested in the emotional experience",
+      "suggestion": "Expand the visceral experience of the warmth and phantom touch for several more paragraphs before any technical terms appear",
+      "example_before": "Some mornings he woke with tears on his face and didn't know whose grief he was crying, theirs or his own. The answer, he'd come to understand, was both. Twelve hundred years of love encoded in his body.",
+      "example_after": "Some mornings he woke with tears on his face \u2014 not his tears, somehow, though they fell from his eyes. Grief for someone he'd never met, loss so deep it had worn grooves in his very bones. He carried sorrows older than empires, love letters written in the alphabet of his blood."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "terminology dumps",
+      "location": "final dialogue section",
+      "issue": "Simon's speech contains too many concept names in quick succession",
+      "suggestion": "Break up the technical terms with more experiential description",
+      "example_before": "Not the systems theory. Not the seeing. Not the keys or the network or the Protocol.",
+      "example_after": "Not the ability to see patterns others missed. Not the fragments of ancient knowledge. Not whatever system once connected them all."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "suggestion",
+      "category": "show-before-name",
+      "location": "paragraph 7",
+      "issue": "The hillside scene is masterfully done - pure experience before any labeling. This is the gold standard the rest should follow",
+      "suggestion": "This section demonstrates perfect concept onboarding - use this as the template for earlier sections",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "progressive disclosure",
+      "location": "paragraph 3",
+      "issue": "The phrase 'forty-two generations' gives away too much scale too early",
+      "suggestion": "Save the specific number for later revelation, focus on the feeling of vast time passing",
+      "example_before": "Twelve hundred years of love encoded in his body",
+      "example_after": "Centuries of love encoded in his body"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "critical",
+      "category": "speculative grounding",
+      "location": "paragraph 4-6 and hillside scene",
+      "issue": "The 'blood memory' concept lacks sufficient scientific grounding for historical fiction readers. The mechanism feels too fantasy-like without connection to real genetic/psychological research on inherited trauma or cellular memory.",
+      "suggestion": "Add subtle references to actual epigenetic research or historical practices of ancestral veneration. Perhaps mention how trauma researchers have found evidence of inherited emotional patterns, or connect to documented cases of cellular memory in organ transplants. A single line could bridge the gap: 'the way his mother's midwife had insisted that grief lived in the body, passed through blood like a sickness that strengthened rather than weakened.'",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "paragraphs 4-8 (hand memory section)",
+      "issue": "Four consecutive paragraphs of internal reflection with no dialogue, action, or plot advancement. Thriller readers will skim or abandon here.",
+      "suggestion": "Break up with sensory details tied to action: Jesus working with tools, sounds from outside, physical movement. Intersperse shorter paragraphs. Add a triggering event - perhaps he cuts himself and the blood triggers the memory, creating a concrete anchor.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "historical anchor points",
+      "location": "hillside scene",
+      "issue": "The mass emotional experience needs stronger connection to documented historical practices. Currently reads too much like modern therapeutic group experience.",
+      "suggestion": "Ground in actual 1st century practices: collective mourning rituals, mystery religions' communal experiences, or documented cases of religious ecstasy from the period. Reference familiar elements: 'the way mourners keened together at funerals' or 'like the pilgrims he'd seen returning from the Mysteries at Eleusis.'",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "suspension of disbelief",
+      "location": "the love overflow scene",
+      "issue": "The hardest ask - that love can physically transfer between unrelated people - isn't sufficiently earned. Needs more gradual build-up or stronger metaphysical framework that doesn't feel like magic.",
+      "suggestion": "Build through earlier, smaller instances. Perhaps Jesus has noticed that people around him seem calmer, or that arguments stop when he's present. Establish a pattern before the major overflow. Connect to documented phenomena of emotional contagion or group psychology.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "genre friction - literary vs thriller",
+      "location": "final three paragraphs",
+      "issue": "The contemplative ending works for literary readers but may frustrate thriller readers expecting clear resolution or next-step setup.",
+      "suggestion": "Add a concrete forward-looking element: 'Tomorrow he would return to the hillside' or a specific decision about how to handle this new development. Give thriller readers a sense of momentum while preserving the literary reflection.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "suggestion",
+      "category": "bridge moment enhancement",
+      "location": "Simon's dialogue section",
+      "issue": "This scene successfully serves all three audiences but could be strengthened with more specific historical detail.",
+      "suggestion": "Add period-appropriate metaphors: instead of 'like a well works,' use 'like the aqueducts that feed Caesarea' - concrete Roman engineering that grounds the metaphor in their world while maintaining the universal truth.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "suggestion",
+      "category": "literary depth",
+      "location": "throughout",
+      "issue": "Some beautiful prose moments, but could use more sensory specificity to match literary fiction standards.",
+      "suggestion": "Enhance with more precise sensory details: specific bird calls, exact textures of different stones, particular qualities of Galilean light. Replace generic descriptions with hyper-specific ones that evoke place and time.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "critical",
+      "category": "throughline momentum",
+      "location": "entire epilogue",
+      "issue": "This epilogue resolves too much while advancing too little. The love echo reaches its crescendo and overflow, but no other throughlines progress. The Order disappears entirely, the keys aren't mentioned, and the philosophical debate gets only oblique treatment.",
+      "suggestion": "Add at least one scene showing Order surveillance of this event, or have Jesus/Simon discuss the implications for the hidden knowledge network. The love overflow should create new problems, not just resolution.",
+      "example_before": "No mention of consequences or pursuit",
+      "example_after": "A closing scene of Roman informants reporting unusual gatherings, or Jesus realizing this display will draw unwanted attention to carriers"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "chapter handoff",
+      "location": "final paragraphs",
+      "issue": "The ending is too complete and peaceful. 'He had work to do' is generic. What specific urgent question pulls the reader into Book 4?",
+      "suggestion": "End with a concrete cliffhanger: news of other carriers being tracked, a decision about whether to teach the deeper knowledge, or recognition that the overflow event will have consequences.",
+      "example_before": "He opened his eyes. Lowered his hand. Picked up his tools. The love doesn't resolve into understanding. It resolves into action. He had work to do.",
+      "example_after": "He opened his eyes. Lowered his hand. And heard footsteps on the street outside \u2014 measured, purposeful, the cadence of men who weren't from Nazareth. The love had overflowed. Someone had been watching."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "motif progression",
+      "location": "throughout",
+      "issue": "The reaching gesture appears repeatedly but doesn't evolve or connect to broader implications. It remains purely emotional/personal rather than advancing plot threads.",
+      "suggestion": "Connect the reaching gesture to the keys or hidden knowledge. Perhaps Jesus realizes the gesture itself contains encoded information, or that his reaching is actually seeking something concrete.",
+      "example_before": "His left hand moved. Reached to the side. Found nothing.",
+      "example_after": "His left hand moved. Reached to the side. And for the first time, the gesture felt different \u2014 not random, not empty longing, but precise. Seeking something specific. Something that was supposed to be there."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "thread dormancy",
+      "location": "entire epilogue",
+      "issue": "Three of four throughlines (Order, keys, philosophical debate) go completely dormant. This creates a momentum killer where only the love echo advances.",
+      "suggestion": "Weave in at least one other thread subtly. The Order could be monitoring unusual gatherings. Jesus could realize the love overflow might compromise carrier secrecy. The philosophical question could emerge: should this power be controlled or freely shared?",
+      "example_before": "No mention of other throughlines",
+      "example_after": "Brief scene of Jesus recognizing that displaying this power openly violates the ancient protocols of secrecy, creating internal conflict about preservation vs sharing"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "minor",
+      "category": "connective tissue",
+      "location": "middle section",
+      "issue": "Missing callbacks to specific earlier characters or events. The love echo's progression feels disconnected from the specific lovers and carriers we've seen.",
+      "suggestion": "Include brief references to specific predecessors: 'He knew the way she held a stylus' could reference Nefertari specifically, or mention the particular losses of recent carriers.",
+      "example_before": "Generic references to 'someone' and 'two people'",
+      "example_after": "He knew her hands \u2014 Nefertari's hands, though he'd never seen them except through twelve centuries of inherited memory"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "suggestion",
+      "category": "pacing",
+      "location": "crowd scene",
+      "issue": "The hillside scene, while beautifully written, takes up nearly half the chapter without advancing plot threads. It's pure resolution rather than progression.",
+      "suggestion": "Maintain the emotional power but add subtle plot elements: someone in the crowd who shouldn't be there, Jesus noticing he's being watched, or a realization that this event will have consequences.",
+      "example_before": "Pure focus on emotional overflow",
+      "example_after": "Include a figure at the crowd's edge taking notes, or Jesus sensing something beyond the love echo \u2014 a different kind of attention"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "series entry confusion",
+      "location": "opening paragraphs",
+      "issue": "The chapter begins with Jesus having mysterious 'warmth' and 'inherited memory' with no context for new readers about what this means or why he has it",
+      "suggestion": "Add 2-3 sentences early on explaining that Jesus carries memories from ancestors he's never met, establishing this as a hereditary phenomenon",
+      "example_before": "Not fever. Not sunlight. Something internal, a heat that lived on the left side of his chest",
+      "example_after": "Not fever. Not sunlight. Something internal, a heat that lived on the left side of his chest\u2014a warmth that came from memories not his own, inherited through bloodlines he barely understood"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "assumed knowledge",
+      "location": "paragraph 3",
+      "issue": "References to 'collapse patterns,' 'palace fires,' and 'burning papyrus' assume knowledge of historical events from previous books",
+      "suggestion": "Either remove these specific references or add brief context like 'visions of ancient catastrophes' or 'inherited memories of civilizations falling'",
+      "example_before": "he knew the collapse patterns and the palace fires and the smell of burning papyrus",
+      "example_after": "he knew visions of ancient catastrophes\u2014collapsing civilizations, burning palaces, the acrid smell of destroyed libraries"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "character introduction",
+      "location": "paragraphs 4-5",
+      "issue": "The 'her' and 'him' that Jesus remembers are never identified. New readers have no idea these are Nefertari and Amenhotep from previous books",
+      "suggestion": "Add a sentence indicating these are ancient lovers whose memories live in his bloodline, perhaps with names or time period",
+      "example_before": "He knew her hands. Small, precise, scarred on the left thumb",
+      "example_after": "He knew her hands\u2014some ancient woman whose love had echoed through centuries to reach him. Small, precise, scarred on the left thumb"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "jargon without context",
+      "location": "paragraph 8",
+      "issue": "'Generation 42' in the header and references to bloodlines carrying memories need explanation for new readers",
+      "suggestion": "Add a line explaining that memories pass through family lines, and this is the 42nd generation since the original lovers",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "world-building gaps",
+      "location": "Simon's dialogue section",
+      "issue": "Simon mentions 'the blood,' 'blood memory,' 'carriers,' and 'bloodline' as if these are established concepts, but new readers don't know what any of these terms mean",
+      "suggestion": "Have Simon explain what he means: 'I've had the inherited memories my whole life' or 'I'm from one of the families that carries these ancient memories'",
+      "example_before": "I've had the blood my whole life",
+      "example_after": "I've had the inherited memories my whole life\u2014I'm from one of the bloodlines that carries them"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "assumed knowledge",
+      "location": "Simon's dialogue",
+      "issue": "References to 'the old skill,' 'physician's eye,' 'systems theory,' 'keys,' 'network,' and 'Protocol' are unexplained jargon from previous books",
+      "suggestion": "Either remove these terms or provide minimal context. New readers don't need to understand the full mythology, but they need to know these are inherited abilities/knowledge",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "character introduction",
+      "location": "Simon's first appearance",
+      "issue": "Simon appears without introduction. New readers don't know who he is or his relationship to Jesus",
+      "suggestion": "Add a brief identifier: 'Simon, who had been following his teachings' or 'his closest follower Simon'",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "lost moments",
+      "location": "final dedication",
+      "issue": "The dedication to 'Nefertari and Amenhotep' confirms these are the mystery lovers, but only for readers who recognize the names from previous books",
+      "suggestion": "This is actually fine\u2014it rewards series readers without confusing new ones, as the dedication feels appropriately mysterious",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "suggestion",
+      "category": "emotional access",
+      "location": "throughout",
+      "issue": "While the specific mythology is confusing, the emotional core (inherited love, Jesus's ministry beginning) is accessible",
+      "suggestion": "The chapter succeeds emotionally even when the details are unclear. Consider this a strength to preserve while adding minimal context",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "first page test failure",
+      "location": "opening paragraphs",
+      "issue": "The chapter opens with vague introspection about mysterious 'warmth' - no immediate hook, action, or compelling mystery. A tired reader has no reason to continue past the first page.",
+      "suggestion": "Start with the hillside scene in media res. Open with Jesus mid-teaching when 'it moved' and the woman in front changes. Flash back to the warmth later if needed.",
+      "example_before": "The warmth had been there as long as he could remember. Not fever. Not sunlight. Something internal...",
+      "example_after": "The woman in the front row was listening with half-attention when it reached her. Her face changed - not gradually, all at once - and Jesus realized the warmth in his chest wasn't staying put anymore."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "put-down point",
+      "location": "paragraphs 3-6",
+      "issue": "Extended introspective passage about inherited memories and phantom hand-holding kills momentum. This is where tired readers abandon ship - it's all internal, no external action or dialogue.",
+      "suggestion": "Cut 80% of this. One paragraph maximum establishing he carries ancestral memories, then move to action/dialogue/scene.",
+      "example_before": "He'd never held anyone's hand that way... [entire section about knowing their hands/breathing/etc.]",
+      "example_after": "He carried their memories - her scarred hands, his copper-dusted clothes - love so deep it had survived twelve centuries. Some mornings he woke crying their grief."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "scene transition momentum",
+      "location": "transition to hillside scene",
+      "issue": "No clear scene break or transition signal. Reader doesn't realize we're moving from backstory to the main event. The hillside scene is buried after 800 words of setup.",
+      "suggestion": "Add clear scene break. Make the hillside the opening scene, or signal the transition dramatically.",
+      "example_before": "He felt it all. --- The first time it happened...",
+      "example_after": "Then one morning beside the lake, everything changed. [scene break] The crowd was small - maybe forty people..."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "minor",
+      "category": "engagement killer",
+      "location": "hillside crowd descriptions",
+      "issue": "Too much detailed scene-setting (basalt pebbles, tax booth, fish-salting works) when reader wants to see the supernatural event unfold.",
+      "suggestion": "Cut descriptive detail by half. Focus on faces and reactions, not landscape.",
+      "example_before": "Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass...",
+      "example_after": "Forty people on the hillside, fishermen's families mostly, listening while Jesus explained his parable about seeds."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "suggestion",
+      "category": "page-turner moment enhancement",
+      "location": "the spreading effect",
+      "issue": "The supernatural spreading through the crowd is compelling but could be more visceral and immediate.",
+      "suggestion": "Shorter sentences during the spreading. More dialogue/sounds from the crowd. Make it feel more urgent and overwhelming.",
+      "example_before": "It was spreading. A young mother three rows back...",
+      "example_after": "It jumped to the next person. Then the next. The young mother gasped. The twelve-year-old boy fought tears and lost. 'What's happening?' someone whispered."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "engagement killer",
+      "location": "Jesus-Simon dialogue",
+      "issue": "Long philosophical discussion about wells and rivers and what it all means. Classic momentum killer - two characters sitting and explaining themes to each other.",
+      "suggestion": "Cut dialogue by 60%. Focus on Simon's physical experience and Jesus's uncertainty. Less philosophy, more emotional reality.",
+      "example_before": "[entire well/river metaphor section]",
+      "example_after": "Simon pressed his hand to his chest. 'I felt them. Two people. Then twelve hundred years of missing them.' Jesus had no answer. He didn't understand it either."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "chapter ending weakness",
+      "location": "final paragraphs",
+      "issue": "Chapter ends with Jesus alone in his workshop having quiet realizations. No cliffhanger, no urgent question, no reason to turn the page. Compulsion to continue: 3/10.",
+      "suggestion": "End with external conflict or mysterious arrival. Someone seeking him out, or a vision of what's coming, or news that changes everything.",
+      "example_before": "He opened his eyes. Lowered his hand. Picked up his tools. The love doesn't resolve into understanding. It resolves into action. He had work to do.",
+      "example_after": "He opened his eyes. Lowered his hand. Footsteps on the street outside - multiple people, moving with purpose. Someone had followed him from the lake. The love was spreading faster than he'd imagined."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "minor",
+      "category": "one more chapter test",
+      "location": "overall pacing",
+      "issue": "Beautiful writing but too much internal processing, not enough external stakes. At midnight, this reads like literary fiction requiring mental energy, not addictive page-turner.",
+      "suggestion": "Add subplot threads: Roman attention, religious authorities reacting, followers seeking him out. Create external pressure that makes the supernatural element feel urgent rather than contemplative.",
+      "example_before": null,
+      "example_after": null
+    }
+  ],
+  "summary": "Review complete: 41 notes from 6 personas. Critical: 9, Major: 16, Minor: 9, Suggestions: 7. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 9,
+    "major": 16,
+    "minor": 9,
+    "suggestion": 7,
+    "total": 41
+  }
+}

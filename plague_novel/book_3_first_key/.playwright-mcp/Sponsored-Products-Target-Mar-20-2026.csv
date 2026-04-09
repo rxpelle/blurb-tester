@@ -1,0 +1,93 @@
+﻿State,Keyword,Target match type,Status,Suggested bid (low)(USD),Suggested bid (median)(USD),Suggested bid (high)(USD),Bid (USD),Impressions,Top-of-search impression share,Clicks,CTR,Total cost (USD),CPC (USD),Purchases,Sales (USD),ACOS,KENP read,Estimated KENP royalties (USD)
+ENABLED,14th century novel,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,1.5,3,0,1,0.3333,0.55,0.55,1,9.99,0.0551,0,0
+PAUSED,ancient conspiracy,Broad,CAMPAIGN_OUT_OF_BUDGET,0.32,0.42,0.53,0.42,2,50.00%,0,0,0,0,0,0,0,0,0
+PAUSED,ancient conspiracy books,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.36,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,arturo perez-reverte,Broad,CAMPAIGN_OUT_OF_BUDGET,0.25,0.33,0.41,0.33,84,0,0,0,0,0,0,0,0,0,0
+ENABLED,black death fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,0.96,1.28,1.6,0.78,25,50.00%,0,0,0,0,0,0,0,0,0
+ENABLED,black death novel,Broad,CAMPAIGN_OUT_OF_BUDGET,0.3,0.4,0.5,0.4,6,0,0,0,0,0,0,0,0,0,0
+PAUSED,c.j. sansom,Broad,CAMPAIGN_OUT_OF_BUDGET,0.74,0.96,1.07,1.17,41,0,0,0,0,0,0,0,0,0,0
+ENABLED,church conspiracy novel,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,church conspiracy novel,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,church conspiracy novel,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,cipher mystery,Broad,CAMPAIGN_OUT_OF_BUDGET,1.13,1.51,1.89,1.2,44,0,0,0,0,0,0,0,0,0,0
+PAUSED,conspiracy thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,1.6,2.13,2.66,2.13,141,<5%,1,0.0071,1.03,1.03,0,0,0,0,0
+PAUSED,conspiracy thriller books,Broad,CAMPAIGN_OUT_OF_BUDGET,1.54,2.05,2.56,0.75,187,0,0,0,0,0,0,0,0,0,0
+PAUSED,conspiracy thrillers,Broad,CAMPAIGN_OUT_OF_BUDGET,1.6,2.13,2.66,2.13,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,cryptography thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,cryptography thriller,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,cryptography thriller,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,dan brown,Broad,CAMPAIGN_OUT_OF_BUDGET,0.52,0.86,1.15,0.86,197,0,0,0,0,0,0,0,0,0,0
+ENABLED,dark ages fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,0.62,0.82,1.02,0.73,11,0,0,0,0,0,0,0,0,0,0
+PAUSED,dissolution sansom,Broad,CAMPAIGN_OUT_OF_BUDGET,0.65,0.86,1.08,0.86,43,0,0,0,0,0,0,0,0,0,0
+PAUSED,elizabeth kostova,Broad,CAMPAIGN_OUT_OF_BUDGET,0.27,0.36,0.45,0.36,96,0,0,0,0,0,0,0,0,0,0
+PAUSED,foundation asimov,Broad,CAMPAIGN_OUT_OF_BUDGET,0.5,0.57,0.83,0.28,9,0,0,0,0,0,0,0,0,0,0
+PAUSED,geraldine brooks,Broad,CAMPAIGN_OUT_OF_BUDGET,0.72,0.96,1.2,0.96,46,0,0,0,0,0,0,0,0,0,0
+PAUSED,historical conspiracy,Broad,CAMPAIGN_OUT_OF_BUDGET,1.62,2.16,2.7,0.75,22,60.00%,0,0,0,0,0,0,0,0,0
+PAUSED,historical conspiracy books,Broad,CAMPAIGN_OUT_OF_BUDGET,2,2.26,2.91,2.27,4,50.00%,0,0,0,0,0,0,0,0,0
+PAUSED,historical conspiracy novels,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.36,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,historical conspiracy thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,1.63,2.17,2.71,0.75,22,0,0,0,0,0,0,0,0,0,0
+ENABLED,historical fiction dark ages,Broad,CAMPAIGN_OUT_OF_BUDGET,0.62,0.82,1.02,0.57,12,0,0,0,0,0,0,0,0,0,0
+ENABLED,historical fiction kindle unlimited,Broad,CAMPAIGN_OUT_OF_BUDGET,0.87,1.16,1.45,0.65,252,0,2,0.0079,1.05,0.53,0,0,0,348,1.61
+PAUSED,historical fiction medieval,Broad,CAMPAIGN_OUT_OF_BUDGET,0.52,0.76,1.14,0.75,525,<5%,2,0.0038,1.5,0.75,0,0,0,0,0
+PAUSED,historical fiction middle ages,Broad,CAMPAIGN_OUT_OF_BUDGET,0.64,0.85,1.06,0.84,104,0,1,0.0096,0.74,0.74,0,0,0,0,0
+ENABLED,historical fiction thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,1.16,1.55,1.94,1.55,25553,<5%,29,0.0011,39,1.34,3,11.97,3.2581,0,0
+ENABLED,historical mysteries kindle unlimited,Broad,CAMPAIGN_OUT_OF_BUDGET,1.05,1.4,1.75,1.4,532,0,1,0.0019,1.38,1.38,0,0,0,0,0
+PAUSED,historical mystery fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,1.03,1.37,1.71,1.39,1892,0,3,0.0016,3.64,1.21,1,0.99,3.6768,0,0
+ENABLED,historical mystery medieval,Broad,CAMPAIGN_OUT_OF_BUDGET,1.07,1.42,1.78,1.42,57,0,0,0,0,0,0,0,0,0,0
+ENABLED,historical mystery series,Broad,CAMPAIGN_OUT_OF_BUDGET,1.75,2.33,2.91,1.79,34188,0,29,0.0008,45.83,1.58,1,0.99,46.2929,0,0
+ENABLED,historical mystery thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,1.07,1.42,1.78,1.43,117,<5%,0,0,0,0,0,0,0,0,0
+ENABLED,illuminati fiction,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,illuminati fiction,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,illuminati fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,1.07,1.42,1.78,1.42,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,intellectual thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,0.91,1.21,1.51,0.42,1,0,0,0,0,0,0,0,0,0,0
+PAUSED,kate mosse,Broad,CAMPAIGN_OUT_OF_BUDGET,0.32,0.37,0.46,0.41,29,0,0,0,0,0,0,0,0,0,0
+PAUSED,kate mosse,Exact,CAMPAIGN_OUT_OF_BUDGET,0.35,0.46,0.58,1.25,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,ken follett,Broad,CAMPAIGN_OUT_OF_BUDGET,0.91,1.21,1.51,0.87,539,0,0,0,0,0,0,0,0,0,0
+PAUSED,ken follett,Exact,CAMPAIGN_OUT_OF_BUDGET,1.79,2.38,2.97,1.5,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,labyrinth kate mosse,Broad,CAMPAIGN_OUT_OF_BUDGET,0.41,0.6,0.68,0.39,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,manuscript mystery,Broad,CAMPAIGN_OUT_OF_BUDGET,0.52,0.69,0.86,0.71,2,0,0,0,0,0,0,0,0,0,0
+PAUSED,matthew pearl,Broad,CAMPAIGN_OUT_OF_BUDGET,0.49,0.65,0.81,0.39,182,0,0,0,0,0,0,0,0,0,0
+PAUSED,medieval fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,0.52,0.75,0.94,0.76,644,5.32%,5,0.0078,3.25,0.65,1,0.99,3.2828,158,0.73
+PAUSED,medieval fiction books,Broad,CAMPAIGN_OUT_OF_BUDGET,0.94,1.25,1.45,0.8,1856,17.70%,3,0.0016,1.88,0.63,0,0,0,0,0
+ENABLED,medieval historical thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,0.43,0.49,0.61,0.49,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval monastery mystery,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval monastery mystery,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval monastery mystery,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,medieval mystery,Broad,CAMPAIGN_OUT_OF_BUDGET,0.55,0.71,0.89,0.72,668,5.83%,3,0.0045,2.03,0.68,0,0,0,40,0.18
+PAUSED,medieval mystery,Exact,CAMPAIGN_OUT_OF_BUDGET,0.45,0.6,0.75,0.6,33,<5%,1,0.0303,0.6,0.6,0,0,0,0,0
+ENABLED,medieval mystery thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,0.43,0.49,0.61,0.78,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval plague fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,1.23,1.64,2.05,1.64,2,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval plague novel,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval scribe novel,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,0.39,0.48,0.54,0.48,1,0,0,0,0,0,0,0,0,0,0
+ENABLED,medieval thrillers,Broad,CAMPAIGN_OUT_OF_BUDGET,0.39,0.48,0.54,0.48,42,40.00%,0,0,0,0,0,0,0,0,0
+ENABLED,monastery mystery,Broad,CAMPAIGN_OUT_OF_BUDGET,0.91,1.21,1.51,1.21,11,0,0,0,0,0,0,0,0,0,0
+PAUSED,name of the rose umberto eco,Broad,CAMPAIGN_OUT_OF_BUDGET,1.52,2.02,2.53,1.96,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,pillars of the earth,Broad,CAMPAIGN_OUT_OF_BUDGET,2.07,2.76,4.04,0.75,511,0,0,0,0,0,0,0,0,0,0
+PAUSED,pillars of the earth,Exact,CAMPAIGN_OUT_OF_BUDGET,3,4,5.67,1.6,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,plague fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,0.51,0.65,0.78,1.19,20,16.67%,0,0,0,0,0,0,0,0,0
+ENABLED,plague fiction,Exact,CAMPAIGN_OUT_OF_BUDGET,0.49,0.65,0.81,0.55,4,0,0,0,0,0,0,0,0,0,0
+ENABLED,plague historical fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,0.94,1.25,1.56,0.75,29,0,0,0,0,0,0,0,0,0,0
+ENABLED,plague novel,Broad,CAMPAIGN_OUT_OF_BUDGET,0.8,1.07,1.34,1.07,73,57.14%,1,0.0137,0.7,0.7,0,0,0,0,0
+ENABLED,race against time suspense,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,race against time suspense,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,race against time suspense,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,religious intrigue novel,Broad,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,religious intrigue novel,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,religious intrigue novel,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,secret society thriller,Broad,CAMPAIGN_OUT_OF_BUDGET,0.98,1.3,1.63,1.3,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,secret society thriller,Phrase,CAMPAIGN_OUT_OF_BUDGET,0.25,0.33,0.41,0.33,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,secret society thriller,Exact,CAMPAIGN_OUT_OF_BUDGET,0.32,0.35,0.41,0.35,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,templar knights fiction,Phrase,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,templar knights fiction,Exact,CAMPAIGN_OUT_OF_BUDGET,,,,0.75,0,0,0,0,0,0,0,0,0,0,0
+ENABLED,templar knights fiction,Broad,CAMPAIGN_OUT_OF_BUDGET,0.38,0.51,0.64,0.51,0,0,0,0,0,0,0,0,0,0,0
+PAUSED,the club dumas,Broad,CAMPAIGN_OUT_OF_BUDGET,0.33,0.49,0.54,0.56,50,0,0,0,0,0,0,0,0,0,0
+ENABLED,the club dumas,Exact,CAMPAIGN_OUT_OF_BUDGET,0.34,0.45,0.56,0.35,109,0,0,0,0,0,0,0,0,0,0
+PAUSED,the historian,Broad,CAMPAIGN_OUT_OF_BUDGET,0.56,0.75,0.94,0.69,51,0,0,0,0,0,0,0,0,0,0
+PAUSED,the historian,Exact,CAMPAIGN_OUT_OF_BUDGET,0.32,0.43,0.54,1.25,1,0,0,0,0,0,0,0,0,0,0
+PAUSED,the name of the rose,Broad,CAMPAIGN_OUT_OF_BUDGET,1.55,2.07,2.59,0.75,990,0,1,0.0010,2.04,2.04,0,0,0,0,0
+ENABLED,the name of the rose,Exact,CAMPAIGN_OUT_OF_BUDGET,1.52,2.02,2.53,0.75,445,0,0,0,0,0,0,0,0,0,0
+ENABLED,the shadow of the wind,Broad,CAMPAIGN_OUT_OF_BUDGET,0.53,0.6,0.68,0.4,316,0,0,0,0,0,0,0,0,0,0
+PAUSED,umberto eco,Broad,CAMPAIGN_OUT_OF_BUDGET,1.47,1.96,2.45,0.99,1148,0,2,0.0017,1.64,0.82,0,0,0,0,0
+PAUSED,umberto eco,Exact,CAMPAIGN_OUT_OF_BUDGET,0.37,0.49,0.61,0.97,101,0,1,0.0099,0.74,0.74,0,0,0,0,0
+ENABLED,umberto eco books,Broad,CAMPAIGN_OUT_OF_BUDGET,0.33,0.41,0.46,0.98,341,0,0,0,0,0,0,0,0,0,0

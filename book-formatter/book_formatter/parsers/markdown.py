@@ -139,6 +139,32 @@ def _parse_chapter_file(filepath: str, default_number: int) -> Chapter:
         '', content, flags=re.MULTILINE
     )
 
+    # Remove CONTINUITY NOTES / EPILOGUE NOTES sections (editorial, not for publication)
+    content = re.sub(
+        r'\n+(?:##?\s*)?(?:\*\*)?(?:CHAPTER \d+ )?(?:CONTINUITY|EPILOGUE) NOTES:?\*?\*?\s*\n.*',
+        '', content, flags=re.DOTALL
+    )
+
+    # Scene break cleanup: remove --- before ## SCENE headings, then convert headings to ---
+    content = re.sub(r'\n---\n+(?=## SCENE \d+)', '\n', content)
+    content = re.sub(r'^## SCENE \d+.*$', '---', content, flags=re.MULTILINE)
+
+    # Collapse any consecutive --- markers (even with blank lines between) into a single one
+    content = re.sub(r'---\s*\n(\s*\n)*\s*---', '---', content)
+
+    # Remove END OF BOOK markers and surrounding ---
+    content = re.sub(r'\*\*END OF BOOK.*$', '', content, flags=re.MULTILINE | re.DOTALL)
+
+    # Fix setext heading bug: ensure blank line before every --- separator
+    content = re.sub(r'([^\n])\n---', r'\1\n\n---', content)
+
+    # Remove duplicate subtitle lines
+    content = re.sub(r'^## CHAPTER \d+:.*$\n?', '', content, flags=re.MULTILINE)
+    content = re.sub(r'^## ".*"$\n?', '', content, flags=re.MULTILINE)
+
+    # Remove stray --- that appears right after the chapter header (between title and first content)
+    content = re.sub(r'(^# .+\n)\n*---\n', r'\1\n', content, flags=re.MULTILINE)
+
     word_count = len(content.split())
 
     chapter = Chapter(

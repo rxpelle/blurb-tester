@@ -1,0 +1,1140 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - navigation "Shortcuts menu" [ref=e4]:
+      - heading "Skip to" [level=2] [ref=e5]
+      - list "Skip to" [ref=e6]:
+        - listitem [ref=e7]:
+          - link "main content" [ref=e8] [cursor=pointer]:
+            - /url: "#skippedLink"
+            - text: Main content
+      - separator [ref=e9]
+      - heading "Keyboard shortcuts" [level=2] [ref=e10]
+      - list "Keyboard shortcuts" [ref=e11]:
+        - listitem [ref=e12]:
+          - link "Search, option, forward slash" [ref=e13] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=e14]:
+              - generic [ref=e15]: Search
+              - generic [ref=e16]:
+                - generic [ref=e17]: opt
+                - generic [ref=e18]: +
+                - generic [ref=e19]: /
+        - listitem [ref=e20]:
+          - link "Cart, shift, option, c" [ref=e21] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=e22]:
+              - generic [ref=e23]: Cart
+              - generic [ref=e24]:
+                - generic [ref=e25]: shift
+                - generic [ref=e26]: +
+                - generic [ref=e27]: opt
+                - generic [ref=e28]: +
+                - generic [ref=e29]: C
+        - listitem [ref=e30]:
+          - link "Home, shift, option, h" [ref=e31] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=e32]:
+              - generic [ref=e33]: Home
+              - generic [ref=e34]:
+                - generic [ref=e35]: shift
+                - generic [ref=e36]: +
+                - generic [ref=e37]: opt
+                - generic [ref=e38]: +
+                - generic [ref=e39]: H
+        - listitem [ref=e40]:
+          - link "Your orders, shift, option, o" [ref=e41] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=e42]:
+              - generic [ref=e43]: Orders
+              - generic [ref=e44]:
+                - generic [ref=e45]: shift
+                - generic [ref=e46]: +
+                - generic [ref=e47]: opt
+                - generic [ref=e48]: +
+                - generic [ref=e49]: O
+        - listitem [ref=e50]:
+          - button "Show/hide shortcuts, shift, option, z" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - generic [ref=e53]: Show/Hide shortcuts
+              - generic [ref=e54]:
+                - generic [ref=e55]: shift
+                - generic [ref=e56]: +
+                - generic [ref=e57]: opt
+                - generic [ref=e58]: +
+                - generic [ref=e59]: Z
+      - generic [ref=e65]: To move between items, use your keyboard's up or down arrows.
+    - banner [ref=e66]:
+      - navigation "Primary" [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - generic [ref=e70]:
+              - link "Amazon Prime" [ref=e71] [cursor=pointer]:
+                - /url: /ref=nav_logo
+              - generic:
+                - link:
+                  - /url: /ref=nav_logo_prime
+            - button "Deliver to randolph Portland 97219‌" [ref=e74] [cursor=pointer]:
+              - generic [ref=e76]:
+                - generic [ref=e77]: Deliver to randolph
+                - generic [ref=e78]: Portland 97219‌
+          - search [ref=e81]:
+            - generic [ref=e84]:
+              - generic [ref=e86]: All
+              - combobox "Select the department you want to search in" [ref=e88] [cursor=pointer]:
+                - option "All Departments" [selected]
+                - option "Alexa Skills"
+                - option "Amazon Autos"
+                - option "Amazon Devices"
+                - option "Amazon Fresh"
+                - option "Amazon Global Store"
+                - option "Amazon Haul"
+                - option "Amazon One Medical"
+                - option "Amazon Pharmacy"
+                - option "Amazon Resale"
+                - option "Appliances"
+                - option "Apps & Games"
+                - option "Arts, Crafts & Sewing"
+                - option "Audible Books & Originals"
+                - option "Automotive Parts & Accessories"
+                - option "Baby"
+                - option "Beauty & Personal Care"
+                - option "Books"
+                - option "CDs & Vinyl"
+                - option "Cell Phones & Accessories"
+                - option "Clothing, Shoes & Jewelry"
+                - option "Women's Clothing, Shoes & Jewelry"
+                - option "Men's Clothing, Shoes & Jewelry"
+                - option "Girl's Clothing, Shoes & Jewelry"
+                - option "Boy's Clothing, Shoes & Jewelry"
+                - option "Baby Clothing, Shoes & Jewelry"
+                - option "Collectibles & Fine Art"
+                - option "Computers"
+                - option "Credit and Payment Cards"
+                - option "Digital Music"
+                - option "Electronics"
+                - option "Garden & Outdoor"
+                - option "Gift Cards"
+                - option "Grocery & Gourmet Food"
+                - option "Handmade"
+                - option "Health, Household & Baby Care"
+                - option "Home & Business Services"
+                - option "Home & Kitchen"
+                - option "Industrial & Scientific"
+                - option "Just for Prime"
+                - option "Kindle Store"
+                - option "Luggage & Travel Gear"
+                - option "Luxury Stores"
+                - option "Magazine Subscriptions"
+                - option "Movies & TV"
+                - option "Musical Instruments"
+                - option "New Seasons Market"
+                - option "Office Products"
+                - option "Pet Supplies"
+                - option "Premium Beauty"
+                - option "Prime Video"
+                - option "Same-Day Store"
+                - option "Smart Home"
+                - option "Software"
+                - option "Sports & Outdoors"
+                - option "Subscribe & Save"
+                - option "Subscription Boxes"
+                - option "Tools & Home Improvement"
+                - option "Toys & Games"
+                - option "Under $10"
+                - option "Video Games"
+                - option "Whole Foods Market"
+            - searchbox "Search Amazon" [ref=e91]
+            - generic "Go" [ref=e94] [cursor=pointer]:
+              - button "Go" [ref=e95]
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - link "Choose a language for shopping in Amazon United States. The current selection is English (EN)." [ref=e99] [cursor=pointer]:
+                - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+                - generic [ref=e102]:
+                  - img "United States" [ref=e103]
+                  - generic [ref=e104]: EN
+              - button "Expand to Change Language or Country" [ref=e105] [cursor=pointer]
+            - generic [ref=e106]:
+              - link "Hello, randy Account & Lists" [ref=e107] [cursor=pointer]:
+                - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+                - generic [ref=e109]: Hello, randy
+                - generic [ref=e110]: Account & Lists
+              - button "Expand Account and Lists" [ref=e111] [cursor=pointer]
+            - link "Returns & Orders" [ref=e112] [cursor=pointer]:
+              - /url: /gp/css/order-history?ref_=nav_orders_first
+              - generic [ref=e113]: Returns
+              - generic [ref=e114]: "& Orders"
+            - link "0 items in cart" [ref=e115] [cursor=pointer]:
+              - /url: /gp/cart/view.html?ref_=nav_cart
+              - generic [ref=e117]: "0"
+              - generic [ref=e120]: Cart
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - button "Open All Categories Menu" [ref=e123] [cursor=pointer]:
+              - generic [ref=e125]: All
+            - button "Open Rufus panel" [ref=e126] [cursor=pointer]:
+              - generic [ref=e128]: Rufus
+          - list [ref=e132]:
+            - listitem [ref=e133]:
+              - link "Big Spring Sale" [ref=e135] [cursor=pointer]:
+                - /url: /bigspringsale?ref_=nav_cs_bss_disco_2026_desk
+            - listitem [ref=e136]:
+              - link "Health AI" [ref=e138] [cursor=pointer]:
+                - /url: https://health.amazon.com/health-ai?ref_=nav_cs_health_ai
+            - listitem [ref=e139]:
+              - link "3 Hour Delivery" [ref=e141] [cursor=pointer]:
+                - /url: /fmc/ssd-storefront?gsc=fe16aGPfFs46S&speed=3HR&ref_=nav_cs_SSD_3hr_nav_storefront
+            - listitem [ref=e142]:
+              - link "Amazon Haul" [ref=e144] [cursor=pointer]:
+                - /url: /haul/store?ref_=nav_cs_hul_disb
+            - listitem [ref=e145]:
+              - generic [ref=e146]:
+                - link "Medical Care" [ref=e147] [cursor=pointer]:
+                  - /url: https://health.amazon.com/prime?ref_=nav_cs_all_health_ingress_onem_h
+                - button "Medical Care Details" [ref=e148] [cursor=pointer]
+            - listitem [ref=e149]:
+              - link "Best Sellers" [ref=e151] [cursor=pointer]:
+                - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+            - listitem [ref=e152]:
+              - link "Books" [ref=e154] [cursor=pointer]:
+                - /url: /books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books
+            - listitem [ref=e155]:
+              - link "Amazon Basics" [ref=e157] [cursor=pointer]:
+                - /url: /Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics
+            - listitem [ref=e158]:
+              - link "Buy Again" [ref=e160] [cursor=pointer]:
+                - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+            - listitem [ref=e161]:
+              - link "Groceries" [ref=e163] [cursor=pointer]:
+                - /url: /fmc/grocery-gateway?gsc=fe16aGPfFs46S&ref_=nav_cs_groceries
+            - listitem [ref=e164]:
+              - link "Sell" [ref=e166] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+            - listitem [ref=e167]:
+              - generic [ref=e168]:
+                - link "Amazon Business" [ref=e169] [cursor=pointer]:
+                  - /url: /business/register/org/landing?ref_=nav_cs_business_flyout
+                - button "Amazon Business Details" [ref=e170] [cursor=pointer]
+            - listitem [ref=e171]:
+              - link "Keep Shopping For" [ref=e173] [cursor=pointer]:
+                - /url: /hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db
+            - listitem [ref=e174]:
+              - link "Audible" [ref=e176] [cursor=pointer]:
+                - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible
+            - listitem [ref=e177]:
+              - link "Household, Health & Baby Care" [ref=e179] [cursor=pointer]:
+                - /url: /health-personal-care-nutrition-fitness/b/?ie=UTF8&node=3760901&ref_=nav_cs_hpc
+            - listitem [ref=e180]:
+              - link "Pet Supplies" [ref=e182] [cursor=pointer]:
+                - /url: /pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets
+            - listitem [ref=e183]:
+              - link "Beauty & Personal Care" [ref=e185] [cursor=pointer]:
+                - /url: /Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty
+            - listitem [ref=e186]:
+              - generic [ref=e187]:
+                - link "Browsing History" [ref=e188] [cursor=pointer]:
+                  - /url: /gp/history?ref_=nav_cs_timeline
+                - button "Browsing History Details" [ref=e189] [cursor=pointer]
+            - listitem [ref=e190]:
+              - link "Handmade" [ref=e192] [cursor=pointer]:
+                - /url: /gp/browse.html?node=120955898011&ref_=nav_cs_handmade
+            - listitem [ref=e193]:
+              - link "Subscribe & Save" [ref=e195] [cursor=pointer]:
+                - /url: /auto-deliveries/landing?ref_=nav_cs_sns
+            - listitem [ref=e196]:
+              - link "Pharmacy" [ref=e198] [cursor=pointer]:
+                - /url: https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy
+            - listitem [ref=e199]:
+              - link "Computers" [ref=e201] [cursor=pointer]:
+                - /url: /computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc
+            - listitem [ref=e202]:
+              - link "Livestreams" [ref=e204] [cursor=pointer]:
+                - /url: /live?ref_=nav_cs_amazonlive
+            - listitem [ref=e205]:
+              - link "Video Games" [ref=e207] [cursor=pointer]:
+                - /url: /computer-video-games-hardware-accessories/b/?ie=UTF8&node=468642&ref_=nav_cs_video_games
+            - listitem [ref=e208]:
+              - link "Customer Service" [ref=e210] [cursor=pointer]:
+                - /url: /hz/contact-us/foresight/hubgateway?ref_=nav_cs_fs_hybridhub_navbar_c
+            - listitem [ref=e211]:
+              - link "Shop By Interest" [ref=e213] [cursor=pointer]:
+                - /url: /finds?ref_=nav_cs_foundit
+            - listitem [ref=e214]:
+              - link "TV & Video" [ref=e216] [cursor=pointer]:
+                - /url: /tvs/b/?ie=UTF8&node=172659&ref_=nav_cs_tv
+            - listitem [ref=e217]:
+              - link "randy 's Amazon.com" [ref=e219] [cursor=pointer]:
+                - /url: /gp/yourstore/home?ref_=nav_cs_ys
+                - generic [ref=e220]:
+                  - generic [ref=e221]: randy
+                  - text: "'s Amazon.com"
+            - listitem [ref=e222]:
+              - link "Prime Video" [ref=e224] [cursor=pointer]:
+                - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+            - listitem [ref=e225]:
+              - generic [ref=e226]:
+                - link "Prime" [ref=e227] [cursor=pointer]:
+                  - /url: /prime?ref_=nav_cs_primelink_member
+                - button "Prime Details" [ref=e228] [cursor=pointer]
+            - listitem [ref=e229]:
+              - link "Registry" [ref=e231] [cursor=pointer]:
+                - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+            - listitem [ref=e232]:
+              - link "Kindle Books" [ref=e234] [cursor=pointer]:
+                - /url: /Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books
+            - listitem [ref=e235]:
+              - link "Amazon Home" [ref=e237] [cursor=pointer]:
+                - /url: /home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home
+            - listitem [ref=e238]:
+              - link "New Releases" [ref=e240] [cursor=pointer]:
+                - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+            - listitem [ref=e241]:
+              - generic [ref=e242]:
+                - link "Gift Cards" [ref=e243] [cursor=pointer]:
+                  - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+                - button "Gift Cards Details" [ref=e244] [cursor=pointer]
+            - listitem [ref=e245]:
+              - link "Automotive" [ref=e247] [cursor=pointer]:
+                - /url: /automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive
+            - listitem [ref=e248]:
+              - link "Fashion" [ref=e250] [cursor=pointer]:
+                - /url: /amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion
+        - dialog [ref=e253]
+    - main [ref=e255]:
+      - heading "The Genesis Protocol (The Architecture of Survival Book 2) › Customer reviews" [level=1] [ref=e256]:
+        - list [ref=e258]:
+          - listitem [ref=e259]:
+            - link "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e261] [cursor=pointer]:
+              - /url: /dp/B0GPM973N1/ref=cm_cr_arp_d_bdcrb_top?ie=UTF8
+          - listitem [ref=e262]: ›
+          - listitem [ref=e263]:
+            - generic [ref=e264]: Customer reviews
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - heading "Customer reviews" [level=2] [ref=e272]
+              - generic [ref=e275]:
+                - generic [ref=e278]: 4.9 out of 5 stars
+                - generic [ref=e280]: 4.9 out of 5
+              - generic [ref=e281]: 29 global ratings
+              - list [ref=e285]:
+                - listitem [ref=e286]:
+                  - link "5 stars represent 89% of rating" [ref=e288] [cursor=pointer]:
+                    - /url: /product-reviews/B0GPM973N1/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+                    - generic [ref=e289]: 5 star
+                    - progressbar [ref=e291]
+                    - generic [ref=e293]: 89%
+                - listitem [ref=e294]:
+                  - link "4 stars represent 11% of rating" [ref=e296] [cursor=pointer]:
+                    - /url: /product-reviews/B0GPM973N1/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+                    - generic [ref=e297]: 4 star
+                    - progressbar [ref=e299]
+                    - generic [ref=e301]: 11%
+                - listitem [ref=e302]:
+                  - link "3 stars represent 0% of rating" [disabled] [ref=e304]:
+                    - generic [ref=e305]: 3 star
+                    - progressbar [ref=e307]
+                    - generic [ref=e308]: 0%
+                - listitem [ref=e309]:
+                  - link "2 stars represent 0% of rating" [disabled] [ref=e311]:
+                    - generic [ref=e312]: 2 star
+                    - progressbar [ref=e314]
+                    - generic [ref=e315]: 0%
+                - listitem [ref=e316]:
+                  - link "1 stars represent 0% of rating" [disabled] [ref=e318]:
+                    - generic [ref=e319]: 1 star
+                    - progressbar [ref=e321]
+                    - generic [ref=e322]: 0%
+            - generic [ref=e325]:
+              - link "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e327] [cursor=pointer]:
+                - /url: /Genesis-Protocol-Architecture-Survival-Book-ebook/dp/B0GPM973N1/ref=cm_cr_arp_d_product_top?ie=UTF8
+                - img "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e328]
+              - generic [ref=e329]:
+                - heading "The Genesis Protocol (The Architecture of Survival Book 2)" [level=1] [ref=e331]:
+                  - link "The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e332] [cursor=pointer]:
+                    - /url: /Genesis-Protocol-Architecture-Survival-Book-ebook/dp/B0GPM973N1/ref=cm_cr_arp_d_product_top?ie=UTF8
+                - generic [ref=e335]:
+                  - text: by
+                  - link "Randy Pellegrini" [ref=e336] [cursor=pointer]:
+                    - /url: /s?ie=UTF8&field-author=Randy+Pellegrini&search-alias=digital-text
+                - list [ref=e338]:
+                  - listitem [ref=e339]: "Format: Kindle"
+                  - listitem [ref=e340]:
+                    - img [ref=e341]
+                    - link "Change Format" [ref=e342] [cursor=pointer]:
+                      - /url: /Genesis-Protocol-Architecture-Survival-Book-ebook/dp/B0GPM973N1/ref=cm_cr_arp_d_product_top?ie=UTF8
+                      - text: Change
+          - link "Write a review" [ref=e351] [cursor=pointer]:
+            - /url: /review/create-review/ref=cm_cr_arp_d_wr_but_lft?ie=UTF8&channel=reviews-product&asin=B0GPM973N1
+          - button "How customer reviews and ratings work" [ref=e356] [cursor=pointer]: How customer reviews and ratings work
+        - link "See All Buying Options" [ref=e364] [cursor=pointer]:
+          - /url: /Genesis-Protocol-Architecture-Survival-Book-ebook/dp/B0GPM973N1/ref=cm_cr_arp_d_pb_opt?ie=UTF8
+      - separator [ref=e366]
+    - generic [ref=e368]:
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - generic [ref=e375]:
+            - searchbox "Search by keyword" [ref=e380]
+            - generic [ref=e384] [cursor=pointer]:
+              - button "Resume response" [ref=e385]
+              - generic [ref=e386]: Search
+          - generic [ref=e387]:
+            - generic [ref=e388]:
+              - heading "Sort by" [level=3] [ref=e390]
+              - generic [ref=e391]:
+                - generic [ref=e392]: Sort by reviews type
+                - generic [ref=e393]:
+                  - combobox "Sort by reviews type" [ref=e394]:
+                    - option "Top reviews" [selected]
+                    - option "Most recent"
+                  - generic [ref=e397] [cursor=pointer]: Top reviews
+            - group "Filter by" [ref=e399]:
+              - heading "Filter by" [level=3] [ref=e401]
+              - generic [ref=e402]:
+                - generic [ref=e403]:
+                  - generic [ref=e404]: Filter by reviewer type
+                  - generic [ref=e405]:
+                    - combobox "Filter by reviewer type" [ref=e406]:
+                      - option "All reviewers" [selected]
+                      - option "Verified purchase only"
+                    - generic [ref=e409] [cursor=pointer]: All reviewers
+                - generic [ref=e411]:
+                  - generic [ref=e412]: Filter by star count
+                  - generic [ref=e413]:
+                    - combobox "Filter by star count" [ref=e414]:
+                      - option "All stars" [selected]
+                      - option "5 star only"
+                      - option "4 star only"
+                      - option "3 star only"
+                      - option "2 star only"
+                      - option "1 star only"
+                      - option "Positive reviews"
+                      - option "Critical reviews"
+                    - generic [ref=e417] [cursor=pointer]: All stars
+                - generic [ref=e419]:
+                  - generic [ref=e420]: Filter by variant type
+                  - generic [ref=e421]:
+                    - combobox "Filter by variant type" [ref=e422]:
+                      - option "All variants" [selected]
+                      - 'option "Format: Kindle"'
+                    - generic [ref=e425] [cursor=pointer]: All variants
+                - generic [ref=e427]:
+                  - generic [ref=e428]: Filter by media type
+                  - generic [ref=e429]:
+                    - combobox "Filter by media type" [ref=e430]:
+                      - option "Text, image, video" [selected]
+                      - option "Image and video reviews only"
+                    - generic [ref=e433] [cursor=pointer]: Text, image, video
+          - status [ref=e435]:
+            - generic [ref=e436]:
+              - generic [ref=e437]: 28 customer reviews
+              - separator [ref=e438]
+          - generic [ref=e439]:
+            - generic [ref=e440]:
+              - heading "From the United States" [level=3] [ref=e441]
+              - list [ref=e442]:
+                - listitem [ref=e443]:
+                  - generic [ref=e446]:
+                    - link "Yolanda Anon Cristobal" [ref=e448] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AEKYTEWEEC4MTIJZCNFMH32HNZNA
+                      - img [ref=e451]
+                      - generic [ref=e452]: Yolanda Anon Cristobal
+                    - heading "5.0 out of 5 stars The Genesis Protocol" [level=5] [ref=e454]:
+                      - link "5.0 out of 5 stars The Genesis Protocol" [ref=e455] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R1UT30YHNUIIKG/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e457]: 5.0 out of 5 stars
+                        - text: The Genesis Protocol
+                    - heading "Reviewed in the United States on March 1, 2026" [level=6] [ref=e458]
+                    - 'link "Format: Kindle" [ref=e460] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e463]:
+                      - text: "In The Genesis Protocol, the second installment of The Architecture of Survival series, science, morality, and power collide in a thriller that feels disturbingly plausible. The novel builds on high-stakes speculative science but grounds its terror not in fantasy, but in systems that already exist: corporate monopolies, classified programs, genetic engineering, and the quiet arithmetic of utilitarian decision-making. It is a story that asks not only whether humanity can survive its own creations—but whether it deserves to."
+                      - text: "At the center of the narrative stands Dr. Sarah Chen, a geneticist whose strength lies not in physical heroics but in intellectual clarity. When she is recruited to advise on a classified intelligence operation, she anticipates political theater and bureaucratic opacity. Instead, she uncovers THRESHOLD: a coordinated bioweapons infrastructure spanning forty-seven cities across six continents, engineered to release a pathogen capable of killing four billion people. The scale is staggering, but what truly unsettles is its origin. This is not the work of rogue extremists. It is the product of GenVault, the world’s most powerful pharmaceutical corporation, operating under the guidance of the Order—a clandestine organization that has shaped human genetics for three millennia."
+                      - text: The conceptual audacity of the plot is one of the book’s greatest strengths. THRESHOLD is not framed by its architects as an act of destruction, but as a “correction.” A genetic reset intended to prevent humanity’s long-term collapse. The logic is chilling in its coherence. Overpopulation, environmental degradation, escalating instability—what if the only sustainable solution is controlled devastation? The novel refuses to caricature its antagonists. Instead, it gives them a rationale that is disturbingly rational.
+                      - text: "Sarah’s conflict is therefore not simply external but philosophical. She believes in mathematics. She understands probability curves, mortality projections, epidemiological models. And the models suggest something unbearable: that silence may save more lives than exposure. That justice may cost the cure. The novel’s most haunting line of tension emerges from this divide between calculation and conscience. Sarah does not reject the math; she rejects the surrender it demands."
+                      - text: The supporting cast deepens the emotional and ethical texture of the story. A physicist haunted by his role in designing the weapon represents scientific guilt—intelligence severed from accountability. An intelligence officer operating beyond authorized limits embodies institutional desperation. And perhaps most compellingly, a retired health inspector in Lisbon has quietly built a distributed civilian defense network, a decentralized system of ordinary people positioned to dismantle sophisticated bioweapons infrastructure. This element of grassroots resistance injects the novel with cautious optimism. While power concentrates at the top, resilience spreads at the edges.
+                      - text: "The pacing is relentless but controlled. The nine-day countdown structure creates urgency without sacrificing depth. Each revelation escalates the stakes, yet the narrative avoids melodrama. Instead of explosive spectacle, the tension arises from systems: supply chains, laboratories, communication networks, containment protocols. The thriller mechanics are tight, but the true weight of the novel lies in its ethical calculus."
+                      - text: When a containment breach releases the pathogen, the story pivots from prevention to damage control. Here, the moral dilemma sharpens to a knife’s edge. GenVault, architect of the catastrophe, is also the only entity capable of engineering a viable cure. To expose the corporation risks collapsing the very infrastructure needed to distribute the vaccine. The paradox is brutal. Accountability and survival become mutually exclusive variables.
+                      - text: What makes The Genesis Protocol particularly compelling is its refusal to offer easy resolution. The narrative does not indulge in simplistic heroism. There is no clean triumph where evil is exposed and humanity rallies unambiguously behind truth. Instead, the book explores the uncomfortable terrain where moral clarity fractures under pressure. If revealing corruption costs billions of lives, is silence complicity—or mercy? The novel does not dictate the answer; it forces readers to confront their own threshold for compromise.
+                      - text: The scientific elements are handled with convincing authority. Genetic engineering, pathogen modeling, and biocontainment protocols are integrated seamlessly into the narrative without overwhelming it. The technical detail enhances plausibility, making the speculative premise feel alarmingly near-future rather than distant dystopia. The global scope—forty-seven cities across six continents—reinforces the interconnected vulnerability of modern civilization.
+                      - text: "Stylistically, the prose is sharp and disciplined. There is little indulgence in ornamental description. The tone mirrors the subject matter: precise, clinical, occasionally stark. Yet beneath this restraint runs a current of moral intensity. Sarah’s internal struggle gives the narrative its emotional anchor. She is neither naïve idealist nor cold strategist. She is a scientist confronting the limits of rationalism when faced with human cost."
+                      - text: "As the second entry in The Architecture of Survival, the novel expands the thematic ambition of the series. It interrogates who has the authority to decide humanity’s future and whether technological capability inevitably tempts ethical transgression. It also raises a subtler question: when survival becomes the ultimate metric, what happens to truth?"
+                      - text: The Genesis Protocol is not merely a biotech thriller; it is a meditation on power, responsibility, and the perilous space between calculation and conscience. It leaves readers unsettled—and appropriately so. In a world increasingly shaped by genetic innovation and corporate influence, its warnings feel less like fiction and more like foresight.
+                    - generic [ref=e464]:
+                      - generic [ref=e465]:
+                        - generic [ref=e466]: One person found this helpful
+                        - generic [ref=e469] [cursor=pointer]:
+                          - button "Mark Review As Helpful" [ref=e470]: Mark this review as helpful BUTTON
+                          - generic [ref=e472]: Helpful
+                      - generic [ref=e474]:
+                        - img [ref=e475]
+                        - link "Report review by Yolanda Anon Cristobal" [ref=e477] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hJcGG%2BH1J9HTAnPBF%2BMNSWhRtsJxT5F5Khsnm8lDNnv4AAAAAGnL1eQAAAAB&reviewId=R1UT30YHNUIIKG
+                          - text: Report
+                - listitem [ref=e478]:
+                  - generic [ref=e481]:
+                    - link "Jean A. Donnel" [ref=e483] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AEOVQG5XSZVEUZMHAERMMVEYJLZA
+                      - img [ref=e486]
+                      - generic [ref=e487]: Jean A. Donnel
+                    - heading "5.0 out of 5 stars Science meets history, myth and mystery. Well researched and well written." [level=5] [ref=e489]:
+                      - link "5.0 out of 5 stars Science meets history, myth and mystery. Well researched and well written." [ref=e490] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R2QCVWHSUN71MD/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e492]: 5.0 out of 5 stars
+                        - text: Science meets history, myth and mystery. Well researched and well written.
+                    - heading "Reviewed in the United States on March 30, 2026" [level=6] [ref=e493]
+                    - 'link "Format: Kindle" [ref=e495] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e498]:
+                      - text: Sarah Chen received a message from a Linda Marsh, that she has some important information on GeneVault’s genetic research. VERY important! Sarah needs to come now. But when she gets to Linda Marsh’s house, it’s on fire. She can smell kerosene. The fire was intentional. She sees the body of Linda on the floor and tries to save her. She’s holding a box. In the box, Sarah will find a flash drive, a key and a note.
+                      - text: I’m not fully describing the first chapter as there is more and it’s intense. But it’s the start of a conspiracy of people that want to control humanities DNA. They want to kill 4 billion people whose genetic code they want eliminated. Why? What are they trying to achieve in the long run?
+                      - text: Sarah breaks into Yale’s Sterling Memorial Library at night. She goes looking for a document that has info on a Defensive Protocol. “…Nefertari’s intention to PREVENT collapse, not engineer survival…” There she meets Dr. Maya Chen. CDC Emerging Infectious Diseases division. Dr. Maya noticed Genetic markers for plague resistance appearing in populations that shouldn’t have them. Pre-dating the selective pressure by centuries.
+                      - text: The conspiracy grows wider and has existed for much of human history. There is another group though. People make desperate decisions. Some die, some change, some fail. Billions of lives are at stake. A plan to kill more than half of humanity. A claim that only by killing half will the human species survive – but that claim doesn’t look at the full facts.
+                      - text: I’d like to tell you more. The book is so much more than I’ve told you, but that would spoil. I’m not going to give away spoilers. So why, who, will they win? Read the book. Decide for yourself what you think of it. Myself, I enjoyed it. Conspiracy, mystery, science meeting science fiction, it’s all there and more. Myself? I enjoyed the book. Read and decide for yourself.
+                    - generic [ref=e499]:
+                      - generic [ref=e502] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e503]: Mark this review as helpful BUTTON
+                        - generic [ref=e505]: Helpful
+                      - generic [ref=e507]:
+                        - img [ref=e508]
+                        - link "Report review by Jean A. Donnel" [ref=e510] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hLNzScnLrAjWspLc7I1PWrgPzFJARMDzPbf7%2B0zNJ3YUAAAAAGnL1eQAAAAB&reviewId=R2QCVWHSUN71MD
+                          - text: Report
+                - listitem [ref=e511]:
+                  - generic [ref=e514]:
+                    - link "Cindy L." [ref=e516] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AFYQA3KOPGWSFQOMWFOMQA4GE4TA
+                      - img [ref=e519]
+                      - generic [ref=e520]: Cindy L.
+                    - heading "5.0 out of 5 stars The Genesis Protocol" [level=5] [ref=e522]:
+                      - link "5.0 out of 5 stars The Genesis Protocol" [ref=e523] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R3E7TNGZM643Z0/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e525]: 5.0 out of 5 stars
+                        - text: The Genesis Protocol
+                    - heading "Reviewed in the United States on March 24, 2026" [level=6] [ref=e526]
+                    - 'link "Format: Kindle" [ref=e528] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e531]:
+                      - text: The Genesis Protocol was a strong continuation of the series. If you enjoyed the first book, this one definitely builds on it with higher stakes and a deeper look into the bigger picture behind everything that’s going on.
+                      - text: I liked how the story expands without losing momentum. There’s a good balance between action, suspense, and developing the overall storyline, and it keeps you interested in where things are headed next.
+                      - text: The tension feels a bit more elevated in this one, and you can tell the story is moving toward something bigger. It’s the kind of sequel that makes you want to keep going with the series.
+                      - text: Overall, a solid follow-up and an enjoyable read for anyone who likes fast-paced, suspense-driven stories with an ongoing mystery.
+                    - generic [ref=e532]:
+                      - generic [ref=e535] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e536]: Mark this review as helpful BUTTON
+                        - generic [ref=e538]: Helpful
+                      - generic [ref=e540]:
+                        - img [ref=e541]
+                        - link "Report review by Cindy L." [ref=e543] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hF4B7QV6IrT6towzoZxjV6v%2BllYklMz5WmKxMUH2eWdGAAAAAGnL1eQAAAAB&reviewId=R3E7TNGZM643Z0
+                          - text: Report
+                - listitem [ref=e544]:
+                  - generic [ref=e547]:
+                    - link "barry hampton" [ref=e549] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AHVHVGCITL3RCEFWF7LFZAXXWWPQ
+                      - img [ref=e552]
+                      - generic [ref=e553]: barry hampton
+                    - heading "5.0 out of 5 stars A little too real" [level=5] [ref=e555]:
+                      - link "5.0 out of 5 stars A little too real" [ref=e556] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R7EZEEEKH8I04/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e558]: 5.0 out of 5 stars
+                        - text: A little too real
+                    - heading "Reviewed in the United States on March 22, 2026" [level=6] [ref=e559]
+                    - 'link "Format: Kindle" [ref=e561] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e564]: I will never forget covid, i was infected in 2020 and had some health issues resulting from it. Many people have still not recovered from that, even now 6 years later. I dont think releasing covid was accidental, the people handling that are too intelligent to have made an accident.
+                    - generic [ref=e565]:
+                      - generic [ref=e568] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e569]: Mark this review as helpful BUTTON
+                        - generic [ref=e571]: Helpful
+                      - generic [ref=e573]:
+                        - img [ref=e574]
+                        - link "Report review by barry hampton" [ref=e576] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hCQS2mQigZO4URWVFn5sCPOBSKukzgxv2oFmF7aBlld9AAAAAGnL1eQAAAAB&reviewId=R7EZEEEKH8I04
+                          - text: Report
+                - listitem [ref=e577]:
+                  - generic [ref=e580]:
+                    - link "Tanglewood121" [ref=e582] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AGBS42KNEO6NKDWRP4UDFUKOMUHQ
+                      - img [ref=e585]
+                      - generic [ref=e586]: Tanglewood121
+                    - heading "4.0 out of 5 stars Smart, Intense, Hard to put down" [level=5] [ref=e588]:
+                      - link "4.0 out of 5 stars Smart, Intense, Hard to put down" [ref=e589] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R1Q0A1SRY7HYJF/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e591]: 4.0 out of 5 stars
+                        - text: Smart, Intense, Hard to put down
+                    - heading "Reviewed in the United States on March 23, 2026" [level=6] [ref=e592]
+                    - 'link "Format: Kindle" [ref=e594] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e597]:
+                      - text: The Genesis Protocol delivers a gripping techno-thriller that blends genetic science, conspiracy, and high-stakes moral dilemmas. The story moves fast from page one, pulling you into a world where data, biology, and power collide with chilling plausibility.
+                      - text: "The characters, especially Sarah and Maya, feel sharp and capable, and the pacing keeps tension high without losing clarity. The book shines in its exploration of big ideas: survival vs. ethics, control vs. freedom, and how far humanity should go to “save itself.”"
+                      - text: At times, I felt the technical detail was a little dense, but it also adds authenticity and depth. If you enjoy thought-provoking thrillers with real scientific grounding, this is a strong read.
+                    - generic [ref=e598]:
+                      - generic [ref=e601] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e602]: Mark this review as helpful BUTTON
+                        - generic [ref=e604]: Helpful
+                      - generic [ref=e606]:
+                        - img [ref=e607]
+                        - link "Report review by Tanglewood121" [ref=e609] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hKAmGNKYSGAsD%2F6uezDxOKjDUCxCWUOrnFPW7ZU4SkBDAAAAAGnL1eQAAAAB&reviewId=R1Q0A1SRY7HYJF
+                          - text: Report
+                - listitem [ref=e610]:
+                  - generic [ref=e613]:
+                    - link "Nicole collins" [ref=e615] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AHOE2AYXPDLDS6ABS5ZBIX3WNGVQ
+                      - img [ref=e618]
+                      - generic [ref=e619]: Nicole collins
+                    - heading "5.0 out of 5 stars good book PRC" [level=5] [ref=e621]:
+                      - link "5.0 out of 5 stars good book PRC" [ref=e622] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R1RBFCBYR17QZL/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e624]: 5.0 out of 5 stars
+                        - text: good book PRC
+                    - heading "Reviewed in the United States on March 23, 2026" [level=6] [ref=e625]
+                    - 'link "Format: Kindle" [ref=e627] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e630]: good book lot of information
+                    - generic [ref=e631]:
+                      - generic [ref=e634] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e635]: Mark this review as helpful BUTTON
+                        - generic [ref=e637]: Helpful
+                      - generic [ref=e639]:
+                        - img [ref=e640]
+                        - link "Report review by Nicole collins" [ref=e642] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hD9pfXl0mm6Kz8jhzZy5xkMNzrJravR2qVFEUVyCKYX1AAAAAGnL1eQAAAAB&reviewId=R1RBFCBYR17QZL
+                          - text: Report
+                - listitem [ref=e643]:
+                  - generic [ref=e646]:
+                    - link "redhead" [ref=e648] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AHRGOQ6R6RFGXCUGADCTVX7DDHHQ
+                      - img [ref=e651]
+                      - generic [ref=e652]: redhead
+                    - heading "5.0 out of 5 stars What a thriller!" [level=5] [ref=e654]:
+                      - link "5.0 out of 5 stars What a thriller!" [ref=e655] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R158DKEQE80PWS/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e657]: 5.0 out of 5 stars
+                        - text: What a thriller!
+                    - heading "Reviewed in the United States on March 3, 2026" [level=6] [ref=e658]
+                    - 'link "Format: Kindle" [ref=e660] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e663]: I normally don't read these types of books but this one was caught my eye and i am so glad i read it because right off the bat it starts with a bang. It is filled with actions and turns everywhere that have you not able to put it down. It follows Dr. Sarah Chen on her journey through uncovering what the government is hiding from the people and the bio-weapons they are creating. It is a lot kind of like what is going on in the world, things we never thought possible from our government well this book has it all. From fires, to bio-weapons to the work of genetics and how the government used it as a weapon. Great book!
+                    - generic [ref=e664]:
+                      - generic [ref=e667] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e668]: Mark this review as helpful BUTTON
+                        - generic [ref=e670]: Helpful
+                      - generic [ref=e672]:
+                        - img [ref=e673]
+                        - link "Report review by redhead" [ref=e675] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hKWY%2BYRMbAZZVKRvjRLsk%2BX4kADX%2FuVTXUyvsN%2FMIwloAAAAAGnL1eQAAAAB&reviewId=R158DKEQE80PWS
+                          - text: Report
+                - listitem [ref=e676]:
+                  - generic [ref=e679]:
+                    - link "Sherri barnett" [ref=e681] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AGA5ZV44H3YVQ4D6CV3QI5TNZV5Q
+                      - img [ref=e684]
+                      - generic [ref=e685]: Sherri barnett
+                    - heading "5.0 out of 5 stars great read" [level=5] [ref=e687]:
+                      - link "5.0 out of 5 stars great read" [ref=e688] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R1020Y97YF4DIH/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e690]: 5.0 out of 5 stars
+                        - text: great read
+                    - heading "Reviewed in the United States on March 10, 2026" [level=6] [ref=e691]
+                    - 'link "Format: Kindle" [ref=e693] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e696]: I enjoyed this book. It was very suspenseful, and mind boggling. To think that this actually exists. The very people that should be protecting you are the ones trying to genetically change everything. You have to really have quiet time to read or you will miss something.
+                    - generic [ref=e697]:
+                      - generic [ref=e700] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e701]: Mark this review as helpful BUTTON
+                        - generic [ref=e703]: Helpful
+                      - generic [ref=e705]:
+                        - img [ref=e706]
+                        - link "Report review by Sherri barnett" [ref=e708] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hFNdvwyuVEUUAn35LJjP3O4pMq%2BWj7s%2FzjdpiPmvLM5cAAAAAGnL1eQAAAAB&reviewId=R1020Y97YF4DIH
+                          - text: Report
+                - listitem [ref=e709]:
+                  - generic [ref=e712]:
+                    - link "Madeline" [ref=e714] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AHKOHXSZJJIKHDGJ2RKY3I6GIDAA
+                      - img [ref=e717]
+                      - generic [ref=e718]: Madeline
+                    - heading "4.0 out of 5 stars smart, high-stakes thriller that keeps you guessing!" [level=5] [ref=e720]:
+                      - link "4.0 out of 5 stars smart, high-stakes thriller that keeps you guessing!" [ref=e721] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R41IO006WM7JQ/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e723]: 4.0 out of 5 stars
+                        - text: smart, high-stakes thriller that keeps you guessing!
+                    - heading "Reviewed in the United States on March 22, 2026" [level=6] [ref=e724]
+                    - 'link "Format: Kindle" [ref=e726] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e729]: I was initially drawn in by the cool cover art, but the story is what really kept me hooked. The Genesis Protocol is a fantastic mix of suspense and high-stakes drama. Randy Pellegrini has a way of building tension that feels very grounded and real, making the "survival" aspect of the plot feel incredibly urgent. It’s a fast-paced read with a unique perspective on architecture and survival that I haven't seen before. If you’re looking for a thriller that’s as intelligent as it is exciting, this is definitely one to add to your list.
+                    - generic [ref=e730]:
+                      - generic [ref=e733] [cursor=pointer]:
+                        - button "Mark Review As Helpful" [ref=e734]: Mark this review as helpful BUTTON
+                        - generic [ref=e736]: Helpful
+                      - generic [ref=e738]:
+                        - img [ref=e739]
+                        - link "Report review by Madeline" [ref=e741] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hCAzr3npfF7C683e2mpgdb0MSS5E59seRD9pwZH6qI7bAAAAAGnL1eQAAAAB&reviewId=R41IO006WM7JQ
+                          - text: Report
+                - listitem [ref=e742]:
+                  - generic [ref=e745]:
+                    - link "Tammy Lynn Bush" [ref=e747] [cursor=pointer]:
+                      - /url: /gp/profile/amzn1.account.AFDBFTE4YRGTXNO3BRHPPGRETM7Q
+                      - img [ref=e750]
+                      - generic [ref=e751]: Tammy Lynn Bush
+                    - heading "4.0 out of 5 stars This is book 2" [level=5] [ref=e753]:
+                      - link "4.0 out of 5 stars This is book 2" [ref=e754] [cursor=pointer]:
+                        - /url: /gp/customer-reviews/R2SPPWJMRHG52L/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8
+                        - generic [ref=e756]: 4.0 out of 5 stars
+                        - text: This is book 2
+                    - heading "Reviewed in the United States on March 1, 2026" [level=6] [ref=e757]
+                    - 'link "Format: Kindle" [ref=e759] [cursor=pointer]':
+                      - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_rvw_fmt?formatType=current_format
+                    - generic [ref=e762]: Are you interested in bio weapons, secret organizations, and human genetics? Then this is the book for you.
+                    - generic [ref=e763]:
+                      - generic [ref=e764]:
+                        - generic [ref=e765]: One person found this helpful
+                        - generic [ref=e768] [cursor=pointer]:
+                          - button "Mark Review As Helpful" [ref=e769]: Mark this review as helpful BUTTON
+                          - generic [ref=e771]: Helpful
+                      - generic [ref=e773]:
+                        - img [ref=e774]
+                        - link "Report review by Tammy Lynn Bush" [ref=e776] [cursor=pointer]:
+                          - /url: /hz/reviews-render/report-review/ref=cm_cr_arp_d_rvw_hlp?csrfT=hJXpz2ag9Bbw2rLH8D7qjpZw%2FzQnnMA6MGQc9Hf08YWzAAAAAGnL1eQAAAAB&reviewId=R2SPPWJMRHG52L
+                          - text: Report
+            - link "Show 10 more reviews" [ref=e782] [cursor=pointer]:
+              - /url: /product-reviews/B0GPM973N1/ref=cm_cr_arp_d_paging_btm
+        - generic [ref=e783]:
+          - generic [ref=e787]:
+            - iframe [ref=e788]:
+              - generic [ref=f39e3]:
+                - generic [ref=f39e4]: Sponsored Ad. Brand logo. Branded image. Kroma 24K Beef Bone Broth Powder, 7 Packets, 5.46 Oz – 100% Grass Fed Gluten Free Powder – Collagen-Rich High Protein Broth with Organic Ingredients – Animal-Based Protein for Daily Wellness 29.25 Shop now
+                - link "Sponsored Ad. Brand logo. Branded image. Kroma 24K Beef Bone Broth Powder, 7 Packets, 5.46 Oz – 100% Grass Fed Gluten Free Powder – Collagen-Rich High Protein Broth with Organic Ingredients – Animal-Based Protein for Daily Wellness 29.25 Shop now" [ref=f39e7] [cursor=pointer]:
+                  - /url: https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RMzatvyp6Uqj_UISyHonOWEAAAGdRDuExQEAAAH0BABvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICD0UlDb/clv1c_ek-4wofXbdbCDtVKUCLj8e9gSqxWjoP56CczLZVOq9Gcp2MwBGcBja0qG4uRlGliLyWULJ7fz1by-w6_wkDlY1mPYw5dNsu4PhrsLMxNZAmOKxlJ2JWy9zL498lE9tJ94ApW-eGgdklJPfKSqpE_mNPx0P2el0sik-AYY2wJ8moM1abuEuyV8HpU8iA8B7aCEEmsvJ3tZy01DfpmL4ruU10LHVgiq2aM0KARlXIN_ltbtmOGuB2rdvdM9zX5kFIe6b1A6doMULXFw9164A-1gUkSZkRfone6jw7kX5i7_1LLbSmKhuWF2ec9oshDCuLLJpAzXbLx7ncAZDHhhtMM71PjtbEZfRH1oH0DKYKVNlyduZrx9HfejSOVjmK4Lv0_HXwB-u3he832B7eiXQfUFN_jipEse6q61hfeBcSlTDGlXMAWxys9esZmrPXwLIYuym63_BLsiv9326zING2DK9ShBHvZrjCI1bZHNZG2SQh1QpAj9IysB8pwSGC0RMBjl2yQLyaS4z7aw6TzP5quBDjNqMQ09NmRr4_u837c-TI2QefSQtK8VLc8aAMBA8DNxWqWTA5hBl0zDshDD5iOOxXjOwVhjZiP6zKSSO9mw3Q8wt2Xe6P4QFm94gadvh00sTfKhikKAbkqunwNNqJl6N71cIgw5VnLEkQL53Ul0dybeAtu56a6o3LFrnCIiuKzh1inSGUZPDbApRwf8UopeYzt4-K_AdBNfq8T4OrurUuaHVopG5anPXK7OurMDJ3s1zq0KLSQqJcIMup53vjiu00tQqGMc4y4VnXEtXUkZeE49gIGzaDA-eSlU6CX1My7L9G6pzzagDpUTewpqfWDKobXj5QEXNfEGTGlgOnpycMVg6_fo5hOWynBe6G9kMvn8etdNzctGlp4z7m6LDV4xUgn4q_vMxf3CockLW-e8TZdqjyYrSbvVcyz_1q0UD38vcKTnDk-Duwqbnil1SEs0zs7o3cu5gODbPy1bXeXP5XNyrg1EcG3GDY4rMybdCTPtVUtczMw-__C9J3fLljcPFVPd5gcHn1_5UDkV6mxFhNJipuDZz1jaPHtkxF9DKS2N113Hwsp-7uVs_mGDgDJaUvrBt1Fp4JIyn0_6daOOrEuSalBU6W2yuLu4YY8muB5hRd-cdb5C6QWI2FlDEg67N5fC4ljnbV0Hc44JejE7IvL0NrKvBUYcx6Vu2bpYeVqHg/http://www.amazon.com/dp/B0CV7WYS2N/ref=syn_sd_onsite_desktop_0?ie=UTF8&psc=1&pd_rd_plhdr=t&aref=YUuxn9b2pr
+                - img "Branded image" [ref=f39e14]
+            - button "Leave feedback on Sponsored ad" [ref=e790] [cursor=pointer]:
+              - generic [ref=e791]: Sponsored
+          - link "Need customer service?" [ref=e795] [cursor=pointer]:
+            - /url: /gp/help/customer/contact-us?initialIssue=cust-review
+      - generic [ref=e796]:
+        - text: ‹
+        - link "See all details for The Genesis Protocol (The Architecture of Survival Book 2)" [ref=e797] [cursor=pointer]:
+          - /url: /dp/B0GPM973N1/ref=cm_cr_arp_d_btm?ie=UTF8
+  - complementary "Your recently viewed items and featured recommendations"
+  - generic [ref=e798]:
+    - button "Back to top" [ref=e799] [cursor=pointer]:
+      - generic [ref=e800]: Back to top
+    - generic [ref=e801]:
+      - generic [ref=e802]:
+        - heading "Get to Know Us" [level=6] [ref=e803]
+        - list [ref=e804]:
+          - listitem [ref=e805]:
+            - link "Careers" [ref=e806] [cursor=pointer]:
+              - /url: https://www.amazon.jobs
+          - listitem [ref=e807]:
+            - link "Amazon Newsletter" [ref=e808] [cursor=pointer]:
+              - /url: https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup
+          - listitem [ref=e809]:
+            - link "About Amazon" [ref=e810] [cursor=pointer]:
+              - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about
+          - listitem [ref=e811]:
+            - link "Accessibility" [ref=e812] [cursor=pointer]:
+              - /url: https://www.amazon.com/b?node=15701038011&ie=UTF8
+          - listitem [ref=e813]:
+            - link "Sustainability" [ref=e814] [cursor=pointer]:
+              - /url: https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer
+          - listitem [ref=e815]:
+            - link "Press Center" [ref=e816] [cursor=pointer]:
+              - /url: https://www.amazon.com/pr
+          - listitem [ref=e817]:
+            - link "Investor Relations" [ref=e818] [cursor=pointer]:
+              - /url: https://www.amazon.com/ir
+          - listitem [ref=e819]:
+            - link "Amazon Devices" [ref=e820] [cursor=pointer]:
+              - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+          - listitem [ref=e821]:
+            - link "Amazon Science" [ref=e822] [cursor=pointer]:
+              - /url: https://www.amazon.science
+      - generic [ref=e824]:
+        - heading "Make Money with Us" [level=6] [ref=e825]
+        - list [ref=e826]:
+          - listitem [ref=e827]:
+            - link "Sell on Amazon" [ref=e828] [cursor=pointer]:
+              - /url: https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa
+          - listitem [ref=e829]:
+            - link "Sell apps on Amazon" [ref=e830] [cursor=pointer]:
+              - /url: https://developer.amazon.com
+          - listitem [ref=e831]:
+            - link "Supply to Amazon" [ref=e832] [cursor=pointer]:
+              - /url: https://supply.amazon.com
+          - listitem [ref=e833]:
+            - link "Protect & Build Your Brand" [ref=e834] [cursor=pointer]:
+              - /url: https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT
+          - listitem [ref=e835]:
+            - link "Become an Affiliate" [ref=e836] [cursor=pointer]:
+              - /url: https://affiliate-program.amazon.com/
+          - listitem [ref=e837]:
+            - link "Become a Delivery Driver" [ref=e838] [cursor=pointer]:
+              - /url: https://dspjobhub.com/
+          - listitem [ref=e839]:
+            - link "Start a Package Delivery Business" [ref=e840] [cursor=pointer]:
+              - /url: https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home
+          - listitem [ref=e841]:
+            - link "Advertise Your Products" [ref=e842] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+          - listitem [ref=e843]:
+            - link "Self-Publish with Us" [ref=e844] [cursor=pointer]:
+              - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+          - listitem [ref=e845]:
+            - link "Become an Amazon Hub Partner" [ref=e846] [cursor=pointer]:
+              - /url: https://www.amazon.com/b?node=216188543011
+          - listitem [ref=e847]:
+            - text: ›
+            - link "See More Ways to Make Money" [ref=e848] [cursor=pointer]:
+              - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+      - generic [ref=e850]:
+        - heading "Amazon Payment Products" [level=6] [ref=e851]
+        - list [ref=e852]:
+          - listitem [ref=e853]:
+            - link "Amazon Visa" [ref=e854] [cursor=pointer]:
+              - /url: /iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc
+          - listitem [ref=e855]:
+            - link "Amazon Store Card" [ref=e856] [cursor=pointer]:
+              - /url: /credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc
+          - listitem [ref=e857]:
+            - link "Amazon Secured Card" [ref=e858] [cursor=pointer]:
+              - /url: /dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB
+          - listitem [ref=e859]:
+            - link "Amazon Business Card" [ref=e860] [cursor=pointer]:
+              - /url: /dp/B0DVBL912R?plattr=ACOMFO&ie=UTF-8
+          - listitem [ref=e861]:
+            - link "Shop with Points" [ref=e862] [cursor=pointer]:
+              - /url: https://www.amazon.com/hp/shopwithpoints/servicing
+          - listitem [ref=e863]:
+            - link "Credit Card Marketplace" [ref=e864] [cursor=pointer]:
+              - /url: /gp/browse.html?node=3561432011&ref_=footer_ccmp
+          - listitem [ref=e865]:
+            - link "Reload Your Balance" [ref=e866] [cursor=pointer]:
+              - /url: /gp/browse.html?node=10232440011&ref_=footer_reload_us
+          - listitem [ref=e867]:
+            - link "Gift Cards" [ref=e868] [cursor=pointer]:
+              - /url: https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop
+          - listitem [ref=e869]:
+            - link "Amazon Currency Converter" [ref=e870] [cursor=pointer]:
+              - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+      - generic [ref=e872]:
+        - heading "Let Us Help You" [level=6] [ref=e873]
+        - list [ref=e874]:
+          - listitem [ref=e875]:
+            - link "Your Account" [ref=e876] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+          - listitem [ref=e877]:
+            - link "Your Orders" [ref=e878] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+          - listitem [ref=e879]:
+            - link "Shipping Rates & Policies" [ref=e880] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+          - listitem [ref=e881]:
+            - link "Amazon Prime" [ref=e882] [cursor=pointer]:
+              - /url: /gp/prime?ref_=footer_prime
+          - listitem [ref=e883]:
+            - link "Returns & Replacements" [ref=e884] [cursor=pointer]:
+              - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+          - listitem [ref=e885]:
+            - link "Manage Your Content and Devices" [ref=e886] [cursor=pointer]:
+              - /url: /hz/mycd/myx?ref_=footer_myk
+          - listitem [ref=e887]:
+            - link "Recalls and Product Safety Alerts" [ref=e888] [cursor=pointer]:
+              - /url: https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa
+          - listitem [ref=e889]:
+            - link "Registry & Gift List" [ref=e890] [cursor=pointer]:
+              - /url: /registries?ref_=nav_footer_registry_giftlist_desktop
+          - listitem [ref=e891]:
+            - link "Help" [ref=e892] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+    - generic [ref=e894]:
+      - link "Amazon US Home" [ref=e897] [cursor=pointer]:
+        - /url: /?ref_=footer_logo
+      - generic [ref=e900]:
+        - generic [ref=e901]:
+          - link "Choose a language for shopping. Current selection is English." [ref=e902] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+            - generic [ref=e904]: English
+          - button "Expand to Change Language or Country" [ref=e905] [cursor=pointer]
+        - button "Choose a country/region for shopping. The current selection is United States." [ref=e906] [cursor=pointer]:
+          - generic [ref=e908]: United States
+    - navigation "More on Amazon" [ref=e909]:
+      - generic "More on Amazon" [ref=e910]:
+        - list [ref=e911]:
+          - listitem [ref=e912]:
+            - link "Amazon Music Stream millions of songs" [ref=e913] [cursor=pointer]:
+              - /url: https://music.amazon.com?ref=dm_aff_amz_com
+              - heading "Amazon Music" [level=5] [ref=e914]
+              - generic [ref=e915]:
+                - text: Stream millions
+                - text: of songs
+          - listitem [ref=e916]
+          - listitem [ref=e917]:
+            - link "Amazon Ads Reach customers wherever they spend their time" [ref=e918] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+              - heading "Amazon Ads" [level=5] [ref=e919]
+              - generic [ref=e920]:
+                - text: Reach customers
+                - text: wherever they
+                - text: spend their time
+          - listitem [ref=e921]
+          - listitem [ref=e922]:
+            - link "6pm Score deals on fashion brands" [ref=e923] [cursor=pointer]:
+              - /url: https://www.6pm.com
+              - heading "6pm" [level=5] [ref=e924]
+              - generic [ref=e925]:
+                - text: Score deals
+                - text: on fashion brands
+          - listitem [ref=e926]
+          - listitem [ref=e927]:
+            - link "AbeBooks Books, art & collectibles" [ref=e928] [cursor=pointer]:
+              - /url: https://www.abebooks.com
+              - heading "AbeBooks" [level=5] [ref=e929]
+              - generic [ref=e930]:
+                - text: Books, art
+                - text: "& collectibles"
+          - listitem [ref=e931]
+          - listitem [ref=e932]:
+            - link "ACX Audiobook Publishing Made Easy" [ref=e933] [cursor=pointer]:
+              - /url: https://www.acx.com/
+              - heading "ACX" [level=5] [ref=e934]
+              - generic [ref=e935]:
+                - text: Audiobook Publishing
+                - text: Made Easy
+          - listitem [ref=e936]
+          - listitem [ref=e937]:
+            - link "Sell on Amazon Start a Selling Account" [ref=e938] [cursor=pointer]:
+              - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+              - heading "Sell on Amazon" [level=5] [ref=e939]
+              - generic [ref=e940]: Start a Selling Account
+          - listitem [ref=e941]
+          - listitem [ref=e942]:
+            - link "Veeqo Shipping Software Inventory Management" [ref=e943] [cursor=pointer]:
+              - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+              - heading "Veeqo" [level=5] [ref=e944]
+              - generic [ref=e945]:
+                - text: Shipping Software
+                - text: Inventory Management
+        - list [ref=e946]:
+          - listitem [ref=e947]:
+            - link "Amazon Business Everything For Your Business" [ref=e948] [cursor=pointer]:
+              - /url: /business?ref_=footer_retail_b2b
+              - heading "Amazon Business" [level=5] [ref=e949]
+              - generic [ref=e950]:
+                - text: Everything For
+                - text: Your Business
+          - listitem [ref=e951]
+          - listitem [ref=e952]:
+            - link "Amazon Fresh Groceries & More Right To Your Door" [ref=e953] [cursor=pointer]:
+              - /url: /alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh
+              - heading "Amazon Fresh" [level=5] [ref=e954]
+              - generic [ref=e955]:
+                - text: Groceries & More
+                - text: Right To Your Door
+          - listitem [ref=e956]
+          - listitem [ref=e957]:
+            - link "AmazonGlobal Ship Orders Internationally" [ref=e958] [cursor=pointer]:
+              - /url: /gp/browse.html?node=230659011&ref_=footer_amazonglobal
+              - heading "AmazonGlobal" [level=5] [ref=e959]
+              - generic [ref=e960]:
+                - text: Ship Orders
+                - text: Internationally
+          - listitem [ref=e961]
+          - listitem [ref=e962]:
+            - link "Home Services Experienced Pros Happiness Guarantee" [ref=e963] [cursor=pointer]:
+              - /url: /services?ref_=footer_services
+              - heading "Home Services" [level=5] [ref=e964]
+              - generic [ref=e965]:
+                - text: Experienced Pros
+                - text: Happiness Guarantee
+          - listitem [ref=e966]
+          - listitem [ref=e967]:
+            - link "Amazon Web Services Scalable Cloud Computing Services" [ref=e968] [cursor=pointer]:
+              - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+              - heading "Amazon Web Services" [level=5] [ref=e969]
+              - generic [ref=e970]:
+                - text: Scalable Cloud
+                - text: Computing Services
+          - listitem [ref=e971]
+          - listitem [ref=e972]:
+            - link "Audible Listen to Books & Original Audio Performances" [ref=e973] [cursor=pointer]:
+              - /url: https://www.audible.com
+              - heading "Audible" [level=5] [ref=e974]
+              - generic [ref=e975]:
+                - text: Listen to Books & Original
+                - text: Audio Performances
+          - listitem [ref=e976]
+          - listitem [ref=e977]:
+            - link "Box Office Mojo Find Movie Box Office Data" [ref=e978] [cursor=pointer]:
+              - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+              - heading "Box Office Mojo" [level=5] [ref=e979]
+              - generic [ref=e980]:
+                - text: Find Movie
+                - text: Box Office Data
+        - list [ref=e981]:
+          - listitem [ref=e982]:
+            - link "Goodreads Book reviews & recommendations" [ref=e983] [cursor=pointer]:
+              - /url: https://www.goodreads.com
+              - heading "Goodreads" [level=5] [ref=e984]
+              - generic [ref=e985]:
+                - text: Book reviews
+                - text: "& recommendations"
+          - listitem [ref=e986]
+          - listitem [ref=e987]:
+            - link "IMDb Movies, TV & Celebrities" [ref=e988] [cursor=pointer]:
+              - /url: https://www.imdb.com
+              - heading "IMDb" [level=5] [ref=e989]
+              - generic [ref=e990]:
+                - text: Movies, TV
+                - text: "& Celebrities"
+          - listitem [ref=e991]
+          - listitem [ref=e992]:
+            - link "IMDbPro Get Info Entertainment Professionals Need" [ref=e993] [cursor=pointer]:
+              - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+              - heading "IMDbPro" [level=5] [ref=e994]
+              - generic [ref=e995]:
+                - text: Get Info Entertainment
+                - text: Professionals Need
+          - listitem [ref=e996]
+          - listitem [ref=e997]:
+            - link "Kindle Direct Publishing Indie Digital & Print Publishing Made Easy" [ref=e998] [cursor=pointer]:
+              - /url: https://kdp.amazon.com
+              - heading "Kindle Direct Publishing" [level=5] [ref=e999]
+              - generic [ref=e1000]:
+                - text: Indie Digital & Print Publishing
+                - text: Made Easy
+          - listitem [ref=e1001]
+          - listitem [ref=e1002]:
+            - link "Amazon Photos Unlimited Photo Storage Free With Prime" [ref=e1003] [cursor=pointer]:
+              - /url: /gp/browse.html?node=13234696011&ref_=_gno_p_foot
+              - heading "Amazon Photos" [level=5] [ref=e1004]
+              - generic [ref=e1005]:
+                - text: Unlimited Photo Storage
+                - text: Free With Prime
+          - listitem [ref=e1006]
+          - listitem [ref=e1007]:
+            - link "Prime Video Direct Video Distribution Made Easy" [ref=e1008] [cursor=pointer]:
+              - /url: https://videodirect.amazon.com/home/landing
+              - heading "Prime Video Direct" [level=5] [ref=e1009]
+              - generic [ref=e1010]:
+                - text: Video Distribution
+                - text: Made Easy
+          - listitem [ref=e1011]
+          - listitem [ref=e1012]:
+            - link "Shopbop Designer Fashion Brands" [ref=e1013] [cursor=pointer]:
+              - /url: https://www.shopbop.com
+              - heading "Shopbop" [level=5] [ref=e1014]
+              - generic [ref=e1015]:
+                - text: Designer
+                - text: Fashion Brands
+        - list [ref=e1016]:
+          - listitem [ref=e1017]:
+            - link "Amazon Resale Great Deals on Quality Used Products" [ref=e1018] [cursor=pointer]:
+              - /url: /gp/browse.html?node=10158976011&ref_=footer_wrhsdls
+              - heading "Amazon Resale" [level=5] [ref=e1019]
+              - generic [ref=e1020]:
+                - text: Great Deals on
+                - text: Quality Used Products
+          - listitem [ref=e1021]
+          - listitem [ref=e1022]:
+            - link "Whole Foods Market America’s Healthiest Grocery Store" [ref=e1023] [cursor=pointer]:
+              - /url: https://www.wholefoodsmarket.com
+              - heading "Whole Foods Market" [level=5] [ref=e1024]
+              - generic [ref=e1025]:
+                - text: America’s Healthiest
+                - text: Grocery Store
+          - listitem [ref=e1026]
+          - listitem [ref=e1027]:
+            - link "Woot! Deals and Shenanigans" [ref=e1028] [cursor=pointer]:
+              - /url: https://www.woot.com/
+              - heading "Woot!" [level=5] [ref=e1029]
+              - generic [ref=e1030]:
+                - text: Deals and
+                - text: Shenanigans
+          - listitem [ref=e1031]
+          - listitem [ref=e1032]:
+            - link "Zappos Shoes & Clothing" [ref=e1033] [cursor=pointer]:
+              - /url: https://www.zappos.com
+              - heading "Zappos" [level=5] [ref=e1034]
+              - generic [ref=e1035]:
+                - text: Shoes &
+                - text: Clothing
+          - listitem [ref=e1036]
+          - listitem [ref=e1037]:
+            - link "Ring Smart Home Security Systems" [ref=e1038] [cursor=pointer]:
+              - /url: https://ring.com
+              - heading "Ring" [level=5] [ref=e1039]
+              - generic [ref=e1040]:
+                - text: Smart Home
+                - text: Security Systems
+          - listitem [ref=e1041]
+          - listitem [ref=e1042]:
+            - link "eero WiFi Stream 4K Video in Every Room" [ref=e1043] [cursor=pointer]:
+              - /url: https://eero.com/
+              - heading "eero WiFi" [level=5] [ref=e1044]
+              - generic [ref=e1045]:
+                - text: Stream 4K Video
+                - text: in Every Room
+          - listitem [ref=e1046]
+          - listitem [ref=e1047]:
+            - link "Blink Smart Security for Every Home" [ref=e1048] [cursor=pointer]:
+              - /url: https://blinkforhome.com/?ref=nav_footer
+              - heading "Blink" [level=5] [ref=e1049]
+              - generic [ref=e1050]:
+                - text: Smart Security
+                - text: for Every Home
+        - list [ref=e1051]:
+          - listitem [ref=e1052]
+          - listitem [ref=e1053]
+          - listitem [ref=e1054]:
+            - link "Neighbors App Real-Time Crime & Safety Alerts" [ref=e1055] [cursor=pointer]:
+              - /url: https://shop.ring.com/pages/neighbors-app
+              - heading "Neighbors App" [level=5] [ref=e1056]
+              - generic [ref=e1057]:
+                - text: Real-Time Crime
+                - text: "& Safety Alerts"
+          - listitem [ref=e1058]
+          - listitem [ref=e1059]:
+            - link "Amazon Subscription Boxes Top subscription boxes – right to your door" [ref=e1060] [cursor=pointer]:
+              - /url: /gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa
+              - heading "Amazon Subscription Boxes" [level=5] [ref=e1061]
+              - generic [ref=e1062]: Top subscription boxes – right to your door
+          - listitem [ref=e1063]
+          - listitem [ref=e1064]:
+            - link "PillPack Pharmacy Simplified" [ref=e1065] [cursor=pointer]:
+              - /url: https://www.pillpack.com
+              - heading "PillPack" [level=5] [ref=e1066]
+              - generic [ref=e1067]: Pharmacy Simplified
+          - listitem [ref=e1068]
+          - listitem [ref=e1069]:
+            - link "Amazon Renewed Refurbished tech you can trust" [ref=e1070] [cursor=pointer]:
+              - /url: /gp/browse.html?node=12653393011&ref_=footer_usrenew
+              - heading "Amazon Renewed" [level=5] [ref=e1071]
+              - generic [ref=e1072]:
+                - text: Refurbished tech
+                - text: you can trust
+          - listitem [ref=e1073]
+          - listitem [ref=e1074]
+          - listitem [ref=e1075]
+          - listitem [ref=e1076]
+    - generic [ref=e1077]:
+      - list [ref=e1078]:
+        - listitem [ref=e1079]:
+          - link "Conditions of Use" [ref=e1080] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+        - listitem [ref=e1081]:
+          - link "Privacy Notice" [ref=e1082] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy
+        - listitem [ref=e1083]:
+          - link "Consumer Health Data Privacy Disclosure" [ref=e1084] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+        - listitem [ref=e1085]:
+          - link "Your Ads Privacy Choices" [ref=e1086] [cursor=pointer]:
+            - /url: /privacyprefs?ref_=footer_iba
+        - listitem [ref=e1087]
+      - generic [ref=e1089]: © 1996-2026, Amazon.com, Inc. or its affiliates

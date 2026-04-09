@@ -1,0 +1,120 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e6] [cursor=pointer]:
+        - /url: "#AACApplicationBody"
+      - generic [ref=e8]:
+        - link "Amazon Advertising Console" [ref=e9] [cursor=pointer]:
+          - /url: /mn
+          - img "Amazon Advertising Console" [ref=e10]
+        - generic [ref=e12]:
+          - link "Campaigns." [ref=e13] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+          - switch "Set Campaigns as your homepage" [ref=e17] [cursor=pointer]
+        - generic [ref=e22]:
+          - button "Randy Pellegrini Sponsored ads, multiple countries" [ref=e24] [cursor=pointer]
+          - button "See my notifications" [ref=e31] [cursor=pointer]
+          - button "Open the help panel" [ref=e38] [cursor=pointer]
+          - button "Your preferences" [ref=e45] [cursor=pointer]
+    - generic [ref=e51]:
+      - generic [ref=e53]:
+        - button "Create campaign" [ref=e55] [cursor=pointer]:
+          - img "Create campaign" [ref=e57]
+          - generic [ref=e60]: Create campaign
+        - link "Campaigns" [ref=e62] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Campaigns" [ref=e64]
+          - generic [ref=e66]
+        - link "Recommendations" [ref=e76] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Recommendations" [ref=e78]
+          - generic [ref=e83]
+        - generic [ref=e85]:
+          - button "Show links under Creative tools" [ref=e87] [cursor=pointer]
+          - generic [ref=e97]
+        - link "Ads planner" [ref=e112] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+          - img "Ads planner" [ref=e114]
+          - generic [ref=e116]
+        - generic [ref=e118]:
+          - button "Show links under Measurement & reporting" [ref=e120] [cursor=pointer]
+          - generic [ref=e129]
+        - generic [ref=e149]:
+          - button "Show links under Tools & resources" [ref=e151] [cursor=pointer]
+          - generic [ref=e160]
+        - button "All tools" [ref=e185] [cursor=pointer]:
+          - img "All tools" [ref=e187]
+          - generic [ref=e190]: All tools
+        - generic [ref=e191]:
+          - button "Show links under Administration" [ref=e193] [cursor=pointer]
+          - generic [ref=e202]
+      - generic:
+        - generic:
+          - generic "Create campaign"
+        - generic:
+          - link "Campaigns":
+            - /url: https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - link "Recommendations":
+            - /url: https://advertising.amazon.com/recommendations?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - generic "Show links under Creative tools"
+          - generic
+        - generic:
+          - link "Ads planner":
+            - /url: https://advertising.amazon.com/mediaplanning?entityId=ENTITY1SABYJ3Y7NOJU
+        - generic:
+          - generic "Show links under Measurement & reporting"
+          - generic
+        - generic:
+          - generic "Show links under Tools & resources"
+          - generic
+        - generic:
+          - generic "Show links under Administration"
+          - generic
+  - generic [ref=e216]:
+    - navigation "Sidebar" [ref=e218]:
+      - button "Hide navigation menu" [expanded] [ref=e219] [cursor=pointer]:
+        - img [ref=e221]
+        - generic [ref=e225]: Hide navigation menu
+      - list [ref=e226]:
+        - generic [ref=e227]:
+          - listitem [ref=e228]
+          - listitem [ref=e232]
+          - listitem [ref=e236]
+        - separator
+        - generic [ref=e241]:
+          - listitem [ref=e242]
+          - listitem [ref=e246]
+          - listitem [ref=e250]
+        - separator
+        - generic [ref=e255]:
+          - listitem [ref=e256]
+          - listitem [ref=e260]
+          - listitem [ref=e266]
+    - generic [ref=e272]:
+      - button "Share feedback" [ref=e278] [cursor=pointer]
+      - generic [ref=e295]:
+        - img [ref=e298]
+        - generic [ref=e300]:
+          - heading "Set up billing to advertise in India" [level=4] [ref=e302]
+          - generic [ref=e304]
+        - button "Dismiss message" [ref=e306] [cursor=pointer]:
+          - img [ref=e308]
+          - generic [ref=e310]: Dismiss message
+      - generic [ref=e311]:
+        - navigation [ref=e312]:
+          - generic [ref=e313]
+        - generic [ref=e330]:
+          - generic [ref=e335]
+          - generic [ref=e456]
+  - generic [ref=e288]:
+    - generic [ref=e289]: © 2026 Amazon.com, Inc. or its affiliates.
+    - link "Conditions of use" [ref=e290] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088
+    - link "Privacy notice" [ref=e291] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+    - link "Amazon Advertising Agreement" [ref=e292] [cursor=pointer]:
+      - /url: https://advertising.amazon.com/terms
+    - link "Status" [ref=e293] [cursor=pointer]:
+      - /url: https://status.ads.amazon.com

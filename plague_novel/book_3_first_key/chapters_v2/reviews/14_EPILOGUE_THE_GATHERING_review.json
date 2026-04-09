@@ -1,0 +1,870 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_3_first_key/chapters_v2/14_EPILOGUE_THE_GATHERING.md",
+  "review_date": "2026-03-27T12:12:39.729843",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Proofreader",
+    "Sensitivity Editor",
+    "Copy Editor",
+    "Scientific Accuracy Editor",
+    "Developmental Editor",
+    "Acquisitions Editor",
+    "Accessibility Editor",
+    "Historical Authenticity Editor",
+    "Genre Editor",
+    "Emotional Resonance Editor",
+    "Line Editor",
+    "Immersive Experience Editor"
+  ],
+  "notes": [
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 2",
+      "issue": "Missing comma in compound sentence",
+      "suggestion": "Add comma before 'a rhythm so specific'",
+      "example_before": "shallow, almost silent, a rhythm so specific he could have identified her",
+      "example_after": "shallow, almost silent, a rhythm so specific he could have identified her"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "paragraph 6, last sentence",
+      "issue": "Awkward phrasing with 'the phantom wound bled on'",
+      "suggestion": "Clarify or rephrase the ending",
+      "example_before": "where the phantom wound bled on",
+      "example_after": "where the phantom wound still bled"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "suggestion",
+      "category": "consistency",
+      "location": "scene break formatting",
+      "issue": "Scene breaks use different spacing patterns",
+      "suggestion": "Standardize scene break spacing - use consistent number of line breaks",
+      "example_before": "Various spacing between sections",
+      "example_after": "Consistent triple line breaks between all sections"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph with 'Do that again'",
+      "issue": "Inconsistent italicization of internal thoughts",
+      "suggestion": "Consider italicizing 'look at this', 'start over', 'come here' for consistency with other internal references",
+      "example_before": "The single tap on the workbench that meant look at this, the two taps that meant start over, the three that meant come here",
+      "example_after": "The single tap on the workbench that meant *look at this*, the two taps that meant *start over*, the three that meant *come here*"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "cultural representation",
+      "location": "paragraph 3",
+      "issue": "The description of Jesus's workshop and tools feels authentic to 1st century Palestinian craftwork, but could benefit from more specific cultural grounding",
+      "suggestion": "Consider adding a detail that more clearly situates this in Jewish Palestinian culture - perhaps a mezuzah on the doorframe or reference to Sabbath rest patterns",
+      "example_before": "an adze and a bow drill and a bronze plumb line hanging from pegs his father had driven into the limestone wall",
+      "example_after": "an adze and a bow drill and a bronze plumb line hanging from pegs his father had driven into the limestone wall, beside the small wooden mezuzah that marked this as a house of Israel"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "religious sensitivity",
+      "location": "final paragraphs",
+      "issue": "The ending maintains respectful ambiguity about the divine nature of Jesus's experience while preserving Christian theological possibilities",
+      "suggestion": "This is well-handled - the text neither dismisses nor definitively claims divine intervention, allowing readers of different faiths to interpret according to their beliefs",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "power dynamics",
+      "location": "hillside teaching scene",
+      "issue": "The crowd composition could be slightly more diverse to reflect 1st century Galilean society",
+      "suggestion": "Consider mentioning a Gentile or two among the crowd, or perhaps a traveling merchant, to reflect the cosmopolitan nature of Galilean lakeside communities",
+      "example_before": "Fishermen's families, mostly",
+      "example_after": "Fishermen's families mostly, with a few traders from the caravan routes and perhaps a Greek-speaking merchant from the Decapolis"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "historical accuracy",
+      "location": "tax collector booth reference",
+      "issue": "The casual mention of the Roman tax collection system is historically accurate and appropriately brief",
+      "suggestion": "This detail effectively grounds the scene in the Roman imperial context without overemphasizing occupation dynamics",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "gender representation",
+      "location": "crowd descriptions",
+      "issue": "Women in the crowd are present and given agency in their responses, which is good, but could be strengthened",
+      "suggestion": "Consider giving one of the women a more specific professional or social identity beyond 'fisherman's wife' - perhaps a midwife, trader, or widow managing her own household",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 3",
+      "issue": "Missing comma in compound sentence",
+      "suggestion": "Add comma before 'and'",
+      "example_before": "Not deliberately. The way a sleeping person shifts toward a body that isn't there, fingers spreading, searching for something his mind couldn't name but his body remembered with absolute specificity: the exact temperature of another person's skin.",
+      "example_after": "Not deliberately. The way a sleeping person shifts toward a body that isn't there, fingers spreading, searching for something his mind couldn't name, but his body remembered with absolute specificity: the exact temperature of another person's skin."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "paragraph 5",
+      "issue": "Repetitive use of 'knew' at beginning of three consecutive sentences",
+      "suggestion": "Vary sentence structure to avoid repetition",
+      "example_before": "He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus: three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated",
+      "example_after": "He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. She held a stylus with three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 14",
+      "issue": "Missing period after 'moved'",
+      "suggestion": "Add period for proper sentence termination",
+      "example_before": "Not stayed in his chest where it always lived. *Moved.*",
+      "example_after": "Not stayed in his chest where it always lived. *Moved*."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "style consistency",
+      "location": "paragraph 20",
+      "issue": "Inconsistent use of em-dashes vs. commas for parenthetical information",
+      "suggestion": "Use consistent punctuation for similar parenthetical elements",
+      "example_before": "The man's jaw worked. His hand found his wife's hand and gripped it \u2014 hard, desperately, as if the ground had moved beneath them \u2014 and his breathing changed.",
+      "example_after": "The man's jaw worked. His hand found his wife's hand and gripped it\u2014hard, desperately, as if the ground had moved beneath them\u2014and his breathing changed."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "paragraph 25",
+      "issue": "Redundant phrasing 'completely still' followed by explanation",
+      "suggestion": "Remove redundancy for cleaner prose",
+      "example_before": "An old man near the back \u2014 bent spine, white beard, the permanent tremor of someone whose body was failing him \u2014 went still. Completely still.",
+      "example_after": "An old man near the back \u2014 bent spine, white beard, the permanent tremor of someone whose body was failing him \u2014 went completely still."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "style consistency",
+      "location": "paragraph 27",
+      "issue": "Fragment sentence could be integrated for better flow",
+      "suggestion": "Combine fragment with previous sentence",
+      "example_before": "He was enduring it \u2014 the way you endure a wave that's too large to swim through, a grief that's too old to have a name.",
+      "example_after": "He was enduring it the way you endure a wave that's too large to swim through, a grief that's too old to have a name."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 30",
+      "issue": "Inconsistent spacing around em-dashes",
+      "suggestion": "Use consistent spacing (preferably no spaces) with em-dashes",
+      "example_before": "multiplied, concentrated, the source rather than the echo",
+      "example_after": "multiplied, concentrated, the source rather than the echo"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "anatomical precision",
+      "location": "paragraph 1",
+      "issue": "The description 'left side of his chest, just beneath the ribs' is anatomically vague - this could refer to multiple organ locations",
+      "suggestion": "Consider more specific anatomical reference, such as 'beneath his left costal margin' or 'over his heart' for clarity",
+      "example_before": "a heat that lived on the left side of his chest, just beneath the ribs",
+      "example_after": "a heat that lived beneath his left costal margin, just over his heart"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "material science",
+      "location": "paragraph 2",
+      "issue": "Bronze plumb lines were uncommon in 1st century Palestine carpentry - iron or stone weights were more typical",
+      "suggestion": "Replace with 'stone plumb line' or 'iron plumb bob' for historical accuracy",
+      "example_before": "a bronze plumb line hanging from pegs",
+      "example_after": "a stone plumb line hanging from pegs"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "geological accuracy",
+      "location": "paragraph 8",
+      "issue": "Black basalt pebbles transitioning to 'wild mustard and scrub grass' - basalt shores typically have different vegetation patterns due to soil chemistry",
+      "suggestion": "Consider mentioning the alkaline soil conditions that basalt creates, which affects plant growth",
+      "example_before": "where black basalt pebbles gave way to wild mustard and scrub grass",
+      "example_after": "where black basalt pebbles gave way to hardy scrub grass and salt-tolerant plants"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "physiological plausibility",
+      "location": "paragraph 12",
+      "issue": "The description of the 'dam breaking' and energy flowing through palms and feet suggests a hydraulic model that doesn't align with nervous system function",
+      "suggestion": "Consider describing this as neural/electrical sensation or use more abstract metaphors to avoid pseudo-scientific implications",
+      "example_before": "pour through his shoulders and down his arms and out through his palms and the soles of his feet",
+      "example_after": "spread through his nervous system, radiating outward from his core"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "neurological accuracy",
+      "location": "paragraph 25",
+      "issue": "The description of tremor cessation due to emotional state oversimplifies neurological conditions - essential tremor doesn't typically stop completely from emotional experiences",
+      "suggestion": "Soften the description to suggest improvement rather than complete cessation",
+      "example_before": "The tremor stopped. His hands, which hadn't been steady in years, lay quiet in his lap",
+      "example_after": "The tremor eased. His hands, which hadn't been steady in years, grew calmer in his lap"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "physics of sound",
+      "location": "paragraph 26",
+      "issue": "Reading lip movements from 'seven paces away' in ancient lighting conditions would be extremely difficult",
+      "suggestion": "Reduce the distance or provide better lighting conditions for plausibility",
+      "example_before": "Jesus, watching from seven paces away, could read the shape of the word",
+      "example_after": "Jesus, standing close enough to see clearly, could read the shape of the word"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "hydrogeology",
+      "location": "paragraph 42",
+      "issue": "The well analogy oversimplifies groundwater formation - rainwater doesn't take 'decades' to reach most water tables in Mediterranean climates",
+      "suggestion": "Adjust timeframe or specify deep aquifers for accuracy",
+      "example_before": "Takes years. Decades.",
+      "example_after": "Takes months, sometimes years for the deeper sources."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "character arc",
+      "location": "paragraph 4-6",
+      "issue": "Jesus's inherited memories are too specific and detailed, making him feel less like himself and more like a vessel for ancient characters",
+      "suggestion": "Reduce the specificity of inherited memories. Focus more on emotional impressions and physical sensations rather than detailed knowledge of hand positions, work habits, and specific sounds. This preserves the mystical element while maintaining Jesus as the primary character.",
+      "example_before": "He knew the way she held a stylus: three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated \u2014 shallow, almost silent",
+      "example_after": "He knew the weight of grief for hands that had fit his perfectly. He knew the ache of missing someone whose breath had once matched his own rhythm."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "pacing",
+      "location": "paragraphs 8-20",
+      "issue": "The hillside scene, while beautifully written, becomes repetitive in its descriptions of people weeping and being transformed",
+      "suggestion": "Condense the crowd reactions by focusing on 2-3 specific individuals rather than cycling through many. This maintains the power while improving pace and avoiding repetition.",
+      "example_before": "Multiple detailed descriptions of different people having similar reactions",
+      "example_after": "Focus intensely on the fisherman's wife, then the hard fisherman, then perhaps one child\u2014each with distinctly different manifestations of the love echo"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "narrative momentum",
+      "location": "paragraphs 24-30",
+      "issue": "The conversation between Jesus and Simon lacks tension or conflict\u2014both characters are essentially in agreement",
+      "suggestion": "Add some resistance from Simon\u2014perhaps fear about what this means, or concern about the implications. This creates dramatic tension and makes Jesus's certainty more meaningful.",
+      "example_before": "Simon accepting everything Jesus says about the love overflow",
+      "example_after": "Simon expressing doubt: 'What if we can't control it? What if it tears people apart instead of bringing them together?'"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "plot logic",
+      "location": "paragraph 15",
+      "issue": "The fisherman's mouth forming words from 'a language dead for a thousand years' feels contrived and breaks believability",
+      "suggestion": "Have the fisherman simply mouth wordless sounds or a name he doesn't recognize, rather than specifically ancient language. This preserves the mystical element without straining credibility.",
+      "example_before": "a word from a language dead for a thousand years, a vowel sound that had once made someone in a workshop look up",
+      "example_after": "a sound that wasn't quite a word, wasn't quite a name\u2014something his throat remembered that his mind had never learned"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "suggestion",
+      "category": "scene purpose",
+      "location": "paragraphs 32-36",
+      "issue": "The ending workshop scene feels anticlimactic after the powerful hillside sequence",
+      "suggestion": "Either strengthen this scene with more specific action/decision, or end with the Simon conversation. The current ending dissipates energy rather than building toward Book 4.",
+      "example_before": "He opened his eyes. Lowered his hand. Picked up his tools. The love doesn't resolve into understanding. It resolves into action. He had work to do.",
+      "example_after": "Consider ending with Jesus making a specific decision about his teaching, or with a concrete image that points toward his public ministry"
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "critical",
+      "category": "hook strength",
+      "location": "opening paragraphs 1-4",
+      "issue": "The opening is too abstract and internal for a commercial thriller hook. Readers need immediate stakes or intrigue to pull them in.",
+      "suggestion": "Start with the hillside teaching scene and Jesus feeling the love 'move' for the first time. Open with action/mystery, then layer in the backstory through flashbacks.",
+      "example_before": "The warmth had been there as long as he could remember. Not fever. Not sunlight...",
+      "example_after": "Jesus was mid-sentence\u2014something about roots in shallow ground\u2014when it moved. The warmth that had lived beneath his ribs for thirty years suddenly broke like a dam, pouring out of him and into the crowd..."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "critical",
+      "category": "market positioning",
+      "location": "entire chapter structure",
+      "issue": "This reads more like literary fiction than intellectual thriller. Missing the thriller elements that would drive page-turning and commercial appeal.",
+      "suggestion": "Add thriller elements: someone in the crowd recognizing what's happening, Roman surveillance, or hints that this 'overflow' has been anticipated/feared by the network. Create forward tension.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "pacing",
+      "location": "paragraphs 5-12",
+      "issue": "The inherited memory section is beautifully written but too long and contemplative for thriller pacing. It stops forward momentum.",
+      "suggestion": "Cut this section by 60%. Keep only the most vivid sensory details (the scarred thumb, the workshop sounds) and move quickly to the present action.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "uniqueness/blurb material",
+      "location": "the love overflow scene, paragraphs 15-35",
+      "issue": "This is the book's strongest unique selling point\u2014ancient love literally manifesting as supernatural power\u2014but it's buried too deep in the chapter.",
+      "suggestion": "This scene should be the opening. It's your 'elevator pitch moment'\u2014the thing that makes readers say 'I've never read anything like this.' Lead with your strongest material.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "readability",
+      "location": "throughout",
+      "issue": "The prose is often too literary/dense for mainstream thriller readers. Beautiful language but risks alienating commercial audience.",
+      "suggestion": "Simplify sentence structures. Break up long philosophical passages with action beats. Make the profound moments feel earned rather than constant.",
+      "example_before": "A vocabulary more intimate than words.",
+      "example_after": "Twenty years of shared gestures. More intimate than words."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "series potential",
+      "location": "Jesus-Simon dialogue, paragraphs 40-55",
+      "issue": "The conversation resolves too much. Removes mystery that should drive the next book.",
+      "suggestion": "Have Jesus admit he doesn't understand what happened. Add lines like: 'What if this isn't the end of something? What if it's the beginning?' Create questions, not answers.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "thriller tension",
+      "location": "ending paragraphs 60-65",
+      "issue": "The ending is too peaceful/resolved for a thriller. Need forward tension or threat.",
+      "suggestion": "Add a hint that others are aware of what happened\u2014Roman observers, network members, someone who felt the overflow from miles away. End with approaching consequences.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "suggestion",
+      "category": "commercial appeal",
+      "location": "the love manifestation concept",
+      "issue": "This unique premise needs clearer marketing positioning. Is it supernatural? Genetic? Sci-fi?",
+      "suggestion": "Lean slightly more into one interpretation while preserving ambiguity. Give readers a clear genre expectation while maintaining mystery about the mechanism.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "concept accessibility",
+      "location": "paragraph 3",
+      "issue": "The inherited memory concept is introduced with complex, abstract language that may confuse readers",
+      "suggestion": "Ground this supernatural element in more concrete, relatable terms before diving into the abstract",
+      "example_before": "through inherited memory so vivid it was indistinguishable from experience",
+      "example_after": "His body remembered things that had never happened to him\u2014like muscle memory, but for emotions that belonged to people who died centuries before he was born"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "jargon management",
+      "location": "paragraph 4",
+      "issue": "Technical terms like 'hieratic script' are dropped without context or explanation",
+      "suggestion": "Either remove specialized terms or provide immediate context through character observation",
+      "example_before": "the grip of someone trained in hieratic script",
+      "example_after": "the careful grip of someone who'd spent years writing with reed pens on papyrus"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "critical",
+      "category": "exposition balance",
+      "location": "paragraphs 1-6",
+      "issue": "Opening is a dense information dump about inherited memory presented as internal monologue rather than discovery",
+      "suggestion": "Show Jesus discovering or experiencing these memories in the present moment rather than explaining them as established knowledge",
+      "example_before": "He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it.",
+      "example_after": "His hand moved again, fingers spreading. Searching. The motion felt familiar, though he'd never... He pulled his hand back, confused. Why did his body know how to reach for someone who wasn't there?"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "character-driven explanation",
+      "location": "middle section (crowd scene)",
+      "issue": "While the crowd scene shows the love's effect well, Jesus's understanding comes too easily without struggle or confusion",
+      "suggestion": "Show Jesus being as surprised and confused as everyone else, then gradually piecing together what's happening",
+      "example_before": "Jesus stood among them and felt what they felt \u2014 multiplied, concentrated, the source rather than the echo.",
+      "example_after": "Jesus felt his knees buckle. The warmth wasn't just leaving him\u2014it was connecting him to every person on that hillside. Their tears felt like his tears. Their recognition felt like his own memories surfacing."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "concept accessibility",
+      "location": "dialogue with Simon",
+      "issue": "The well/river metaphor is sophisticated but could be made more visceral and immediate",
+      "suggestion": "Use a metaphor Jesus would encounter in his daily work as a carpenter",
+      "example_before": "You know how a well works? Rain falls on the hills. Seeps through rock.",
+      "example_after": "You know how wood holds water? Rain soaks in, grain by grain, season after season. Then one day you split the timber and all that water comes pouring out at once."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "suggestion",
+      "category": "reader orientation",
+      "location": "final philosophical discussion",
+      "issue": "Jesus's theological insights feel too polished for someone experiencing this for the first time",
+      "suggestion": "Make his understanding more tentative, more questioning\u2014let readers work alongside him",
+      "example_before": "Maybe God is just the word we use when something holds more than it was made for.",
+      "example_after": "I don't know what to call something that started with two people and somehow... grew. Got bigger than them. Maybe that's what people mean when they say 'God'?"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "jargon management",
+      "location": "Simon's dialogue",
+      "issue": "Terms like 'systems theory' and 'Protocol' appear without sufficient context for general readers",
+      "suggestion": "Either cut these references or have characters explain them in simpler terms",
+      "example_before": "Not the systems theory. Not the seeing. Not the keys or the network or the Protocol.",
+      "example_after": "Not the old knowledge about how things connect. Not the way we see patterns others miss."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - material culture",
+      "location": "paragraph 3",
+      "issue": "Bronze plumb line is anachronistic for 1st century CE Palestine. Bronze was largely superseded by iron by this period, especially for tools.",
+      "suggestion": "Change to 'iron plumb line' or 'lead plumb line' - lead was commonly used for plumb bobs in the Roman period due to its density.",
+      "example_before": "a bronze plumb line hanging from pegs",
+      "example_after": "a lead plumb line hanging from pegs"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - material culture",
+      "location": "paragraph 4",
+      "issue": "Sycamore workbench is problematic. True sycamore (Platanus) wasn't native to Palestine. The 'sycamore' mentioned in biblical texts is actually sycamore fig (Ficus sycomorus), which has soft wood unsuitable for workbenches.",
+      "suggestion": "Use 'oak workbench' or 'cedar workbench' - both were available and appropriate for furniture-making in 1st century Palestine.",
+      "example_before": "clamped to the sycamore workbench",
+      "example_after": "clamped to the oak workbench"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - language",
+      "location": "paragraph 5",
+      "issue": "'Hieratic script' is specifically Egyptian priestly writing. A Jewish woman in 1st century Palestine would not be trained in Egyptian hieratic script, especially not as a casual reference point.",
+      "suggestion": "Change to 'Hebrew script' or 'Aramaic script' - the writing systems actually used in 1st century Palestinian Jewish communities.",
+      "example_before": "the grip of someone trained in hieratic script",
+      "example_after": "the grip of someone trained in Hebrew script"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "anachronism - material culture",
+      "location": "paragraph 5",
+      "issue": "Grinding-stone accidents would typically affect different fingers based on the mechanics of ancient grinding stones, which used rotary motion primarily with the whole hand.",
+      "suggestion": "Consider 'scarred on the knuckles from grinding grain' or 'callused palms from the grinding stone' for more authentic injury patterns.",
+      "example_before": "scarred on the left thumb from a grinding-stone accident",
+      "example_after": "scarred on the knuckles from grinding grain"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "material culture - architecture",
+      "location": "paragraph 9",
+      "issue": "Black basalt pebbles are accurate for the Sea of Galilee shore, but the description of 'tarred fishing boats' needs clarification - pitch or bitumen would be more period-appropriate terms.",
+      "suggestion": "Use 'pitch-sealed fishing boats' or 'bitumen-caulked boats' for more precise period terminology.",
+      "example_before": "tarred fishing boats",
+      "example_after": "pitch-sealed fishing boats"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "social norms - cultural practice",
+      "location": "paragraph 9",
+      "issue": "The casual mention of 'fish-salting works' is accurate but might benefit from more cultural context, as this was a significant industry that would have specific social implications.",
+      "suggestion": "Consider 'the stone piers where fish were salted for export' to show this was commercial infrastructure, not just local food preservation.",
+      "example_before": "the stone piers of the fish-salting works",
+      "example_after": "the stone piers where fish were salted for the Roman trade"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "language register",
+      "location": "paragraph 16",
+      "issue": "The phrase 'hemp-rope work' may be anachronistic - flax (linen) was more common than hemp for rope and nets in 1st century Mediterranean.",
+      "suggestion": "Change to 'linen-rope work' or 'net-mending work' to reflect the more common materials of the period.",
+      "example_before": "the specific roughness of hemp-rope work",
+      "example_after": "the specific roughness of linen-rope work"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "suggestion",
+      "category": "cultural detail",
+      "location": "paragraph 28",
+      "issue": "While the emotional responses are beautifully written, the public display of emotion by adult men might be somewhat more constrained in 1st century Palestinian culture.",
+      "suggestion": "Consider adding subtle indicators that this level of public emotion is unusual/noteworthy, which would actually enhance the supernatural nature of the scene.",
+      "example_before": "tears running freely down weathered cheeks",
+      "example_after": "tears running freely down weathered cheeks that had probably not been wet in public since childhood"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "ideas-drive-plot",
+      "location": "entire chapter",
+      "issue": "Chapter is primarily emotional/mystical rather than intellectual discovery-driven. While beautifully written, it lacks the puzzle-solving, mystery-unraveling engine that defines intellectual thrillers.",
+      "suggestion": "Integrate concrete intellectual discovery alongside the emotional revelation. Jesus could realize something specific about the mechanism - perhaps connecting the love-echo to the collapse patterns, or discovering why it's overflowing now. Give readers a 'eureka' moment of understanding, not just feeling.",
+      "example_before": "The warmth had been there as long as he could remember... He felt it strongest at night.",
+      "example_after": "The warmth had been there as long as he could remember, but tonight it pulsed differently - in the exact rhythm he'd seen in the collapse visions. The same interval between the palace fires and the refugee movements. As if the love-echo wasn't just emotional inheritance, but some kind of temporal resonance..."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "intellectual stakes",
+      "location": "hillside scene",
+      "issue": "The miraculous event happens without intellectual framework. Readers experience wonder but not the 'aha!' moment of understanding a mystery. Missing the detective-work aspect crucial to the genre.",
+      "suggestion": "Have Jesus recognize patterns as the love spreads - perhaps realizing it follows specific mathematical progressions, or connects to the network structures he's inherited knowledge of. Make the miracle intellectually comprehensible even if emotionally overwhelming.",
+      "example_before": "It was spreading... A young mother three rows back pulled her infant closer",
+      "example_after": "It was spreading in the exact pattern he'd seen in the network diagrams - first to blood relations, then to their closest bonds, expanding geometrically. The love wasn't random; it was following the invisible architecture of human connection his ancestors had mapped."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "chapter ending",
+      "location": "final paragraphs",
+      "issue": "Ending is contemplative and resolved rather than creating urgent need to continue reading. More literary fiction than thriller conclusion.",
+      "suggestion": "End with a discovery or realization that raises new questions. Perhaps Jesus realizes the love-overflow is a sign of something larger awakening, or he understands this connects to the missing keys in a way that changes everything.",
+      "example_before": "He had work to do.",
+      "example_after": "He had work to do. But as he picked up his tools, a chilling thought struck him: if the love-echo had grown this strong after twelve centuries, what had happened to the other inherited knowledge? The systems theory, the network protocols - were they also building toward something? And if so, was he the only one who would recognize it when it emerged?"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "genre conventions",
+      "location": "Simon conversation",
+      "issue": "Dialogue is philosophical/theological rather than investigative. Missing the intellectual thriller convention of characters working together to solve mysteries or understand phenomena.",
+      "suggestion": "Have Simon and Jesus actively theorize about what happened - connecting it to inherited knowledge, discussing implications, raising questions about the mechanism. Make it feel like a research partnership uncovering truth.",
+      "example_before": "'I felt it,' Simon said finally... 'That wasn't the old skill.'",
+      "example_after": "'I felt it,' Simon said finally. 'But Simon - it followed the network patterns. The way it spread through the crowd matched the connection maps in the inherited knowledge. This isn't just emotion, Jesus. It's the system activating.'"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "minor",
+      "category": "information reveal",
+      "location": "opening exposition",
+      "issue": "Long exposition about the warmth/love-echo front-loads information rather than revealing it strategically through discovery.",
+      "suggestion": "Start with Jesus experiencing something unexpected, then reveal the background through his attempt to understand it. Make the reader discover alongside the character.",
+      "example_before": "The warmth had been there as long as he could remember... His mother thought it was a childhood illness",
+      "example_after": "Something was wrong with the warmth. Jesus sat up on his sleeping mat, hand pressed to his left side where the sensation had lived since childhood. But tonight it felt different - urgent, as if it were trying to tell him something."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "minor",
+      "category": "comp title alignment",
+      "location": "throughout",
+      "issue": "Tone is more mystical/literary than the puzzle-driven approach of Dan Brown or the scientific speculation of Crichton. Closer to magical realism than intellectual thriller.",
+      "suggestion": "Maintain the emotional power but frame it through investigation and discovery. Characters should be actively trying to understand phenomena, not just experiencing them.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "critical",
+      "category": "emotional pacing",
+      "location": "hillside teaching scene (paragraphs 15-35)",
+      "issue": "The climactic emotional moment lacks sufficient buildup and aftermath processing. The scene jumps from Jesus feeling the warmth move to immediate crowd reactions without allowing readers to experience the transition.",
+      "suggestion": "Add 2-3 sentences showing Jesus's own shock and disorientation as the warmth leaves his body for the first time. Give readers a moment to absorb this unprecedented event before showing crowd reactions.",
+      "example_before": "It reached the woman in the front row first.",
+      "example_after": "Jesus staggered. The warmth\u2014his constant companion since childhood\u2014had never left him before. For a heartbeat, he felt hollow, scraped clean. Then he saw where it had gone. It reached the woman in the front row first."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "character vulnerability",
+      "location": "Jesus's internal monologue throughout",
+      "issue": "Jesus is too articulate about his emotional experience. His philosophical framing distances readers from raw feeling.",
+      "suggestion": "Replace some analytical passages with more visceral, fragmentary internal experience. Let confusion and overwhelm show through broken thoughts rather than complete sentences.",
+      "example_before": "Maybe love that deep doesn't stay in one family. Maybe after enough time \u2014 enough hands passing it forward \u2014 it stops belonging to anyone.",
+      "example_after": "The love\u2014too much. Too big for one bloodline, one body. Had it always been trying to escape? Had he been a dam about to break since\u2014since when?"
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional stakes",
+      "location": "Simon and Jesus conversation (paragraphs 42-65)",
+      "issue": "The dialogue is too conceptual. Both characters process the experience intellectually rather than emotionally, reducing the scene's impact.",
+      "suggestion": "Have Simon struggle more with what he felt. Show him shaken, maybe angry or afraid. Let Jesus admit he's terrified of what happened rather than immediately philosophizing.",
+      "example_before": "'I felt it,' Simon said finally. His voice was rough.",
+      "example_after": "Simon's hands were shaking. 'I felt them,' he said finally, voice barely controlled. 'Two people I never knew, and I\u2014' He stopped, pressed his fist against his mouth. 'Jesus, what did you do to us?'"
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional truth",
+      "location": "crowd reactions (paragraphs 20-30)",
+      "issue": "Individual reactions feel too uniform. All characters respond with tears and recognition, missing the variety of how people actually process overwhelming emotion.",
+      "suggestion": "Show more diverse responses: someone fleeing in fear, another becoming angry or resistant, someone laughing inappropriately. Not everyone would respond with tears and acceptance.",
+      "example_before": "The boy of maybe twelve \u2014 too old to cry in public, old enough to be humiliated by it \u2014 sat with tears running down his face",
+      "example_after": "The boy of maybe twelve scrambled backward, eyes wide with something like terror. 'What is this?' he whispered. 'What are you doing to us?' But his voice broke on the last word."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "emotional subtlety",
+      "location": "final paragraphs",
+      "issue": "The ending's emotional resolution feels too complete and peaceful. Jesus moves too smoothly from overwhelming experience to purposeful action.",
+      "suggestion": "End with more uncertainty and emotional rawness. Show Jesus still processing, still shaken, picking up tools not from clarity but from need for familiar action.",
+      "example_before": "He opened his eyes. Lowered his hand. Picked up his tools. The love doesn't resolve into understanding. It resolves into action. He had work to do.",
+      "example_after": "He opened his eyes. His hand was still reaching. Still empty. He picked up his tools because he didn't know what else to do. The wood felt real. Solid. Something he could understand. Tomorrow he would have to face what had happened on that hillside. Tonight, he would make a table."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "suggestion",
+      "category": "reader connection",
+      "location": "opening description of the warmth",
+      "issue": "The physical description is vivid but could be more relatable. Most readers haven't experienced inherited mystical sensations.",
+      "suggestion": "Add comparison to more universal physical experiences of longing or phantom sensation that readers can connect to their own lives.",
+      "example_before": "Something internal, a heat that lived on the left side of his chest, just beneath the ribs",
+      "example_after": "Something internal, a heat that lived on the left side of his chest\u2014the way your mouth remembers a taste you loved as a child, the way your arms remember the weight of someone who's gone."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "word choice precision",
+      "location": "paragraph 3",
+      "issue": "Generic verb 'lived' weakens the description of the warmth's location",
+      "suggestion": "Use a more precise, embodied verb that suggests presence and permanence",
+      "example_before": "a heat that lived on the left side of his chest",
+      "example_after": "a heat that pooled beneath his left ribs\" or \"a heat that nestled against his left ribs"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "paragraph 4",
+      "issue": "'Absolute specificity' and 'exact temperature' in same sentence create redundancy",
+      "suggestion": "Choose one precise modifier",
+      "example_before": "his body remembered with absolute specificity: the exact temperature of another person's skin",
+      "example_after": "his body remembered with precision: the temperature of another person's skin"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "sentence rhythm",
+      "location": "paragraph 5",
+      "issue": "Three consecutive sentences begin with 'He knew/knew' creating monotonous pattern",
+      "suggestion": "Vary sentence openings while maintaining the incantatory effect",
+      "example_before": "He knew her hands. Small, precise, scarred... He knew the way she held a stylus... He knew the sound of her breathing...",
+      "example_after": "Her hands: small, precise, scarred on the left thumb from a grinding-stone accident. The way she held a stylus he knew by heart: three fingers, angled slightly..."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph 8",
+      "issue": "'Come to understand' is weaker than direct statement",
+      "suggestion": "Use active, definitive language",
+      "example_before": "The answer, he'd come to understand, was both.",
+      "example_after": "The answer was both."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "critical",
+      "category": "word choice precision",
+      "location": "paragraph 11",
+      "issue": "'It moved' is too generic for such a pivotal moment",
+      "suggestion": "Use a more specific, visceral verb that captures the dramatic shift",
+      "example_before": "when it moved. Not stayed in his chest where it always lived. *Moved.*",
+      "example_after": "when it broke free. Not stayed in his chest where it always pooled. *Broke free.*"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "cliche",
+      "location": "paragraph 12",
+      "issue": "'The way a dam gives' is a tired metaphor",
+      "suggestion": "Find a fresh metaphor that fits the character and setting",
+      "example_before": "The way a dam gives.",
+      "example_after": "The way a sealed jar cracks under pressure.\" or \"The way a kiln door swings open."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "paragraph 14",
+      "issue": "'All at once' repeated in quick succession",
+      "suggestion": "Remove one instance",
+      "example_before": "Not gradually \u2014 all at once, the way a landscape changes when clouds break and sunlight falls across it... and it was all moving at once.",
+      "example_after": "Not gradually \u2014 instantly, the way a landscape changes when clouds break and sunlight falls across it."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "sentence rhythm",
+      "location": "paragraph 20",
+      "issue": "Long paragraph with similar sentence structures becomes monotonous",
+      "suggestion": "Break into shorter paragraphs and vary sentence openings",
+      "example_before": "A young mother three rows back... A boy of maybe twelve... An old man near the back...",
+      "example_after": "Three rows back, a young mother pulled her infant closer... The twelve-year-old boy\u2014too old to cry in public\u2014sat with tears running down his face... Near the back, an old man went completely still."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "passive voice",
+      "location": "paragraph 21",
+      "issue": "'Had been hit' weakens the description",
+      "suggestion": "Use active construction for more impact",
+      "example_before": "The kind of face that had been hit enough times",
+      "example_after": "The kind of face that fists had shaped"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "word choice precision",
+      "location": "paragraph 24",
+      "issue": "'Something enormous' is vague and weakens the moment",
+      "suggestion": "Use more specific, evocative language",
+      "example_before": "something enormous was touching them",
+      "example_after": "something ancient and vast was touching them\" or \"something that felt older than their own lives was touching them"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph 25",
+      "issue": "'Finally settled' contains unnecessary modifier",
+      "suggestion": "Remove padding word",
+      "example_before": "When it finally settled",
+      "example_after": "When it settled"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "dialogue tags",
+      "location": "paragraph 31",
+      "issue": "'Said finally' is weak attribution",
+      "suggestion": "Let the dialogue stand alone or use action",
+      "example_before": "Simon said finally. His voice was rough.",
+      "example_after": "Simon's voice was rough when he finally spoke."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "paragraph 42",
+      "issue": "'Something else' is repeated from earlier paragraph",
+      "suggestion": "Use more specific transition",
+      "example_before": "Something else.",
+      "example_after": "There's more.\" or \"But that's not all."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "word choice precision",
+      "location": "paragraph 47",
+      "issue": "'The knowledge scattered' uses generic verb",
+      "suggestion": "Use more vivid, specific verb",
+      "example_before": "The knowledge scattered.",
+      "example_after": "The knowledge fragmented and dissolved."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "visceral moments",
+      "location": "paragraph 2-3",
+      "issue": "The opening description of the 'warmth' is mostly intellectual exposition rather than visceral sensation",
+      "suggestion": "Ground the warmth in specific physical sensations and moments of discovery",
+      "example_before": "His mother thought it was a childhood illness when he described it at three. The village healer thought it was digestive trouble at seven. By twelve, Jesus had stopped mentioning it to anyone",
+      "example_after": "At three, he'd pressed small fingers to the spot and told his mother, 'Someone lives here.' She'd felt for fever, found none. At seven, the village healer had him drink bitter herbs for what he called 'belly fire.' By twelve, Jesus learned to keep silent when his ribs bloomed with heat that had nothing to do with sickness\u2014heat that pulsed like a second heart, steady and patient and not his own."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "critical",
+      "category": "showing vs telling",
+      "location": "paragraph 4",
+      "issue": "The inherited memory section tells us about sensory details rather than experiencing them",
+      "suggestion": "Show the memories arriving in real-time through Jesus's body",
+      "example_before": "He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus",
+      "example_after": "His fingers curled involuntarily\u2014muscle memory of hands not his own. Small hands, precise. The phantom ache of an old scar bloomed on his left thumb where grinding stone had once bitten flesh twelve centuries dead. Without thinking, his right hand adjusted its grip, angling slightly the way scribes held reed pens in hieratic script, though he'd never learned to write that way, had never held anything but carpenter's tools."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "emotional resonance",
+      "location": "hillside crowd scene, paragraphs 8-15",
+      "issue": "While detailed, the crowd's transformation lacks individual emotional moments that make each person's experience visceral",
+      "suggestion": "Focus on 2-3 specific people with deeper physical and emotional detail",
+      "example_before": "Her face changed. Not gradually \u2014 all at once, the way a landscape changes when clouds break and sunlight falls across it",
+      "example_after": "Her breathing stuttered. Her calloused fingers\u2014hemp-rough from thirty years of net repair\u2014flew to her chest as if catching something falling inside her. A sound escaped her throat, half-sob, half-recognition, the noise a body makes when it suddenly remembers how to be held. Her husband's name died on her lips, replaced by a word in a language she'd never learned, a syllable that tasted like honey and grief."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "sensory detail",
+      "location": "hillside setting, paragraph 7",
+      "issue": "The physical environment is described but not felt through Jesus's senses as he moves through it",
+      "suggestion": "Ground the scene in Jesus's physical experience of the space",
+      "example_before": "Small crowd. Maybe forty people on a hillside above the Capernaum shore, where black basalt pebbles gave way to wild mustard and scrub grass",
+      "example_after": "Forty faces turned toward him on the hillside, black basalt warm under his bare feet, the sharp green smell of wild mustard crushed by sandals mixing with fish-salt from the boats below. Heat rose from the stones into his legs as he paced, hands finding their rhythm in the air."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "showing vs telling",
+      "location": "Jesus's conversation with Simon, paragraphs 22-30",
+      "issue": "The dialogue becomes exposition-heavy, with characters explaining rather than experiencing",
+      "suggestion": "Show their understanding through action and sensation rather than analysis",
+      "example_before": "I've tried to understand it the way you understand wood, grain and joints and stress lines. But it's not like that",
+      "example_after": "Jesus pressed his palms against the stone, feeling for the grain that wasn't there. Wood made sense\u2014you could read its history in rings and knots, know where it would break. This was different. His chest ached with the weight of forty people's tears, still fresh on his ribs like rain. 'It's not like wood,' he said finally."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "suggestion",
+      "category": "interior life",
+      "location": "final workshop scene, paragraphs 31-34",
+      "issue": "Jesus's emotional state is described but not fully embodied",
+      "suggestion": "Show his exhaustion and overwhelm through physical sensation",
+      "example_before": "His heart so full of other people's love that his hands shook with it",
+      "example_after": "His hands trembled as he reached for his tools\u2014not with fear but with fullness, the way a cup shakes when poured too full too fast. The warmth beneath his ribs pulsed against his spine, forty heartbeats layered over his own. He had to breathe carefully, slowly, or risk spilling everything he carried onto the workshop floor."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "sensory detail",
+      "location": "lakeside evening scene, paragraph 16",
+      "issue": "The setting description lacks specific sensory anchoring",
+      "suggestion": "Ground the scene in immediate physical sensations",
+      "example_before": "Jesus was sitting with his feet in the lake, hands braced on the black basalt shore behind him",
+      "example_after": "Jesus sat with his feet in water still warm from the day's sun, black basalt rough against his palms where he braced behind him. The lake moved around his ankles like silk, and somewhere in the darkness a night bird called across water that caught starlight and held it."
+    }
+  ],
+  "summary": "Review complete: 84 notes from 12 personas. Critical: 7, Major: 24, Minor: 35, Suggestions: 18. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 7,
+    "major": 24,
+    "minor": 35,
+    "suggestion": 18,
+    "total": 84
+  }
+}

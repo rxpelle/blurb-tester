@@ -1,0 +1,31 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e5] [cursor=pointer]:
+        - /url: "#AACApplicationBody"
+      - generic [ref=e7]:
+        - link "Amazon Advertising Console" [ref=e8] [cursor=pointer]:
+          - /url: /mn
+          - img "Amazon Advertising Console" [ref=e9]
+        - generic [ref=e11]:
+          - button "Open the help panel" [ref=e14] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e18]: Open the help panel
+          - button "Your preferences" [ref=e21] [cursor=pointer]:
+            - img [ref=e23]
+            - generic [ref=e25]: Your preferences
+  - generic [ref=e33]:
+    - heading "Sorry, something went wrong" [level=2] [ref=e34]
+    - paragraph [ref=e35]: This page is unavailable or you may have followed a missing link.
+    - link "Go to your homepage" [ref=e36] [cursor=pointer]:
+      - /url: /mn?entityId=ENTITY1SABYJ3Y7NOJU
+  - generic [ref=e40]:
+    - generic [ref=e41]: © 2026 Amazon.com, Inc. or its affiliates.
+    - link "Conditions of use" [ref=e42] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088
+    - link "Privacy notice" [ref=e43] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+    - link "Amazon Advertising Agreement" [ref=e44] [cursor=pointer]:
+      - /url: https://advertising.amazon.com/terms
+    - link "Status" [ref=e45] [cursor=pointer]:
+      - /url: https://status.ads.amazon.com

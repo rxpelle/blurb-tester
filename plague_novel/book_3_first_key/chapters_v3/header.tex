@@ -3,6 +3,30 @@
 % Left-justified (ragged right) text
 \AtBeginDocument{\raggedright}
 
+% Move chapter titles to top of page (no titlesec needed)
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+  \vspace*{-30pt}%  Pull title up toward top margin
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \huge\bfseries \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 5\p@
+    \fi
+    \interlinepenalty\@M
+    \Huge \bfseries #1\par\nobreak
+    \vskip 20\p@
+  }}
+\renewcommand{\@makeschapterhead}[1]{%
+  \vspace*{-30pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \Huge \bfseries  #1\par\nobreak
+    \vskip 20\p@
+  }}
+\makeatother
+
 % Define the main page style
 \fancypagestyle{bookstyle}{
   \fancyhf{} % clear all
@@ -10,7 +34,7 @@
   \fancyhead[LE]{\thepage}
   \fancyhead[CE]{\small\textsc{Randy Pellegrini}}
   % Odd (right/recto) pages: book title center, page number outside right
-  \fancyhead[CO]{\small\textsc{The Genesis Protocol}}
+  \fancyhead[CO]{\small\textsc{The First Key}}
   \fancyhead[RO]{\thepage}
   % No footer
   \fancyfoot{}

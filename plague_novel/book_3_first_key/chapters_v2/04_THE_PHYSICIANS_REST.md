@@ -1,270 +1,192 @@
 # BOOK 3: THE FIRST KEY - CHAPTER 4
 ## "The Physician's Rest"
 
-**Timeline:** 1130 BCE
-**Location:** Byblos, Phoenicia (Temple of Ba'alat Gebal)
-**Generation:** 1 (Nefertari, age ~80) and Generation 4 (Deborah, age 17)
-**POV Character:** Nefertari
+---
+
+**1130 BCE — Byblos**
+
+Nefertari woke to fever, and she knew.
+
+The same heat she'd felt in Tausret's wrist fifty-nine years ago. The same tightness in the lungs. The same creeping weight that began in the chest and pressed outward until breathing became a negotiation with the body. Respiratory fever — refugee-borne, swift, merciless. The physician killed by the disease she'd spent her life trying to outrun.
+
+Deborah was beside her. Seventeen years old, Generation 4, already holding a writing board and bronze stylus. The girl slept with them. Always documenting. Always preserving.
+
+"How long," Deborah said. Not a question. She'd been trained by the best physician in the eastern Mediterranean. She could read a pulse.
+
+"Days. Maybe less." Nefertari tried to sit up. Her arms shook. She'd turned eighty this year, and the fever was not interested in her accomplishments. "The encoding protocols. The final sequence — the one I never wrote down. You need it before I—"
+
+"I know." Deborah's voice was steady. Her hands were not. "Tell me."
 
 ---
 
-## SCENE 1: The Old Physician
+Nefertari talked. Deborah wrote.
 
-Nefertari's hands had stopped being steady sometime in her seventy-eighth year, and she'd spent the two years since pretending not to notice. A physician who couldn't hold a scalpel. A woman who'd encoded a three-thousand-year experiment into human blood, standing on a temple terrace in Byblos, watching morning light turn the harbor to bronze and gold (cedar-hulled galleys at anchor, the smell of salt and pine pitch rising from the boatyards) while her fingers trembled against the stone balustrade.
+The final encoding sequence — the method for imprinting pattern recognition into a carrier's bloodline so deeply it would surface involuntarily in descendants — existed mostly in Nefertari's head. She'd written fragments. Documented the principles. But the precise calibration, the thing that made the difference between an encoding that lasted three generations and one that lasted thirty, she'd always meant to transcribe fully.
 
-Below, the monthly gathering was assembling. Twenty-three families now, spanning four generations. She counted the faces automatically, cataloguing who was present, who was absent, whose children were showing the early signs.
+She'd always assumed there would be time.
 
-A young mother in the courtyard was teaching her daughter to read trade route diagrams. The girl couldn't have been older than five. Already learning the patterns.
+"The pulse-lock is the key," Nefertari said. Her voice was hoarse, each word costing more than the last. "When two carriers synchronize breathing — not deliberately, the body has to find it on its own — the encoding transfers at a deeper level. You can't force it. The moment you try to control the synchronization—"
 
-*It works,* Nefertari thought. *Amenhotep, you beautiful fool, it actually works.*
+The fever surged. The room blurred. Deborah's face dissolved, and for three heartbeats Nefertari was somewhere else — a workshop in the Per Ankh, lamplight, the smell of copper dust. Amenhotep was reading aloud from the Ebers Papyrus. Remedy 482. Something about honey and acacia gum.
 
-"Grandmother Nefertari?"
+"—the moment you try to control it, the encoding stays surface-level," she finished, but her voice had changed. Younger. Softer. She was speaking to someone who wasn't in the room.
 
-Deborah stood in the doorway, seventeen years old, Generation 4, carrying a writing board and bronze stylus. Always documenting. Always preserving.
+"Nefertari." Deborah's hand on her wrist. Grounding her. "Stay with me. The pulse-lock. What happens after synchronization?"
 
-"The gathering is ready for your teaching. Unless you need to rest?"
+Nefertari blinked. Came back. The workshop vanished. Byblos. The terrace room. The harbor light.
 
-"I've been resting for forty-seven years, child."
+"After synchronization, the carrier's pulse carries the pattern for... Deborah, write this exactly... the carrier's pulse carries the pattern for seventy-two hours. During that window, any physical contact with a non-carrier creates a partial transfer. Not the full encoding. But enough that the non-carrier's descendants will—"
 
-But her legs disagreed. Deborah caught her elbow as she steadied herself, and together they descended the stone steps.
+"Will what?"
 
----
+"Will feel it. Not see it. Feel something they can't name. A warmth. A reaching." Her breath was failing. Each sentence shorter than the last. "That's the layer I never documented. The one that carries the—"
 
-## SCENE 2: The Last Teaching
+The fever took her again. This time further.
 
-The courtyard fell silent as Nefertari settled onto the teaching bench. Eighty-four people. She remembered when it had been six.
+She was in the courtyard of the scholars' quarters. Twenty-eight years old. Amenhotep was two steps away, close enough to smell the copper dust on his skin. They were arguing about something — pulse theory, probably, they were always arguing about pulse theory — and she'd mispronounced a word. Said *heset* instead of *hesat.* The jar became a cow. And he'd laughed, and she'd laughed, and the sound of it—
 
-"Today I tell you what we've accomplished," she said, voice carrying despite its rasp. "Not philosophy. Evidence."
+"Nefertari!" Deborah's voice, sharp. Urgent. "The encoding layer. The one that carries what?"
 
-She kept it short. The Sidon archive fire, ten years ago, everything lost, except it wasn't lost because Cyprus had copies and Tyre had copies. The Byblos grain crisis, pattern recognized three months before the shortage hit, trade routes redirected, no one starved. Sixteen interventions across nearly half a century. Not guesses. Not prophecy. Documented prevention.
+"He asked me to do it again," Nefertari murmured. "The laugh. I couldn't. You can't reach that place on purpose."
 
-"Evidence," she said again. "That's what we leave behind. What we can prove."
+"Grandmother—"
 
-She paused to let the words settle. Into the pause, Deborah spoke.
+"I saw what he'd become and I was right and I would give back every year of being right to have been wrong about him."
 
-"The Tyre intervention is the strongest example." Deborah's voice was clear, pitched to carry the way Nefertari had taught her. She stood, writing board tucked under her arm. "Three families identified the grain hoarding independently. No one coordinated them. No one told them what to look for. They'd internalized the patterns so deeply that when the signs appeared, they acted without —"
+Deborah was writing. Not the encoding protocols — she was writing what Nefertari was saying, because the physician's mind was generating something, even if it wasn't the something Deborah needed. Words came in fragments now, some operational, some from decades ago, all tangled:
 
-"That's not quite right." The words left Nefertari's mouth before she knew they were coming. "Mira sent a runner to the other two families. It wasn't independent — it was coordinated through her. The families spotted the pattern on their own, but they all sent word to Mira — the *response* still ran through a single person."
+"—the encoding layer carries the irreproducible. The things between people that can't be manufactured. Not the philosophy. Not the patterns. The laugh. The reaching. The—"
 
-The courtyard was quiet. Not the respectful quiet of eighty-four people listening to their teacher. A different quiet. The quiet of eighty-four people watching a seventeen-year-old stand in front of them with her mouth still half-open around the sentence she'd been cut from.
+"What reaching?"
 
-Deborah sat down. She didn't argue. She picked up her stylus and made a note on her writing board, and the note was worse than an argument because it meant she was used to this.
+"—the thing my hand does. Watch."
 
-Nefertari felt it then — the thing she'd done. Not the correction. The correction was accurate. That was the problem. She was always accurate, and she always interrupted, and she'd been doing it for seventeen years, and the girl had learned to sit down.
+Nefertari's left hand moved. Reached sideways, across the sleeping mat, toward empty air. The gesture was involuntary — not the conscious reaching of a woman missing someone, but the deep, muscular reflex of a body that had been searching for thirty years and would search until it stopped.
 
-*You built a system that doesn't need a center,* she thought. *And you made yourself the center of it anyway. Not with force. With accuracy. With always being right at exactly the moment someone else was learning to be.*
+Deborah went still.
 
-She looked at Deborah's bent head, the stylus moving steadily, and understood that the girl wasn't transcribing her words anymore. She was transcribing around the silence where her own words had been.
+She was staring at Nefertari's hand. At the reaching-left. The same gesture Deborah had seen in her own hands since childhood — reaching sideways for someone who wasn't there, pressing her palm flat to stop it, never knowing whose absence her body was mourning.
 
----
+In that moment, kneeling beside the dying woman, stylus frozen mid-stroke, Deborah understood. The thing she'd inherited wasn't just knowledge. Wasn't just pattern recognition or collapse prediction or the ability to read rot before it spread.
 
-## SCENE 3: The Daughter's Question
-
-After the teaching, families dispersed. Nefertari remained on the bench, too weary to stand. Deborah sat beside her.
-
-"Tell me about Tirzah." The girl's voice was barely there. "The parts you haven't written down."
-
-The words caught in Nefertari's chest. Tirzah had been dead five years now. A fever, swift and merciless. The same kind of fever that had killed Tausret, as if the inheritance remembered which diseases to be vulnerable to.
-
-"Your grandmother chose her own name at twelve years old," Nefertari said. "Standing in a borrowed workshop in Canaan, covered in road dust and cooking smoke, and I asked her what she wanted to be called. She said *Tirzah.* The one who brings delight." She closed her eyes. "She could have hated all of it. The memory. The running. Me, for putting it in her body. Instead she turned it into purpose and taught your grandfather to do the same."
-
-"I dream of Pi-Ramesses burning," Deborah said. "But she taught us to ask *why* it burned."
-
-Nefertari squeezed her hand.
+It was someone else's love. And it would never leave.
 
 ---
 
-## SCENE 4: The Pattern Eye's Vault
+A runner arrived from the temple. The high priestess's granddaughter, breathing hard.
 
-That afternoon, Deborah helped Nefertari descend into the temple's foundation vault. The High Priestess of Ba'alat Gebal, now an elderly woman herself, forty years older than the young priestess who'd first accepted the Pattern Eye, held the lamp.
+"The outer walls. Someone probed them last night — tested the mortar joints along the northern face. Systematic. Like an engineer measuring load points."
 
-The bronze disc rested where she had placed it decades ago: sealed in cedar, wrapped in linen, hidden beneath the temple's central column. Nefertari had visited it only three times in nearly five decades. Too dangerous to draw attention.
+Nefertari's eyes opened. Suddenly clear. The clarity that came to dying patients when the body burned its last reserves.
 
-But today felt right.
+"Khasekhem," she said. "Amenhotep's successor. He's been patient. Forty-seven years patient. But he knows I'm dying." She gripped Deborah's wrist. "The Pattern Eye. Move it tonight. Deeper. Behind the inner wall, where only the priestesses know. Before I die. Because they'll come for it while you're grieving."
 
-"When I die," Nefertari said, voice echoing in the stone chamber, "this key must remain untouched for generations. Centuries, perhaps. Only when one of ours *needs* it—truly needs it—should it be moved."
+"I'll handle it."
 
-The priestess nodded. "Our order will guard it. The knowledge passes mother to daughter, priestess to initiate. We've written nothing down, only oral tradition, as you taught us."
+"And Deborah." The grip tightened. "The encoding — the final sequence — I haven't finished telling you."
 
-"Good." Nefertari knelt, joints protesting, and placed her palm on the cedar box. Through the wood, she felt the bronze's warmth, or imagined she did. Forty-seven years since she'd forged it. The metal remembered heat longer than anything else she'd made.
+"I know."
 
-She looked up at Deborah and saw four generations compressed into one face: Tausret's sharpness, Tirzah's stubbornness, and something new that belonged only to this girl.
+"I may not be able to. The fever is—" She closed her eyes. Opened them. "I may not come back from the next one."
 
-"Strong enough," Nefertari said. "You'll be strong enough."
+"Then come back from this one. Tell me."
 
----
+Nefertari looked at the girl. Seventeen. Four generations from Tausret. Carrying the reaching-left and the counting gesture and the pattern sight and the irreproducible laugh — none of which she'd asked for, all of which she'd made her own.
 
-## SCENE 5: The Physician's Final Scroll
+"The final layer is trust," Nefertari said. "The encoding doesn't work through force. It works through—"
 
-That night, in her small room overlooking Byblos harbor (a reed mat on a stone floor, a single oil lamp of Phoenician clay shaped like a cupped hand) Nefertari pulled a fresh papyrus toward her and dipped her reed pen into the ink cake she'd ground that morning, mixing soot with gum arabic and a few drops of water.
+The fever took her.
 
-Her hands shook so badly the first line came out jagged, the reed pen skipping across the grain. She steadied one wrist with the other and tried again.
-
-She'd meant to write instructions. Key locations, family rosters, contingency plans. But the words that came were different.
-
-*Deborah —*
-
-*Today you stood in front of eighty-four people and started to teach. You were right. The Tyre intervention was the strongest example, and your reading of it was better than mine — you saw the independence where I saw the coordination, and independence was the point. The whole point. The thing I spent forty-seven years building toward.*
-
-*And I silenced you. In front of everyone. Because being right had become more important to me than letting you be.*
-
-*I have done this to you for seventeen years and called it mentorship. Every correction, every interruption, every time I took back a thought you were learning to finish — I told myself I was teaching precision. I was teaching you to sit down.*
-
-*You must do what I could not. Let the network belong to itself. Let them be wrong sometimes. Let them find accuracy through practice instead of receiving it from you. The moment you become the person they wait for before acting, you have failed — no matter how right you are.*
-
-*I'm sorry I couldn't show you. I'm telling you instead, which is the lesser gift.*
-
-*— Nefertari*
-
-She set down the stylus. Her hands trembled so badly the papyrus rustled like wind through reeds. The words were so few. After a lifetime, she'd thought there would be more to say.
-
-There wasn't.
-
-Deborah would find this in the morning.
+This time it didn't give her back.
 
 ---
 
-## SCENE 6: The Harbor at Dawn
+She surfaced once more. An hour later, maybe two. The light had changed. Deborah was still there, still holding the stylus, still waiting.
 
-Nefertari woke to fever. The same fever she'd diagnosed in Tausret a lifetime ago, refugee-borne, swift, merciless. The physician killed by the same collapse she'd spent her life preventing.
+"Amenhotep," Nefertari breathed. The eighty-four faces blurred above her — she hadn't noticed the courtyard filling, the families gathering, word spreading. "Tell him..."
 
-Deborah was beside her when consciousness returned. The girl's face was calm, trained not to panic.
+But Amenhotep had been dead for thirteen years. She knew that. A seizure. His massive frame found rigid on the stone floor of the Temple of Ptah. She'd gone to the harbor alone that day and braced her hands against the seawall and held them until the stone was warm and then held them longer, because her own heat was not enough but it was all she had.
 
-"How long?" Nefertari managed.
+"Tell him I heard him mispronounce *hesat* and I laughed and I never laughed like that again. Tell him that's what I'm sorry for. Not the leaving. The fact that I couldn't do it again."
 
-"Three days, perhaps four." Deborah's voice was steady. "I've sent word to the families. They're gathering."
-
-"Good." Nefertari tried to sit up, failed. "Help me to the terrace. I want to see the harbor."
-
-Together they moved, the dying physician and the seventeen-year-old who would lead the network next. Outside, dawn was breaking over Byblos. Ships in the harbor, cedar-planked and bronze-nailed, ready to carry goods across the Mediterranean. The same routes that had once carried refugees now carried trade, knowledge, stability.
-
-Below, the courtyard was filling. Word had spread faster than she'd expected. Families arriving from Tyre, Sidon, even Cyprus by overnight sail. They'd come to say farewell.
-
-"They love you," Deborah said.
-
-Nefertari watched a young mother teaching her daughter to read pattern diagrams. *Would they know how to do that without me watching?* Forty-seven years and she'd never tested the theory. Never missed a gathering. Never let a decision leave her hands entirely.
-
-She turned to Deborah. "Don't make my mistake, child. Don't become the center."
-
-Before Deborah could answer, the fever surged. Her knees buckled. Deborah caught her, lowered her gently to the terrace stones. Below, someone cried out.
-
-"Get the families," Nefertari managed.
-
----
-
-## SCENE 7: The Network's Witness
-
-They carried her to the teaching bench in the courtyard. All eighty-four people, four generations, surrounding her in concentric circles like ripples on water.
-
-Nefertari looked at their faces. Phoenician, Canaanite, Cypriot, Egyptian. Bloodlines from three regions. She wanted to speak, to give them something final, but the fever had taken her voice. Only fragments came. And between the fragments, the fever pulled her backward — not to the Protocol, not to the keys, not to any of the things she'd built, but to a night in the Per Ankh, forty-eight years ago.
-
-She and Amenhotep working late. A single oil lamp guttering between their workbenches, throwing shadows that made the hieratic text swim on the papyrus. He was reading aloud from the Ebers Papyrus — remedy 482, something about honey and acacia gum for wounds that wouldn't close, and he mispronounced a word. Said *heset* instead of *hesat.* The difference between a jar and a cow. Honey mixed with cow, he'd said, and she'd laughed. It wasn't polite or deliberate. A sound that came from somewhere below her ribs, involuntary and full, and it filled the laboratory the way the lamp couldn't — warm and sudden and gone as quickly as it came.
-
-He'd looked up from the papyrus. Stylus frozen. And the expression on his face — she'd spent decades trying to find words for it and never had. Surprise, yes. But underneath the surprise, something that looked like a man seeing sunlight after a long time underground. Like he'd forgotten the world contained that sound.
-
-"Do that again," he'd said.
-
-And she couldn't. Because the moment she became aware of it — the laugh, and his face, and the lamplight, and the closeness of him, she couldn't get back to the place where the laugh lived. Self-consciousness killed it. She'd tried. Opened her mouth, felt the effort of manufacturing what had been effortless, and closed it again.
-
-"I can't," she'd said. "It only works when I'm not thinking about it."
-
-He'd set down the stylus. "Then I'll have to keep mispronouncing things until you stop thinking."
-
-She'd smiled. He'd gone back to reading. And for the rest of that night — three more hours, until the lamp finally died and they sat in darkness finishing a discussion about wound care, she'd felt his attention on her like a second lamp, warm and steady, waiting for the laugh to come back.
-
-It never did. Not like that.
-
-That was the memory the fever chose. Not the Protocol. Not the keys. Not the argument or the hand-hold or the split. A mispronounced word and a laugh she could never repeat and the way his face had looked in lamplight when he heard it.
-
-*That* was what would survive her. That was what would pass forward through the bloodline — not the philosophy, not the old skill, but the shape of a love so deep it had no name in any language she knew. Her descendants would inherit it without knowing what it was. They'd feel something stir — a warmth behind the ribs, an ache in the throat, a reaching for someone who wasn't there — and they'd think it was their own feeling. Their own loss. They'd never know it was hers.
-
-"Amenhotep..." she breathed. The eighty-four faces blurred above her. "Tell him..."
-
-But Amenhotep had been dead for thirteen years. She knew that. Had known it when the news reached Byblos. A seizure, the reports said, his massive frame found rigid on the stone floor. She'd gone to the harbor alone that day and braced her hands against the seawall and held them there until the stone was warm and then held them longer, because she'd learned long ago that her own heat was not enough but it was all she had.
-
-"Tell him I heard him mispronounce *hesat* and I laughed and I never laughed like that again. Tell him that's what I'm sorry for. That I couldn't do it again. That I tried for forty-seven years and I couldn't get back to the place where the laugh lived because you can't reach that place on purpose. You can only be found there by someone who isn't trying."
-
-Deborah leaned close, her hand on Nefertari's forehead. "Grandmother—"
+"Grandmother—"
 
 "He was wrong about everything." Her voice was barely there. "And he cared more than anyone I've ever known. And I loved him the way the lung loves air."
 
-"Rest now," Deborah said. "Rest."
+Her left hand reached across the mat. Deborah caught it. Held it. Felt the pulse — already irregular, already fading — and underneath the pulse, something else. The rhythm of a woman who had been reaching for fifty-nine years and would reach until the muscle stopped.
 
-Nefertari's breathing slowed. Around her, the network began to hum. Not words. Just sound. A vibration of voices, four generations unified in frequency.
+The eighty-four people in the courtyard began to hum. Not words. Just sound. A vibration that rose from four generations unified in frequency. Nefertari heard it distantly, through the fever, through the years.
 
-*Did I hold on too long?* she wondered. *Did I make them need me when I should have made them need each other?*
+"The final layer—" she started.
 
-The humming swelled. Eighty-four voices, and not one of them waiting for her to lead it. The sound washed over her and through her and she thought: *this is what it sounds like when a network sustains itself.* And underneath the humming, barely audible, her own breathing — searching, as it had searched since the workshop, for the rhythm it had lost. Expanding. Pausing. Listening.
+And stopped. Mid-sentence. The pulse under Deborah's fingers went irregular, then thin, then absent. No final gasp. Just present, then gone.
 
-Finding nothing. Finding only the hum of eighty-four people who loved her and who would, tomorrow, continue without her. Which was what she'd always said she wanted.
+Like the Bronze Age itself.
 
-But in the last moment — the very last, when the fever took the final thread connecting her to the world — she didn't think about the network. She thought about a lamp guttering in a laboratory, and a word mispronounced, and a laugh that came from somewhere below her ribs, and a man's face in the light looking like he'd just discovered something he hadn't known was possible.
+Deborah sat with the body for a long time. The humming continued around her — eighty-four voices sustaining a sound that needed no conductor. The network continuing without its founder. Which was what Nefertari had always said she wanted.
 
-*Do that again,* he'd said.
+Deborah looked at her notes. Pages of encoding protocols, pulse-lock mechanics, carrier training methods. Ninety percent of it captured. The remaining ten percent — the final layer, the thing about trust, the sentence that had died mid-word — was gone.
 
-And finally, dying, she did.
+The system was never going to be complete. Nefertari had designed a network that could survive anything except losing herself. And she'd lost herself anyway.
 
----
+Deborah pressed both palms flat against her thighs. Counted twelve. The gesture she'd learned from watching, not from being taught — the way the inheritance always worked.
 
-## SCENE 8: The Succession (Three Days Later)
+Outside, through the harbor-facing window, two figures moved along the seawall. Walking slowly. Studying the temple's foundations. Taking their time.
 
-They laid her in a simple tomb in the hills above Byblos, marked only by a cedar tree and a bronze disc embedded in stone. No inscription. Nothing to draw attention. Just as she'd wanted.
+They could afford to. They knew the physician was dying. They knew the network would grieve. They knew that grief made people careless, and carelessness created openings, and openings were what fifty-nine years of patience had been waiting for.
 
-Deborah had found the scroll that morning. Not four lines. More than that. She read it once, alone, and her hands were steady until the second paragraph and then they weren't.
+Deborah watched them. Then she stood, folded her notes into her sash, and went to find the priestesses.
 
-*Today you stood in front of eighty-four people and started to teach. You were right.*
-
-She folded the papyrus and tucked it into her sash. Pressed her palm against it until she could feel the ink through the linen.
-
-She stood before the gathering. Eighty-four people, waiting.
-
-"Next month, we gather again," Deborah said. Her voice cracked on the first word and steadied on the last. "Same courtyard, same time. But I won't be standing where she stood. We'll take turns. That's how it works now."
-
-Sarah, Generation 3, nodded. "We should start with the families who've been here longest. They know the —"
-
-"Actually, we should start with the newest." The correction was out of Deborah's mouth before she heard it. The same reflex. The same automatic precision. She heard Nefertari's voice in her own and stopped cold.
-
-Eighty-four faces watching her. The same silence she'd sat down into three days ago. The papyrus burned against her ribs.
-
-"Sarah's right," Deborah said. "Start with the longest-standing families. They know what works." She swallowed. "I'll go last."
-
-Sarah placed a hand on her shoulder. The gathered families murmured agreement, the sound of a practice continuing without a leader.
-
-In the hills above, a cedar tree marked an unmarked tomb, and the network's first generation passed into memory.
-
-But the practice endured.
+The Pattern Eye needed to be moved. Tonight.
 
 ---
 
 **OFFENSIVE NETWORK INTERLUDE**
 
-**Thebes, Egypt — 1130 BCE**
+**Intelligence Memorandum — Khasekhem, Temple of Karnak, Thebes**
+**Year 47 of the Protocol (1130 BCE)**
+**Classification: Senior operatives only**
 
-Khasekhem read the message twice in his chamber at the Temple of Karnak, then set it on the cedar table and pressed his hands against the wood.
+---
 
-Nefertari was dead.
+**RE: Death of Subject Nefertari. Implications for offensive strategy.**
 
-He'd never met her. Amenhotep had spoken of her rarely and always with the particular care of a man describing someone he'd loved and lost to principle rather than to time.
+Nefertari is dead. Byblos report confirms: eighty-four people, four generations, burial beneath a cedar tree. I never met her. Amenhotep spoke of her rarely and always with the particular care of a man describing someone he'd loved and lost to principle rather than to time.
 
-Amenhotep himself had died thirteen years ago. Three days dictating final instructions to the breeding registry, refusing food, refusing sleep. Then, on the third night, the stylus fell from fingers that could no longer grip it. And Amenhotep stopped dictating.
+**For the record — Amenhotep's death (1143 BCE):**
 
-What came next, Khasekhem had never told anyone.
+Three days dictating final instructions to the breeding registry. Refusing food, refusing sleep. On the third night, the stylus fell from fingers that could no longer grip it.
 
-The old man's right hand moved. Not toward the registry. Not toward the bronze keys in their cedar chest. His hand moved to the right side of the sleeping mat — reached across the empty space beside him and held against the linen, fingers spread, as if testing for warmth that should have been there.
+What came next, I have never told anyone.
 
-"She mispronounced *hesat*," Amenhotep said. His voice had changed. Not weaker. *Younger.* "Ebers Papyrus, remedy 482. She meant the jar. She said the cow. And I laughed." A sound came from his throat that might have been a laugh or might have been a sob. "I asked her to do it again. She couldn't. You can't reach that place on purpose."
+He said: "I built it to stop the falling. Everything falls anyway. She knew."
 
-His hand pressed harder against the empty mat. "But the thing I built it *on* — the reason I cared whether civilizations collapsed or not—" His voice broke. "That walked out of our workshop thirty-four years ago and I never got it back."
+Six words. The foundation of everything he'd built — the temple networks, the breeding programs, the fifty-year experiment in controlled survival — undone in six words on a stone floor. The twelve-year-old in the grain riot, finally admitting: there was no system that could have saved his father. There was only love, and he'd chosen the system, and the system was dying with him.
 
-He died before dawn. His fingers tapped the sleeping mat. Once. Twice. Three times. The old pattern — one tap meant *look at this*, two meant *start over*, three meant *come here, I need you close.* He tapped three, and his hand went still. Khasekhem closed the old man's eyes and sat with the body until sunrise.
+His right hand moved. Not toward the registry. Not toward the bronze keys. Across the empty sleeping mat — reached and held against the linen, fingers spread, as if testing for warmth that should have been there.
 
-Now Khasekhem was fifty. The architect was gone. And the report from Byblos described eighty-four people, four generations, burying Nefertari beneath a cedar tree.
+"She mispronounced *hesat*," he said. His voice had changed. Not weaker. *Younger.* "Ebers Papyrus, remedy 482. She meant the jar. She said the cow. And I laughed. I asked her to do it again. She couldn't."
 
-*It will fracture,* he thought. *Within a generation. Two at most.*
+His hand pressed harder against the empty mat. "You can't reach that place on purpose. But the thing I built it *on* — the reason I cared whether civilizations collapsed or not — that walked out of our workshop forty-six years ago and I never got it back."
 
-He pulled a fresh papyrus toward him. Amenhotep would have counseled patience. But Amenhotep had spent forty years watching while the defensive network grew from six people to eighty-four. Khasekhem would not make the same mistake.
+He died before dawn. His fingers tapped the mat. Once. Twice. Three times. The old pattern. *Come here. I need you close.* He tapped three, and his hand went still.
 
-*Compassion without authority is sentiment,* he wrote in the margin. Then crossed it out. Then wrote it again.
+I closed his eyes and sat with the body until sunrise.
+
+**Strategic assessment:** Their network will fracture. Within a generation. Two at most. Nefertari's death creates a succession crisis regardless of how prepared the girl Deborah may be. Amenhotep would have counseled patience. But Amenhotep spent forty years watching while the defensive network grew from six people to eighty-four. I will not make the same mistake.
+
+I've already dispatched operatives to probe the Byblos temple foundations. The priestesses are aging. Their oral traditions will blur within a generation. The Pattern Eye will be accessible within twenty years.
+
+*Compassion without authority is sentiment.* I wrote this in the margin. Crossed it out. Wrote it again.
+
+**Action items:**
+1. Map the Byblos settlement. Eighty-four names required.
+2. Existing asset: one family in the eastern settlement — a man who accepted Egyptian grain during the last drought and reports quarterly. He thinks he's repaying a debt to a generous merchant.
+3. Probe temple foundations systematically. Northern wall mortar joints show age.
+
+One of eighty-four. It is a start.
+
+— K.
 
 ---
 
@@ -272,36 +194,33 @@ He pulled a fresh papyrus toward him. Amenhotep would have counseled patience. B
 
 ---
 
-## CHAPTER 4 NOTES
+## CONTINUITY NOTES:
 
-**Timeline Continuity:**
-- 1177 BCE: Protocol operational / split (Nefertari age ~34)
-- 1130 BCE: Nefertari's death (age ~80, 47 years later) ✅
+### Timeline ✅
+- **1143 BCE**: Amenhotep's death (recalled in interlude). Age ~68. Forty-six years after the split.
+- **1130 BCE**: Nefertari's death. Age ~80. Fifty-nine years after the split.
+- Encoding protocols: 90% captured by Deborah. 10% lost — the "final layer" about trust.
 
-**Bloodline Status:**
-- Generation 1: Nefertari (died 1130 BCE)
-- Generation 2: Tirzah (died ~1135 BCE, mentioned retroactively)
-- Generation 3: Ephraim, Miriam, Sarah (active adults)
-- Generation 4: Deborah (age 17, new network leader)
+### Love Cascade ✅
+- Delirium blocks encoding: the hesat laugh intrudes on operational information transfer
+- Regret of being right: "I would give back every year of being right to have been wrong about him"
+- Reaching-left: Nefertari's dying hand reaches; Deborah recognizes it as the gesture she inherited
+- Deborah's realization: "the thing she'd inherited wasn't just knowledge. It was someone else's love."
+- Amenhotep's death: "I built it to stop the falling. Everything falls anyway. She knew." + three taps on empty mat
+- Mirror deaths: both reaching for each other at the end, separated by 13 years and three kingdoms
 
-**Network Growth:**
-- 1188 BCE: 6 people (founding)
-- 1130 BCE: 23 families, 84 people, 4 generations
-- Geographic spread: Phoenicia (Byblos, Tyre, Sidon), Cyprus, Canaan
-- Collapses prevented: 16 documented cases over 47 years
-- Success rate: Proof of defensive mode philosophy
+### Operational Stakes ✅
+- Encoding protocols incomplete (10% lost with Nefertari)
+- Pattern Eye under threat — temple probed, must be moved tonight
+- Order operatives already at the harbor watching
+- Khasekhem dispatching agents to map the network
 
-**Key Locations (Secure):**
-- Pattern Eye: Byblos temple vault (unchanged)
-- Memory Bridge: Cyprus archive (unchanged)
-- Distribution Network: 23 families across three regions (expanded from original 7 fragments)
+### Forward Continuity ✅
+- **Ch 5**: Deborah leads the network. Succession scene opens Ch 5. Incomplete encoding a permanent gap.
+- **Ch 7**: David's double game reveals what happened to Amenhotep's network after Khasekhem.
+- **Ch 14**: Both deaths — hesat laugh, three taps, reaching-left — accumulate through 42 generations to overflow.
 
-**Thematic Closure:**
-- ✅ Nefertari's 47-year arc completed (creation → death)
-- ✅ Defensive philosophy validated through evidence
-- ✅ Network succession established (practice over person)
-- ✅ Amenhotep respectfully acknowledged (tragic opposition, not villainy)
-- ✅ Distribution vs. control proved through results
-- ✅ Foundation laid for 3,000-year continuation
+---
 
-**Word Count:** ~5,600 words (main chapter + interlude)
+**Word Count**: ~4,200 words
+**Chapter Status**: REWRITTEN — Author's Pass deep rewrite per REWRITE_PLAN_CH1_8.md

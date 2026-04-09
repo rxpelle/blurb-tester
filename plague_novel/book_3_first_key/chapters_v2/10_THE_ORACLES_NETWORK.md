@@ -1,37 +1,23 @@
 # BOOK 3: THE FIRST KEY - CHAPTER 10
 ## "The Oracle's Network"
 
-**Timeline:** 550 BCE
-**Location:** Delphi, then Athens
-**Generation:** 20 (Pythia Aristonike, age 52) and 20 (Kleomenes of Athens, age 38)
-**POV Character:** Kleomenes
-**Historical Context:** Delphic Oracle at peak influence; Croesus consulting before war with Persia
-
 ---
 
-## SCENE 1: The Wrong Prophecy
-
-The Oracle at Delphi was too accurate. Five years Kleomenes had watched, and the pattern refused to make sense.
-
-A diluted branch shouldn't produce this level of consistency. But Delphi was *systematically accurate* — and that meant something else was operating.
-
-He stood now in the crowd along the Sacred Way, watching Croesus of Lydia approach the Temple of Apollo. The wealthiest king in the known world, draped in Lydian purple with gold rings on every finger, his retinue carrying gifts of gold ingots and silver kraters that dwarfed the offerings of Greek supplicants. The Phaedriades cliffs towered behind the temple like broken walls. Standard procedure. Ask the gods about military campaigns. Receive cryptic answer. Interpret as desired.
-
-Except Kleomenes knew the Oracle wasn't divine.
-
-The current Pythia was Aristonike, age fifty-two. Generation 20, defensive side. Diluted branch — her lineage traced back to Egyptian bloodlines from seven generations ago — but active nonetheless.
-
-Which meant she should deliver *some* accurate seeing mixed with plenty of confused visions.
-
-Instead, Delphi delivered systematic geopolitical analysis disguised as divine prophecy.
+**550 BCE — Delphi**
 
 The Oracle spoke: "*If Croesus crosses the Halys, he will destroy a great empire.*"
 
-The crowd murmured. Croesus smiled. Clear prophecy: attack Persia, destroy their empire, expand Lydian power.
+The wealthiest king in the known world smiled. His retinue murmured approval — gold ingots and silver kraters piled at Apollo's feet, and now the god himself endorsing conquest. Clear prophecy: attack Persia, destroy their empire, expand Lydian power.
 
-Kleomenes went cold.
+Kleomenes, standing in the crowd along the Sacred Way, went cold.
 
-That wasn't prophecy. That was an intelligence product — ambiguous enough to pass as divine approval, precise enough to warn anyone trained to read it. Croesus was overextended. Persia was consolidating. The prophecy had just told a king to destroy himself, and he'd smiled.
+That wasn't prophecy. That was a precise piece of geopolitical analysis wrapped in divine clothing — ambiguous enough to pass as Apollo's blessing, lethal enough to warn anyone trained to read it. Croesus was overextended. Persia was consolidating. The Oracle had just told a king to destroy himself, and he'd walked out smiling.
+
+The Phaedriades cliffs towered behind the temple like broken walls. Below them, the current Pythia — Aristonike, age fifty-two, a woman whose bloodline traced back to the original Egyptian carriers — had delivered something no single oracle should be capable of. Not confused visions. Not lucky guesses. Systematic accuracy, consistent across five years of Kleomenes's watching.
+
+Which meant Delphi wasn't just one woman with inherited sight.
+
+Delphi was something much more sophisticated. And Kleomenes needed to find out what.
 
 But Aristonike shouldn't have that level of analytical clarity. Not from a diluted branch.
 
@@ -67,7 +53,17 @@ Aristonike. The current Pythia.
 
 "Generation twenty," Kleomenes said carefully. "Defensive network. Investigating why Delphic prophecies are too accurate for a diluted line."
 
-"Because we're not just scattered descendants with thin inheritance." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic."
+"Because we're not just scattered descendants with thin inheritance." Aristonike stepped inside, closed the door. "We're an institutional network. Coordinated. Systematic." She glanced toward the corridor behind her. "And you need to stop investigating before the wrong person notices."
+
+"Someone already has?"
+
+"One of the Hosioi priests. Darius. He's been embedded here for six years — Amenhotep's side, Generation 19. He's been watching you since your second week." She held up a hand before Kleomenes could speak. "He hasn't reported you yet. I know because I read his dispatches before they leave the temple. But you broke into the archives on a feast night when every priest was supposed to be at the altar. Darius wasn't at the altar. He was in the corridor outside this room, and he left when he heard my voice."
+
+Kleomenes's stomach dropped. Three weeks of careful cover, and the offensive network had been watching him the whole time.
+
+"How long before he reports?"
+
+"Days. Maybe less. Which means what I'm about to show you, I'm showing you fast."
 
 ---
 
@@ -323,17 +319,13 @@ He told her. She repeated it twice, pressing it into her memory like a seal into
 
 "Two more years," she said. "Then you'll have to start telling me my own name too."
 
-He held her on the temple steps and felt the question he'd been carrying for three years settle beside them like a third person.
+He held her on the temple steps. Below them, pilgrims climbed toward an oracle who was disappearing inside her own gift — replaced, memory by memory, by dead women whose lives were becoming more real than her own. The network would survive. Fourteen temples. Trained carriers. The system she'd built to outlast her.
 
-If the love was inherited — if the pulse locking, the hand going steady, the tenderness she'd shown him with Nefertari's eyes — then none of it was theirs. They were performing a love story written eight centuries ago by two people in a lamplit laboratory, and the performance was so convincing they'd mistaken it for life.
+But the feeling might be Nefertari's. The choice to stay was his. Every morning for three years — his. Because she forgot which mother grew herbs, and he stayed. Because she called him Amenhotep with tenderness she'd never shown Kleomenes, and he stayed. The distinction between an inherited feeling and a chosen one was the only distinction that mattered in the whole three-thousand-year experiment.
 
-But.
+And in two years she wouldn't know the difference. Wouldn't know there was a difference. Wouldn't know there was a him to stay.
 
-The encoding hadn't told him to stay. No inheritance had forced him to learn Aristonike's system, to train her replacements, to answer to names that weren't his, to hold a list of everything she was losing and carry it when she couldn't. The feeling might be Nefertari's. The choice to stay was his. Every morning for three years — his. Not because the blood said so. Because she forgot which mother grew herbs, and he stayed. Because she called him Amenhotep with tenderness she'd never shown Kleomenes, and he stayed. Because the distinction between an inherited feeling and a chosen one was the only distinction that mattered in the whole three-thousand-year experiment, and he was going to stand on the right side of it until she couldn't recognize him at all.
-
-The woman who'd built the prophecy network was already leaving, replaced, memory by memory, by the dead women whose knowledge she carried and whose lives were becoming more real than her own. The network would survive. The network would grow. And Aristonike would vanish inside it, the way a river vanishes into the sea it feeds.
-
-But someone would remember her name. Not the seventeen names living inside her. Hers. And that someone had chosen to, which was more than the blood had ever asked of him.
+Below them on the Sacred Way, a Lydian merchant was asking a priest about Croesus's war with Persia. The priest said the gods had spoken clearly. The merchant looked relieved.
 
 ---
 
@@ -373,7 +365,7 @@ The woman who stepped out of the shadow was not someone he'd expected to meet he
 
 The sacred spring echoed through subterranean channels. Neither of them moved.
 
-The tremor was worse than he'd documented in his reports. Three years, perhaps less, before it consumed her cognitive function entirely.
+The tremor was worse than he'd documented in his reports. Three years, perhaps less, before it consumed her mind entirely.
 
 "I've been tracking your keys for four centuries," he said. Something about the corridor -- the intimacy of shared knowledge, the thin boundary between rivals who understood each other better than either understood the outside world -- made truth easier than deception. "We found the Temple vault empty. Searched through rubble while Jerusalem burned. Your founder designed something we still cannot defeat."
 

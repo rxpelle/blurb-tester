@@ -1,0 +1,34 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e5] [cursor=pointer]:
+        - /url: "#AACApplicationBody"
+      - generic [ref=e7]:
+        - link "Amazon Advertising Console" [ref=e8] [cursor=pointer]:
+          - /url: /mn
+          - img "Amazon Advertising Console" [ref=e9]
+        - generic [ref=e11]:
+          - button "Randy Pellegrini Sponsored ads, United States" [disabled] [ref=e13]:
+            - generic [ref=e15]:
+              - paragraph [ref=e16]: Randy Pellegrini
+              - paragraph [ref=e17]: Sponsored ads, United States
+          - button "See my notifications" [ref=e20] [cursor=pointer]:
+            - img [ref=e22]
+            - generic [ref=e24]: See my notifications
+          - button "Open the help panel" [ref=e27] [cursor=pointer]:
+            - img [ref=e29]
+            - generic [ref=e31]: Open the help panel
+          - button "Your preferences" [ref=e34] [cursor=pointer]:
+            - img [ref=e36]
+            - generic [ref=e38]: Your preferences
+  - img [ref=e46]
+  - generic [ref=e51]:
+    - generic [ref=e52]: © 2026 Amazon.com, Inc. or its affiliates.
+    - link "Conditions of use" [ref=e53] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088
+    - link "Privacy notice" [ref=e54] [cursor=pointer]:
+      - /url: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+    - link "Amazon Advertising Agreement" [ref=e55] [cursor=pointer]:
+      - /url: https://advertising.amazon.com/terms
+    - link "Status" [ref=e56] [cursor=pointer]:
+      - /url: https://status.ads.amazon.com
