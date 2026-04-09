@@ -96,9 +96,13 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 The familiar tension. Judas asked this in different forms every few weeks, the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
 
-"So we just accept defeat?" Judas's voice thinned to a rasp. "My cousin died in a Roman prison last year. My father lost his fields to the tax collectors. And we're supposed to tell *stories* while they grind what's left of us into dust?"
+"So we just accept defeat?" Judas's voice thinned to a rasp. "My cousin died in a Roman prison last year. Elazar. He was twenty-three." Judas's stick broke against the fire ring and he stared at the splintered half still in his hand. "They arrested him for sheltering a man the Romans wanted. Didn't even know the man — he'd come to the door hungry, and Elazar fed him, because that's what you do. That's what we were *taught* to do." He threw the broken stick into the flames. "Forty days in that hole. They didn't execute him. They didn't have to. The cold did it. The damp. They just left him there until his lungs filled up and he drowned in a dry cell."
 
-Jesus emerged from the darkness beyond the firelight. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
+Judas's voice had gone flat, the way voices go when the grief underneath is too large to let through the surface. "My father lost his fields to the tax collectors the same year. Two generations of terracing, olive trees his grandfather planted — gone. He works another man's land now. Walks past his own trees every morning on his way to someone else's harvest."
+
+He looked around the fire at the others. "And we're supposed to tell *stories* while they grind what's left of us into dust?"
+
+Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt — or Simon hadn't been listening. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
 "What's wrong with five years?"
 
@@ -114,11 +118,25 @@ James spoke for the first time. He'd been sitting with his arms crossed since th
 
 "And if I stop one burning?" Jesus's voice was quiet. "They burn two more to make the example."
 
-"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's face was hard. "Not violence. But resistance harder than stories."
+"Then maybe the teaching needs to include how to *fight back* without losing what you're fighting for." James's face was hard, firelight carving the bones of it into something older than his years. "Not violence. But resistance harder than stories."
 
-Jesus looked at him for a long time. "I don't have an answer for that yet."
+Jesus looked at him for a long time. The fire cracked. A log shifted and sent a column of sparks spiraling upward into the dark where they died.
 
-The admission hung in the air. Jesus not having an answer. Simon saw the others register it: Thomas's eyebrows rising, Matthew looking down, Peter shifting uncomfortably.
+"I don't have an answer for that yet."
+
+The silence that followed was different from every other silence Simon had heard around this fire. He'd seen Jesus face down Pharisees without blinking. He'd watched him stand in front of five thousand people and speak as if the words had been forming in his chest for twelve centuries. He'd never — not once in four years — heard Jesus say he didn't know.
+
+The others registered it in sequence. Thomas's eyebrows rose first — Thomas, who questioned everything, hearing the one admission he'd never thought to hope for. Matthew looked down at his hands, the way a man looks down when the ground shifts and he wants to confirm it's still there. Andrew's mouth opened slightly, then closed. Bartholomew glanced at Simon, checking whether he'd heard correctly.
+
+Peter shifted on his stone, the grinding discomfort of a man who'd built his entire commitment on the assumption that the teacher had the answers, all of them, and was simply choosing when to reveal each one. That assumption had just cracked, and Peter's face showed the crack — not anger, not doubt, but the raw bewilderment of a foundation stone discovering it might need to hold more weight than it was cut for.
+
+James was the only one who didn't move. He sat with his arms crossed and watched Jesus with the expression of a man who'd finally been told the truth and wasn't sure whether that made things better or worse.
+
+The fire burned. Nobody spoke. The lake sent its night sounds through the silence — water moving against rock, a boat knocking its mooring, the unhurried rhythm of a world that continued whether any of them had answers or not.
+
+Jesus didn't fill the silence. Didn't qualify. Didn't follow with *but here's what I think* or *however, consider this*. He sat with the absence of an answer the way he sat with everything — present, unflinching, letting the weight land where it needed to land.
+
+And something shifted in the circle that Simon couldn't name. Not confidence. Not peace. Something more fragile and more honest than either — the particular closeness of people who have admitted together that the road ahead has no map. That the man they'd followed into the wilderness was walking it for the first time too.
 
 "While we're saying the things nobody says," Peter said. He stared at the fire. "The women's circles. Mary's teaching. The others are talking. They say you've given a *woman* authority over the teaching while the Twelve sit around learning parables."
 

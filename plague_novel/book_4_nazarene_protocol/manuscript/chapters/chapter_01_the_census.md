@@ -250,21 +250,25 @@ Military intelligence headquarters. Not the census offices.
 
 Someone had noticed.
 
-Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign. Tribune Gaius Lucullus met him in a map room where the maps were rolled up and stored.
+Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign.
 
-He snapped to attention. "Centurion Scipio reporting, Tribune."
+Tribune Gaius Lucullus met him in a map room on the second floor of the intelligence wing. Not the large briefing room where officers gathered for provincial updates — the small one, the one with a single door and no windows. The maps here were not rolled up and stored. They covered every surface. Palestine in three scales: the full province pinned to the north wall, the Galilee district spread across the oak table, and a detailed rendering of the road network between Capernaum and Jerusalem tacked to the east wall with locations marked in red ink — gathering points, Marcus realized. Places where crowds had been reported.
+
+Lucullus sat behind the table with a clay lamp burning close to the maps, its light pooling on parchment reports stacked in the order of a man who read them more than once. He was younger than Marcus by five years but had the bearing of someone who'd never carried a pack or slept on ground — political corps, fast-tracked through staff postings, the kind of officer who understood leverage better than logistics. His hands were soft. His eyes were not.
+
+Marcus snapped to attention. "Centurion Scipio reporting, Tribune."
 
 Lucullus returned the salute curtly. No pleasantries. "The carpenter in Nazareth."
 
 His pulse spiked. "Carpenter?"
 
-"Jesus ben Yosef. Temple authorities sent an inquiry. Large crowds. Anti-institutional rhetoric. 'Kingdom of God' talk." Lucullus spread parchment reports across the table. "Five thousand attended one gathering last month. He uses parables about empires rotting from within, tells peasants they can survive without Rome's protection. Those aren't normal religious concepts."
+"Jesus ben Yosef. Temple authorities sent an inquiry. Large crowds. Anti-institutional rhetoric. 'Kingdom of God' talk." Lucullus tapped the Galilee map — three red marks clustered around Capernaum, two more near Bethsaida, one at a hillside north of the lake that Marcus recognized immediately. "Five thousand attended one gathering last month. He uses parables about empires rotting from within, tells peasants they can survive without Rome's protection. Those aren't normal religious concepts."
 
-The trap was closing. His census report — harmless carpenter, no concerns — now looked like deliberate concealment.
+The trap was closing. His census report — harmless carpenter, no concerns — now looked like deliberate concealment. Marcus's mind ran the calculation fast, the way it ran field assessments: seven years to pension. His sister Lucia in Gaul, widowed, raising two children on what Marcus sent her quarterly. Discharge meant no pension. Prosecution meant no sister, no nephews, no quiet farm. Everything he'd endured for twenty years — the boy at Carnuntum, the libraries burned in Thrace, the census lines and the filing of reports that kept people alive or got them killed — all of it reduced to whether the next words out of his mouth sounded like loyalty.
 
 "His teaching applies spiritual metaphors to practical concepts," Marcus said carefully. "He opposes violence. Pulls recruits away from the Zealots."
 
-"Then why did you omit him from your report?" Lucullus leaned forward. "I think he shows every marker of a high-level bloodline carrier. And I think you recognized those markers and deliberately buried them."
+"Then why did you omit him from your report?" Lucullus leaned forward, one finger still resting on the Galilee map as if marking Marcus's position on it. "I think he shows every marker of a high-level bloodline carrier. And I think you recognized those markers and deliberately buried them."
 
 Marcus met his eyes. "He teaches people to put down their swords. That's fewer Zealots for us to fight."
 

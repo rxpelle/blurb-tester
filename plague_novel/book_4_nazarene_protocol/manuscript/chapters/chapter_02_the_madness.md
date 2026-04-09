@@ -240,7 +240,21 @@ Mary made her decision.
 
 That evening, Mary sat in Simon's house with twelve men she didn't know and a carpenter who claimed she carried twelve centuries of inherited memory.
 
-Simon's wife Anna had taken Sarah without a word—tucked her onto a sleeping mat with a bowl of lentils and a warmth that made Mary's eyes sting. Nobody here treated her like the cursed woman from Magdala. Nobody crossed to the other side of the room.
+Simon's wife Anna had taken Sarah without being asked. Mary was standing in the doorway, Sarah's hand in hers, twelve strangers turning toward them, and before she could explain or apologize, Anna was there — small, sharp-featured, the economy of movement that comes from feeding fourteen people out of a kitchen built for four. She didn't ask who Mary was. Didn't glance at her husband. She crouched in front of Sarah, and her tired face went soft.
+
+"Are you hungry, little one?"
+
+Sarah nodded, pressing closer to Mary's leg.
+
+"I have lentils. And honey bread cooling on the stone." Anna held out her hand — palm up, open, the way you offer your hand to a stray animal so it can come to you or not. Sarah studied the hand. Then took it.
+
+Anna led her to a sleeping mat in the corner, produced a clay bowl of lentils, and settled a wool blanket around Sarah's shoulders. She smoothed Sarah's hair back from her forehead — the gesture automatic, maternal, the unselfconscious tenderness of a woman who touches children's hair the way she breathes.
+
+Mary's eyes stung. Such a small thing. A blanket. A hand in the hair. But in Magdala, mothers pulled their children away when Sarah approached. Joanna's refusal today had been the latest in a long contraction — doors closing, neighbors who'd once shared bread, a world that had decided Mary's affliction was contagious. And here was this stranger tucking her daughter in as if Sarah belonged here. As if belonging required nothing more than being small and hungry and present.
+
+Mary turned away. When she turned back her face was the face she wore in contract negotiations: composed, attentive, giving nothing away.
+
+Nobody here treated her like the cursed woman from Magdala. Nobody crossed to the other side of the room.
 
 Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this—food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement the men would later claim they'd built alone.
 
@@ -306,21 +320,39 @@ Her face hardened.
 
 "Months before you can manage the visions. Years before you master them." He nodded to Peter. "Show her the grounding exercise."
 
-Peter moved closer, visibly uncomfortable teaching a woman. "When the old memories surface, you name five things in the present. Physical things—what you see, hear, smell. It pulls you back."
+Peter moved closer, visibly uncomfortable teaching a woman. His shoulders were set the way a man's shoulders set when he's doing something he doesn't believe in but has been asked by someone he does believe in. He crouched on the reed matting across from Mary, close enough that she could see the scars on his knuckles, the salt-cracked skin around his wrists.
 
-He demonstrated, eyes closed, naming the lamp, the table, the fish smell, Sarah sleeping. When he opened his eyes, he shrugged. "Simple. But it works."
+"When the old memories surface, you name five things in the present. Physical things — what you see, hear, smell, touch. It pulls you back." He held up a rough hand. "Watch."
+
+He closed his eyes. His face changed — went tight, jaw clenching, hands gripping his knees. Then, deliberately, he began to speak.
+
+"The lamp — I can feel its heat on my right cheek." His voice was low, concentrating. "The table. Cedar, not olive — I can smell the difference. Fish from dinner, tilapia, oversalted." A breath. "Sarah sleeping — her breathing, in the corner." Another breath, slower. "Stone floor under my knees. Cold. Real. Here."
+
+His face opened. The tension drained from his jaw, his shoulders, his hands. When he opened his eyes, they were clear — not haunted, not distant. Present.
+
+"Simple," he said, and shrugged. "But it works. Took me three weeks before I could do it without someone talking me through. You'll be faster. The merchant's mind — naming things, inventorying — that's already what this is."
+
+It was the most words he'd said to her. She filed away the concession and didn't acknowledge it. Some men could only offer respect sideways.
 
 "Try it," Jesus said to Mary.
 
-She closed her eyes. Pi-Ramesses rose immediately—overcrowded streets, fever victims, Nefertari's hands on a dying woman.
+She closed her eyes. Pi-Ramesses rose immediately — overcrowded streets, fever victims, Nefertari's hands on a dying woman. The smell of the fever tents, the sound of keening, the press of bodies in spaces too small — 
 
 *Five things.*
 
-"Sarah's breathing," Mary said. "Lamp warmth on my face. The nets in the courtyard. Fish from dinner. My own heartbeat."
+"Sarah's breathing," Mary said. Her voice shook. "Lamp warmth on my face. The nets in the courtyard — I can hear them creak in the wind. Fish from dinner. My own heartbeat."
 
-The vision receded. Still there—waiting—but distant. Manageable.
+The vision receded. Not vanished — she could still feel it there, the way you feel the depth of water beneath a boat. But it was *below* her now, not *around* her. She was above it. For the first time in twenty-one years, the ancient memory was present and she was not drowning in it.
 
-She opened her eyes, gasping. "It works."
+She opened her eyes.
+
+The room was silent. Peter was watching her. Thomas had leaned forward.
+
+Mary's face did something she couldn't control. Her chin trembled and her eyes filled — not from the vision, not from grief, but from the sudden staggering relief of a woman who had spent her entire adult life believing she was drowning and had just been shown that the water was only waist-deep. That she could stand. That she'd always been able to stand, if someone had just told her where to put her feet.
+
+She pressed both hands against her face. When she dropped them, her eyes were wet but her voice was steady.
+
+"It works."
 
 "Practice it every time. Within a week, you'll observe the visions without drowning. Within a month, you'll read them."
 

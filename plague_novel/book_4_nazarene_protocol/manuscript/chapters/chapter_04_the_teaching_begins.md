@@ -190,19 +190,33 @@ Peter thought. "Tax collection. Last week. Roman soldier demanding payment from 
 
 "Yes."
 
-"That's asking victims to absorb injustice." James's voice broke. His fists clenched against his thighs. "My father was beaten by a Roman soldier for walking too slowly on a road his own grandfather built. You want me to tell my father he should have *thanked* the soldier?"
+"That's asking victims to absorb injustice." James's voice broke. His fists clenched against his thighs, knuckles white against the rough wool. "My father was beaten by a Roman soldier for walking too slowly on a road his own grandfather built. A road his grandfather *paved* — laid the stones himself. And this soldier, some boy from Galatia who'd been in Palestine six months, broke my father's jaw because he didn't step aside fast enough."
 
-The room went quiet. Even Peter looked uncomfortable.
+James's breathing had gone ragged. The firelight caught the cords in his neck.
 
-"No," Jesus said. "I want you to tell your father that his rage — justified, righteous rage — is the first stone in a road that ends with his grandchildren dead in Jerusalem's ruins." He let the silence hold. "I'm not asking for forgiveness. I'm asking for strategy."
+"My mother set the bone herself. No physician — we couldn't afford one after the tax increase. She used strips torn from her own headcovering." His voice dropped to something barely above a whisper. "He couldn't eat solid food for two months. Lost three teeth. And he never walked that road again. Takes the long way now, through the ravine, adds an hour each direction. Seventy years old, climbing rocks in the dark because a Roman soldier taught him that his own road isn't his."
 
-James didn't answer. His mouth compressed. He didn't leave, but he didn't nod either. The tension sat in the room like heat.
+James looked up. His eyes were wet but his jaw was set hard. "You want me to tell my father he should have *thanked* the soldier?"
 
-Mary spoke from the corner, quietly. "Triage. When the wound is too large to heal, you stop the bleeding."
+The room went quiet. Even Peter looked uncomfortable. Thomas studied his hands. Matthew, the former tax collector, had gone pale — he'd been on the other side of transactions like this, and he knew it.
 
-Everyone turned. Mary looked slightly terrified at what she'd said. But she didn't take it back.
+"No," Jesus said. His voice was low, careful — the voice of a man handling something that could shatter. "I want you to tell your father that his rage — justified, righteous rage — is the first stone in a road that ends with his grandchildren dead in Jerusalem's ruins." He let the silence hold. "I'm not asking for forgiveness. I'm asking for strategy."
 
-The training went on — Matthew's example of a market dispute, the discussion of when intervention is possible versus when you're only buying time. James said nothing more, but he didn't leave.
+James didn't answer. His mouth compressed. He didn't leave, but he didn't nod either. The tension sat in the room like heat — the kind that comes off stone walls after a day of sun, radiating long after the source is gone.
+
+Mary spoke from the corner, quietly. "Triage." Just the one word. Then, steadier: "When the wound is too large to heal, you stop the bleeding."
+
+Every man in the room turned to look at her.
+
+She sat against the far wall with Sarah sleeping against her chest, the child's breath lifting a strand of hair that had fallen across Mary's collarbone. The oil lamp beside her threw her shadow tall against the limestone — larger than she was, the shape of a woman standing when the woman herself was sitting.
+
+Peter's expression changed. Not the dismissal she was used to from men — something slower, more reluctant. The face of a fisherman who'd just watched a knot he couldn't untie come apart in someone else's hands. His mouth opened, then closed. He looked at Jesus, then back at Mary, as if checking whether what he'd heard was what she'd actually said.
+
+James was staring at her too. The rage hadn't left his face — it wouldn't, not tonight, maybe not for months — but something beneath it had shifted. As if the word *triage* had landed in the exact place where his father's broken jaw lived, and it fit there in a way that *turn the other cheek* never would.
+
+Mary looked slightly terrified at what she'd said. Her fingers pressed tighter against Sarah's back. But she didn't take it back.
+
+The training went on — Matthew's example of a market dispute, the discussion of when intervention is possible versus when you're only buying time. But the room had tilted. The men kept glancing at the corner where Mary sat, not with suspicion but with the uneasy attention of people recalibrating what they thought they knew about who in the room understood what they were doing. James said nothing more, but he didn't leave.
 
 When the Twelve filed out, Mary stayed.
 
