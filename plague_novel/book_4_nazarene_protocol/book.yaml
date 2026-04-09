@@ -1,0 +1,17 @@
+title: "Love Remembers in Silence"
+author: "Randy Pellegrini"
+manuscript: "output/Love Remembers in Silence - PDF Source.md"
+output: "output/"
+style: default
+
+series:
+  name: "The Architecture of Survival"
+  number: 4
+
+print:
+  trim: "5.5x8.5"
+
+typography:
+  body_font: "EB Garamond"
+  body_size: 11
+  line_spacing: 1.3

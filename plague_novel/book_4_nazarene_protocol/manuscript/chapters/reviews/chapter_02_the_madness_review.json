@@ -1,0 +1,860 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_4_nazarene_protocol/manuscript/chapters/chapter_02_the_madness.md",
+  "review_date": "2026-03-25T21:50:08.480360",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Developmental Editor",
+    "Line Editor",
+    "Scientific Accuracy Editor",
+    "Genre Editor",
+    "Accessibility Editor",
+    "Historical Authenticity Editor",
+    "Sensitivity Editor",
+    "Acquisitions Editor",
+    "Copy Editor",
+    "Proofreader",
+    "Emotional Resonance Editor",
+    "Immersive Experience Editor"
+  ],
+  "notes": [
+    {
+      "persona": "Developmental Editor",
+      "severity": "critical",
+      "category": "pacing",
+      "location": "Scene 1 (paragraphs 1-40)",
+      "issue": "The opening vision sequence is extremely long (2,000+ words) and front-loads too much exposition about Pi-Ramesses, Bronze Age collapse, and blood memory mechanics before readers understand the character or stakes",
+      "suggestion": "Cut the vision sequence by 60%. Start with Mary waking, show her disorientation and Sarah's presence, then give only essential vision details. Move the historical exposition to dialogue later when Jesus explains blood memory.",
+      "example_before": "Three hundred thousand people crammed into a grid-pattern city that couldn't sustain half that number. Refugees flooding in from the north...",
+      "example_after": "The city surrounded her\u2014Pi-Ramesses, overcrowded and burning. She could smell the fever, feel Nefertari's desperation as civilization collapsed."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "character development",
+      "location": "Throughout chapter",
+      "issue": "Mary's arc from desperate to determined happens too quickly. Her decision to trust Jesus and abandon her business feels rushed given her established caution and single-mother responsibilities",
+      "suggestion": "Add more internal conflict about leaving Magdala. Show her weighing specific risks to Sarah. Have her negotiate trial arrangements before fully committing. Her transformation needs more psychological steps.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "scene purpose",
+      "location": "Scene 2 (marketplace to arrival)",
+      "issue": "The journey to Capernaum section serves mainly as transition. The eight-mile walk with visions adds little beyond showing physical hardship",
+      "suggestion": "Either cut the journey details and jump to arrival, or use the travel visions to reveal crucial plot information. Make every vision advance understanding of the network or keys.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "plot logic",
+      "location": "Jesus's recognition scene",
+      "issue": "Jesus knowing Mary's exact details (business type, daughter's name, specific visions) without explanation strains credibility. This feels like authorial convenience rather than character knowledge",
+      "suggestion": "Establish earlier that network carriers can sense each other, or have Jesus explain he's been watching/tracking carriers in the region. Give him a believable information source.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "dialogue authenticity",
+      "location": "Scene 3, Jesus's teaching",
+      "issue": "Jesus's explanation of blood memory uses very modern systems-thinking vocabulary ('pattern recognition,' 'feedback loops') that feels anachronistic for 1st century Palestine",
+      "suggestion": "Rewrite technical explanations using period-appropriate metaphors. Use agricultural, fishing, or crafting analogies that would resonate with the audience.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "narrative momentum",
+      "location": "Chapter ending",
+      "issue": "Ends on Mary sleeping peacefully, which releases tension. For a thriller, this feels too resolved\u2014where's the hook to drive readers to Chapter 3?",
+      "suggestion": "End with Mary having a new vision that reveals something urgent about the Pattern Eye key, or show approaching danger to the network. Maintain forward tension.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "suggestion",
+      "category": "character consistency",
+      "location": "Mary's business acumen",
+      "issue": "Mary is established as a successful merchant, but her negotiation with Jesus about joining the network doesn't demonstrate this expertise. She accepts terms without bargaining",
+      "suggestion": "Show Mary's business mind by having her ask practical questions about the network's structure, funding, her role's specifics. This would feel more consistent with her established character.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "critical",
+      "category": "repetitive sentence structure",
+      "location": "throughout, especially paragraphs 5-15",
+      "issue": "Monotonous sentence patterns create choppy rhythm and weaken immersion",
+      "suggestion": "Vary sentence lengths and structures. Combine short sentences with longer, flowing ones.",
+      "example_before": "Mary pressed her hands against her temples, trying to force the vision away. But it wouldn't release. It never did anymore.",
+      "example_after": "Mary pressed her hands against her temples, trying to force the vision away, but it wouldn't release\u2014it never did anymore."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "padding and weak verbs",
+      "location": "paragraphs 8-12",
+      "issue": "Generic verbs and unnecessary padding words weaken prose energy",
+      "suggestion": "Replace 'was/were' constructions and eliminate filler words like 'began to'",
+      "example_before": "She saw the woman physician\u2014*Nefertari*, the name surfaced unbidden from some inherited depth\u2014moving through overcrowded tenement blocks",
+      "example_after": "The woman physician\u2014*Nefertari*, the name surfacing unbidden from inherited depths\u2014moved through overcrowded tenement blocks"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "redundancy",
+      "location": "paragraph 18",
+      "issue": "Saying the same thing multiple ways dilutes impact",
+      "suggestion": "Choose the strongest phrasing and cut the rest",
+      "example_before": "But it felt like her memory. Tasted like her memory. The sensory details were too precise, too immediate.",
+      "example_after": "But the sensory details felt too precise, too immediate\u2014like her own memory."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "dialogue attribution",
+      "location": "Scene 2, multiple instances",
+      "issue": "Over-attribution and unnecessary dialogue tags slow the pace",
+      "suggestion": "Trust readers to follow speakers; eliminate most tags when two people are talking",
+      "example_before": "\"Where does he teach?\" she asked before she could stop herself.\n\nThe fishermen looked at her\u2014brief recognition, longer discomfort. Everyone in Magdala knew about Mary now. The possessed woman. The one who collapsed and spoke in ancient tongues.\n\n\"Capernaum mostly,\" one fisherman said carefully.",
+      "example_after": "\"Where does he teach?\" The words escaped before she could stop them.\n\nThe fishermen exchanged glances\u2014brief recognition, longer discomfort. Everyone in Magdala knew about Mary now.\n\n\"Capernaum mostly.\" The speaker's tone carried careful distance."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "passive voice overuse",
+      "location": "paragraphs 45-50",
+      "issue": "Passive constructions drain energy from action sequences",
+      "suggestion": "Convert to active voice wherever possible",
+      "example_before": "The whispers had started that day: *Possessed. Seven demons. Madness runs in her family\u2014her mother had it too.*",
+      "example_after": "That day the whispers started: *Possessed. Seven demons. Madness runs in her family\u2014her mother had it too.*"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "clich\u00e9",
+      "location": "paragraph 62",
+      "issue": "Dead metaphor weakens description",
+      "suggestion": "Find fresh imagery or be more specific",
+      "example_before": "Tobias \u2014 sixty years old, weathered like driftwood",
+      "example_after": "Tobias\u2014sixty years old, his skin creased like well-worn leather from decades of lake wind"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "word precision",
+      "location": "paragraph 89",
+      "issue": "Vague emotional description",
+      "suggestion": "Be more specific about the type of desperation",
+      "example_before": "felt desperation crystallize into determination",
+      "example_after": "felt her scattered panic crystallize into cold determination"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "suggestion",
+      "category": "paragraph flow",
+      "location": "Scene 3, opening",
+      "issue": "Abrupt transition could be smoother",
+      "suggestion": "Add a bridging sentence to connect the time jump",
+      "example_before": "That evening, Mary sat in Simon's house with twelve men she didn't know",
+      "example_after": "Three days of learning had passed in a blur, and now Mary sat in Simon's house with twelve men she was just beginning to know"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "major",
+      "category": "archaeological anachronism",
+      "location": "Scene 1, paragraph 8",
+      "issue": "Pi-Ramesses as described (grid pattern, 300,000 population) is historically inaccurate. Pi-Ramesses was built around 1279 BCE and abandoned by 1070 BCE, but it was not a grid-pattern city and population estimates are much lower (50,000-100,000 at peak).",
+      "suggestion": "Either use a different city that actually had grid planning (like Alexandria), or acknowledge this is the character's inherited memory distorting historical facts, adding a line about how blood memory can amplify or distort details.",
+      "example_before": "Three hundred thousand people crammed into a grid-pattern city",
+      "example_after": "What felt like hundreds of thousands of people in a sprawling delta city\u2014though she couldn't know if the blood memory magnified the scale"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "major",
+      "category": "medical plausibility",
+      "location": "Throughout, especially Scene 1",
+      "issue": "The description of inherited memory as a medical condition lacks any plausible mechanism. While the story establishes this as fictional science, there's no attempt to ground it in genetics, epigenetics, or neurological processes that could make it feel scientifically grounded for the genre.",
+      "suggestion": "Add brief references to how this might work scientifically\u2014perhaps epigenetic trauma transmission (which is real) amplified by some unknown mechanism, or reference to how memories could be encoded in DNA/cellular structures.",
+      "example_before": "Something inherited, like her mother's weak lungs",
+      "example_after": "Something inherited in the blood itself\u2014her grandfather had spoken of families whose very bodies remembered trauma, as if catastrophe could write itself into the flesh and pass to children"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "historical accuracy",
+      "location": "Scene 1, Pi-Ramesses description",
+      "issue": "Bronze Age Collapse dating is slightly off. The collapse occurred roughly 1200-1150 BCE, but Pi-Ramesses was still occupied during early phases of the collapse.",
+      "suggestion": "Adjust the timeline to show Pi-Ramesses falling later in the collapse sequence, or reference it as one of the last major cities to fall rather than an early casualty.",
+      "example_before": "Pi-Ramesses burning so vividly",
+      "example_after": "Pi-Ramesses\u2014one of the last great cities to fall as the Bronze Age world collapsed around it\u2014burning so vividly"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "terminology consistency",
+      "location": "Scene 3, Jesus's explanation",
+      "issue": "The term 'blood memory' is used inconsistently with 'inherited memory' and 'bloodline memory' without establishing whether these are technical terms with specific meanings or casual descriptions.",
+      "suggestion": "Establish consistent terminology and have Jesus explain the distinction if these terms mean different things, or consistently use one primary term.",
+      "example_before": "blood memory overwhelming you... inherited knowledge... bloodline memory",
+      "example_after": "blood memory overwhelming you\u2014that's what we call inherited trauma encoded in family lines"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "scientific plausibility enhancement",
+      "location": "Scene 3, grounding exercise explanation",
+      "issue": "The grounding technique is psychologically sound (used in real PTSD treatment), but the explanation could be enhanced by referencing how it works neurologically.",
+      "suggestion": "Add a brief line about how grounding works by activating present-moment neural pathways to override memory activation, making the technique feel more scientifically grounded.",
+      "example_before": "Grounding exercises created that distinction",
+      "example_after": "Grounding exercises pull the mind back to present sensation, interrupting the pathways that make ancient memory feel immediate"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "genre conventions",
+      "location": "entire chapter",
+      "issue": "The chapter reads more like historical drama than intellectual thriller. While Mary's visions are intriguing, there's insufficient mystery/puzzle structure to drive thriller pacing",
+      "suggestion": "Introduce a concrete mystery element: What is the Pattern Eye disc? Why is it 'pulsing'? What happens when keys are reunited? Give Mary (and readers) a specific intellectual puzzle to solve, not just personal healing",
+      "example_before": "Mary made her decision. 'I'll stay. Teach me.'",
+      "example_after": "Mary made her decision. 'I'll stay. Teach me.' She paused. 'And I want to find that disc. The Pattern Eye. If I saw it in my visions, there's a reason.'"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "Scene 3",
+      "issue": "The teaching scene becomes expository and slows thriller momentum. Too much explanation, insufficient tension about what this knowledge means or why it's dangerous",
+      "suggestion": "Raise stakes during the teaching. Hint that Roman authorities are suspicious of gatherings. Show that this knowledge is dangerous to possess. Create urgency about why they need to find other carriers quickly",
+      "example_before": "'Teach me,' Mary said. 'Everything. I don't care how long it takes.'",
+      "example_after": "'Teach me,' Mary said. 'Everything.' She glanced toward the window. 'But quickly. If Rome discovers what we're really doing here\u2014if they understand what we can see\u2014they'll kill us all.'"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "chapter ending",
+      "location": "final paragraphs",
+      "issue": "Chapter ends on resolution rather than compelling forward momentum. Mary feels better, sleeps peacefully - this deflates thriller tension",
+      "suggestion": "End on a revelation or cliffhanger that drives to next chapter. Perhaps Mary's first controlled vision reveals something urgent about the coming collapse, or she senses someone watching them",
+      "example_before": "Mary slept. For the first time in years, she slept without screaming.",
+      "example_after": "Mary slept. But in her dreams, she saw Roman soldiers marching toward Capernaum. And one of them carried something that made her blood freeze: a bronze disc, eight inches across, covered in symbols. The Pattern Eye. In enemy hands."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "ideas as engine",
+      "location": "throughout",
+      "issue": "While the concept of inherited blood memory is fascinating, it doesn't function as the primary plot driver. Mary's personal healing takes precedence over intellectual discovery/puzzle-solving",
+      "suggestion": "Restructure so that understanding the blood memory system becomes crucial to preventing imminent disaster. Make the intellectual breakthrough (recognizing patterns) the key to survival, not just personal growth",
+      "example_before": "The visions show you what's coming... you can help prevent what's building",
+      "example_after": "The visions aren't just showing you the past - they're showing you a pattern that's repeating right now. Jerusalem will fall within five years unless we can decode what your blood memory is trying to tell us. Every vision is a piece of the puzzle."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "information reveal",
+      "location": "Scene 3",
+      "issue": "Too much exposition delivered directly. Jesus explains the entire system rather than letting Mary (and readers) discover it piece by piece",
+      "suggestion": "Parcel out information more strategically. Let Mary discover key insights herself through experiencing controlled visions. Make readers work to understand the system",
+      "example_before": "Everything connects to everything. That's the first principle...",
+      "example_after": "Mary watched the lamp flame. Suddenly she saw it - oil from olives from trees from rain from... 'It's all connected,' she whispered. 'Everything feeds into everything else.' Jesus nodded. 'Now you're beginning to see.'"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "minor",
+      "category": "comp title alignment",
+      "location": "throughout",
+      "issue": "Missing the conspiracy/danger elements that define intellectual thrillers. Feels more like spiritual awakening than dangerous knowledge",
+      "suggestion": "Add hints of external threat. Who else might want this knowledge? What would Rome do if they understood the network's capabilities? Create a sense that this knowledge is both powerful and perilous",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "suggestion",
+      "category": "intellectual stakes",
+      "location": "Scene 1",
+      "issue": "Mary's visions of Pi-Ramesses are vivid but their significance isn't immediately clear to readers unfamiliar with Bronze Age Collapse",
+      "suggestion": "Add a brief line connecting this historical collapse to present danger: 'The same pattern that destroyed Pi-Ramesses is building here. Now. In Judea.'",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "accessibility - jargon density",
+      "location": "Scene 1, second half and Scene 3",
+      "issue": "Dense concept clusters without digestible breaks: 'cascading failures,' 'systemic collapse,' 'Bronze Age Collapse,' 'civilizational collapse,' 'inherited trauma' all packed together",
+      "suggestion": "Spread concept introduction across scenes. Introduce one major concept per scene, let characters absorb it before adding the next layer",
+      "example_before": "Bronze shortages cutting off trade. Drought destroying harvests. Population displacement overwhelming infrastructure. Disease spreading through density that shouldn't exist.",
+      "example_after": "Trade had stopped first. Bronze tools became too expensive, so farmers couldn't maintain their equipment. Then the rains failed. Now people were fleeing their dried-out lands, crowding into cities that couldn't feed half as many."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "character-driven explanation",
+      "location": "Scene 3, Jesus's teaching section",
+      "issue": "Jesus lectures extensively about systems and patterns instead of letting Mary discover these concepts through experience",
+      "suggestion": "Show Mary recognizing patterns herself, then Jesus confirms. Let her connect the dots rather than receive a lecture",
+      "example_before": "Everything connects to everything. That's the first principle. The lamp burns because you poured oil, which exists because someone pressed olives...",
+      "example_after": "Mary stared at the lamp flame. The oil came from somewhere. Olives pressed by someone. Who grew them how? With what tools? 'I can see the... connections,' she whispered. Jesus nodded. 'That's the first step.'"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "reading level - sentence complexity",
+      "location": "Throughout, especially Scene 1",
+      "issue": "Many sentences exceed 20+ words with multiple clauses, creating cognitive load above 10th grade level",
+      "suggestion": "Break complex sentences into shorter ones. Use simple subject-verb-object construction more frequently",
+      "example_before": "Mary had told herself it was a condition of the body, something inherited, like her mother's weak lungs or her grandfather's tremor, a sickness without a name\u2014not of the spirit but of the blood, episodes that came like seizures: sudden, involuntary, leaving her disoriented and exhausted afterward.",
+      "example_after": "Mary had told herself it was like any other sickness. Something that ran in families. Her mother had weak lungs. Her grandfather's hands shook. This was the same kind of thing. A sickness of the body, not the soul. The episodes came suddenly, like seizures. They left her exhausted and confused."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "concept accessibility",
+      "location": "Scene 3, 'blood memory' explanation",
+      "issue": "Core concept of inherited memories needs clearer, more concrete explanation accessible to general readers",
+      "suggestion": "Use familiar analogy before introducing term. Show don't tell the mechanism",
+      "example_before": "You're carrying inherited trauma from civilizational collapse. The visions are real memories\u2014not yours personally, but your bloodline's.",
+      "example_after": "Mary frowned. 'Like how Sarah has my eyes? But instead of eye color, I inherited... memories?' 'Exactly. Your ancestor lived through the city burning. What she saw was so powerful it somehow passed down. Like eye color, but in your mind instead of your face.'"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "jargon management",
+      "location": "Multiple instances throughout",
+      "issue": "Technical terms introduced without definition: 'cascading failures,' 'systems thinking,' 'pattern recognition,' 'defensive mode'",
+      "suggestion": "Define terms through character dialogue or immediate context",
+      "example_before": "That's defensive mode. Early intervention before crisis makes intervention impossible.",
+      "example_after": "Jesus called it 'defensive mode'\u2014stopping problems before they got too big to stop."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "reader orientation",
+      "location": "Scene 1, Pi-Ramesses section",
+      "issue": "Historical context of Bronze Age Collapse may confuse readers unfamiliar with ancient history",
+      "suggestion": "Add brief orienting details that ground readers in what this means",
+      "example_before": "Bronze Age Collapse cascaded through interconnected civilizations",
+      "example_after": "The whole ancient world was falling apart. Cities that had stood for centuries were burning. It was like watching dominoes fall, one civilization triggering the collapse of the next."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "suggestion",
+      "category": "exposition balance",
+      "location": "Scene 2, fishermen dialogue",
+      "issue": "Exposition about Jesus feels slightly artificial - fishermen using academic language like 'systems thinking'",
+      "suggestion": "Have fishermen use more natural language, let Mary interpret the academic concepts",
+      "example_before": "systems thinking. Pattern recognition. Like he's teaching us to see connections we normally miss.",
+      "example_after": "He shows us how things connect. Like how a bad fishing season isn't just bad luck\u2014it's connected to the weather, and trade, and what's happening in other towns."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "critical",
+      "category": "anachronism - material culture",
+      "location": "Scene 1, paragraph 6",
+      "issue": "Window shutters were not common in 1st century CE Jewish houses, especially not in modest fishing towns. Most houses used wooden or cloth coverings over window openings, if they had windows at all.",
+      "suggestion": "Change to 'pre-dawn light seeping through the window covering' or 'through gaps in the wooden screen'",
+      "example_before": "pre-dawn light seeping through the window shutters",
+      "example_after": "pre-dawn light seeping through gaps in the woven screen that covered the window opening"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - social norms",
+      "location": "Scene 1, multiple references",
+      "issue": "Mary's independent business ownership and operation is anachronistic. While women could inherit property, actively running a salting operation with employees and negotiating contracts would have required male oversight (guardian, brother, or grown son).",
+      "suggestion": "Establish that Mary operates through a male relative or business partner, or acknowledge the unusual nature of her independence more explicitly",
+      "example_before": "Mary had expanded the operation after his death, hiring workers, negotiating directly with merchants",
+      "example_after": "Mary had expanded the operation after his death, working through her cousin Levi but making the real decisions, hiring workers and directing negotiations with merchants"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - medical concepts",
+      "location": "Scene 1, paragraph 14",
+      "issue": "'Seizures' and 'brain pressing against itself' reflect modern medical understanding. 1st century terminology would be different - 'falling sickness,' divine affliction, or humoral imbalance.",
+      "suggestion": "Use period-appropriate medical language: 'falling sickness' or describe symptoms without modern diagnostic terms",
+      "example_before": "told herself it was a condition of the body... The episodes came like seizures: sudden, involuntary",
+      "example_after": "told herself it was a sickness of the blood, like her mother's weak lungs... The episodes came suddenly: she would fall, her body rigid, then wake confused"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - language register",
+      "location": "Throughout, especially dialogue",
+      "issue": "Several modern phrases: 'systems thinking,' 'pattern recognition,' 'organizational ability,' 'supply chains.' These concepts existed but wouldn't be expressed in modern business terminology.",
+      "suggestion": "Use period-appropriate language: 'seeing connections,' 'understanding the flow of trade,' 'managing provisions and workers'",
+      "example_before": "systems thinking. Pattern recognition. Like he's teaching us to see connections",
+      "example_after": "how things connect to one another. Seeing the hidden threads that bind events together"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "material culture - accuracy needed",
+      "location": "Scene 1, paragraph 27",
+      "issue": "Indigo dye was expensive and primarily imported. While possible for a successful merchant, it should be noted as a marker of significant wealth.",
+      "suggestion": "Either change to a more common dye (madder red, local purple) or emphasize the luxury",
+      "example_before": "Good linen, indigo-dyed",
+      "example_after": "Good linen, dyed the deep blue that marked her former prosperity"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "geographic accuracy",
+      "location": "Scene 2, paragraph 26",
+      "issue": "Eight miles from Magdala to Capernaum is accurate, but the description of the walk doesn't account for the hilly terrain around the Sea of Galilee's northern shore.",
+      "suggestion": "Add reference to the challenging terrain or walking along the shoreline path",
+      "example_before": "The walk to Capernaum took four hours",
+      "example_after": "The walk to Capernaum took four hours along the shoreline path, climbing over rocky headlands"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "social norms - housing",
+      "location": "Scene 3, paragraph 1",
+      "issue": "A guest room for unmarried woman with child would be unusual. More likely she'd stay with the women of the household or in a shared space.",
+      "suggestion": "Clarify the sleeping arrangements are with Simon's wife and family women, not a private room",
+      "example_before": "Gave them a guest room",
+      "example_after": "Made space for them with the women of the household"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "suggestion",
+      "category": "historical detail enhancement",
+      "location": "Throughout",
+      "issue": "The chapter could benefit from more specific period details: Roman presence, local governance, religious calendar, specific foods, clothing details.",
+      "suggestion": "Add periodic references to Roman oversight, Jewish religious practices, seasonal activities, to ground the reader more firmly in the period",
+      "example_before": "marketplace buying bread",
+      "example_after": "marketplace buying the day's barley bread, still warm from the communal ovens"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "suggestion",
+      "category": "cultural authenticity",
+      "location": "Scene 3, Jesus's teaching style",
+      "issue": "While the content is appropriate, the teaching method could reflect more rabbinical tradition - question-and-answer, scriptural reference, parable structure.",
+      "suggestion": "Frame Jesus's explanations more in the style of rabbinical discourse, with references to Torah or traditional wisdom",
+      "example_before": "Everything connects to everything. That's the first principle.",
+      "example_after": "As it is written, 'The earth is the Lord's and all that fills it' - see how all things are bound together by invisible threads?"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "major",
+      "category": "cultural representation",
+      "location": "Scene 1, paragraph describing Mary's economic situation",
+      "issue": "Mary's independent business ownership and wealth as an unmarried woman in 1st century Palestine needs more cultural context. While possible, it would have been extremely unusual and socially fraught.",
+      "suggestion": "Add a line explaining how she inherited this unusual position (perhaps her father had no sons, or she married young and was widowed) and acknowledge the social tension this creates beyond just the demon possession rumors.",
+      "example_before": "Mary's father had left her three salting vats, a stone warehouse near the harbor, and contracts with fishing crews",
+      "example_after": "Mary's father, having no sons, had reluctantly trained his daughter in the business before his death\u2014an arrangement that already raised eyebrows in Magdala even before the episodes began"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "power dynamics",
+      "location": "Scene 3, disciples' reaction to teaching a woman",
+      "issue": "The disciples' initial resistance to teaching Mary as a woman is historically accurate, but their quick acceptance feels slightly rushed for the cultural context.",
+      "suggestion": "Show more ongoing tension or have Jesus address this more substantively. The resistance would have been deeper and more persistent in this cultural context.",
+      "example_before": "Silence. The disciples looked uncomfortable but didn't argue further.",
+      "example_after": "Silence. The disciples looked uncomfortable, exchanging glances. Thomas opened his mouth as if to speak again, then closed it. The tension remained visible\u2014this clearly wasn't settled for them, only temporarily deferred to Jesus's authority."
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "cultural representation",
+      "location": "Scene 2, Mary's decision to travel alone",
+      "issue": "A woman traveling alone with a small child would face significant safety concerns and social censure in this period. The text acknowledges some of this but could be more specific.",
+      "suggestion": "Add a line about the specific risks Mary is taking\u2014bandits, assumption of prostitution, complete loss of social standing\u2014to show she understands the gravity of this choice.",
+      "example_before": "Even if that meant traveling with no money and a small child",
+      "example_after": "Even if that meant traveling alone with a child\u2014marking herself as either desperate or unchaste in the eyes of any who saw them\u2014with no male protection and little money"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "language",
+      "location": "Throughout, use of 'madness' and related terms",
+      "issue": "While historically accurate, the repeated use of 'madness,' 'mad,' and 'insane' could be more sensitive given modern understanding of mental health.",
+      "suggestion": "Consider occasionally varying with period-appropriate alternatives like 'afflicted,' 'troubled in mind,' or 'suffering in spirit' to show range while maintaining historical authenticity.",
+      "example_before": "convinced she was following her mother's trajectory toward early death and madness",
+      "example_after": "convinced she was following her mother's trajectory toward early death and the same affliction of spirit"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "agency",
+      "location": "Scene 3, Mary's role in the network",
+      "issue": "Mary's transition from desperate help-seeker to network organizer happens very quickly. While empowering, it could use more development.",
+      "suggestion": "Show more of Mary's process of recognizing her organizational skills are valuable, perhaps through a specific example of her solving a logistical problem the men hadn't considered.",
+      "example_before": "Within a week, Mary had sent Tobias instructions to sell the salting contracts",
+      "example_after": "Within three days, Mary had identified supply problems the disciples hadn't noticed\u2014too many people, not enough food stores for winter. Within a week, she had sent Tobias instructions to sell the salting contracts"
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "critical",
+      "category": "hook strength",
+      "location": "opening paragraphs",
+      "issue": "The opening 'Mary woke screaming' is strong, but the immediate info-dump about locations, dates, and generation numbers creates cognitive overload. Too much world-building before emotional connection is established.",
+      "suggestion": "Delay the technical details (Timeline, Generation, POV) until after the reader is hooked by Mary's experience. Start with pure emotion and sensory detail, then gradually introduce the world-building elements.",
+      "example_before": "**Timeline:** 27 CE, Spring - 1,204 years after Genesis Protocol creation\n**Location:** Magdala",
+      "example_after": "Move these details to after the first scene break or integrate them more organically into the narrative."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "market fit",
+      "location": "scenes 1-3",
+      "issue": "The pacing feels more literary fiction than thriller. While the concept is compelling, the execution lacks the urgency and forward momentum expected in commercial thrillers. Too much internal reflection, not enough external stakes or time pressure.",
+      "suggestion": "Add immediate external threats. Perhaps Roman authorities investigating Mary's 'possession,' or Zealots trying to recruit her for her 'prophetic' abilities. Create a ticking clock element.",
+      "example_before": "Mary had told herself it was a condition of the body. Something inherited...",
+      "example_after": "Add: 'And now the Pharisees were demanding she submit to formal examination. She had three days before they declared her possessed and turned her over to Roman authorities for 'public safety.'"
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "uniqueness",
+      "location": "throughout",
+      "issue": "The 'inherited memory' concept is compelling but not clearly differentiated from other supernatural/sci-fi elements in the market. The religious thriller angle gets muddled by the heavy world-building.",
+      "suggestion": "Clarify the unique selling proposition earlier. Is this alternate history? Sci-fi thriller? Religious conspiracy? The 'Genesis Protocol' suggests sci-fi, but the execution feels more supernatural. Pick a lane and commit.",
+      "example_before": "The blood memory concept is introduced gradually",
+      "example_after": "Add a clearer 'elevator pitch' moment where Jesus explains this isn't magic\u2014it's advanced neuroscience preserved from ancient civilizations."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "readability",
+      "location": "exposition sections",
+      "issue": "Heavy blocks of exposition about Pi-Ramesses, Bronze Age collapse, and network genealogy will lose general readers. Too much historical detail without enough personal stakes.",
+      "suggestion": "Break up exposition with action or dialogue. Show the visions through dramatic scenes rather than describing them. Make the historical elements feel immediate and relevant to Mary's present danger.",
+      "example_before": "Three hundred thousand people crammed into a grid-pattern city that couldn't sustain half that number...",
+      "example_after": "Show Mary experiencing the overcrowding viscerally, then have her react to it in the present: 'Mary gasped, the smell of ancient sewage still burning her nostrils. This was how Magdala would end if the Romans kept pushing.'"
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "series potential",
+      "location": "chapter end",
+      "issue": "While Mary's journey is set up well, the broader series questions aren't clear enough. What's the overarching threat? What are the stakes beyond Mary's personal healing?",
+      "suggestion": "Add a moment where Jesus hints at the larger threat\u2014the coming fall of Jerusalem, the need to preserve the knowledge for future civilizational collapses. Give readers a sense of the epic scope to come.",
+      "example_before": "Chapter ends with Mary sleeping peacefully",
+      "example_after": "Add Jesus having a vision of modern cities burning, muttering 'It's starting again. We have so little time.'"
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "suggestion",
+      "category": "blurb material",
+      "location": "Jesus's first appearance",
+      "issue": "The scene where Jesus immediately knows Mary's entire story is powerful but could be more dramatic for marketing purposes.",
+      "suggestion": "This is prime blurb material: 'A carpenter who sees the same visions of ancient collapse that are driving her insane.' Play up the mystery and connection.",
+      "example_before": "Your name is Mary, yes? From Magdala...",
+      "example_after": "Make this moment more electric\u2014perhaps Jesus has a vision of Mary's ancestor at the exact moment Mary arrives, creating a sense of destiny/fate."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "pacing",
+      "location": "marketplace scene",
+      "issue": "The transition from hearing about Jesus to deciding to find him feels rushed. More internal debate would feel more realistic and build tension.",
+      "suggestion": "Show Mary wrestling with the decision more. Maybe she tries other solutions first, or the community pressure intensifies, forcing her hand.",
+      "example_before": "Mary walked away before the conversation could become awkward charity or concerned intervention.",
+      "example_after": "Add a scene where Mary witnesses another 'possessed' woman being exorcised violently, making her realize she's running out of time."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "major",
+      "category": "punctuation",
+      "location": "paragraph 9",
+      "issue": "Missing comma in compound sentence",
+      "suggestion": "Add comma before coordinating conjunction 'but'",
+      "example_before": "Tried to warn Pharaoh Tausret that the collapse couldn't be stopped but only survived.",
+      "example_after": "Tried to warn Pharaoh Tausret that the collapse couldn't be stopped, but only survived."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 21",
+      "issue": "Em-dash usage inconsistent with spacing",
+      "suggestion": "Use consistent em-dash formatting throughout (either spaced or unspaced)",
+      "example_before": "not of the spirit but of the blood",
+      "example_after": "not of the spirit\u2014but of the blood"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "style consistency",
+      "location": "paragraph 30",
+      "issue": "Inconsistent italics usage for emphasis vs. foreign words",
+      "suggestion": "Use italics consistently for internal thoughts, regular text for emphasis",
+      "example_before": "*Possessed. Seven demons. Madness runs in her family\u2014her mother had it too.*",
+      "example_after": "Possessed. Seven demons. Madness runs in her family\u2014her mother had it too."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "major",
+      "category": "grammar",
+      "location": "paragraph 53",
+      "issue": "Subject-verb agreement error with collective noun",
+      "suggestion": "Match verb to the intended meaning of collective noun",
+      "example_before": "Money wasn't the problem.",
+      "example_after": "Money wasn't the problem."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 78",
+      "issue": "Missing comma in complex sentence",
+      "suggestion": "Add comma after introductory phrase",
+      "example_before": "Three days later Mary heard about the teacher.",
+      "example_after": "Three days later, Mary heard about the teacher."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "style consistency",
+      "location": "paragraph 85",
+      "issue": "Inconsistent treatment of internal thoughts",
+      "suggestion": "Maintain consistent formatting for character's internal thoughts",
+      "example_before": "*Pattern recognition.*",
+      "example_after": "Pattern recognition."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 112",
+      "issue": "Missing comma in compound sentence with coordinating conjunction",
+      "suggestion": "Add comma before 'but' in compound sentence",
+      "example_before": "She'd walked eight miles with a three-year-old and no clear plan beyond \"find the teacher who talks about patterns.\"",
+      "example_after": "She'd walked eight miles with a three-year-old, and no clear plan beyond \"find the teacher who talks about patterns.\""
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "major",
+      "category": "dialogue formatting",
+      "location": "paragraph 130",
+      "issue": "Missing paragraph break for new speaker",
+      "suggestion": "Start new paragraph when speaker changes",
+      "example_before": "\"Your name is Mary, yes? From Magdala...\" Mary's legs went weak.",
+      "example_after": "\"Your name is Mary, yes? From Magdala...\"\n\nMary's legs went weak."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 155",
+      "issue": "Inconsistent em-dash usage in dialogue",
+      "suggestion": "Use consistent em-dash formatting in dialogue interruptions",
+      "example_before": "\"She\u2014\" Mary's voice broke.",
+      "example_after": "\"She\u2014\" Mary's voice broke."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "number style",
+      "location": "paragraph 202",
+      "issue": "Inconsistent number treatment",
+      "suggestion": "Spell out numbers under ten consistently",
+      "example_before": "eighty-four people... 7 bronze keys",
+      "example_after": "eighty-four people... seven bronze keys"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "critical",
+      "category": "punctuation",
+      "location": "paragraph 2, line 'Not Magdala.'",
+      "issue": "Missing comma between location elements",
+      "suggestion": "Add comma for clarity",
+      "example_before": "Not here. Not Magdala. Not the stone house",
+      "example_after": "Not here. Not Magdala, not the stone house"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "Scene 1, paragraph describing the woman physician",
+      "issue": "Repetitive phrasing with 'she saw/she can see'",
+      "suggestion": "Vary sentence structure to improve flow",
+      "example_before": "She saw the woman physician...She saw it. Nefertari saw it.",
+      "example_after": "She saw the woman physician...The pattern was visible to those who knew how to look. Nefertari recognized it."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "Scene 1, 'Mary had told herself it was a condition of the body'",
+      "issue": "Awkward phrasing",
+      "suggestion": "Simplify for better flow",
+      "example_before": "Mary had told herself it was a condition of the body. Something inherited",
+      "example_after": "Mary had convinced herself it was a bodily condition. Something inherited"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "consistency",
+      "location": "Scene 2, fisherman dialogue",
+      "issue": "Inconsistent quotation mark spacing",
+      "suggestion": "Ensure consistent spacing after opening quotes",
+      "example_before": "\"\u2014five thousand people,\" one was saying",
+      "example_after": "\"Five thousand people,\" one was saying"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "formatting",
+      "location": "Throughout",
+      "issue": "Inconsistent em-dash usage",
+      "suggestion": "Use consistent em-dash formatting (\u2014) rather than mixing with double hyphens (--)",
+      "example_before": "Pi-Ramesses\u2014grid pattern",
+      "example_after": "Maintain consistent em-dash usage throughout"
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "critical",
+      "category": "emotional truth",
+      "location": "Scene 1, paragraph 8-12",
+      "issue": "The vision sequence feels detached despite its intensity. Mary experiences Pi-Ramesses as overwhelmingly real, but her emotional response reads more intellectual than visceral.",
+      "suggestion": "Add physical manifestations of emotional trauma during visions - nausea, cold sweat, phantom pain. Show her body responding to inherited trauma, not just her mind.",
+      "example_before": "Mary pressed her hands against her temples, trying to force the vision away. But it wouldn't release.",
+      "example_after": "Mary pressed her hands against her temples, bile rising in her throat as the acrid smell of bronze foundries seared her nostrils. Her hands shook\u2014not from fear, but from muscle memory of mixing remedies that wouldn't work. She wasn't just seeing Nefertari's desperation; she was feeling it in her bones."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional vulnerability",
+      "location": "Scene 2, marketplace conversation",
+      "issue": "Mary's interaction with the fishermen lacks emotional subtext. Her desperation should be barely contained beneath social courtesy.",
+      "suggestion": "Show her fighting to appear normal while internally fracturing. Let desperation leak through despite her efforts to seem composed.",
+      "example_before": "\"I'm fine,\" Mary lied. \"Thank you for the information.\"",
+      "example_after": "\"I'm fine,\" Mary lied, the words cracking like ice over deep water. She turned away before they could see her hands trembling, before they could witness how close she was to begging strangers to tell her anything\u2014anything\u2014that might make sense of the chaos in her skull."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "stakes",
+      "location": "Scene 2, decision to leave",
+      "issue": "The emotional weight of abandoning her entire life feels underplayed. This is catastrophic loss disguised as adventure.",
+      "suggestion": "Show Mary grieving what she's losing\u2014not just the business, but her identity, her father's legacy, her independence. Make the loss visceral before the hope.",
+      "example_before": "Mary made her decision. \"I'll stay. Teach me.\"",
+      "example_after": "Mary looked at the house one last time\u2014her father's legacy, her mother's memory, everything she'd built crumbling because her mind lived in the wrong century. The grief hit like a physical blow, doubling her over. But when she straightened, her voice was steady: \"I'll stay. Teach me.\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "mother-daughter dynamic",
+      "location": "Throughout chapter",
+      "issue": "Sarah feels more like a plot device than a real child. Her responses to her mother's distress are too mature and understanding.",
+      "suggestion": "Make Sarah more realistically childlike\u2014clingy when scared, confused by things she can't understand, occasionally resentful of her mother's unavailability during episodes.",
+      "example_before": "\"You were screaming again,\" Sarah whispered.",
+      "example_after": "\"Why do you do that?\" Sarah's voice carried the frustrated accusation only children can muster. \"The other mamas don't scream. Joanna's mama doesn't scream.\" Her small fist rubbed her eye. \"I don't like it when you scream.\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "emotional pacing",
+      "location": "Scene 3, recognition scene",
+      "issue": "The moment when Jesus accurately describes Mary's experience happens too quickly. This revelation should be emotionally devastating.",
+      "suggestion": "Stretch this moment. Let Mary experience disbelief, then recognition, then the overwhelming relief of being truly seen for the first time.",
+      "example_before": "Mary felt the world tilt. \"What?\"",
+      "example_after": "The words hit Mary like cold water, each detail a key turning in locks she'd built around her shame. Her breath came short, then shorter. No one knew about the Pi-Ramesses visions. No one knew about Nefertari. She'd never spoken those names aloud. Her legs forgot how to hold her weight. \"That's... that's impossible.\""
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "subtlety",
+      "location": "Scene 3, relief moment",
+      "issue": "Mary's emotional release is stated rather than shown through behavior and physical response.",
+      "suggestion": "Show the relief through contradictory physical responses\u2014laughing while crying, sudden exhaustion, inability to stop talking after years of hiding.",
+      "example_before": "Mary felt tears streaming down her face. Not grief. Relief. Overwhelming, crushing relief.",
+      "example_after": "The tears came without warning, but she found herself laughing through them\u2014great, gasping laughs that bordered on hysteria. Three years of suffocating silence broke open at once. \"I'm not mad,\" she whispered, then louder, \"I'm not mad!\" as if saying it could make the years of shame disappear."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "suggestion",
+      "category": "emotional truth",
+      "location": "Scene 1, community ostracism",
+      "issue": "The pain of social isolation could be more viscerally portrayed through specific relationship losses.",
+      "suggestion": "Name specific relationships that have been severed\u2014the baker who won't meet her eyes, the children who used to play with Sarah but now run away.",
+      "example_before": "Even families who'd accepted her charity were keeping distance now.",
+      "example_after": "Even Rachel, whose winter hunger Mary had ended with bags of salted fish, now crossed the street when she saw them coming. Sarah had stopped asking why her friends wouldn't play anymore."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "critical",
+      "category": "showing vs telling",
+      "location": "paragraph 14-17",
+      "issue": "Mary's emotional state is told rather than shown through visceral experience",
+      "suggestion": "Show her desperation through physical sensations and specific actions",
+      "example_before": "Mary had told herself it was a condition of the body... The episodes came like seizures: sudden, involuntary, leaving her disoriented and exhausted afterward.",
+      "example_after": "Mary pressed her palms against her temples, fingers finding the familiar tender spots where headaches bloomed after each episode. Her hands shook\u2014not from fear, but from exhaustion. Three hours of sleep, then Pi-Ramesses would drag her under again, leave her gasping on sweat-soaked sheets with the taste of Nile silt coating her tongue."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "sensory detail",
+      "location": "paragraph 5-8 (Pi-Ramesses vision)",
+      "issue": "Strong sensory opening loses intensity through summary rather than sustained immersion",
+      "suggestion": "Maintain visceral sensory details throughout the vision sequence",
+      "example_before": "Bronze shortages cutting off trade. Drought destroying harvests. Population displacement overwhelming infrastructure.",
+      "example_after": "The metalwork quarter stood silent\u2014no ring of hammers on bronze, no acrid smoke from the foundries. Empty workshops gaped like dead mouths. Mary could taste the dust of failed harvests on her tongue, feel the press of unwashed bodies in the refugee camps where children coughed themselves hollow."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "emotional resonance",
+      "location": "Scene 2, marketplace conversation",
+      "issue": "Mary's decision to seek Jesus lacks visceral desperation that would drive such a risky choice",
+      "suggestion": "Show her physical/emotional breaking point more intensely",
+      "example_before": "Because the alternative\u2014slowly losing her mind while Sarah watched her mother deteriorate into madness\u2014was unacceptable.",
+      "example_after": "Because two nights ago Sarah had found her on the floor, convulsing, blood on her tongue from where she'd bitten through it. Her three-year-old daughter had tried to hold her head like she'd seen the healers do. No child should know how to care for a seizing mother."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "scene grounding",
+      "location": "Scene 3, Simon's house",
+      "issue": "The teaching scene lacks specific physical details to ground the reader in the space",
+      "suggestion": "Add concrete sensory details about the house, the people, the atmosphere",
+      "example_before": "That evening, Mary sat in Simon's house with twelve men she didn't know",
+      "example_after": "That evening, Mary sat cross-legged on a woven mat in Simon's main room, oil lamps casting wavering shadows on stone walls still warm from the day's heat. Twelve men she didn't know formed a loose circle, their weathered faces\u2014fishermen's faces, she realized\u2014turned toward Jesus with the focused attention of students who'd learned to listen carefully."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "pacing",
+      "location": "Scene 1, Tobias conversation",
+      "issue": "The business collapse exposition feels rushed given its importance to Mary's desperation",
+      "suggestion": "Slow down to show the weight of losing her livelihood",
+      "example_before": "'Three more workers quit this morning,' Tobias said, not meeting her eyes.",
+      "example_after": "Tobias approached like a man walking to a funeral. Mary's stomach clenched before he spoke\u2014she knew that careful, pity-filled posture. 'Three more workers quit this morning,' he said, studying his calloused hands instead of meeting her eyes. 'That leaves us with six. Your father employed twenty-four.'"
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "visceral moments",
+      "location": "Vision grounding exercise",
+      "issue": "The breakthrough moment needs more physical sensation to feel transformative",
+      "suggestion": "Show the physical relief of controlling a vision for the first time",
+      "example_before": "The vision receded. Not gone\u2014still there, waiting\u2014but distant. Manageable. She opened her eyes, gasping.",
+      "example_after": "The vision receded like fever breaking\u2014still there but no longer burning through her. Mary's shoulders dropped as tension she'd carried for months finally released. She opened her eyes, gasping, and for the first time in three years the present moment felt more real than the ancient past."
+    }
+  ],
+  "summary": "Review complete: 83 notes from 12 personas. Critical: 8, Major: 33, Minor: 29, Suggestions: 13. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 8,
+    "major": 33,
+    "minor": 29,
+    "suggestion": 13,
+    "total": 83
+  }
+}

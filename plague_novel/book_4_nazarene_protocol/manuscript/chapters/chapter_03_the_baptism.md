@@ -148,9 +148,23 @@ Pi-Ramesses. But the vision didn't linger where Mary's lingered. It pushed past 
 
 *Nefertari in the scribe school.* Eighty-four frightened students. The fever already climbing through her body, and she was still teaching — not medicine, not astronomy, but how civilizations fall. How to spot the warning signs. How to carry what mattered through the burning.
 
-Her voice — not heard but felt, twelve centuries compressed into a few words to a terrified student: *Send knowledge with the grief. Your descendants get both — what fell and how to keep it from falling again.*
+Her voice — not heard but felt, twelve centuries compressed into meaning that bypassed language entirely. She was dying. Knew she was dying. And kept teaching.
 
-And underneath, the last thing she encoded before the fever took her:
+A young student — seventeen, maybe, hands knotted in her lap — asked the question that must have haunted all eighty-four of them: *How do we know our children will remember?*
+
+Nefertari's answer carried across twelve centuries like a stone dropped into still water:
+
+*They won't remember consciously. But trauma encodes in the blood. Your children will carry memory of this collapse even if they never understand why certain things terrify them. Why certain patterns make their skin crawl. Why they dream of cities they've never seen.*
+
+The girl looked stricken. *You're saying we pass our suffering forward? To our own children?*
+
+*I'm saying suffering will pass forward regardless. That's what trauma does — it persists across generations whether you choose it or not. But if you send knowledge with the grief — if your descendants inherit not just the memory of what fell but the understanding of how to keep it from falling again — then the suffering has a purpose. They get both. The wound and the medicine.*
+
+The girl was crying. Others too. Nefertari's own eyes were bright with fever, her hands shaking, but her voice held steady.
+
+*It isn't fair. I know. You didn't choose to survive this. You don't want your children inheriting nightmares of burning cities. But fairness isn't what keeps knowledge alive. Only persistence. Only distribution. Only trusting that what you carry forward matters more than what it costs you to carry it.*
+
+And underneath, the last thing she encoded before the fever consumed her:
 
 *Teach until they kill you. Die well. Trust the blood.*
 

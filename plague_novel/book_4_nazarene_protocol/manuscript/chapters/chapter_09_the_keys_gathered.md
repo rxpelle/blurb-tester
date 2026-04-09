@@ -13,7 +13,25 @@ The upper room was cold, summer mornings in Capernaum, the damp kind of cold tha
 
 He closed his eyes. The cascade had already begun — hours ago, in the dark — and he'd let it run.
 
-Nefertari's workshop. Not the idea of it. The place itself — bronze cooling on the workbench, the bitter tang of quenching water, her hands moving with precision while screaming carried through the walls. Twelve centuries collapsed to nothing. She was right there, thinking clearly while her world burned: *The keys are tools. Training aids. But the knowledge lives in the bloodline. A perfect carrier — forty generations unbroken — wouldn't need keys at all.*
+Nefertari's workshop. Not the idea of it. The place itself — bronze cooling on the workbench, the bitter tang of quenching water, her hands moving with precision while screaming carried through the walls. Twelve centuries collapsed to nothing. She was right there, thinking clearly while her world burned.
+
+But the vision shifted. Not the public teaching. The private conversation — Nefertari and her daughter, in the last weeks before the end. The girl was young, frightened, about to lose her mother.
+
+*The keys unlock what's already in you,* Nefertari told her. *They organize it. Make it coherent instead of chaos. But the knowledge itself lives in the blood. In you. In your children. In every generation that follows if the line stays unbroken.*
+
+The daughter's voice, small and desperate: *So without the keys, I can't access it?*
+
+*You can. But it will hurt more. The memory will come in fragments, in overwhelming floods, in patterns you can't hold. The keys just make it manageable. Transform the flood into something you can drink from instead of drown in.*
+
+*Then why make keys at all? Why not just teach us to access directly?*
+
+And Nefertari's answer — the thing Jesus had never accessed before, the understanding that changed everything:
+
+*Because perfect carriers are rare. Forty generations of unbroken bloodline — every single ancestor a carrier, no gaps in transmission, no dilution — that carrier wouldn't need keys. That carrier would BE the Protocol. Living access. Complete understanding without bronze.*
+
+*Has that ever happened?*
+
+Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does — if someone emerges forty generations from now with perfect unbroken transmission — they'll understand everything I encoded. Every layer. Every pattern. Everything I saw when I created this.*
 
 Jesus opened his eyes. His breath was ragged, his tunic soaked through with sweat despite the cold.
 

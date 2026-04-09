@@ -1,0 +1,880 @@
+{
+  "chapter_path": "plague_novel/book_4_nazarene_protocol/manuscript/chapters/chapter_01_the_census.md",
+  "review_date": "2026-03-25T21:32:10.271833",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Developmental Editor",
+    "Accessibility Editor",
+    "Line Editor",
+    "Historical Authenticity Editor",
+    "Scientific Accuracy Editor",
+    "Genre Editor",
+    "Emotional Resonance Editor",
+    "Copy Editor",
+    "Sensitivity Editor",
+    "Immersive Experience Editor",
+    "Acquisitions Editor",
+    "Proofreader"
+  ],
+  "notes": [
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "structure",
+      "location": "overall chapter structure",
+      "issue": "The chapter lacks a clear three-act structure with definitive turning points. It reads more like a series of connected scenes without dramatic peaks and valleys.",
+      "suggestion": "Restructure around Marcus's escalating commitment: Scene 1 (discovery of Jesus), Scene 2 (decision point with network consultation), Scene 3 (crisis forcing treasonous choice). Each scene should end with a clear decision or revelation that raises stakes.",
+      "example_before": "The three scenes feel episodic rather than building momentum",
+      "example_after": "Create stronger scene transitions that show Marcus being pulled deeper into moral conflict with each encounter"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "character arc",
+      "location": "Marcus throughout",
+      "issue": "Marcus's transformation from dutiful centurion to potential traitor happens too quickly and without sufficient internal struggle. The shift feels unearned.",
+      "suggestion": "Add more internal conflict. Show Marcus wrestling with his military oath versus his growing recognition that Rome's approach will destroy something valuable. Let him resist the pull toward protecting Jesus before ultimately choosing treason.",
+      "example_before": "'I won't report him,' Marcus said.",
+      "example_after": "Marcus stared at the report he'd written\u2014standard census data, nothing about bloodlines. His hand trembled slightly as he reached for the sealing wax. Twenty-three years of service. One carpenter. Why was this so hard?"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "pacing",
+      "location": "Scene 1, census dialogue",
+      "issue": "The census registration sequence drags. Too much routine business before the Jesus encounter, which is the real meat of the scene.",
+      "suggestion": "Cut the routine census interactions to 2-3 brief examples max, then jump to Jesus's registration. Start the scene closer to the central dramatic event.",
+      "example_before": "Extended sequence of mundane registrations before Jesus appears",
+      "example_after": "Show Marcus's boredom with 1-2 quick examples, then: 'But then something changed. The next man in line was different.'"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "plot logic",
+      "location": "Jesus's openness about network status",
+      "issue": "Jesus reveals incredibly sensitive information to Marcus too quickly. A man who's survived 32 years as a carrier wouldn't be this careless with operational security.",
+      "suggestion": "Make the revelation more gradual. Have Jesus test Marcus first with subtle responses, then gradually reveal more as Marcus proves his network knowledge. Show the careful dance of two people confirming each other's status.",
+      "example_before": "'Forty-two. Absolute count from Tausret.'",
+      "example_after": "Let Jesus deflect initially, then respond to specific network terminology Marcus uses, building trust incrementally"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "dialogue",
+      "location": "Jesus-Marcus conversation",
+      "issue": "Some dialogue feels too modern/analytical for the period. Jesus sounds like a contemporary systems theorist rather than a 1st century teacher.",
+      "suggestion": "Keep the intelligence but make the language more period-appropriate. Use more metaphorical/parable-like phrasing even in private conversation.",
+      "example_before": "'I can see what's coming, centurion. Twenty years, maybe thirty. Jerusalem burns. Population scattered. The same pattern that's hit every civilization I carry in my blood.'",
+      "example_after": "'The fruit is already set on the tree, centurion. When the harvest comes\u2014and it will come within a generation\u2014the seeds will scatter to distant soil.'"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "scene purpose",
+      "location": "Scene 2 with Simon",
+      "issue": "The scene with Simon feels like exposition delivery rather than dramatic development. It confirms what we already learned rather than advancing the plot.",
+      "suggestion": "Either cut this scene and weave the information into Scene 3, or give it dramatic weight by having Simon try to talk Marcus out of protecting Jesus, creating conflict.",
+      "example_before": "Simon confirms information we already know",
+      "example_after": "Have Simon warn Marcus that protecting Jesus will destroy them both, forcing Marcus to articulate why he's willing to risk everything"
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "suggestion",
+      "category": "chapter hook",
+      "location": "opening paragraph",
+      "issue": "Opening with weather complaints is weak. Doesn't immediately establish stakes or draw reader in.",
+      "suggestion": "Start with something that immediately establishes the tension between duty and conscience that will drive the chapter.",
+      "example_before": "Marcus Publius Scipio hated winter in Galilee.",
+      "example_after": "Marcus Publius Scipio had identified three potential threats to Rome this winter. He was about to find a fourth\u2014one that would force him to choose between his oath and his conscience."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "critical",
+      "category": "concept accessibility",
+      "location": "throughout chapter",
+      "issue": "Complex genealogical/network terminology and concepts are dumped without clear explanation for general readers",
+      "suggestion": "Use character confusion/questions to explain concepts naturally. When Marcus recognizes 'bloodline markers,' have him think about what that means concretely rather than using insider terminology.",
+      "example_before": "Generation 42. Primary bloodline, going back twelve hundred years to the founding.",
+      "example_after": "Generation 42? Marcus's training kicked in. That meant Jesus came from one of the original knowledge-keeping families\u2014bloodlines that had been passing down ancient wisdom for over a thousand years, parent to child, like a living library."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "jargon management",
+      "location": "dialogue between Marcus and Jesus",
+      "issue": "Characters speak in specialized network jargon that a general reader won't understand",
+      "suggestion": "Have characters explain concepts through examples and analogies rather than technical terms",
+      "example_before": "Family inheritance... network families... Generation 42. Absolute count from Tausret.",
+      "example_after": "It runs in families\u2014like how some people inherit their father's height or their mother's eyes. Except we inherit the ability to see patterns others miss. My family's been keeping track for forty-two generations, all the way back to Egypt."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "exposition balance",
+      "location": "Simon's house scene",
+      "issue": "Heavy information dump about Jesus's fate delivered as straightforward exposition",
+      "suggestion": "Break up exposition with action, emotion, or character reactions. Show Marcus's growing concern rather than just delivering plot information.",
+      "example_before": "Temple sees blasphemy. Zealots see cowardice. Rome sees instability. Three factions, three reasons to want him dead.",
+      "example_after": "Simon's weathered hands stilled on the nets. 'The Temple priests think he's mocking God. The Zealots think he's weak for not fighting Rome. And your people...' He looked up at Marcus. 'Your people see a man teaching peasants to think for themselves. That terrifies everyone in power.'"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "character-driven explanation",
+      "location": "Marcus recognizing Jesus as special",
+      "issue": "Pattern recognition is told rather than shown through character experience",
+      "suggestion": "Show Marcus noticing specific behaviors that trigger his recognition, rather than stating he has 'pattern recognition training'",
+      "example_before": "Marcus felt the recognition lock into place\u2014the same sense that had flagged Simon the fisherman and the woman in Cana.",
+      "example_after": "Something clicked in Marcus's mind\u2014the same feeling he'd had watching Simon predict weather patterns, or the way that woman in Cana had known the harvest would fail. Jesus wasn't just answering questions. He was thinking three steps ahead, seeing connections others missed."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "vocabulary accessibility",
+      "location": "various locations",
+      "issue": "Advanced vocabulary that may challenge 10th grade reading level",
+      "suggestion": "Replace advanced terms with simpler alternatives where possible",
+      "example_before": "genealogical markers, bureaucratic humiliation, escalation cycles",
+      "example_after": "family bloodlines, government harassment, revenge cycles"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "concept accessibility",
+      "location": "end of chapter",
+      "issue": "The concept of 'systems collapse' and empire cycles isn't clearly explained for general readers",
+      "suggestion": "Have Jesus explain this concept using a concrete analogy that a 10th grader would understand",
+      "example_before": "Teaching them that violence begets violence\u2014that refusing to retaliate breaks the cycle.",
+      "example_after": "Teaching them that hitting back just makes the other person hit harder\u2014like two kids fighting in a schoolyard until everyone gets hurt. Someone has to be brave enough to stop swinging first."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "sentence rhythm",
+      "location": "paragraph 3",
+      "issue": "Paragraph opens with three very short sentences in succession, creating choppy rhythm",
+      "suggestion": "Vary sentence length and combine some elements",
+      "example_before": "Census day. Rome's gift to the provinces: bureaucratic humiliation dressed as civic duty.",
+      "example_after": "Census day\u2014Rome's gift to the provinces, bureaucratic humiliation dressed as civic duty."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "word choice",
+      "location": "paragraph 2",
+      "issue": "Generic and imprecise verb 'seeped'",
+      "suggestion": "Use more specific, vivid verb that conveys the particular quality of dampness",
+      "example_before": "But Galilee had this particular dampness that seeped through wool and leather",
+      "example_after": "But Galilee had this particular dampness that penetrated wool and leather"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph 8",
+      "issue": "Unnecessary phrase 'if they could get to them'",
+      "suggestion": "Remove redundant qualifier",
+      "example_before": "They'd burn the registration records if they could get to them, kill collaborators if they couldn't.",
+      "example_after": "They'd burn the registration records, kill collaborators when they couldn't reach the records."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "redundancy",
+      "location": "paragraph 28",
+      "issue": "Repeating the concept of 'different' unnecessarily",
+      "suggestion": "Eliminate redundant phrasing",
+      "example_before": "This one was different. Marcus noticed immediately\u2014the way you notice after twenty years of evaluating threats. Not dangerous-different. Not Zealot posture or concealed-weapon stance.",
+      "example_after": "This one was different. Marcus noticed immediately\u2014the way you notice after twenty years of evaluating threats. Not dangerous. Not Zealot posture or concealed-weapon stance."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "passive voice",
+      "location": "paragraph 34",
+      "issue": "Weak passive construction where active would be stronger",
+      "suggestion": "Convert to active voice",
+      "example_before": "He'd front-loaded all the standard census questions before Marcus could ask them.",
+      "example_after": "He'd answered all the standard census questions before Marcus could ask them."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "cliche",
+      "location": "paragraph 37",
+      "issue": "Dead metaphor 'nagging at him'",
+      "suggestion": "Use fresher language",
+      "example_before": "Something was nagging at him.",
+      "example_after": "Something triggered his training."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "dialogue tags",
+      "location": "multiple locations",
+      "issue": "Over-reliance on 'said' with no variation or dropped tags where context is clear",
+      "suggestion": "Vary attribution and drop tags where speaker is obvious from context",
+      "example_before": "'Name,' Marcus said in Aramaic.",
+      "example_after": "'Name.' Marcus switched to Aramaic."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "paragraph 45",
+      "issue": "Vague modifier 'mildly suspicious'",
+      "suggestion": "Be more specific about the type of suspicion",
+      "example_before": "Also mildly suspicious",
+      "example_after": "Also noteworthy"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph 78",
+      "issue": "Unnecessary intensifier 'exactly'",
+      "suggestion": "Remove padding word",
+      "example_before": "You're exactly what my intelligence briefing told me to flag.",
+      "example_after": "You're what my intelligence briefing told me to flag."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "paragraph flow",
+      "location": "paragraph 82-85",
+      "issue": "Choppy transitions between Marcus and Jesus's dialogue",
+      "suggestion": "Smooth the flow with better connective tissue",
+      "example_before": "'Love your enemies' doesn't sound like effective strategy.' 'It's not strategy. It's the only thing that actually works.'",
+      "example_after": "'Love your enemies' doesn't sound like effective strategy.' Jesus's response was immediate: 'It's not strategy. It's the only thing that actually works.'"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "critical",
+      "category": "anachronism",
+      "location": "Scene 1, multiple instances",
+      "issue": "The Roman census system described is historically inaccurate for 26 CE. Romans conducted censuses primarily for citizens, not provincial populations. The systematic registration of all residents described here reflects modern bureaucracy, not Roman administrative practice.",
+      "suggestion": "Reframe as a tax assessment or property registration. Romans would be more interested in taxable assets and military-age males than comprehensive population counts.",
+      "example_before": "Census day. Rome's gift to the provinces: bureaucratic humiliation dressed as civic duty.",
+      "example_after": "Tax assessment day. Rome's gift to the provinces: extracting tribute dressed as administrative necessity."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "social norms",
+      "location": "Scene 1, Jesus introduction",
+      "issue": "Jesus remaining unmarried at 32 would be extremely unusual and socially problematic in 1st century Jewish culture. This would mark him as either deeply impoverished, physically disabled, or socially outcast\u2014none of which align with his portrayed public acceptance.",
+      "suggestion": "Either provide a stronger cultural justification (religious dedication, supporting extended family) or acknowledge the social stigma this would carry.",
+      "example_before": "You're unmarried? At thirty-two?' 'Correct.'",
+      "example_after": "You're unmarried? At thirty-two?' Jesus paused. 'I support my mother and unmarried sisters. Family obligations come first.'"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "language register",
+      "location": "Throughout, Jesus dialogue",
+      "issue": "Jesus uses modern systems terminology ('stable outcomes,' 'escalation cycles,' 'systems collapse') that would be anachronistic. While the story requires advanced knowledge, the language should feel more period-appropriate.",
+      "suggestion": "Translate systems concepts into metaphorical language that feels authentically ancient\u2014agricultural, construction, or natural metaphors.",
+      "example_before": "I don't believe violent resistance produces stable outcomes.",
+      "example_after": "Violence is like salt water\u2014the more you drink, the thirstier you become."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "material culture",
+      "location": "Scene 1, writing materials",
+      "issue": "The casual use of wax tablets and frequent reference to copying to parchment understates the cost and rarity of writing materials. Parchment was extremely expensive; most administrative records would use papyrus or wooden tablets.",
+      "suggestion": "Specify papyrus for copies, emphasize the value of writing materials, show more care in their use.",
+      "example_before": "Marcus's scribe, Lucius, scratched it onto wax tablets... sent to Caesarea, forwarded to Rome",
+      "example_after": "Marcus's scribe, Lucius, carefully inscribed the details on precious papyrus... sent to Caesarea under armed escort"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "cultural detail",
+      "location": "Scene 1, religious context",
+      "issue": "The mention of 'synagogue-trained' without acknowledging that synagogue education was primarily for religious texts, not general education, misrepresents 1st century Jewish learning.",
+      "suggestion": "Clarify that Jesus's education would be in Torah and religious law, which could explain his facility with complex reasoning.",
+      "example_before": "His Aramaic had Galilean accent, but educated. Synagogue-trained, probably.",
+      "example_after": "His Aramaic carried Galilean accent, but with the careful diction of someone schooled in Torah. Synagogue-trained in sacred texts."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "geography",
+      "location": "Scene 2, Capernaum description",
+      "issue": "The description of riding from Nazareth to Capernaum 'that evening' understates the distance and terrain. This journey would take most of a day on foot or several hours by horse.",
+      "suggestion": "Adjust timing to reflect realistic travel time, or specify that Marcus rode hard/changed horses.",
+      "example_before": "That evening, Marcus rode to Capernaum.",
+      "example_after": "Marcus rode hard through the afternoon, reaching Capernaum as the sun touched the lake."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "suggestion",
+      "category": "social norms",
+      "location": "Scene 3, military protocol",
+      "issue": "The informal interaction between Tribune and Centurion feels slightly modern. Roman military hierarchy was more rigid, with more ceremonial elements.",
+      "suggestion": "Add brief acknowledgment of rank protocols\u2014salutes, formal address, standing at attention.",
+      "example_before": "'Centurion Scipio.' No pleasantries.",
+      "example_after": "Marcus snapped to attention, fist to chest. 'Centurion Scipio reporting, Tribune.' Lucullus returned the salute curtly."
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "major",
+      "category": "historical chronology",
+      "location": "opening timeline",
+      "issue": "Roman census timing is problematic. The Census of Quirinius (mentioned in Luke's Gospel) occurred in 6 CE, not 26 CE. Having Marcus conduct a census in 26 CE conflicts with established historical records and would confuse readers familiar with Biblical chronology.",
+      "suggestion": "Either move the chapter to 6 CE to align with the historical Census of Quirinius, or change Marcus's mission from census-taking to tax collection or general population surveying, which occurred more regularly.",
+      "example_before": "**Timeline:** 26 CE, Winter",
+      "example_after": "**Timeline:** 6 CE, Winter (during the Census of Quirinius)"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "terminology accuracy",
+      "location": "paragraph discussing genealogy",
+      "issue": "The term 'bloodline marker' suggests genetic inheritance, but the story seems to describe learned knowledge and pattern recognition abilities. The mixing of genetic and learned traits terminology is confusing.",
+      "suggestion": "Use more precise terminology - either 'genetic markers' if these are truly inherited traits, or 'family knowledge traditions' if they're learned skills passed through generations.",
+      "example_before": "individuals with specific genealogical markers... unusual pattern-recognition abilities",
+      "example_after": "individuals from specific knowledge-keeping lineages... inherited pattern-recognition abilities"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "military protocol",
+      "location": "Scene 1, census procedure",
+      "issue": "A Roman centurion personally conducting census registration is historically unlikely. Centurions commanded 80-100 men and handled military duties; census work was typically done by civilian administrators or lower-ranking personnel.",
+      "suggestion": "Either make Marcus a different rank (like optio or civilian administrator) or have him supervising the census rather than personally conducting interviews.",
+      "example_before": "Marcus said in Aramaic. His accent was terrible, but functional.",
+      "example_after": "Marcus supervised as his clerk conducted the interview in Aramaic."
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "scientific plausibility",
+      "location": "blood memory concept",
+      "issue": "The concept of 'blood memory active since age 3' needs more grounding. While epigenetic inheritance is scientifically plausible, specific memories being genetically transmitted is not supported by current science.",
+      "suggestion": "Reframe as 'pattern recognition abilities manifesting early' or 'inherited cognitive predispositions' rather than explicit memory inheritance.",
+      "example_before": "That was carrier-level blood memory \u2014 not trained, inherited",
+      "example_after": "That suggested inherited pattern recognition abilities \u2014 cognitive predispositions passed down through generations"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "character consistency",
+      "location": "Jesus's dialogue about marriage",
+      "issue": "Jesus describes his unmarried status as a 'personal decision' and 'chose not to marry' but this seems oddly clinical for the cultural context and doesn't align with his later philosophical statements.",
+      "suggestion": "Have Jesus give a more culturally appropriate response that hints at his larger mission without being so explicitly strategic.",
+      "example_before": "Personal decision. I chose not to marry.",
+      "example_after": "My path requires complete dedication. Marriage would divide my attention from what I must accomplish."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "intellectual stakes",
+      "location": "overall chapter structure",
+      "issue": "The central mystery/discovery lacks urgency and clear stakes. While we learn Jesus is a 'Generation 42 carrier,' the implications for the thriller plot are vague. What specific knowledge does he possess? What catastrophe will occur if it's lost?",
+      "suggestion": "Establish concrete stakes early. Show Jesus accessing specific prophetic knowledge (exact dates, locations, consequences) that only bloodline carriers can perceive. Make the reader understand what humanity loses if this knowledge dies with him.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "genre conventions",
+      "location": "chapter ending",
+      "issue": "The ending lacks thriller compulsion. Marcus deciding to file false reports is character development, not a cliffhanger that drives plot forward. No immediate threat, discovery, or revelation to propel the reader into Chapter 2.",
+      "suggestion": "End with a discovery or threat. Perhaps Marcus realizes Jesus has accessed information about a specific Roman military campaign, or Temple spies are closer than expected. Create immediate danger requiring resolution.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "ideas as plot driver",
+      "location": "Scene 1, Jesus dialogue",
+      "issue": "The 'blood memory' and 'pattern recognition' concepts are mentioned but not demonstrated. We're told Jesus can see collapse patterns but never shown him making a specific, startling prediction that proves his abilities.",
+      "suggestion": "Have Jesus demonstrate his abilities with a concrete prediction Marcus can verify. 'The grain shipments from Alexandria will be delayed by storms for exactly 23 days, causing riots in Jerusalem during Passover.' Show the intellectual thriller engine working.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "Scene 2, network consultation",
+      "issue": "The Simon scene is mostly exposition and planning. No revelations, discoveries, or complications to maintain thriller momentum. Feels more like a strategy meeting than a thriller scene.",
+      "suggestion": "Add a discovery element. Maybe Simon reveals Jesus has been having prophetic dreams about specific future events, or they're interrupted by Temple spies, forcing immediate action.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "information reveal strategy",
+      "location": "throughout",
+      "issue": "Too much network/bloodline information is revealed at once without building mystery. The reader learns the entire premise (bloodlines, generations, network families) in one conversation without earning it through discovery.",
+      "suggestion": "Parcel out revelations more strategically. Start with Marcus noticing Jesus is 'different,' gradually reveal the network exists, save the Generation 42/1200-year bloodline revelation for a later chapter after building tension.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "minor",
+      "category": "comp title alignment",
+      "location": "overall tone",
+      "issue": "The scholarly, measured tone doesn't match the urgency expected from Dan Brown/thriller fans. Reads more like historical fiction than intellectual thriller.",
+      "suggestion": "Increase urgency in Marcus's internal voice. Add time pressure, immediate consequences, and more paranoid awareness of being watched or discovered.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "suggestion",
+      "category": "intellectual content",
+      "location": "Jesus's teaching method",
+      "issue": "The idea of encoding systems theory in parables is brilliant but underdeveloped. This could be the unique intellectual hook that distinguishes this thriller.",
+      "suggestion": "Show Jesus delivering a specific parable that Marcus recognizes contains advanced systems theory. Let the reader decode it alongside Marcus, making the intellectual discovery interactive.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional stakes",
+      "location": "Scene 1, throughout Marcus's census work",
+      "issue": "Marcus's emotional fatigue and moral weight of his military service is told rather than felt. The reader knows he's tired of killing but doesn't feel the emotional toll.",
+      "suggestion": "Show Marcus's internal reaction to specific moments - a child's frightened face, his hand unconsciously moving to his sword, physical manifestations of his weariness with violence.",
+      "example_before": "Twenty-three years in the legions. Fifteen campaigns. Three major wars. Marcus had stopped counting individual kills after the first hundred.",
+      "example_after": "Twenty-three years in the legions. Fifteen campaigns. Three major wars. Marcus had stopped counting individual kills after the first hundred\u2014stopped because the faces had begun blurring together in his dreams, Germanic warriors and Thracian rebels all wearing the same expression of surprise as his gladius found their hearts."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "critical",
+      "category": "character vulnerability",
+      "location": "Jesus-Marcus dialogue in Scene 1",
+      "issue": "Jesus reveals he expects to die in 10 years with almost clinical detachment. This moment should be devastating but reads as exposition. Missing emotional weight of a man accepting martyrdom.",
+      "suggestion": "Add physical reaction, hesitation, or moment of human vulnerability. Let Jesus's certainty about death carry emotional cost.",
+      "example_before": "'I have maybe ten more years before someone kills me. I'm trying to encode as much as possible before that happens.'",
+      "example_after": "'I have maybe ten more years before someone kills me.' Jesus's voice caught almost imperceptibly on 'kills me,' his carpenter's hands clenching briefly. 'I'm trying to encode as much as possible before that happens. Every day I wake up and think\u2014will today be enough? Will I have said what needed saying?'"
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional pacing",
+      "location": "Scene 2, Marcus's decision to protect Jesus",
+      "issue": "Marcus makes a career-ending decision to protect Jesus too quickly. The emotional weight of choosing treason over duty needs more space.",
+      "suggestion": "Slow down this moment. Show Marcus struggling with the decision, feeling the weight of 23 years of service versus this one carpenter's life.",
+      "example_before": "'I won't report him,' Marcus said. 'I'll file a standard census report. Nothing about bloodline markers.'",
+      "example_after": "Marcus stood silent for long moments, staring at the dark lake. Twenty-three years of following orders. Twenty-three years of Rome first, always Rome first. 'I won't report him.' The words felt like stepping off a cliff. 'I'll file a standard census report. Nothing about bloodline markers. Nothing about the network.'"
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "emotional truth",
+      "location": "Scene 3, Marcus's realization about Rome",
+      "issue": "Marcus's shock at Lucullus's cynicism feels slightly manufactured - a centurion with 23 years experience would have fewer illusions about imperial motives.",
+      "suggestion": "Frame this as confirmation of something Marcus suspected but didn't want to believe, rather than complete surprise.",
+      "example_before": "Twenty-three years of believing Rome at least tried to maintain order. But Lucullus was saying it plainly...",
+      "example_after": "Twenty-three years of suspecting this truth but never hearing it spoken aloud. Lucullus was saying plainly what Marcus had tried not to see in Germania, in Thrace, in every province where order meant obedience and stability meant submission."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "reader connection",
+      "location": "Throughout chapter",
+      "issue": "The chapter focuses heavily on plot mechanics (census, network identification) at the expense of human connection. We understand the stakes intellectually but don't feel them emotionally.",
+      "suggestion": "Add more moments showing the human cost - families scared during census, Jesus's isolation as an unmarried teacher, Marcus's loneliness as a career soldier contemplating treason.",
+      "example_before": "The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face.",
+      "example_after": "The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. A widow, she'd said, with two adult sons. Marcus wondered if those sons would be conscripted when the coming revolt began, if this tired woman would lose what family she had left to Rome's response to the violence he could see building."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "suggestion",
+      "category": "emotional subtlety",
+      "location": "Jesus's characterization throughout",
+      "issue": "Jesus comes across as too controlled, almost inhuman in his acceptance of fate. A touch more humanity would make him more relatable.",
+      "suggestion": "Add small moments of ordinary human reaction - frustration, sadness, or simply tiredness - to balance his prophetic certainty.",
+      "example_before": "'Do your duty.' Jesus turned to leave, then looked back.",
+      "example_after": "'Do your duty.' Jesus turned to leave, shoulders sagging slightly as if the weight of certainty was heavier than wood or stone, then looked back with something almost like hope in his eyes."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 8",
+      "issue": "Inconsistent em-dash usage",
+      "suggestion": "Use consistent em-dash style throughout",
+      "example_before": "Census day. Rome's gift to the provinces: bureaucratic humiliation dressed as civic duty.",
+      "example_after": "Census day. Rome's gift to the provinces\u2014bureaucratic humiliation dressed as civic duty."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "dialogue formatting",
+      "location": "paragraph 43",
+      "issue": "Missing comma in dialogue attribution",
+      "suggestion": "Add comma before dialogue tag",
+      "example_before": "\"Next\" Marcus called.",
+      "example_after": "\"Next,\" Marcus called."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "style consistency",
+      "location": "paragraph 54",
+      "issue": "Italics usage inconsistency",
+      "suggestion": "Consider italicizing *present* for consistency with other emphasized words",
+      "example_before": "Just... *present* in a way most people weren't.",
+      "example_after": "Just... *present* in a way most people weren't."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 89",
+      "issue": "Inconsistent comma usage in compound sentence",
+      "suggestion": "Add comma before 'but' in compound sentence",
+      "example_before": "Most people couldn't. Record-keeping was oral in this region but network families kept detailed genealogies.",
+      "example_after": "Most people couldn't. Record-keeping was oral in this region, but network families kept detailed genealogies."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "grammar",
+      "location": "paragraph 114",
+      "issue": "Missing hyphen in compound adjective",
+      "suggestion": "Hyphenate compound adjective before noun",
+      "example_before": "That was carrier level blood memory",
+      "example_after": "That was carrier-level blood memory"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 124",
+      "issue": "Missing comma in compound sentence",
+      "suggestion": "Add comma before coordinating conjunction",
+      "example_before": "Pattern recognition encoded as parables. Technical language won't survive what's coming but stories will.",
+      "example_after": "Pattern recognition, encoded as parables. Technical language won't survive what's coming, but stories will."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "style consistency",
+      "location": "paragraph 158",
+      "issue": "Inconsistent treatment of time expressions",
+      "suggestion": "Consider consistency in expressing time periods",
+      "example_before": "within ten years",
+      "example_after": "within 10 years"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "paragraph 196",
+      "issue": "Missing comma in series",
+      "suggestion": "Add comma in series of three items",
+      "example_before": "Temple sees blasphemy. Zealots see cowardice. Rome sees instability. Three factions three reasons",
+      "example_after": "Temple sees blasphemy. Zealots see cowardice. Rome sees instability. Three factions, three reasons"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "cultural representation",
+      "location": "paragraph 3-4, Scene 1",
+      "issue": "Marcus's characterization as hating 'winter in Galilee' due to dampness feels slightly dismissive of the region, though this may be intentional character perspective",
+      "suggestion": "Consider adding a brief acknowledgment of the region's beauty or significance to balance the negative framing, or make it clearer this is Marcus's personal bias rather than objective description",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "power dynamics",
+      "location": "paragraph 10-15, Scene 1",
+      "issue": "The cycle of Roman oppression and resistance is well-handled, showing Marcus's awareness of imperial brutality without endorsing it",
+      "suggestion": "This is actually well-executed - Marcus recognizes the pattern and his complicity, which provides good moral complexity",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "cultural representation",
+      "location": "Jesus's dialogue throughout",
+      "issue": "Jesus speaks in very modern, analytical language ('stable outcomes,' 'systems language') which may feel anachronistic",
+      "suggestion": "Consider mixing some more period-appropriate phrasing with the technical language, or establish more clearly that this advanced vocabulary is part of the inherited knowledge system",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "historical accuracy",
+      "location": "Scene 1, census description",
+      "issue": "The census procedure and Roman administrative details appear well-researched and respectful of historical context",
+      "suggestion": "Continue this level of historical grounding - it adds authenticity without stereotyping",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "agency",
+      "location": "Jesus's characterization throughout",
+      "issue": "Jesus has strong agency and is portrayed as strategically planning his own martyrdom, which gives him power in the narrative",
+      "suggestion": "This is well-handled - he's not a passive victim but an active agent choosing his path",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "cultural sensitivity",
+      "location": "References to Zealots and Temple authorities",
+      "issue": "The portrayal of different Jewish groups seems nuanced, avoiding monolithic characterization",
+      "suggestion": "Continue this approach - showing internal diversity within cultures rather than treating them as single entities",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "modern lens",
+      "location": "Marcus's moral awakening",
+      "issue": "Marcus's sudden moral clarity about Roman imperialism might feel too modern in its framing",
+      "suggestion": "Consider grounding his realization more in personal experience and relationships rather than abstract moral principles",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "critical",
+      "category": "showing vs telling",
+      "location": "Scene 1, paragraph describing Marcus's background",
+      "issue": "Twenty-three years of military service is told rather than shown through visceral details",
+      "suggestion": "Replace exposition with sensory memories that surface during the census work",
+      "example_before": "Twenty-three years in the legions. Fifteen campaigns. Three major wars. Marcus had stopped counting individual kills after the first hundred.",
+      "example_after": "The smell of wet wool brought it back\u2014Germania, five winters ago, blood steaming in the snow. His sword arm still twitched sometimes when the wind shifted. One hundred and seventeen kills, if you counted the boy soldier outside Carnuntum. Marcus had stopped counting after that."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "sensory detail",
+      "location": "Scene 1, census setting",
+      "issue": "Nazareth's central square lacks grounding sensory details",
+      "suggestion": "Add specific sensory anchors to place the reader in the scene",
+      "example_before": "He stood in Nazareth's central square\u2014if you could call it that\u2014watching the line of families shuffle forward to register.",
+      "example_after": "He stood in Nazareth's central square\u2014a patch of packed dirt between limestone houses, goat dung and wet clay underfoot\u2014watching the line of families shuffle forward. Their breath misted in the morning air. Sandals scuffed against stone. A baby wailed somewhere in the queue."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "emotional resonance",
+      "location": "Scene 1, Jesus introduction",
+      "issue": "The pivotal moment of recognition between Marcus and Jesus lacks visceral impact",
+      "suggestion": "Show Marcus's physical reaction to recognizing a primary bloodline carrier",
+      "example_before": "Marcus felt the recognition lock into place\u2014the same sense that had flagged Simon the fisherman and the woman in Cana.",
+      "example_after": "The recognition hit like cold water down his spine. Marcus's stylus froze mid-stroke. His pulse hammered in his ears\u2014the same rhythm he'd felt standing over his first kill twenty years ago. Primary bloodline. Here. In a carpenter's workshop in nowhere Nazareth."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "showing vs telling",
+      "location": "Scene 2, Marcus's moral decision",
+      "issue": "Marcus's career-defining choice to protect Jesus is told rather than felt",
+      "suggestion": "Show the physical weight of this decision through body language and internal sensation",
+      "example_before": "'I won't report him,' Marcus said. 'I'll file a standard census report. Nothing about bloodline markers. Nothing about the network.'",
+      "example_after": "The words stuck in Marcus's throat like broken glass. His hands shook\u2014twenty-three years of following orders, and now this. 'I won't report him.' The admission left him hollow, breathless. 'Standard census report only.' He was burning his career to ash. And it felt like the first honest breath he'd taken in decades."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "sensory detail",
+      "location": "Scene 3, Caesarea headquarters",
+      "issue": "The threatening interrogation scene lacks atmospheric tension",
+      "suggestion": "Add sensory details that mirror Marcus's internal anxiety",
+      "example_before": "Military intelligence headquarters. Not the census offices. Someone had noticed something.",
+      "example_after": "The marble floors of military intelligence echoed with each footstep\u2014click, click, click\u2014like a countdown. Incense couldn't mask the smell of parchment and old fear. Marcus's tunic clung to his back, damp with sweat that had nothing to do with Judean heat."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "scene grounding",
+      "location": "Scene 2, Simon's courtyard",
+      "issue": "The setting details are minimal and don't create immersion",
+      "suggestion": "Add specific textures and sounds of an evening fishing village",
+      "example_before": "He found Simon's house just after sunset. The fisherman was mending nets in his courtyard.",
+      "example_after": "He found Simon's house just after sunset\u2014limestone walls still warm from the day's heat, olive trees rustling overhead. The fisherman sat cross-legged on reed matting, fingers working through torn netting. The air smelled of fish scales and tar, lake water lapping against stone steps below."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "visceral moments",
+      "location": "Scene 1, winter description",
+      "issue": "The Galilean winter's effect on Marcus is told rather than physically experienced",
+      "suggestion": "Make the reader feel the bone-deep ache Marcus experiences",
+      "example_before": "But Galilee had this particular dampness that seeped through wool and leather, settled in joints, made forty-three-year-old bones ache like sixty.",
+      "example_after": "But Galilee's dampness crawled under his skin like something alive. His left knee\u2014broken in Thrace, badly healed\u2014throbbed with each shift of weight. The cold worked its way through his cloak, his tunic, straight into marrow until his teeth ached."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "suggestion",
+      "category": "interior life",
+      "location": "Throughout, Marcus's POV",
+      "issue": "Marcus's internal voice could be more distinctive and personal",
+      "suggestion": "Add more specific military terminology and cynical observations that reflect his background",
+      "example_before": "The census work was mind-numbing. Ten hours a day of names and numbers.",
+      "example_after": "The census work reminded him of siege duty\u2014hours of nothing punctuated by moments of panic. Names and numbers instead of arrows and fire, but the same grinding tedium that made soldiers crack."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "critical",
+      "category": "hook strength",
+      "location": "opening paragraphs",
+      "issue": "Opens with mundane weather complaints and census bureaucracy - lacks immediate intrigue for thriller readers",
+      "suggestion": "Start with Marcus recognizing Jesus as a bloodline carrier, then flash back to explain the census context. Lead with the mystery, not the setup.",
+      "example_before": "Marcus Publius Scipio hated winter in Galilee. Not for the cold\u2014Rome was colder...",
+      "example_after": "The carpenter's eyes held patterns that shouldn't exist in a backwater Galilean village. Marcus had seen that look only twice before\u2014once in a Syrian oracle, once in a dying Egyptian priest who'd whispered coordinates with his last breath."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "market positioning",
+      "location": "throughout",
+      "issue": "Unclear genre positioning - reads more like historical fiction than intellectual thriller. Missing thriller pacing and tension",
+      "suggestion": "Add immediate stakes and countdown pressure. What happens if Marcus doesn't report Jesus? What's the ticking clock? Frame as a conspiracy thriller from the start.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "unique selling proposition",
+      "location": "Jesus reveal scene",
+      "issue": "The 'Jesus as systems theorist' concept isn't clearly differentiated from other historical Jesus novels",
+      "suggestion": "Emphasize the sci-fi/speculative elements more strongly. Make the 'blood memory' and pattern recognition abilities more visceral and specific. Show, don't just tell, what Jesus can see that others can't.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "readability",
+      "location": "exposition dumps",
+      "issue": "Heavy info-dumping about network genealogies, Roman military background, and systems theory slows pacing",
+      "suggestion": "Weave exposition through action and dialogue. Show Marcus's military experience through his threat assessment behavior, not biographical paragraphs.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "series potential",
+      "location": "ending",
+      "issue": "Sets up future events but lacks immediate cliffhanger or unresolved tension for this volume",
+      "suggestion": "End with Marcus discovering something that forces an immediate choice - perhaps Jesus is in immediate danger, or Marcus finds evidence of a larger conspiracy.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "suggestion",
+      "category": "blurb material",
+      "location": "Jesus dialogue",
+      "issue": "The concept of Jesus predicting his own death and teaching strategically is compelling but underplayed",
+      "suggestion": "Strengthen this element - make it clearer that Jesus is running a calculated mission with a deadline, creating more tension around the race against time.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "dialogue",
+      "location": "Marcus-Jesus conversation",
+      "issue": "Their conversation moves too quickly from stranger to confidante - lacks realistic caution",
+      "suggestion": "Add more tension and gradual revelation. Marcus should be more suspicious, Jesus more guarded initially.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "critical",
+      "category": "punctuation",
+      "location": "Scene 1, paragraph containing 'Name,' Marcus said",
+      "issue": "Missing closing quotation mark after 'Name'",
+      "suggestion": "Add closing quotation mark",
+      "example_before": "\"Name,\" Marcus said in Aramaic.",
+      "example_after": "\"Name,\" Marcus said in Aramaic."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "consistency",
+      "location": "Scene 1, dialogue exchange",
+      "issue": "Inconsistent formatting of 'Next' - sometimes quoted, sometimes not",
+      "suggestion": "Consistently format all spoken dialogue with quotation marks",
+      "example_before": "Next, Marcus called.",
+      "example_after": "\"Next,\" Marcus called."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "Scene 1, paragraph beginning 'The Zealots would come later'",
+      "issue": "Redundant phrasing 'creative Aramaic insults that Marcus pretended not to understand'",
+      "suggestion": "Simplify to avoid redundancy",
+      "example_before": "spat creative Aramaic insults that Marcus pretended not to understand",
+      "example_after": "spat Aramaic insults that Marcus pretended not to understand"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "major",
+      "category": "continuity",
+      "location": "Scene 1, Jesus's age",
+      "issue": "Jesus states he's 32 years old, but header indicates this is 26 CE and traditional dating would make Jesus about 32 in 26 CE, which is correct but worth flagging for historical accuracy",
+      "suggestion": "Verify this aligns with your established timeline - appears correct",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "formatting",
+      "location": "Scene 1, internal thought",
+      "issue": "Inconsistent italicization of internal thoughts - some italicized, others not",
+      "suggestion": "Consistently italicize all internal thoughts or use another consistent method",
+      "example_before": "Just... *present* in a way most people weren't.",
+      "example_after": "Just... *present* in a way most people weren't."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 2, dialogue",
+      "issue": "Missing period after Simon's dialogue",
+      "suggestion": "Add closing punctuation",
+      "example_before": "\"He's probably right. Temple sees blasphemy. Zealots see cowardice. Rome sees instability. Three factions, three reasons to want him dead\" Simon looked at Marcus.",
+      "example_after": "\"He's probably right. Temple sees blasphemy. Zealots see cowardice. Rome sees instability. Three factions, three reasons to want him dead.\" Simon looked at Marcus."
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "word repetition",
+      "location": "Scene 3, paragraph beginning 'Marcus felt the trap closing'",
+      "issue": "Word 'report' appears twice in close proximity",
+      "suggestion": "Vary word choice for better flow",
+      "example_before": "His census report \u2014 harmless carpenter, no concerns \u2014 now looked like deliberate concealment.",
+      "example_after": "His census documentation \u2014 harmless carpenter, no concerns \u2014 now looked like deliberate concealment."
+    }
+  ],
+  "summary": "Review complete: 85 notes from 12 personas. Critical: 8, Major: 30, Minor: 34, Suggestions: 13. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 8,
+    "major": 30,
+    "minor": 34,
+    "suggestion": 13,
+    "total": 85
+  }
+}

@@ -84,39 +84,89 @@ Mary's breath caught. Her hand pressed against her mouth. She was hearing the st
 
 "You have heard it said, 'An eye for an eye and a tooth for a tooth.' But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also."
 
-Murmurs rippled through the crowd. Some Zealots near the back stood and left, spitting on the ground. Rome slapped them daily: taxation, conscription, arbitrary violence. And this teacher said *don't resist*?
+Murmurs rippled through the crowd. Some Zealots near the back stood and left, spitting in the dust. Rome slapped them daily — taxation, conscription, arbitrary violence. And this teacher said *don't resist*?
 
 "Love your enemies," Jesus said. "Pray for those who persecute you."
 
-The crowd thinned. But Mary was nodding — slowly, deeply, her whole body settling.
+The crowd thinned further.
 
-He taught for two hours. By the end, perhaps six hundred remained. The rest had drifted away, confused, offended, or bored by teachings that asked them to surrender what felt like strength.
+But Mary was nodding. Slowly, deeply, her whole body settling into something that looked less like agreement and more like recognition. The way a person looks when they finally hear the name for a feeling they've carried their entire life.
 
-Mary hadn't moved. Sarah was sleeping in her lap. Mary's spine was rigid, teeth set. The posture of someone holding herself together.
+He taught for two hours. Kingdom parables — mustard seed, yeast in dough, treasure hidden in a field. Each phrase settled into the hillside like rain into cracked earth. By the end, perhaps six hundred remained from the original thousand. The rest had drifted away, confused, offended, or bored by teachings that asked them to surrender what felt like strength.
 
-Jesus descended from the outcrop.
+Mary hadn't moved. Sarah was sleeping in her lap, face pressed against her mother's collarbone. Mary's spine was rigid, teeth set, tears tracking through the dust on her cheeks. Not grief tears. The posture of someone holding herself together against the force of sudden comprehension.
+
+Jesus descended from the outcrop. The remaining crowd milled, dispersing in clusters, discussing what they'd heard. Some angry. Some thoughtful. Most just confused.
+
+He reached Mary. She looked up at him with an expression he'd only seen a few times in his life — on other carriers' faces, at the moment when blood memory clicked from overwhelming chaos into comprehensible pattern.
 
 "You heard it," he said.
 
-"I don't know." Her voice was unsteady. "I heard — structure. Underneath. But I can't tell if it's real or if I'm projecting. The visions do that. They make me see patterns everywhere. In market prices. In weather. In your words." She exhaled hard through her nose. "Peacemaking. That's not just virtue. It interrupts escalation — the same escalation I see in the visions. But maybe I'm just—"
+"I don't know." Her voice was unsteady but her eyes were sharp. "I heard — structure. Underneath. Both layers at once. The spiritual instruction and — something else. Something that maps onto everything I see in the visions." She exhaled hard through her nose. "Peacemaking. That's not just virtue. It interrupts escalation. The same escalation I've been drowning in since I was fifteen. The feedback loops that burned Pi-Ramesses. But maybe I'm just—"
 
 "Say it."
 
-"*Hate is what makes the cascade lock.*" She said it like a confession. "Love your enemies isn't kindness. It's engineering."
+"*Hate is what makes the cascade lock.*" She said it like a confession, her fingers white around the fabric over her knees. "Retaliation creates the feedback loop. Violence answers violence answers violence until the whole structure collapses. Love your enemies isn't kindness. It's the only way to break the cycle before it reaches the point where nothing stops it." She looked at him. "That's what Nefertari was teaching."
 
-A Pharisee near the back of the dispersing crowd turned. "Woman, who taught you to interpret the teacher's words?"
+Jesus sat beside her on the hillside. "Most people hear moral instruction. Be nice. Forgive. Standard religious categories. You heard the operating system underneath."
 
-Mary flinched. The old instinct: possession, madness, a community deciding you were broken. But her spine held. She turned to face him, voice thin at first but gaining strength. "I'm not interpreting. I'm hearing what's already there. And I hear it because I've spent my whole life living the collapse he's describing."
+"Is it real? Or am I projecting? The visions do that — they make me see patterns in everything. Market prices. Weather. The way Roman patrols route through Capernaum. I can't tell anymore what's real pattern and what's my broken mind trying to make sense of chaos."
 
-Jesus stepped in before the confrontation could harden. "Truth is truth, no matter who finds it. A woman who understands what I'm teaching is more valuable than a man who only hears the surface."
+"It's real. Nefertari designed it twelve hundred years ago. Practices that work for spiritual reasons *and* structural reasons. Same behavior, different framework. You're hearing both because you're a carrier."
 
-The Pharisee sputtered. But some in the remaining crowd, women mostly and a few men, had turned to Mary with recognition in their faces. She'd named what they'd felt but couldn't articulate.
+A Pharisee who'd been lingering near the back of the dispersing crowd stepped forward. Tall man, Jerusalem educated, his robes cleaner than anyone else's on the hillside. He'd been watching Mary with the particular attention men gave to women who spoke in public about things women weren't supposed to understand.
 
-After the crowd dispersed, Jesus found her standing apart, holding Sarah against her shoulder with one arm and pressing her other hand flat against a stone wall. Grounding herself.
+"Woman." His voice carried the practiced authority of someone accustomed to being the smartest person in every room. "Who taught you to interpret the teacher's words? By what authority do you decode what was intended for educated minds?"
 
-"You heard it," he said.
+The hillside went quiet. The six hundred who remained turned to watch.
 
-"Maybe." She brushed dirt from her dress. Sarah stirred. "Or maybe I'm going mad in a more organized way." But the corner of her mouth moved — not quite a smile, but the closest thing he'd seen from her that wasn't performed for Sarah's benefit.
+Mary flinched. The old instinct — twelve years of being called possessed, mad, demon-ridden. A community deciding she was broken because she saw things they couldn't see. Every exorcism prayer and whispered warning and locked door. Her shoulders hunched inward and her hand moved to cover Sarah's ears, the protective gesture of a woman who'd learned that public attention meant public punishment.
+
+But then something held.
+
+The vision was still there — not drowning her, not pulling her under, but sitting in the back of her mind like a steady light. The pattern she'd heard in Jesus's teaching. The structure underneath the words. Real. Not madness.
+
+Mary straightened. Set her shoulders. Looked the Pharisee in the face.
+
+"I'm not interpreting." Her voice was thin at first, cracking on the first word, but it gained strength with each syllable. "I'm hearing what's already there. The teacher encoded two meanings in the same words — spiritual practice for those who need comfort, and structural truth for those who can hear it. I hear it because I've spent my entire life living the collapse he's describing. I've watched cities burn in my sleep since I was a child. I know what escalation looks like from the inside."
+
+The Pharisee's lip curled. "Demons speak through the mad. They mimic understanding to—"
+
+"I am not possessed." Mary's voice cut across his like a blade across rope. Sarah stirred in her lap but didn't wake. "I was never possessed. I was *seeing* something your education didn't prepare you to recognize. And I hear what the teacher is saying because I've paid for that understanding with every night of screaming and every village that threw me out and every healer who tried to beat the visions out of me."
+
+The Pharisee opened his mouth. Closed it.
+
+Jesus stepped forward. Not between them — beside Mary. "Truth is truth, no matter who finds it first. A woman who hears what I'm teaching is more valuable to the work than a man who only hears the surface."
+
+The Pharisee went red. "You validate a woman's theology? Over trained scholars of the Law?"
+
+"I validate understanding over credentials." Jesus's voice was calm but carried the particular weight that made crowds go silent. "The woman who first encoded what I'm teaching was a physician, not a priest. Twenty-three of her first students were women. The knowledge doesn't care about the vessel. Only about whether the vessel can hold it."
+
+The Pharisee sputtered, looked around for support, found none. The remaining crowd had shifted — women mostly, but a few men too — and they were looking at Mary. Not with suspicion. With recognition. She'd named what they'd felt but couldn't articulate. The sense that something deeper lived beneath the sermons. That the parables weren't just comfort stories but instructions for survival.
+
+The Pharisee left. Mary watched him go, her hands shaking so hard she had to press them flat against her thighs.
+
+"You just challenged a Pharisee in public," Jesus said quietly.
+
+"I know." Her voice was barely audible. "I think I'm going to be sick."
+
+"Breathe. Five things present."
+
+"Dust. Sarah's hair. Your sandal has a broken strap. Someone's cooking bread somewhere. My heart is going to come out through my teeth."
+
+"That's six."
+
+The corner of her mouth moved — not quite a smile, but the closest thing he'd seen from her that wasn't performed for Sarah's benefit. "I heard both layers. The whole sermon. I heard what the crowd heard and what the crowd couldn't hear, and they're both true at the same time."
+
+"Yes."
+
+"And I'm not mad."
+
+"You are emphatically not mad."
+
+Mary pressed her hand flat against a stone wall, grounding herself. Sarah woke, blinked, looked up at her mother's face. "Mama? Why are you crying?"
+
+"Because I understand now, little one." Mary pulled her daughter close. "I'm not broken. I'm a teacher."
 
 ---
 

@@ -20,7 +20,39 @@ She dressed quietly. Sarah — five years old now — had arranged her sleeping 
 
 Outside, Capernaum stirred in predawn grey. Mary saw what she hadn't been able to see before her training: Roman soldiers demanding more taxes each year. Temple priests taking bigger cuts. Young men disappearing into the hills. The same pattern she'd watched burn Pi-Ramesses — pressure building until it exploded.
 
-She taught forty women weekly now, in the courtyard behind Simon's house. How to recognize when anger was building toward violence. How to step in early, before fists or knives. Most couldn't access blood memory directly. But they could learn the practices.
+She taught sixty women now, in the expanded courtyard behind Simon's house. They gathered weekly, arriving in clusters small enough to look like sewing circles assembling for market day.
+
+That morning, Mary stood before them and felt the familiar mix of purpose and terror.
+
+"Close your eyes," she instructed. "Let a vision surface. Don't fight it. Just observe."
+
+She watched as expressions shifted across the courtyard — eyes moving beneath closed lids, breathing patterns changing, a few women flinching as memories surfaced unbidden.
+
+"Now ground. Five things present. Physical sensations. Sounds. Smells. Your own heartbeat. Don't push the vision away. Just anchor yourself in the present while experiencing the past."
+
+Most struggled. The discipline was brutal — holding two realities at once without drowning in either. But three women — Rachel, Judith, Miriam, all strong carriers from branch bloodlines — held both states simultaneously. Their faces went calm in a way Mary recognized. Dual consciousness. Past and present at the same time.
+
+"Good," Mary said. "That's controlled access. Not perfect yet. But you've demonstrated the capacity."
+
+Sarah spoke up from the front row, clear-voiced for a five-year-old. "Mama sees the teaching lady. The old one from the burning city."
+
+Several women looked startled. Mary smiled. "Nefertari. She built what we're learning. I see her through blood memory because we're her descendants."
+
+"I see her too sometimes," Sarah said. "In dreams. She shows me patterns."
+
+Generation 43, accessing blood memory at five. Earlier than expected. But Mary had been training her since age three — grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what carriers were.
+
+A woman named Deborah raised her hand. "What about when we can't catch the trouble early? When the violence is already happening?"
+
+The harder question. The one that always drew silence. These women knew what happened when they acted too late: bruises, broken households, children who learned violence as their first language.
+
+"Then it costs more," Mary said. "Sustained intervention instead of early correction. It's still possible — but you need more help, more time, more courage. And sometimes you need to leave. Leaving isn't failure. It's choosing to survive so you can keep teaching."
+
+She looked across sixty faces. Fishermen's wives, merchants' daughters, widows, a handful of prostitutes from Magdala who'd heard Mary's story and recognized their own unexplained visions. All of them further along than they'd been six months ago.
+
+"We're running out of time," Mary said quietly. "I need each of you to learn how to teach this yourselves. Because within two years, I might not be available. Each of you presents a short lesson next week. You're not just students anymore. You're teachers in training."
+
+The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Everything she was building would pass through this child, or it would be lost.
 
 "Mary?"
 
@@ -142,6 +174,63 @@ Mary lay down near the fire. Sleep came slowly.
 
 They were running out of time.
 
+---
+
+## SCENE 5: The Partnership
+
+Two weeks after Qumran.
+
+Mary sat with Jesus on the hillside above Capernaum where he'd first taught her to hear both layers of his sermons. Below, the town bustled with its ordinary rhythms. Fishing boats. Markets. Roman patrols. The familiar operations of a place that didn't know it was sliding toward ruin.
+
+"I'm not your student anymore," Mary said.
+
+Jesus smiled. "You haven't been for months. You're teaching material I never explicitly covered. Training techniques I didn't develop. You've exceeded what I gave you."
+
+"Because my inheritance sees things yours doesn't. You see twelve hundred years in a straight line — generation to generation, a column of fathers and daughters. I see the connections between different collapses. How the economics look the same whether it's Pi-Ramesses or Babylon or what Rome is building toward. You taught me the framework. I'm finding new uses for it."
+
+"That's the partnership the Qumran text described. You and I, working the same problem from different angles."
+
+Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. Not teacher. Not friend, exactly. Partner. Equal in different domains. He had the deeper generational memory. She had the lateral pattern recognition. He excelled at public teaching — encoding knowledge in portable stories. She excelled at systematic training — building networks that could run without her.
+
+Neither could do the other's work. But together they'd built something neither could have built alone.
+
+"I found it," she said abruptly.
+
+Jesus turned. "Found what?"
+
+"The Pattern Eye." Mary pulled a wrapped bundle from her travel bag and unfolded the linen.
+
+The bronze disc glinted in the afternoon sun. Eight inches across, covered in symbols that weren't quite Egyptian. Warm to the touch, as though it generated its own heat. Mary had carried it against her body for three weeks, and the warmth hadn't faded.
+
+"Byblos. Rachel and I went three weeks ago, using the Qumran texts as reference. The hiding place was in ruins near the old port — buried since the collapse, exactly where your baptism vision showed it."
+
+Jesus reached for it. Stopped. "May I?"
+
+"It belongs to the network. But yes."
+
+He lifted the disc. His eyes unfocused immediately — blood memory surging through the amplification like water through a broken dam. "Oh. That's—" He set it down after maybe thirty seconds, breathing hard. "I couldn't hold it. Too much at once."
+
+"I can hold it for five minutes now. With practice, maybe longer." Mary picked up the disc. Her vision split instantly — present moment and twelve centuries of inherited memory overlaying each other in perfect clarity. She let it run for a few seconds, then set it down. "This is how Nefertari trained the first carriers. Not just talk. Direct amplification of what's already in the blood."
+
+"And you're using it with the women?"
+
+"Started last week. The three who achieved dual consciousness — Rachel, Judith, Miriam — they all accessed full memory within minutes using the Eye. We're building teaching methods around it. How to introduce the amplification gradually. How to prevent overwhelming. How to ask specific questions instead of drowning in everything."
+
+Jesus looked at her with something she'd never seen from him before. Not approval. Not the satisfaction of a teacher watching a student succeed. Something more equal than that.
+
+"You've built what I couldn't," he said. "The systematic training structure. The accelerated method. I gave you the foundation. You built the architecture on top of it."
+
+"That's partnership. You encode the core teaching through public ministry. I develop the training infrastructure that distributes it after you're gone. Different work. Equal weight."
+
+"When I die," Mary said carefully, "and I continue teaching, people will forget what I contributed. They'll assume I'm your student. A lesser teacher preserving your work."
+
+"Probably." Jesus picked at a loose thread on his sleeve. "That's how stories simplify over time. But blood memory will preserve the actual pattern. Generations from now, a strong carrier will experience this partnership through inherited memory. She'll understand we were equals. That matters more than what the intervening centuries believe."
+
+Mary considered that. It still felt unjust. But Jesus was right — practices mattered more than credit. If the teaching survived through her innovations, that was success even if her name didn't persist alongside his.
+
+They sat together on the hillside, the Pattern Eye resting between them on its linen wrapping. A bronze disc containing enough encoded knowledge to transform how carriers accessed their inheritance. One of seven keys. The others still hidden or lost or waiting to be found by carriers in generations to come.
+
+But this one they had. And it was already changing everything.
 
 ---
 

@@ -136,9 +136,95 @@ Simon watched the fractures spread and said nothing, because he didn't know how 
 
 ---
 
-## SCENE 4: The Reckoning
+## SCENE 4: The Five Thousand
 
-Marcus sat in a Jerusalem tavern, the oil lamp smoking and the wine going sour in the heat, listening to his replacement deliver the report.
+Jesus looked out over the hillside and felt something close to grief.
+
+Five thousand people. Maybe more. They'd followed him for three days now, listening to teaching, watching healings, camping in rough conditions because they didn't want to miss whatever came next.
+
+Beautiful. Dangerous. And completely unsustainable.
+
+"Teacher." Andrew appeared at his elbow, voice tight with worry. "It's late. People are hungry. Most didn't bring enough food for three days. We should send them to the villages to buy something."
+
+Andrew was right. This crowd was approaching crisis. Hunger, exhaustion, the sanitation problems that came with too many bodies in too little space. Another day and sickness would start spreading.
+
+But this was also an opportunity. Maybe the last large-scale teaching moment before arrest. One final pattern to encode: how trust revealed what hoarding hid.
+
+"You give them something to eat," Jesus said.
+
+Andrew stared at him. "We have five barley loaves and two fish. That's barely enough for the Twelve."
+
+"Organize them. Groups of fifty."
+
+"Distribute *what*? We don't have—"
+
+"Start organizing. I'll teach while you work."
+
+Andrew looked baffled but turned to gather the other disciples. They moved through the crowd, dividing five thousand people into manageable clusters. Families staying together, forming larger units. The chaos gradually resolving into structure.
+
+When the groups were established, Jesus raised his voice. "You've been with me three days. Listening. Learning. And now you're hungry. That's the pattern, isn't it? Attention to spiritual matters, then the return of physical needs. You can't ignore the body."
+
+The crowd murmured agreement. Children crying. Adults exhausted.
+
+"My disciples tell me you need to leave. Go to villages. Buy food. Disperse." He held up the five loaves and two fish that Andrew had scrounged. "This is what we have. Obviously insufficient for five thousand people. Not enough to go around. That's the default assumption, yes? Scarcity."
+
+Nods. Everyone understood scarcity.
+
+"But watch what happens when we organize differently."
+
+He blessed the food — ritual action, familiar religious framework — then began breaking the loaves, handing pieces to the Twelve. "Distribute this. Give people what's available. Start the flow."
+
+The disciples looked uncertain but obeyed. They moved through the groups, distributing bread and fish. Small amounts. Obviously inadequate.
+
+But something was happening in the crowd.
+
+People who'd brought food were pulling it out. Not hoarding anymore. Sharing with neighbors. Someone had dates. Someone else had dried meat. A woman produced cheese wrapped in cloth. Families who'd planned for longer stays had extra supplies they were willing to contribute once they saw others sharing first.
+
+The thing activated.
+
+Each group of fifty had at least a few people with hidden resources. Once sharing began, the resources emerged. Not because people had been lying about scarcity. Because people genuinely didn't think their small contribution mattered in the face of massive need. One handful of dates against five thousand hungry mouths — why bother?
+
+But distributed across an organized structure, the small contributions compounded.
+
+The Twelve moved through the crowd with baskets, collecting surplus from groups that had plenty, redistributing to groups that needed more. The flow became visible. Resources finding their level like water through connected channels.
+
+By the time the distribution was complete, everyone had eaten. And there were leftovers. Twelve baskets of fragments. Surplus.
+
+The crowd was amazed. Jesus could hear the conversations rippling outward. *Did you see? Where did it come from? He multiplied the loaves. A miracle.*
+
+Let them call it a miracle. That story would spread faster and further than any explanation he could offer.
+
+But he gathered the Twelve and the network carriers who'd been helping with distribution — maybe twenty people total — and drew them aside.
+
+"You saw what happened," Jesus said quietly.
+
+"The food multiplied," one of the younger disciples said, voice full of wonder.
+
+"The food was already there." Jesus kept his voice gentle. "Hidden in the crowd. Distributed in small amounts across five thousand people, each one hoarding because they didn't trust that sharing would work. But once we built a visible structure — organized groups, disciples moving through systematically — people could see the distribution was real. That contributing wouldn't leave them empty. Once they trusted that, the hidden resources came out."
+
+Peter's eyes widened. "You didn't create food. You created trust in the network."
+
+"I created visible structure," Jesus said. "When people can see that a system works — that sharing leads to more, not less — they contribute what they were hiding. Scarcity is often a distribution problem, not a resource problem. Hoarding creates the very shortage people are afraid of."
+
+"So the miracle was organizational," Matthew said slowly.
+
+"The miracle was seeing what was already present." Jesus looked out at the crowd, still marveling at what had happened. "Five thousand people had enough food among them for three days. They just didn't know it, because each person was sitting on their small portion thinking it couldn't possibly matter."
+
+Mary was there — she'd been helping organize the women's clusters. "But they'll tell this story as supernatural multiplication. Five loaves feeding five thousand through divine power."
+
+"Let them. That story spreads further and faster than 'Jesus organized an effective resource distribution exercise.' And underneath the miracle narrative, the pattern persists. People gathering in organized groups. Resources flowing through trusted networks. Abundance emerging from apparent scarcity." He paused. "Carriers in future generations will hear this story and recognize what actually happened. Even if they never hear the word 'distribution,' they'll feel the pattern."
+
+Mary nodded, but he could see the fear underneath her competence. Eighteen months. Maybe less if today's display accelerated Temple concern. Five thousand people moving as a coordinated unit — that was the kind of thing empires noticed.
+
+"We're not ready," Mary said quietly. "The network isn't wide enough yet."
+
+"We're never ready. We encode as much as we can in the time we have and trust distribution to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
+
+---
+
+## SCENE 5: The Reckoning
+
+Marcus sat in a Jerusalem tavern, oil lamp smoking and wine going sour in the heat, listening to his replacement deliver the report.
 
 The new officer was young, clean-shaven, the kind who filed his reports on time and slept well. "Five thousand, Marcus. Three days in one place. You know what we call a man who can move five thousand people?"
 
@@ -179,7 +265,7 @@ Mary held Sarah tighter and walked the other direction, fast, not running — be
 **END CHAPTER 7**
 
 **Timeline:** 31 CE Autumn → 32 CE Spring
-**Word Count:** ~2,800 words (compressed from ~9,800)
-**Status:** REVISED — Prodigal Son + Feeding 5,000 cut, carrier debriefs eliminated, scenes merged
+**Word Count:** ~3,300 words
+**Status:** REVISED — Prodigal Son cut, carrier debriefs eliminated. Feeding 5,000 restored (narrative reframing of miracle, stripped of lecture-format systems exposition).
 
 **Next Chapter:** Chapter 8 "The Crisis" (32 CE Winter)
