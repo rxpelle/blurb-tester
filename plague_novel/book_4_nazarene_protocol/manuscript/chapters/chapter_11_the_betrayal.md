@@ -2,7 +2,7 @@
 
 **Timeline:** 33 CE Spring (Passover Festival - Day of Arrest)
 **POV:** Marcus Publius Scipio (primary), Jesus, Mary, Judas
-**Word Count:** ~4,800 words
+**Word Count:** ~6,550 words
 
 ---
 
@@ -24,7 +24,7 @@ The carpenter climbed onto the teaching platform for the final time.
 
 Marcus scanned the crowd with old instincts. Temple watchers visible at the edges, identifiable by their careful attention and the way they didn't actually celebrate.
 
-Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full contubernium—eight men—which meant official sanction. More soldiers than a teaching carpenter warranted unless the authorities expected resistance.
+Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full contubernium — eight men — which meant official sanction. More soldiers than a teaching carpenter warranted unless the authorities expected resistance.
 
 They did.
 
@@ -88,31 +88,45 @@ Jesus waved back. Then turned toward the upper room.
 
 *Jesus POV*
 
-The upper room smelled of sweat and fear beneath the surface scents of fresh bread and sour wine. Oil lamps flickered in wall niches, throwing shifting shadows across anxious faces. Outside, festival songs drifted through the woven screen, but inside, even the scrape of bread being torn sounded too loud.
+The upper room was too hot. Fifteen bodies in a space meant for ten, the evening air thick and close, oil lamps burning in wall niches and adding their heat to what the bodies already generated. The ceiling was low — rough cedar beams stained dark with years of lamp smoke — and the windows had been shuttered against the noise of the street below, where Passover songs and the clatter of festival preparation drifted up through the cracks. Outside, Jerusalem celebrating. Inside, the scrape of bread being torn sounded too loud in the silences between words.
+
+The food was simple and already going stale: flatbread baked that morning, now cooling into tough rounds that required effort to break. Bitter herbs in a clay bowl, their sharp green smell cutting through the room's heaviness. A paste of dates and apples and nuts, dark and sweet. Roasted lamb, the festival requirement, its fat already congealing in the warm air. And the wine — sour, the kind you drank quickly because lingering made it worse, dark as old blood in the cups that passed from hand to hand.
+
+They reclined on low couches arranged around a stone table. Peter on his left, close enough that Marcus could smell the lake salt that never entirely left a fisherman's skin, even years after he'd dropped his nets. John on his right, youngest of them, his face still unlined in the lamplight. Andrew and James beyond Peter, pressed together on a couch too narrow for two grown men. Thomas against the far wall, legs drawn up, watching everything with the skepticism that was either his gift or his wound — Jesus had never decided which. The others filled the spaces between: Philip, Bartholomew, Matthew the tax collector who still sat slightly apart from the rest as if expecting to be asked to leave, Simon the Zealot whose jaw never fully unclenched, Thaddaeus and James son of Alphaeus shoulder to shoulder like the brothers they nearly were.
+
+And at the table's end, not reclining but sitting upright on a low stool because the couch arrangement left no room: Mary. Sarah in her lap, legs dangling, taking up the space a grown woman would have occupied. The disciples had made room for them the way you make room for something you don't entirely understand — generously, but with a slight pulling-back, a boundary maintained.
 
 Jesus broke bread with hands that would be nailed to wood tomorrow.
 
 "Take, eat," he said, passing the bread. "This is my body, given for you. Do this in remembrance."
 
-Peter took the bread with stiff fingers, his weathered fisherman's hands clumsy with the simple act. The bread passed hand to hand. Twelve disciples. One woman. One child.
+Peter took the bread with stiff fingers, his weathered fisherman's hands clumsy with the simple act. The bread passed hand to hand. Each man tearing a piece. Mary tore hers and gave half to Sarah, who held it in both hands and looked at it before eating — the way children look at things adults have stopped seeing.
 
-Jesus poured wine, the cup making rounds.
+Jesus poured wine, the cup making rounds. Heavy clay, chipped at the rim. His fingers left prints in the condensation.
 
 "This cup is the new covenant in my blood," he said. "Drink from it, all of you."
 
-Sarah drank carefully, watching the adults' faces over the rim of the cup.
+The cup reached Sarah. She drank carefully, both hands wrapped around it, her fingers not quite meeting around the clay. She watched the adults' faces over the rim the way she watched everything — not with a child's inattention but with something older and steadier, the look of someone learning what faces do when they're frightened. Her eyes moved from Peter's rigid jaw to Thomas's drawn brow to Judas's careful blankness, and what she saw there she stored the way her mother had taught her to store things: without judgment, without interpretation. Just the seeing. Just the holding.
+
+The wine left a dark line on her upper lip. Mary wiped it away with her thumb. Sarah caught her mother's hand and held it against her cheek for a moment — a gesture so small and so private that no one else at the table noticed it. But Jesus did. And the sight of it — a mother's hand on a child's face, the oldest tenderness, the simplest love — nearly broke him in a way the prospect of crucifixion had not. He looked away. Swallowed. Continued.
 
 "But understand this." Jesus set down the cup. "The one who will hand me over is here at this table."
 
-Silence. Then cushions shifting, bodies rearranging on the low couches, twelve men looking at each other and not liking what they saw.
+Silence. Then cushions shifting, bodies rearranging on the low couches, twelve men looking at each other and not liking what they saw. The lamp nearest Thomas guttered and threw his face into shadow, then back into light. Someone's cup scraped against stone.
 
-"Lord, is it I?" Peter asked, hand moving unconsciously toward his sword.
+"Lord, is it I?" Peter asked, hand moving unconsciously toward the sword he'd taken to wearing beneath his cloak. His voice was rough, offended, the voice of a man who had never questioned his own loyalty and resented the suggestion.
 
 "Lord, is it I?" Andrew echoed.
 
 "Is it I?" Thomas, skeptical even of his own potential betrayal.
 
-Jesus met Judas's eyes across the table. Saw the man's commitment. Saw the rescue plan rehearsed and ready. Saw the certainty that saving him was still possible.
+The question moved around the room like the cup had, each man asking with varying degrees of fear and indignation. Matthew's voice barely audible. Simon the Zealot's too loud.
+
+Jesus met Judas's eyes across the table.
+
+Judas sat at the table's far corner, near the door. He'd positioned himself there deliberately — closest to the exit, where a man leaving wouldn't have to push past other bodies. His face in the lamplight showed the careful blankness of someone holding a plan so tightly in his mind that any expression might betray it. But his eyes, meeting Jesus's, were not blank. They were certain. Committed. The eyes of a man who had rehearsed every step of a rescue and believed in it absolutely.
+
+Jesus saw the commitment. Saw the rescue plan ready and waiting. Saw the certainty that saving him was still possible.
 
 Saw the failure that was coming.
 
@@ -124,27 +138,33 @@ Time to fail.
 
 "What you are going to do, do quickly," Jesus said.
 
-Judas left. The disciples assumed he was handling meal preparations.
+Judas left. The door opened and closed. Cool air from the stairwell touched the room's heat for a moment, then was gone. The disciples assumed he was handling meal preparations.
 
-Peter moved closer after Judas departed. "Where are you going?"
+Peter moved closer after Judas departed, the couch creaking under his weight. "Where are you going?"
 
 "Where you can't follow. Not yet."
 
-"Why not?" Peter's voice cracked. "I'd die for you. You know that."
+"Why not?" Peter's voice cracked. The crack surprised him — you could see it in his face, the flash of embarrassment, the quick hardening that followed. He was a big man, thick-armed, the kind of hands that pulled fishing nets through rough water for twenty years, and his body had never betrayed him the way his voice just had. He set his jaw. "I'd die for you. You know that."
 
-Jesus looked at him — the fisherman who'd dropped his nets three years ago and never looked back. "Peter. Before the rooster crows tomorrow, you'll deny you ever knew me. Three times."
+Jesus looked at him — the fisherman who'd dropped his nets three years ago and never looked back. Peter believed it. That was the terrible thing. He believed it with the unshakable conviction of a man who had never been tested, who confused willingness with capacity, who thought courage was something you carried in your chest like a stone when really it was something that fled your body at the first sound of iron on iron, leaving you empty-handed and running before your mind caught up with your legs.
 
-Peter's face went dark. "I would *never* —"
+"Peter." Jesus kept his voice gentle. "Before the rooster crows tomorrow, you'll deny you ever knew me. Three times."
 
-Around the table, the other disciples murmured agreement.
+Peter's face went dark. The blood rose in his neck and cheeks. His hand closed into a fist on the table — not threatening, just the involuntary contraction of a man whose certainty had been challenged by someone he couldn't dismiss. "I would *never* —"
 
-He turned to Mary, who'd been silent through the entire meal.
+"You will." Jesus didn't argue it. Didn't explain. Just said it the way you say something you've already seen happen. "And afterward, you'll understand why. And you'll be better for it."
+
+Peter opened his mouth. Closed it. The other disciples murmured agreement with Peter — they would never, they would stand firm, they would die first. Brave words from men who would scatter within the hour.
+
+Jesus let them believe it. Some lessons could only be learned by failing.
+
+He turned to Mary, who'd been silent through the entire meal. Sarah had fallen still against her mother's chest, not asleep but quiet, the way children go quiet when they sense the adults around them are holding something too large to name.
 
 "You understand," he said.
 
 "I understand," Mary confirmed. Then, softer: "I'm still not ready."
 
-"Tausret wasn't ready either." Jesus reached across the table, squeezed her hand. His fingers were cold.
+"Tausret wasn't ready either." Jesus reached across the table, squeezed her hand. His fingers were cold. Hers were warm — she was always warm, her hands, her voice, the steady heat of someone whose body burned at a frequency most people couldn't feel but everyone leaned toward.
 
 Sarah leaned against her mother, processing everything with eight-year-old seriousness.
 
@@ -176,7 +196,7 @@ Everything proceeding as planned.
 
 "The one I greet with a kiss is the man," Judas said to the guards. The signal. The bribed guards would recognize it, move to create the opening.
 
-Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route—good. 
+Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route — good.
 
 Judas approached, committed to the role. "Greetings, Rabbi." He kissed Jesus on the cheek.
 
@@ -198,7 +218,7 @@ No anger. That was the worst part. Just the steady sadness of a man who'd known 
 
 Unbribed guards — Malchus leading them, Caiaphas's men — moved to arrest Jesus. The rescue already failing.
 
-Peter drew his sword. No. That wasn't the plan. Defensive network didn't use violence except as last resort and this wasn't—
+Peter drew his sword. No. That wasn't the plan. Defensive network didn't use violence except as last resort and this wasn't —
 
 Peter swung wildly, striking Malchus. The blade caught the guard's ear, severing it partially. Blood. Screaming. The chaos they'd wanted but wrong kind. Uncontrolled. Dangerous.
 
@@ -246,84 +266,180 @@ Six years of watching this man, and tomorrow he would see them kill him.
 
 Mary ran.
 
-She ran. But Sarah's hand was in hers — small, warm, trusting — and that was enough to keep her legs moving. Simon ahead, clearing the road to Damascus. Rachel and Leah flanking. Seven years old and Sarah kept pace with adult desperation.
+She ran because her legs knew what to do when her mind had stopped working. Simon ahead, clearing the road to Damascus. Rachel and Leah flanking. Sarah's hand in hers — small, warm, trusting — and that was enough to keep her legs moving even when the rest of her wanted to turn back, to go to him, to stand in front of the guards and say *you cannot have him* even though they could and they would and nothing she did would change what tomorrow held.
 
 Behind them, the sounds of chaos fading. The disciples scattering: Peter toward the harbor, Thomas inland, John circling back because he couldn't stay away. The rescue team melting into the dark.
 
+The streets of Jerusalem at night smelled of festival cooking — roasted lamb and cumin and the sweet char of flatbread on clay ovens. Families behind closed doors, singing the Passover songs. Lamplight in windows. The sounds of ordinary celebration pressing against the darkness Mary moved through like she was underwater, like the city was happening on the other side of glass and she could see it but not touch it and not be part of it because her world had just broken and theirs had not.
+
 Simon stopped at the checkpoint. "Damascus. Leah takes Sarah."
 
-Sarah looked up. "Mama?"
+The words landed in Mary's body before her mind processed them. This was the plan. They had rehearsed this. Sarah goes north with Leah. Mary goes back. Mary witnesses what comes next because someone has to and Marcus can't do it alone and the women need to see it through because the men have already run.
 
-Mary knelt. Pulled her daughter against her chest — dust and child-sweat and the lake-water smell that was just Sarah. "I have to go back. I have to see it."
+She knelt on the cobblestones. The stone was cold through the fabric of her robe, gritty with street dust and the dried remnants of the day's foot traffic. She pulled Sarah against her chest.
+
+Sarah's hair smelled of woodsmoke and the olive oil Mary had worked through it that morning, and underneath those smells the particular scent that was just Sarah — warm skin and sleep and something faintly sweet, like bread dough rising. Mary pressed her face into her daughter's hair and breathed and for one moment the world contracted to the size of this, just this, the weight of her child's body against her chest and the sound of her daughter's breathing and the warmth of the small hand that found hers and held on.
+
+"Mama?"
+
+"I have to go back." Mary's voice was steady. She didn't know how. "I have to see it."
+
+Sarah pulled back far enough to look at her mother's face. Moonlight caught the planes of her daughter's face — the wide dark eyes, the serious mouth, the chin she'd inherited from a father she'd never known. Eight years old. Too young for this. Old enough that lies would be worse than truth.
 
 "Will we see him again?"
 
+Mary could have softened it. Could have said *I don't know* or *we'll see* or any of the gentle lies parents use to stand between their children and the world's weight. She didn't.
+
 "No. He'll be executed tomorrow."
 
-Sarah was quiet. Then, very small: "It's not fair."
+Sarah was quiet. Her hand tightened in Mary's. Not a flinch — a grip. The grip of a child holding onto the only solid thing in a world that had just tilted.
+
+Then, very small: "It's not fair."
 
 "No. It's not."
 
-Mary held her. Then let go. Leah took Sarah's hand and they walked north into the dark. Sarah looked back once.
+Sarah pressed her forehead against Mary's collarbone. Mary felt the small skull against her bone, hard and fragile both, the way children's bodies always are — built to last and breakable at once. She put her hand on the back of Sarah's head. The hair was tangled from running, the braid Mary had done that morning already half undone, and Mary's fingers found the knots and didn't try to fix them. Just held.
 
-Mary turned south toward Jerusalem. She was the keeper now. She wasn't ready.
+"Mama." Sarah's voice muffled against fabric. "What do I do if I forget things? What if I forget how he sounded?"
+
+"You won't forget."
+
+"But what if I do?"
+
+Mary closed her eyes. The teaching answer was that the bloodline carried everything, that nothing was truly lost, that memory lived in the body deeper than the mind could reach. But Sarah wasn't asking for the teaching answer. She was asking what eight-year-olds ask when the world is too large and the night is too dark and the person they trust most is about to walk away from them.
+
+"Then I'll remind you," Mary said. "When I come back. I'll tell you every story. Every one."
+
+Mary pulled her close again. Held the warmth of her. Memorized it — the exact weight, the exact pressure of Sarah's arms around her neck, the exact rhythm of her daughter's breathing against her collarbone. Because she didn't know when she would hold her again. Because she was about to let go of her child in a dark street in a hostile city and turn back toward violence and death and she needed to carry this warmth with her the way you carry a coal from a dying fire, cupped in your hands, trusting it to last.
+
+Sarah's hand found the fabric of Mary's sleeve and held it. The gesture of a child who isn't ready to let go but knows she has to.
+
+Mary forced her hands open.
+
+Leah stepped forward. Took Sarah's hand gently. Sarah let her — not willingly, but with the resigned obedience of a child who has been taught that sometimes love means walking in the direction you don't want to go.
+
+"I'll remember everything," Sarah said. "Everything he taught me. I promise."
+
+Mary couldn't speak. She nodded. Touched Sarah's cheek once — the skin impossibly soft, impossibly warm — and then dropped her hand to her side.
+
+Leah turned north. Sarah walked beside her, matching the older woman's stride with the serious concentration of a child trying to be brave. Her sandals slapped the cobblestones in a rhythm faster than Leah's, two steps for every one of the older woman's, and the sound of those small fast steps on stone was a sound Mary knew she would hear in dreams for the rest of her life. Ten paces. Twenty. Sarah's back getting smaller. The dark braid bouncing between her shoulder blades.
+
+Sarah looked back once.
+
+Mary saw her daughter's face in the moonlight — round and grave and luminous — and felt something tear inside her chest that wasn't physical but was as real as any wound she'd ever carried. The face was already too far away to read clearly. Already becoming memory.
+
+Then the road curved, and they were gone.
+
+Mary stood in the dark street. The festival sounds pressed in around her — singing, laughter, the clatter of dishes being cleared. Families together. Children sleeping. The whole city celebrating while she stood alone on cold stone and her daughter walked north without her and the man she loved most in the world sat in chains waiting for morning.
+
+She turned south. Toward Jerusalem. Toward Golgotha. Toward whatever came next.
+
+She was the keeper now. She wasn't ready.
 
 She went anyway.
+
+The streets smelled of roasted lamb and hyssop and the bitter herbs of Passover. Families behind every door. Laughter behind every wall. Mary walked through it alone, her hands empty, her chest full of a grief so large it left no room for breathing, and she kept walking because that was what the women in this bloodline did. They kept walking. They kept carrying. They didn't look back because looking back would break them and there was no one behind them to pick up the pieces.
+
+She walked south through streets that smelled of celebration and tasted of ash.
 
 ---
 
 *Judas POV*
 
-Judas walked through Jerusalem's streets as night gave way to dawn. The blood money, thirty shekels of silver, payment for "betraying" Jesus to the Temple, heavy in his satchel.
+Judas walked through Jerusalem's streets as night gave way to dawn.
 
-Payment for a failed rescue.
+The silver was heavy. Thirty shekels in a leather satchel against his hip, the coins shifting and clicking with each step, a sound that had become the only sound in the world. The weight was wrong. Not the physical weight — thirty shekels was nothing, a month's wages, the price of a common slave. The weight was what it represented. Payment for a betrayal that wasn't a betrayal. Blood money for a rescue that never happened.
 
-Twelve years with the network. Seven men and women pulled from the jaws of arrest. He'd been good at this.
+The city was waking around him. Bakers opening shutters, the smell of fresh bread drifting from stone ovens. A woman emptying wash water into the gutter. A boy leading a donkey loaded with firewood, the animal's hooves slow and patient on the cobblestones. Ordinary morning. Ordinary people beginning an ordinary day while somewhere in the Temple compound Jesus sat in a holding cell and somewhere on the Damascus road an eight-year-old girl walked north carrying the teaching forward.
 
-And tonight he'd failed completely.
+Judas walked through the ordinariness of it and felt the distance between the world and himself widening with each step, the way the distance widens between a boat and the shore when the current takes you — not fast, not violent, just the steady unreturnable drift of someone who has been cut loose from everything that held him.
+
+Twelve years with the network. Seven men and women pulled from the jaws of arrest. He'd been good at this. He'd been the one they called when a carrier was in danger, the one who could look at a room and see the exits, the one whose hands didn't shake when he handled bribes or forged documents or talked guards into looking the other way. Seven rescues. Seven people alive because of him.
+
+And tonight he'd failed the one that mattered most.
+
+He could still hear Jesus laughing by the lake. Three years ago. Capernaum shore, black basalt pebbles warm under their feet, Peter casting his net wrong again and the net folding in on itself like a drunk trying to sit down, and Jesus laughing — not the careful laugh of a teacher indulging a student but a real laugh, sudden and helpless, the laugh of a man surprised by joy. His whole face changing. His eyes closing. The sound carrying across the water. Judas had been standing twenty paces away coordinating security positions and he'd stopped because the laugh was so unexpected, so ordinary, so completely at odds with the man he was supposed to be protecting — a man who carried the weight of forty-two generations and still laughed like that, like a carpenter watching his friend fail at fishing, like someone whose life was not a mission but a life.
+
+That laugh would be silenced tomorrow.
+
+He remembered another thing. Smaller. A month ago, maybe six weeks. Jesus kneeling beside the road outside Bethany where Sarah had scraped her knee on limestone. Not healing it the way he sometimes healed — just kneeling, the way any adult kneels beside any hurt child, pressing his thumb against the cut and holding it while Sarah's face worked through the decision of whether to cry. "It'll stop in a minute," Jesus had said. And Sarah had looked at him — this man who could see the future, who carried the weight of centuries, who was walking toward his own death — and said, "I know. I just don't like the waiting." And Jesus's face had done something that Judas couldn't name then and couldn't name now, a softening that went deeper than kindness, the face of a man looking at the next generation and finding it braver than his own.
 
 Judas entered the Temple treasury.
 
-"I have sinned," he said, setting the silver on the table. "I have betrayed innocent blood."
+"I have sinned," he said, setting the silver on the table. The coins spilled and rang against the stone. "I have betrayed innocent blood."
 
-Indifference from the priests. "What is that to us? That's your responsibility."
+Indifference from the priests. Two of them, robes still rumpled from sleep, looking at Judas the way you look at a tool that has served its purpose. "What is that to us? That's your responsibility."
 
-Out of the Temple. The rejected silver behind him. Dawn breaking over Jerusalem.
+Out of the Temple. The rejected silver behind him. Dawn breaking over Jerusalem, the eastern sky going pale gold above the Mount of Olives. Beautiful. He hated that it was beautiful.
 
-He could still hear Jesus by the lake, three years ago, laughing at Peter's clumsy net-casting. Could still see him kneeling to wash road dust from Sarah's feet. Could still feel the weight of Jesus's hand on his shoulder: *I trust you, Judas. More than the others know.*
+His mother in Kerioth would learn of his death from strangers. Would hear the word *traitor* and not understand. Would spend the rest of her life in a village where neighbors pointed and whispered and her son's name was a curse. He thought of her hands — rough from the loom, always smelling of lanolin from the wool she worked — and the way she'd held his face when he left home at sixteen, both palms against his cheeks, studying him as if memorizing the architecture of his bones. *Come back to me.* He hadn't. He wouldn't.
 
-He found the tree on the eastern slope. Strong branch. Good height. If he'd been captured during the failed rescue, he would have been questioned. The escape routes revealed. Mary and Sarah found.
+Forgive me.
 
-Judas's hands shook as he knotted the rope. Twelve years of training guiding fingers that could barely hold steady. The hemp felt rough, real, more real than anything since watching Jesus dragged away.
+He found the tree on the eastern slope. A fig tree, ancient, its trunk thick as a man's chest, one branch extending horizontal and strong at the right height. The bark was rough under his fingers when he tested it. The rope he'd taken from a market stall — he didn't remember taking it, only having it — was coarse hemp, the kind used for tying cargo. Ordinary rope. The kind that held things together.
 
-The world would remember it wrong. Would call him traitor. Would remember the kiss as betrayal instead of the signal for a rescue that failed before it started. Would forget that he died trying to save Jesus, not profit from selling him.
+His hands shook as he worked the knot. Twelve years of training guiding fingers that could barely hold steady. He'd tied knots like this a hundred times — securing loads, binding wounds, rigging the ropes that lowered rescued carriers through windows and over walls. His hands knew the work even when his mind had left him. Loop, cross, pull through. The hemp rough against his palms. More real than anything since watching Jesus dragged away in chains.
+
+Below him, Jerusalem spread in the early light. Smoke rising from cooking fires. The Temple's gold catching the first sun. The sound of a rooster crowing — Peter's rooster, maybe, the one Jesus had predicted. The city going about its morning while a man stood on a tree branch and tied the last knot of his life with hands that had saved seven people and failed to save the one who mattered.
+
+The world would remember it wrong. Would call him traitor. Would remember the kiss as betrayal instead of the signal for a rescue that failed before it started. Would forget that he died trying to save Jesus, not profit from selling him. Two thousand years of being the villain in someone else's story. The name *Judas* becoming the word for treachery in languages that didn't exist yet.
 
 But Mary would know the truth.
 
 Sarah would teach her children the truth.
 
-His mother in Kerioth, who would learn of her son's death from strangers. Forgive me.
+That mattered more than what the world remembered.
 
-Judas stepped off the branch.
+Judas settled the rope. Looked out over Jerusalem one last time. Smelled bread baking. Heard a child laughing somewhere in the streets below — a sound so ordinary and so alive that it opened something in his chest he'd been holding shut since the garden, a grief so deep it had no bottom, the grief of a man who had devoted his life to saving people and couldn't save the one person who had made the saving mean something.
+
+He stepped off the branch.
 
 ---
 
 *Marcus POV*
 
-Marcus found Judas's body at dawn. The air tasted of woodsmoke and baking bread, Jerusalem waking to another ordinary day. The rope still swayed slightly in the morning breeze.
+Marcus found Judas's body at dawn.
 
-He wrote down the position, the method, the location. Added it to last night's record. Someone, someday, would need to understand that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work.
+The air tasted of woodsmoke and baking bread, Jerusalem waking to another festival morning. Vendors setting up stalls. Pilgrims moving toward the Temple. The ordinary machinery of a city that had condemned a man to death yesterday and was having breakfast today.
+
+The fig tree stood on the eastern slope where the road bent toward Bethany. Good vantage point — Marcus noted it automatically, the old habit of assessing terrain. Clear sightlines in three directions. Easy approach, difficult to observe from below. Judas had chosen it well. Even at the end, the operative's instinct for positioning.
+
+The rope still swayed slightly in the morning breeze.
+
+Marcus stood beneath the body and made himself look. Judas's face was dark, swollen, the features distorted but still recognizable — the sharp jaw, the close-trimmed beard, the brow that had furrowed in concentration during every planning session Marcus had observed from his documentation distance. His hands hung at his sides. Strong hands. The hands of a man who had pulled seven people to safety.
+
+Marcus opened his wax tablet. Wrote down the position, the method, the location. The time. The condition of the body. Added it to last night's record, stylus moving in the steady script he'd used for fifteen years of military reports. Someone, someday, would need to understand what happened here. Would need to know that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work. That the man history would call traitor had died like a soldier who lost his commanding officer — not from shame but from the unbearable fact of surviving someone you were supposed to protect.
+
+He closed the tablet. Didn't leave immediately.
+
+He sat on a stone beneath the tree, within arm's reach of Judas's hanging feet, and was still for a moment. The morning light moved across the hillside. A bird sang in the fig tree's upper branches, indifferent to what hung from the lower one. The city's noise rose — voices, carts, livestock, the accumulated sound of thousands of lives proceeding as if nothing had changed.
+
+Marcus had sat with the dead before. At Carnuntum, after the Thracian ambush. In Pannonia, beside men whose names he'd known and whose faces he'd forgotten and whose deaths he carried in his body the way soldiers carry all their dead — not in memory but in the shoulders, in the jaw, in the way you hold yourself upright when the weight wants to pull you down.
+
+He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas at network meetings, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Marcus had ever observed — a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
+
+That was the Judas who hung from this tree. Not a traitor. A rescuer who ran out of people to save, starting with himself.
+
+Marcus wrote that down too.
+
+Then he stood. Wiped his stylus on his cloak. Tucked the tablets away.
 
 Left the body for the authorities to find. Crucifixion started in three hours.
 
-Somewhere on the Damascus road, a woman and an eight-year-old girl carried the teaching forward. Marcus steadied his stylus and walked toward Golgotha.
+The walk to Golgotha took twenty minutes through streets thick with festival traffic. Marcus moved through the crowd the way he always moved — efficiently, without drawing attention, the practiced invisibility of a man who had spent his professional life watching from edges.
+
+Somewhere on the Damascus road, a woman and an eight-year-old girl carried the teaching forward. Somewhere in a holding cell, a carpenter waited for nails. And here, walking toward the hill where they killed people, a retired military officer carried three wax tablets and a stylus and the steady, corrosive knowledge that he would document everything and save nothing.
+
+He passed a woman carrying her infant in a sling, the child's face pressed against her neck, both of them smelling of milk and sleep. He passed an old man arguing with a merchant over the price of figs. He passed two boys chasing a dog through a gap between market stalls, their laughter high and sharp in the morning air. All of them living. All of them untouched by what was about to happen on the hill above the city. The world continuing, as it always continued, ordinary and relentless and indifferent to the deaths that shaped it.
+
+Marcus steadied his grip on the stylus and walked toward Golgotha.
 
 ---
 
 **END CHAPTER 11**
 
-**Word Count:** ~4,800 words (compressed from ~8,200)
-**Status:** REVISED — 7 scenes to 5, Scene 7 (Temple interrogation) cut, parable/Last Supper decodings cut, "Not X. Y." tic eliminated, Passover sensory detail added, Marcus personal moment added
+**Word Count:** ~6,550 words
+**Status:** EXPANDED Phase 1 — Last Supper immersive (seating, food, Peter's face, Sarah drinking), Mary/Sarah separation devastated (smell of hair, moonlight, forced letting-go), Judas's death slowed (silver weight, mother in Kerioth, Jerusalem ordinary morning, the laugh by the lake), Marcus finding Judas grounded (sitting with the body)
 **Next Chapter:** Chapter 12 "The Execution" - Crucifixion sequence
 
 ---
