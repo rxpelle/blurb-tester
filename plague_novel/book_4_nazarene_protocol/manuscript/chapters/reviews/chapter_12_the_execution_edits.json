@@ -1,0 +1,75 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 1",
+      "original_text": "He'd spent the night smoothing wax tablets, sharpening his stylus, making copies of six years of records and placing them in trusted houses across Jerusalem. Four houses.",
+      "revised_text": "He'd spent the night making copies of six years of records, distributing them to four trusted houses across Jerusalem.",
+      "rationale": "Eliminates repetitive sentence structure and wordiness for better flow",
+      "source_note": "Line Editor - sentence structure"
+    },
+    {
+      "location": "Scene 2, scourging section",
+      "original_text": "Jesus was stripped and bound to the post. The soldier took position.",
+      "revised_text": "They stripped Jesus and bound him to the post. The soldier took position.",
+      "rationale": "Uses active voice for more visceral impact",
+      "source_note": "Line Editor - passive voice"
+    },
+    {
+      "location": "Scene 3, paragraph 4",
+      "original_text": "Marcus's eye caught them the way it always caught things",
+      "revised_text": "Marcus's eye registered them the way it always captured details",
+      "rationale": "Uses more precise verbs to show Marcus's observational skill",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 3, paragraph 6",
+      "original_text": "The boy was maybe ten... Behind her, an old woman... husband, maybe, or stranger",
+      "revised_text": "The boy was perhaps ten... Behind her, an old woman... husband or stranger",
+      "rationale": "Removes unnecessary qualifier repetition for cleaner prose",
+      "source_note": "Line Editor - padding"
+    },
+    {
+      "location": "Scene 4, paragraph 3",
+      "original_text": "Iron through flesh, through bone, through wood. The sound would follow Marcus for the rest of his life \u2014 metal on metal, then the wet sound underneath. Jesus's body arched against the wood, but he made no cry.",
+      "revised_text": "Iron drove through flesh, through bone, through wood\u2014the sound of metal on metal, then the wet sound underneath that would follow Marcus for the rest of his life. Jesus's body arched against the wood, but he made no cry.",
+      "rationale": "Combines sentences for better rhythm and flow",
+      "source_note": "Line Editor - sentence rhythm"
+    },
+    {
+      "location": "Scene 4, paragraph 4",
+      "original_text": "The same hands. The same open palms. The boy's hands raised... and now Jesus's hands opened",
+      "revised_text": "The same gesture. The same open palms. The boy's hands raised... and now Jesus's wrists opened",
+      "rationale": "Reduces repetition of 'hands' four times in one paragraph",
+      "source_note": "Line Editor - repetition"
+    },
+    {
+      "location": "Scene 5, paragraph 5",
+      "original_text": "Then the sky opened. Cold rain, bitter for spring",
+      "revised_text": "Then the clouds split. Cold rain, bitter for spring",
+      "rationale": "Replaces clich\u00e9d phrase with more original imagery",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 5, paragraph 7",
+      "original_text": "The steadiness of his hand was the last discipline he had. If he stopped writing, he would have to feel what he was seeing instead of recording it, and he knew \u2014 the way a man standing at the edge of a cliff knows \u2014 that if he let himself feel it, something in him would break that wouldn't go back together.",
+      "revised_text": "The steadiness of his hand was the last discipline he had. If he stopped writing, he would have to feel what he was seeing instead of recording it. He knew\u2014the way a man at a cliff's edge knows\u2014that feeling it would break something in him beyond repair.",
+      "rationale": "Breaks overly long sentence for better clarity and flow",
+      "source_note": "Line Editor - sentence structure"
+    },
+    {
+      "location": "Scene 8, paragraph 7",
+      "original_text": "The memories that came now were smaller... The memories that came",
+      "revised_text": "The memories surfacing now were smaller... These memories arrived",
+      "rationale": "Uses more specific verbs to avoid repetition",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 8, final paragraph",
+      "original_text": "She waited for the third day.",
+      "revised_text": "She waited for the third day. But as she sat in the darkness, something in the inherited memories stirred\u2014a warmth that had nothing to do with the present, and everything to do with what was coming.",
+      "rationale": "Creates stronger hook for next chapter with hint of supernatural tension",
+      "source_note": "Developmental Editor - chapter ending"
+    }
+  ],
+  "total": 10
+}

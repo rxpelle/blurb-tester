@@ -12,27 +12,27 @@
 
 Mary woke before dawn without screaming.
 
-Pi-Ramesses flickered behind her eyes. Flames licking at mud-brick walls, refugees crushing through gates. Her body tensed for impact that never came. She breathed deep and grounded herself — wool, Sarah's breathing, lake smell — and held steady.
+Pi-Ramesses flickered behind her eyes. Flames licking at mud-brick walls, refugees crushing through gates. Her body tensed for impact that never came. She breathed deep and grounded herself, wool, Sarah's breathing, lake smell, and held steady.
 
 The burning city held steady in memory's corner, observed rather than experienced. Two years of practice. The visions still came each night. But she could hold them without drowning.
 
-She dressed quietly. Sarah — five years old now — had arranged her sleeping pebbles into geometric patterns overnight without waking. Instinctive ordering. Three years ago that would have terrified Mary. Now she let it be.
+She dressed quietly, watching Sarah, five years old now, who had arranged her sleeping pebbles into geometric patterns overnight without waking. The instinctive ordering would have terrified Mary three years ago, but now she let it be.
 
-Outside, Capernaum stirred in predawn grey. Mary saw what she hadn't been able to see before her training: Roman soldiers demanding more taxes each year. Temple priests taking bigger cuts. Young men disappearing into the hills. The same pattern she'd watched burn Pi-Ramesses — pressure building until it exploded.
+Outside, Capernaum stirred in predawn grey. Mary saw what she hadn't been able to see before her training: Roman soldiers demanding more taxes each year. Temple priests taking bigger cuts. Young men disappearing into the hills. The same pattern she'd watched burn Pi-Ramesses, pressure building until it exploded.
 
-She taught sixty women now, in the expanded courtyard behind Simon's house. They gathered weekly, arriving in clusters small enough to look like sewing circles assembling for market day.
+She taught sixty women now, in the expanded courtyard behind Simon's house. They gathered weekly, arriving in clusters small enough to look like sewing circles gathering for market day.
 
 That morning, Mary stood before them and felt the familiar mix of purpose and terror.
 
 "Close your eyes," she instructed. "Let a vision surface. Don't fight it. Just observe."
 
-She watched as expressions shifted across the courtyard — eyes moving beneath closed lids, breathing patterns changing, a few women flinching as memories surfaced unbidden.
+She watched as expressions shifted across the courtyard, eyes moving beneath closed lids, breathing patterns changing, a few women flinching as memories surfaced unbidden.
 
 "Now ground. Five things present. Physical sensations. Sounds. Smells. Your own heartbeat. Don't push the vision away. Just anchor yourself in the present while experiencing the past."
 
-Most struggled. The discipline was brutal — holding two realities at once without drowning in either. But three women — Rachel, Judith, Miriam, all strong carriers from branch bloodlines — held both states simultaneously. Their faces went calm in a way Mary recognized. Dual consciousness. Past and present at the same time.
+Most struggled. The discipline was brutal, holding two realities at once without drowning in either. But three women, Rachel, Judith, Miriam, all strong carriers from branch bloodlines, held both states simultaneously. Their faces went calm in a way Mary recognized. Dual consciousness—past and present held simultaneously.
 
-"Good," Mary said. "That's controlled access. Not perfect yet. But you've demonstrated the capacity."
+"Good," Mary said. "That's controlled access. Not perfect yet. But you've demonstrated the capacity." She pressed her left hand against her ribs, the place where the warmth lived, and felt the old reaching. Nefertari's gesture, carried forward through forty-two generations of women who loved and lost and kept teaching anyway.
 
 Sarah spoke up from the front row, clear-voiced for a five-year-old. "Mama sees the teaching lady. The old one from the burning city."
 
@@ -40,13 +40,13 @@ Several women looked startled. Mary smiled. "Nefertari. She built what we're lea
 
 "I see her too sometimes," Sarah said. "In dreams. She shows me patterns."
 
-Generation 43, accessing blood memory at five. Earlier than expected. But Mary had been training her since age three — grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what carriers were.
+Generation 43, accessing blood memory at five. Earlier than expected. But Mary had been training her since age three, grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what carriers were.
 
 A woman named Deborah raised her hand. "What about when we can't catch the trouble early? When the violence is already happening?"
 
 The harder question. The one that always drew silence. These women knew what happened when they acted too late: bruises, broken households, children who learned violence as their first language.
 
-"Then it costs more," Mary said. "Sustained intervention instead of early correction. It's still possible — but you need more help, more time, more courage. And sometimes you need to leave. Leaving isn't failure. It's choosing to survive so you can keep teaching."
+"Then it costs more," Mary said. "Sustained intervention instead of early correction. It's still possible, but you need more help, more time, more courage. And sometimes you need to leave. Leaving isn't failure. It's choosing to survive so you can keep teaching."
 
 She looked across sixty faces. Fishermen's wives, merchants' daughters, widows, a handful of prostitutes from Magdala who'd heard Mary's story and recognized their own unexplained visions. All of them further along than they'd been six months ago.
 
@@ -66,7 +66,7 @@ Jesus stood in the doorway. Two years of steady teaching had weathered him. He l
 
 They left at sunrise: Jesus, Mary, Peter, and John. Sarah stayed with Anna.
 
-Three days south through Judean wilderness. Sweat stinging, dust coating, each step on loose shale sending stones skittering toward the Dead Sea's blue far below.
+Three days south through Judean wilderness. Sweat stinging, dust coating, each step on loose shale sending stones skittering toward the Dead Sea's blue, far below.
 
 On the third morning, climbing a ridge that overlooked the salt-crusted shore, Mary asked what had been building for months: "What does the text say about you?"
 
@@ -92,9 +92,9 @@ He retrieved two scrolls and unrolled them with careful reverence.
 
 Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory, not hieroglyphics, older. Waves and circles and intersecting lines, almost like music notation.
 
-She traced one cluster with her finger, not quite touching the parchment. Heat spread through her fingertips. Her vision split — the scriptorium's cool shadows overlaid with blazing Egyptian sun. Her breath caught, ribs tight.
+She traced one cluster with her finger, not quite touching the parchment. Heat spread through her fingertips. Her vision split, the scriptorium's cool shadows overlaid with blazing Egyptian sun. Her breath caught, ribs tight.
 
-The symbols shifted, resolving into near-recognition. Like a half-remembered language rising from deep water.
+The symbols shifted, resolving into something she almost recognized. Like a half-remembered language rising from deep water.
 
 "I don't just see Pi-Ramesses falling," she heard herself say, the words coming unbidden. She blinked, the vision strengthening. "I see how its pattern connects to Babylon's fall, connects to what Rome is building toward. The same thing, every time."
 
@@ -108,7 +108,7 @@ Mary forced herself to ground. The scroll. Matthias watching. Jesus's hand warm 
 
 Matthias unrolled the second scroll. "This one I couldn't decode. Pure pattern notation — no Hebrew, no Aramaic. Just symbols."
 
-Mary looked at it. Dense symbol clusters arranged in spirals. Her enhanced vision locked onto them and they resolved — not into words exactly, but into *understanding*. Fragments. Incomplete. Like hearing a conversation through a wall.
+Mary looked at it. Dense symbol clusters arranged in spirals. Her enhanced vision locked onto them and they resolved. Not into words exactly, but into *understanding*. Fragments. Incomplete. Like hearing a conversation through a wall.
 
 "It's about us," she said slowly. "Generation 42. Two carriers — primary and branch — rebuilding what was lost during the exile." She squinted, reaching. "The primary... teaches with his blood what he can't teach with bronze. The branch... sees the connections the primary cannot. Together they—" The symbols blurred. She pressed harder. "Together they succeed at distribution. Not prevention. *Distribution.*"
 
@@ -144,7 +144,7 @@ Her stomach turned. The clarity was worse than the vision. The logic was flawles
 
 "Fifteen years. Maybe twenty. When the revolt comes, Rome destroys everything."
 
-Matthias began rolling the scrolls, fumbling the edges twice before getting them tight.
+Matthias rolled the scrolls, fumbling the edges twice before getting them tight.
 
 ---
 
@@ -166,7 +166,7 @@ Mary thought about Sarah. Five years old now. The math hadn't changed.
 
 "And it would have killed you. The way it killed your mother."
 
-Mary went still. She hadn't made that connection. Her mother. Herself. The same trajectory, different instrument.
+Mary froze. She hadn't made that connection. Her mother. Herself. The same trajectory, different instrument.
 
 "The training has limits," Jesus said. "Respect them. You're no good to Sarah dead."
 
@@ -180,19 +180,19 @@ They were running out of time.
 
 Three weeks later. Byblos.
 
-The ruins began where the harbor road ended — crushed limestone and fallen columns tangled with scrub cedar, the old Phoenician port buried under centuries of neglect and earthquake and the slow patient work of roots splitting stone. Mary crouched in rubble that smelled of salt and ancient mortar and something older underneath, a mineral tang that reminded her of the salting vats in Magdala. Her knees ached against broken stone. Her fingernails were black with grit. A blister had opened on her right palm sometime in the last hour, and she'd packed it with dust without thinking — the way her hands had always handled minor damage, merchant's hands, used to rope and crate edges and the rough grain of salt crystals.
+The ruins began where the harbor road ended. Crushed limestone and fallen columns tangled with scrub cedar, the old Phoenician port buried under centuries of neglect, earthquake, and roots splitting stone. Mary crouched in rubble that smelled of salt and ancient mortar and something older underneath, a mineral tang that reminded her of the salting vats in Magdala. Her knees ached against broken stone. Her fingernails were black with grit. A blister had opened on her right palm sometime in the last hour, and she'd packed it with dust without thinking, the way her hands had always handled minor damage, merchant's hands, used to rope and crate edges and the rough grain of salt crystals.
 
-Rachel knelt six feet away, digging with a bronze trowel they'd borrowed from a mason in the lower town. Sweat darkened the fabric between her shoulder blades. Her headscarf had slipped to her neck an hour ago and neither woman had mentioned it. Two Jewish women digging in Phoenician ruins — they'd told the harbor master they were looking for old trade seals. He hadn't believed them, but he'd taken Mary's silver and looked away.
+Rachel knelt six feet away, digging with an iron trowel they'd borrowed from a mason in the lower town. Sweat darkened the fabric between her shoulder blades. Her headscarf had slipped to her neck an hour ago and neither woman had mentioned it. Two Jewish women digging in Phoenician ruins. They'd told the harbor master they were looking for old trade seals. He hadn't believed them, but he'd taken Mary's silver and looked away.
 
-The Qumran texts had been specific: *beneath the physician's marker, east wall, third course from the floor*. But the east wall had collapsed sometime during the Persian period, and "third course from the floor" meant nothing when the floor itself lay under four feet of debris. They'd been excavating since dawn, working from the harbor side where Mary's blood memory placed the entrance to what had once been a teaching room. The sun was past noon now. Mary's water skin was nearly empty. Rachel hadn't complained — Rachel never complained — but her movements had slowed in the last hour, each trowel stroke arriving with deliberate effort rather than rhythm.
+The Qumran texts had been specific: *beneath the physician's marker, east wall, third course from the floor*. But the east wall had collapsed sometime during the Persian period, and "third course from the floor" meant nothing when the floor itself lay under four feet of debris. They'd been excavating since dawn, working from the harbor side where Mary's blood memory placed the entrance to what had once been a teaching room. The sun was past noon now. Mary's water skin was nearly empty. Rachel hadn't complained — Rachel never complained, but her movements had slowed in the last hour, each trowel stroke arriving with deliberate effort rather than rhythm.
 
-Mary's hands found shaped stone under the rubble. A lintel. She traced its edge, brushing away packed earth. Her fingers touched carved symbols — shallow, weathered almost to nothing — and her vision split.
+Mary's hands found shaped stone under the rubble. A lintel. She traced its edge, brushing away packed earth. Her fingers touched carved symbols, shallow, weathered almost to nothing, and her vision split.
 
-Not the slow doubling she'd practiced in Capernaum. This was immediate. Violent. The ruins dissolved and the room rebuilt itself around her — plastered walls, oil lamps in niches, the sharp mineral smell of fresh-cast bronze cooling on a stone workbench. Nefertari stood at the bench with her back to Mary, shoulders rigid, hands working a mold. Outside, through a window that no longer existed, smoke rose from the harbor quarter. Shouts in a language Mary almost recognized. The crackle of fire eating through cedar roofing.
+Not the slow doubling she'd practiced in Capernaum. This was immediate. Violent. The ruins dissolved and the room rebuilt itself around her, plastered walls, oil lamps in niches, the sharp mineral smell of fresh-cast bronze cooling on a stone workbench. Nefertari stood at the bench with her back to Mary, shoulders rigid, hands working a mold. Outside, through a window that no longer existed, smoke rose from the harbor quarter. Shouts in a language Mary almost recognized. The crackle of fire eating through cedar roofing.
 
 Pi-Ramesses was burning.
 
-But Nefertari wasn't running. She was casting. Bronze, liquid and orange, pouring from a crucible into a flat disc mold. Her hands shook — from exhaustion, from the heat, from whatever had happened in the streets that morning — but the pour was precise. Twenty years of physician's training in those hands. Steady when it mattered.
+But Nefertari wasn't running. She was casting. Bronze, liquid and orange, pouring from a crucible into a flat disc mold. Her hands shook, from exhaustion, from the heat, from whatever had happened in the streets that morning, but the pour was precise. Twenty years of physician's training in those hands. Steady when it mattered.
 
 A girl appeared in the doorway. Fourteen, maybe fifteen. Ash in her hair.
 
@@ -204,9 +204,9 @@ Nefertari didn't turn from the mold. "How many escaped?"
 
 "Take this." Nefertari lifted the still-cooling disc with leather wraps, pressed it into the girl's hands. "Byblos. The teaching room near the harbor. Third stone course from the floor, east wall. You bury it there and you don't tell anyone where it is. Not your husband. Not your children. The blood remembers what mouths forget."
 
-The girl's hands closed around the disc. Even through the leather, Mary could see the girl's face change — eyes widening, breath catching — as the bronze touched her and twelve generations of accumulated knowledge surged through the contact.
+The girl's hands closed around the disc. Even through the leather, Mary could see the girl's face change, eyes widening, breath catching, as the bronze touched her and twelve generations of accumulated knowledge surged through the contact.
 
-"Go," Nefertari said. "Now. Before the gates close."
+"Go. Now. Before the gates close."
 
 The vision broke. Mary gasped, hands flat on the rubble, chest heaving. Dust and afternoon sun. The taste of blood where she'd bitten the inside of her cheek.
 
@@ -218,25 +218,25 @@ Mary's hands were still on the lintel stone. The carved symbols under her finger
 
 "Third course," Mary said. Her voice came out hoarse. "Not from the floor. From this lintel. She counted from the doorframe."
 
-They dug. Rachel handled the trowel while Mary cleared loose stone by hand, working by feel because her fingers were more reliable than her eyes — hands that knew the shape of Phoenician masonry the way they knew the shape of Sarah's skull in the dark.
+They dug. Rachel handled the trowel while Mary cleared loose stone by hand, working by feel because her fingers were more reliable than her eyes, hands that knew the shape of Phoenician masonry the way they knew the shape of Sarah's skull in the dark.
 
 Twenty minutes. Thirty. Rachel's trowel scraped against something that wasn't stone.
 
-Mary reached into the gap between two limestone blocks. Cool air from inside the wall, stale and sealed. Her fingers found a shape — not stone, not mortar. Something wrapped. She closed her hand around it, and the instant her skin touched the bundle, heat flooded up her arm and across her chest and settled beneath her left ribs where the warmth always lived — but stronger, wider, like a door thrown open into a room she'd only ever seen through a keyhole.
+Mary reached into the gap between two limestone blocks. Cool air from inside the wall, stale and sealed. Her fingers found a shape. Not stone, not mortar. Something wrapped. She closed her hand around it, and the instant her skin touched the bundle, heat flooded up her arm and across her chest and settled beneath her left ribs where the warmth always lived, but stronger, wider, like a door thrown open into a room she'd only ever seen through a keyhole.
 
 She drew it out carefully. The leather wrapping, stiff with age, crumbled at the edges when she turned it. She peeled back the last layer and it fell apart in her hands.
 
-Bronze. Warm. Eight inches across, covered in symbols that weren't quite Egyptian and weren't quite anything else. The disc pulsed against her palms like a second heartbeat, and when she held it, her vision didn't split — it opened. Everything at once. Nefertari casting this bronze while her city burned. The girl running south with it pressed against her chest. Generations of women burying it deeper, building walls over it, forgetting and remembering and forgetting again. Twelve hundred years of hands on this same metal, each leaving something behind in the bronze, each taking something with them when they let go.
+The bronze disc. Warm. Pulsing against her palms like a second heartbeat, and when she held it, her vision didn't split. It opened. Everything at once. Nefertari casting this bronze while her city burned. The girl running south with it pressed against her chest. Generations of women burying it deeper, building walls over it, forgetting and remembering and forgetting again. Twelve hundred years of hands on this same metal, each leaving something behind in the bronze, each taking something with them when they let go.
 
 Mary held the disc and wept. Not from grief. From the weight of all that holding.
 
-Rachel didn't touch her. Didn't speak. She sat back on her heels in the rubble and watched Mary's face — the tears cutting clean lines through the dust on her cheeks, her lips moving without sound, her eyes focused on something twelve centuries past. Rachel had seen blood memory take Mary before. But not like this. This was something gentler. Not a seizure but a homecoming.
+Rachel didn't touch her. Didn't speak. She sat back on her heels in the rubble and watched Mary's face, the tears cutting clean lines through the dust on her cheeks, her lips moving without sound, her eyes focused on something twelve centuries past. Rachel had seen blood memory take Mary before. But not like this. This was something gentler. Not a seizure but a homecoming.
 
 "What is it?" Rachel asked when Mary's eyes found the present again.
 
 "The Pattern Eye." Mary turned the disc in her hands. Still warm. Still pulsing. As though Nefertari's urgency had never cooled. "It's been here since Pi-Ramesses fell. Twelve hundred years. Waiting."
 
-She wrapped it in her travel linen, pressed it against her ribs beneath her cloak, and felt it settle there — warm, patient, alive — like a hand she'd been reaching for her entire life.
+She wrapped it in her travel linen, pressed it against her ribs beneath her cloak, and felt it settle there, warm, patient, alive, like a hand she'd been reaching for her entire life.
 
 ---
 
@@ -248,31 +248,31 @@ Mary sat with Jesus on the hillside above Capernaum where he'd first taught her 
 
 "I'm not your student anymore," Mary said.
 
-Jesus turned to look at her. Not startled — more like he'd been waiting for it. "No. You haven't been for months."
+Jesus turned to look at her. Not startled, more like he'd been waiting for it. "No. You haven't been for months."
 
-"You know what made me realize?" Mary pointed toward the harbor road where a Roman tax station was visible at the crossroads. "Last week. Your parable about the landowner and the vineyard workers — the one about fair wages. You were talking about how Rome's extraction creates instability. Power taking too much until the system breaks."
+"You know what made me realize?" Mary pointed toward the harbor road where a Roman tax station was visible at the crossroads. "Last week. Your parable about the landowner and the vineyard workers, the one about fair wages. You were talking about how Rome's extraction creates instability. Power taking too much until the system breaks."
 
 "Yes."
 
-"But you missed something. The taxation isn't just extraction — it's redirection. Rome taxes grain and fish and oil, but the money doesn't leave Galilee. It cycles back through the garrison, the road builders, the bath houses. The soldiers spend their wages in the same markets they're taxing. What's actually destroying the region isn't the amount Rome takes. It's that Rome pays its soldiers in denarii while the Temple demands shekels. Two currencies. The exchange creates a middleman class — the money changers — who bleed three to five percent on every transaction. Twice. Once when the fisherman converts his catch to denarii for the Roman tax, and again when he converts what's left to shekels for the Temple offering."
+"But you missed something. The taxation isn't just extraction. It's redirection. Rome taxes grain and fish and oil, but the money doesn't leave Galilee. It cycles back through the garrison, the road builders, the bath houses. The soldiers spend their wages in the same markets they're taxing, creating a closed loop. What's actually destroying the region isn't the amount Rome takes. It's that Rome pays its soldiers in denarii while the Temple demands shekels. Two currencies. The exchange creates a middleman class — the money changers, who bleed three to five percent on every transaction. Twice. Once when the fisherman converts his catch to denarii for the Roman tax, and again when he converts what's left to shekels for the Temple offering."
 
-She watched his face as she spoke. The shift was small but unmistakable — eyebrows drawing together, then lifting. His mouth opening slightly and closing again. Surprise first. Then recognition. Then something she hadn't expected: relief. The particular relief of a man who'd been carrying a weight alone and suddenly felt someone else's hands take part of it.
+She watched his face as she spoke. The shift was small but unmistakable — eyebrows drawing together, then lifting. His mouth opening slightly and closing again. Surprise first. Then recognition. Then something she hadn't expected: relief. The relief of a man who'd been carrying a weight alone and suddenly felt someone else's hands take part of it.
 
 "The currency split," he said quietly. "I saw the extraction. I didn't see the mechanism."
 
-"Because you see it as a spiritual teacher. Power and corruption and what happens to people ground between systems. I see it as a merchant. Supply routes. Transaction costs. Where the money actually goes." Mary pulled a handful of shekels and denarii from her belt pouch, held them side by side. "Two systems forcing the same population to serve both. That's what broke Pi-Ramesses — not the invasion, not the famine. Two supply chains competing for the same labor pool until neither could function. I can see it because Nefertari ran a clinic. She tracked medicines and beds and which patients could pay and which couldn't. My blood remembers how economies collapse from the middle, not the top."
+"Because you see it as a spiritual teacher. Power and corruption and what happens to people ground between systems. I see it as a merchant. Supply routes. Transaction costs. Where the money actually goes." Mary pulled a handful of shekels and denarii from her belt pouch, held them side by side. "Two systems forcing the same population to serve both. That's what broke Pi-Ramesses. Not the invasion, not the famine. Two supply chains competing for the same labor pool until neither could function. I can see it because Nefertari ran a clinic. She tracked medicines and beds and which patients could pay and which couldn't. My blood remembers how economies collapse from the middle, not the top."
 
 Jesus was quiet for a long time. He looked at the coins in her hand, then at the tax station below, then back at her.
 
-"I've been preaching about rendering unto Caesar," he said. "I thought it was about divided loyalty. You're telling me it's about transaction friction."
+"I've been preaching about rendering unto Caesar," he said. "I thought it was about divided loyalty. You're telling me it's about the cost of changing money."
 
 "It's about both. That's what I'm saying — you see the spiritual architecture. I see the plumbing. The teaching needs both."
 
-He laughed. A short, surprised sound — not performance, not parable. Just a man being shown something he should have seen and hadn't. Mary had never heard him laugh like that before. Unguarded.
+He laughed. A short, surprised sound. Not performance, not parable. Just a man being shown something he should have seen and hadn't. Mary had never heard him laugh like that before. Unguarded.
 
 "Two years," he said. "Two years I've been teaching you. And you just taught me something I couldn't see from inside my own bloodline."
 
-He sat with it for a moment — she could see him turning her analysis over the way he turned parables, looking at it from underneath, testing the weight. His hands had gone still on his knees. The hands of a carpenter who built things. Mary's hands were a merchant's hands — they counted and weighed and measured. Different instruments. Same purpose.
+He sat with it for a moment — she could see him turning her analysis over the way he turned parables, looking at it from underneath, testing the weight. His hands had gone still on his knees. The hands of a carpenter who built things. Mary's hands were a merchant's hands. They counted and weighed and measured. Different instruments. Same purpose.
 
 "The money changers in the Temple courts," he said slowly. "I've been angry about them for years. I thought it was the corruption — profiting from worship. You're telling me it's structural. The currency split makes them necessary. They're not parasites. They're symptoms."
 
@@ -280,7 +280,7 @@ He sat with it for a moment — she could see him turning her analysis over the 
 
 He looked at her with clear eyes. Not the teacher's gaze she'd grown used to — the one that evaluated and guided and held back information until the student was ready. This was the gaze of someone seeing an equal for the first time and knowing it.
 
-Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. Not teacher. Not friend, exactly. Partner. Equal in different domains. He had the deeper generational memory. She had the lateral pattern recognition. He excelled at public teaching — encoding knowledge in portable stories. She excelled at systematic training — building networks that could run without her.
+Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. More than teacher, more than friend. Partner. Equal in different domains. He had the deeper generational memory. She had the lateral pattern recognition. He excelled at public teaching, encoding knowledge in portable stories. She excelled at systematic training, building networks that could run without her.
 
 Neither could do the other's work. But together they'd built something neither could have built alone.
 
@@ -290,7 +290,7 @@ Jesus turned. "Found what?"
 
 "The Pattern Eye." Mary pulled a wrapped bundle from her travel bag and unfolded the linen.
 
-The bronze disc glinted in the afternoon sun. Eight inches across, covered in symbols that weren't quite Egyptian. Warm to the touch, as though it generated its own heat. Mary had carried it against her body for three weeks, and the warmth hadn't faded.
+The Pattern Eye glinted in the afternoon sun. Still warm, as though it generated its own heat. Mary had carried it against her body for three weeks, and the warmth hadn't faded.
 
 "Byblos. Rachel and I went three weeks ago, using the Qumran texts as reference. The hiding place was in ruins near the old port — buried since the collapse, exactly where your baptism vision showed it."
 
@@ -304,9 +304,9 @@ He lifted the disc. His eyes unfocused immediately — blood memory surging thro
 
 "And you're using it with the women?"
 
-"Started last week. The three who achieved dual consciousness — Rachel, Judith, Miriam — they all accessed full memory within minutes using the Eye. We're building teaching methods around it. How to introduce the amplification gradually. How to prevent overwhelming. How to ask specific questions instead of drowning in everything."
+"Started last week. The three who achieved dual consciousness — Rachel, Judith, Miriam. They all accessed full memory within minutes using the Eye. We're building teaching methods around it. How to introduce the amplification gradually. How to prevent overwhelming. How to ask specific questions instead of drowning in everything."
 
-Jesus looked at her with something she'd never seen from him before. Not approval. Not the satisfaction of a teacher watching a student succeed. Something more equal than that.
+Jesus looked at her with something she'd never seen from him before. Beyond approval, beyond a teacher's satisfaction at a student's success. Something more equal.
 
 "You've built what I couldn't," he said. "The systematic training structure. The accelerated method. I gave you the foundation. You built the architecture on top of it."
 

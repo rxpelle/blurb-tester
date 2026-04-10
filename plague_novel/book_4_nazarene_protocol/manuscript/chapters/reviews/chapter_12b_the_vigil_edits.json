@@ -1,0 +1,110 @@
+{
+  "edits": [
+    {
+      "location": "opening paragraph",
+      "original_text": "Her hands wouldn't stop.\n\nMary sat on the sleeping mat in the borrowed room \u2014 a narrow space off a courtyard in the lower city, plaster walls still damp from yesterday's rain, the air thick with the smell of wet limestone and someone else's cooking oil \u2014 and watched her hands move in her lap.",
+      "revised_text": "The sound came again\u2014three measured knocks from somewhere beyond the courtyard wall. Mary's hands stilled in her lap. In Jerusalem's enforced Sabbath silence, even the guards at the tomb shouldn't be moving.\n\nShe sat on the sleeping mat in the borrowed room\u2014a narrow space off a courtyard in the lower city, rough stone walls still damp from yesterday's rain, the air thick with wet limestone and someone else's cooking oil.",
+      "rationale": "Creates immediate tension and hook while fixing historical inaccuracy of plaster walls",
+      "source_note": "Acquisitions Editor hook strength and Historical Authenticity Editor material culture"
+    },
+    {
+      "location": "paragraph 3, distance description",
+      "original_text": "The distance between this room and that tomb was perhaps half a mile. It might as well have been the distance to Damascus",
+      "revised_text": "The distance between this room and that tomb stretched beyond what the Law permitted for Sabbath walking. It might as well have stretched to Damascus",
+      "rationale": "Uses period-appropriate distance reference and stronger verb",
+      "source_note": "Historical Authenticity Editor social norms and Line Editor word choice precision"
+    },
+    {
+      "location": "paragraph 4, pain description",
+      "original_text": "Pain was occupation. Pain was the body doing something.",
+      "revised_text": "Pain occupied her. At least her body was doing something.",
+      "rationale": "Varies sentence structure to improve rhythm",
+      "source_note": "Line Editor redundancy"
+    },
+    {
+      "location": "paragraph 5, grief description",
+      "original_text": "which was actually just the shape grief took",
+      "revised_text": "which was just the shape grief took",
+      "rationale": "Removes unnecessary padding word",
+      "source_note": "Line Editor padding"
+    },
+    {
+      "location": "paragraph 6, memory transition",
+      "original_text": "Her hands opened in her lap again. And the memory came. Not the ancient ones.",
+      "revised_text": "Her hands opened in her lap again, and the memory came\u2014not the ancient ones.",
+      "rationale": "Improves sentence rhythm by combining choppy fragments",
+      "source_note": "Line Editor sentence rhythm"
+    },
+    {
+      "location": "paragraph 8, inherited grief explanation",
+      "original_text": "Not the ancient ones. Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust, not the hand reaching left in the dark toward a body twelve hundred years gone. She knew those memories. They arrived vast and impersonal, a grief so old it had become landscape",
+      "revised_text": "The old pain lived in her chest like a heavy stone\u2014sad but familiar, like an old scar that only ached in bad weather. Those memories of burning cities and lost loves from a thousand years ago felt huge but distant, like watching someone else's tragedy through thick glass.",
+      "rationale": "Makes complex concept more accessible using simpler language and concrete imagery",
+      "source_note": "Accessibility Editor concept accessibility"
+    },
+    {
+      "location": "paragraph 10, name reference",
+      "original_text": "just her name, spoken with the particular weight",
+      "revised_text": "her name, spoken with the particular weight",
+      "rationale": "Removes filler word that weakens impact",
+      "source_note": "Line Editor word choice precision"
+    },
+    {
+      "location": "paragraph 14, nail metaphor",
+      "original_text": "This grief was a nail. It went through you.",
+      "revised_text": "This grief was limestone dust\u2014fine, inescapable, settling in every crevice of memory.",
+      "rationale": "Replaces clich\u00e9 with original metaphor connected to the setting",
+      "source_note": "Line Editor cliche"
+    },
+    {
+      "location": "paragraph 16, scene transition",
+      "original_text": "The door opened after dark.",
+      "revised_text": "Footsteps stopped outside\u2014hesitant, heavy. A hand touched the door, withdrew. Touched again. After dark, Peter opened the door.",
+      "rationale": "Converts passive to active voice and adds sensory buildup",
+      "source_note": "Line Editor passive voice and Immersive Experience Editor"
+    },
+    {
+      "location": "paragraph 17, stillness description",
+      "original_text": "arriving at a place where it simply sat",
+      "revised_text": "arriving at exhausted stillness",
+      "rationale": "Eliminates redundancy after 'stillness'",
+      "source_note": "Line Editor redundancy"
+    },
+    {
+      "location": "paragraph 25, gesture description",
+      "original_text": "The gesture was not forgiveness. It was not absolution. It was bread.",
+      "revised_text": "The gesture offered no forgiveness, no absolution. Only bread.",
+      "rationale": "Uses stronger, more precise verbs",
+      "source_note": "Line Editor word choice precision"
+    },
+    {
+      "location": "paragraph 34, dialogue avoidance",
+      "original_text": "There was nothing to say that wouldn't simply make",
+      "revised_text": "There was nothing to say that wouldn't make",
+      "rationale": "Removes unnecessary qualifier",
+      "source_note": "Line Editor padding"
+    },
+    {
+      "location": "paragraph 43, sentence fragments",
+      "original_text": "Not because of anger. Because of knowledge.",
+      "revised_text": "Not because of anger, but because of knowledge.",
+      "rationale": "Combines fragments for smoother flow",
+      "source_note": "Line Editor sentence rhythm"
+    },
+    {
+      "location": "paragraph 44, repetitive structure",
+      "original_text": "Need her teaching to be less. Need her voice to carry less authority",
+      "revised_text": "Need her teaching diminished, her voice stripped of authority",
+      "rationale": "Varies sentence structure to avoid mechanical repetition",
+      "source_note": "Line Editor redundancy"
+    },
+    {
+      "location": "final paragraph",
+      "original_text": "Toward tomorrow. And whatever tomorrow held.",
+      "revised_text": "Toward tomorrow. And the growing certainty that something about this crucifixion had been orchestrated with precision she was only beginning to understand. The guards weren't just watching the tomb\u2014they were waiting for something. And she intended to find out what.",
+      "rationale": "Creates intellectual thriller hook and forward momentum",
+      "source_note": "Genre Editor chapter ending weakness and Acquisitions Editor hook strength"
+    }
+  ],
+  "total": 15
+}

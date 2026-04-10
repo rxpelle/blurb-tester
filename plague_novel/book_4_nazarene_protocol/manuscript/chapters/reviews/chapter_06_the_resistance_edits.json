@@ -1,0 +1,82 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 4",
+      "original_text": "Three thousand in Galilee last week",
+      "revised_text": "Three thousand in Galilee at the last market gathering",
+      "rationale": "Removes anachronistic modern time-framing; Romans used natural markers for temporal references",
+      "source_note": "Historical Authenticity Editor - linguistic anachronism"
+    },
+    {
+      "location": "Scene 1, paragraph 8",
+      "original_text": "Female teaching circles suggest structure. Discipline.",
+      "revised_text": "Women gathering for instruction disrupts proper order. Shows he disregards tradition.",
+      "rationale": "Frames through Roman eyes as social disruption rather than modern organizational analysis",
+      "source_note": "Historical Authenticity Editor - anachronism in social norms analysis"
+    },
+    {
+      "location": "Scene 1, paragraph 13",
+      "original_text": "Caiaphas sent another petition yesterday. Third one this month. They want Jesus arrested for blasphemy and delivered to the Sanhedrin for trial.",
+      "revised_text": "Caiaphas sent another petition yesterday. The high priest controls the Temple\u2014Rome lets him keep order among the Jews as long as he delivers taxes and prevents riots. A popular teacher drawing thousands? That's his nightmare. He wants Jesus arrested and put on trial before his own religious council.",
+      "rationale": "Explains power structure through Marcus's military perspective to make complex politics accessible",
+      "source_note": "Accessibility Editor - concept accessibility for Temple politics"
+    },
+    {
+      "location": "Scene 1, paragraph 25",
+      "original_text": "He's teaching thousands of people to govern themselves. To settle disputes, share resources, build communities that don't need our courts or our roads or our grain.",
+      "revised_text": "I've watched his followers settle arguments without bringing them to Roman courts. They share food when someone's hungry, care for each other's sick children. They're building their own little communities that don't need us for anything.",
+      "rationale": "Grounds abstract political concepts in specific, observable behaviors Marcus has witnessed",
+      "source_note": "Accessibility Editor - jargon management for governance concepts"
+    },
+    {
+      "location": "Scene 1, paragraph 27",
+      "original_text": "He knows martyring a popular teacher creates more problems than it solves. Followers multiply. Teaching spreads faster.",
+      "revised_text": "Remember what happened when we crucified that Zealot leader in Galilee? His followers went underground, started three separate cells. Sometimes killing a man makes him more dangerous dead than alive.",
+      "rationale": "Provides concrete historical example Marcus would know from military experience",
+      "source_note": "Accessibility Editor - concept accessibility for martyrdom effects"
+    },
+    {
+      "location": "Scene 1, paragraphs 9-10",
+      "original_text": "Five years of observation, and he said nothing. He'd filed reports on Mary for three years. To him, it looked like a teacher preparing others to carry on after him. But that looked exactly like building a resistance movement to anyone watching from the Antonia Fortress.",
+      "revised_text": "Five years of observation, and he said nothing. To him, Mary looked like a teacher preparing others to carry on. To anyone watching from the Antonia Fortress, she looked like a resistance organizer.",
+      "rationale": "Eliminates redundant thoughts and streamlines for better flow",
+      "source_note": "Line Editor - redundancy elimination"
+    },
+    {
+      "location": "Scene 2, paragraph 3",
+      "original_text": "The crowd was perhaps two hundred.",
+      "revised_text": "Two hundred people filled the colonnade and spilled into the outer court.",
+      "rationale": "More direct and specific while adding historically accurate spatial detail",
+      "source_note": "Line Editor - padding removal + Historical Authenticity Editor - cultural detail"
+    },
+    {
+      "location": "Scene 3, paragraph 15",
+      "original_text": "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Three generations from now, your grandchildren pay the final price.",
+      "revised_text": "You kill a Roman soldier. They send ten to avenge him. You kill those ten, they burn a village. You attack their garrison, they level Jerusalem. When does it end, Barabbas? When everyone's dead?",
+      "rationale": "Shows the violence cycle through specific examples rather than lecturing about patterns",
+      "source_note": "Accessibility Editor - character-driven explanation"
+    },
+    {
+      "location": "Scene 4, paragraph 1",
+      "original_text": "The room smelled wrong. Marcus's quarters carried the same stale odors every night: lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight a foreign scent hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.",
+      "revised_text": "The room smelled wrong. Marcus's quarters usually carried lamp oil, old leather, and the mineral tang of limestone. Tonight expensive nard hung in the air\u2014a month's wages for an alabaster flask\u2014and beneath it the sourness of a man who'd been waiting for hours.",
+      "rationale": "Streamlines overwrought description while maintaining atmosphere and using accurate historical measurements",
+      "source_note": "Line Editor - word choice + Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 6, paragraph 12",
+      "original_text": "His left knee ached. The old injury from the Pannonian campaign, a horse rolling on him in a river crossing when he was twenty-six. The Legion physicians had set it wrong, and every autumn since, the joint swelled and ground when the weather turned cold. In armor, the greave held it braced \u2014 not healed, but managed, the metal doing what the bone couldn't. Without the greave, each step sent a bright thread of pain from kneecap to ankle. He'd been walking on this knee for twenty-two years with Rome holding it together. Now Rome was done holding anything of his together.",
+      "revised_text": "His left knee ached\u2014the old Pannonian injury, braced by armor for twenty-two years, now grinding with each unguarded step.",
+      "rationale": "Compresses excessive introspective detail that doesn't advance plot",
+      "source_note": "Line Editor - padding removal"
+    },
+    {
+      "location": "Scene 6, paragraph 3",
+      "original_text": "I'm requesting discharge. Seven years early. Forfeit pension. On personal grounds.",
+      "revised_text": "I request missio causaria. My knee injury from Pannonia has worsened. I can no longer serve effectively.",
+      "rationale": "Uses historically accurate Roman military discharge process rather than modern resignation",
+      "source_note": "Historical Authenticity Editor - military culture accuracy"
+    }
+  ],
+  "total": 11
+}

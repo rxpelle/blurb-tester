@@ -1,0 +1,110 @@
+{
+  "edits": [
+    {
+      "location": "opening sentence",
+      "original_text": "The nine months went fast.",
+      "revised_text": "Nine months had passed swiftly.",
+      "rationale": "Replaces jarring modern phrasing with period-appropriate language that matches the gravity of the chapter",
+      "source_note": "Line Editor critical pacing issue and Historical Authenticity Editor critical anachronism"
+    },
+    {
+      "location": "Scene 1, paragraph 3",
+      "original_text": "He'd been tracing Nefertari's final days \u2014 not the public encoding, not the workshop, but the private moments.",
+      "revised_text": "He'd been using the Pattern Eye to access Nefertari's memories from her final days \u2014 not the public encoding, not the workshop, but the private moments.",
+      "rationale": "Clarifies what the Pattern Eye does for accessibility and addresses jargon without context",
+      "source_note": "Accessibility Editor major jargon management and Onboarding Editor critical terminology issue"
+    },
+    {
+      "location": "Scene 1, paragraph 7",
+      "original_text": "He already knew. Not the details. But the weight in Marcus's shoulders...",
+      "revised_text": "He already knew \u2014 not the details, but the weight in Marcus's shoulders...",
+      "rationale": "Combines choppy sentences for smoother flow",
+      "source_note": "Line Editor major redundancy issue"
+    },
+    {
+      "location": "Scene 1, paragraph 11",
+      "original_text": "For the record: I think you're making the right choice for the wrong reasons.",
+      "revised_text": "Let it be noted: I think you're making the right choice for the wrong reasons.",
+      "rationale": "Replaces modern bureaucratic language with period-appropriate formal phrasing",
+      "source_note": "Historical Authenticity Editor major anachronism"
+    },
+    {
+      "location": "Scene 1, paragraph 6",
+      "original_text": "the flagstones like ice beneath Jesus's bare feet",
+      "revised_text": "the packed earth floor cold beneath Jesus's bare feet",
+      "rationale": "Replaces unlikely flagstone flooring with appropriate materials for 33 CE Galilee",
+      "source_note": "Historical Authenticity Editor major material culture issue"
+    },
+    {
+      "location": "Scene 1, paragraph 10",
+      "original_text": "The words landed in his chest before his mind processed them.",
+      "revised_text": "The words struck his chest before his mind processed them.",
+      "rationale": "Replaces generic verb with more specific, impactful verb",
+      "source_note": "Line Editor minor word choice issue"
+    },
+    {
+      "location": "Scene 2, paragraph 4",
+      "original_text": "Black basalt buildings clustered along the water. Boats pulled up on the dark pebble beach. The synagogue where he'd first taught...",
+      "revised_text": "Black basalt buildings clustered along the water, boats pulled up on the dark pebble beach, and the synagogue where he'd first taught gleamed white limestone against the darker stone around it.",
+      "rationale": "Varies sentence length and structure to eliminate monotonous rhythm",
+      "source_note": "Line Editor major sentence rhythm issue"
+    },
+    {
+      "location": "Scene 2, paragraph 8",
+      "original_text": "\"Don't,\" Mary said, her voice tight.",
+      "revised_text": "\"Don't.\" Mary's voice was tight.",
+      "rationale": "Removes unnecessary dialogue tag for cleaner flow",
+      "source_note": "Line Editor suggestion dialogue tags"
+    },
+    {
+      "location": "Scene 2, paragraph 11",
+      "original_text": "\"Don't pretend this is pure wisdom when it's also pride",
+      "revised_text": "\"Do not claim this comes from wisdom alone when pride also drives you",
+      "rationale": "Replaces slightly modern phrasing with more period-appropriate language",
+      "source_note": "Historical Authenticity Editor minor anachronism"
+    },
+    {
+      "location": "Scene 3, paragraph 2",
+      "original_text": "He'd been rehearsing this conversation since somewhere north of Jericho.",
+      "revised_text": "He'd rehearsed this conversation since Jericho.",
+      "rationale": "Removes unnecessary words that dilute impact",
+      "source_note": "Line Editor major padding issue"
+    },
+    {
+      "location": "Scene 3, paragraph 8",
+      "original_text": "They were shaking. Not the tremor of exhaustion. The tremor of a man who knew this was his last chance to do the thing he was made to do.",
+      "revised_text": "They shook as a man's hands shake when he fears his purpose may fail.",
+      "rationale": "Simplifies modern psychological precision to more period-appropriate observation",
+      "source_note": "Historical Authenticity Editor minor cultural detail"
+    },
+    {
+      "location": "Scene 3, paragraph 10",
+      "original_text": "I know what works.",
+      "revised_text": "I know the methods that succeed.",
+      "rationale": "Uses more formal language appropriate to the gravity and period",
+      "source_note": "Historical Authenticity Editor minor anachronism"
+    },
+    {
+      "location": "Scene 3, paragraph 12",
+      "original_text": "Twenty guards. I can bribe half the Temple force \u2014 I've done it before, seven times, seven successful extractions.",
+      "revised_text": "Twenty guards. I can bribe half the Temple force \u2014 I've done it before, seven times, seven successful rescues.",
+      "rationale": "Replaces unclear military jargon with clearer language",
+      "source_note": "Accessibility Editor major jargon management"
+    },
+    {
+      "location": "Scene 4, paragraph 15",
+      "original_text": "the sound of something structural giving way",
+      "revised_text": "the sound of a foundation cracking beneath weight it could no longer bear",
+      "rationale": "Replaces dead metaphor with fresher imagery",
+      "source_note": "Line Editor minor cliche issue"
+    },
+    {
+      "location": "Scene 4, paragraph 18",
+      "original_text": "Not weeping exactly \u2014 lower, older",
+      "revised_text": "Not weeping \u2014 lower, older",
+      "rationale": "Removes unnecessary qualifier that weakens description",
+      "source_note": "Line Editor suggestion word choice"
+    }
+  ],
+  "total": 15
+}

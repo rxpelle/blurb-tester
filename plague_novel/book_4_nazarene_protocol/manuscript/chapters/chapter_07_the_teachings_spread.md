@@ -12,7 +12,7 @@
 
 Jesus walked the road between Jerusalem and Jericho with the autumn sun at his back, limestone dust coating his sandals and the smell of wild thyme sharp in the dry air.
 
-This stretch was dangerous. Bandits knew every shadow in the ravines, every overhang where a man could hide with a knife. A day's hard descent from Jerusalem's highlands to Jericho's valley floor, the road twisting through gorges where screams carried and no one came. Most travelers went in groups for safety.
+This stretch was dangerous. Bandits knew every shadow in the ravines, every overhang where a man could hide with a knife. A day's steep descent from Jerusalem's highlands to Jericho's valley floor, the road twisting through gorges where screams carried and no one came. Most travelers went in groups for safety.
 
 Jesus walked it alone.
 
@@ -26,7 +26,7 @@ Jesus stopped walking. The crowd gathering behind them stopped too, maybe fifty 
 
 The crowd was quiet. This road. This exact danger. Everyone traveling the Jericho route had passed people who'd been beaten, robbed, left bleeding. Most kept walking. Getting involved meant risk.
 
-"Now by chance a priest was going down that road," Jesus said. "And when he saw him, he passed by on the other side. Likewise a Levite, when he came to the place and saw him, passed by on the other side."
+"Now by chance, a priest was going down that road," Jesus said. "And when he saw him, he passed by on the other side. Likewise, a Levite, when he came to the place and saw him, passed by on the other side."
 
 Someone in the crowd shifted. Two holy men. Both walking past.
 
@@ -46,7 +46,7 @@ The lawyer's mouth worked. He couldn't say "the Samaritan." Couldn't give credit
 
 The crowd murmured, arguing about Samaritans, about mercy, about who counted as a neighbor.
 
-Marcus's stylus had stopped moving. A Thracian soldier in his century, years ago — wounded in a border skirmish, left by the road because carrying him would have slowed the march. Marcus had walked past. Orders. The man died overnight. Marcus filed the report without noting the name.
+Marcus's stylus had stopped moving. A Thracian soldier in his century, years ago, wounded in a border skirmish, left by the road because carrying him would have slowed the march. Marcus had walked past. Orders. The man died overnight. Marcus filed the report without noting the name.
 
 He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and followed Jesus toward Jericho.
 
@@ -56,7 +56,7 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
 
-Mary gripped her knees. Counted the women again. Twenty-three. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
+Mary gripped her knees. Counted the women again. Twenty-three. Her left hand moved to her side, the old reaching, the gesture she couldn't train away no matter how many years passed. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
 
 "Sisters," Mary said, and the courtyard quieted. "Last week we spoke about reading the signs of trouble in the household before violence comes. Who can share what they've practiced?"
 
@@ -66,11 +66,11 @@ More hands. A younger woman described calming a dispute between merchants at the
 
 Small acts. Domestic scale. But this was how it actually worked. A thousand quiet corrections preventing the spark from becoming the fire.
 
-"Now the harder question," Mary said. "What about when the trouble is already there — when you've missed your chance to act early?"
+"Now the harder question," Mary said. "What about when the trouble is already there, when you've missed your chance to act early?"
 
 Silence. The harder question always drew silence. These women knew what happened when they acted too late: bruises, broken households, children who learned violence as their first language.
 
-"We're running out of time," Mary said. "I need each of you to learn how to teach this yourselves. Because within two years, I might not be available."
+"We're running out of time," Mary said. "I need each of you to learn how to teach this yourselves. Because if persecution comes, I might not be available."
 
 "How?" Deborah asked. "You've trained for years. We've had months."
 
@@ -82,9 +82,9 @@ The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against
 
 ## SCENE 3: Disciple Confusion
 
-Simon Peter poked the fire, watching sparks spiral into the cold night. The smell of charred fish and woodsmoke. Lake wind cutting through their cloaks. The Twelve sat in a rough circle, finishing the evening meal. Jesus had gone to pray — or whatever it was he did when he walked into the darkness and came back shaking.
+Simon Peter poked the fire, watching sparks spiral into the cold night. The smell of charred fish and woodsmoke. Lake wind cutting through their cloaks. The Twelve sat in a rough circle, finishing the evening meal. Jesus had gone to pray, or whatever it was he did when he walked into the darkness and came back shaking.
 
-Judas jabbed at the fire with a stick, sending sparks scattering. "I don't understand why he teaches in parables. Why not tell people plainly — organize, resist, act?"
+Judas stabbed the fire with a stick, scattering sparks. "I don't understand why he teaches in parables. Why not tell people plainly — organize, resist, act?"
 
 "Because that gets him arrested by morning," Thomas said.
 
@@ -94,19 +94,19 @@ Judas jabbed at the fire with a stick, sending sparks scattering. "I don't under
 
 "Rome isn't going anywhere," Judas said flatly.
 
-The familiar tension. Judas asked this in different forms every few weeks, the same argument in different clothes. The man wanted results he could see, and every week the Romans gave him fresh reasons.
+The familiar tension. Judas asked this in different forms every few weeks. The man wanted results he could see, and every week the Romans gave him fresh reasons.
 
-"So we just accept defeat?" Judas's voice thinned to a rasp. "My cousin died in a Roman prison last year. Elazar. He was twenty-three." Judas's stick broke against the fire ring and he stared at the splintered half still in his hand. "They arrested him for sheltering a man the Romans wanted. Didn't even know the man — he'd come to the door hungry, and Elazar fed him, because that's what you do. That's what we were *taught* to do." He threw the broken stick into the flames. "Forty days in that hole. They didn't execute him. They didn't have to. The cold did it. The damp. They just left him there until his lungs filled up and he drowned in a dry cell."
+"So we just accept defeat?" Judas's voice thinned to a rasp. "My cousin died in a Roman prison last year. Elazar. He was twenty-three." Judas's stick broke against the fire ring and he stared at the splintered half still in his hand. "They arrested him for sheltering a man the Romans wanted. Didn't even know the man. He'd come to the door hungry, and Elazar fed him, because that's what you do. That's what we were *taught* to do." He threw the broken stick into the flames. "Forty days in that hole. They didn't execute him. They didn't have to. The cold did it. The damp. They just left him there until his lungs filled up and he drowned in a dry cell."
 
-Judas's voice had gone flat, the way voices go when the grief underneath is too large to let through the surface. "My father lost his fields to the tax collectors the same year. Two generations of terracing, olive trees his grandfather planted — gone. He works another man's land now. Walks past his own trees every morning on his way to someone else's harvest."
+Judas's voice had gone flat, the way voices go when the grief underneath is too large to let through the surface. "My father lost his fields to the tax collectors the same year. Two generations of terracing, olive trees his grandfather planted—gone. He works another man's land now. Walks past his own trees every morning on his way to someone else's harvest."
 
-He looked around the fire at the others. "And we're supposed to tell *stories* while they grind what's left of us into dust?"
+He looked around the fire at the others. "And we're supposed to tell *stories* while they crush what remains of us like grain beneath millstones?"
 
-Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt — or Simon hadn't been listening. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white — from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
+Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt, or Simon hadn't been listening. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white, from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
 "What's wrong with five years?"
 
-"Nothing. If that's as far as you can see." Jesus poked the fire. "But commands die with the man who gives them. I tell you directly how to keep peace — you remember while I'm alive. Your children's children forget. But I tell you a *story* — the Good Samaritan — and that story spreads to people who never met me. Five hundred years from now, someone hears it and understands."
+"Nothing. If that's as far as you can see." Jesus poked the fire. "But commands die with the man who gives them. I tell you directly how to keep peace — you remember while I'm alive. Your children's children forget. But I tell you a *story* — the Good Samaritan, and that story spreads to people who never met me. Five hundred years from now, someone hears it and understands."
 
 Judas stared into the flames. "My cousin is dead. My father's fields are gone. And you're telling me to wait five hundred years."
 
@@ -122,21 +122,21 @@ James spoke for the first time. He'd been sitting with his arms crossed since th
 
 Jesus looked at him for a long time. The fire cracked. A log shifted and sent a column of sparks spiraling upward into the dark where they died.
 
-"I don't have an answer for that yet."
+"The answer changes depending on how much time we have. And I'm not sure we have enough."
 
-The silence that followed was different from every other silence Simon had heard around this fire. He'd seen Jesus face down Pharisees without blinking. He'd watched him stand in front of five thousand people and speak as if the words had been forming in his chest for twelve centuries. He'd never — not once in four years — heard Jesus say he didn't know.
+The silence that followed was different from every other silence Simon had heard around this fire. He'd seen Jesus face down Pharisees without blinking. He'd watched him stand in front of five thousand people and speak as if the words had been forming in his chest for twelve centuries. He'd never. Not once in four years, heard Jesus say he didn't know.
 
 The others registered it in sequence. Thomas's eyebrows rose first — Thomas, who questioned everything, hearing the one admission he'd never thought to hope for. Matthew looked down at his hands, the way a man looks down when the ground shifts and he wants to confirm it's still there. Andrew's mouth opened slightly, then closed. Bartholomew glanced at Simon, checking whether he'd heard correctly.
 
-Peter shifted on his stone, the grinding discomfort of a man who'd built his entire commitment on the assumption that the teacher had the answers, all of them, and was simply choosing when to reveal each one. That assumption had just cracked, and Peter's face showed the crack — not anger, not doubt, but the raw bewilderment of a foundation stone discovering it might need to hold more weight than it was cut for.
+Peter shifted on his stone, the grinding discomfort of a man who'd built his entire commitment on the assumption that the teacher had the answers, all of them, and was simply choosing when to reveal each one. That assumption had just cracked, and Peter's face showed the crack. Not anger, not doubt, but the raw bewilderment of a foundation stone discovering it might need to hold more weight than it was cut for.
 
 James was the only one who didn't move. He sat with his arms crossed and watched Jesus with the expression of a man who'd finally been told the truth and wasn't sure whether that made things better or worse.
 
-The fire burned. Nobody spoke. The lake sent its night sounds through the silence — water moving against rock, a boat knocking its mooring, the unhurried rhythm of a world that continued whether any of them had answers or not.
+The fire burned. Nobody spoke. The lake sent its night sounds through the silence, water moving against rock, a boat knocking its mooring, the unhurried rhythm of a world that continued whether any of them had answers or not.
 
 Jesus didn't fill the silence. Didn't qualify. Didn't follow with *but here's what I think* or *however, consider this*. He sat with the absence of an answer the way he sat with everything — present, unflinching, letting the weight land where it needed to land.
 
-And something shifted in the circle that Simon couldn't name. Not confidence. Not peace. Something more fragile and more honest than either — the particular closeness of people who have admitted together that the road ahead has no map. That the man they'd followed into the wilderness was walking it for the first time too.
+And something shifted in the circle that Simon had no words for. Neither confidence nor peace, but something more fragile and more honest than either, the closeness of people who have admitted together that the road ahead has no map. That the man they'd followed into the wilderness was walking it for the first time too.
 
 "While we're saying the things nobody says," Peter said. He stared at the fire. "The women's circles. Mary's teaching. The others are talking. They say you've given a *woman* authority over the teaching while the Twelve sit around learning parables."
 
@@ -152,11 +152,13 @@ Judas was still out in the darkness somewhere. James still had his arms crossed.
 
 Simon watched the fractures spread and said nothing, because he didn't know how to fix them and neither did Jesus and that was the thing nobody wanted to say out loud.
 
+And underneath it all, the two remaining keys still lost somewhere between Phoenicia and Alexandria. The teaching might scatter without them — incomplete, fragmentary, carried in blood but never fully readable without the bronze.
+
 ---
 
 ## SCENE 4: The Five Thousand
 
-Jesus looked out over the hillside and felt something close to grief.
+Jesus looked out over the hillside and felt grief.
 
 Five thousand people. Maybe more. They'd followed him for three days now, listening to teaching, watching healings, camping in rough conditions because they didn't want to miss whatever came next.
 
@@ -172,13 +174,13 @@ But this was also an opportunity. Maybe the last large-scale teaching moment bef
 
 Andrew stared at him. "We have five barley loaves and two fish. That's barely enough for the Twelve."
 
-"Organize them. Groups of fifty."
+"Organize them. Groups of fifty, as the elders organize for festival gatherings."
 
 "Distribute *what*? We don't have—"
 
 "Start organizing. I'll teach while you work."
 
-Andrew looked baffled but turned to gather the other disciples. They moved through the crowd, dividing five thousand people into manageable clusters. Families staying together, forming larger units. The chaos gradually resolving into structure.
+Andrew looked baffled but turned to gather the other disciples. They recruited willing helpers from the crowd and spent the better part of an hour dividing five thousand people into manageable clusters. Families staying together, forming larger units. The chaos gradually resolving into structure.
 
 When the groups were established, Jesus raised his voice. "You've been with me three days. Listening. Learning. And now you're hungry. That's the pattern, isn't it? Attention to spiritual matters, then the return of physical needs. You can't ignore the body."
 
@@ -190,7 +192,7 @@ Nods. Everyone understood scarcity.
 
 "But watch what happens when we organize differently."
 
-He blessed the food — ritual action, familiar religious framework — then began breaking the loaves, handing pieces to the Twelve. "Distribute this. Give people what's available. Start the flow."
+He blessed the food, ritual action, familiar religious framework, then began breaking the loaves, handing pieces to the Twelve. "Distribute this. Give people what's available. Start the flow."
 
 The disciples looked uncertain but obeyed. They moved through the groups, distributing bread and fish. Small amounts. Obviously inadequate.
 
@@ -212,7 +214,7 @@ The crowd was amazed. Jesus could hear the conversations rippling outward. *Did 
 
 Let them call it a miracle. That story would spread faster and further than any explanation he could offer.
 
-But he gathered the Twelve and the network carriers who'd been helping with distribution — maybe twenty people total — and drew them aside.
+But he gathered the Twelve and the network carriers who'd been helping with distribution — maybe twenty people total, and drew them aside.
 
 "You saw what happened," Jesus said quietly.
 
@@ -222,13 +224,13 @@ But he gathered the Twelve and the network carriers who'd been helping with dist
 
 Peter's eyes widened. "You didn't create food. You created trust in the network."
 
-"I created visible structure," Jesus said. "When people can see that a system works — that sharing leads to more, not less — they contribute what they were hiding. Scarcity is often a distribution problem, not a resource problem. Hoarding creates the very shortage people are afraid of."
+"I created visible structure," Jesus said. "When people can see that a system works — that sharing leads to more, not less. They contribute what they were hiding. Scarcity is often a distribution problem, not a resource problem. Hoarding creates the very shortage people are afraid of."
 
 "So the miracle was organizational," Matthew said slowly.
 
 "The miracle was seeing what was already present." Jesus looked out at the crowd, still marveling at what had happened. "Five thousand people had enough food among them for three days. They just didn't know it, because each person was sitting on their small portion thinking it couldn't possibly matter."
 
-Mary was there — she'd been helping organize the women's clusters. "But they'll tell this story as supernatural multiplication. Five loaves feeding five thousand through divine power."
+Mary was there. She'd been helping organize the women's clusters. "But they'll tell this story as supernatural multiplication. Five loaves feeding five thousand through divine power."
 
 "Let them. That story spreads further and faster than 'Jesus organized an effective resource distribution exercise.' And underneath the miracle narrative, the pattern persists. People gathering in organized groups. Resources flowing through trusted networks. Abundance emerging from apparent scarcity." He paused. "Carriers in future generations will hear this story and recognize what actually happened. Even if they never hear the word 'distribution,' they'll feel the pattern."
 
@@ -242,7 +244,7 @@ Mary nodded, but he could see the fear underneath her competence. Eighteen month
 
 ## SCENE 5: The Reckoning
 
-Marcus sat in a Jerusalem tavern, oil lamp smoking and wine going sour in the heat, listening to his replacement deliver the report.
+Marcus sat in a Jerusalem tavern, oil lamp smoking and wine growing warm and bitter in the heat, listening to his replacement deliver the report.
 
 The new officer was young, clean-shaven, the kind who filed his reports on time and slept well. "Five thousand, Marcus. Three days in one place. You know what we call a man who can move five thousand people?"
 
@@ -250,9 +252,11 @@ The new officer was young, clean-shaven, the kind who filed his reports on time 
 
 "Without an army. Which makes him worse." The officer drained his cup. "Pilate's building charges. Blasphemy, sedition, whatever the Sanhedrin will sign off on. Twelve months. Maybe eighteen. Faster if the crowds keep growing."
 
-After the officer left, Marcus sat alone in the tavern noise, dice, arguments, a woman laughing somewhere, and pulled out a roll of papyrus. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
+After the officer left, Marcus sat alone in the tavern noise, dice, arguments, a woman laughing somewhere, and pulled out a roll of papyrus—he'd been transferring his most important notes from wax tablets to permanent form. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
 
-Twenty-eight years of military service, campaigns across three provinces. And it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Marcus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
+Twenty-eight years of military service, campaigns across three provinces—and it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Marcus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
+
+Among the tavern noise, Marcus caught a conversation in accented Greek at the next table — two men discussing "the carpenter's network" with the clinical detachment of people who studied things before destroying them. Not Romans. Not Temple. Something older.
 
 That night the core group gathered at Lazarus's house in Bethany. Oil lamps. Olive oil and sweat. Too many bodies in too small a space. Mary slipped through the door with Sarah's warm weight against her shoulder.
 
@@ -268,15 +272,15 @@ Marcus delivered the news.
 
 Mary's breath caught. Sarah crawled into her lap. "Mama? Why is everyone scared?"
 
-Mary held her daughter close, breathing in the smell of her hair. "We're not scared. We're getting ready."
+Mary clutched her daughter close, inhaling the warm scent of her hair. "We're not scared. We're getting ready."
 
 He stood. "Tomorrow we continue teaching. Every day until they come for me."
 
 The room emptied slowly. Mary was last to leave, Sarah asleep on her shoulder.
 
-At the gate, she paused. A man stood at the far end of the street — just a shape in the moonlight. Patient. Watching. When he saw her looking, he turned and walked away with the unhurried stride of someone who had already learned what he came to learn.
+At the gate, she paused. A man stood at the far end of the street, just a shape in the moonlight. Patient. Watching. When he saw her looking, he turned and walked away with the unhurried stride of someone who had already learned what he came to learn.
 
-Mary held Sarah tighter and walked the other direction, fast, not running — because running would confirm what watching could only suspect.
+Mary held Sarah tighter and walked the other direction, fast, not running, because running would confirm what watching could only suspect.
 
 ---
 

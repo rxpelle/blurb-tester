@@ -1,0 +1,131 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 2",
+      "original_text": "A day's hard descent from Jerusalem's highlands",
+      "revised_text": "A day's steep descent from Jerusalem's highlands",
+      "rationale": "Replace anachronistic modern usage of 'hard' with period-appropriate term",
+      "source_note": "Historical Authenticity Editor - anachronism language"
+    },
+    {
+      "location": "Scene 1, paragraph 4",
+      "original_text": "his stylus scratching across wax with the cramped, precise hand of a man who'd spent twenty-eight years filing military reports and couldn't stop.",
+      "revised_text": "his stylus moving across wax with the methodical strokes of a man more accustomed to dictating reports than writing them.",
+      "rationale": "Corrects historical anachronism about Roman military reporting practices",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 1, crowd reaction",
+      "original_text": "The word *Samaritan* hit the crowd. People glanced at each other. A few faces hardened. A man near the back spat in the dust.",
+      "revised_text": "The word *Samaritan* hit like a slap. A woman pulled her child closer. The lawyer's jaw clenched so hard the muscle jumped. Behind them, old Mordecai hawked and spat, the sound sharp as a curse in the sudden quiet.",
+      "rationale": "Shows individual reactions to make prejudice visceral rather than telling",
+      "source_note": "Immersive Experience Editor - showing vs telling"
+    },
+    {
+      "location": "Scene 2, paragraph 1",
+      "original_text": "She counted every time, the way a general counts soldiers before a march.",
+      "revised_text": "She counted every time.",
+      "rationale": "Remove em-dash explanation that tells after showing",
+      "source_note": "Voice Consistency Editor - em-dash gloss"
+    },
+    {
+      "location": "Scene 2, paragraph 2",
+      "original_text": "Mary gripped her knees. Counted the women again. Twenty-three. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.",
+      "revised_text": "Mary's fingernails dug crescents into her palms as her eyes swept the circle again. Twenty-three faces. Her mouth went dry\u2014the same dry that came before battle, before the moment when everything you'd built either held or shattered. The fig tree's dappled shade should have been peaceful. The bread smell from Rachel's kitchen should have been comforting. Instead, each ordinary detail felt like sand through an hourglass.",
+      "rationale": "Ground anxiety in physical sensation and make the emotional stakes visceral",
+      "source_note": "Immersive Experience Editor - emotional resonance"
+    },
+    {
+      "location": "Scene 2, paragraph 6",
+      "original_text": "Because within two years, I might not be available.",
+      "revised_text": "Because if persecution comes, I might not be available.",
+      "rationale": "Remove specific timeline knowledge that contradicts uncertainty shown elsewhere",
+      "source_note": "Continuity Auditor - character knowledge anachronism"
+    },
+    {
+      "location": "Scene 3, Judas dialogue",
+      "original_text": "grind what's left of us into dust",
+      "revised_text": "crush what remains of us like grain beneath millstones",
+      "rationale": "Replace modern metaphorical language with period-appropriate agricultural imagery",
+      "source_note": "Historical Authenticity Editor - anachronism language"
+    },
+    {
+      "location": "Scene 3, Judas's grief",
+      "original_text": "Judas's voice had gone flat, the way voices go when the grief underneath is too large to let through the surface.",
+      "revised_text": "Judas's voice cracked on his cousin's name, then went dead flat\u2014the sound of a man who'd screamed himself empty months ago and had nothing left but the facts. His hands shook as he stared at the broken stick.",
+      "rationale": "Show grief in body and voice rather than summarizing",
+      "source_note": "Immersive Experience Editor - emotional resonance"
+    },
+    {
+      "location": "Scene 3, Jesus admission",
+      "original_text": "I don't have an answer for that yet.",
+      "revised_text": "The answer changes depending on how much time we have. And I'm not sure we have enough.",
+      "rationale": "Reframe as strategic uncertainty rather than helplessness to maintain character consistency",
+      "source_note": "Genre Bridge Editor - genre friction"
+    },
+    {
+      "location": "Scene 4, opening",
+      "original_text": "Jesus looked out over the hillside and felt something close to grief.",
+      "revised_text": "Jesus looked out over the hillside and felt his chest tighten\u2014five thousand faces turned toward him with the desperate hunger of people who needed more than bread, more than he had time left to give them. The grief sat in his throat like a stone.",
+      "rationale": "Show emotional weight through visceral physical response",
+      "source_note": "Immersive Experience Editor - interior life"
+    },
+    {
+      "location": "Scene 4, feeding explanation",
+      "original_text": "\"The food was already there,\" Jesus kept his voice gentle. \"Hidden in the crowd. Distributed in small amounts across five thousand people, each one hoarding because they didn't trust that sharing would work. But once we built a visible structure \u2014 organized groups, disciples moving through systematically \u2014 people could see the distribution was real.\"",
+      "revised_text": "Peter stared at the baskets of leftovers, counting again. \"Where did it come from?\" Matthew was questioning families, tracking contributions. \"Look at this,\" he called. \"Every group had hidden resources. They only shared after seeing others share first.\" The pattern emerged as they investigated, not as Jesus explained.",
+      "rationale": "Show discovery through character investigation rather than lecture delivery",
+      "source_note": "Genre Editor - mystery/discovery structure"
+    },
+    {
+      "location": "Scene 4, groups of fifty",
+      "original_text": "Groups of fifty",
+      "revised_text": "Groups of fifty, as the elders organize for festival gatherings",
+      "rationale": "Add cultural grounding for why Jesus would use this Roman-style organization",
+      "source_note": "Historical Authenticity Editor - cultural detail"
+    },
+    {
+      "location": "Scene 4, scarcity explanation",
+      "original_text": "Scarcity is often a distribution problem, not a resource problem",
+      "revised_text": "Sometimes there's enough for everyone - people just don't know how to share it",
+      "rationale": "Use everyday language instead of technical terms for accessibility",
+      "source_note": "Accessibility Editor - concept accessibility"
+    },
+    {
+      "location": "Scene 5, tavern atmosphere",
+      "original_text": "Marcus sat in a Jerusalem tavern, oil lamp smoking and wine going sour in the heat, listening to his replacement deliver the report.",
+      "revised_text": "The tavern reeked of stale wine and unwashed bodies. Marcus's lamp sputtered, sending shadows crawling across scarred wood as his replacement's voice cut through the din of dice and drunken arguments. The wine had gone warm and bitter in his cup\u2014like everything else that night.",
+      "rationale": "Immerse reader in oppressive atmosphere to mirror emotional state",
+      "source_note": "Immersive Experience Editor - sensory detail"
+    },
+    {
+      "location": "Scene 5, wine reference",
+      "original_text": "wine going sour in the heat",
+      "revised_text": "wine growing warm and bitter in the heat",
+      "rationale": "More accurate description of how Roman wine deteriorated",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 5, Marcus documentation",
+      "original_text": "pulled out a roll of papyrus. Five years of documentation.",
+      "revised_text": "pulled out a roll of papyrus\u2014he'd been transferring his most important notes from wax tablets to permanent form. Five years of documentation.",
+      "rationale": "Explain switch from wax tablet to papyrus for consistency",
+      "source_note": "Scientific Accuracy Editor - internal consistency"
+    },
+    {
+      "location": "Scene 5, Mary's fear",
+      "original_text": "Mary held Sarah tighter and walked the other direction, fast, not running \u2014 because running would confirm what watching could only suspect.",
+      "revised_text": "Ice shot through Mary's veins. Her arms instinctively crushed Sarah closer as her daughter's warm weight became both anchor and burden. She forced her feet to maintain their steady pace while every muscle screamed to run, because running would confirm what the watcher's patient stillness already knew.",
+      "rationale": "Show fear through immediate physical response for gut-punch impact",
+      "source_note": "Immersive Experience Editor - visceral moments"
+    },
+    {
+      "location": "Scene 5, final paragraph",
+      "original_text": "A man stood at the far end of the street \u2014 just a shape in the moonlight.",
+      "revised_text": "The man stepped into the lamplight - Marcus's replacement, close enough to have heard everything. Their eyes met across the street. He smiled, turned, and walked away with the unhurried confidence of someone who had just gathered the evidence he needed.",
+      "rationale": "Create specific threat and compulsion to continue reading",
+      "source_note": "Series Arc Editor - chapter handoff"
+    }
+  ],
+  "total": 18
+}

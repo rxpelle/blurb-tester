@@ -1,0 +1,1511 @@
+{
+  "chapter_path": "/Users/randypellegrini/Documents/antigravity/plague_novel/book_4_nazarene_protocol/manuscript/chapters/chapter_12b_the_vigil.md",
+  "review_date": "2026-04-09T09:57:17.229523",
+  "genre": "intellectual-historical-thriller",
+  "personas_used": [
+    "Developmental Editor",
+    "Line Editor",
+    "Accessibility Editor",
+    "Historical Authenticity Editor",
+    "Scientific Accuracy Editor",
+    "Copy Editor",
+    "Genre Editor",
+    "Emotional Resonance Editor",
+    "Sensitivity Editor",
+    "Proofreader",
+    "Immersive Experience Editor",
+    "Acquisitions Editor",
+    "Series Arc Editor",
+    "Thread Tracker",
+    "Binge-Read Tester",
+    "Onboarding Editor",
+    "First-Time Reader",
+    "Physical Tic Auditor",
+    "Genre Bridge Editor",
+    "Repetition Tracker",
+    "Crutch Word Analyst",
+    "Continuity Auditor",
+    "Voice Consistency Editor"
+  ],
+  "notes": [
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "structure",
+      "location": "overall chapter structure",
+      "issue": "Chapter lacks a clear turning point or dramatic arc. Both scenes are essentially static grief vignettes without meaningful progression or change",
+      "suggestion": "Add a moment of realization, decision, or discovery that transforms Mary's understanding or resolve. Perhaps she realizes she must go to the tomb regardless of Sabbath law, or has a vision/memory that changes her perspective",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "pacing",
+      "location": "Scene 1, paragraphs 3-8",
+      "issue": "Extended passages of Mary's restlessness and physical movements become repetitive and drag without advancing character or plot",
+      "suggestion": "Condense the physical restlessness to 2-3 sentences, then pivot to deeper internal revelation or external event. Use the space for more significant character development",
+      "example_before": "She stood. Sat down. Stood again. Crossed the room \u2014 four paces. Touched the wall... She sat down again.",
+      "example_after": "She paced the four steps the room allowed, touching the gritty plaster, needing sensation to anchor her against the images behind her eyes."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "major",
+      "category": "scene purpose",
+      "location": "Scene 2",
+      "issue": "Peter's entrance and interaction with Mary, while emotionally resonant, doesn't sufficiently advance plot or meaningfully develop either character beyond establishing their mutual grief",
+      "suggestion": "Give this scene a concrete purpose: Peter brings news, makes a decision, or reveals information that sets up the resurrection discovery. Use their interaction to advance the larger narrative",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "character development",
+      "location": "Scene 1, memory sequence",
+      "issue": "The distinction between 'inherited' grief (Pi-Ramesses) and personal grief is intellectually interesting but feels forced and takes up significant space without clear payoff",
+      "suggestion": "Streamline this concept. Focus on one or two specific memories of Jesus that demonstrate their unique bond, rather than the extended philosophical distinction between types of grief",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "critical",
+      "category": "chapter hook",
+      "location": "chapter ending",
+      "issue": "Chapter ends with Mary simply staying awake - no compelling reason for reader to turn the page, no question raised, no momentum toward the resurrection",
+      "suggestion": "End with Mary making a decision to break Sabbath and go to the tomb before dawn, or receiving a vision/sign that compels action. Create forward momentum",
+      "example_before": null,
+      "example_after": "Mary did not sleep. As the night deepened, a certainty grew in her chest: law or no law, guards or no guards, she would go to the tomb at first light. Her hands reached for the spice jars."
+    },
+    {
+      "persona": "Developmental Editor",
+      "severity": "minor",
+      "category": "prose efficiency",
+      "location": "throughout",
+      "issue": "Beautiful but sometimes overwrought prose occasionally obscures rather than illuminates emotion and slows pacing",
+      "suggestion": "Tighten approximately 10-15% of the descriptive passages. Let the powerful emotions speak through cleaner, more direct prose in key moments",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "word choice precision",
+      "location": "paragraph 3",
+      "issue": "Generic verb 'was' weakens the description of distance",
+      "suggestion": "Use more precise, active verb to convey the impossibility",
+      "example_before": "The distance between this room and that tomb was perhaps half a mile. It might as well have been the distance to Damascus",
+      "example_after": "The distance between this room and that tomb stretched perhaps half a mile. It might as well have stretched to Damascus"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "redundancy",
+      "location": "paragraph 4",
+      "issue": "Repetitive structure with 'Pain was...' creates awkward rhythm",
+      "suggestion": "Vary sentence structure to improve flow",
+      "example_before": "Pain was occupation. Pain was the body doing something.",
+      "example_after": "Pain occupied her. At least her body was doing something."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph 5",
+      "issue": "'Actually' adds nothing and weakens the sentence",
+      "suggestion": "Remove unnecessary qualifier",
+      "example_before": "which was actually just the shape grief took",
+      "example_after": "which was just the shape grief took"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "sentence rhythm",
+      "location": "paragraph 6",
+      "issue": "Three consecutive short, choppy sentences create monotonous rhythm",
+      "suggestion": "Combine or vary sentence lengths for better flow",
+      "example_before": "Her hands opened in her lap again. And the memory came. Not the ancient ones.",
+      "example_after": "Her hands opened in her lap again, and the memory came\u2014not the ancient ones."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "word choice precision",
+      "location": "paragraph 8",
+      "issue": "'Just' is padding that weakens the impact",
+      "suggestion": "Remove filler word",
+      "example_before": "just her name, spoken with the particular weight",
+      "example_after": "her name, spoken with the particular weight"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "critical",
+      "category": "cliche",
+      "location": "paragraph 14",
+      "issue": "Dead metaphor 'a nail. It went through you' is predictable and loses impact",
+      "suggestion": "Find a more original metaphor that connects to the specific context",
+      "example_before": "This grief was a nail. It went through you.",
+      "example_after": "This grief was limestone dust\u2014fine, inescapable, settling in every crevice of memory."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "passive voice",
+      "location": "paragraph 16",
+      "issue": "Passive construction weakens the action",
+      "suggestion": "Convert to active voice",
+      "example_before": "The door opened after dark.",
+      "example_after": "After dark, Peter opened the door."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "paragraph 17",
+      "issue": "'Simply sat' after 'stillness' is redundant",
+      "suggestion": "Eliminate redundancy",
+      "example_before": "arriving at a place where it simply sat",
+      "example_after": "arriving at exhausted stillness"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "word choice precision",
+      "location": "paragraph 25",
+      "issue": "Weak verb construction 'was not' followed by generic 'It was'",
+      "suggestion": "Use stronger, more precise verbs",
+      "example_before": "The gesture was not forgiveness. It was not absolution. It was bread.",
+      "example_after": "The gesture offered no forgiveness, no absolution. Only bread."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "padding",
+      "location": "paragraph 34",
+      "issue": "'Simply' adds nothing and can be cut",
+      "suggestion": "Remove unnecessary qualifier",
+      "example_before": "There was nothing to say that wouldn't simply make",
+      "example_after": "There was nothing to say that wouldn't make"
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "major",
+      "category": "sentence rhythm",
+      "location": "paragraph 43",
+      "issue": "Excessive sentence fragments create choppy rhythm",
+      "suggestion": "Combine some fragments for smoother flow",
+      "example_before": "Not because of anger. Because of knowledge.",
+      "example_after": "Not because of anger, but because of knowledge."
+    },
+    {
+      "persona": "Line Editor",
+      "severity": "minor",
+      "category": "redundancy",
+      "location": "paragraph 44",
+      "issue": "Repetitive 'Need her' structure becomes mechanical",
+      "suggestion": "Vary the sentence structure",
+      "example_before": "Need her teaching to be less. Need her voice to carry less authority",
+      "example_after": "Need her teaching diminished, her voice stripped of authority"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "critical",
+      "category": "concept accessibility",
+      "location": "Scene 1, paragraph 4",
+      "issue": "The concept of inherited vs. personal grief is introduced without clear explanation, making it confusing for a general reader",
+      "suggestion": "Have Mary explicitly think through the difference when it first occurs, using simpler comparisons. Show her realizing 'This pain feels different from the old memories' before explaining why.",
+      "example_before": "Not the ancient ones. Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust, not the hand reaching left in the dark toward a body twelve hundred years gone. She knew those memories. They arrived vast and impersonal, a grief so old it had become landscape",
+      "example_after": "Not the old pain. That ancient grief lived in her chest like a heavy stone - sad but familiar, like an old scar that only ached in bad weather. Those memories of burning cities and lost loves from a thousand years ago felt huge but distant, like watching someone else's tragedy through thick glass."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "jargon management",
+      "location": "Scene 1, paragraph 8",
+      "issue": "Terms like 'blood's memories' and 'inherited grief' are used without definition, creating barriers for readers",
+      "suggestion": "Replace with clearer language or have Mary think through what these mean in her own words",
+      "example_before": "These were not the blood's memories. These were hers.",
+      "example_after": "These weren't the old memories that had been passed down through generations. These were her own - fresh and sharp and personal."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "exposition balance",
+      "location": "Scene 1, paragraphs 9-11",
+      "issue": "Dense block explaining the difference between inherited and personal grief interrupts the emotional flow",
+      "suggestion": "Break this into smaller pieces woven through Mary's specific memories, showing rather than telling the difference",
+      "example_before": "Inherited grief was vast and impersonal... This grief had his specific face.",
+      "example_after": "The old sadness felt like carrying a heavy bag - tiring but manageable. This was different. This was Jesus's actual laugh, his real hands, the way he said her daughter's name. This grief had teeth."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "major",
+      "category": "concept accessibility",
+      "location": "Scene 2, final paragraphs",
+      "issue": "The complex analysis of Peter's future resentment and power dynamics is too abstract and psychological for target reading level",
+      "suggestion": "Simplify to Mary's immediate emotional understanding using concrete imagery",
+      "example_before": "Peter would carry the fact of her presence at the cross like a splinter beneath his skin \u2014 a reminder, every time he looked at her, that she had done what he could not. And that knowledge would not make him admire her. It would make him need her to be smaller.",
+      "example_after": "She could see it in his eyes - the way he looked at her and flinched. She'd been there. He hadn't. And that fact would sit between them forever, making him need her to be less than what she was."
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "vocabulary complexity",
+      "location": "Scene 1, paragraph 1",
+      "issue": "Words like 'indelible' and 'proximity' may be above target reading level",
+      "suggestion": "Replace with simpler alternatives",
+      "example_before": "permanent, indelible",
+      "example_after": "permanent, burned into her memory"
+    },
+    {
+      "persona": "Accessibility Editor",
+      "severity": "minor",
+      "category": "sentence complexity",
+      "location": "Throughout",
+      "issue": "Many sentences are long and complex with multiple dependent clauses that may challenge target readers",
+      "suggestion": "Break longer sentences into shorter, clearer ones while maintaining the literary quality",
+      "example_before": "She'd looked at him and he'd looked at her and his left eyebrow had risen in that way it did when something mattered, and she'd understood that he knew she'd heard it, and that her hearing it changed what the teaching was.",
+      "example_after": "She'd looked at him and he'd looked at her. His left eyebrow rose the way it did when something mattered. She understood then - he knew she'd heard the hidden meaning. And her hearing it changed everything."
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - language",
+      "location": "Scene 1, paragraph 1",
+      "issue": "The phrase 'might as well have been the distance to Damascus' uses a modern idiomatic construction that doesn't fit 1st century CE Jewish speech patterns",
+      "suggestion": "Replace with period-appropriate phrasing such as 'The distance was as the distance between earth and heaven' or simply 'It was impossibly far'",
+      "example_before": "It might as well have been the distance to Damascus",
+      "example_after": "The distance was as vast as that between earth and heaven"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "critical",
+      "category": "anachronism - material culture",
+      "location": "Scene 1, paragraph 3",
+      "issue": "Plaster walls in a 'lower city' borrowed room is historically inaccurate. Lower city Jerusalem dwellings were typically stone with mud brick, not plastered",
+      "suggestion": "Change to 'rough stone walls' or 'mud brick walls' which would be accurate for lower-class Jerusalem housing",
+      "example_before": "plaster walls still damp from yesterday's rain",
+      "example_after": "rough stone walls still damp from yesterday's rain"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "anachronism - social norms",
+      "location": "Scene 1, paragraph 4",
+      "issue": "The specific measurement 'perhaps half a mile' reflects modern distance conceptualization. Jews of this period would think in terms of a Sabbath day's journey (2,000 cubits) or relative landmarks",
+      "suggestion": "Replace with period-appropriate distance reference: 'beyond a Sabbath day's walk' or 'farther than the Law permitted'",
+      "example_before": "The distance between this room and that tomb was perhaps half a mile",
+      "example_after": "The distance between this room and that tomb was beyond what the Law permitted for Sabbath walking"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "anachronism - language",
+      "location": "Scene 1, paragraph 10",
+      "issue": "'Soldiers waiting for orders' is an anachronistic metaphor - Roman military terminology applied to spice jars",
+      "suggestion": "Use period-appropriate simile such as 'servants awaiting their master' or 'mourners standing vigil'",
+      "example_before": "lined up against the wall like soldiers waiting for orders",
+      "example_after": "lined up against the wall like servants awaiting their master's word"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "material culture - accuracy",
+      "location": "Scene 1, paragraph 14",
+      "issue": "Blackened thumbnail and wood dust in knuckles is accurate for a carpenter (tekton), showing good attention to period occupational details",
+      "suggestion": "This is actually well done - maintain this level of material detail",
+      "example_before": "carpenter's hands, the blackened thumbnail, the wood dust in the knuckle creases",
+      "example_after": "No change needed - this is historically accurate"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "anachronism - language",
+      "location": "Scene 1, paragraph 19",
+      "issue": "'Cedar and sweat and the faint mineral smell of limestone dust' - while cedar was available, it was expensive and unlikely for a tekton's cloak",
+      "suggestion": "Change to 'wool and sweat and limestone dust' - wool being the common material for outer garments",
+      "example_before": "Cedar and sweat and the faint mineral smell of limestone dust",
+      "example_after": "Wool and sweat and the faint mineral smell of limestone dust"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "critical",
+      "category": "anachronism - material culture",
+      "location": "Scene 2, paragraph 12",
+      "issue": "'packed-earth floor' - Jerusalem homes, even lower city ones, typically had stone floors due to abundant local limestone",
+      "suggestion": "Change to 'stone floor' which would be more accurate for Jerusalem housing",
+      "example_before": "until he sat on the packed-earth floor",
+      "example_after": "until he sat on the stone floor"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "minor",
+      "category": "language register",
+      "location": "Throughout",
+      "issue": "The interior monologue style is very modern in its psychological depth and stream-of-consciousness technique",
+      "suggestion": "While effective dramatically, consider occasionally grounding the thoughts in more period-appropriate frameworks (scripture, prayer, traditional laments)",
+      "example_before": "The specific, desperate restlessness of grief that has been told to sit still",
+      "example_after": "The restlessness of mourning held captive by the Law's command to cease from labor"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "suggestion",
+      "category": "cultural detail",
+      "location": "Scene 1, paragraph 11",
+      "issue": "The Sabbath observance details are well-researched and accurate - the absence of work sounds, the enforced stillness",
+      "suggestion": "This demonstrates good understanding of Sabbath restrictions and their psychological impact",
+      "example_before": "No cart wheels on stone. No hammering. No merchants calling.",
+      "example_after": "No change needed - accurately depicts Sabbath observance"
+    },
+    {
+      "persona": "Historical Authenticity Editor",
+      "severity": "major",
+      "category": "cultural detail - ritual accuracy",
+      "location": "Scene 1, paragraph 6",
+      "issue": "The spices mentioned (myrrh, aloe, nard) are historically accurate for burial preparation, showing good research into 1st century Jewish burial customs",
+      "suggestion": "Maintain this attention to ritual detail - it grounds the narrative in authentic period practices",
+      "example_before": "myrrh and aloe and nard",
+      "example_after": "No change needed - these are the correct burial spices"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "historical accuracy",
+      "location": "Scene 1, first paragraph",
+      "issue": "The description of 'wet limestone' smell is scientifically accurate - limestone does have a distinctive mineral odor when wet due to chemical reactions with moisture",
+      "suggestion": "No change needed - this is accurate",
+      "example_before": "the air thick with the smell of wet limestone",
+      "example_after": "No change needed"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "physiological accuracy",
+      "location": "Scene 1, multiple references",
+      "issue": "The physical manifestations of grief described (restless hands, body seeking occupation, muscle aches from stress) are physiologically accurate",
+      "suggestion": "Consider adding one specific detail about stress hormones affecting sleep patterns to enhance the scientific grounding",
+      "example_before": "Mary did not sleep. She sat with her back against the wall",
+      "example_after": "Mary did not sleep - her body flooded with cortisol, the stress response keeping her vigilant even in exhaustion. She sat with her back against the wall"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "sensory science",
+      "location": "Scene 1, memory sequences",
+      "issue": "The description of how scent memory works (cedar, sweat, limestone dust becoming embedded through proximity) aligns with how olfactory memory actually functions neurologically",
+      "suggestion": "No change needed - scientifically sound",
+      "example_before": "she knew the smell of his clothes the way she knew the smell of her daughter's hair \u2014 not because she'd studied it, because proximity wrote it into her body",
+      "example_after": "No change needed"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "psychological accuracy",
+      "location": "Scene 1, grief comparison",
+      "issue": "The distinction between 'inherited grief' and personal grief is psychologically interesting but needs slight clarification - trauma can be inherited epigenetically, but this seems more metaphysical",
+      "suggestion": "Consider a brief clarification that this is Mary's particular way of experiencing layered trauma rather than a general psychological principle",
+      "example_before": "Inherited grief was vast and impersonal",
+      "example_after": "What she thought of as inherited grief was vast and impersonal - the weight of ancestral trauma that her unusual mind seemed to carry"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "minor",
+      "category": "physics/optics",
+      "location": "Scene 2, lamp description",
+      "issue": "The description of lamplight making walls appear to breathe is accurate - flickering flames create moving shadows that can create this optical illusion",
+      "suggestion": "No change needed - scientifically accurate",
+      "example_before": "casting the room in a light that made the walls look like they were breathing",
+      "example_after": "No change needed"
+    },
+    {
+      "persona": "Scientific Accuracy Editor",
+      "severity": "suggestion",
+      "category": "physiological accuracy",
+      "location": "Scene 2, Peter's physical state",
+      "issue": "Peter's physical symptoms (swollen eyes, trembling hands, inability to eat) accurately reflect acute stress and sleep deprivation",
+      "suggestion": "Consider adding a detail about stress affecting his coordination or balance to further ground the physical reality",
+      "example_before": "His fingers were trembling. The bread shook in his grip.",
+      "example_after": "His fingers were trembling, fine motor control compromised by exhaustion and stress. The bread shook in his grip."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 1, paragraph 3",
+      "issue": "Missing comma in compound sentence",
+      "suggestion": "Add comma before 'then'",
+      "example_before": "Her legs ached from yesterday \u2014 six hours standing at the cross, then the walk to the tomb, then the walk here in the rain",
+      "example_after": "Her legs ached from yesterday \u2014 six hours standing at the cross, then the walk to the tomb, then the walk here in the rain"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "style consistency",
+      "location": "Scene 1, paragraph 8",
+      "issue": "Inconsistent dash usage - mix of em-dashes and regular dashes",
+      "suggestion": "Use consistent em-dashes throughout for parenthetical expressions",
+      "example_before": "Not the ancient ones. Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust, not the hand reaching left in the dark toward a body twelve hundred years gone.",
+      "example_after": "Not the ancient ones. Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust, not the hand reaching left in the dark toward a body twelve hundred years gone."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 1, paragraph 9",
+      "issue": "Missing comma after introductory phrase",
+      "suggestion": "Add comma after 'Just an ordinary meal'",
+      "example_before": "Just an ordinary meal. Barley bread, lentil stew, olives in a clay dish.",
+      "example_after": "Just an ordinary meal: barley bread, lentil stew, olives in a clay dish."
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "formatting",
+      "location": "Scene 1, paragraph 10",
+      "issue": "Italicized word 'Mary' should be consistent with dialogue formatting",
+      "suggestion": "Consider using quotation marks for recalled speech instead of italics",
+      "example_before": "and he'd knelt beside her and said *Mary*",
+      "example_after": "and he'd knelt beside her and said \"Mary\""
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 1, paragraph 11",
+      "issue": "Missing comma in compound sentence with coordinating conjunction",
+      "suggestion": "Add comma before 'and'",
+      "example_before": "She'd looked at him and he'd looked at her and his left eyebrow had risen",
+      "example_after": "She'd looked at him, and he'd looked at her, and his left eyebrow had risen"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "style consistency",
+      "location": "Scene 1, paragraph 11",
+      "issue": "Italicized phrase for emphasis",
+      "suggestion": "Consider if this italicization is consistent with established style",
+      "example_before": "he'd said *that's actually more accurate*",
+      "example_after": "he'd said \"that's actually more accurate\""
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 2, paragraph 4",
+      "issue": "Missing comma after introductory dependent clause",
+      "suggestion": "Add comma after 'Word moved through Jerusalem's back streets with the speed of grief'",
+      "example_before": "Word moved through Jerusalem's back streets with the speed of grief \u2014 servants told servants",
+      "example_after": "Word moved through Jerusalem's back streets with the speed of grief\u2014servants told servants"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "suggestion",
+      "category": "style consistency",
+      "location": "Throughout",
+      "issue": "Inconsistent use of em-dashes vs. hyphens",
+      "suggestion": "Standardize on proper em-dashes (\u2014) for all parenthetical expressions and avoid regular hyphens (-) in these contexts",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 2, paragraph 9",
+      "issue": "Missing comma in series",
+      "suggestion": "Add comma before final item in series",
+      "example_before": "the sound of the hammer, the smell of the rain, the image of his chest going still",
+      "example_after": "the sound of the hammer, the smell of the rain, and the image of his chest going still"
+    },
+    {
+      "persona": "Copy Editor",
+      "severity": "minor",
+      "category": "formatting",
+      "location": "Scene 2, paragraph 13",
+      "issue": "Italicized dialogue should use quotation marks",
+      "suggestion": "Change italics to quotation marks for consistency",
+      "example_before": "*You denied him. You swore you didn't know him.*",
+      "example_after": "\"You denied him. You swore you didn't know him.\""
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "plot engine failure",
+      "location": "entire chapter",
+      "issue": "Chapter is entirely character-driven introspection with zero intellectual discovery or mystery advancement. No puzzles, codes, historical secrets, or investigative elements that define intellectual thrillers.",
+      "suggestion": "Insert an intellectual discovery element: Mary finding hidden meaning in Jesus's last words, decoding a message in the spice arrangements, or discovering something about the tomb's construction that suggests deeper mysteries. The grief must catalyze intellectual revelation, not just emotional processing.",
+      "example_before": "Her hands opened in her lap again. And the memory came.",
+      "example_after": "Her hands opened in her lap again, and she noticed the pattern. The spice jars\u2014she'd arranged them three times, but each time in the same sequence: myrrh, aloe, nard. The burial spices of kings, in the precise order described in the ancient Egyptian texts. Why had she chosen this arrangement? The memory surfaced with startling clarity..."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "critical",
+      "category": "genre convention violation",
+      "location": "Scene 1 and Scene 2",
+      "issue": "Chapter reads like literary fiction, not intellectual thriller. No conspiracy elements, historical mysteries, or investigative tension that would appeal to Dan Brown or Umberto Eco readers.",
+      "suggestion": "Weave in thriller elements: Mary realizes something suspicious about the crucifixion details, notices inconsistencies in official accounts, or discovers clues about larger conspiracies. Her inherited memories should reveal historical patterns that illuminate present dangers.",
+      "example_before": "The specific way he broke bread: both hands gripping, a single clean tear",
+      "example_after": "The specific way he broke bread\u2014both hands gripping, the gesture matching exactly what she'd seen in her inherited memories of the Egyptian mystery schools. The same ritual hand position used by initiates when revealing sacred knowledge. Had he been encoding teachings even in ordinary moments?"
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "chapter ending weakness",
+      "location": "final paragraph",
+      "issue": "Ending creates no compulsion to continue. 'Toward tomorrow. And whatever tomorrow held' is too vague and lacks thriller urgency.",
+      "suggestion": "End with a specific mystery or threat that demands resolution. Mary should discover something that creates immediate tension for the next chapter.",
+      "example_before": "Toward tomorrow. And whatever tomorrow held.",
+      "example_after": "Toward tomorrow. And the growing certainty that something about this crucifixion had been orchestrated with precision she was only beginning to understand. The guards weren't just watching the tomb\u2014they were waiting for something. And she intended to find out what."
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "information reveal strategy",
+      "location": "throughout chapter",
+      "issue": "No strategic parceling of new information or clues. The chapter reveals only emotional states, not plot-advancing knowledge.",
+      "suggestion": "Use Mary's grief-heightened perception to notice details others missed. Her inherited memories should unlock new understanding of present events, revealing patterns or conspiracies that drive the plot forward.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "major",
+      "category": "intellectual stakes absence",
+      "location": "both scenes",
+      "issue": "No intellectual puzzle or mystery creates tension. Readers have no reason to continue reading except emotional investment in character suffering.",
+      "suggestion": "Create intellectual stakes: Mary realizes the execution followed patterns from ancient persecution texts, suggesting modern enemies are using historical playbooks. Her investigation begins now, driven by grief but focused on discovery.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Editor",
+      "severity": "minor",
+      "category": "thriller pacing",
+      "location": "Scene 1",
+      "issue": "Extended introspective passages slow momentum to literary fiction pace, not thriller pace.",
+      "suggestion": "Intersperse contemplative moments with discovery beats. Mary's memories should actively reveal new information, not just provide emotional texture.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional pacing",
+      "location": "Scene 1, middle section",
+      "issue": "The transition from Mary's physical restlessness to the memory sequence feels abrupt and emotionally jarring. The reader needs more emotional bridge between her present grief and the flood of specific memories.",
+      "suggestion": "Add 1-2 sentences showing her emotional state shifting from raw restlessness to the softer pain of remembrance. Something that signals the change from present agony to bittersweet recollection.",
+      "example_before": "Her hands opened in her lap again. And the memory came.",
+      "example_after": "Her hands opened in her lap again. The restlessness ebbed, replaced by something quieter but no less painful\u2014the pull of remembrance. And the memory came."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "emotional authenticity",
+      "location": "Scene 1, memory sequence",
+      "issue": "The distinction between 'inherited grief' and personal grief is intellectually compelling but risks feeling too analytical for Mary's current emotional state. A woman in fresh grief wouldn't categorize her pain so clinically.",
+      "suggestion": "Soften the conceptual framing. Let the contrast emerge through experience rather than explicit categorization.",
+      "example_before": "Inherited grief was vast and impersonal... This grief had his specific face.",
+      "example_after": "The old sorrows were like weather\u2014vast, impersonal, something you moved through. This grief was different. This grief had his specific face."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "critical",
+      "category": "character vulnerability",
+      "location": "Scene 2, Peter's entrance",
+      "issue": "Peter's emotional state is powerfully rendered, but Mary's response feels too controlled and knowing. Her immediate understanding of what his denial means for their future relationship reads as too prescient for someone in her current state of grief.",
+      "suggestion": "Keep Mary's perceptiveness but make it more intuitive and less analytical. Show her sensing something has changed without fully understanding what it means yet.",
+      "example_before": "She saw it forming. In the way he looked at her and looked away... his denial was not a moment of human frailty but a fracture in the foundation",
+      "example_after": "Something had shifted between them\u2014she felt it in the quality of his silence, in how he couldn't meet her eyes. What it meant, she couldn't say. Not yet."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "major",
+      "category": "emotional arc",
+      "location": "Scene 2, throughout",
+      "issue": "The scene between Mary and Peter lacks sufficient emotional movement. They begin in silence and end in silence, with little shift in their emotional states or relationship dynamic.",
+      "suggestion": "Add a moment where one of them tries to bridge the gap\u2014perhaps Mary offering a word of understanding, or Peter attempting an apology\u2014and show how/why it fails. This would create emotional movement and make their final silence more poignant.",
+      "example_before": "Peter's weeping slowed. He wiped his face with his sleeve.",
+      "example_after": "Peter's weeping slowed. He wiped his face with his sleeve. 'Mary, I should have\u2014' 'No.' The word came out harder than she'd intended. They both heard it. The space between them widened."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "minor",
+      "category": "subtlety",
+      "location": "Scene 1, final paragraph",
+      "issue": "The ending feels slightly over-explained. The image of Mary reaching 'toward tomorrow' is beautiful but the elaboration diminishes its impact.",
+      "suggestion": "End more simply and allow the image to resonate without explanation.",
+      "example_before": "Toward tomorrow. And whatever tomorrow held.",
+      "example_after": "Toward tomorrow."
+    },
+    {
+      "persona": "Emotional Resonance Editor",
+      "severity": "suggestion",
+      "category": "emotional engagement",
+      "location": "Throughout both scenes",
+      "issue": "While the writing is beautiful and the emotions authentic, consider adding one small moment of unexpected tenderness or connection to prevent the chapter from feeling unrelentingly bleak.",
+      "suggestion": "Perhaps a moment where Mary adjusts the cloak around sleeping Peter, or where they share a brief look of understanding\u2014something tiny but human that provides emotional relief without undermining the grief.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "cultural representation",
+      "location": "Scene 1, paragraph 3",
+      "issue": "The phrase 'the distance to Damascus' could be clearer about cultural/geographical context",
+      "suggestion": "Consider briefly contextualizing Damascus as a significant distant city to reinforce the cultural setting without over-explaining",
+      "example_before": "It might as well have been the distance to Damascus, where her daughter slept without her.",
+      "example_after": "It might as well have been the distance to Damascus\u2014days of travel north\u2014where her daughter slept without her."
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "religious sensitivity",
+      "location": "Scene 1, throughout",
+      "issue": "Sabbath observance is portrayed respectfully but could acknowledge the diversity within Jewish practice",
+      "suggestion": "The portrayal is appropriate but consider that Sabbath observance varied among different Jewish groups in first century Palestine",
+      "example_before": "No travel. No labor. No walking to the tomb",
+      "example_after": "No travel. No labor\u2014the restrictions she'd learned to observe. No walking to the tomb"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "minor",
+      "category": "power dynamics",
+      "location": "Scene 2, final paragraphs",
+      "issue": "The prediction of Peter's future diminishment of Mary's authority is handled thoughtfully but could be more explicit about the historical pattern",
+      "suggestion": "The subtle treatment works well, but consider adding a brief acknowledgment that this pattern affected many women in early Christianity",
+      "example_before": "Need her teaching to be less. Need her voice to carry less authority than his own",
+      "example_after": "Need her teaching to be less. Need her voice to carry less authority than his own\u2014the way men's fear so often required women's diminishment"
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "trauma portrayal",
+      "location": "Scene 1, memory sequences",
+      "issue": "The distinction between inherited trauma and personal grief is handled sensitively",
+      "suggestion": "The portrayal is respectful and psychologically nuanced\u2014no changes needed, but this is a strength worth noting",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Sensitivity Editor",
+      "severity": "suggestion",
+      "category": "agency",
+      "location": "Throughout both scenes",
+      "issue": "Mary's agency and inner life are fully realized",
+      "suggestion": "Excellent portrayal of Mary as a complex individual with her own spiritual and emotional journey\u2014maintain this approach",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "punctuation",
+      "location": "Scene 1, paragraph 6",
+      "issue": "Missing comma in compound sentence",
+      "suggestion": "Add comma before 'because sensation was better'",
+      "example_before": "She pressed harder, feeling the texture, the small imperfections, because sensation was better than the alternative",
+      "example_after": "She pressed harder, feeling the texture, the small imperfections, because sensation was better than the alternative"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "word choice",
+      "location": "Scene 1, paragraph 13",
+      "issue": "Slight awkwardness in phrasing",
+      "suggestion": "Revise for smoother flow",
+      "example_before": "you moved through it the way you moved through weather",
+      "example_after": "you moved through it like weather"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "suggestion",
+      "category": "repetition",
+      "location": "Scene 1, paragraph 14",
+      "issue": "Multiple uses of 'specific' in close proximity",
+      "suggestion": "Vary word choice to avoid repetition",
+      "example_before": "His hands breaking bread at the table in Capernaum... The specific way he broke bread... His voice saying her name for the first time... His face during the sermon... These were not the blood's memories. These were hers. And they hurt differently.",
+      "example_after": "Consider replacing one instance of 'specific' with 'particular' or 'exact'"
+    },
+    {
+      "persona": "Proofreader",
+      "severity": "minor",
+      "category": "consistency",
+      "location": "Scene 2, paragraph 8",
+      "issue": "Tense consistency in description",
+      "suggestion": "Maintain consistent past tense",
+      "example_before": "He'd denied him three times. She'd heard.",
+      "example_after": "He had denied him three times. She had heard."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "showing vs telling",
+      "location": "paragraph 3, Scene 1",
+      "issue": "The phrase 'The specific, desperate restlessness of grief that has been told to sit still' tells us about her emotional state rather than showing it through physical sensation or action",
+      "suggestion": "Show the restlessness through visceral detail\u2014muscle tension, breathing, physical compulsions",
+      "example_before": "Her body wanted to move. The specific, desperate restlessness of grief that has been told to sit still.",
+      "example_after": "Her muscles coiled like rope under tension. Every few heartbeats, her shoulders would jerk as if to stand, then catch themselves. Her breathing came shallow and quick, each exhale a frustrated sigh."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "emotional resonance",
+      "location": "paragraph 7, Scene 1",
+      "issue": "The distinction between inherited grief and personal grief is intellectually fascinating but told rather than felt",
+      "suggestion": "Ground this realization in physical sensation\u2014how each type of grief feels different in her body",
+      "example_before": "Not the ancient ones. Not Pi-Ramesses burning...This was different.",
+      "example_after": "The ancient grief lived in her bones\u2014a deep, settled ache she could breathe around. But this... this clawed at her throat, sharp and immediate, stealing air with every breath."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "major",
+      "category": "visceral moments",
+      "location": "paragraph 13, Scene 1",
+      "issue": "The crucial realization about personal vs inherited grief is primarily intellectual rather than visceral",
+      "suggestion": "Make the emotional distinction hit her body first, then her understanding",
+      "example_before": "Inherited grief was vast and impersonal...This grief had his specific face.",
+      "example_after": "The old grief was a weight she'd learned to carry, settled deep in her chest like a stone worn smooth. But this\u2014this was all edges, tearing at her from the inside with every remembered gesture, every specific detail of his hands, his voice, his laugh."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "sensory detail",
+      "location": "Scene 2 opening",
+      "issue": "Peter's entrance could be more sensory\u2014what Mary hears before she sees him",
+      "suggestion": "Add auditory details of his approach to build tension",
+      "example_before": "The door opened after dark.",
+      "example_after": "Footsteps stopped outside\u2014hesitant, heavy. A hand touched the door, withdrew. Touched again. The latch lifted slowly, as if the person on the other side had to force themselves to enter."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "suggestion",
+      "category": "showing vs telling",
+      "location": "paragraph 6, Scene 2",
+      "issue": "Mary's recognition of Peter's denial is told through exposition rather than shown through observation",
+      "suggestion": "Show her reading it in his body language before the exposition",
+      "example_before": "He'd denied him three times. She'd heard.",
+      "example_after": "His hands shook as he closed the door. His eyes couldn't find hers. She knew before the rumors had even reached her\u2014the way he held his shoulders, the careful distance he kept from the lamplight, the smell of smoke and shame that clung to his clothes."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "minor",
+      "category": "scene grounding",
+      "location": "Scene 2, bread sharing moment",
+      "issue": "The physical choreography of the bread sharing could be clearer",
+      "suggestion": "Show the exact movements and positioning more precisely",
+      "example_before": "She reached beside her mat, where a piece of barley bread sat on a cloth",
+      "example_after": "She reached to her left, fingers finding the rough cloth where she'd set aside the bread hours ago\u2014still soft, though cooling. She tore it slowly, the crust crackling in the silence."
+    },
+    {
+      "persona": "Immersive Experience Editor",
+      "severity": "suggestion",
+      "category": "interior life",
+      "location": "final paragraphs, Scene 2",
+      "issue": "Mary's prophetic insight about the future fracture is powerful but could feel more grounded in present observation",
+      "suggestion": "Root the prediction more firmly in what she's observing right now in Peter's behavior",
+      "example_before": "Mary knew, sitting in that borrowed room...that something had cracked between them",
+      "example_after": "Something shifted in Peter's breathing when he looked at her\u2014not gratitude for her presence at the cross, but a flinch, as if her witness was an accusation. Mary felt the space between them change, becoming not companionable but careful."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "critical",
+      "category": "hook strength",
+      "location": "opening paragraphs",
+      "issue": "Chapter opens with static internal monologue instead of compelling hook. For an intellectual thriller, readers expect momentum, mystery, or revelation - not extended grief meditation",
+      "suggestion": "Open with Mary discovering something unsettling - a strange sound from the tomb's direction, an unexpected visitor, or a memory that reveals new information about Jesus's plans. Keep the emotional weight but add forward momentum",
+      "example_before": "Her hands wouldn't stop. Mary sat on the sleeping mat in the borrowed room...",
+      "example_after": "The sound came again - three measured knocks from somewhere beyond the courtyard wall. Mary's hands stilled in her lap. In Jerusalem's enforced Sabbath silence, even the guards at the tomb shouldn't be moving."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "pacing",
+      "location": "Scene 1 (first 1500 words)",
+      "issue": "Excessive dwelling on Mary's physical restlessness and grief without plot advancement. Intellectual thriller readers will lose patience with extended internal contemplation",
+      "suggestion": "Cut 40% of the repetitive restlessness description. Instead, intersperse memories that reveal new information about Jesus's teachings or plans, creating intrigue about what might happen next",
+      "example_before": "She stood. Sat down. Stood again. Crossed the room \u2014 four paces. Touched the wall...",
+      "example_after": "She stood, remembering Jesus's words from three nights ago: 'Mary, when they seal the tomb, count to the third day.' At the time, she'd thought it was metaphor. Now..."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "market fit",
+      "location": "overall chapter structure",
+      "issue": "Reads more like literary fiction than intellectual thriller. Missing the puzzle elements, historical intrigue, or systems thinking that would appeal to Dan Brown/Katherine Neville readers",
+      "suggestion": "Add a discovery element - perhaps Mary finds a coded message Jesus left, or realizes something about the Roman guard rotation that suggests a plan. Maintain emotional depth but serve the thriller audience",
+      "example_before": "Current focus on pure emotional processing",
+      "example_after": "Emotional processing interrupted by discovery of Jesus's contingency plan or hidden message"
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "major",
+      "category": "series potential",
+      "location": "Peter/Mary conflict",
+      "issue": "The Peter/Mary fracture setup is too subtle and occurs too late in chapter. This relationship dynamic could be crucial for series arc but needs stronger establishment",
+      "suggestion": "Move Peter's arrival earlier and make their ideological differences more explicit. Show how their different approaches to Jesus's teachings will create lasting conflict beyond just the crucifixion witness issue",
+      "example_before": "Mary saw it forming. In the way he looked at her and looked away...",
+      "example_after": "'You think your visions make you his successor,' Peter said finally. 'But I was his rock. I was chosen.' Mary's blood memories stirred - she'd seen this pattern before, in Egypt, in Babylon. The loyal lieutenant who couldn't accept a woman's spiritual authority."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "readability",
+      "location": "paragraph length and structure",
+      "issue": "Many paragraphs run 4-6 sentences with complex nested clauses, potentially challenging for general thriller readers",
+      "suggestion": "Break longer paragraphs into shorter, punchier segments. Vary sentence length more dramatically for better commercial fiction pacing",
+      "example_before": "She'd heard it and filed it in the place where she was keeping everything \u2014 the sound of the hammer, the smell of the rain, the image of his chest going still \u2014 another fact in a growing catalogue of things that had happened in the last thirty hours that the human mind was not designed to hold.",
+      "example_after": "She'd heard it and filed it away. Another impossible fact. The sound of the hammer. The smell of rain. His chest going still. Thirty hours of memories the human mind couldn't hold."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "suggestion",
+      "category": "blurb material",
+      "location": "inherited vs personal grief concept",
+      "issue": "The distinction between inherited (blood memories) and personal grief is fascinating but needs clearer articulation for marketing purposes",
+      "suggestion": "Make this concept more explicit and dramatic. This could be a key unique selling proposition - a woman who carries the genetic memories of 1200 years facing her first personal loss",
+      "example_before": "Inherited grief was vast and impersonal... This grief had his specific face.",
+      "example_after": "For twelve centuries, her bloodline had carried the grief of civilizations. That was ancient pain, manageable. But this - Jesus's face, his hands, his voice saying her name - this was hers alone. And it was destroying her."
+    },
+    {
+      "persona": "Acquisitions Editor",
+      "severity": "minor",
+      "category": "commercial appeal",
+      "location": "historical detail density",
+      "issue": "Rich historical details (plaster walls, limestone smell, etc.) are excellent but sometimes slow narrative momentum",
+      "suggestion": "Maintain historical authenticity but integrate details more dynamically into action or revelation moments rather than static description blocks",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "critical",
+      "category": "throughline dormancy",
+      "location": "entire chapter",
+      "issue": "No throughlines actively advance - Order pursuit absent, keys dormant, philosophical debate not engaged, love echo only appears as internal warmth without progression",
+      "suggestion": "Add at least one scene where Mary discovers or realizes something that advances a throughline - perhaps finding evidence of Order surveillance, or a memory that reveals key location, or philosophical insight about preservation vs control",
+      "example_before": "The chapter focuses entirely on personal grief without connecting to larger narrative threads",
+      "example_after": "Could add: Mary notices unfamiliar men watching the borrowed room, or finds a hidden message/symbol that connects to the Order's pursuit"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "chapter handoff weakness",
+      "location": "final paragraphs",
+      "issue": "Ending focuses on Mary's sleeplessness and 'whatever tomorrow held' - too vague to pull reader forward with specific momentum",
+      "suggestion": "End with a concrete question or discovery that creates urgency - perhaps Mary realizes she must act on something specific, or receives information that changes her plans",
+      "example_before": "Toward tomorrow. And whatever tomorrow held.",
+      "example_after": "Toward the tomb. And the question that had been growing in the silence: why had the guards looked afraid when they sealed the stone?"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "motif tracking",
+      "location": "scattered references",
+      "issue": "Love echo appears only as passive internal warmth - no advancement of the reaching gesture or connection to other carriers across time",
+      "suggestion": "Show Mary's grief triggering a new manifestation of the love echo, or connecting her more explicitly to the chain of carriers - perhaps her reaching gesture becoming more pronounced",
+      "example_before": "the warmth beneath her ribs reaching",
+      "example_after": "her left hand rising unconsciously, reaching toward the tomb with the same gesture that had reached toward burning Pi-Ramesses, the same motion that would echo through forty more generations"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "major",
+      "category": "momentum killer",
+      "location": "Scene 2 resolution",
+      "issue": "Peter's arc resolves too completely within the chapter - his denial, grief, and relationship fracture with Mary are fully explored without leaving open threads",
+      "suggestion": "Leave Peter's resolution incomplete - perhaps end with him making a decision or discovery that will impact future events",
+      "example_before": "Peter fell asleep against the wall sometime before midnight",
+      "example_after": "Peter's eyes opened in the darkness. He had decided something. Tomorrow, he would not fail again."
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "minor",
+      "category": "connective tissue",
+      "location": "opening paragraphs",
+      "issue": "No callbacks to specific events from Chapter 12 beyond general crucifixion references - misses opportunity to strengthen chapter-to-chapter flow",
+      "suggestion": "Include specific detail from Chapter 12 that Mary is processing - perhaps the exact moment she made eye contact with Jesus, or Sarah's last words before leaving for Damascus",
+      "example_before": "the sound of nails being pulled from wood",
+      "example_after": "the sound of nails being pulled from wood - and his eyes finding hers through the rain when the centurion said 'truly this was the son of God'"
+    },
+    {
+      "persona": "Series Arc Editor",
+      "severity": "suggestion",
+      "category": "setup for future chapters",
+      "location": "spice jar description",
+      "issue": "Spice jars mentioned as setup for next chapter but could also seed longer-term plot elements",
+      "suggestion": "Make one of the spices or their arrangement significant to a larger throughline - perhaps the myrrh has special properties, or their arrangement follows a pattern meaningful to the Order",
+      "example_before": "The spice jars she'd purchased yesterday, myrrh and aloe and nard, lined up against the wall like soldiers waiting for orders",
+      "example_after": "The spice jars she'd purchased yesterday - myrrh from the Syrian trader who'd asked too many questions, aloe and nard - arranged in the pattern her blood-memories whispered: three, then one, then three again. The same arrangement she'd seen in dreams of Alexandria."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "critical",
+      "category": "cliffhanger and thread management",
+      "location": "chapter ending",
+      "issue": "Chapter ends on resolution rather than tension. Mary falls into contemplative waiting with no immediate threat, revelation, or compelling question to pull readers forward.",
+      "suggestion": "Add a final beat that creates urgency or mystery. Perhaps Mary hears something outside, or has a vision/memory that changes her understanding, or Peter says something in his sleep that reveals new information.",
+      "example_before": "Toward tomorrow. And whatever tomorrow held.",
+      "example_after": "Toward tomorrow. And whatever tomorrow held. Then, from somewhere in the darkened city, came the sound of running feet on stone\u2014urgent, purposeful, moving toward their street."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "thread closure without replacement",
+      "location": "throughout chapter",
+      "issue": "Chapter closes the thread of 'What is Mary feeling about Jesus's death?' but opens no significant new questions to replace it. The Peter/Mary relationship tension is seeded but not developed into an active mystery.",
+      "suggestion": "Introduce a concrete mystery or threat. Perhaps Mary notices the spice jars have been disturbed, or remembers something Jesus said that she didn't understand before, or receives a message that creates new urgency.",
+      "example_before": "",
+      "example_after": ""
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "major",
+      "category": "pacing and momentum",
+      "location": "Scene 1 (Mary's Sabbath)",
+      "issue": "Extended internal meditation slows momentum significantly. While emotionally powerful, it doesn't advance plot or create new tension for 1,500+ words.",
+      "suggestion": "Shorten the introspective sections and add external elements that create tension. Perhaps Mary struggles with a decision, or receives disturbing news, or the guards outside behave strangely.",
+      "example_before": "",
+      "example_after": ""
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "minor",
+      "category": "scene transition",
+      "location": "between scenes",
+      "issue": "The transition from Scene 1 to Scene 2 lacks a clear time marker beyond 'after dark,' making the pacing feel unclear.",
+      "suggestion": "Add specific time reference or external marker to orient readers more precisely.",
+      "example_before": "The door opened after dark.",
+      "example_after": "Near the end of Sabbath, as the first stars appeared through the high window, the door opened."
+    },
+    {
+      "persona": "Thread Tracker",
+      "severity": "suggestion",
+      "category": "foreshadowing and setup",
+      "location": "Peter's section",
+      "issue": "The seeds of Peter/Mary future conflict are planted but could be more explicitly tied to upcoming ecclesiastical tensions.",
+      "suggestion": "Have Peter make a comment or gesture that more clearly shows his need to diminish Mary's authority, setting up future power struggles more concretely.",
+      "example_before": "",
+      "example_after": ""
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "opening momentum",
+      "location": "first 10 lines",
+      "issue": "Opens with introspective hand-watching instead of compelling action or dialogue. Takes 200+ words to establish even basic context.",
+      "suggestion": "Start with more immediate tension or stakes. Maybe open with her trying to leave for the tomb and being stopped by Sabbath law, or with the sound of the door opening (Peter's arrival).",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "pacing killers",
+      "location": "paragraphs 4-8 of Scene 1",
+      "issue": "Extended description of the room and Mary's restlessness becomes repetitive. Reader understands she's agitated after the first example.",
+      "suggestion": "Cut 2-3 paragraphs of room description and physical restlessness. Get to the memory sequences faster - those have emotional hooks.",
+      "example_before": "She stood. Sat down. Stood again. Crossed the room \u2014 four paces. Touched the wall...",
+      "example_after": "She stood, sat, stood again. The room held almost nothing..."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "engagement killer",
+      "location": "middle of Scene 1 - memory sequence",
+      "issue": "The extended memory catalog (bread-breaking, name-saying, etc.) reads like a greatest hits compilation rather than driving toward something urgent.",
+      "suggestion": "Focus on one or two specific, visceral memories that build to a revelation or decision. Make memories serve plot momentum, not just characterization.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "critical",
+      "category": "chapter ending weakness",
+      "location": "final paragraphs",
+      "issue": "Chapter ends with Mary sitting and waiting - pure passivity. No hook, no tension, no reason to turn the page.",
+      "suggestion": "End with something that propels forward: a sound outside, a decision forming, or a revelation that changes her understanding. Give readers a reason to continue.",
+      "example_before": null,
+      "example_after": "The lamp flickered once and went out. In the darkness, Mary made her decision."
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "major",
+      "category": "put-down point",
+      "location": "Scene 2 opening",
+      "issue": "Peter's arrival scene starts strong but quickly becomes another static emotional tableau. Two people sitting in silence for pages.",
+      "suggestion": "Add conflict or revelation. Maybe Peter brings news, or they argue about what to do next, or Mary makes a demand of him.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "minor",
+      "category": "scene transition",
+      "location": "between Scene 1 and 2",
+      "issue": "Time jump from daylight to 'after dark' with no transition creates momentary disorientation.",
+      "suggestion": "Add a brief transitional sentence about the day passing or the light changing.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Binge-Read Tester",
+      "severity": "suggestion",
+      "category": "intellectual thriller elements",
+      "location": "throughout",
+      "issue": "Chapter lacks the systems/historical analysis elements that make this an intellectual thriller rather than straight historical fiction.",
+      "suggestion": "Consider adding Mary's thoughts about the political implications of the crucifixion, or how this fits into the empire's patterns of control.",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "suggestion",
+      "category": "concept introduction",
+      "location": "Scene 1, paragraph 8",
+      "issue": "The 'blood's memories' vs personal memories distinction is introduced through terminology before being fully experienced",
+      "suggestion": "Show Mary experiencing the different types of grief first, then introduce the blood's memories concept as her attempt to understand what's happening to her",
+      "example_before": "Not the ancient ones. Not Pi-Ramesses burning... She knew those memories. They arrived vast and impersonal, a grief so old it had become landscape",
+      "example_after": "The first memory that came was vast and impersonal - a burning city, twelve centuries gone, grief so old it felt like weather moving through her. Then his hands breaking bread. His voice saying her name. These felt different. Sharp where the others were worn smooth. Personal where the others were..."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "show-before-name",
+      "location": "Scene 1, paragraph 10",
+      "issue": "The term 'inherited grief' is named before we fully feel its texture compared to personal grief",
+      "suggestion": "Let Mary feel both types of grief viscerally first, then give her the framework to understand the difference",
+      "example_before": "Inherited grief was vast and impersonal... This grief had his specific face.",
+      "example_after": "One kind of sorrow moved through her like weather - ancient, impersonal, carrying the weight of centuries. The other pierced like a nail - his specific face, his specific hands, the exact sound of his laugh..."
+    },
+    {
+      "persona": "Onboarding Editor",
+      "severity": "minor",
+      "category": "terminology",
+      "location": "Scene 2, paragraph 15",
+      "issue": "'Companionable silence' is defined rather than demonstrated",
+      "suggestion": "Show what companionable silence with Jesus felt like before contrasting it with this silence",
+      "example_before": "The silence was not companionable. Companionable silence was what she'd had with Jesus \u2014 two people at ease in each other's quiet",
+      "example_after": "This silence pressed between them like a stone. She remembered other silences - sitting beside Jesus on a hillside, their breathing synchronized, the space between them warm and inhabited. This was different."
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "assumed knowledge",
+      "location": "opening paragraphs",
+      "issue": "The chapter assumes I know who Mary of Magdala is, her relationship to Jesus, and why she's grieving without any context",
+      "suggestion": "Add a brief contextual sentence early on identifying Mary as a close follower/disciple of Jesus who was executed yesterday",
+      "example_before": "Mary sat on the sleeping mat in the borrowed room",
+      "example_after": "Mary, one of Jesus's closest followers, sat on the sleeping mat in the borrowed room"
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "jargon without context",
+      "location": "paragraph 4",
+      "issue": "References to 'blood memory,' 'Pi-Ramesses,' and 'twelve hundred years gone' are completely unexplained",
+      "suggestion": "Either cut these references entirely or provide brief context about what blood memory means in this world",
+      "example_before": "Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust, not the hand reaching left in the dark toward a body twelve hundred years gone",
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "critical",
+      "category": "series entry confusion",
+      "location": "throughout Scene 1",
+      "issue": "The distinction between 'inherited grief' and personal grief assumes knowledge of the series' supernatural/genetic memory system",
+      "suggestion": "Either focus entirely on Mary's personal grief or briefly explain why she has memories of ancient events",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "character introduction",
+      "location": "Scene 2 opening",
+      "issue": "Peter appears with no introduction - I don't know who he is or his significance to Mary/Jesus",
+      "suggestion": "Add a brief identifier when he first appears: 'Peter, one of Jesus's twelve disciples' or similar",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "assumed knowledge",
+      "location": "Scene 2, Peter's entrance",
+      "issue": "The significance of Peter's 'three denials' is treated as known fact - I need context about what he denied and why it matters",
+      "suggestion": "Add a sentence explaining what Peter denied (knowing Jesus) and the context (while Jesus was being tried/executed)",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "major",
+      "category": "world-building gaps",
+      "location": "Scene 1, memory sequences",
+      "issue": "The mechanics of Mary's different types of memories (personal vs. inherited) are never explained but seem central to her character",
+      "suggestion": "Either remove the inherited memory references or add brief explanation of why she has ancestral memories",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "character relationships",
+      "location": "references to Sarah/daughter",
+      "issue": "Sarah is mentioned but I don't know who she is or why she's in Damascus",
+      "suggestion": "Add brief context: 'her daughter Sarah, safely away from Jerusalem' or similar",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "First-Time Reader",
+      "severity": "minor",
+      "category": "setting confusion",
+      "location": "various references to teaching/traveling",
+      "issue": "References to Jesus as teacher and their travels together lack context for new readers",
+      "suggestion": "Add brief context about Jesus's role as traveling teacher/rabbi",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Physical Tic Auditor",
+      "severity": "major",
+      "category": "hands - overused gesture",
+      "location": "throughout chapter",
+      "issue": "Hands opening/closing/spreading/curling appears 9+ times, becoming a repetitive physical tic",
+      "suggestion": "Vary Mary's restless gestures - fingers pressing into palms, nails digging into wrists, hands going cold/numb, gripping fabric",
+      "example_before": "Opening and closing. Fingers spreading, curling, spreading again... Her hands opened in her lap again",
+      "example_after": "Fingers pressing into palms, leaving crescent marks. Nails finding the soft skin of her wrists... Her hands went still, bloodless against her thighs"
+    },
+    {
+      "persona": "Physical Tic Auditor",
+      "severity": "major",
+      "category": "hands trembling/shaking",
+      "location": "paragraph mentioning Peter's bread",
+      "issue": "Peter's fingers trembling with bread is a clich\u00e9d fear/shame response",
+      "suggestion": "Show his emotional state through loss of fine motor control or physical heaviness instead",
+      "example_before": "His fingers were trembling. The bread shook in his grip.",
+      "example_after": "His grip was clumsy, uncertain. The bread felt impossibly heavy in his palm."
+    },
+    {
+      "persona": "Physical Tic Auditor",
+      "severity": "minor",
+      "category": "pressing hands flat",
+      "location": "early in chapter",
+      "issue": "Mary pressing palm against stone (imagined) and fingertips against wall - repeated pressure gestures",
+      "suggestion": "Use one pressure gesture and vary the other - perhaps tracing, scratching, or tapping",
+      "example_before": "press her palm against the stone... pressed harder, feeling the texture",
+      "example_after": "press her palm against the stone... traced the rough surface with one finger"
+    },
+    {
+      "persona": "Physical Tic Auditor",
+      "severity": "minor",
+      "category": "shoulders",
+      "location": "Peter's entrance scene",
+      "issue": "Peter's shoulders described twice in short succession - braced, then shaking",
+      "suggestion": "Keep one shoulder reference, replace other with different body language",
+      "example_before": "shoulders braced... His shoulders shook",
+      "example_after": "shoulders braced... His whole frame contracted with the force of his grief"
+    },
+    {
+      "persona": "Physical Tic Auditor",
+      "severity": "suggestion",
+      "category": "eyes closing/pressing",
+      "location": "middle section",
+      "issue": "Mary pressing palms against eyes is somewhat predictable for grief",
+      "suggestion": "Consider alternatives like covering her mouth, touching her throat, or holding her arms",
+      "example_before": "Mary pressed her palms against her eyes",
+      "example_after": "Mary wrapped her arms tight around her ribs, holding herself together"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "critical",
+      "category": "speculative grounding",
+      "location": "Scene 1, paragraph 9",
+      "issue": "Blood memory transition is too abrupt and unexplained for historical fiction readers. The shift from 'Not the ancient ones' to describing Pi-Ramesses feels like fantasy without scientific anchor",
+      "suggestion": "Add 2-3 sentences connecting grief triggers to documented psychological phenomena (traumatic memory, ancestral trauma studies). Something like: 'Grief had a way of awakening dormant memories\u2014not just her own, but the deeper ones, passed through bloodlines like scars through generations. Scholars in Alexandria spoke of how trauma lived in the body's very essence...'",
+      "example_before": "Her hands opened in her lap again. And the memory came. Not the ancient ones.",
+      "example_after": "Her hands opened in her lap again. The memory came\u2014not the immediate grief that belonged to her alone, but something older, deeper. Grief had a way of awakening what lay dormant in the blood, the way physicians said some ailments could pass from mother to child through the very essence of life itself."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "thriller pacing",
+      "location": "Scene 1, paragraphs 4-8",
+      "issue": "700+ words of static description with no dialogue, action, or new information. Thriller readers will skim or bail here",
+      "suggestion": "Break up with micro-actions: sounds from outside, someone knocking/checking on her, physical interaction with the spice jars. Add one line of overheard conversation that hints at political aftermath",
+      "example_before": "She stood. Sat down. Stood again...",
+      "example_after": "She stood. Sat down. Voices in the courtyard\u2014quick, hushed. '...Pilate's posted extra guards...' Someone hurried past. She stood again."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "historical anchor points",
+      "location": "Scene 1, paragraph 9-12",
+      "issue": "Pi-Ramesses reference lacks historical grounding that would reassure historical fiction readers this isn't fantasy",
+      "suggestion": "Add one sentence connecting to documented Egyptian-Jewish historical connections or archaeological evidence of Ramesses II's building projects using Hebrew labor",
+      "example_before": "Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust",
+      "example_after": "Not Pi-Ramesses burning\u2014the great city Ramesses II had built with Hebrew hands, before Moses led them out\u2014not the workshop with its smell of cassia and copper dust"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "major",
+      "category": "genre friction",
+      "location": "Scene 2, paragraphs 15-20",
+      "issue": "Extended silence passage (300+ words) with no dialogue or action. This is where thriller readers abandon literary fiction",
+      "suggestion": "Add one moment of physical interaction\u2014Peter attempting to speak, Mary making tea, sounds from outside. Keep the introspection but ground it in action",
+      "example_before": "Neither spoke. The silence was not companionable...",
+      "example_after": "Neither spoke. Peter shifted, opened his mouth as if to break the silence, then closed it. Mary reached for the water jar\u2014her hands needed something to do. The silence was not companionable..."
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "literary depth",
+      "location": "Scene 1, paragraph 6",
+      "issue": "Beautiful sensory writing but could be more emotionally specific to deepen literary appeal",
+      "suggestion": "Connect the physical sensations more directly to the emotional state",
+      "example_before": "The plaster was cool and gritty under her fingertips. She pressed harder, feeling the texture",
+      "example_after": "The plaster was cool and gritty under her fingertips\u2014real, immediate, unlike the terrible softness of his skin in those final hours. She pressed harder, needing something that would press back"
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "minor",
+      "category": "bridge moments",
+      "location": "Scene 2, final paragraph",
+      "issue": "Strong ending that serves all three audiences well\u2014maintain this quality throughout",
+      "suggestion": "This paragraph successfully bridges genres: literary prose, historical atmosphere, thriller setup for next chapter. Model other sections on this balance",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Genre Bridge Editor",
+      "severity": "suggestion",
+      "category": "suspension of disbelief",
+      "location": "Scene 1, inherited memory sections",
+      "issue": "The hardest ask is blood memory. Currently feels too mystical for historical fiction readers",
+      "suggestion": "Ground in period beliefs about bloodlines, ancestral knowledge, or medical theories. Ancient world had concepts of inherited traits that weren't supernatural",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Repetition Tracker",
+      "severity": "minor",
+      "category": "backstory restated",
+      "location": "Scene 1, paragraph 8",
+      "issue": "Mary's origin memories (Pi-Ramesses burning, workshop with cassia and copper dust, the hand reaching left) are fully restated with the same details and emotional register as in previous chapters",
+      "suggestion": "Compress to fragments or brief references since these have been established. Perhaps just: 'Not the ancient ones. Not Pi-Ramesses, not the workshop, not the hand reaching left toward twelve centuries of loss. She knew those memories - vast, impersonal, landscape.'",
+      "example_before": "Not the ancient ones. Not Pi-Ramesses burning, not the workshop with its smell of cassia and copper dust, not the hand reaching left in the dark toward a body twelve hundred years gone. She knew those memories. They arrived vast and impersonal, a grief so old it had become landscape",
+      "example_after": "Not the ancient ones. Not Pi-Ramesses, not the workshop, not the hand reaching left toward twelve centuries of loss. She knew those memories - vast, impersonal, landscape."
+    },
+    {
+      "persona": "Repetition Tracker",
+      "severity": "minor",
+      "category": "technique shown again",
+      "location": "Scene 1, paragraph 8",
+      "issue": "The distinction between inherited vs. personal grief is explained in full when this concept has been established in earlier chapters",
+      "suggestion": "After first establishment, this could be handled with a brief reference rather than the full explanation about inherited grief being 'vast and impersonal' vs. personal grief having 'his specific face'",
+      "example_before": "Inherited grief was vast and impersonal \u2014 the sorrow of a thousand years compressed into a warmth beneath the ribs... This grief had his specific face.",
+      "example_after": "The inherited grief was landscape. This grief was a nail. It went through you."
+    },
+    {
+      "persona": "Repetition Tracker",
+      "severity": "suggestion",
+      "category": "motif usage",
+      "location": "Scene 2, throughout",
+      "issue": "The bread-offering/bread-breaking motif appears frequently throughout the chapter and series",
+      "suggestion": "Consider whether all instances are necessary or if some could be varied. The motif is powerful but may be approaching overuse",
+      "example_before": "She tore the bread in half. Held a piece toward Peter... His hands tearing the bread \u2014 carpenter's hands...",
+      "example_after": "Consider varying one instance - perhaps Mary offers water instead, or simply gestures to the mat beside her"
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "major",
+      "category": "crutch word - vague language",
+      "location": "throughout chapter",
+      "issue": "Overuse of 'something' as vague placeholder - 17 instances total, well above the 5+ threshold",
+      "suggestion": "Replace most instances with specific, concrete language. The pattern 'something [adjective]' appears frequently and weakens prose immediacy.",
+      "example_before": "something harder and quieter, a stillness that wasn't peace but exhaustion",
+      "example_after": "a granite stillness that wasn't peace but exhaustion"
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "major",
+      "category": "crutch word - em dash overuse",
+      "location": "throughout chapter",
+      "issue": "47 em dashes total - exceeds 40+ threshold. Many could be replaced with periods or commas for cleaner flow",
+      "suggestion": "Convert roughly half to periods, commas, or colons. Reserve em dashes for the most impactful interruptions.",
+      "example_before": "The room held almost nothing. The mat. A clay lamp, unlit \u2014 no need for flame, the daylight came grey and flat through the single high window.",
+      "example_after": "The room held almost nothing. The mat. A clay lamp, unlit: no need for flame when daylight came grey and flat through the single high window."
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "minor",
+      "category": "crutch word - filtering",
+      "location": "multiple paragraphs",
+      "issue": "8 instances of filtering with 'felt' - could be more immediate",
+      "suggestion": "Remove filtering to make sensations more direct",
+      "example_before": "feeling the texture, the small imperfections",
+      "example_after": "the texture, the small imperfections pressed into her fingertips"
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "minor",
+      "category": "habitual constructions",
+      "location": "paragraph 8 and others",
+      "issue": "3 instances of 'the way' as simile starter, approaching the 4+ threshold",
+      "suggestion": "Vary constructions to avoid repetitive pattern",
+      "example_before": "the way you moved through weather",
+      "example_after": "like moving through weather"
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "suggestion",
+      "category": "crutch word - somehow",
+      "location": "no instances found",
+      "issue": "Good - no vague causation with 'somehow'",
+      "suggestion": "Continue avoiding this vague construction",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Crutch Word Analyst",
+      "severity": "suggestion",
+      "category": "paragraph openers",
+      "location": "throughout",
+      "issue": "Good variety in paragraph openers - no word starts 4+ paragraphs",
+      "suggestion": "Continue this varied approach",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Continuity Auditor",
+      "severity": "critical",
+      "category": "character knowledge",
+      "location": "Scene 2, paragraph discussing Peter's denial",
+      "issue": "Mary has detailed knowledge of Peter's three denials including specific details like the rooster crowing, but no plausible source for this information is established",
+      "suggestion": "Either establish how Mary learned these specific details (messenger, witness account) or limit her knowledge to general rumors",
+      "example_before": "Peter in the high priest's courtyard, asked three times, denying three times, the rooster crowing at the third denial like a blade falling",
+      "example_after": "Add: 'The servant woman who brought the bread had whispered it\u2014Peter in the high priest's courtyard, denying he knew Jesus when questioned by the guards.'"
+    },
+    {
+      "persona": "Continuity Auditor",
+      "severity": "major",
+      "category": "object tracking",
+      "location": "Scene 1, paragraph about spice jars",
+      "issue": "Mary has spice jars (myrrh, aloe, nard) but no clear explanation of when/how she acquired them during Sabbath restrictions",
+      "suggestion": "Clarify that these were purchased before Sabbath began (Friday) or explain how she obtained them on Sabbath",
+      "example_before": "The spice jars she'd purchased yesterday, myrrh and aloe and nard",
+      "example_after": "The spice jars she'd purchased Friday before sunset, myrrh and aloe and nard"
+    },
+    {
+      "persona": "Continuity Auditor",
+      "severity": "major",
+      "category": "time consistency",
+      "location": "Header and Scene 2",
+      "issue": "Chapter header shows dual POV (Mary/Simon Peter) but Scene 1 is entirely Mary's POV and Scene 2 shifts to Mary observing Peter rather than true Peter POV",
+      "suggestion": "Either change header to 'Mary of Magdala' only or add genuine Peter POV sections",
+      "example_before": "POV Character: Mary of Magdala / Simon Peter",
+      "example_after": "POV Character: Mary of Magdala"
+    },
+    {
+      "persona": "Continuity Auditor",
+      "severity": "minor",
+      "category": "location consistency",
+      "location": "Scene 1, first paragraph",
+      "issue": "Room described as both 'narrow space off a courtyard' and having 'a single high window' - unclear how courtyard access relates to window placement",
+      "suggestion": "Clarify the room's layout and access points for better spatial understanding",
+      "example_before": null,
+      "example_after": null
+    },
+    {
+      "persona": "Continuity Auditor",
+      "severity": "minor",
+      "category": "internal consistency",
+      "location": "Scene 2, bread offering",
+      "issue": "Mary hasn't eaten all day but still has bread to offer Peter - minor inconsistency about her food situation",
+      "suggestion": "Briefly explain the bread was brought by the house owner but Mary couldn't eat it",
+      "example_before": "She reached beside her mat, where a piece of barley bread sat on a cloth \u2014 the remains of a meal she hadn't eaten",
+      "example_after": "She reached beside her mat, where a piece of barley bread sat on a cloth \u2014 brought hours ago by the house's owner, untouched because her throat refused food"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "critical",
+      "category": "narrator-as-essayist",
+      "location": "Scene 1, paragraph 5",
+      "issue": "Essay-mode intrusion disguised as character observation",
+      "suggestion": "Cut the abstract commentary and stay with Mary's physical experience of restlessness",
+      "example_before": "The specific, desperate restlessness of grief that has been told to sit still.",
+      "example_after": "Direct focus to Mary's physical sensations without the analytical framework"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "critical",
+      "category": "em-dash gloss",
+      "location": "Scene 1, paragraph 3",
+      "issue": "Author explaining what the image means instead of trusting it",
+      "suggestion": "End at 'six guards were still standing between her and the body.' Delete the explanatory clause after the dash",
+      "example_before": "that the six guards were still standing between her and the body of the man she'd helped wrap in linen twenty hours ago. She could not go. The distance between this room and that tomb was perhaps half a mile. It might as well have been the distance to Damascus, where her daughter slept without her.",
+      "example_after": "Trust the concrete image without explaining its emotional significance"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "major",
+      "category": "aphorism insertion",
+      "location": "Scene 1, paragraph 7",
+      "issue": "Pull-quote style wisdom that sounds like book jacket copy",
+      "suggestion": "Convert to Mary's specific physical experience rather than philosophical observation",
+      "example_before": "As if stillness were holy when it was actually just the shape grief took when it had nowhere to go.",
+      "example_after": "Focus on Mary's bodily sensations and specific frustrations with Sabbath restrictions"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "major",
+      "category": "telling after showing",
+      "location": "Scene 1, paragraph 11",
+      "issue": "Explains the emotional weight after the image already carries it",
+      "suggestion": "End the paragraph at 'two people reading the same text aloud.' Delete the explanatory sentence",
+      "example_before": "two people reading the same text aloud, each one hearing what the other brought to it. Not a teacher delivering knowledge to a student. Two people reading the same text aloud, each one hearing what the other brought to it.",
+      "example_after": "Let the image of reading together carry the emotional weight without explanation"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "major",
+      "category": "narrator-as-essayist",
+      "location": "Scene 1, paragraph 14",
+      "issue": "Abstract taxonomy of grief types that sounds like psychological analysis",
+      "suggestion": "Stay with Mary's specific physical experience of both memories rather than categorizing them",
+      "example_before": "Inherited grief was vast and impersonal... You could hold inherited grief the way you held a stone... This grief had his specific face.",
+      "example_after": "Show the difference through Mary's bodily response to different memories"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "minor",
+      "category": "series-bible language",
+      "location": "Header information",
+      "issue": "Characters wouldn't think in terms of 'Generation 42 of 112'",
+      "suggestion": "Remove generation numbering from character-focused scenes",
+      "example_before": "**Generation:** 42 of 112",
+      "example_after": "This metadata belongs in outline documents, not story text"
+    },
+    {
+      "persona": "Voice Consistency Editor",
+      "severity": "minor",
+      "category": "future-knowledge winking",
+      "location": "Scene 2, paragraph 26",
+      "issue": "Mary predicting Peter's future behavior with impossible certainty",
+      "suggestion": "Ground this in what Mary observes now rather than confident prediction of future church dynamics",
+      "example_before": "She saw it forming. In the way he looked at her and looked away... then his denial was not a moment of human frailty but a fracture in the foundation of everything he would build after.",
+      "example_after": "Focus on what Mary sees in this moment without projecting church history"
+    }
+  ],
+  "summary": "Review complete: 147 notes from 23 personas. Critical: 20, Major: 50, Minor: 55, Suggestions: 22. Overall grade: F.",
+  "overall_grade": "F",
+  "counts": {
+    "critical": 20,
+    "major": 50,
+    "minor": 55,
+    "suggestion": 22,
+    "total": 147
+  }
+}

@@ -547,13 +547,13 @@ async def writing_continuity_scan(
         use_ai: Enable AI-powered semantic checks via Claude (costs API tokens).
     """
     full_scan, *_ = _import_continuity_checker()
+    from pathlib import Path
 
     def _run():
         result = full_scan(
-            manuscript_path=manuscript_path,
-            bible_path=bible_path,
-            baseline_path=baseline_path,
-            severity=severity,
+            manuscript_path=Path(manuscript_path),
+            bible_path=Path(bible_path) if bible_path else None,
+            baseline_path=Path(baseline_path) if baseline_path else None,
             use_ai=use_ai,
         )
         if hasattr(result, '__dict__'):
@@ -581,13 +581,13 @@ async def writing_continuity_cross_ref(
         use_ai: Enable AI-powered semantic checks.
     """
     _, cross_reference, *_ = _import_continuity_checker()
+    from pathlib import Path
 
     def _run():
         result = cross_reference(
-            current_path=current_path,
-            previous_path=previous_path,
-            bible_path=bible_path,
-            severity=severity,
+            current_path=Path(current_path),
+            previous_path=Path(previous_path),
+            bible_path=Path(bible_path) if bible_path else None,
             use_ai=use_ai,
         )
         if hasattr(result, '__dict__'):

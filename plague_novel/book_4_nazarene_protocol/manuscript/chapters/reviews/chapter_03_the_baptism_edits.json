@@ -1,0 +1,75 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 8",
+      "original_text": "The boy's back arched. His mouth opened under water \u2014 John saw the bubble stream erupt \u2014 and his hands came up clawing at nothing. Not at John, not at the surface. At something only he could see.",
+      "revised_text": "The boy's back arched. His mouth opened underwater, releasing a stream of bubbles, his hands clawing at something only he could see.",
+      "rationale": "Condenses repetitive phrasing while maintaining the essential visual and dramatic impact",
+      "source_note": "Line Editor: Repetitive phrasing about the boy's condition"
+    },
+    {
+      "location": "Scene 1, paragraph 15",
+      "original_text": "He'd been seeing it since he was three years old.",
+      "revised_text": "He'd seen it since age three.",
+      "rationale": "Uses active voice for stronger prose rhythm and eliminates weak 'had been' construction",
+      "source_note": "Line Editor: Weak verb construction with 'had been'"
+    },
+    {
+      "location": "Scene 1, paragraph 20",
+      "original_text": "the cold wrapped around him completely",
+      "revised_text": "the cold wrapped around him",
+      "rationale": "Removes unnecessary intensifier for tighter prose",
+      "source_note": "Line Editor: Unnecessary intensifier"
+    },
+    {
+      "location": "Scene 2, opening paragraph",
+      "original_text": "Evening crept across the wilderness, the Jordan turning amber as long shadows reached from the western ridges. Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memory \u2014 the Jordan, water closing over his head, a seal breaking. The specifics were unclear. The pattern was certain.",
+      "revised_text": "Evening crept across the wilderness, the Jordan turning amber as long shadows reached from the western ridges. Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memory \u2014 the Jordan, water closing over his head, a seal breaking \u2014 though the specifics remained unclear while the pattern held certain.",
+      "rationale": "Varies sentence length and structure to eliminate monotonous rhythm of consecutive short sentences",
+      "source_note": "Line Editor: Four consecutive short, choppy sentences create monotonous rhythm"
+    },
+    {
+      "location": "Scene 3, paragraph 4",
+      "original_text": "The vision didn't linger. It pushed past the overcrowded city",
+      "revised_text": "The vision pushed past the overcrowded city",
+      "rationale": "Removes unnecessary verbal padding for tighter prose",
+      "source_note": "Line Editor: Unnecessary phrase"
+    },
+    {
+      "location": "Scene 3, paragraph 12",
+      "original_text": "The girl was crying. Others too.",
+      "revised_text": "The girl wept. Others joined her.",
+      "rationale": "Replaces generic verb construction with stronger, more specific action",
+      "source_note": "Line Editor: Generic verb construction weakens intensity"
+    },
+    {
+      "location": "Scene 3, paragraph 15",
+      "original_text": "And Jesus felt her hand find his \u2014 no, the man's \u2014 and the warmth that passed between them was so specific",
+      "revised_text": "And Jesus felt the woman's hand find the craftsman's \u2014 felt it as if those hands were his own \u2014 and the warmth that passed between them was so specific",
+      "rationale": "Clarifies confusing pronoun reference to eliminate reader confusion",
+      "source_note": "Line Editor: Confusing pronoun reference creates reader confusion"
+    },
+    {
+      "location": "Scene 4, paragraph 3",
+      "original_text": "Jesus broke the surface choking, river water streaming from his mouth, eyes wild \u2014 the face of someone who'd seen things that shouldn't be possible.",
+      "revised_text": "Jesus broke the surface choking, river water streaming from his mouth, eyes wild with impossible visions.",
+      "rationale": "Eliminates redundant phrasing while maintaining the dramatic impact",
+      "source_note": "Line Editor: Redundant phrasing"
+    },
+    {
+      "location": "Scene 5, paragraph 6",
+      "original_text": "Jesus looked at him over the fire. The flames put moving shadows across his face and for a moment John saw the exhaustion plainly \u2014 not just tiredness but the bone-deep weariness of a man carrying too much. The kind of tired that sleep didn't fix.",
+      "revised_text": "Jesus looked at him over the fire. The flames cast moving shadows across his face, revealing plain exhaustion \u2014 not mere tiredness but bone-deep weariness. The kind that sleep never fixed.",
+      "rationale": "Breaks overly complex sentence into shorter, punchier sentences for better clarity",
+      "source_note": "Line Editor: Overly long, complex sentence loses clarity"
+    },
+    {
+      "location": "Scene 5, paragraph 11",
+      "original_text": "Jesus tore bread. Chewed.",
+      "revised_text": "Jesus tore bread. Chewed slowly.",
+      "rationale": "Uses more specific verb to strengthen the sentence",
+      "source_note": "Line Editor: Imprecise verb weakens sentence"
+    }
+  ],
+  "total": 10
+}

@@ -1,0 +1,131 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 4",
+      "original_text": "Marcus Publius Scipio had witnessed executions before. Fifteen years in Roman service, six years tracking Jesus of Nazareth, countless arrests of criminals, revolutionaries, and inconvenient truth-tellers. But he'd never watched someone walk deliberately toward their own execution.",
+      "revised_text": "Marcus Publius Scipio had witnessed countless executions in fifteen years of Roman service\u2014criminals, revolutionaries, inconvenient truth-tellers. But he'd never watched someone walk deliberately toward their own.",
+      "rationale": "Combines repetitive experience references into one stronger statement, eliminating redundancy",
+      "source_note": "Line Editor - redundancy in paragraph 4"
+    },
+    {
+      "location": "Scene 1, paragraph 6",
+      "original_text": "Fifteen thousand pilgrims packed the streets, roasting lamb, fresh herbs, unleavened bread stacked in baskets outside every door. Children chasing each other through the crowds. The smell of hyssop and charred bone drifting from courtyards where families prepared the seder. Somewhere a ram's horn sounded from the Temple Mount, cutting through the noise.",
+      "revised_text": "Fifteen thousand pilgrims packed the streets\u2014roasting lamb, fresh herbs, unleavened bread stacked in baskets outside every door while children chased each other through the crowds. The smell of hyssop and charred bone drifted from courtyards where families prepared the seder meal, punctuated by the sound of Temple trumpets carrying from the Mount.",
+      "rationale": "Varies sentence structure, combines fragments, fixes historical inaccuracy of ram's horn vs temple trumpets",
+      "source_note": "Line Editor - sentence rhythm in paragraph 6, Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "Scene 1, paragraph 8",
+      "original_text": "Marcus scanned the crowd with old instincts.",
+      "revised_text": "Marcus scanned the crowd, cataloging exits and threats.",
+      "rationale": "Replaces vague 'old instincts' with specific observation skills, and fixes Roman military terminology",
+      "source_note": "Line Editor - vague filler padding, Scientific Accuracy Editor - terminology"
+    },
+    {
+      "location": "Scene 1, final Marcus section",
+      "original_text": "He pulled out his wax tablet",
+      "revised_text": "He drew his wax tablet from his cloak",
+      "rationale": "Uses more specific, tactile verb instead of generic 'pulled out'",
+      "source_note": "Line Editor - word choice in paragraph 14"
+    },
+    {
+      "location": "Scene 2, Jesus POV section",
+      "original_text": "Mary's face drawn. Her eyes wet. She was carrying the grief for both of them. He loved her for carrying that weight so he didn't have to.",
+      "revised_text": "Mary's face was drawn, eyes wet with the grief she carried for both of them\u2014a burden he loved her for shouldering.",
+      "rationale": "Consolidates repeated mentions of Mary's grief and weight-carrying into one stronger statement",
+      "source_note": "Line Editor - redundancy in Jesus POV section"
+    },
+    {
+      "location": "Scene 2, parable section",
+      "original_text": "\"When harvest time came,\" Jesus continued, \"the owner sent a servant to the tenants to collect his share of the fruit.\"",
+      "revised_text": "\"When harvest time came, the owner sent a servant to the tenants to collect his share of the fruit.\"",
+      "rationale": "Eliminates redundant dialogue tag when speaker is clear",
+      "source_note": "Line Editor - overuse of dialogue tags"
+    },
+    {
+      "location": "Scene 2, final paragraph",
+      "original_text": "\"Have you not read this scripture: 'The stone that the builders rejected has become the cornerstone. This was the Lord's doing, and it is marvelous in our eyes'?\"",
+      "revised_text": "\"Have you not read this scripture: 'The stone that the builders rejected has become the cornerstone.'\" The Temple spies' faces darkened\u2014they understood. He was calling himself the cornerstone they'd tried to destroy.",
+      "rationale": "Adds character reactions to clarify the parable's allegorical meaning for general readers",
+      "source_note": "Accessibility Editor - concept accessibility"
+    },
+    {
+      "location": "Scene 3, upper room food description",
+      "original_text": "A paste of dates and apples and nuts, dark and sweet",
+      "revised_text": "A paste of dates and figs and almonds, dark and sweet\u2014the charoset of remembrance",
+      "rationale": "Uses historically accurate charoset ingredients for 1st century Palestine and provides context",
+      "source_note": "Historical Authenticity Editor - anachronism in material culture, Accessibility Editor - jargon management"
+    },
+    {
+      "location": "Scene 3, bread passing description",
+      "original_text": "The bread passed hand to hand. Each man tearing a piece.",
+      "revised_text": "Each man tore a piece of bread and passed it on.",
+      "rationale": "Converts passive construction to active voice for stronger prose",
+      "source_note": "Line Editor - passive voice in upper room scene"
+    },
+    {
+      "location": "Scene 3, Peter's dialogue",
+      "original_text": "\"I'd die for you. You know that.\"",
+      "revised_text": "\"Lord, I would lay down my life for you. You know this.\"",
+      "rationale": "Adjusts to more period-appropriate phrasing while maintaining emotional impact",
+      "source_note": "Developmental Editor - dialogue modernisms"
+    },
+    {
+      "location": "Scene 4, Peter's weapon reference",
+      "original_text": "Peter drew his sword... Peter swung wildly",
+      "revised_text": "Peter drew his hidden dagger... Peter struck wildly",
+      "rationale": "Makes the weapon more historically plausible for Jews under Roman occupation",
+      "source_note": "Historical Authenticity Editor - anachronism in social norms"
+    },
+    {
+      "location": "Scene 4, rescue plan explanation",
+      "original_text": "Twenty guards bribed. Half the Temple force. They would 'arrest' Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus.",
+      "revised_text": "The usual protocols engaged. Simple plan: fake arrest, create chaos, substitute a look-alike. Judas had done it seven times before. It always worked.",
+      "rationale": "Breaks up dense exposition with more action-focused beats and maintains some operational mystery",
+      "source_note": "Accessibility Editor - exposition balance, Genre Editor - information reveal strategy"
+    },
+    {
+      "location": "Scene 4, Judas recognition moment",
+      "original_text": "Instead, different guards moved. Ones Judas didn't recognize. His chest went cold.",
+      "revised_text": "Instead, different guards moved. Ones Judas didn't recognize\u2014guards he hadn't bribed. Guards who shouldn't be here. Something fundamental shifted inside him, like the world had tilted off its axis\u2014someone knew about the plan.",
+      "rationale": "Adds transitional thought showing the moment Judas realizes the plan has been compromised, varies the common physical reaction",
+      "source_note": "Accessibility Editor - reader orientation, Physical Tic Auditor - going cold variation, Developmental Editor - plot logic"
+    },
+    {
+      "location": "Scene 5, Mary running opening",
+      "original_text": "like the city was happening on the other side of glass",
+      "revised_text": "like the city existed in another world entirely",
+      "rationale": "Replaces overused metaphor with fresher expression",
+      "source_note": "Line Editor - cliche elimination"
+    },
+    {
+      "location": "Scene 5, Mary-Sarah separation",
+      "original_text": "The gesture of a child who isn't ready to let go but knows she has to.",
+      "revised_text": "The gesture of a child forced to let go.",
+      "rationale": "Uses direct, concrete language instead of qualifying phrases for stronger emotional impact",
+      "source_note": "Line Editor - padding reduction"
+    },
+    {
+      "location": "Scene 5, Sarah's dialogue",
+      "original_text": "\"It's not fair.\"",
+      "revised_text": "\"Why must this happen?\"",
+      "rationale": "Uses language more appropriate to 1st century cultural context",
+      "source_note": "Historical Authenticity Editor - language register"
+    },
+    {
+      "location": "Scene 5, Judas POV opening",
+      "original_text": "Ordinary morning. Ordinary people beginning an ordinary day",
+      "revised_text": "Another morning. People beginning another day",
+      "rationale": "Varies word choice to reduce repetitive use of 'ordinary'",
+      "source_note": "Line Editor - word choice repetition"
+    },
+    {
+      "location": "Scene 5, Judas future knowledge reference",
+      "original_text": "Two thousand years of being the villain in someone else's story. The name Judas becoming the word for treachery in languages that didn't exist yet.",
+      "revised_text": "Generations would remember it wrong, would call him traitor among peoples not yet born.",
+      "rationale": "Removes anachronistic future knowledge and focuses on more plausible historical perspective",
+      "source_note": "Voice Consistency Editor - future-knowledge winking, Sensitivity Editor - historical accuracy"
+    }
+  ],
+  "total": 18
+}

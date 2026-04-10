@@ -1,0 +1,131 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, first paragraph",
+      "original_text": "his hands wouldn't stop shaking",
+      "revised_text": "his hands trembled without cease",
+      "rationale": "Replaces modern idiomatic English with period-appropriate phrasing",
+      "source_note": "Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "Scene 1, second paragraph",
+      "original_text": "through the window slats",
+      "revised_text": "through the gaps in the wooden shutters",
+      "rationale": "Window slats are anachronistic for 1st century Palestine",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 1, third paragraph",
+      "original_text": "he'd been living in for thirty-six years",
+      "revised_text": "he'd been living in for more than thirty years",
+      "rationale": "Ages weren't tracked with such precision in antiquity",
+      "source_note": "Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "Scene 1, vision sequence",
+      "original_text": "He'd woken in the dark. Not from a dream \u2014 from a sensation. The warmth beneath his ribs had shifted in the night, moved deeper, pressed against something it had never reached before.",
+      "revised_text": "He'd woken in the dark not from a dream but from a sensation\u2014the warmth beneath his ribs shifting in the night, moving deeper, pressing against something it had never reached before.",
+      "rationale": "Combines choppy sentences for better rhythm and flow",
+      "source_note": "Line Editor - sentence rhythm"
+    },
+    {
+      "location": "Scene 1, vision sequence",
+      "original_text": "And the cascade had begun. Not the fragments he'd learned to manage \u2014 the scattered visions",
+      "revised_text": "The cascade erupted. Not the fragments he'd learned to manage \u2014 the scattered visions",
+      "rationale": "Cuts unnecessary 'began to' qualifier and uses stronger verb",
+      "source_note": "Line Editor - padding and word choice"
+    },
+    {
+      "location": "Scene 1, bronze description",
+      "original_text": "The bronze disc sat heavy in his palms, its geometric patterns catching the first grey light... The bronze disc was warm now... He held it against his chest and felt it pulse",
+      "revised_text": "The bronze disc sat heavy in his palms, its geometric patterns catching grey dawn light... Now warm against his chest, it pulsed with alien rhythm",
+      "rationale": "Consolidates repetitive phrasing about bronze and varies descriptive language",
+      "source_note": "Line Editor - redundancy"
+    },
+    {
+      "location": "Scene 1, weather metaphor",
+      "original_text": "like weather, unpredictable and brutal",
+      "revised_text": "like storm fronts\u2014sudden, devastating, beyond his control",
+      "rationale": "Replaces dead metaphor with fresher comparison",
+      "source_note": "Line Editor - cliche"
+    },
+    {
+      "location": "Scene 2, dialogue",
+      "original_text": "I don't need the keys anymore",
+      "revised_text": "I no longer need the keys",
+      "rationale": "Eliminates modern contraction inappropriate for formal religious discourse",
+      "source_note": "Historical Authenticity Editor - language register"
+    },
+    {
+      "location": "Scene 2, Helena's description",
+      "original_text": "leather scraps Simon had patched with fishing cord",
+      "revised_text": "leather scraps Simon had patched with hemp cord",
+      "rationale": "Fishing cord inappropriate for sandal repair; hemp more historically accurate",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 2, passive construction",
+      "original_text": "The cloth fell away stiff with sweat and blood \u2014 six days of Helena's body pressed into the fabric.",
+      "revised_text": "The stiff cloth fell away, reeking of sweat and blood\u2014six days of Helena's body had pressed the stench into every fiber.",
+      "rationale": "Converts passive voice to active for stronger narrative drive",
+      "source_note": "Line Editor - passive voice"
+    },
+    {
+      "location": "Scene 2, dialogue tags",
+      "original_text": "'You're younger than I expected,' Helena said. 'You're more tired than you expected to be,' Mary answered.",
+      "revised_text": "'You're younger than I expected.' 'You're more tired than you expected to be.'",
+      "rationale": "Trusts context to identify speakers in two-person exchange",
+      "source_note": "Line Editor - dialogue tags"
+    },
+    {
+      "location": "Scene 3, cave description",
+      "original_text": "Jesus sat on the woven mat",
+      "revised_text": "Jesus sat upon his cloak spread over the stone ledge",
+      "rationale": "Stone ledges more typical for temporary shelter in Qumran caves than woven mats",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 3, trauma transitions",
+      "original_text": "Jesus doubled over. A sound came out of him that Mary had never heard... Another life. Tobias, twenty generations back.",
+      "revised_text": "Jesus doubled over, that inhuman sound torn from his throat. Before the echo died, another life crashed into him. Tobias, twenty generations back.",
+      "rationale": "Adds bridging phrases between visions for smoother emotional build",
+      "source_note": "Line Editor - paragraph flow"
+    },
+    {
+      "location": "Scene 5, Sarah's behavior",
+      "original_text": "Sarah tugged Mary's sleeve. 'Mama, I can feel the pattern. The stories have two meanings.'",
+      "revised_text": "Sarah pressed closer to Mary's side, her small hand clutching Mary's robe. Her eyes were wide with understanding that she dared not voice aloud.",
+      "rationale": "A 7-year-old interrupting religious teaching would be inappropriate in 1st century Jewish culture",
+      "source_note": "Historical Authenticity Editor - social norms"
+    },
+    {
+      "location": "Scene 5, crowd description",
+      "original_text": "and the crowd went still",
+      "revised_text": "and the crowd froze",
+      "rationale": "Uses more vivid verb instead of weak 'went'",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 1, Pattern Eye opening",
+      "original_text": "Jesus had been holding the Pattern Eye since before dawn, and his hands wouldn't stop shaking.",
+      "revised_text": "The forty-first generation was complete. Jesus held the Pattern Eye and felt twelve centuries of hunted ancestors breathing through his lungs\u2014and knew he was the weapon Nefertari had theorized but never expected to exist.",
+      "rationale": "Stronger hook that immediately signals high stakes and unique premise",
+      "source_note": "Acquisitions Editor - hook strength"
+    },
+    {
+      "location": "Scene 1, genealogy realization",
+      "original_text": "He counted backward. Forty-one generations. From Nefertari's daughter to his mother. From his mother to him.",
+      "revised_text": "The numbers hit like a physical blow: forty-one unbroken generations. Every single ancestor a carrier. He wasn't just another teacher with fragmentary visions\u2014he was the living completion of a twelve-century genetic weapon.",
+      "rationale": "Makes the revelation more explosive and emphasizes the high-concept hook",
+      "source_note": "Acquisitions Editor - unique selling proposition"
+    },
+    {
+      "location": "Chapter ending",
+      "original_text": "Below them, Capernaum's lamps flickered on one by one. Nine months. And the Temple was already watching.",
+      "revised_text": "Below them, Capernaum's lamps flickered on one by one. Mary was about to speak when torchlight moved on the road\u2014too organized, too purposeful for traders. 'Temple guards,' Jesus whispered. 'They're not waiting for morning.'",
+      "rationale": "Creates active cliffhanger instead of contemplative ending to drive thriller momentum",
+      "source_note": "Thread Tracker - thread closure and Acquisitions Editor - series potential"
+    }
+  ],
+  "total": 18
+}

@@ -1,0 +1,110 @@
+{
+  "edits": [
+    {
+      "location": "Scene 3, paragraph 11",
+      "original_text": "Cellular and absolute. Her spine knew.",
+      "revised_text": "Complete and bodily. Her spine knew.",
+      "rationale": "Replaces anachronistic modern scientific term 'cellular' with period-appropriate description",
+      "source_note": "Historical Authenticity Editor - 'cellular and absolute' is thoroughly modern scientific language"
+    },
+    {
+      "location": "Scene 4, paragraph 8",
+      "original_text": "The ink was thick and smelled of soot and gum arabic.",
+      "revised_text": "The ink was thick and smelled of soot and acacia gum.",
+      "rationale": "Replaces anachronistic term 'gum arabic' with period-appropriate 'acacia gum'",
+      "source_note": "Historical Authenticity Editor - 'gum arabic' as specific term is anachronistic"
+    },
+    {
+      "location": "Scene 3, paragraph 7",
+      "original_text": "Thomas will say it's hallucination.",
+      "revised_text": "Thomas will say it's a phantom of grief.",
+      "rationale": "Replaces modern clinical term 'hallucination' with period-appropriate language",
+      "source_note": "Historical Authenticity Editor - 'Hallucination' is a modern clinical term"
+    },
+    {
+      "location": "Scene 3, paragraph 1",
+      "original_text": "the world was obscenely alive",
+      "revised_text": "the world was painfully alive",
+      "rationale": "Replaces metaphorical usage that feels more modern with period-appropriate intensive",
+      "source_note": "Historical Authenticity Editor - 'obscenely alive' feels more modern than 1st century sensibility"
+    },
+    {
+      "location": "Scene 2, paragraph 8",
+      "original_text": "send loose stones skittering",
+      "revised_text": "send loose stones tumbling",
+      "rationale": "Uses more period-appropriate description of earthquake effects",
+      "source_note": "Historical Authenticity Editor - 'skittering' stones feels slightly modern"
+    },
+    {
+      "location": "Scene 2, paragraph 1",
+      "original_text": "Her body was wrecked.",
+      "revised_text": "Her body was broken with exhaustion.",
+      "rationale": "Replaces modern/casual term with period-appropriate language",
+      "source_note": "Line Editor - 'wrecked' is too modern/casual for the historical setting"
+    },
+    {
+      "location": "Scene 2, paragraph 2",
+      "original_text": "She held them anyway. Held them the way she'd held the stylus",
+      "revised_text": "She clutched them anyway. Gripped them the way she'd held the stylus",
+      "rationale": "Varies verb choices to avoid repetitive construction",
+      "source_note": "Line Editor - Repetitive 'held' construction"
+    },
+    {
+      "location": "Scene 2, paragraph 5",
+      "original_text": "the smell of it obscene, ordinary life continuing",
+      "revised_text": "the smell of it profane, ordinary life continuing",
+      "rationale": "Uses period-appropriate moral language instead of modern usage",
+      "source_note": "Line Editor - 'obscene' in this context is too modern"
+    },
+    {
+      "location": "Scene 3, paragraph 4",
+      "original_text": "Her voice was wrecked.",
+      "revised_text": "Her voice was raw with grief.",
+      "rationale": "Uses more period-appropriate description for consistency",
+      "source_note": "Line Editor - consistency issue with modern tone"
+    },
+    {
+      "location": "Scene 4, paragraph 3",
+      "original_text": "Not grief exactly.",
+      "revised_text": "Not grief.",
+      "rationale": "Removes unnecessary intensifier for cleaner prose",
+      "source_note": "Line Editor - 'exactly' is unnecessary intensifier"
+    },
+    {
+      "location": "Scene 2, paragraph 1",
+      "original_text": "Mary Magdalene had not slept in three days. The first night she'd lain on borrowed straw...",
+      "revised_text": "Mary Magdalene approached the tomb carrying spices, her body moving on three days of sleepless determination.",
+      "rationale": "Cuts extensive backstory to improve pacing at climactic moment",
+      "source_note": "Developmental Editor - three-day backstory severely slows momentum"
+    },
+    {
+      "location": "Scene 1, paragraph 1",
+      "original_text": "In Damascus, one hundred twenty miles north, Sarah woke before dawn.",
+      "revised_text": "In Damascus, one hundred twenty miles north, Mary Magdalene's seven-year-old daughter Sarah woke before dawn.",
+      "rationale": "Establishes relationship immediately for first-time readers",
+      "source_note": "First-Time Reader - Who is Sarah to Mary? The relationships are assumed"
+    },
+    {
+      "location": "Scene 3, paragraph 11",
+      "original_text": "Her left hand moved to her ribs, pressing there, the place where the warmth lived",
+      "revised_text": "Her left hand moved to her ribs, pressing where something stirred beneath the bone - not heat exactly, but a presence she'd carried since childhood",
+      "rationale": "Makes supernatural concept more accessible through experiential description",
+      "source_note": "Onboarding Editor - 'The warmth' referenced as if readers already understand this concept"
+    },
+    {
+      "location": "Scene 4, paragraph 15",
+      "original_text": "She'd been trained in hieratic script as a child in Alexandria.",
+      "revised_text": "She'd been trained in the formal writing of Alexandria as a child - the kind that said one thing on the surface but carried deeper meanings underneath.",
+      "rationale": "Adds context about what hieratic script means for modern readers",
+      "source_note": "Accessibility Editor - hieratic script references without adequate context"
+    },
+    {
+      "location": "Scene 1, paragraph 2",
+      "original_text": "The stone was enormous, carved round, and it moved with the slow deliberate weight of something that had been waiting to move.",
+      "revised_text": "The stone was huge and round, rolling away from a cave entrance. It moved slowly, like it had been waiting a long time.",
+      "rationale": "Simplifies complex dream imagery for 10th grade accessibility",
+      "source_note": "Accessibility Editor - complex dream imagery lacks concrete grounding"
+    }
+  ],
+  "total": 15
+}

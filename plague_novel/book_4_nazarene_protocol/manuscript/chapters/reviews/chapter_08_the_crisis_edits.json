@@ -1,0 +1,145 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 4",
+      "original_text": "Consultation. Tenth hour. Headquarters. Attendance mandatory.",
+      "revised_text": "Consultation. Tenth hour. Headquarters. Your presence is required.",
+      "rationale": "Replace modern bureaucratic language with period-appropriate Latin-influenced phrasing",
+      "source_note": "Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "Scene 1, paragraph 2",
+      "original_text": "wooden tablet a courier had thrust beneath his door",
+      "revised_text": "wax tablet sealed with cord that a courier had thrust beneath his door",
+      "rationale": "Use historically accurate Roman military communication medium",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 1, paragraph 5",
+      "original_text": "If this summons meant arrest, at least the documentation would survive him.",
+      "revised_text": "If they planned to arrest him, at least someone would find the documentation.",
+      "rationale": "Convert passive voice to active for momentum",
+      "source_note": "Line Editor - passive voice"
+    },
+    {
+      "location": "Scene 2, paragraph 1",
+      "original_text": "throwing shadows that moved like something breathing across the map table. The room was colder than the street outside \u2014 Roman stone, Roman engineering, built to last and never to comfort.",
+      "revised_text": "throwing shadows across the map table. The room was colder than the street outside \u2014 thick Roman walls that held winter like a fist.",
+      "rationale": "Replace clich\u00e9d phrases with concrete sensory details",
+      "source_note": "Line Editor - cliche"
+    },
+    {
+      "location": "Scene 2, paragraph 8",
+      "original_text": "'Sit,' Severus said.",
+      "revised_text": "'Be seated, Centurion,' Severus said.",
+      "rationale": "Add appropriate military courtesy using rank for historical authenticity",
+      "source_note": "Historical Authenticity Editor - social norms"
+    },
+    {
+      "location": "Scene 2, paragraph 4",
+      "original_text": "Grey at his temples. Clean-shaven jaw. Hands clasped behind his back",
+      "revised_text": "Grey touched his temples. His jaw was clean-shaven, hands clasped behind his back",
+      "rationale": "Vary sentence openings and lengths for better rhythm",
+      "source_note": "Line Editor - sentence rhythm"
+    },
+    {
+      "location": "Scene 2, paragraph 15",
+      "original_text": "Maximum crowd density. Pilgrims from across the empire. Deterrence requires audience.",
+      "revised_text": "Maximum crowd density,\" Marcus said, understanding. \"The Passover pilgrims.\" \"Exactly. Deterrence requires audience.\"",
+      "rationale": "Break up exposition with Marcus's reactions for natural dialogue feel",
+      "source_note": "Developmental Editor - dialogue"
+    },
+    {
+      "location": "Scene 2, paragraph 19",
+      "original_text": "clustered around Jerusalem like flies on a wound",
+      "revised_text": "clustered around Jerusalem like a closing net",
+      "rationale": "Use more period-appropriate military metaphor",
+      "source_note": "Historical Authenticity Editor - language register"
+    },
+    {
+      "location": "Scene 2, paragraph 26",
+      "original_text": "Pension restored. Full honors.",
+      "revised_text": "Veteran's portion restored. Full honors.",
+      "rationale": "Use more period-accurate term for Roman military benefits",
+      "source_note": "Historical Authenticity Editor - language register"
+    },
+    {
+      "location": "Scene 3, paragraph 2",
+      "original_text": "His hands kept working... His hands were shaking... He set the chisel down. Picked it up again. His hands were shaking",
+      "revised_text": "His hands kept working despite the tremor that would ruin the joint.",
+      "rationale": "Consolidate repetitive hand imagery without progression",
+      "source_note": "Line Editor - redundancy"
+    },
+    {
+      "location": "Scene 3, paragraph 4",
+      "original_text": "Cedar. The smell of it was his father's smell",
+      "revised_text": "Olive wood. The smell of it was his father's smell",
+      "rationale": "Use locally appropriate wood rather than expensive imported cedar",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 3, paragraph 3",
+      "original_text": "Blood memory had shown him the timeline in autumn, clear and specific",
+      "revised_text": "The inherited memories\u2014what he called blood memory\u2014had shown him the timeline in autumn. Forty-one generations of his ancestors' experiences, clear and specific in his mind",
+      "rationale": "Add brief explanation of blood memory concept for new readers",
+      "source_note": "Accessibility Editor - Concept Accessibility"
+    },
+    {
+      "location": "Scene 4, paragraph 12",
+      "original_text": "the Damascus road, then east to Parthia",
+      "revised_text": "the road north to Damascus, then east to Parthia",
+      "rationale": "Avoid potential anachronistic Christian associations",
+      "source_note": "Historical Authenticity Editor - cultural detail"
+    },
+    {
+      "location": "Scene 4, paragraph 15",
+      "original_text": "And the only way to ensure that is \u2014",
+      "revised_text": "The only way to ensure that is to prove the teaching is worth dying for. A living teacher can be dismissed, discredited, forgotten. A martyred teacher becomes a story that travels beyond borders, beyond lifetimes.",
+      "rationale": "Strengthen logical connection for Jesus's martyrdom strategy",
+      "source_note": "Developmental Editor - plot logic"
+    },
+    {
+      "location": "Scene 4, paragraph 3",
+      "original_text": "Jesus went very still... went very still",
+      "revised_text": "Jesus froze... stiffened",
+      "rationale": "Use more specific verbs instead of generic 'went'",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 5, paragraph 12",
+      "original_text": "She could feel their confusion like weather \u2014 a pressure drop",
+      "revised_text": "She could feel their confusion \u2014 the room's energy dropping like barometric pressure before a storm",
+      "rationale": "Make the metaphor more concrete and specific",
+      "source_note": "Line Editor - precision"
+    },
+    {
+      "location": "Scene 5, paragraph 23",
+      "original_text": "helped the younger children clean up the pattern stones",
+      "revised_text": "helped the younger children sweep the sand smooth where they'd drawn their lesson",
+      "rationale": "Use more documented teaching materials for historical accuracy",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 2, throughout",
+      "original_text": "Lucullus moved markers on the map as he spoke, wooden pieces on stretched leather, each one a thousand lives. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris.",
+      "revised_text": "Lucullus moved wooden pieces around the map as he talked. Each piece meant thousands of people. 'Five to seven thousand in each crowd,' he said. 'The high priest has asked Pilate three times this month to do something. The rebels are hiding weapons near the big cities.'",
+      "rationale": "Simplify military jargon and explain concepts through character reactions",
+      "source_note": "Accessibility Editor - Concept Accessibility"
+    },
+    {
+      "location": "Scene 1, paragraph 1",
+      "original_text": "The summons arrived before dawn, when the room still smelled of last night's lamp oil",
+      "revised_text": "The wooden tablet hit Marcus's floor with a sound like breaking bones. Official military seal. Tribune Lucullus's signature. *Your presence is required.*",
+      "rationale": "Start with urgent action instead of atmospheric setup to hook readers",
+      "source_note": "Binge-Read Tester - scene opening"
+    },
+    {
+      "location": "Scene 2, first paragraph after opening",
+      "original_text": "Old wool and lamp oil. Damp stone walls despite the brazier. A single clay lamp on a wall bracket, its flame pulling sideways in the draft from the corridor...",
+      "revised_text": "Lucullus waited beside the map table. Next to him\u2014Marcus's stomach tightened\u2014Pilate's senior tribune, Gaius Severus.",
+      "rationale": "Cut excessive atmospheric description that kills thriller momentum",
+      "source_note": "Binge-Read Tester - excessive description"
+    }
+  ],
+  "total": 20
+}

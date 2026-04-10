@@ -1,0 +1,75 @@
+{
+  "edits": [
+    {
+      "location": "paragraph 2",
+      "original_text": "She counted them the way she'd once counted salt barrels in her warehouse -- not from pride but from the merchant's instinct that said uncounted inventory was lost inventory.",
+      "revised_text": "She counted them like a shopkeeper counts her goods -- because things you don't keep track of have a way of disappearing.",
+      "rationale": "Simplifies merchant terminology and makes the concept immediately accessible to 10th grade readers",
+      "source_note": "Accessibility Editor - jargon dump"
+    },
+    {
+      "location": "paragraph 16-17",
+      "original_text": "The return isn't the point. The return is where most people stop listening. What I want you to hear is what happens to the father while the son is gone.",
+      "revised_text": "Everyone talks about the son coming home. But think about the father. Day after day, he's watching the road, wondering if his boy is dead or alive. That changes a person.",
+      "rationale": "Breaks down abstract philosophical analysis into simpler, more concrete character terms",
+      "source_note": "Accessibility Editor - complex concept clarity"
+    },
+    {
+      "location": "Scene 3, Damascus planning section",
+      "original_text": "Damascus. Phoebe, your workshop is the anchor. Women arriving from Palestine after the execution -- they come to you first. You house them, orient them, connect them to local communities.",
+      "revised_text": "Damascus first, Phoebe. When women run after they kill him, they'll be scared and alone. Your workshop becomes their safe house.",
+      "rationale": "Grounds the logistics in character emotions and simpler terms",
+      "source_note": "Accessibility Editor - exposition overload"
+    },
+    {
+      "location": "paragraph about blood memory",
+      "original_text": "Not all of them were carriers. Maybe a third had the blood memory.",
+      "revised_text": "Not all of them had the dreams. Maybe a third inherited the old memories the way Sarah did.",
+      "rationale": "Uses simpler language readers can understand without explanation",
+      "source_note": "Accessibility Editor - jargon management"
+    },
+    {
+      "location": "paragraph 3",
+      "original_text": "December wind off the lake, carrying the smell of dead reeds and fish oil from the salting works.",
+      "revised_text": "December wind blew off the lake. It smelled of dead reeds and the fish oil from the salting works.",
+      "rationale": "Breaks overly complex sentence into clearer, shorter constructions",
+      "source_note": "Accessibility Editor - sentence complexity"
+    },
+    {
+      "location": "Scene 2, bronze workshop description",
+      "original_text": "She's making something. With bronze. Her hands are burned but she doesn't stop.",
+      "revised_text": "She's making something out of bronze -- the ancient woman from our family's old dreams. Her hands are burned but she keeps working.",
+      "rationale": "Adds context about why this workshop matters to the story",
+      "source_note": "Accessibility Editor - accessibility"
+    },
+    {
+      "location": "Scene 1, parable teaching",
+      "original_text": "Both sons are in pain. The father absorbs both costs.",
+      "revised_text": "Look -- both sons are hurting. And the father? He's carrying the weight of both their pain.",
+      "rationale": "Makes teaching more conversational and interactive rather than lecture-like",
+      "source_note": "Accessibility Editor - character-driven explanation"
+    },
+    {
+      "location": "Chapter ending",
+      "original_text": "Mary blew out the lamp and walked down the stairs into the night. Stars over Bethany, cold and precise. The road back to Capernaum would take three days. She'd walk it alone, because that was faster, and because twelve months was not enough time. It was never enough time.",
+      "revised_text": "Mary blew out the lamp and walked down the stairs into the night. A figure waited in the shadows by Lazarus's gate -- a Roman messenger with a sealed scroll. Stars over Bethany, cold and precise. The road back to Capernaum would take three days, if she made it that far.",
+      "rationale": "Replaces contemplative ending with immediate threat/cliffhanger to maintain thriller momentum",
+      "source_note": "Developmental Editor - narrative momentum and Genre Editor - genre conventions"
+    },
+    {
+      "location": "Scene 3, network organization",
+      "original_text": "And three women Mary had never met... Tabitha, who'd arrived from Antioch... Phoebe, from Damascus... Miriam of Alexandria",
+      "revised_text": "Tabitha had nearly been caught by Roman patrols twice on the road from Antioch. Phoebe arrived from Damascus with news that women's gatherings were being watched. Only Miriam of Alexandria seemed unworried -- which worried Mary most of all.",
+      "rationale": "Adds realistic obstacles and skepticism to make coordination less convenient",
+      "source_note": "Developmental Editor - plot logic"
+    },
+    {
+      "location": "Throughout - Mary's characterization",
+      "original_text": "Mary breathed. Held steady.",
+      "revised_text": "Mary's breath hitched. For a moment, the weight of it all -- Sarah's dreams, the network, the approaching storm -- threatened to crush her. Then she steadied herself.",
+      "rationale": "Shows Mary struggling with internal conflict rather than remaining static",
+      "source_note": "Developmental Editor - character development"
+    }
+  ],
+  "total": 10
+}

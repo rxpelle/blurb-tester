@@ -16,7 +16,7 @@ Not because the reports were wrong. Tribune Lucullus maintained the most reliabl
 
 "Numbers?" Lucullus asked, not looking up from his wax tablet.
 
-"Three thousand in Galilee last week," Marcus said. "Maybe five hundred here in Jerusalem, but growing. He teaches daily in the Temple courts now."
+"Three thousand in Galilee at the last market gathering," Marcus said. "Maybe five hundred here in Jerusalem, but growing. He teaches daily in the Temple courts now."
 
 "Composition?"
 
@@ -28,7 +28,7 @@ Lucullus finally looked up. Lines carved around his eyes that hadn't been there 
 
 "That's not preaching. That's organizing." Lucullus scratched a note on the tablet. "Female teaching circles suggest structure. Discipline. In a culture where women don't teach publicly, it draws complaints from the Temple and tells us he's deliberately provocative. Not just a wandering prophet anymore."
 
-Five years of observation, and he said nothing. He'd filed reports on Mary for three years. To him, it looked like a teacher preparing others to carry on after him. But that looked exactly like building a resistance movement to anyone watching from the Antonia Fortress.
+Five years of observation, and he said nothing. To him, Mary looked like a teacher preparing others to carry on. To anyone watching from the Antonia Fortress, she looked like a resistance organizer.
 
 "Temple authorities are losing patience," Lucullus continued. "Caiaphas sent another petition yesterday. Third one this month. They want Jesus arrested for blasphemy and delivered to the Sanhedrin for trial."
 
@@ -62,13 +62,13 @@ A long exhale as the tribune leaned back. "Pilate wants options. Arrest and tria
 
 Three years of this question. His gut twisted.
 
-"He's not organizing armed resistance. Not calling for tax rebellion. Not challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use..."
+"He's not organizing armed resistance. He avoids calling for tax rebellion or challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use..."
 
 "He's teaching thousands of people to govern themselves," Lucullus interrupted. "To settle disputes, share resources, build communities that don't need our courts or our roads or our grain. That's not common sedition, Scipio. Common sedition we can arrest. This is a province learning to feed itself without us. Harder to crush. More dangerous in the long run."
 
 "Then why haven't we arrested him already?"
 
-"Because Pilate is smarter than the Temple priests. He knows martyring a popular teacher creates more problems than it solves. Followers multiply. Teaching spreads faster. The execution becomes part of the message." Lucullus's voice was heavy. "We're trying to find a way to neutralize him without making him more powerful dead than alive."
+"Because Pilate is smarter than the Temple priests. Remember what happened when we crucified that Zealot leader in Galilee? His followers went underground, started three separate cells. Sometimes killing a man makes him more dangerous dead than alive. The execution becomes part of the message." Lucullus's voice was heavy. "We're trying to find a way to neutralize him without making him more powerful dead than alive."
 
 Something cold settled in his chest. Five years of this problem, and the answer was always the same.
 
@@ -84,9 +84,9 @@ Marcus found Jesus teaching in Solomon's Portico the next morning. Incense from 
 
 Three years of teaching in Galilee: hillsides, lakeshores, places where informants were few. Now he was teaching in the Temple itself, where every word echoed into Roman reports. It felt deliberate.
 
-The crowd was perhaps two hundred. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
+Two hundred people filled the colonnade and spilled into the outer court. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
 
-Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But the faces told two stories. Most showed basic comprehension. A few — Mary, several of the twelve — had sharper expressions. Hearing the deeper layer.
+Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But the faces told two stories. Most showed basic comprehension. A few, Mary, several of the twelve, had sharper expressions. Hearing the deeper layer.
 
 "I speak in parables," Jesus told a frustrated Pharisee, "so the meaning outlasts the teacher."
 
@@ -120,7 +120,7 @@ That name went straight to memory. Barabbas. Known Zealot recruiter. Temple info
 
 "Then we do nothing?" Barabbas's voice rose. "We accept oppression? Submit to Caesar's taxes and Temple corruption?"
 
-"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "Your revolt might kill a hundred Roman soldiers. Rome will kill ten thousand in response. Three generations from now, your grandchildren pay the final price."
+"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "You kill a Roman soldier. They send ten to avenge him. You kill those ten, they burn a village. You attack their garrison, they level Jerusalem. When does it end, Barabbas? When everyone's dead?"
 
 Silence. The crowd had gone completely still.
 
@@ -150,7 +150,7 @@ Every report was delaying the inevitable.
 
 The man was waiting in Marcus's quarters when he returned that evening.
 
-The room smelled wrong. Marcus's quarters carried the same stale odors every night: lamp oil, old leather, the mineral tang of limestone walls that never fully dried in winter. But tonight a foreign scent hung in the air: expensive nard, the kind that cost a month's wages per dram, and beneath it the faint sourness of a man who'd been sitting in a closed room for hours, patient as a spider.
+The room smelled wrong. Marcus's quarters usually carried lamp oil, old leather, and the mineral tang of limestone. Tonight expensive nard hung in the air—a month's wages for an alabaster flask—and beneath it the sourness of a man who'd been waiting for hours.
 
 One glance told him enough. Mid-forties, expensive robes, the kind of educated bearing that came from years in administrative positions. He carried himself like a man accustomed to being obeyed without raising his voice.
 
@@ -176,7 +176,7 @@ The blade held steady between them. "And if I refuse?"
 
 "We inform Lucullus about your loyalties. Your concealment. Your five years of false reports." Matthias's voice was pleasant, as if discussing trade routes. "You'll be discharged. Prosecuted. And we'll send someone less sentimental to handle Jesus."
 
-His sister's letters from Gaul came to him — her children needed schooling, his pension would have secured that. Twenty-eight years of service, three years from full retirement with honors. Losing his position meant losing everything he'd worked toward. And it meant losing the only shield Jesus had inside Roman reports.
+His sister's letters from Gaul came to him, her children needed schooling, his pension would have secured that. Twenty-eight years of service, three years from full retirement with honors. Losing his position meant losing everything he'd worked toward. And it meant losing the only shield Jesus had inside Roman reports.
 
 "Why me?" Marcus asked. "Why not just kill him yourselves?"
 
@@ -184,9 +184,9 @@ His sister's letters from Gaul came to him — her children needed schooling, hi
 
 "Killing him only makes it worse."
 
-"Only if the death looks righteous." Matthias leaned forward, and for the first time his voice sharpened. "Discredit him first — expose him as a fraud, a criminal — and the effect inverts. Followers scatter. Teaching dies with him."
+"Only if the death looks righteous." Matthias leaned forward, and for the first time his voice sharpened. "Discredit him first — expose him as a fraud, a criminal, and the effect inverts. Followers scatter. Teaching dies with him."
 
-Marcus's free hand clenched, nails cutting into his palm. Five years of careful protection, and they'd seen through every maneuver. The trap wasn't just clever — it was perfect.
+Marcus's free hand clenched, nails cutting into his palm. Five years of careful protection, and they'd seen through every maneuver. The trap wasn't just clever. It was perfect.
 
 "What if I report you to Lucullus?" Marcus asked.
 
@@ -196,7 +196,7 @@ He walked to the door, then paused. "For what it's worth — noble effort. Futil
 
 Matthias left.
 
-The bunk caught him, gladius still in hand. The nard smell lingered, rich, cloying, the kind of scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
+The bunk caught him, gladius still in hand. The nard smell lingered, rich, cloying, a scent that attached itself to wool and skin and wouldn't leave for days. He'd smell Matthias's visit every time he entered this room for a week.
 
 The lamp had burned low. In its dying light, the walls of his quarters looked like what they were: a stone box barely wider than the bunk, everything he owned fitting in one trunk. Twenty-eight years of service reduced to a room that smelled like someone else's perfume and a choice between three kinds of betrayal.
 
@@ -218,7 +218,7 @@ He found Simon at the docks, mending nets in the dark. The fisherman looked up a
 
 Simon set down the nets. "What did they offer?"
 
-"Recruit him or kill him. The recruitment offer is theater — they know he'll refuse. What they really want is him dead. But discredited first. Make the death look criminal, not righteous. Kill the teaching along with the teacher."
+"Recruit him or kill him. The recruitment offer is theater. They know he'll refuse. What they really want is him dead. But discredited first. Make the death look criminal, not righteous. Kill the teaching along with the teacher."
 
 Simon said nothing for a long time. "Can they do that?"
 
@@ -294,27 +294,19 @@ Self-preservation, not mercy. The cold calculation of a man who'd rather lose a 
 
 Marcus saluted for the last time. Then walked out of the Antonia Fortress as a civilian for the first time in twenty-eight years.
 
-The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past — merchants, pilgrims, a woman carrying bread on her head — and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
-
-He'd forgotten what civilian clothes felt like against skin. The tunic hung wrong — too loose across the shoulders where the cuirass had pressed for decades, the wool shifting against his collarbone with every step instead of sitting rigid, braced, held in place by forty pounds of iron and leather. His body kept reaching for things that weren't there. His right hand dropped to his hip three times before he stopped counting, fingers closing on air where the gladius should have been. The absence had a physical weight, like a phantom limb. Twenty-eight years of that blade's presence — its specific gravity pulling his belt down on the right side, the way it knocked against his thigh on the march — and now just cloth. Just a man's hip, unweighted, ordinary.
-
-His left knee ached. The old injury from the Pannonian campaign, a horse rolling on him in a river crossing when he was twenty-six. The Legion physicians had set it wrong, and every autumn since, the joint swelled and ground when the weather turned cold. In armor, the greave held it braced — not healed, but managed, the metal doing what the bone couldn't. Without the greave, each step sent a bright thread of pain from kneecap to ankle. He'd been walking on this knee for twenty-two years with Rome holding it together. Now Rome was done holding anything of his together.
+The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past, merchants, pilgrims, a woman carrying bread on her head, and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
 
 His sister's face came to him. The last letter from Gaul, still folded in his trunk at the barracks — the trunk he'd have to collect by nightfall or they'd burn the contents. *The boys are growing fast. Decimus asks about his uncle the centurion. When will you visit? Your pension will buy the farm on the hill road — I've spoken with the owner. He'll hold it until spring.* She'd signed it with the little drawing of a bird she'd made since childhood, the one that meant *I miss you*.
 
-He would have to write back. He'd been composing the letter in his head since Matthias's visit, drafting and discarding, and every version was a lie. *I left the Legion. No pension. No farm. No explanation I can give you.* She'd read between the lines and assume disgrace — a woman, gambling debts, the usual failures of men who threw away careers. She wouldn't guess the truth, because the truth was something she had no framework for: that her brother had watched a carpenter teach people to love each other on a hillside and decided that was worth more than everything Rome had given him.
+He would have to write back. He'd been composing the letter in his head since Matthias's visit, drafting and discarding, and every version was a lie. *I left the Legion. No pension. No farm. No explanation I can give you.* She'd read between the lines and assume disgrace, a woman, gambling debts, the usual failures of men who threw away careers. She wouldn't guess the truth, because the truth was something she had no framework for: that her brother had watched a carpenter teach people to love each other on a hillside and decided that was worth more than everything Rome had given him.
 
 His nephew would ask about an uncle who was nothing now. No pension. No honors. No farm for the boys. Just a man who'd thrown away twenty-eight years for a carpenter he couldn't save.
 
-Marcus walked through Jerusalem with his hands at his sides and his knee grinding with each step and the strange lightness of a man who has finally stopped carrying a weight too heavy for one person. A boy selling figs bumped into him without apology. A Roman patrol passed and he stepped aside with the crowd — stood with the merchants and the pilgrims and the bread-sellers, pressed against the wall, waiting for his own former colleagues to pass. One of the soldiers glanced at him. Saw nothing worth seeing. Looked away.
-
-That was the strangest part. Not the loss of rank or pay or purpose. The invisibility. Twenty-eight years of being seen — of being the thing people noticed first when they entered a room, the armor, the authority, the implicit threat of organized violence — and now he was nobody. Just a man with a limp and a bad knee on a street in Jerusalem, and Jerusalem was full of men like that.
-
 Two days later he found Jesus teaching on a hillside outside Bethany. Smaller crowd than usual, maybe sixty. The core group. Mary sat near the front, Sarah on her lap.
 
-Jesus was teaching the fig tree parable — when the branch puts out leaves, you know summer is near. When you see certain markers, you know what's coming. What struck Marcus wasn't the teaching. It was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left.
+Jesus was teaching the fig tree parable, when the branch puts out leaves, you know summer is near. When you see certain markers, you know what's coming. What struck Marcus wasn't the teaching. It was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left.
 
-After the teaching ended, Marcus approached. Jesus looked at him the way he'd looked at Marcus five years ago at the census — not reading his face but reading what lay behind it.
+After the teaching ended, Marcus approached. Jesus looked at him the way he'd looked at Marcus five years ago at the census. Not reading his face but reading what lay behind it.
 
 "Simon said you needed witnesses."
 
@@ -332,7 +324,7 @@ Jesus touched Marcus's shoulder. "Stay close. Document everything. When I die, p
 
 "I will."
 
-They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion. A carpenter. A woman who measured debts and kept them. A six-year-old arranging pebbles in the dirt.
+They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion, a carpenter, a woman who measured debts and kept them, and a six-year-old arranging pebbles in the dirt.
 
 Rome would kill Jesus within two years. Marcus couldn't prevent that. But he could witness it. Write it down.
 

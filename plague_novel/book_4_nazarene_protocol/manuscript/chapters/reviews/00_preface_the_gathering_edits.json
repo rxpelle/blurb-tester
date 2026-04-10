@@ -1,0 +1,96 @@
+{
+  "edits": [
+    {
+      "location": "paragraph 3",
+      "original_text": "Lying on his sleeping mat in the workshop, wood shavings on the packed-earth floor, the smell of cedar and olive oil, an adze and a bow drill and an iron plumb line hanging from pegs his father had driven into the limestone wall before he died, a half-finished yoke clamped to the sycamore workbench \u2014 he would feel it spread from his left side across his chest, down his arm, into his fingers.",
+      "revised_text": "Lying on his sleeping mat in the workshop, he would feel it spread from his left side across his chest, down his arm, into his fingers. Wood shavings scattered the packed-earth floor. The smell of cedar and olive oil hung in the air, along with his father's tools\u2014adze, bow drill, lead plumb line\u2014still hanging from their pegs.",
+      "rationale": "Breaks up unwieldy 80+ word sentence and replaces anachronistic 'iron plumb line' with historically accurate 'lead plumb line'",
+      "source_note": "Line Editor - padding/redundancy and Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "paragraph 3",
+      "original_text": "through inherited memory so vivid it was indistinguishable from experience",
+      "revised_text": "through inherited memory\u2014bloodline memories passed down through generations\u2014so vivid it was indistinguishable from experience",
+      "rationale": "Adds explanation for new readers who don't understand the inherited memory concept",
+      "source_note": "First-Time Reader - unexplained concepts"
+    },
+    {
+      "location": "paragraph 4",
+      "original_text": "He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident.",
+      "revised_text": "He knew her hands\u2014the hands of some ancient woman whose love had somehow traveled down through his bloodline. Small, precise, scarred on the left thumb from a grinding-stone accident.",
+      "rationale": "Provides context for new readers about whose memories Jesus is experiencing",
+      "source_note": "First-Time Reader - unexplained concepts"
+    },
+    {
+      "location": "paragraph 6",
+      "original_text": "Jesus had never met them. They'd been dead for twelve centuries.",
+      "revised_text": "Jesus had never met them\u2014these ancient lovers whose bond had somehow imprinted itself in his family's bloodline. They'd been dead for twelve centuries.",
+      "rationale": "Clarifies who 'they' are for new readers",
+      "source_note": "First-Time Reader - unexplained concepts"
+    },
+    {
+      "location": "paragraph 8, opening",
+      "original_text": "The first time it happened, he was teaching beside the lake.",
+      "revised_text": "Jesus was mid-sentence about seeds and shallow ground when it moved. The warmth that had lived in his chest for thirty years suddenly poured out of him like heat from an opened kiln.",
+      "rationale": "Opens with immediate action rather than slow buildup, creates better momentum for thriller pacing",
+      "source_note": "Binge-Read Tester - opening momentum and Acquisitions Editor - hook strength"
+    },
+    {
+      "location": "paragraph 11",
+      "original_text": "Not stayed in his chest where it always lived. *Moved.*",
+      "revised_text": "Something was wrong. The warmth that had lived quietly in his chest for thirty years was... moving. Jesus stopped mid-sentence, one hand flying to his ribs.",
+      "rationale": "Shows Jesus's shock at this unprecedented experience rather than explaining it clinically",
+      "source_note": "Accessibility Editor - character-driven explanation"
+    },
+    {
+      "location": "paragraph 15",
+      "original_text": "They were both weeping now. Holding each other in the front row of a hillside teaching, forty people around them, weeping with the stunned helplessness of people ambushed by an emotion they didn't choose and couldn't name.",
+      "revised_text": "They wept. Held each other in the front row, forty people around them, seized by a feeling they had not summoned.",
+      "rationale": "Eliminates padding words and uses more period-appropriate language for emotions",
+      "source_note": "Line Editor - padding and Historical Authenticity Editor - language register"
+    },
+    {
+      "location": "paragraph 16",
+      "original_text": "It was spreading.",
+      "revised_text": "It swept through the crowd.",
+      "rationale": "Replaces weak verb with specific, vivid alternative",
+      "source_note": "Line Editor - word choice/precision"
+    },
+    {
+      "location": "paragraph about Amos",
+      "original_text": "not *where* but *why*. Why a man walks away from a boy who can almost reach the top shelf now, who fixed the door hinge by himself, who learned to gut a fish without being shown twice. The warmth found that question. Found the stone and didn't remove it but showed him something underneath",
+      "revised_text": "Not where his father had gone, but why. The warmth found that question\u2014found the stone in his chest\u2014and revealed what lay beneath.",
+      "rationale": "Consolidates repetitive explanations and eliminates redundancy",
+      "source_note": "Line Editor - redundancy"
+    },
+    {
+      "location": "Jesus's physical collapse",
+      "original_text": "Jesus's knees gave \u2014 the weight of it buckled him.",
+      "revised_text": "Jesus's knees gave\u2014not from the weight but from the terror of it. This wasn't teaching anymore. This was something using him, pouring through him, and he couldn't stop it.",
+      "rationale": "Shows Jesus's emotional state during the overflow rather than just physical sensation",
+      "source_note": "Emotional Resonance Editor - reader connection"
+    },
+    {
+      "location": "Simon conversation",
+      "original_text": "That wasn't the old skill. I don't know what that was.",
+      "revised_text": "That wasn't like the dreams we carry. I don't know what that was.",
+      "rationale": "Replaces unexplained jargon with more accessible language",
+      "source_note": "First-Time Reader - jargon without context"
+    },
+    {
+      "location": "final paragraph",
+      "original_text": "He had work to do.",
+      "revised_text": "He had work to do. But as he reached for his tools, footsteps approached in the street outside\u2014too many, too purposeful for neighbors. Roman sandals on stone.",
+      "rationale": "Creates compelling hook and urgency for next chapter instead of complete resolution",
+      "source_note": "Thread Tracker - cliffhanger quality and Binge-Read Tester - chapter ending"
+    },
+    {
+      "location": "final paragraph before ending",
+      "original_text": "The love doesn't resolve into understanding. It resolves into action.",
+      "revised_text": "",
+      "rationale": "Removes thesis-level commentary that breaks POV discipline and sounds like essay mode",
+      "source_note": "Voice Consistency Editor - narrator-as-essayist"
+    }
+  ],
+  "total": 13
+}

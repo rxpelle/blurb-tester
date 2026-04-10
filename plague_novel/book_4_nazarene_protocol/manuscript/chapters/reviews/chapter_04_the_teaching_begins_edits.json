@@ -1,0 +1,117 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 2",
+      "original_text": "The wind off the lake carried the smell of rotting fish and wet limestone",
+      "revised_text": "The wind off the lake carried the smell of drying nets and worked stone",
+      "rationale": "Removes anachronistic implication of industrial-scale fish waste; reflects active fishing economy",
+      "source_note": "Historical Authenticity Editor - anachronism material culture"
+    },
+    {
+      "location": "Scene 1, paragraph 4",
+      "original_text": "The grip was harder than it used to be and he clasped his arm.",
+      "revised_text": "The grip was harder than it used to be, and he clasped his arm.",
+      "rationale": "Adds required comma in compound sentence",
+      "source_note": "Copy Editor - punctuation"
+    },
+    {
+      "location": "Scene 1, paragraph 12",
+      "original_text": "Jesus walked the Capernaum road at dawn, six months gone from this place. The wind off the lake carried the smell of drying nets and worked stone, the opposite of the burning cities that filled his nights.",
+      "revised_text": "Jesus's sandals scraped against the familiar stones of the Capernaum road, each step sending shivers up legs grown lean from six months of fasting and walking. The wind off the lake hit his face\u2014drying nets and worked stone, so different from the acrid smoke that filled his sleeping hours that his throat closed against the memory of burning cities.",
+      "rationale": "Creates visceral sensory immersion and grounds us in Jesus's physical experience",
+      "source_note": "Immersive Experience Editor - sensory grounding"
+    },
+    {
+      "location": "Scene 1, Mary's introduction",
+      "original_text": "She'd changed. Six months ago she couldn't finish a sentence without flinching at visions no one else could see. Now she stood straight-backed in worn blue linen, her eyes steady \u2014 not calm, exactly, but controlled.",
+      "revised_text": "Mary appeared in the doorway, and Jesus barely recognized her. Six months earlier, her shoulders had hunched inward like broken wings, her eyes darting to corners where only she could see movement. Now she filled the doorway, spine straight as a reed, her gaze meeting his without the old flicker of panic.",
+      "rationale": "Shows Mary's transformation through specific physical manifestations rather than summarizing; fixes past tense consistency",
+      "source_note": "Immersive Experience Editor - showing vs telling / Copy Editor - tense consistency"
+    },
+    {
+      "location": "Scene 1, Mary's dialogue",
+      "original_text": "The visions have changed. Sharper. I can stay inside them now without losing myself. But I'm not sure I trust what I'm seeing. I think I'm seeing structure underneath the collapse. How Nefertari organized her students.",
+      "revised_text": "The visions have changed. The words weren't just about being kind to enemies\u2014there was something underneath. Like when my father taught me to read account books: the same numbers could tell two different stories depending on how you looked at them. I think I'm seeing patterns in how ancient knowledge was passed down\u2014structures for teaching that survived when everything else burned.",
+      "rationale": "Breaks down Mary's realization into relatable steps and removes unexplained Nefertari reference for accessibility",
+      "source_note": "Accessibility Editor - exposition balance / First-Time Reader - assumed knowledge"
+    },
+    {
+      "location": "Scene 2, paragraph 1",
+      "original_text": "The hillside above Capernaum reeked of unwashed bodies and morning bread. Near a thousand souls, Simon reckoned",
+      "revised_text": "The hillside above Capernaum reeked of unwashed bodies and morning bread. Three, maybe four hundred souls, Simon reckoned",
+      "rationale": "Reduces crowd to more plausible size for Jesus's level of known activity",
+      "source_note": "Genre Bridge Editor - historical plausibility"
+    },
+    {
+      "location": "Scene 2, Roman surveillance",
+      "original_text": "Roman soldiers watched from a distance, leaning on their spears.",
+      "revised_text": "Roman soldiers watched from the ridge above, close enough to hear if the crowd's mood shifted toward sedition. Among them, a centurion with scarred hands made notes on a wax tablet\u2014movements tracked for reports that would travel beyond Rome's borders.",
+      "rationale": "Adds series throughline presence and creates commercial tension",
+      "source_note": "Series Arc Editor - throughline presence / Genre Editor - intellectual stakes"
+    },
+    {
+      "location": "Scene 2, Mary's recognition moment",
+      "original_text": "But Mary's breathing had changed \u2014 shallow, rapid, her fingers digging into the cloth over her knees as if steadying herself. Something behind her eyes shifted with an almost audible click, like a dislocated joint finding its socket.",
+      "revised_text": "Mary's breath caught in her throat. Her fingers dug into the cloth over her knees, knuckles white, as if the hillside might tilt and send her tumbling. The words weren't just entering her ears\u2014they were settling into her bones, each phrase clicking into grooves she hadn't known existed. At first she looked confused\u2014the same expression Sarah wore when trying to solve a puzzle. Then her breathing changed. Her ribs expanded with a sharp intake as recognition flooded through her like cold water hitting fevered skin.",
+      "rationale": "Makes Mary's recognition a full-body visceral experience and shows gradual buildup of understanding",
+      "source_note": "Immersive Experience Editor - emotional resonance / Developmental Editor - pacing"
+    },
+    {
+      "location": "Scene 2, crowd reaction to confrontation",
+      "original_text": "The hillside went quiet. The six hundred who remained turned to watch.",
+      "revised_text": "The hillside went dead silent. Women pulled their children closer. Men stepped back as if witnessing blasphemy. The six hundred who remained stared in shock.",
+      "rationale": "Captures the radical nature of a woman debating theology publicly in 1st century Palestine",
+      "source_note": "Historical Authenticity Editor - social norms"
+    },
+    {
+      "location": "Scene 2, Mary's confrontation response",
+      "original_text": "Mary flinched. The old instinct \u2014 twelve years of being called possessed, mad, demon-ridden.",
+      "revised_text": "The Pharisee's voice hit Mary like a physical blow. Her shoulders collapsed inward, chest constricting as twelve years of shame crashed over her\u2014every whispered 'possessed,' every door slammed in her face, every healer's rough hands trying to beat the visions from her skull. Her stomach clenched and bile rose in her throat. Her hand moved instinctively to cover Sarah's ears, fingers trembling against the child's soft hair. The hillside tilted. Her vision grayed at the edges.",
+      "rationale": "Shows the physiological cost of her defiance and full physical experience of terror before breakthrough",
+      "source_note": "Immersive Experience Editor - visceral moments / Emotional Resonance Editor - character emotional arc"
+    },
+    {
+      "location": "Scene 2, Jesus's teaching metaphor",
+      "original_text": "Most people hear moral instruction. Be nice. Forgive. Standard religious categories. You heard the operating system underneath.",
+      "revised_text": "Most people hear the melody\u2014be kind, forgive your enemies. You heard the harmony underneath\u2014the deeper pattern that makes it all work together.",
+      "rationale": "Replaces computer metaphor with period-appropriate musical analogy accessible to target audience",
+      "source_note": "Accessibility Editor - character-driven explanation"
+    },
+    {
+      "location": "Scene 3, Mary's triage comment",
+      "original_text": "Mary spoke from the corner, quietly. 'Triage.' Just the one word. Then, steadier: 'When the wound is too large to heal, you stop the bleeding.'",
+      "revised_text": "Mary shifted forward slightly. 'In Magdala's markets, when traders start feuding, you have two choices\u2014stop the immediate bleeding or watch the whole trading network collapse. We called it triage.' Her voice grew steadier. 'Sometimes you can't fix the injustice. You can only keep it from spreading. When the wound is too large to heal, you stop the bleeding.'",
+      "rationale": "Grounds Mary's insight in her merchant background and explains the anachronistic medical term",
+      "source_note": "Genre Bridge Editor - speculative grounding / Historical Authenticity Editor - anachronism language"
+    },
+    {
+      "location": "Scene 3, James's emotional resolution",
+      "original_text": "James didn't answer. His mouth compressed. He didn't leave, but he didn't nod either.",
+      "revised_text": "James stared at the floor. His mouth worked silently, jaw muscles jumping under skin gone pale. He looked at his hands\u2014the same hands that had wanted to strike back that day, that had clenched into fists while his mother set his father's broken jaw. Strategy. The word sat in his throat like a stone. 'So my father walking the long way\u2014that stops the soldier from getting angrier?' 'It stops this one fight from becoming ten fights,' Jesus said quietly. 'Your father chose the path that doesn't feed the beast.' James didn't nod, but he didn't leave either.",
+      "rationale": "Shows James wrestling with cognitive dissonance and links his story to the escalation concept being taught",
+      "source_note": "Emotional Resonance Editor - emotional stakes / Accessibility Editor - concept accessibility"
+    },
+    {
+      "location": "Scene 3, men's reaction to Mary",
+      "original_text": "Every man in the room turned to look at her.",
+      "revised_text": "Every man in the room turned to look at her, then quickly glanced at Jesus, unsure whether to respond directly to a woman's theological insight.",
+      "rationale": "Shows the men's discomfort with Mary's authority in mixed company",
+      "source_note": "Historical Authenticity Editor - gender dynamics"
+    },
+    {
+      "location": "Scene 3, woven screen reference",
+      "original_text": "Through the gaps in the woven screen",
+      "revised_text": "Through the gaps in the hanging curtain",
+      "rationale": "Replaces anachronistic architectural detail with period-appropriate partition",
+      "source_note": "Historical Authenticity Editor - material culture architecture"
+    },
+    {
+      "location": "Chapter ending",
+      "original_text": "The visions receded. Never gone \u2014 but manageable.",
+      "revised_text": "The visions receded, but in the darkness before dawn, Mary saw something new: Roman soldiers surrounding a house in Jerusalem, and a man who looked exactly like Jesus being dragged away in chains. The cascade had begun.",
+      "rationale": "Creates compelling cliffhanger and series hook instead of quiet resolution",
+      "source_note": "Acquisitions Editor - series potential / Thread Tracker - cliffhanger quality"
+    }
+  ],
+  "total": 16
+}

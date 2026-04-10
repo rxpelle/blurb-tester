@@ -1,0 +1,89 @@
+{
+  "edits": [
+    {
+      "location": "Day Twenty-Eight section, paragraph 1",
+      "original_text": "Mary Magdalene sat in an upper room in Alexandria, papyrus spread before her, stylus moving carefully",
+      "revised_text": "Mary Magdalene sat in an upper room in Alexandria, Egyptian papyrus spread before her, reed pen moving carefully through the ink",
+      "rationale": "Corrects anachronistic technology combination of stylus on papyrus for the period and location",
+      "source_note": "Historical Authenticity Editor - anachronism - technology/writing"
+    },
+    {
+      "location": "Day Twenty-Eight section, paragraph 3",
+      "original_text": "Wrist wounds where nails had penetrated, not the palms, which would have torn under a man's weight. Thomas had treated enough wounds to know the difference.",
+      "revised_text": "Deep wounds where the nails had penetrated. Thomas had treated many injuries, but nothing quite like this.",
+      "rationale": "Simplifies medical knowledge to basic wound observation without modern forensic details about nail placement",
+      "source_note": "Historical Authenticity Editor - anachronism - medical knowledge"
+    },
+    {
+      "location": "Day Twenty-Eight section, paragraph 1",
+      "original_text": "His physician's training demanded proof",
+      "revised_text": "His healer's experience demanded proof",
+      "rationale": "Revises anachronistic medical terminology for 1st century Palestine",
+      "source_note": "Scientific Accuracy Editor - medical terminology"
+    },
+    {
+      "location": "Day Twenty-Eight section, paragraph 4",
+      "original_text": "His physician's eyes took in what they could",
+      "revised_text": "His experienced eyes took in what they could",
+      "rationale": "Continues revision of anachronistic medical terminology",
+      "source_note": "Scientific Accuracy Editor - medical terminology"
+    },
+    {
+      "location": "Day Thirty-Five section, paragraph 6",
+      "original_text": "already talking to Andrew about organizational structure, about rules for worship, about who could teach and who could not",
+      "revised_text": "already talking to Andrew about who should lead, about proper teaching, about which among them could speak with authority",
+      "rationale": "Uses period-appropriate language about leadership and teaching rather than modern institutional concepts",
+      "source_note": "Historical Authenticity Editor - anachronism - language/concepts"
+    },
+    {
+      "location": "Day Twenty-Eight section, paragraph 2",
+      "original_text": "You're hauling on the wrong net",
+      "revised_text": "Your nets are cast in the wrong place",
+      "rationale": "Uses more direct biblical-era fishing metaphor instead of modern-feeling idiom",
+      "source_note": "Historical Authenticity Editor - language register"
+    },
+    {
+      "location": "40 CE section, paragraph 2",
+      "original_text": "She's dying. Fever. But she's teaching \u2014 eighty students, maybe more.",
+      "revised_text": "She's dying. Fever. But she won't stop teaching \u2014 a handful of students gathered close.",
+      "rationale": "Simplifies workshop description to more basic teaching groups appropriate to Bronze Age context",
+      "source_note": "Historical Authenticity Editor - anachronism - material culture"
+    },
+    {
+      "location": "The Siege section, paragraph 3",
+      "original_text": "Eighty thousand soldiers starving one million people trapped inside walls",
+      "revised_text": "Roman legions starving the countless thousands trapped within the city walls",
+      "rationale": "Uses general descriptions rather than specific numbers that need historical verification",
+      "source_note": "Historical Authenticity Editor - historical accuracy - siege details"
+    },
+    {
+      "location": "42 CE section, paragraph 1",
+      "original_text": "the harbor, rigging, gulls, the creak of trading vessels",
+      "revised_text": "the great harbor with its lighthouse beacon, the rigging of grain ships, gulls wheeling around the Pharos",
+      "rationale": "Includes specific reference to distinctive Alexandria harbor features",
+      "source_note": "Historical Authenticity Editor - historical accuracy - geography"
+    },
+    {
+      "location": "Day Thirty-Five section, paragraph 1",
+      "original_text": "grinding herbs for the evening meal",
+      "revised_text": "grinding cumin and mint for the evening meal",
+      "rationale": "Specifies period-appropriate herbs known to 1st century Palestine",
+      "source_note": "Historical Authenticity Editor - cultural authenticity"
+    },
+    {
+      "location": "40 CE section, Mary's Gospel quotes",
+      "original_text": "She wrote his words on the nature of sin: \"Sin does not exist. Rather it is you who make sin when you do the things which are like the nature of adultery, which is called 'sin.' Because of this the Good came among you to the things belonging to all nature, in order to set it within its root.\"",
+      "revised_text": "Mary wrote what he'd said about sin: that it wasn't some stain on the soul, but something people created when they acted against their true nature. Sarah read over her shoulder. \"What does that mean\u2014set it within its root?\" \"He meant return everything to where it belongs,\" Mary said. \"Like healing a broken bone\u2014you set it back where it can grow straight.\"",
+      "rationale": "Makes complex theological concepts more accessible through character dialogue and simpler language",
+      "source_note": "Accessibility Editor - concept accessibility"
+    },
+    {
+      "location": "Day Twenty-Eight section, paragraph 1",
+      "original_text": "Thomas hadn't been present at the first appearance. Skeptical by nature, the questioner among the Twelve, the physician's mind that demanded evidence before belief.",
+      "revised_text": "The cedar beam scraped against stone as Andrew checked the door bar again. Thomas watched from the corner, counting: twelve people in a space built for eight, four weeks of hiding, and still no proof.",
+      "rationale": "Opens with immediate tension and scene rather than backstory exposition",
+      "source_note": "Binge-Read Tester - opening momentum"
+    }
+  ],
+  "total": 12
+}

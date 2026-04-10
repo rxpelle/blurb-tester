@@ -1,0 +1,103 @@
+{
+  "edits": [
+    {
+      "location": "Scene 1, paragraph 4",
+      "original_text": "She dressed quietly. Sarah \u2014 five years old now \u2014 had arranged her sleeping pebbles into geometric patterns overnight without waking. Instinctive ordering. Three years ago that would have terrified Mary. Now she let it be.",
+      "revised_text": "She dressed quietly, watching Sarah\u2014five years old now\u2014who had arranged her sleeping pebbles into geometric patterns overnight without waking. The instinctive ordering would have terrified Mary three years ago, but now she let it be.",
+      "rationale": "Combines choppy sentences and improves rhythm while maintaining meaning",
+      "source_note": "Line Editor - sentence rhythm"
+    },
+    {
+      "location": "Scene 1, paragraph 6",
+      "original_text": "She taught sixty women now, in the expanded courtyard behind Simon's house",
+      "revised_text": "She taught sixty women now, in the expanded courtyard behind Simon's house.",
+      "rationale": "Adds missing period",
+      "source_note": "Proofreader - missing punctuation"
+    },
+    {
+      "location": "Scene 1, paragraph 8",
+      "original_text": "Dual consciousness. Past and present at the same time.",
+      "revised_text": "Dual consciousness\u2014past and present held simultaneously.",
+      "rationale": "Eliminates repetition and improves flow",
+      "source_note": "Line Editor - redundancy"
+    },
+    {
+      "location": "Scene 1, paragraph 8",
+      "original_text": "arriving in clusters small enough to look like sewing circles assembling for market day",
+      "revised_text": "arriving in clusters small enough to look like sewing circles gathering for market day",
+      "rationale": "Uses period-appropriate language instead of modern organizational terminology",
+      "source_note": "Historical Authenticity Editor - anachronism - language"
+    },
+    {
+      "location": "Scene 1, paragraph 15",
+      "original_text": "They gathered weekly, arriving in clusters small enough to look like sewing circles gathering for market day",
+      "revised_text": "They gathered weekly in the women's courtyard, arriving in clusters small enough to look like sewing circles gathering for market day, though they took care that no men observed their actual discussions",
+      "rationale": "Adds cultural awareness of restrictions on women's education in 1st century Palestine",
+      "source_note": "Historical Authenticity Editor - cultural detail"
+    },
+    {
+      "location": "Scene 3, paragraph 6",
+      "original_text": "The symbols shifted, resolving into near-recognition.",
+      "revised_text": "The symbols shifted, resolving into something she almost recognized.",
+      "rationale": "Uses active voice for stronger impact and improves clarity",
+      "source_note": "Line Editor - passive voice"
+    },
+    {
+      "location": "Scene 3, paragraph 10",
+      "original_text": "almost like music notation",
+      "revised_text": "like marks a physician might use to record the progression of illness",
+      "rationale": "Replaces anachronistic comparison with period-appropriate one",
+      "source_note": "Historical Authenticity Editor - anachronism - material culture"
+    },
+    {
+      "location": "Scene 3, paragraph 18",
+      "original_text": "shelves lined with pottery jars containing scrolls wrapped in linen",
+      "revised_text": "shelves lined with tall ceramic storage jars, each sealed with a fitted lid, containing scrolls wrapped in linen",
+      "rationale": "Adds specific detail about Qumran storage practices",
+      "source_note": "Historical Authenticity Editor - material culture"
+    },
+    {
+      "location": "Scene 4, paragraph 2",
+      "original_text": "Mary went still.",
+      "revised_text": "Mary froze.",
+      "rationale": "Uses more precise, vivid verb",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 5, paragraph 1",
+      "original_text": "The ruins began where the harbor road ended \u2014 crushed limestone and fallen columns tangled with scrub cedar, the old Phoenician port buried under centuries of neglect and earthquake and the slow patient work of roots splitting stone.",
+      "revised_text": "The ruins began where the harbor road ended. Crushed limestone and fallen columns tangled with scrub cedar\u2014the old Phoenician port buried under centuries of neglect, earthquake, and roots splitting stone.",
+      "rationale": "Breaks overlong sentence into clearer, more direct sentences",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 5, paragraph 4",
+      "original_text": "digging with a bronze trowel they'd borrowed from a mason",
+      "revised_text": "digging with an iron trowel they'd borrowed from a mason",
+      "rationale": "Corrects material anachronism - bronze would not be used for construction tools in 30 CE",
+      "source_note": "Historical Authenticity Editor - anachronism - material culture"
+    },
+    {
+      "location": "Scene 5, paragraph containing Matthias",
+      "original_text": "Matthias began rolling the scrolls",
+      "revised_text": "Matthias rolled the scrolls",
+      "rationale": "Removes weak 'began to' construction for direct action",
+      "source_note": "Line Editor - padding"
+    },
+    {
+      "location": "Scene 6, paragraph 10",
+      "original_text": "You're telling me it's about transaction friction",
+      "revised_text": "You're telling me it's about the cost of changing money",
+      "rationale": "Replaces modern economic terminology with period-appropriate language",
+      "source_note": "Historical Authenticity Editor - anachronism - language"
+    },
+    {
+      "location": "Scene 5, dialogue where Nefertari speaks",
+      "original_text": "\"Go,\" Nefertari said. \"Now. Before the gates close.\"",
+      "revised_text": "\"Go. Now. Before the gates close.\"",
+      "rationale": "Removes unnecessary dialogue tag in clear exchange",
+      "source_note": "Line Editor - dialogue tags"
+    }
+  ],
+  "total": 14
+}

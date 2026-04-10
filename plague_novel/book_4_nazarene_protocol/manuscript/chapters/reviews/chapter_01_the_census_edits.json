@@ -1,0 +1,138 @@
+{
+  "edits": [
+    {
+      "location": "opening paragraph",
+      "original_text": "The world he was about to change didn't know his name yet. Rome did.",
+      "revised_text": "Marcus had catalogued three thousand faces in his census rounds across the eastern provinces. None had ever looked back at him like they were reading his thoughts.",
+      "rationale": "Creates immediate hook with Marcus in scene rather than vague thematic commentary",
+      "source_note": "Acquisitions Editor - opening hook weakness"
+    },
+    {
+      "location": "paragraph 2",
+      "original_text": "Galilee's winter dampness crawled under his cloak and into his bones",
+      "revised_text": "Galilee's winter dampness seeped through his cloak, settling in his bones",
+      "rationale": "Replaces weak, clich\u00e9d metaphor with more precise language",
+      "source_note": "Line Editor - weak verb 'crawled'"
+    },
+    {
+      "location": "paragraph 2",
+      "original_text": "the kind of cold that made his left knee\u2014broken in Thrace, badly healed\u2014throb with each shift of weight",
+      "revised_text": "cold that made his left knee\u2014broken in Germania, badly healed\u2014throb with each shift of weight",
+      "rationale": "Removes weak qualifier and corrects chronological anachronism",
+      "source_note": "Line Editor - padding removal and Scientific Accuracy Editor - Thrace chronology"
+    },
+    {
+      "location": "paragraph 2",
+      "original_text": "Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, officially to verify compliance, unofficially to identify threats",
+      "revised_text": "The Roman census ordered by Governor Pontius Pilate required local cooperation, with Herodian officials facilitating registration while Roman observers ensured compliance",
+      "rationale": "Corrects historical anachronism about census system",
+      "source_note": "Historical Authenticity Editor - anachronism taxation system"
+    },
+    {
+      "location": "paragraph 2",
+      "original_text": "Marcus drew the assignment because he spoke passable Aramaic",
+      "revised_text": "Marcus received orders for this duty because he spoke passable Aramaic",
+      "rationale": "Uses period-appropriate military terminology",
+      "source_note": "Historical Authenticity Editor - military terminology anachronism"
+    },
+    {
+      "location": "paragraph 3",
+      "original_text": "\"Name,\" Marcus said in Aramaic. His accent was terrible, but functional.",
+      "revised_text": "\"Name.\" His Aramaic accent was terrible, but functional.",
+      "rationale": "Removes unnecessary dialogue tag when speaker is clear",
+      "source_note": "Line Editor - dialogue tag over-attribution"
+    },
+    {
+      "location": "paragraph 4",
+      "original_text": "Marcus's scribe, Lucius, scratched duplicates onto wax tablets",
+      "revised_text": "Marcus's scribe, Lucius, made temporary notes on wax tablets before copying the official records onto papyrus",
+      "rationale": "Corrects anachronism about official record-keeping materials",
+      "source_note": "Historical Authenticity Editor - writing materials issue"
+    },
+    {
+      "location": "paragraph 4",
+      "original_text": "The census data would be copied to parchment later, sent to Caesarea",
+      "revised_text": "Later, scribes would copy the census data to parchment and send it to Caesarea",
+      "rationale": "Converts passive voice to active for stronger impact",
+      "source_note": "Line Editor - passive voice weakness"
+    },
+    {
+      "location": "Jesus introduction paragraph",
+      "original_text": "His hand moved to the stylus and stopped. The way a dog's ears flatten before thunder arrives.",
+      "revised_text": "His hand moved to the stylus and stopped. Something had changed\u2014the way a dog's ears flatten before thunder arrives.",
+      "rationale": "Adds transitional sentence to signal shift in Marcus's awareness",
+      "source_note": "Line Editor - paragraph flow improvement"
+    },
+    {
+      "location": "Jesus physical description",
+      "original_text": "They weren't threatening. They were *reading* him.",
+      "revised_text": "They weren't threatening. They were cataloguing details\u2014the way Marcus read military terrain before an assault.",
+      "rationale": "Shows rather than tells the 'reading' quality through specific comparison",
+      "source_note": "Immersive Experience Editor - showing vs telling"
+    },
+    {
+      "location": "Jesus marriage discussion",
+      "original_text": "Remaining unmarried this long suggested either serious poverty, social ostracism, or deliberate choice.",
+      "revised_text": "Remaining unmarried at thirty-two violated fundamental Jewish social expectations\u2014only the ritually impure, the destitute, or those under religious obligation remained unwed past twenty-five.",
+      "rationale": "Better captures the cultural weight of unmarried status in 1st century Jewish culture",
+      "source_note": "Historical Authenticity Editor - marriage customs"
+    },
+    {
+      "location": "Jesus's work description",
+      "original_text": "I'm finishing a roof beam for a widow on the north road. Olive wood. Terrible to work with",
+      "revised_text": "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked",
+      "rationale": "Corrects material culture issue - olive wood inappropriate for structural beams",
+      "source_note": "Historical Authenticity Editor - construction details"
+    },
+    {
+      "location": "Jesus's violence metaphor",
+      "original_text": "Hitting back just makes the other side hit harder. The cycle never ends unless someone refuses to swing.",
+      "revised_text": "Strike a man and he strikes back harder. The grinding never stops unless the wheel breaks.",
+      "rationale": "Replaces modern phrasing with period-appropriate metaphors",
+      "source_note": "Developmental Editor - anachronism in dialogue"
+    },
+    {
+      "location": "Jesus's blood memory explanation",
+      "original_text": "I've been dreaming of burning cities since I was three years old. Not my cities. My ancestors'.",
+      "revised_text": "Since I was three, I've been dreaming of cities burning\u2014but they're not my cities. Stone buildings I've never seen, people in ancient clothes running through streets I somehow know. I'm always carrying something\u2014scrolls, books, tools\u2014and I always know exactly where to hide them before the fire reaches us.",
+      "rationale": "Makes inherited memory more visceral and concrete for reader understanding",
+      "source_note": "Accessibility Editor - concept accessibility"
+    },
+    {
+      "location": "Jesus's genealogy response",
+      "original_text": "Generation 42. From Tausret.",
+      "revised_text": "Forty-second in the line from Tausret\u2014some counted by centuries, not individual lives.",
+      "rationale": "Addresses mathematical grounding issues with generation counting",
+      "source_note": "Scientific Accuracy Editor - genealogical reference"
+    },
+    {
+      "location": "Scene 2 opening",
+      "original_text": "as the last light bled from the sky",
+      "revised_text": "as daylight faded over the lake",
+      "rationale": "Replaces overused metaphor with fresher imagery",
+      "source_note": "Line Editor - clich\u00e9 replacement"
+    },
+    {
+      "location": "Simon consultation",
+      "original_text": "I've buried three cousins who got careless. My grandfather died in Alexandria when they burned the library. You think I haven't learned what matters? One brilliant teacher versus eighty families with children? The choice makes itself.",
+      "revised_text": "Look, centurion\u2014I've buried three cousins who got careless about who they trusted. My grandfather died in Alexandria when they burned the libraries. This network has children, grandparents, people who just want to pass down what their parents taught them. You think I don't care about Jesus? But one teacher against eighty families? The math is ugly, but it's simple.",
+      "rationale": "Grounds abstract network discussion in Simon's personal experience",
+      "source_note": "Accessibility Editor - character-driven explanation"
+    },
+    {
+      "location": "Caesarea interrogation",
+      "original_text": "His pulse was in his wrists, which was never a good sign.",
+      "revised_text": "His pulse quickened\u2014the same way it had before Germania, before Pannonia. But this was a different kind of battlefield, and twenty years had taught him to read the terrain.",
+      "rationale": "Shows Marcus using veteran instincts rather than just fear",
+      "source_note": "Developmental Editor - character development"
+    },
+    {
+      "location": "final paragraph",
+      "original_text": "If there were two of them in Galilee, there might be more. And Rome was already watching.",
+      "revised_text": "The woman turned, and her eyes met his across the crowd, and Marcus felt the recognition hit like cold water. Not just another carrier\u2014something stronger. As Jesus taught about kingdoms falling, she was seeing exactly when and how this one would. And she was afraid.",
+      "rationale": "Creates stronger cliffhanger and immediate interpersonal tension",
+      "source_note": "Series Arc Editor - chapter handoff and Thread Tracker - cliffhanger quality"
+    }
+  ],
+  "total": 19
+}

@@ -1,0 +1,131 @@
+{
+  "edits": [
+    {
+      "location": "Chapter opening",
+      "original_text": "Mary woke screaming in ancient Egyptian, begging Pharaoh Tausret not to die\u2014twelve centuries before she was born.",
+      "revised_text": "Mary woke screaming in ancient Egyptian, begging Pharaoh Tausret not to die\u2014twelve centuries before she was born.",
+      "rationale": "Creates immediate hook that signals unique premise rather than generic nightmare opening",
+      "source_note": "Acquisitions Editor - hook strength"
+    },
+    {
+      "location": "Paragraph 3, scene 1",
+      "original_text": "pre-dawn light seeping through gaps in the woven screen over the window",
+      "revised_text": "pre-dawn light seeping through gaps in the wooden shutters",
+      "rationale": "Woven screens are anachronistic for 1st century Palestine; wooden shutters are period-appropriate",
+      "source_note": "Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "Paragraph 3, scene 1",
+      "original_text": "She could smell it: Nile silt mixing with bronze foundries, human waste in overcrowded streets, smoke from cooking fires and funeral pyres coating the back of her throat.",
+      "revised_text": "Nile silt mixed with bronze foundries, human waste from overcrowded streets, smoke from cooking fires and funeral pyres coating her throat.",
+      "rationale": "Improves sentence rhythm by varying structure and eliminating weak opener",
+      "source_note": "Line Editor - sentence rhythm"
+    },
+    {
+      "location": "Paragraph 12, scene 1",
+      "original_text": "She watched\u2014experienced, somehow more than watched\u2014as a queen died",
+      "revised_text": "She watched\u2014no, experienced\u2014as a queen died",
+      "rationale": "Eliminates vague 'somehow' padding for tighter prose",
+      "source_note": "Line Editor - padding"
+    },
+    {
+      "location": "Paragraph 25, scene 1",
+      "original_text": "She'd been buying bread when the world shifted and she was somewhere else",
+      "revised_text": "She'd been buying bread when the world shifted, pulling her somewhere else",
+      "rationale": "Converts passive voice to active for stronger impact",
+      "source_note": "Line Editor - passive voice"
+    },
+    {
+      "location": "Paragraph 18, scene 1",
+      "original_text": "Her stomach dropped.",
+      "revised_text": "The words hit like cold water.",
+      "rationale": "Replaces dead metaphor with fresher expression",
+      "source_note": "Line Editor - cliche"
+    },
+    {
+      "location": "Scene 2, journey description",
+      "original_text": "The walk to Capernaum took four hours. Sarah chattered for the first mile, then dragged, then had to be carried.",
+      "revised_text": "Four hours to Capernaum: Sarah chattering, then dragging, finally carried.",
+      "rationale": "Consolidates repetitive travel details for better flow",
+      "source_note": "Line Editor - redundancy"
+    },
+    {
+      "location": "Jesus dialogue, Scene 2",
+      "original_text": "'Your mother,' he said quietly. 'She had it too.'",
+      "revised_text": "'Your mother.' His voice dropped. 'She had it too.'",
+      "rationale": "Uses simple dialogue formatting instead of adverbial tags",
+      "source_note": "Line Editor - dialogue tags"
+    },
+    {
+      "location": "Scene 3, Anna introduction",
+      "original_text": "Simon's wife Anna had taken Sarah without being asked. Mary was standing in the doorway, Sarah's hand in hers, twelve strangers turning toward them, and before she could explain or apologize, Anna was there",
+      "revised_text": "Simon's wife Anna had taken Sarah without being asked. Mary stood in the doorway, Sarah's hand in hers, twelve strangers turning toward them. Before she could explain or apologize, Anna appeared",
+      "rationale": "Breaks up run-on sentence and smooths transition for better flow",
+      "source_note": "Line Editor - paragraph flow"
+    },
+    {
+      "location": "Scene 3, grounding exercise",
+      "original_text": "His face changed \u2014 went tight, jaw clenching",
+      "revised_text": "His face changed \u2014 tightened, jaw clenching",
+      "rationale": "Uses more precise verb instead of imprecise construction",
+      "source_note": "Line Editor - word choice"
+    },
+    {
+      "location": "Scene 1, Mary's backstory",
+      "original_text": "I've seen enough traveling healers to recognize a pitch",
+      "revised_text": "I have seen such healers before\u2014I know their promises",
+      "rationale": "Replaces modern colloquialism with period-appropriate language",
+      "source_note": "Historical Authenticity Editor - anachronism"
+    },
+    {
+      "location": "Scene 1, medical description",
+      "original_text": "she would fall, her body rigid, then wake confused and drained",
+      "revised_text": "she would fall as if struck down, her limbs stiff as wood, then wake as one emerging from deep wells",
+      "rationale": "Uses period-appropriate language for describing episodes rather than clinical terms",
+      "source_note": "Historical Authenticity Editor - medical concepts"
+    },
+    {
+      "location": "Scene 2, travel provisions",
+      "original_text": "bread and dried fish that remained",
+      "revised_text": "wheat cakes and dried fish that remained",
+      "rationale": "Specifies bread type for period authenticity",
+      "source_note": "Historical Authenticity Editor - food culture"
+    },
+    {
+      "location": "Scene 3, grounding technique",
+      "original_text": "When the old memories surface, you name five things in the present",
+      "revised_text": "When the ancient visions rise, you must anchor your spirit\u2014speak aloud what the Holy One has placed before you now",
+      "rationale": "Reframes modern therapeutic concept in period-appropriate religious/mystical terms",
+      "source_note": "Historical Authenticity Editor - psychological concepts"
+    },
+    {
+      "location": "Scene 3, disciples' reaction",
+      "original_text": "Andrew shifted uncomfortably. 'But teaching a woman\u2014is that appropriate?'",
+      "revised_text": "Andrew recoiled. 'Rabbi, this violates all custom. The Law forbids\u2014' 'The Law says nothing of this,' Jesus cut him short, but three men had already moved toward the door.",
+      "rationale": "Strengthens period-appropriate gender conflict and shows realistic cultural resistance",
+      "source_note": "Historical Authenticity Editor - social norms"
+    },
+    {
+      "location": "Chapter ending",
+      "original_text": "Someone was watching them.",
+      "revised_text": "Someone was watching them. And in the way the soldier had looked at her through the crowd\u2014not curious, but knowing\u2014Mary realized this wasn't the first time. They'd been tracking her bloodline. Tracking them all. The question wasn't whether they'd been found, but how long the Order had been watching, and what they were waiting for.",
+      "rationale": "Strengthens cliffhanger by connecting to series-level threats and creating urgency for next chapter",
+      "source_note": "Series Arc Editor - throughline advancement"
+    },
+    {
+      "location": "Scene 1, comfort gesture",
+      "original_text": "Mary pulled her daughter close, feeling the solid warmth of her small body.",
+      "revised_text": "Mary pulled her daughter close, her hand rising instinctively toward Sarah's cheek\u2014fingers spread, thumb brushing the temple in a gesture that came from somewhere deeper than memory. The same way Nefertari had touched dying faces in Pi-Ramesses, offering comfort when medicine failed.",
+      "rationale": "Adds the love echo/reaching gesture throughline motif that must appear in every chapter",
+      "source_note": "Series Arc Editor - love echo absence"
+    },
+    {
+      "location": "Pattern Eye discussion",
+      "original_text": "'The Pattern Eye,' Jesus breathed. He exchanged a look with Simon that Mary couldn't read. 'We've been looking for that for a very long time.'",
+      "revised_text": "'The Pattern Eye,' Jesus breathed. He exchanged a look with Simon that Mary couldn't read. 'We've been searching for three years. Without it, we can't read the collapse patterns clearly enough to stay ahead of them. If your visions can track its path from Mycenae...' He leaned forward. 'Mary, you may have just given us the thread we need to find it before the Order does.'",
+      "rationale": "Adds urgency around the Pattern Eye and connects to Order pursuit throughline",
+      "source_note": "Series Arc Editor - key pursuit progression"
+    }
+  ],
+  "total": 18
+}

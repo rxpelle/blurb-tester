@@ -12,13 +12,13 @@
 
 Mary's back ached from sitting on stone.
 
-She'd been on the low wall since before the women arrived, arranging herself in the courtyard behind Simon's house while the sky was still grey, positioning the oil lamps so their light fell across the mats where eighty women would sit. Eighty. She counted them the way she'd once counted salt barrels in her warehouse -- not from pride but from the merchant's instinct that said uncounted inventory was lost inventory. Eighty women in a space built for thirty, spilling out past the fig tree into the alley where Rachel had hung linen screens to block the view from the street.
+She'd been on the low wall since before the women arrived, arranging herself in the courtyard behind Simon's house while the sky was still grey, positioning the oil lamps so their light fell across the mats where eighty women would sit. Eighty. She counted them the way she'd once counted clay jars of salt in her warehouse -- not from pride but from the merchant's instinct that said uncounted inventory was lost inventory. Eighty women in a space built for thirty, spilling out past the fig tree into the alley where Rachel had hung linen screens to block the view from the street.
 
 The cold had settled into Mary's hips and the base of her spine. December wind off the lake, carrying the smell of dead reeds and fish oil from the salting works. Her fingers were stiff. She flexed them, pressed her palms against the rough limestone, felt the grit of it under her skin. Present. Here. Not twelve hundred years ago in a city that didn't exist anymore.
 
 The women came in clusters of three and four, arriving from different directions at staggered intervals the way Mary had taught them -- never more than a sewing circle assembling for market day. Fishermen's wives with salt-cracked hands. Merchants' daughters who could read. Widows who had nowhere else to go. A handful from Magdala who remembered when Mary was the possessed woman, the one the town whispered about. They didn't whisper anymore. They came every week and sat on cold stone and listened because something in Mary's teaching made them feel less alone with what they carried.
 
-Not all of them were carriers. Maybe a third had the blood memory. The rest came because the teaching worked anyway -- because reading the signs of trouble before it arrived was useful whether or not you dreamed of burning cities.
+Not all of them had the dreams. Maybe a third inherited the old memories the way Sarah did. The rest came because the teaching worked anyway -- because reading the signs of trouble before it arrived was useful whether or not you dreamed of burning cities.
 
 Deborah arrived last, breathing hard, a bruise along her jaw she'd covered with her headscarf but hadn't covered well enough. Mary saw it. Deborah saw Mary see it. Neither spoke about it yet.
 
@@ -26,9 +26,9 @@ Deborah arrived last, breathing hard, a bruise along her jaw she'd covered with 
 
 She'd been teaching the parable of the Prodigal Son for three sessions now, but not the way Jesus taught it to crowds on hillsides. Not as a story about sin and forgiveness. Mary taught it as a map.
 
-"The younger son takes his inheritance and leaves. That's the first estrangement. He doesn't leave because he's wicked. He leaves because the household has become intolerable and he doesn't have the language to say why." She looked across the courtyard. Eighty faces, most of them knowing exactly what an intolerable household felt like. "He burns through the money. Falls into desperation. And then -- the part everyone remembers -- he comes home."
+"You know the story -- the younger son takes his inheritance, leaves, wastes everything, comes home." She looked across the courtyard. Eighty faces, most of them knowing exactly what an intolerable household felt like.
 
-Mary paused. Let the silence hold the way Jesus had taught her, letting the space between words do the work.
+Mary paused. She paused as Jesus had taught her, allowing the space between words to carry meaning.
 
 "But the return isn't the point. The return is where most people stop listening. What I want you to hear is what happens to the father while the son is gone."
 
@@ -36,17 +36,11 @@ She leaned forward. Her back protested. She ignored it.
 
 "The father watches the road. Every day. He doesn't send people after the son, doesn't hunt him down, doesn't demand repayment. He watches the road. That's the cost of staying in relationship with someone who has left -- you watch the road and you absorb the waiting, and the waiting changes you. By the time the son returns, the father has been carrying the weight of that absence for months. Maybe years. The running out -- that takes a moment. The coming home takes everything the father has."
 
-Deborah's hand moved to her jaw. Unconscious gesture. Mary caught it, held it in her awareness, and continued.
-
-"Now. The older son. He's been home the entire time, doing everything right, and he's furious when the father celebrates the return. He says -- and he's not wrong -- 'I've been here. I've done the work. And you never threw a feast for me.' His anger is legitimate. He has been carrying the household while his brother burned through the inheritance. That's real labor, and nobody acknowledged it."
-
-A woman in the third row -- Ruth, thin-faced, her hands working the hem of her robe -- made a sound that was almost a laugh but harder.
-
-"The father doesn't dismiss the older son's anger. He says, 'Everything I have is yours.' Which isn't comfort. It's information. He's saying: the household's resources have always been available to you. You stayed because you chose to, and the cost of your staying is real, and it doesn't diminish because your brother's return is also real."
+Deborah's hand moved to her jaw. Unconscious gesture. Mary caught it, held it in her awareness.
 
 Mary stopped. She'd been standing without realizing it. The cold stone had been replaced by something warmer -- the familiar current that ran through her body when the teaching found its shape.
 
-"Both sons are in pain. The father absorbs both costs. The household doesn't go back to how it was before the leaving. It becomes something else -- marked by the estrangement, carrying the scar of it, but still standing. That's not forgiveness as instruction. It's a description of what happens when a system holds instead of breaking."
+"The household doesn't go back to how it was before the leaving. It becomes a different household -- marked by the estrangement, carrying the scar of it, but still standing. That's not forgiveness as instruction. It's a description of what happens when a system holds instead of breaking."
 
 She sat back down. Let the teaching settle.
 
@@ -58,7 +52,7 @@ The courtyard was very still.
 
 "It didn't work?" someone asked.
 
-"It worked for two hours. He ate. He sat. The anger passed through him the way Mary describes -- like weather. I watched it move." Deborah's voice was steady. Merchant-steady, the kind of steadiness that came from practice. "Then the youngest cried and he couldn't absorb it. The intervention held for two hours. Last month it wouldn't have held for two minutes."
+"It worked for two hours. He ate. He sat. The anger passed through him the way Mary describes -- like weather. I watched it move." Deborah's voice was steady. Merchant-steady, a steadiness that came from practice. "Then the youngest cried and he couldn't absorb it. The intervention held for two hours. Last month it wouldn't have held for two minutes."
 
 Mary nodded. "Two hours is real. That's two hours your children didn't hear violence. That's a pattern change, even if it didn't hold all night."
 
@@ -112,7 +106,7 @@ She felt the change before she heard it. Sarah's body stiffened beside her, the 
 
 Mary put her hand on Sarah's back. Warm. Too warm.
 
-"Mama." Sarah's voice was thick with sleep and something else. "The lady is showing me the workshop again."
+"Mama." Sarah's voice was thick with sleep and wonder. "The lady is showing me the workshop again."
 
 Nefertari.
 
@@ -156,7 +150,7 @@ Sarah turned in her arms. In the thin moonlight through the screen, her daughter
 
 "I think so. All of us do, in our family. Going back a very long time."
 
-Sarah was quiet. Mary could feel her thinking -- the particular quality of stillness that meant Sarah was assembling something inside her head, fitting pieces together the way she'd arranged sleeping pebbles in geometric patterns since she was three.
+Sarah was quiet. Mary could feel her thinking -- the quality of stillness that meant Sarah was assembling something inside her head, fitting pieces together the way she'd arranged sleeping pebbles in geometric patterns since she was three.
 
 "Your mama -- my grandmother. She had the dreams too?"
 
@@ -168,7 +162,7 @@ Mary's throat closed. She'd told Sarah the truth about her mother's death a year
 
 "She died at thirty-four," Mary said. "She didn't have anyone to teach her what I'm teaching you. The dreams overwhelmed her because she was alone with them."
 
-Sarah's hand found Mary's hand in the dark. Small fingers threading through larger ones with the particular grip of a child who has learned that hands are the most reliable anchor in the world.
+Sarah's hand found Mary's hand in the dark. Small fingers threading through larger ones with the grip of a child who has learned that hands are the most reliable anchor in the world.
 
 "I won't die like that," Sarah said. "I know the grounding. Five things. I practice every night."
 
@@ -194,11 +188,11 @@ Leah sat to her left. Steady as bedrock, wide-shouldered, the kind of woman who 
 
 And three women Mary had never met.
 
-The first was Tabitha, who'd arrived from Antioch two days ago. Dark skin, calloused hands, a merchant's traveling cloak still dusty from the road. She'd heard about the teaching through a spice trader who supplied Mary's old network in Magdala -- the trade routes carrying information the way they'd always carried information, embedded in gossip and business correspondence and the ordinary traffic of women who talked to each other while their husbands talked to no one.
+Tabitha had nearly been caught by Roman patrols twice on the road from Antioch. Dark skin, calloused hands, a merchant's traveling cloak still dusty from the road. She'd heard about the teaching through a spice trader who supplied Mary's old network in Magdala -- the trade routes carrying information the way they'd always carried information, embedded in gossip and business correspondence and the ordinary traffic of women who talked to each other while their husbands talked to no one.
 
-The second was Phoebe, from Damascus. Younger than Tabitha, with the careful speech of someone speaking her second language. She ran a textile workshop that employed fourteen women, and she'd been teaching them pattern recognition for six months based on fragments she'd heard thirdhand from a woman who'd attended Mary's circle in Capernaum and then moved east.
+Phoebe arrived from Damascus with news that women's gatherings were being watched. Younger than Tabitha, with the careful speech of someone speaking her second language. She ran a textile workshop that employed fourteen women, and she'd been teaching them pattern recognition for six months based on fragments she'd heard thirdhand from a woman who'd attended Mary's circle in Capernaum and then moved east.
 
-The third was Miriam of Alexandria. She said almost nothing. She sat with her hands folded and her eyes moving from face to face with the calm attention of someone who evaluated situations before committing to them. Mary recognized the posture. It was her own.
+Only Miriam of Alexandria seemed unworried -- which worried Mary most of all. She said almost nothing. She sat with her hands folded and her eyes moving from face to face with the calm attention of someone who evaluated situations before committing to them. Mary recognized the posture. It was her own. But there was something else behind Miriam's calm — a wariness Mary recognized from her own early days. The wariness of someone who had been watched by people who weren't Roman and weren't Temple, and had learned not to mention it.
 
 "Thank you for coming," Mary said. "I know what it cost to travel here."
 
@@ -218,7 +212,7 @@ The room went very still. Nobody pretended not to understand.
 
 Tabitha's jaw tightened. "Then why aren't we running now?"
 
-"Because running now scatters us before we're ready. We have twelve months to build routes that hold after the scattering." Mary touched the map. "Damascus. Phoebe, your workshop is the anchor. Women arriving from Palestine after the execution -- they come to you first. You house them, orient them, connect them to local communities."
+"Because running now scatters us before we're ready. We have twelve months to build routes that hold after the scattering." Mary touched the map. "Damascus first, Phoebe. When women run after they kill him, they'll be scared and alone. Your workshop becomes their safe house."
 
 Phoebe nodded. Her face had gone careful. "I can take six at a time. More if they work."
 
@@ -270,7 +264,7 @@ She let it sit. Didn't soften it. Didn't offer comfort.
 
 The room was quiet. The oil lamp steadied, its flame standing straight in the still air.
 
-"The teaching survives in two ways," Mary said. "Through the blood -- the memories our children inherit whether we train them or not. And through practice -- the circles, the interventions, the women catching each other when the teaching fails. The blood we can't control. The practice we can."
+"The teaching survives in two ways," Mary said. "Through the blood -- the memories our children inherit whether we train them or not. And through practice -- the circles, the interventions, the women catching each other when the teaching fails. The blood we can't control. The practice we can. And through the keys — if we can find the last two before the scattering. Without the full set, every generation after us reads the pattern through broken glass."
 
 She rolled the map. Her hands had warmed around the clay cup and were cooling again.
 
