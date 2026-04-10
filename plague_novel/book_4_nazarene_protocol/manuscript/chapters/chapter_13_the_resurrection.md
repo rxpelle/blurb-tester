@@ -380,6 +380,6 @@ Outside, Damascus slept. The date palm moved in a wind that had come from the so
 - Pattern Eye and two defensive keys with Sarah/Leah in Damascus
 - Defensive network scattered: Antioch, Ephesus, Corinth, Alexandria, Cyrene
 - Peter and disciples in Jerusalem, told of resurrection
-- Marcus still in Jerusalem, preparing to travel to Damascus
+- Titus still in Jerusalem, preparing to travel to Damascus
 - Forty-day appearance period beginning
 - Chapter 14 will cover: forty days, ascension, church formation, scatter, Mary's death in Alexandria

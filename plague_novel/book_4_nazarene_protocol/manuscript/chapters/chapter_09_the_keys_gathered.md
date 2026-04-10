@@ -1,7 +1,7 @@
 # CHAPTER 9: THE KEYS GATHERED
 
 **Timeline:** 32 CE Summer (9-10 months before crucifixion)
-**POV:** Jesus (primary), Mary (secondary), Marcus (brief)
+**POV:** Jesus (primary), Mary (secondary), Titus (brief)
 
 ---
 
@@ -209,19 +209,19 @@ He slept. She didn't. She lay in the desert dark and felt his pulse under her fi
 
 ## SCENE 4: THE RESPONSE
 
-Marcus arrived at Simon's house after dark, six days after they returned from Qumran. He didn't sit.
+Titus arrived at Simon's house after dark, six days after they returned from Qumran. He didn't sit.
 
-"Caiaphas moved his three keys to a vault beneath the Temple treasury." Marcus kept his voice low, but his hand rested on the doorframe the way it did when he was calculating exits. "He knows about the Qumran trip. And his spies in Galilee are reporting that your teaching has changed. Sharper. More precise."
+"Caiaphas moved his three keys to a vault beneath the Temple treasury." Titus kept his voice low, but his hand rested on the doorframe the way it did when he was calculating exits. "He knows about the Qumran trip. And his spies in Galilee are reporting that your teaching has changed. Sharper. More precise."
 
 Simon looked at Jesus. Jesus looked at the wall.
 
-"If they decide you've reached full strength, they won't wait for Passover." Marcus paused. "Arrest within weeks. Maybe less."
+"If they decide you've reached full strength, they won't wait for Passover." Titus paused. "Arrest within weeks. Maybe less."
 
 The room was quiet. Outside, someone's donkey brayed and a dog answered it. The ordinary sounds of a village that didn't know what was being discussed in this house.
 
 "So I teach deeply but leave some edges rough," Jesus said. "Let them think I'm still growing."
 
-Marcus stared at him. "You're talking about performing weakness while the Temple decides whether to kill you now or later."
+Titus stared at him. "You're talking about performing weakness while the Temple decides whether to kill you now or later."
 
 "Yes."
 
@@ -305,7 +305,7 @@ Below them, Capernaum's lamps flickered on one by one. Nine months. And the Temp
 - Jesus has achieved two-key clarity — can teach with precision but must perform weakness to avoid timeline acceleration
 - Helena of Alexandria delivered two bronze keys (blistered hands, six-day journey)
 - Temple (Caiaphas) moved their three keys to secured vault, aware of Qumran trip
-- Marcus warns: arrest within weeks if full strength is demonstrated
+- Titus warns: arrest within weeks if full strength is demonstrated
 - Jesus performing strategic ambiguity — teaching deeply but leaving rough edges
 - Sarah (age 7, Generation 43) can already hear both layers of the parables
 - Mary is awake to the cost of Sarah's inheritance

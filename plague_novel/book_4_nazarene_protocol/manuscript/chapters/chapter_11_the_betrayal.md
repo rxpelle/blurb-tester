@@ -1,20 +1,20 @@
 # Chapter 11: The Betrayal
 
 **Timeline:** 33 CE Spring (Passover Festival - Day of Arrest)
-**POV:** Marcus Publius Scipio (primary), Jesus, Mary, Judas
+**POV:** Titus Publius Scipio (primary), Jesus, Mary, Judas
 **Word Count:** ~6,550 words
 
 ---
 
 ## Scene 1: The Festival Morning
 
-Marcus Publius Scipio had witnessed countless executions in fifteen years of Roman service, criminals, revolutionaries, inconvenient truth-tellers.
+Titus Publius Scipio had witnessed countless executions in fifteen years of Roman service, criminals, revolutionaries, inconvenient truth-tellers.
 
 But he'd never watched someone walk deliberately toward their own.
 
 The Passover morning broke clear and cool over Jerusalem. Fifteen thousand pilgrims packed the streets, roasting lamb and fresh herbs, with unleavened bread stacked in baskets outside every door while children chased each other through the crowds. The smell of hyssop and charred bone drifted from courtyards where families prepared the seder meal, punctuated by the sound of Temple trumpets carrying from the Mount.
 
-Marcus positioned himself at the crowd's edge, wax tablets hidden in his cloak. Close enough to observe. Far enough to slip away if things turned violent.
+Titus positioned himself at the crowd's edge, wax tablets hidden in his cloak. Close enough to observe. Far enough to slip away if things turned violent.
 
 He'd stood at edges like this before — watching a Thracian cohort march into an ambush he'd reported, and been ignored about. Watching men he'd trained walk into deaths he could have prevented. The distance never got easier. You just got better at holding the stylus steady.
 
@@ -22,15 +22,15 @@ Today he would document an arrest. Tomorrow, a crucifixion.
 
 The carpenter climbed onto the teaching platform for the final time.
 
-Marcus scanned the crowd, cataloging exits and threats. Temple watchers visible at the edges, identifiable by their careful attention and the way they didn't actually celebrate.
+Titus scanned the crowd, cataloging exits and threats. Temple watchers visible at the edges, identifiable by their careful attention and the way they didn't actually celebrate.
 
 Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full contubernium — eight men, which meant official sanction. More soldiers than a teaching carpenter warranted unless the authorities expected resistance.
 
 They did.
 
-The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Marcus recognized. The rescue team.
+The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Titus recognized. The rescue team.
 
-They were preparing to fail. Marcus had seen the other side's positioning yesterday, extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
+They were preparing to fail. Titus had seen the other side's positioning yesterday, extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
 
 Near the teaching platform, Mary stood with Sarah. Eight years old and holding her mother's hand. Mary's knuckles white. Her jaw clenched so tight the muscle worked visibly from forty paces.
 
@@ -92,7 +92,7 @@ The upper room was too hot. Fifteen bodies in a space meant for ten, the evening
 
 The food was simple and already going stale: flatbread baked that morning, now cooling into tough rounds that required effort to break. Bitter herbs in a clay bowl, their sharp green smell cutting through the room's heaviness. A paste of dates and figs and almonds, dark and sweet, the charoset of remembrance. Roasted lamb, the festival requirement, its fat already congealing in the warm air. And the wine — sour, the kind you drank quickly because lingering made it worse. Dark as old blood in the cups that passed from hand to hand.
 
-They reclined on low couches arranged around a stone table. Peter on his left, close enough that Marcus could smell the lake salt that never entirely left a fisherman's skin, even years after he'd dropped his nets. John on his right, youngest of them, his face still unlined in the lamplight. Andrew and James beyond Peter, pressed together on a couch too narrow for two grown men. Thomas against the far wall, legs drawn up, watching everything with the skepticism that was either his gift or his wound — Jesus had never decided which. The others filled the spaces between: Philip, Bartholomew, Matthew the tax collector who still sat slightly apart from the rest as if expecting to be asked to leave, Simon the Zealot whose jaw never fully unclenched, Thaddaeus and James son of Alphaeus shoulder to shoulder like the brothers they nearly were.
+They reclined on low couches arranged around a stone table. Peter on his left, close enough that Titus could smell the lake salt that never entirely left a fisherman's skin, even years after he'd dropped his nets. John on his right, youngest of them, his face still unlined in the lamplight. Andrew and James beyond Peter, pressed together on a couch too narrow for two grown men. Thomas against the far wall, legs drawn up, watching everything with the skepticism that was either his gift or his wound — Jesus had never decided which. The others filled the spaces between: Philip, Bartholomew, Matthew the tax collector who still sat slightly apart from the rest as if expecting to be asked to leave, Simon the Zealot whose jaw never fully unclenched, Thaddaeus and James son of Alphaeus shoulder to shoulder like the brothers they nearly were.
 
 And at the table's end, not reclining but sitting upright on a low stool because the couch arrangement left no room: Mary. Sarah in her lap, legs dangling, taking up the space a grown woman would have occupied. The disciples had made room for them the way you make room for something you don't entirely understand — generously, but with a slight pulling-back, a boundary maintained.
 
@@ -238,9 +238,9 @@ Bile rose in his throat.
 
 ---
 
-*Marcus POV*
+*Titus POV*
 
-From forty paces, Marcus wrote it down. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest. His stylus moved steady and precise, the hand of a man trained to observe while other men bled. He hated the steadiness. Hated that his body had learned to function while his chest hollowed out.
+From forty paces, Titus wrote it down. The kiss signal. The extra guards. Peter's panicked violence. Jesus healing the guard's ear even during arrest. His stylus moved steady and precise, the hand of a man trained to observe while other men bled. He hated the steadiness. Hated that his body had learned to function while his chest hollowed out.
 
 The disciples scattered: Peter first, dropping his sword and running, then the others after him. The rescue team melted into the crowd. Mary and Sarah disappeared down the Damascus route, Simon covering their retreat.
 
@@ -250,7 +250,7 @@ The guards surrounded Jesus. Malchus touched his healed ear, staring at the man 
 
 They bound his hands without gentleness.
 
-Marcus kept writing. Third tablet now. Judas standing alone in the emptied space, staring at Jesus being led away, his face showing not failure but recognition. His own purpose walking away in chains.
+Titus kept writing. Third tablet now. Judas standing alone in the emptied space, staring at Jesus being led away, his face showing not failure but recognition. His own purpose walking away in chains.
 
 He'd worn that look himself three weeks ago.
 
@@ -274,7 +274,7 @@ The streets of Jerusalem at night smelled of festival cooking — roasted lamb a
 
 Simon stopped at the checkpoint. "Damascus. Leah takes Sarah."
 
-The words landed in Mary's body before her mind processed them. This was the plan. They had rehearsed this. Sarah goes north with Leah. Mary goes back. Mary witnesses what comes next because someone has to and Marcus can't do it alone and the women need to see it through because the men have already run.
+The words landed in Mary's body before her mind processed them. This was the plan. They had rehearsed this. Sarah goes north with Leah. Mary goes back. Mary witnesses what comes next because someone has to and Titus can't do it alone and the women need to see it through because the men have already run.
 
 She knelt on the cobblestones. The stone was cold through the fabric of her robe, gritty with street dust and the dried remnants of the day's foot traffic. She pulled Sarah against her chest.
 
@@ -396,50 +396,50 @@ He stepped off the branch.
 
 ---
 
-*Marcus POV*
+*Titus POV*
 
-Marcus found Judas's body at dawn.
+Titus found Judas's body at dawn.
 
 The air tasted of woodsmoke and baking bread, Jerusalem waking to another festival morning. Vendors setting up stalls. Pilgrims moving toward the Temple. The ordinary machinery of a city that had condemned a man to death yesterday and was having breakfast today.
 
-The fig tree stood on the eastern slope where the road bent toward Bethany. Good vantage point — Marcus noted it automatically, the old habit of assessing terrain. Clear sightlines in three directions. Easy approach, difficult to observe from below. Judas had chosen it well. Even at the end, the operative's instinct for positioning.
+The fig tree stood on the eastern slope where the road bent toward Bethany. Good vantage point — Titus noted it automatically, the old habit of assessing terrain. Clear sightlines in three directions. Easy approach, difficult to observe from below. Judas had chosen it well. Even at the end, the operative's instinct for positioning.
 
 The rope still swayed slightly in the morning breeze.
 
-Marcus stood beneath the body and made himself look. Judas's face was dark, swollen, the features distorted but still recognizable, the sharp jaw, the close-trimmed beard, the brow that had furrowed in concentration during every planning session Marcus had observed from his documentation distance. His hands hung at his sides. Strong hands. The hands of a man who had pulled seven people to safety.
+Titus stood beneath the body and made himself look. Judas's face was dark, swollen, the features distorted but still recognizable, the sharp jaw, the close-trimmed beard, the brow that had furrowed in concentration during every planning session Titus had observed from his documentation distance. His hands hung at his sides. Strong hands. The hands of a man who had pulled seven people to safety.
 
-Marcus opened his wax tablet. Wrote down the position, the method, the location. The time. The condition of the body. Added it to last night's record, stylus moving in the steady script he'd used for fifteen years of military reports. Someone, someday, would need to understand what happened here. Would need to know that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work. That the man history would call traitor had died like a soldier who lost his commanding officer. Not from shame but from the unbearable fact of surviving someone you were supposed to protect.
+Titus opened his wax tablet. Wrote down the position, the method, the location. The time. The condition of the body. Added it to last night's record, stylus moving in the steady script he'd used for fifteen years of military reports. Someone, someday, would need to understand what happened here. Would need to know that Judas's death wasn't guilt over betrayal but grief over a rescue he couldn't make work. That the man history would call traitor had died like a soldier who lost his commanding officer. Not from shame but from the unbearable fact of surviving someone you were supposed to protect.
 
 He closed the tablet. Didn't leave immediately.
 
 He sat on a stone beneath the tree, within arm's reach of Judas's hanging feet, and was still for a moment. The morning light moved across the hillside. A bird sang in the fig tree's upper branches, indifferent to what hung from the lower one. The city's noise rose — voices, carts, livestock, the accumulated sound of thousands of lives proceeding as if nothing had changed.
 
-Marcus had sat with the dead before. Beside men whose names he'd known and whose faces he'd forgotten and whose deaths he carried in his body the way soldiers carry all their dead. Not in memory but in the shoulders, in the jaw, in the way you hold yourself upright when the weight wants to pull you down.
+Titus had sat with the dead before. Beside men whose names he'd known and whose faces he'd forgotten and whose deaths he carried in his body the way soldiers carry all their dead. Not in memory but in the shoulders, in the jaw, in the way you hold yourself upright when the weight wants to pull you down.
 
-He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas at network meetings, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Marcus had ever observed, a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
+He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas at network meetings, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Titus had ever observed, a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
 
 That was the Judas who hung from this tree. Not a traitor. A rescuer who ran out of people to save, starting with himself.
 
-Marcus wrote that down too.
+Titus wrote that down too.
 
 Then he stood. Wiped his stylus on his cloak. Tucked the tablets away.
 
 Left the body for the authorities to find. Crucifixion started in three hours.
 
-The walk to Golgotha took twenty minutes through streets thick with festival traffic. Marcus moved through the crowd the way he always moved — efficiently, without drawing attention, the practiced invisibility of a man who had spent his professional life watching from edges.
+The walk to Golgotha took twenty minutes through streets thick with festival traffic. Titus moved through the crowd the way he always moved — efficiently, without drawing attention, the practiced invisibility of a man who had spent his professional life watching from edges.
 
 Somewhere on the Damascus road, a woman and an eight-year-old girl carried the teaching forward. Somewhere in a holding cell, a carpenter waited for nails. And here, walking toward the hill where they killed people, a retired military officer carried three wax tablets and a stylus and the steady, corrosive knowledge that he would document everything and save nothing.
 
 He passed a woman carrying her infant in a sling, the child's face pressed against her neck, both of them smelling of milk and sleep. He passed an old man arguing with a merchant over the price of figs. He passed two boys chasing a dog through a gap between market stalls, their laughter high and sharp in the morning air. All of them living. All of them untouched by what was about to happen on the hill above the city. The world continuing, as it always continued, ordinary and relentless and indifferent to the deaths that shaped it.
 
-Marcus steadied his grip on the stylus and walked toward Golgotha.
+Titus steadied his grip on the stylus and walked toward Golgotha.
 
 ---
 
 **END CHAPTER 11**
 
 **Word Count:** ~6,550 words
-**Status:** EXPANDED Phase 1 — Last Supper immersive (seating, food, Peter's face, Sarah drinking), Mary/Sarah separation devastated (smell of hair, moonlight, forced letting-go), Judas's death slowed (silver weight, mother in Kerioth, Jerusalem ordinary morning, the laugh by the lake), Marcus finding Judas grounded (sitting with the body)
+**Status:** EXPANDED Phase 1 — Last Supper immersive (seating, food, Peter's face, Sarah drinking), Mary/Sarah separation devastated (smell of hair, moonlight, forced letting-go), Judas's death slowed (silver weight, mother in Kerioth, Jerusalem ordinary morning, the laugh by the lake), Titus finding Judas grounded (sitting with the body)
 **Next Chapter:** Chapter 12 "The Execution" - Crucifixion sequence
 
 ---
@@ -449,7 +449,7 @@ Marcus steadied his grip on the stylus and walked toward Golgotha.
 - Mary and Sarah reached Damascus safe house
 - Defensive network scattered to multiple cities
 - Judas dead (suicide after failed extraction)
-- Marcus positioned to document execution
+- Titus positioned to document execution
 - Pattern Eye and bronze keys secured with Mary
 - Documentation multiplied and distributed
 - Chapter 12 will cover crucifixion, death, and immediate aftermath

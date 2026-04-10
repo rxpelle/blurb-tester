@@ -98,7 +98,7 @@ She ground the herbs until there was nothing left to grind.
 
 
 
-They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's circles, Marcus writing from the edges. The air smelled of wild thyme and warm stone.
+They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's circles, Titus writing from the edges. The air smelled of wild thyme and warm stone.
 
 Forty days of appearances. Different locations, different witnesses, different teachings. Now: the final one.
 
@@ -106,7 +106,7 @@ Jesus stood before them, solid in the midday sun.
 
 "You will receive power," Jesus said, "when the Holy Spirit comes upon you. And you will be my witnesses in Jerusalem, Judea, Samaria, and to the ends of the earth."
 
-Mary Magdalene held Sarah's hand. Marcus wrote from the edges.
+Mary Magdalene held Sarah's hand. Titus wrote from the edges.
 
 Jesus lifted his hands in blessing. Then began walking upward on the hillside, sun behind him, figure silhouetted against sky.
 
@@ -126,7 +126,7 @@ Sarah nodded. She'd dreamed it. Pi-Ramesses, Babylon, cities she had no words fo
 
 Mary brushed hair from her daughter's face. "You'll carry what I carry. And pass it to your daughter. And she'll pass it to hers. Until someone, someday, doesn't have to hide it anymore."
 
-They walked down from the Mount of Olives. The twelve ahead, talking in low voices. The women around Mary, quiet, steady. Marcus at the edge with his tablets.
+They walked down from the Mount of Olives. The twelve ahead, talking in low voices. The women around Mary, quiet, steady. Titus at the edge with his tablets.
 
 Forty days complete. Now the long work.
 

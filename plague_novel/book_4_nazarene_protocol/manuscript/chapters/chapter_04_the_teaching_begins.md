@@ -312,7 +312,7 @@ The visions receded. Never gone, but manageable.
 8. Core group formed (13 network + 1 primary) ✓
 
 **Continuity Verified:**
-- Marcus observing (mentioned, not shown - will appear later chapters) ✓
+- Titus observing (mentioned, not shown - will appear later chapters) ✓
 - John in wilderness (searching for Pattern Eye, autumn mission) ✓
 - Mary's journey from Magdala (callback to Ch 2) ✓
 - Blood memory references (visions, grounding techniques) ✓

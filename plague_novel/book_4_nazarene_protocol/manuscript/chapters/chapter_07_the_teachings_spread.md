@@ -4,7 +4,7 @@
 **Timeline:** 31 CE Autumn → 32 CE Spring - 1,208-1,209 years after Genesis Protocol creation
 **Location:** Galilee circuit, Jerusalem, Bethany
 **Generation:** 42 (Jesus ben Yosef, ministry year 4)
-**POV Characters:** Jesus, Mary Magdalene, Simon Peter, Marcus Publius Scipio
+**POV Characters:** Jesus, Mary Magdalene, Simon Peter, Titus Publius Scipio
 
 ---
 
@@ -18,7 +18,7 @@ Jesus walked it alone.
 
 "Teacher!" A lawyer from Jerusalem caught up, breathing hard. "I've been following your teachings for months. You say 'love your neighbor.' But who is my neighbor?"
 
-Jesus stopped walking. The crowd gathering behind them stopped too, maybe fifty people, some following since Jerusalem, others joining along the way. Marcus was there at the edges, no longer in uniform, his stylus scratching across wax with the cramped, precise hand of a man who'd spent twenty-eight years filing military reports and couldn't stop.
+Jesus stopped walking. The crowd gathering behind them stopped too, maybe fifty people, some following since Jerusalem, others joining along the way. Titus was there at the edges, no longer in uniform, his stylus scratching across wax with the cramped, precise hand of a man who'd spent twenty-eight years filing military reports and couldn't stop.
 
 "A man was going down from Jerusalem to Jericho," Jesus began. The crowd went quiet. Some sat. Others leaned in. They'd learned that his stories were worth listening to closely.
 
@@ -46,7 +46,7 @@ The lawyer's mouth worked. He couldn't say "the Samaritan." Couldn't give credit
 
 The crowd murmured, arguing about Samaritans, about mercy, about who counted as a neighbor.
 
-Marcus's stylus had stopped moving. A Thracian soldier in his century, years ago, wounded in a border skirmish, left by the road because carrying him would have slowed the march. Marcus had walked past. Orders. The man died overnight. Marcus filed the report without noting the name.
+Titus's stylus had stopped moving. A Thracian soldier in his century, years ago, wounded in a border skirmish, left by the road because carrying him would have slowed the march. Titus had walked past. Orders. The man died overnight. Titus filed the report without noting the name.
 
 He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and followed Jesus toward Jericho.
 
@@ -244,29 +244,29 @@ Mary nodded, but he could see the fear underneath her competence. Eighteen month
 
 ## SCENE 5: The Reckoning
 
-Marcus sat in a Jerusalem tavern, oil lamp smoking and wine growing warm and bitter in the heat, listening to his replacement deliver the report.
+Titus sat in a Jerusalem tavern, oil lamp smoking and wine growing warm and bitter in the heat, listening to his replacement deliver the report.
 
-The new officer was young, clean-shaven, the kind who filed his reports on time and slept well. "Five thousand, Marcus. Three days in one place. You know what we call a man who can move five thousand people?"
+The new officer was young, clean-shaven, the kind who filed his reports on time and slept well. "Five thousand, Titus. Three days in one place. You know what we call a man who can move five thousand people?"
 
 "A general."
 
 "Without an army. Which makes him worse." The officer drained his cup. "Pilate's building charges. Blasphemy, sedition, whatever the Sanhedrin will sign off on. Twelve months. Maybe eighteen. Faster if the crowds keep growing."
 
-After the officer left, Marcus sat alone in the tavern noise, dice, arguments, a woman laughing somewhere, and pulled out a roll of papyrus—he'd been transferring his most important notes from wax tablets to permanent form. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
+After the officer left, Titus sat alone in the tavern noise, dice, arguments, a woman laughing somewhere, and pulled out a roll of papyrus—he'd been transferring his most important notes from wax tablets to permanent form. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
 
-Twenty-eight years of military service, campaigns across three provinces—and it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Marcus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
+Twenty-eight years of military service, campaigns across three provinces—and it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Titus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
 
-Among the tavern noise, Marcus caught a conversation in accented Greek at the next table — two men discussing "the carpenter's network" with the clinical detachment of people who studied things before destroying them. Not Romans. Not Temple. Something older.
+Among the tavern noise, Titus caught a conversation in accented Greek at the next table — two men discussing "the carpenter's network" with the clinical detachment of people who studied things before destroying them. Not Romans. Not Temple. Something older.
 
 That night the core group gathered at Lazarus's house in Bethany. Oil lamps. Olive oil and sweat. Too many bodies in too small a space. Mary slipped through the door with Sarah's warm weight against her shoulder.
 
-Marcus delivered the news.
+Titus delivered the news.
 
 "Then begin scattering now," Jesus said. "Mary — plant teaching circles in other cities. Damascus, Antioch, Alexandria. So when persecution comes, you're returning to established ground."
 
 "If I leave, who teaches Galilee?"
 
-"Leah, Abigail, Rachel. They're ready." He looked around the room — Peter, Marcus, Simon, the Twelve. "All of you. You know your roles. When the time comes, scatter and teach. Write it down — each of you, your own account. Don't coordinate. Different versions survive better than copies."
+"Leah, Abigail, Rachel. They're ready." He looked around the room — Peter, Titus, Simon, the Twelve. "All of you. You know your roles. When the time comes, scatter and teach. Write it down — each of you, your own account. Don't coordinate. Different versions survive better than copies."
 
 "The trial will be for show." His voice was steady but his hands were clasped tight in his lap. "The outcome is already decided."
 

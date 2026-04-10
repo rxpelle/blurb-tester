@@ -208,7 +208,7 @@ Miriam said nothing. Mary let it go.
 
 The room went very still. Nobody pretended not to understand.
 
-"Twelve months," Mary said. "Maybe less. Marcus's intelligence says Passover. The trial will be for show. The Romans and the Temple have already agreed."
+"Twelve months," Mary said. "Maybe less. Titus's intelligence says Passover. The trial will be for show. The Romans and the Temple have already agreed."
 
 Tabitha's jaw tightened. "Then why aren't we running now?"
 

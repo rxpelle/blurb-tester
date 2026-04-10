@@ -4,7 +4,7 @@
 **Timeline:** 26 CE, Winter - 1,203 years after Genesis Protocol creation
 **Location:** Galilee (Nazareth → Capernaum)
 **Generation:** 42 (Jesus ben Yosef)
-**POV Character:** Marcus Publius Scipio (Roman centurion)
+**POV Character:** Titus Publius Scipio (Roman centurion)
 
 ---
 
@@ -12,27 +12,27 @@ The world he was about to change didn't know his name yet. Rome did.
 
 ## SCENE 1: The Census Taker
 
-Marcus Publius Scipio stood in Nazareth's central square, a patch of packed dirt between limestone houses, goat dung and wet clay underfoot, watching families shuffle forward to register. Galilee's winter dampness seeped through his cloak, settling in his bones, cold that made his left knee, broken in Germania, badly healed, throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, to verify compliance and identify threats. Marcus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
+Titus Publius Scipio stood in Nazareth's central square, a patch of packed dirt between limestone houses, goat dung and wet clay underfoot, watching families shuffle forward to register. Galilee's winter dampness seeped through his cloak, settling in his bones, cold that made his left knee, broken in Germania, badly healed, throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, to verify compliance and identify threats. Titus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
 
 "Name." His Aramaic accent was terrible, but functional. Twenty years in the legions, half of them in eastern provinces, taught you to butcher local languages well enough to observe tax collection, and quell riots.
 
-The man in front of him, weathered, mid-fifties, fisherman by the smell, gave his name, family size, property holdings. Antipas's local registrar handled the actual enrollment while Marcus's scribe, Lucius, scratched duplicates onto wax tablets. Standard procedure. Later, scribes would copy the census data to parchment and send it to Caesarea for Roman records. Antipas's tribute to Rome depended on accurate counts, and Rome trusted but verified.
+The man in front of him, weathered, mid-fifties, fisherman by the smell, gave his name, family size, property holdings. Antipas's local registrar handled the actual enrollment while Titus's scribe, Lucius, scratched duplicates onto wax tablets. Standard procedure. Later, scribes would copy the census data to parchment and send it to Caesarea for Roman records. Antipas's tribute to Rome depended on accurate counts, and Rome trusted but verified.
 
-"Next," Marcus called.
+"Next," Titus called.
 
-This was his third census observation in the eastern provinces. He knew the pattern: most locals complied sullenly, calculating that Roman recordkeeping was marginally less painful than Roman punishment for noncompliance. A few resisted, refused to give names, claimed they owned nothing, spat creative Aramaic insults that Marcus pretended not to understand. Those got flagged for follow-up visits from less patient colleagues.
+This was his third census observation in the eastern provinces. He knew the pattern: most locals complied sullenly, calculating that Roman recordkeeping was marginally less painful than Roman punishment for noncompliance. A few resisted, refused to give names, claimed they owned nothing, spat creative Aramaic insults that Titus pretended not to understand. Those got flagged for follow-up visits from less patient colleagues.
 
-The Zealots would come later, after dark, when the census takers had left. They'd burn the registration records if they could get to them, kill collaborators if they couldn't. Then Rome would send more soldiers, the cycle would escalate, and in twenty years this whole province would explode into the kind of revolt Marcus had seen in Pannonia and Thrace.
+The Zealots would come later, after dark, when the census takers had left. They'd burn the registration records if they could get to them, kill collaborators if they couldn't. Then Rome would send more soldiers, the cycle would escalate, and in twenty years this whole province would explode into the kind of revolt Titus had seen in Pannonia and Thrace.
 
 He could see where it was heading. He'd seen it in Pannonia, in Thrace, the same sequence, every time. Squeeze the province. Wait for resistance. Send the legions. Call it peace.
 
-But Marcus wasn't here to prevent revolts. He was here to count people and identify threats.
+But Titus wasn't here to prevent revolts. He was here to count people and identify threats.
 
 "Name."
 
-The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly, widow, two adult sons, small plot of land, no outstanding debts. Marcus nodded her through, but something in the way she held her shoulders, braced, like a woman expecting a blow, stayed with him. Her sons were fighting age. When the revolt came, Rome would kill them or sell them into slavery. She probably knew this. She'd stood in line anyway, because the alternative was worse.
+The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly, widow, two adult sons, small plot of land, no outstanding debts. Titus nodded her through, but something in the way she held her shoulders, braced, like a woman expecting a blow, stayed with him. Her sons were fighting age. When the revolt came, Rome would kill them or sell them into slavery. She probably knew this. She'd stood in line anyway, because the alternative was worse.
 
-The census work was mind-numbing. Ten hours a day of names and numbers. Marcus preferred it that way. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, a boy soldier outside Carnuntum who'd dropped his shield and raised both hands, palms out, and Marcus had killed him anyway because his centurion was watching. The boy's face surfaced sometimes in the gap between one registrant and the next. Fifteen. Maybe sixteen.
+The census work was mind-numbing. Ten hours a day of names and numbers. Titus preferred it that way. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, a boy soldier outside Carnuntum who'd dropped his shield and raised both hands, palms out, and Titus had killed him anyway because his centurion was watching. The boy's face surfaced sometimes in the gap between one registrant and the next. Fifteen. Maybe sixteen.
 
 He'd requested census duty specifically. Paperwork over bloodshed. Seven more years of service, then a farm somewhere quiet where he could stop being the man who'd killed a boy with open hands.
 
@@ -40,7 +40,7 @@ He'd requested census duty specifically. Paperwork over bloodshed. Seven more ye
 
 But then the secondary mission complicated things.
 
-Marcus's other assignment, the one his tribune had given him privately, in a closed room, with no scribe present, was to watch for certain families. Old bloodlines, scattered across the eastern Mediterranean, that occasionally produced individuals who could see things others couldn't. Not prophecy, exactly. More like an instinct for what was coming.
+Titus's other assignment, the one his tribune had given him privately, in a closed room, with no scribe present, was to watch for certain families. Old bloodlines, scattered across the eastern Mediterranean, that occasionally produced individuals who could see things others couldn't. Not prophecy, exactly. More like an instinct for what was coming.
 
 Rome's orders were simple: identify, observe, report.
 
@@ -50,15 +50,15 @@ Nobody got arrested. The network wasn't hostile to Rome. Not yet.
 
 "Next."
 
-A young couple, newly married, barely twenty, gave their details nervously. Marcus waved them through. Beside him, Lucius the scribe stretched his cramped hand, spattering wax across the tablet.
+A young couple, newly married, barely twenty, gave their details nervously. Titus waved them through. Beside him, Lucius the scribe stretched his cramped hand, spattering wax across the tablet.
 
 "How many more?" Lucius muttered in Latin.
 
-Marcus glanced at the line. Maybe forty families left. "Two hours if they cooperate."
+Titus glanced at the line. Maybe forty families left. "Two hours if they cooperate."
 
 "They won't. They never do in Nazareth."
 
-True. Nazareth had a reputation for producing troublemakers. Small town, religiously conservative, resentful of Herodian collaboration with Rome. Zealot sympathizers everywhere. Marcus expected at least three registration refusals before sunset.
+True. Nazareth had a reputation for producing troublemakers. Small town, religiously conservative, resentful of Herodian collaboration with Rome. Zealot sympathizers everywhere. Titus expected at least three registration refusals before sunset.
 
 "Name," he called to the next man in line.
 
@@ -66,23 +66,23 @@ His hand moved to the stylus and stopped. The way a dog's ears flatten before th
 
 The man was mid-thirties, carpenter by the wood dust ground into his knuckles and the calluses that wrapped his palms like leather. Average height. Dark hair, sun-weathered skin, lean from labor. Nothing remarkable except his eyes.
 
-They weren't threatening. They were *reading* him. The way Marcus read military terrain, assessing what was there, what was underneath, what would happen next. In twenty years of evaluating people, Marcus had met perhaps three who looked at the world like that. Two were dead.
+They weren't threatening. They were *reading* him. The way Titus read military terrain, assessing what was there, what was underneath, what would happen next. In twenty years of evaluating people, Titus had met perhaps three who looked at the world like that. Two were dead.
 
-"Name," Marcus repeated.
+"Name," Titus repeated.
 
 "Jesus ben Yosef," the man said. His Aramaic had Galilean accent, but educated. Synagogue-trained, probably. "From Nazareth. Carpenter. Thirty-two years old. I own a workshop on the eastern edge of town and rent living space from my mother. No debts. No outstanding legal issues."
 
-He'd front-loaded all the standard census questions before Marcus could ask them.
+He'd front-loaded all the standard census questions before Titus could ask them.
 
 Smart. Efficient. Also mildly suspicious, people who anticipated authority's needs were either experienced collaborators or practiced evaders.
 
-Lucius was already writing. Marcus studied the carpenter more carefully.
+Lucius was already writing. Titus studied the carpenter more carefully.
 
 "Family?"
 
 "Mother still living. Father deceased eight years ago. Four brothers, two sisters. All married except me. I can provide their names if you're tracking extended family."
 
-"Not necessary." Marcus paused. Something tugged at the back of his mind, training from his contact in Caesarea, the briefings about what to watch for. "You're unmarried? At thirty-two?"
+"Not necessary." Titus paused. Something tugged at the back of his mind, training from his contact in Caesarea, the briefings about what to watch for. "You're unmarried? At thirty-two?"
 
 "Correct."
 
@@ -92,15 +92,15 @@ Jesus didn't look poor, his clothes were simple but well-made, his hands showed 
 
 Which left deliberate choice.
 
-"Religious vows?" Marcus asked, though he knew Nazareth had no formal monastic communities.
+"Religious vows?" Titus asked, though he knew Nazareth had no formal monastic communities.
 
 "My work doesn't leave room for a wife." A pause. "And it wouldn't be fair to her."
 
 The way he said *her*—not abstractly, not philosophically. Like there was a specific woman he'd thought about and decided against. The same tone soldiers used when they refused to marry before campaigns they didn't expect to survive.
 
-"Profession?" Marcus knew the answer but wanted to hear how Jesus described it.
+"Profession?" Titus knew the answer but wanted to hear how Jesus described it.
 
-"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands, scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked, splits if you look at it wrong, but it's what she can afford, so." He shrugged. The gesture was so ordinary it almost made Marcus forget the eyes.
+"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands, scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked, splits if you look at it wrong, but it's what she can afford, so." He shrugged. The gesture was so ordinary it almost made Titus forget the eyes.
 
 "Trade inherited from your father?"
 
@@ -112,11 +112,11 @@ A glance at Lucius. The scribe was watching the conversation with mild interest�
 
 "No." Jesus's expression didn't change. "I'm not a Zealot, if that's what you're asking. Strike a man and he strikes back harder. The grinding never stops unless the wheel breaks."
 
-His stylus stopped. That wasn't a peasant's fatalism or a rabbi's piety. That was someone who'd watched the cycle from above, who could see the whole mechanism, not just the gears closest to him. The same quality that had flagged Simon, the same quality that had stopped Marcus cold in front of the woman in Cana.
+His stylus stopped. That wasn't a peasant's fatalism or a rabbi's piety. That was someone who'd watched the cycle from above, who could see the whole mechanism, not just the gears closest to him. The same quality that had flagged Simon, the same quality that had stopped Titus cold in front of the woman in Cana.
 
 But stronger. Much stronger.
 
-"You have unusual views for someone in Nazareth," Marcus said carefully.
+"You have unusual views for someone in Nazareth," Titus said carefully.
 
 Jesus's mouth twitched, not quite a smile, more like a man who'd made a joke he couldn't share. "I have unusual perspectives on many things. Family inheritance."
 
@@ -126,11 +126,11 @@ His pulse kicked. The contact in Caesarea had used that exact phrase.
 
 His orders were clear: note the name, file it with Caesarea, move on.
 
-"Lucius," Marcus said in Latin, "take a break. Get water. I'll handle the next few."
+"Lucius," Titus said in Latin, "take a break. Get water. I'll handle the next few."
 
-His scribe looked surprised but didn't argue. When Lucius was out of earshot, Marcus set down the official stylus and picked up his personal one, the one whose notes went to no file.
+His scribe looked surprised but didn't argue. When Lucius was out of earshot, Titus set down the official stylus and picked up his personal one, the one whose notes went to no file.
 
-"Jesus ben Yosef." Marcus kept his voice low. "Your family. How far back can you trace it?"
+"Jesus ben Yosef." Titus kept his voice low. "Your family. How far back can you trace it?"
 
 Most people couldn't answer past their grandfathers. Beyond that, memory blurred into tribal legend.
 
@@ -142,17 +142,17 @@ Jesus's expression didn't change, but his eyes shifted. A gate closing. "Why wou
 
 They studied each other. Two men circling, neither willing to show his hand.
 
-Marcus tried a different approach. "I've been posted in this province three years. I've met a fisherman in Capernaum who keeps nets he never uses."
+Titus tried a different approach. "I've been posted in this province three years. I've met a fisherman in Capernaum who keeps nets he never uses."
 
 Nothing. Jesus's face gave nothing. But his hands, his carpenter's hands, went still on his belt.
 
 "Lots of fishermen in Capernaum," Jesus said.
 
-"This one mends nets for a boat he sold two years ago. Keeps up the cover anyway." Marcus held the pause. "Simon."
+"This one mends nets for a boat he sold two years ago. Keeps up the cover anyway." Titus held the pause. "Simon."
 
 A long silence. Lake wind moved through the square, carrying the smell of charcoal and animal dung. A child cried somewhere in the waiting line.
 
-"Simon recognized something in you," Marcus said. "Two years ago. He's the only one who has. Until now."
+"Simon recognized something in you," Titus said. "Two years ago. He's the only one who has. Until now."
 
 Jesus's expression closed. Then, slowly, the gate opened, not wide, just a crack. "You're affiliated."
 
@@ -164,7 +164,7 @@ Another silence, longer. Jesus looked at the census line—forty families still 
 
 Born with it. The rarest kind.
 
-"Generation?" Marcus asked.
+"Generation?" Titus asked.
 
 "Forty-two. From Tausret."
 
@@ -174,9 +174,9 @@ Twelve hundred years to the founding. Primary bloodline. And he'd been walking a
 
 "Do they understand what you're really teaching?"
 
-"Most hear religion." He looked past Marcus at the census line. "A few hear something underneath. Those few will scatter when Jerusalem falls."
+"Most hear religion." He looked past Titus at the census line. "A few hear something underneath. Those few will scatter when Jerusalem falls."
 
-"I need to report this," Marcus said. "You're exactly what my orders from Caesarea described."
+"I need to report this," Titus said. "You're exactly what my orders from Caesarea described."
 
 "I know." Jesus's voice didn't waver, but his hands clenched at his sides, the carpenter's grip, knuckles whitening around nothing. "Do what you need to do."
 
@@ -196,7 +196,7 @@ The man wasn't calm. He was terrified and doing it anyway, the way the boy at Ca
 
 He walked back into the line of waiting families. Just another carpenter. Nobody looked twice.
 
-But Marcus noticed the carpenter's left hand — moving slightly at his side, fingers spreading, reaching for something that wasn't there.
+But Titus noticed the carpenter's left hand — moving slightly at his side, fingers spreading, reaching for something that wasn't there.
 
 He sat frozen at the census table, stylus pressed into wax, the impression of a name he'd never be able to forget.
 
@@ -204,13 +204,13 @@ He sat frozen at the census table, stylus pressed into wax, the impression of a 
 
 ## SCENE 2: Network Consultation
 
-Marcus rode hard through the afternoon, reaching Capernaum as the sun touched the lake.
+Titus rode hard through the afternoon, reaching Capernaum as the sun touched the lake.
 
 He found Simon's house as daylight faded over the lake—limestone walls still warm from the day, olive branches scraping overhead. The fisherman sat cross-legged on reed matting, fingers working through torn netting with the patience of a man who'd been mending things his whole life. The air smelled of fish scales and tar. Lake water lapped against stone steps below.
 
 "Centurion." Simon didn't look up from his nets. "You found him."
 
-"Generation 42. Primary line." Marcus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
+"Generation 42. Primary line." Titus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
 
 "They're already coming." Simon's hands stilled on the netting. "Temple already sent someone to listen to his teaching. A scribe from Jerusalem, watching from the back of the crowd. Taking notes." He looked up. "And now Rome knows too. Because you reported him."
 
@@ -218,27 +218,27 @@ He found Simon's house as daylight faded over the lake—limestone walls still w
 
 Simon studied him. The lamp between them threw his face into sharp relief, the deep lines around his mouth, the scarred hands. A fisherman who'd spent twenty years pretending to be less intelligent than he was.
 
-"Don't protect him, Marcus. Protect the network."
+"Don't protect him, Titus. Protect the network."
 
-Marcus hadn't expected that. "What?"
+Titus hadn't expected that. "What?"
 
 "You heard me." Simon's voice was flat, stripped of sentiment. "One carrier is one carrier. He's brilliant, I've never met anyone who reads the blood like he does, but the network survived the fall of Egypt, Babylon, Persia, and Alexander. It'll survive losing him. What it can't survive is a Roman centurion getting caught filing false reports. They'll interrogate you. They'll get names. And then they'll come for the families."
 
-The words landed like stones. Marcus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
+The words landed like stones. Titus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
 
 He paced to the low wall. Below, the lake stretched dark, fishing boats knocking gently against stone moorings. Somewhere a woman was singing to a child, a lullaby he couldn't understand, the melody old enough to precede the language carrying it.
 
-"He teaches people to stop swinging." Marcus's throat was tight. "And you're telling me to file the report that puts a target on him."
+"He teaches people to stop swinging." Titus's throat was tight. "And you're telling me to file the report that puts a target on him."
 
 "I'm telling you the network matters more than any one life. Including yours. Including mine." Simon picked up his nets again, as if the conversation were about fish. "File the report. Standard census. Harmless carpenter. No concerns. But don't do it because you want to save him. Do it because a false report is quieter than an omission. An omission someone will notice."
 
-Marcus stared at the dark water. The fisherman was right. And he hated him for it.
+Titus stared at the dark water. The fisherman was right. And he hated him for it.
 
-"Keep him alive as long as you can," Marcus said, moving toward his horse. "However many years that turns out to be."
+"Keep him alive as long as you can," Titus said, moving toward his horse. "However many years that turns out to be."
 
-"That's what I've been doing." Simon's voice followed him into the dark. "But Marcus—if they come for him, let them. Don't intervene. Don't be in the room. The network needs you alive more than it needs him protected."
+"That's what I've been doing." Simon's voice followed him into the dark. "But Titus—if they come for him, let them. Don't intervene. Don't be in the room. The network needs you alive more than it needs him protected."
 
-Marcus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
+Titus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
 
 He would file the false report. The answer was ugly, and it was right.
 
@@ -246,39 +246,39 @@ He would file the false report. The answer was ugly, and it was right.
 
 ## SCENE 3: The Threat
 
-Three weeks later, Marcus received a summons to Caesarea.
+Three weeks later, Titus received a summons to Caesarea.
 
 Military intelligence headquarters. Not the census offices.
 
 Someone had noticed.
 
-Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Marcus's tunic clung to his back. His pulse was in his wrists, which was never a good sign.
+Caesarea gleamed white and gold. Herod's monument to Roman engineering. The marble corridors of the harbor compound amplified every footstep. The air smelled of old parchment and something sharper, the metallic tang of a place where careers ended quietly. Titus's tunic clung to his back. His pulse was in his wrists, which was never a good sign.
 
-Tribune Gaius Lucullus met him in a map room on the second floor of the intelligence wing. Not the large briefing room where officers gathered for provincial updates, the small one, the one with a single door and no windows. The maps here were not rolled up and stored. They covered every surface. Palestine in three scales: the full province pinned to the north wall, the Galilee district spread across the oak table, and a detailed rendering of the road network between Capernaum and Jerusalem tacked to the east wall with locations marked in red ink — gathering points, Marcus realized. Places where crowds had been reported.
+Tribune Gaius Lucullus met him in a map room on the second floor of the intelligence wing. Not the large briefing room where officers gathered for provincial updates, the small one, the one with a single door and no windows. The maps here were not rolled up and stored. They covered every surface. Palestine in three scales: the full province pinned to the north wall, the Galilee district spread across the oak table, and a detailed rendering of the road network between Capernaum and Jerusalem tacked to the east wall with locations marked in red ink — gathering points, Titus realized. Places where crowds had been reported.
 
-Lucullus sat behind the table with a clay lamp burning close to the maps, its light pooling on parchment reports stacked in the order of a man who read them more than once. He was younger than Marcus by five years but had the bearing of someone who'd never carried a pack or slept on ground — political corps, fast-tracked through staff postings, the kind of officer who understood leverage better than logistics. His hands were soft. His eyes were not.
+Lucullus sat behind the table with a clay lamp burning close to the maps, its light pooling on parchment reports stacked in the order of a man who read them more than once. He was younger than Titus by five years but had the bearing of someone who'd never carried a pack or slept on ground — political corps, fast-tracked through staff postings, the kind of officer who understood leverage better than logistics. His hands were soft. His eyes were not.
 
-Marcus snapped to attention. "Centurion Scipio reporting, Tribune."
+Titus snapped to attention. "Centurion Scipio reporting, Tribune."
 
 Lucullus returned the salute curtly. No pleasantries. "The carpenter in Nazareth."
 
 His pulse spiked. "Carpenter?"
 
-"Jesus ben Yosef. Temple authorities sent an inquiry. Large crowds. Anti-institutional rhetoric. 'Kingdom of God' talk." Lucullus tapped the Galilee map — three red marks clustered around Capernaum, two more near Bethsaida, one at a hillside north of the lake that Marcus recognized immediately. "Five thousand attended one gathering last month. He uses parables about empires rotting from within, tells peasants they can survive without Rome's protection. Those aren't normal religious concepts."
+"Jesus ben Yosef. Temple authorities sent an inquiry. Large crowds. Anti-institutional rhetoric. 'Kingdom of God' talk." Lucullus tapped the Galilee map — three red marks clustered around Capernaum, two more near Bethsaida, one at a hillside north of the lake that Titus recognized immediately. "Five thousand attended one gathering last month. He uses parables about empires rotting from within, tells peasants they can survive without Rome's protection. Those aren't normal religious concepts."
 
-The trap was closing. His census report, harmless carpenter, no concerns, now looked like deliberate concealment. Marcus's mind ran the calculation fast, the way it ran field assessments: seven years to pension. His sister Lucia in Gaul, widowed, raising two children on what Marcus sent her quarterly. Discharge meant no pension, and prosecution meant no sister, no nephews, no quiet farm. Everything he'd endured for twenty years, the boy at Carnuntum, the libraries burned in Thrace, the census lines and the filing of reports that kept people alive or got them killed — all of it reduced to whether the next words out of his mouth sounded like loyalty.
+The trap was closing. His census report, harmless carpenter, no concerns, now looked like deliberate concealment. Titus's mind ran the calculation fast, the way it ran field assessments: seven years to pension. His sister Lucia in Gaul, widowed, raising two children on what Titus sent her quarterly. Discharge meant no pension, and prosecution meant no sister, no nephews, no quiet farm. Everything he'd endured for twenty years, the boy at Carnuntum, the libraries burned in Thrace, the census lines and the filing of reports that kept people alive or got them killed — all of it reduced to whether the next words out of his mouth sounded like loyalty.
 
-"His teaching applies spiritual metaphors to practical concepts," Marcus said carefully. "He opposes violence. Pulls recruits away from the Zealots."
+"His teaching applies spiritual metaphors to practical concepts," Titus said carefully. "He opposes violence. Pulls recruits away from the Zealots."
 
-"Then why did you omit him from your report?" Lucullus leaned forward, one finger still resting on the Galilee map as if marking Marcus's position on it. "I think he shows every marker of a high-level bloodline carrier. And I think you recognized those markers and deliberately buried them."
+"Then why did you omit him from your report?" Lucullus leaned forward, one finger still resting on the Galilee map as if marking Titus's position on it. "I think he shows every marker of a high-level bloodline carrier. And I think you recognized those markers and deliberately buried them."
 
-Marcus met his eyes. "He teaches people to put down their swords. That's fewer Zealots for us to fight."
+Titus met his eyes. "He teaches people to put down their swords. That's fewer Zealots for us to fight."
 
 "Short-term." Lucullus's voice hardened. "These families have been hiding knowledge since before Rome existed. They survived Egypt. They survived Babylon. They don't need us, and they're teaching others not to need us either." He leaned back. "I don't care if this carpenter calms the Zealots today. A province that can feed itself, govern itself, pass its own wisdom to its children without Roman schools or Roman gods—that's a threat no legion can answer."
 
-Marcus tasted metal at the back of his throat. Germania — the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Lucullus was saying it plainly now. A province that didn't need Rome was a province Rome couldn't allow.
+Titus tasted metal at the back of his throat. Germania — the tribes Rome had crushed not because they'd attacked, but because they'd stopped trading for Roman grain. Thrace, where his legion had burned a library because the village that built it had stopped sending sons to the auxiliaries. Lucullus was saying it plainly now. A province that didn't need Rome was a province Rome couldn't allow.
 
-"What are your orders, sir?" Marcus kept his voice level.
+"What are your orders, sir?" Titus kept his voice level.
 
 "Monitor him. Attend his teachings. Document everything. Weekly reports."
 
@@ -286,7 +286,7 @@ Surveillance. Not elimination. Yet.
 
 "And Scipio—" Lucullus's voice dropped, conversational now, which was worse. "If you're network-affiliated yourself, declare it now. Concealment is grounds for discharge and prosecution."
 
-The boy at Carnuntum flashed behind his eyes again, the raised hands, the open palms. The moment before Marcus had done what was expected of him.
+The boy at Carnuntum flashed behind his eyes again, the raised hands, the open palms. The moment before Titus had done what was expected of him.
 
 "I'm not network-affiliated, sir."
 
@@ -294,13 +294,13 @@ His voice held steady. His hands, clasped behind his back, did not.
 
 Lucullus held his gaze for three heartbeats. Then nodded. "Dismissed."
 
-Marcus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one, primary bloodline carrier, Generation 42, teaching thousands, and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
+Titus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one, primary bloodline carrier, Generation 42, teaching thousands, and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
 
 Simon had been right about one thing: a quiet lie was safer than a loud omission.
 
-He found Jesus teaching a crowd of maybe two hundred on a hillside overlooking the lake. Late afternoon light made the water look like hammered bronze. Marcus dismounted at a distance, pulled out his wax tablet, and began writing the version of events that would keep this man alive a little longer.
+He found Jesus teaching a crowd of maybe two hundred on a hillside overlooking the lake. Late afternoon light made the water look like hammered bronze. Titus dismounted at a distance, pulled out his wax tablet, and began writing the version of events that would keep this man alive a little longer.
 
-Then his trained eye caught a second figure. A woman at the edge of the gathering, not listening the way the others listened. She stood apart, arms wrapped around herself as if holding herself together, and she was watching Jesus the way Marcus had watched him at the census table, the same still, measuring look of someone who recognized what she was seeing.
+Then his trained eye caught a second figure. A woman at the edge of the gathering, not listening the way the others listened. She stood apart, arms wrapped around herself as if holding herself together, and she was watching Jesus the way Titus had watched him at the census table, the same still, measuring look of someone who recognized what she was seeing.
 
 Another carrier.
 
@@ -316,12 +316,12 @@ His stylus stopped. The wax cooled under his hand. If there were two of them in 
 
 **Timeline:** 26 CE, Winter (1,203 years after Protocol creation, 1177 BCE)
 **Generation:** 42 (Jesus ben Yosef) - Absolute count from Tausret
-**POV:** Marcus Publius Scipio (Roman centurion, network-affiliated)
+**POV:** Titus Publius Scipio (Roman centurion, network-affiliated)
 
 **Bloodline Status:**
 - Jesus: Generation 42 carrier, blood memory active since age 3
 - Simon: Network family, fisherman, Capernaum
-- Marcus: Network-affiliated (trained, not inherited bloodline)
+- Titus: Network-affiliated (trained, not inherited bloodline)
 
 **Seven Keys Status:**
 - Living Key (Key 1): Jesus (present)
@@ -338,7 +338,7 @@ His stylus stopped. The wax cooled under his hand. If there were two of them in 
 **Forward Links:**
 - Chapter 2: Mary Magdalene POV (introduces second carrier)
 - Chapter 3: Jesus baptism, blood memory activation
-- Marcus continues as observer/protector through crucifixion
+- Titus continues as observer/protector through crucifixion
 - 70 CE diaspora already predicted, teaching distribution planned
 
 **Word Count:** ~4,500 words (compressed from ~8,100)

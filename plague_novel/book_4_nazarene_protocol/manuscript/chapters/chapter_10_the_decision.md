@@ -1,7 +1,7 @@
 # CHAPTER 10: THE DECISION
 
 **Timeline:** 33 CE Early Spring (3 weeks before arrest)
-**POV:** Jesus (primary), Mary, Marcus (brief)
+**POV:** Jesus (primary), Mary, Titus (brief)
 
 ---
 
@@ -13,15 +13,15 @@ Rain-washed nets hung from the lakeside racks. Almond blossoms dropping petals i
 
 The bronze had been in his hands for an hour. Geometric patterns pressing grooves into his palms, the disc warm now from contact, from the heat that always lived beneath his ribs climbing into his fingers and meeting the metal halfway. He'd been tracing Nefertari's final days. Not the public encoding, not the workshop, but the private moments. Her sitting alone at her bench after the last student left. The way her hands shook when nobody was watching. The way she pressed her palms flat against the wood and breathed until the shaking stopped.
 
-He was doing the same thing when Marcus appeared in the doorway.
+He was doing the same thing when Titus appeared in the doorway.
 
-Marcus Publius Scipio climbed the last three stairs slowly, his bad knee stiff from the cold and the four-day ride from Jerusalem. He stood in the doorway breathing hard, his breath visible in the morning air, cloak travel-stained and his face carrying the exhaustion of a man who'd ridden through the night and not because he wanted to.
+Titus Publius Scipio climbed the last three stairs slowly, his bad knee stiff from the cold and the four-day ride from Jerusalem. He stood in the doorway breathing hard, his breath visible in the morning air, cloak travel-stained and his face carrying the exhaustion of a man who'd ridden through the night and not because he wanted to.
 
 Jesus set down the Pattern Eye. Set it carefully on the stone table beside the oil lamp and the half-eaten round of bread from last night. His carpenter's hands went flat against the cold surface, palms down, fingers spread.
 
-He already knew. Not the details, but the weight in Marcus's shoulders, the way the man braced against the doorframe like a soldier delivering casualty numbers — Jesus had seen that posture in blood memory a hundred times. The messenger who arrives before dawn. The news that shortens the road.
+He already knew. Not the details, but the weight in Titus's shoulders, the way the man braced against the doorframe like a soldier delivering casualty numbers — Jesus had seen that posture in blood memory a hundred times. The messenger who arrives before dawn. The news that shortens the road.
 
-"Caiaphas convinced Pilate," Marcus said. "Three weeks. Maybe four. Arrest during Passover."
+"Caiaphas convinced Pilate," Titus said. "Three weeks. Maybe four. Arrest during Passover."
 
 Outside, a donkey brayed in the market street. A child laughed. The world kept going.
 
@@ -33,9 +33,9 @@ Three weeks. Not nine months. Not the timeline they'd been working inside, the c
 
 The blood memory came before he could stop it. Not Nefertari this time, something closer, more recent, more brutal. A man hanging from wood. Iron through wrists. The specific agony of pushing up on a nail through foot bones to steal one more breath. He'd accessed crucifixion memories before, fragments that arrived in the night and left him sweating in the dark. But this was different. This was his own face on the cross. His own hands. The vision had the clarity of something that had already happened and was just waiting for the calendar to catch up.
 
-He closed his eyes. Opened them. The upper room. The Pattern Eye on the table. Marcus watching him from the doorway.
+He closed his eyes. Opened them. The upper room. The Pattern Eye on the table. Titus watching him from the doorway.
 
-"Helena's offering extraction," Marcus continued, moving into the room now, lowering himself onto the bench with a grunt that said the knee was worse than last time. "Ship at Tyre. Alexandria. Safe house outside Roman jurisdiction. If you won't go voluntarily, she'll extract you by force."
+"Helena's offering extraction," Titus continued, moving into the room now, lowering himself onto the bench with a grunt that said the knee was worse than last time. "Ship at Tyre. Alexandria. Safe house outside Roman jurisdiction. If you won't go voluntarily, she'll extract you by force."
 
 Jesus moved to the window. Fishing boats on the Sea of Galilee, their sails catching the first light. Markets opening below, the scrape of wooden shutters, the clatter of a potter arranging his wares on the stone ledge, the low murmur of women at the well. Ordinary people living ordinary lives. A man adjusting the harness on his donkey. Two boys racing each other to the water's edge.
 
@@ -43,13 +43,13 @@ He pressed his forehead against the cold stone of the window frame. Felt the war
 
 "Tell Helena I refuse."
 
-Marcus didn't argue immediately. He sat with it. The military mind running calculations, extraction success rates, network exposure, the cost of losing the strongest carrier in forty-one generations versus the cost of a public execution. Jesus could almost hear the columns being tallied.
+Titus didn't argue immediately. He sat with it. The military mind running calculations, extraction success rates, network exposure, the cost of losing the strongest carrier in forty-one generations versus the cost of a public execution. Jesus could almost hear the columns being tallied.
 
-"Three weeks isn't enough," Marcus said finally. "You'll die with most of it untaught."
+"Three weeks isn't enough," Titus said finally. "You'll die with most of it untaught."
 
-"I've been teaching for three years, Marcus. The foundation is there. Mary has access. The carriers can read patterns. Sarah is strong." He turned from the window. "If I vanish the night before arrest, ten thousand people conclude the teaching isn't worth dying for."
+"I've been teaching for three years, Titus. The foundation is there. Mary has access. The carriers can read patterns. Sarah is strong." He turned from the window. "If I vanish the night before arrest, ten thousand people conclude the teaching isn't worth dying for."
 
-Marcus sat with this. His hands rested on his knees, and his fingers moved the way they did when he was composing something in his head, the ghost of a stylus, words being shaped before they were written.
+Titus sat with this. His hands rested on his knees, and his fingers moved the way they did when he was composing something in his head, the ghost of a stylus, words being shaped before they were written.
 
 "You're choosing martyrdom."
 
@@ -57,7 +57,7 @@ Marcus sat with this. His hands rested on his knees, and his fingers moved the w
 
 "Let it be noted: I think you're making the right choice for the wrong reasons. You believe it serves the teaching. I think you're choosing it because you can't bear the thought of living in fear. Of running. Of being less than the example you've set."
 
-Jesus considered this. The honesty of it. Marcus had always been the one who said the thing nobody else would say. Not because he was cruel but because twenty-eight years of Roman military service had burned the cushioning off his language. He spoke the way he wrote: precise, unflinching, documented.
+Jesus considered this. The honesty of it. Titus had always been the one who said the thing nobody else would say. Not because he was cruel but because twenty-eight years of Roman military service had burned the cushioning off his language. He spoke the way he wrote: precise, unflinching, documented.
 
 "Maybe both. Do the reasons matter if the outcome is right?"
 
@@ -67,7 +67,7 @@ The room was quiet. Somewhere below, the child who'd been laughing was crying no
 
 "Then I need to make the strategy visible in the teaching," he said. "These three weeks. Every parable, every lesson. It has to be clear I'm choosing this. Not stumbling into it."
 
-Marcus stood. His knee cracked, loud in the still room. He paused at the door. Looked back. The morning light had reached the window now, pale gold falling across the flagstones, and in it Marcus's face held something Jesus had never seen there before: not grief, but the anguish of a man who writes history and knows he cannot change it.
+Titus stood. His knee cracked, loud in the still room. He paused at the door. Looked back. The morning light had reached the window now, pale gold falling across the flagstones, and in it Titus's face held something Jesus had never seen there before: not grief, but the anguish of a man who writes history and knows he cannot change it.
 
 "I'll document your refusal. Make sure the network understands your reasoning even if they disagree."
 
@@ -75,7 +75,7 @@ Marcus stood. His knee cracked, loud in the still room. He paused at the door. L
 
 "Don't thank me. I'm documenting your death, not preventing it."
 
-Marcus left. His footsteps on the stairs, uneven, the bad knee taking the steps one at a time. The sound fading. The door below opening and closing.
+Titus left. His footsteps on the stairs, uneven, the bad knee taking the steps one at a time. The sound fading. The door below opening and closing.
 
 Jesus stood alone in the upper room, the weight of three weeks pressing down harder than summer heat. The Pattern Eye on the table. The bread he hadn't finished. The oil lamp guttering in the draft from the open door.
 
@@ -99,7 +99,7 @@ She'd brought Sarah. The girl walked between them on the path, holding Mary's ha
 
 The smell of thyme rose from the scrub as their sandals crushed it. Below, Capernaum's cooking fires sent thin columns of smoke into the evening air, and the scent of olive oil and baking bread drifted up the hillside, warm, ordinary, the smell of people feeding their families while the sun went down. The limestone was still holding the day's heat. Jesus sat on a flat shelf of rock that jutted from the hillside like a bench some ancient hand had shaped for this purpose, though it was only weather and time. His feet were bare. His sandals beside him. The stone warm under his soles.
 
-"Marcus said you refused extraction," Mary said without sitting.
+"Titus said you refused extraction," Mary said without sitting.
 
 "I refused."
 
@@ -117,7 +117,7 @@ Below them, Capernaum spread along the lakeshore, fishing town that had become h
 
 The admission surprised her. He watched it register, the slight widening of her eyes, the way her mouth opened to argue and then closed because there was nothing to argue against. A gust brought the smell of thyme up from the hillside, sharp and green, and somewhere below a fisherman called to his partner across the water, the sound carrying clean in the evening air, ordinary and unbearable.
 
-"I'm choosing this because it serves the work. But I'm also choosing it because I can't reconcile three years of teaching about courage with nine months of hiding in fear." He met her eyes. "Marcus said my reasons matter to how my death is remembered. He's right."
+"I'm choosing this because it serves the work. But I'm also choosing it because I can't reconcile three years of teaching about courage with nine months of hiding in fear." He met her eyes. "Titus said my reasons matter to how my death is remembered. He's right."
 
 Mary was quiet. The lake had gone copper in the late light, the surface holding the sky the way it did every evening, faithfully, without understanding, the way water holds whatever falls on it. Fishing boats returning below, their sails dark against the water. A cormorant dropped from somewhere above them and hit the lake without a sound, vanishing beneath the copper surface and coming up thirty feet away with something silver struggling in its beak.
 
@@ -211,7 +211,7 @@ Judas's face went white. Not gradually — all at once, the blood draining like 
 
 "I can see it the way I see everything else. Forty-one generations of watching good plans fail against better-resourced enemies."
 
-Judas sat down. Not because he wanted to, because his legs wouldn't hold him after what he'd just heard. He sat on the bench Marcus had sat on two days before, delivering different news that ended in the same place, and he put his hands on his knees and stared at the floor.
+Judas sat down. Not because he wanted to, because his legs wouldn't hold him after what he'd just heard. He sat on the bench Titus had sat on two days before, delivering different news that ended in the same place, and he put his hands on his knees and stared at the floor.
 
 The fly had landed on the bread. The light through the window was moving as the afternoon tilted. Jesus watched Judas's face and saw the thing he'd been dreading — the moment when a man built entirely around one purpose realizes the purpose is gone.
 
@@ -319,7 +319,7 @@ In three weeks they would nail his hands to wood. The same hands that had shaped
 
 He would let them.
 
-The strategy hadn't required it. Blood memory hadn't shown him it would work. Marcus was right about reasons mattering.
+The strategy hadn't required it. Blood memory hadn't shown him it would work. Titus was right about reasons mattering.
 
 Because the love was worth it. Had always been worth it. And three weeks was enough to say so.
 
@@ -328,14 +328,14 @@ Because the love was worth it. Had always been worth it. And three weeks was eno
 **END OF CHAPTER 10**
 
 **Word Count:** ~5,500 words (expanded from ~1,269)
-**Status:** REVISED Phase 1 — Scene 1 expanded (Marcus's arrival grounded, blood memory crucifixion flash, Jesus eating bread because body needs fuel), Scene 2 major expansion (hillside sensory immersion, "Are you afraid?" / "Terrified", after Sarah sleeps — hands on warm stone not touching, the reaching), Scene 3 expanded (Judas's rehearsed pitch, scarred knuckles, identity crisis, goodbye), NEW Scene 4 (Gethsemane reckoning — garden, blood memory of ancestors who died, mother's face, Nazareth workshop, warmth reaching into empty air)
+**Status:** REVISED Phase 1 — Scene 1 expanded (Titus's arrival grounded, blood memory crucifixion flash, Jesus eating bread because body needs fuel), Scene 2 major expansion (hillside sensory immersion, "Are you afraid?" / "Terrified", after Sarah sleeps — hands on warm stone not touching, the reaching), Scene 3 expanded (Judas's rehearsed pitch, scarred knuckles, identity crisis, goodbye), NEW Scene 4 (Gethsemane reckoning — garden, blood memory of ancestors who died, mother's face, Nazareth workshop, warmth reaching into empty air)
 **Next Chapter:** Chapter 11 - The Betrayal
 
 ---
 
 **Continuity Notes for Next Session:**
-- Jesus has refused Helena's extraction offer (communicated via Marcus)
-- Marcus documented the refusal, returned to Jerusalem
+- Jesus has refused Helena's extraction offer (communicated via Titus)
+- Titus documented the refusal, returned to Jerusalem
 - Mary knows about the refusal, had hillside conversation with Jesus and Sarah
 - Judas arrived with rescue plan, learned his network is compromised, left determined to attempt rescue anyway
 - Jesus has privately reckoned with his death in the garden (Gethsemane parallel)

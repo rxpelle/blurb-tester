@@ -1,7 +1,7 @@
 # CHAPTER 8: THE CRISIS
 
 **Timeline:** 32 CE Winter (12 months before crucifixion)
-**POV:** Marcus Publius Scipio (primary), Jesus, Mary
+**POV:** Titus Publius Scipio (primary), Jesus, Mary
 **Word Count:** ~5,450 words
 
 ---
@@ -10,7 +10,7 @@
 
 The summons arrived before dawn, when the room still smelled of last night's lamp oil and the cold that crept through Jerusalem's limestone walls in winter.
 
-Marcus Publius Scipio stared at the wax tablet sealed with cord that a courier had thrust beneath his door. Official military seal, pressed in wax, the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
+Titus Publius Scipio stared at the wax tablet sealed with cord that a courier had thrust beneath his door. Official military seal, pressed in wax, the smell of it sharp and familiar, the same wax he'd sealed his own reports with for twenty-eight years. Tribune Lucullus's signature.
 
 *Consultation. Tenth hour. Headquarters. Your presence is required.*
 
@@ -28,25 +28,25 @@ The guards at the gate waved him through. Once a centurion, always recognizable.
 
 Old wool and lamp oil. Damp stone walls despite the brazier. A single clay lamp on a wall bracket, its flame pulling sideways in the draft from the corridor, throwing shadows across the map table. The room was colder than the street outside, thick Roman walls that held winter like a fist.
 
-Lucullus stood beside the table, and next to him, Marcus's stomach tightened, Pilate's senior tribune, Gaius Severus.
+Lucullus stood beside the table, and next to him, Titus's stomach tightened, Pilate's senior tribune, Gaius Severus.
 
-Severus was a lean man with the composed face of someone who had ordered enough deaths to stop counting them individually. Grey at his temples. Clean-shaven jaw. Hands clasped behind his back in the posture of a man who didn't need to gesture because his words carried the weight on their own. The kind of officer Marcus had served under for decades: efficient, intelligent, completely indifferent to individual suffering when policy required it.
+Severus was a lean man with the composed face of someone who had ordered enough deaths to stop counting them individually. Grey at his temples. Clean-shaven jaw. Hands clasped behind his back in the posture of a man who didn't need to gesture because his words carried the weight on their own. The kind of officer Titus had served under for decades: efficient, intelligent, completely indifferent to individual suffering when policy required it.
 
 "Be seated, Centurion," Severus said. "You're here for your expertise."
 
-Marcus sat. The bench was cold through his tunic. He could smell the lamp oil, the damp wool of his own cloak, and beneath both, the faint iron tang of the brazier's coals. The same smell as a field forge. The same smell as every military room he'd sat in for twenty-eight years.
+Titus sat. The bench was cold through his tunic. He could smell the lamp oil, the damp wool of his own cloak, and beneath both, the faint iron tang of the brazier's coals. The same smell as a field forge. The same smell as every military room he'd sat in for twenty-eight years.
 
 Lucullus moved markers on the map as he spoke, wooden pieces on stretched leather, each one a thousand lives. Crowds of five to seven thousand. Caiaphas lobbying Pilate three times this month. Zealot weapons caches near Sepphoris. The markers closed around Galilee like a noose.
 
-Marcus watched Lucullus's hands. Steady, precise. The movements of a man arranging furniture, not lives. The red markers went down in a semicircle across the north — Tiberias, Sepphoris, Capernaum, and the black ones clustered around Jerusalem like a closing net. Between them, the road Jesus would travel for his last Passover, though none of the markers knew that yet.
+Titus watched Lucullus's hands. Steady, precise. The movements of a man arranging furniture, not lives. The red markers went down in a semicircle across the north — Tiberias, Sepphoris, Capernaum, and the black ones clustered around Jerusalem like a closing net. Between them, the road Jesus would travel for his last Passover, though none of the markers knew that yet.
 
-The brazier popped, sending a coal skittering across the stone floor. Nobody moved to retrieve it. It glowed orange against the dark stone, dimming as it cooled, and Marcus watched it the way he'd watched dying campfires on campaign, something alive becoming something cold.
+The brazier popped, sending a coal skittering across the stone floor. Nobody moved to retrieve it. It glowed orange against the dark stone, dimming as it cooled, and Titus watched it the way he'd watched dying campfires on campaign, something alive becoming something cold.
 
 "Our Temple informants have been analyzing the parables," Severus said. "They're carrying a second meaning underneath. We don't fully understand it, but the shape is clear. He's building a structure."
 
-Marcus kept his face still. Breathe. They'd noticed the deeper layer.
+Titus kept his face still. Breathe. They'd noticed the deeper layer.
 
-"He's rejected Zealot recruitment," Marcus said. "Multiple times."
+"He's rejected Zealot recruitment," Titus said. "Multiple times."
 
 "What he's rejected and what the Zealots believe are different things." Severus leaned forward. The lamplight caught the lines around his mouth. Not cruelty, something worse. Patience. The patience of a man who had learned that most problems resolved themselves if you applied enough force and waited. "Answer me directly: Will Jesus of Nazareth lead an armed revolt?"
 
@@ -54,7 +54,7 @@ Marcus kept his face still. Breathe. They'd noticed the deeper layer.
 
 "But he doesn't control how people interpret his teaching," Lucullus said.
 
-Marcus said nothing. Because that was true.
+Titus said nothing. Because that was true.
 
 "There's another complication," Severus said. "Our informants report a second faction tracking the carpenter's network. Not Zealots. Organized. Older than the Temple priesthood. They've been watching longer than we have, and they want the same thing we do — control of whatever these families are carrying."
 
@@ -62,21 +62,21 @@ Severus straightened. Turned to the map. His hand moved slowly, deliberately, an
 
 "Decision from Rome: arrest and execution during Passover. The execution will be public, brutal, and unambiguous."
 
-Marcus's hands went cold. He looked down at them and they were still. Soldier's hands. The body knew what was coming before the mind caught up.
+Titus's hands went cold. He looked down at them and they were still. Soldier's hands. The body knew what was coming before the mind caught up.
 
 Outside, a rooster crowed. Ordinary morning sound, absurdly ordinary, while a man's voice delivered a death sentence like a supply report.
 
-"Why Passover?" Marcus heard himself ask. His voice sounded far away. Professional. The centurion's habit of tactical clarity, surfacing from muscle memory even now.
+"Why Passover?" Titus heard himself ask. His voice sounded far away. Professional. The centurion's habit of tactical clarity, surfacing from muscle memory even now.
 
 "Maximum crowd density," Severus said. "Pilgrims from across the empire. Deterrence requires audience."
 
-"And crucifixion?" Marcus pressed. "Stoning is the Temple's jurisdiction. Faster. Less public."
+"And crucifixion?" Titus pressed. "Stoning is the Temple's jurisdiction. Faster. Less public."
 
 "Crucifixion is Roman." Severus's voice carried no inflection, the way a surgeon describes a procedure. "Stoning is religious punishment. This must be seen as political. Rome's hand, visible and sovereign. And crucifixion takes hours. The crowd watches. They remember." He paused. "That's the point."
 
-The coal on the floor had gone dark. Marcus stared at the place where it had been.
+The coal on the floor had gone dark. Titus stared at the place where it had been.
 
-"Martyrdom," Marcus said.
+"Martyrdom," Titus said.
 
 "Deterrence," Severus corrected. "Standard procedure."
 
@@ -84,7 +84,7 @@ Standard procedure wouldn't work. But he couldn't say that.
 
 "We need your help ensuring the movement dies with him," Lucullus said. His voice carried a note of apology. "Veteran's portion restored. Full honors. You'd retire comfortably, your sister's children in Gaul would be provided for."
 
-Marcus thought of his nephew's letters, the careful Latin of a boy who needed schooling. Twenty-eight years of service and this was the lever they'd found.
+Titus thought of his nephew's letters, the careful Latin of a boy who needed schooling. Twenty-eight years of service and this was the lever they'd found.
 
 "And if I refuse?"
 
@@ -92,7 +92,7 @@ Marcus thought of his nephew's letters, the careful Latin of a boy who needed sc
 
 ---
 
-Marcus walked out into cold sunlight, the echo of the temple horn still hanging over the city. The street smelled of bread baking and animal dung and the acrid sweetness of incense drifting from the Temple mount, and for a moment everything looked exactly the same as it had an hour ago, and for a moment he couldn't understand how the city could continue being a city when a man's death had just been scheduled inside it.
+Titus walked out into cold sunlight, the echo of the temple horn still hanging over the city. The street smelled of bread baking and animal dung and the acrid sweetness of incense drifting from the Temple mount, and for a moment everything looked exactly the same as it had an hour ago, and for a moment he couldn't understand how the city could continue being a city when a man's death had just been scheduled inside it.
 
 He found Simon at the Siloam Pool tavern three hours early and told him everything: the execution order, the offer to help destroy the network, the week to decide.
 
@@ -104,13 +104,13 @@ Simon's hand tightened on his cup but his face stayed flat. "Can you stop it?"
 
 "No."
 
-"Then be a witness. You're not his savior, Marcus."
+"Then be a witness. You're not his savior, Titus."
 
-"I can't save him." Marcus's voice cracked. His shoulders shook, once, briefly. The tavern noise covered it, laughter from another table, a cup set down too hard on wood. Nobody noticed.
+"I can't save him." Titus's voice cracked. His shoulders shook, once, briefly. The tavern noise covered it, laughter from another table, a cup set down too hard on wood. Nobody noticed.
 
-"He doesn't need saving. He needs someone to write down the truth." Simon was quiet a moment. "Jesus said you'd understand. Two years ago, after your first protective report. He said, 'Marcus is learning to think in generations, not months.'"
+"He doesn't need saving. He needs someone to write down the truth." Simon was quiet a moment. "Jesus said you'd understand. Two years ago, after your first protective report. He said, 'Titus is learning to think in generations, not months.'"
 
-Marcus dropped his gaze. Generations, not months.
+Titus dropped his gaze. Generations, not months.
 
 The bronze keys came to him unbidden — two in Jesus's possession, three locked in Temple vaults, two still lost. If the Temple fell, those three were gone. Seven keys, and they were running out of hands to hold them.
 
@@ -118,7 +118,7 @@ The bronze keys came to him unbidden — two in Jesus's possession, three locked
 
 ## SCENE 3: JESUS ALONE
 
-The news reached him through Simon before Marcus arrived, a runner, breathless, three words: *Execution. Passover. Official.*
+The news reached him through Simon before Titus arrived, a runner, breathless, three words: *Execution. Passover. Official.*
 
 Jesus was in the workshop. He'd been in the workshop since dawn, fitting tenons into a tabletop for a woman in the village whose old one had split along the grain. Cedar. The smell of it was his father's smell, and his father's father's, and the smell of a workshop twelve hundred years gone where someone had tapped a bench twice and someone else had looked up.
 
@@ -164,11 +164,11 @@ He sat there until the light was gone. Then he stood, washed his face in the bas
 
 ## SCENE 4: THE CONVERSATION
 
-A week later Marcus declined Severus's offer and rode north to Capernaum. Three days through winter-stripped hills, grey and brown under low clouds. The wind carried the smell of wet earth and dead grass, and at night the cold came down so hard the mule's breath hung in clouds and Marcus wrapped his cloak twice around his chest and still felt it in his teeth. He traveled with merchant caravans and listened to their talk — miracle stories, Messianic rumors, a cousin who swore Jesus would drive out the Romans at Passover. The story was already outrunning the man.
+A week later Titus declined Severus's offer and rode north to Capernaum. Three days through winter-stripped hills, grey and brown under low clouds. The wind carried the smell of wet earth and dead grass, and at night the cold came down so hard the mule's breath hung in clouds and Titus wrapped his cloak twice around his chest and still felt it in his teeth. He traveled with merchant caravans and listened to their talk — miracle stories, Messianic rumors, a cousin who swore Jesus would drive out the Romans at Passover. The story was already outrunning the man.
 
 He found Jesus teaching in the synagogue at sunset, the last light coming through the narrow window, turning the dust motes gold, the room smelling of sweat and olive oil, and sixty people holding their breath. He waited at the edges until the crowd thinned, then followed him to a small upper room. Rough plaster walls. A bench. Lake water and cooking smoke drifting up from the street. The evening call to prayer from the synagogue below, fading.
 
-"Passover," Marcus said. "Official. The decision is made."
+"Passover," Titus said. "Official. The decision is made."
 
 Jesus froze, his hands flat against the window frame. His knuckles whitened. "I know. Blood memory showed me four months ago."
 
@@ -180,7 +180,7 @@ Jesus froze, his hands flat against the window frame. His knuckles whitened. "I 
 
 "I'm letting them kill me because it *works*." Something raw crossed his face — weariness that aged his face. "Don't pretend this is easy for me. I wake up tasting my own death."
 
-Marcus sat down heavily. "What do you need?"
+Titus sat down heavily. "What do you need?"
 
 "A witness. Rome will call me an insurgent. The Temple will call me a blasphemer. The Zealots will call me a traitor. Your testimony — a Roman centurion who watched for five years — contradicts all three."
 
@@ -190,29 +190,29 @@ Marcus sat down heavily. "What do you need?"
 
 The room was almost dark. A fishing boat knocked against the pier below. Ropes creaked. The lake settled into its night rhythm.
 
-Marcus's military mind turned the problem over the way it had turned every tactical problem for twenty-eight years. Escape routes: the road north to Damascus, then east to Parthia, beyond Rome's reach. Diversionary forces: a decoy traveling south while Jesus moved north, the Zealots misdirected, the Temple guards chasing a rumor. Bribed guards: three hundred denarii could buy a shift change at the Garden gate, a window of two hours. Smuggled weapons: pointless, Jesus would refuse them, but Marcus's hands itched for the familiar weight of a gladius anyway, the soldier's reflex that said *if you have a sword, you have options*.
+Titus's military mind turned the problem over the way it had turned every tactical problem for twenty-eight years. Escape routes: the road north to Damascus, then east to Parthia, beyond Rome's reach. Diversionary forces: a decoy traveling south while Jesus moved north, the Zealots misdirected, the Temple guards chasing a rumor. Bribed guards: three hundred denarii could buy a shift change at the Garden gate, a window of two hours. Smuggled weapons: pointless, Jesus would refuse them, but Titus's hands itched for the familiar weight of a gladius anyway, the soldier's reflex that said *if you have a sword, you have options*.
 
-Each plan formed with the precision of campaign strategy. Each one dissolved against the same wall: Jesus wouldn't run. You couldn't extract a man who refused extraction. You couldn't save someone who had decided, with absolute clarity, that his death was the mechanism by which everything he'd built would survive. Marcus had spent twenty-eight years solving problems with force, logistics, and will. None of those tools worked here. The problem wasn't tactical. It was a man who had looked at his own death and said *yes*.
+Each plan formed with the precision of campaign strategy. Each one dissolved against the same wall: Jesus wouldn't run. You couldn't extract a man who refused extraction. You couldn't save someone who had decided, with absolute clarity, that his death was the mechanism by which everything he'd built would survive. Titus had spent twenty-eight years solving problems with force, logistics, and will. None of those tools worked here. The problem wasn't tactical. It was a man who had looked at his own death and said *yes*.
 
-"It's a waste," Marcus said. Not arguing anymore. Just grieving.
+"It's a waste," Titus said. Not arguing anymore. Just grieving.
 
 "Yes." Jesus's voice was quiet. "It is."
 
-Marcus looked at him. He hadn't expected agreement.
+Titus looked at him. He hadn't expected agreement.
 
 "I want to live." Jesus said it simply, the way you say things that are so true they don't need emphasis. "I want to finish the table I started last week. I want to watch Sarah grow up. I want to sit by the lake when I'm old and listen to people argue about what I meant." His hands were in his lap, palms up. Open. "But wanting to live and needing to die are not opposites. They're the same thing. I die *because* I want to live. Because I want everyone who comes after me to live. And the only way to ensure that is —"
 
-He stopped. His jaw tightened. Something crossed his face that Marcus had never seen there before. Not serenity, not acceptance, not the calm certainty of a man who'd planned his own death. Fear. Raw and animal and specific. The fear of a body that knew what was coming and did not want it.
+He stopped. His jaw tightened. Something crossed his face that Titus had never seen there before. Not serenity, not acceptance, not the calm certainty of a man who'd planned his own death. Fear. Raw and animal and specific. The fear of a body that knew what was coming and did not want it.
 
 It lasted three seconds. Maybe less. Then it was gone, sealed behind his eyes like water behind a dam, and his hands closed and opened and his breathing steadied and he was himself again.
 
-"You're writing for them, Marcus," Jesus said from the doorway. "Not for us."
+"You're writing for them, Titus," Jesus said from the doorway. "Not for us."
 
-He left. Marcus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and grief in his chest answered it. Open hands. A system that devoured what it couldn't control. And Marcus writing it down instead of stopping it, because stopping it was never an option.
+He left. Titus sat alone in the dark room, the woman's singing still carrying through the floor. The melody wandered, searching for a harmony it couldn't find, and grief in his chest answered it. Open hands. A system that devoured what it couldn't control. And Titus writing it down instead of stopping it, because stopping it was never an option.
 
-The singing stopped. A child murmured. Then silence, and the sound of Marcus's own breathing in a room that smelled of lake water and bread and the absence of the man who'd just walked out.
+The singing stopped. A child murmured. Then silence, and the sound of Titus's own breathing in a room that smelled of lake water and bread and the absence of the man who'd just walked out.
 
-He sat there for a long time. The lake made its sounds below — boats settling, ropes creaking, the small percussion of water against wood. A dog barked once and stopped. Somewhere in the house beneath him, footsteps crossed a floor and a door closed. The ordinary machinery of a household preparing for sleep while Marcus sat in the dark and catalogued what he would need to do: refuse the pension, distribute the tablets, establish contact protocols for after the arrest, find safe houses for Mary and Sarah, secure copies of every teaching he'd transcribed.
+He sat there for a long time. The lake made its sounds below — boats settling, ropes creaking, the small percussion of water against wood. A dog barked once and stopped. Somewhere in the house beneath him, footsteps crossed a floor and a door closed. The ordinary machinery of a household preparing for sleep while Titus sat in the dark and catalogued what he would need to do: refuse the pension, distribute the tablets, establish contact protocols for after the arrest, find safe houses for Mary and Sarah, secure copies of every teaching he'd transcribed.
 
 The work steadied him. Not the grief, the work. His hands were still cold but his mind was moving now, the centurion's discipline taking hold the way it always took hold, converting shock into logistics, converting helplessness into lists. He couldn't save the man. But he could save the record. And in the end, when the last witness was dead and the last memory had faded, the record would be the only thing that proved any of this had been real.
 
@@ -224,7 +224,7 @@ He stood. Found his cloak in the dark by touch. Wrapped it around himself and we
 
 Mary lost the thread mid-sentence.
 
-She was teaching eighty women in the large room — oil lamps guttering in the draft from the courtyard, too many bodies pressing the air warm and close, the smell of wool and bread and the musk of women who'd walked miles to be here. The Mustard Seed parable. She'd taught it dozens of times. But Marcus's news from Jerusalem had hollowed out her chest, and the words kept catching on something sharp inside her.
+She was teaching eighty women in the large room — oil lamps guttering in the draft from the courtyard, too many bodies pressing the air warm and close, the smell of wool and bread and the musk of women who'd walked miles to be here. The Mustard Seed parable. She'd taught it dozens of times. But Titus's news from Jerusalem had hollowed out her chest, and the words kept catching on something sharp inside her.
 
 She was saying *smallest seed, largest plant* when the image came: Jesus on a cross. No vision, no blood memory. Just her own mind, doing what minds do when they know something terrible is coming — constructing it in advance, frame by frame, so the body can practice its horror. She saw the wood. She saw his hands. She saw the nails and the way his shoulders would pull taut under his own weight, and she heard the sound he would make when his lungs couldn't fill, and the room tilted and the words stopped.
 
@@ -276,7 +276,7 @@ They walked the rest of the way in silence, the cooking smoke thickening as they
 
 When the room was empty except for Leah, who had followed her back and waited in the doorway while Mary put Sarah to bed, the silence crushed in.
 
-Mary sat on the bench by the cold hearth. Her hands were in her lap, palms down, pressing against her thighs. She could feel her own pulse in her fingertips — fast, uneven, the rhythm of a body that hadn't stopped bracing since Marcus delivered the news.
+Mary sat on the bench by the cold hearth. Her hands were in her lap, palms down, pressing against her thighs. She could feel her own pulse in her fingertips — fast, uneven, the rhythm of a body that hadn't stopped bracing since Titus delivered the news.
 
 "One year," Mary whispered. "Maybe less. He's going to die and I'm supposed to carry all of this."
 
@@ -323,14 +323,14 @@ Mary closed her eyes. The fear was still there. She let it stay.
 **END OF CHAPTER 8**
 
 **Word Count:** ~5,450 words (expanded from ~1,744)
-**Status:** EXPANDED Phase 1 — New Scene 3 (Jesus Alone), Scene 2 (Intelligence Briefing) expanded with room detail/political calculus/Passover rationale, Scene 4 (Marcus/Jesus) expanded with Marcus's tactical mind/Jesus's fear moment, Scene 5 (Mary's Fear) expanded with cross vision/walk with Sarah/admission to Leah
+**Status:** EXPANDED Phase 1 — New Scene 3 (Jesus Alone), Scene 2 (Intelligence Briefing) expanded with room detail/political calculus/Passover rationale, Scene 4 (Titus/Jesus) expanded with Titus's tactical mind/Jesus's fear moment, Scene 5 (Mary's Fear) expanded with cross vision/walk with Sarah/admission to Leah
 **Next Chapter:** Chapter 9 - Pattern Eye recovery, Jesus's full timeline vision, final encoding period
 
 ---
 
 **CONTINUITY NOTES:**
 - Timeline: Winter 32 CE, 12 months before Passover 33 CE crucifixion
-- Marcus: Age 49, civilian status, documentation role accepted
+- Titus: Age 49, civilian status, documentation role accepted
 - Mary: Age 33, leadership role accepted despite fear, 80+ women in teaching circles
 - Jesus: Age 38, martyrdom strategy explained and accepted
 - Sarah: Age 7, Generation 43, witnessing leadership under pressure

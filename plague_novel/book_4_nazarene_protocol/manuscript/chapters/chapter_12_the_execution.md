@@ -1,14 +1,14 @@
 # Chapter 12: The Execution
 
 **Timeline:** 33 CE Spring (Day After Arrest - Crucifixion Day)
-**POV:** Marcus Publius Scipio (primary), Jesus (brief internal), Mary (Damascus)
+**POV:** Titus Publius Scipio (primary), Jesus (brief internal), Mary (Damascus)
 **Word Count:** ~6,300 words
 
 ---
 
 ## Scene 1: Dawn Preparation
 
-Marcus Publius Scipio hadn't slept. He'd spent the night making copies of six years of records, distributing them to four trusted houses across Jerusalem. Four copies. If one burned, three survived.
+Titus Publius Scipio hadn't slept. He'd spent the night making copies of six years of records, distributing them to four trusted houses across Jerusalem. Four copies. If one burned, three survived.
 
 Now he sat in pre-dawn dark and tried to eat bread. His jaw worked but his throat wouldn't swallow. He set the bread aside.
 
@@ -16,7 +16,7 @@ Fifteen executions he'd documented in his career, men who cursed Rome, begged fo
 
 The streets were waking. Bread baking, the sour smell of too many bodies packed into a festival city, animal dung in the gutters, incense from the Temple Mount drifting over everything like a lie. Passover pilgrims still preparing the seder while soldiers positioned at every intersection. A city in festival dress attending an execution.
 
-Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Marcus hadn't argued. The need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
+Mary Magdalene had refused to leave. She'd put Sarah on a cart north with Leah and stayed. Titus hadn't argued. The need to see it through, to not look away, even when looking was the worst thing you could do to yourself.
 
 He walked toward the Praetorium.
 
@@ -24,11 +24,11 @@ He walked toward the Praetorium.
 
 ## Scene 2: Pilate's Judgment
 
-The Praetorium courtyard smelled of stone dust and the perfume the Temple officials wore to mask the smell of the city. Marcus positioned himself behind a column where he could see and write.
+The Praetorium courtyard smelled of stone dust and the perfume the Temple officials wore to mask the smell of the city. Titus positioned himself behind a column where he could see and write.
 
 Pilate sat on the judgment seat like a man who wanted to be somewhere else. Caiaphas and the council packed the opposite wall. The crowd pressed against the gates outside, their shouting muffled by the stone.
 
-Jesus stood in the center, wrists shackled. Bruises darkened from the overnight interrogation: one eye swelling shut, lip split. But standing upright. Looking at Pilate with an expression Marcus couldn't read and didn't want to.
+Jesus stood in the center, wrists shackled. Bruises darkened from the overnight interrogation: one eye swelling shut, lip split. But standing upright. Looking at Pilate with an expression Titus couldn't read and didn't want to.
 
 "Are you the King of the Jews?" Pilate asked.
 
@@ -50,7 +50,7 @@ He gave the order.
 
 ---
 
-The scourging post stood in the courtyard's corner. Flagrum: leather thongs tipped with metal and bone fragments. Marcus had seen men lose consciousness after ten lashes.
+The scourging post stood in the courtyard's corner. Flagrum: leather thongs tipped with metal and bone fragments. Titus had seen men lose consciousness after ten lashes.
 
 They stripped Jesus and bound him to the post. The soldier took position. Drew back.
 
@@ -80,13 +80,13 @@ The smell of five thousand unwashed bodies mixed with festival cooking, roasting
 
 Jesus carried the crossbeam across his shoulders. Seventy-five pounds of rough-hewn cedar, the bark still on it, pressing into flesh already destroyed by the flagrum. Each step left blood on the paving stones. Crown of thorns still pressed into his skull, rivulets dried brown on his forehead, fresh red where the thorns shifted with each step. Four soldiers surrounding him, their hobnailed sandals grinding against the stone. Two criminals following behind with their own crossbeams, one weeping, one staring straight ahead.
 
-Marcus followed thirty paces back, close enough to see the blood trail, far enough to disappear into the crowd if he had to.
+Titus followed thirty paces back, close enough to see the blood trail, far enough to disappear into the crowd if he had to.
 
-Individual faces in the crowd. Marcus's eye registered them the way it always captured details. Not choosing to look, just looking, the way a man who has spent his life observing can't stop.
+Individual faces in the crowd. Titus's eye registered them the way it always captured details. Not choosing to look, just looking, the way a man who has spent his life observing can't stop.
 
 A mother on the left side of the street, gripping her son's wrist. The boy was perhaps ten, craning forward, trying to see. She pulled him back against her hip with a roughness that wasn't anger but terror, the instinct of a woman who understood that what walked past them was contagious, that her son's eyes on this procession would put something inside him she could never remove. The boy twisted in her grip. She held tighter. Her knuckles white against the brown of his arm.
 
-Behind her, an old woman flattened against the building's wall. Marcus recognized her. Not personally, but the type. She'd been at the hillside teachings. He'd seen her face in a crowd two years ago, somewhere near Capernaum, sitting in the front row with the patient attention of someone who came for the words, not the spectacle. Now she stood with both hands flat against the limestone behind her, as if the wall were holding her up, and her lips moved without sound. Not prayer. The silent repetition of someone trying to commit a face to memory before it was taken from her.
+Behind her, an old woman flattened against the building's wall. Titus recognized her. Not personally, but the type. She'd been at the hillside teachings. He'd seen her face in a crowd two years ago, somewhere near Capernaum, sitting in the front row with the patient attention of someone who came for the words, not the spectacle. Now she stood with both hands flat against the limestone behind her, as if the wall were holding her up, and her lips moved without sound. Not prayer. The silent repetition of someone trying to commit a face to memory before it was taken from her.
 
 An old man beside her, husband or stranger pressed close by the crowd, had his eyes shut. Tears running from beneath closed lids. He didn't wipe them. Didn't seem to know they were there.
 
@@ -130,11 +130,11 @@ The soldier positioned the nail against Jesus's left wrist. Not the palm—any e
 
 Down came the hammer.
 
-Iron drove through flesh, through bone, through wood, the sound of metal on metal, then the wet sound underneath that would follow Marcus for the rest of his life. Jesus's body arched against the wood, but he made no cry.
+Iron drove through flesh, through bone, through wood, the sound of metal on metal, then the wet sound underneath that would follow Titus for the rest of his life. Jesus's body arched against the wood, but he made no cry.
 
 Second nail. Right wrist. Same precision. Same silence.
 
-Marcus's hand shook so violently he nearly dropped the stylus. He stared at his own fingers and for a moment didn't see them, saw instead the boy at Carnuntum, fifteen years ago, the Thracian ambush that killed nine men in his cohort. The boy had been seventeen. Shield dropped, hands raised. Not in surrender but in the instinctive gesture of someone who doesn't yet believe the world will hurt him. Blade through the throat. Three seconds. Quick, at least. Marcus had been ten paces away, holding a tactical report he'd written three days earlier that would have prevented the ambush if anyone had read it. The same gesture. The same open palms. The boy's hands raised against the blade and now Jesus's wrists opened against the nails and Marcus on the wrong side again, always on the wrong side, always the one holding the instrument that recorded while other men bled. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
+Titus's hand shook so violently he nearly dropped the stylus. He stared at his own fingers and for a moment didn't see them, saw instead the boy at Carnuntum, fifteen years ago, the Thracian ambush that killed nine men in his cohort. The boy had been seventeen. Shield dropped, hands raised. Not in surrender but in the instinctive gesture of someone who doesn't yet believe the world will hurt him. Blade through the throat. Three seconds. Quick, at least. Titus had been ten paces away, holding a tactical report he'd written three days earlier that would have prevented the ambush if anyone had read it. The same gesture. The same open palms. The boy's hands raised against the blade and now Jesus's wrists opened against the nails and Titus on the wrong side again, always on the wrong side, always the one holding the instrument that recorded while other men bled. He forced himself to write. Time. Method. Jesus's response. The crowd's reaction. His hand steadied only because he willed it to, the way a soldier holds a line he knows will break.
 
 Four soldiers lifted the crossbeam with Jesus attached and hoisted it onto the vertical post. The wood groaned as they fitted the joint. Jesus's weight settled onto the wrist nails and his face went white.
 
@@ -142,7 +142,7 @@ A soldier grabbed his feet and pressed them flat against the post. Positioned th
 
 Jesus's jaw locked. A sound came through his teeth that wasn't a scream but wasn't silence either.
 
-Now he hung fully. His chest heaved, the weight of his body pulling his arms taut, compressing his lungs. To breathe, he had to push up on the nail through his feet. Marcus watched him do it, the agony of pushing up, the brief gasp of air, the slow slide back down. Over and over. Each breath bought with pain that would have broken most men on the first cycle.
+Now he hung fully. His chest heaved, the weight of his body pulling his arms taut, compressing his lungs. To breathe, he had to push up on the nail through his feet. Titus watched him do it, the agony of pushing up, the brief gasp of air, the slow slide back down. Over and over. Each breath bought with pain that would have broken most men on the first cycle.
 
 This was how crucifixion killed. Not the nails. Not the blood loss. It drowned you in your own body, one breath at a time.
 
@@ -154,7 +154,7 @@ At the base of the cross, the soldiers settled into the long wait. Four men with
 
 The dice clattered against a flat stone. One soldier won. The others shrugged. No argument. They'd divide the rest evenly. Professional. Unhurried. The ordinariness of men for whom a man dying six feet above their heads was not a crisis or a tragedy but a Tuesday, another shift, another body, another afternoon of waiting for a condemned man's lungs to give out while the sun moved across the sky and the dice decided who got the good cloak.
 
-One of them ate an apple. Bit into it, juice running down his chin, while Jesus's blood ran down the post behind him. The crunch of the fruit and the rasp of Jesus's breathing and the rattle of dice on stone, these sounds mixed together and became the sound of an ordinary execution, and Marcus hated them for it. Not the cruelty. The normalcy. The fact that a man could eat fruit while another man suffocated three feet away and feel nothing more than the sweetness on his tongue.
+One of them ate an apple. Bit into it, juice running down his chin, while Jesus's blood ran down the post behind him. The crunch of the fruit and the rasp of Jesus's breathing and the rattle of dice on stone, these sounds mixed together and became the sound of an ordinary execution, and Titus hated them for it. Not the cruelty. The normalcy. The fact that a man could eat fruit while another man suffocated three feet away and feel nothing more than the sweetness on his tongue.
 
 Among them, Malchus, the guard whose ear Jesus had healed during the arrest, watching the execution of the man who'd mended his severed flesh. He alone wasn't gambling. He sat apart, his hand moving unconsciously to his ear, touching the place where the blade had cut and the flesh had knit, and his face held the blankness of a man trying very hard not to feel what he was feeling.
 
@@ -178,7 +178,7 @@ Then he spoke. First words since crucifixion began.
 
 "Father, forgive them. They don't know what they do."
 
-The crowd quieted. Marcus's hand stopped. In twenty-eight years of military service, he had never heard a dying man ask mercy for the people killing him.
+The crowd quieted. Titus's hand stopped. In twenty-eight years of military service, he had never heard a dying man ask mercy for the people killing him.
 
 On either side, the two criminals began their own dying. One cursing. One silent.
 
@@ -190,7 +190,7 @@ At noon, darkness fell.
 
 Storm clouds rolling in from the Mediterranean, heavy enough to block the sun. The air thickened, humid and close, smelling of rain and iron. The crowd murmured: omen, divine judgment, fear.
 
-Marcus lit a small torch to see his tablets.
+Titus lit a small torch to see his tablets.
 
 Both criminals were still conscious. On Jesus's left, one had been cursing since they nailed him up, a steady stream of profanity that had devolved into animal sounds.
 
@@ -206,7 +206,7 @@ Quiet on the right cross. Eyes closed. His face loosened.
 
 Through the darkness, figures. John first. Several women behind him. Jesus's mother, walking as if the ground might give way. And Mary Magdalene.
 
-She walked ahead of the others. The expression on her face was one Marcus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her. Something in her stillness made them look away.
+She walked ahead of the others. The expression on her face was one Titus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her. Something in her stillness made them look away.
 
 Jesus pushed up. Breathed. Spoke.
 
@@ -224,23 +224,23 @@ Rain came.
 
 The first drops hit the limestone like flung gravel, raising small puffs of dust that the next drops turned to mud. Then the clouds split. Cold rain, bitter for spring, driven sideways by a wind that had come from nowhere and carried grit from the hillside that stung exposed skin. The rain hit the cross with a sound like fingers drumming on wood, steady and relentless, and Jesus's blood mixed with the water and ran pink down the timber and pooled in the dirt at the base where the soldiers had been gambling an hour ago.
 
-The crowd thinned. The vendors left first, folding their awnings, gathering their figs. Then the curious — the ones who'd come to see a spectacle and discovered that a man dying slowly in the rain was not a spectacle but a weight they hadn't agreed to carry. Then the hostile, the shouters, the ones who'd thrown their words like stones. They drifted back toward the city, their anger cooling as the rain soaked through their cloaks, the righteousness leaking out of them the way heat leaks from a body when the fire dies. What remained were the committed: the women, the soldiers who had no choice, and Marcus, who had chosen this.
+The crowd thinned. The vendors left first, folding their awnings, gathering their figs. Then the curious — the ones who'd come to see a spectacle and discovered that a man dying slowly in the rain was not a spectacle but a weight they hadn't agreed to carry. Then the hostile, the shouters, the ones who'd thrown their words like stones. They drifted back toward the city, their anger cooling as the rain soaked through their cloaks, the righteousness leaking out of them the way heat leaks from a body when the fire dies. What remained were the committed: the women, the soldiers who had no choice, and Titus, who had chosen this.
 
-The temperature dropped. Marcus's torch guttered and died. He wrote by the grey half-light of the storm, his stylus slipping on wax that the rain kept softening, and his letters grew ragged but he didn't stop. Couldn't. The steadiness of his hand was the last discipline he had. If he stopped writing, he would have to feel what he was seeing instead of recording it, and he knew, the way a man standing at the edge of a cliff knows — that if he let himself feel it, something in him would break that wouldn't go back together.
+The temperature dropped. Titus's torch guttered and died. He wrote by the grey half-light of the storm, his stylus slipping on wax that the rain kept softening, and his letters grew ragged but he didn't stop. Couldn't. The steadiness of his hand was the last discipline he had. If he stopped writing, he would have to feel what he was seeing instead of recording it, and he knew, the way a man standing at the edge of a cliff knows — that if he let himself feel it, something in him would break that wouldn't go back together.
 
-Jesus's breathing slowed. Each push-up on the foot nail taking longer now, the pause at the bottom stretching until Marcus found himself counting, his own chest tight, willing the next breath. Three seconds between breaths. Then five. Then seven. The muscles in Jesus's shoulders had begun to spasm visibly — the body's machinery failing in sequence, the way any machine fails: first the supporting structures, the shoulders and arms and intercostal muscles that held the chest open; then the primary system, the lungs themselves, each inflation shallower than the last, each exhale longer, the rhythm slowing toward something that wasn't rest.
+Jesus's breathing slowed. Each push-up on the foot nail taking longer now, the pause at the bottom stretching until Titus found himself counting, his own chest tight, willing the next breath. Three seconds between breaths. Then five. Then seven. The muscles in Jesus's shoulders had begun to spasm visibly — the body's machinery failing in sequence, the way any machine fails: first the supporting structures, the shoulders and arms and intercostal muscles that held the chest open; then the primary system, the lungs themselves, each inflation shallower than the last, each exhale longer, the rhythm slowing toward something that wasn't rest.
 
-His hands had gone dark. Not just from the nails, the circulation failing, blood pooling in his fingers and feet, the extremities the body abandoned first when it began triaging its own survival. His lips were grey. Rain ran down his face and he didn't blink it away. His head had fallen forward onto his chest, the crown of thorns pressing against his collarbone, and the only sign of consciousness was the breathing — that terrible, rhythmic labor, the push and fall, push and fall, slower each time, the pauses at the bottom growing longer until Marcus found himself leaning forward on each one, his own lungs tight, counting the seconds the way you count the seconds between lightning and thunder, knowing the gap is closing, knowing what the closing means.
+His hands had gone dark. Not just from the nails, the circulation failing, blood pooling in his fingers and feet, the extremities the body abandoned first when it began triaging its own survival. His lips were grey. Rain ran down his face and he didn't blink it away. His head had fallen forward onto his chest, the crown of thorns pressing against his collarbone, and the only sign of consciousness was the breathing — that terrible, rhythmic labor, the push and fall, push and fall, slower each time, the pauses at the bottom growing longer until Titus found himself leaning forward on each one, his own lungs tight, counting the seconds the way you count the seconds between lightning and thunder, knowing the gap is closing, knowing what the closing means.
 
 The criminal on the left had stopped cursing. Stopped making any sound at all. His head hung at an angle that suggested his neck had given out before his lungs. The criminal on the right was still breathing but barely — shallow, irregular, the breathing of a man whose body had already decided to stop and was only waiting for the message to reach his heart. Between them, Jesus still pushing up. Still choosing the next breath. The stubbornness of it — the sheer animal refusal to surrender, hour after hour, each push costing more than the last and yielding less — was harder to watch than the nails had been. The nails were violence. This was will. This was a man fighting his own body for one more minute, one more breath, one more moment of being alive on the earth.
 
-Mary stood in the rain. She had not moved. Her clothes were soaked through, plastered to her body, her hair flattened against her skull, and she looked smaller than she was — a woman standing in a storm watching a man die and refusing, with every fiber of her body, to look away. The rain ran down her face the way tears ran down faces and it was impossible to tell, from Marcus's distance, which was which.
+Mary stood in the rain. She had not moved. Her clothes were soaked through, plastered to her body, her hair flattened against her skull, and she looked smaller than she was — a woman standing in a storm watching a man die and refusing, with every fiber of her body, to look away. The rain ran down her face the way tears ran down faces and it was impossible to tell, from Titus's distance, which was which.
 
 She didn't wipe her eyes. Didn't push the hair from her face. Didn't shift her weight or cross her arms against the cold. She stood the way the cross stood — planted, vertical, immovable, and she watched him breathe.
 
 And once, through the rain, Jesus opened his eyes and found her. Found her the way he always found her, as if there were a thread between them that didn't depend on sight or sound but on something older, something that lived in the body below the level of choice. Their eyes held.
 
-What passed between them in that look, Marcus couldn't document. He tried. He sat in the rain with his ruined tablets and watched two people say goodbye without speaking and understood that some things survived not because they were written down but because they were felt by someone who refused to forget.
+What passed between them in that look, Titus couldn't document. He tried. He sat in the rain with his ruined tablets and watched two people say goodbye without speaking and understood that some things survived not because they were written down but because they were felt by someone who refused to forget.
 
 Darkness for three hours that felt like seasons. The wind carrying grit from the hillside. Rain on the cross. The sound of a man's breathing growing quieter, the intervals stretching, the body surrendering in increments so small that each one was invisible and all of them together were the distance between alive and not.
 
@@ -270,7 +270,7 @@ He opened his eyes one more time. Found Mary Magdalene's face in the crowd below
 
 ---
 
-*Marcus POV*
+*Titus POV*
 
 Jesus lifted his head. The effort it cost him was visible — every muscle in his neck and shoulders straining against six hours of gravity and iron.
 
@@ -286,7 +286,7 @@ And finally — loud, impossibly loud for a man who should have had no breath le
 
 His chest settled. Didn't rise again.
 
-Marcus marked the time. The ninth hour.
+Titus marked the time. The ninth hour.
 
 ---
 
@@ -308,7 +308,7 @@ Rain soaked Golgotha. Blood washing from the execution ground.
 
 Joseph of Arimathea approached the soldiers. "I request the body. I have permission from Pilate."
 
-Joseph and Nicodemus removed the nails carefully — the sound of iron pulling free from wood and bone. They took his body down. Wrapped it in linen. Marcus helped, his hands doing what his mind couldn't process yet. He'd carried dead soldiers before, in Thrace and Pannonia. This was different. The body was lighter than it should have been, and what remained was just the carpenter — calloused hands, a blackened thumbnail, wood dust ground so deep into his knuckles it would never come out.
+Joseph and Nicodemus removed the nails carefully — the sound of iron pulling free from wood and bone. They took his body down. Wrapped it in linen. Titus helped, his hands doing what his mind couldn't process yet. He'd carried dead soldiers before, in Thrace and Pannonia. This was different. The body was lighter than it should have been, and what remained was just the carpenter — calloused hands, a blackened thumbnail, wood dust ground so deep into his knuckles it would never come out.
 
 They carried the body to Joseph's family tomb. Rock-cut, never used. Nicodemus brought spices: myrrh and aloes, seventy-five pounds. A king's burial for a crucified criminal.
 
@@ -318,7 +318,7 @@ They laid him down. Joseph and Nicodemus packed the spices around the linen. Fou
 
 Temple guards arrived within the hour. Caiaphas's orders: six men posted to watch a dead man's tomb. They looked embarrassed. They'd get over it.
 
-Marcus left as darkness fell. Sabbath beginning. The air smelled of wet stone and the last smoke from the extinguished torches on Golgotha.
+Titus left as darkness fell. Sabbath beginning. The air smelled of wet stone and the last smoke from the extinguished torches on Golgotha.
 
 In his quarters, he read back what he had written. His hands would not stop shaking. When he finally set down the stylus, his fingers had cramped into the shape of holding it, and he had to pry them open one by one.
 
@@ -338,7 +338,7 @@ She had counted the intervals between each agonized push upward on the foot-nail
 
 She had watched him die.
 
-The others began leaving as Sabbath approached. Marcus toward his trusted house. John with Jesus's mother.
+The others began leaving as Sabbath approached. Titus toward his trusted house. John with Jesus's mother.
 
 Mary stood alone outside the sealed tomb. The guards watched her nervously, something in her stillness that unnerved them.
 
@@ -375,14 +375,14 @@ She waited for the third day.
 **END CHAPTER 12**
 
 **Word Count:** ~6,500 words
-**Status:** EXPANDED Phase 2 — Scene 3 procession individualized (mother/son, old woman, Simon of Cyrene blood-slick crossbeam, look between Simon and Jesus), Scene 4 crucifixion emotional landscape (Marcus Carnuntum memory, soldiers gambling/eating apple, crowd taunts as physical blows), Scene 5 hours of darkness expanded (storm/rain, body failing in sequence, Mary in rain unmoving, eye contact through rain), Scene 8 Mary's vigil deepened (hand on cold stone, three specific memories — Sarah's mispronunciation, "emphatically not mad," humming in workshop, memories as HERS)
+**Status:** EXPANDED Phase 2 — Scene 3 procession individualized (mother/son, old woman, Simon of Cyrene blood-slick crossbeam, look between Simon and Jesus), Scene 4 crucifixion emotional landscape (Titus Carnuntum memory, soldiers gambling/eating apple, crowd taunts as physical blows), Scene 5 hours of darkness expanded (storm/rain, body failing in sequence, Mary in rain unmoving, eye contact through rain), Scene 8 Mary's vigil deepened (hand on cold stone, three specific memories — Sarah's mispronunciation, "emphatically not mad," humming in workshop, memories as HERS)
 **Next Chapter:** Chapter 13 "The Resurrection"
 
 ---
 
 **Continuity Notes for Next Session:**
 - Jesus dead, buried, guarded tomb (sealed stone, six Temple guards)
-- Marcus completed his record, preparing to defect to Damascus
+- Titus completed his record, preparing to defect to Damascus
 - Mary Magdalene IN JERUSALEM — stayed to witness crucifixion at Golgotha despite original plan, sent Sarah north with Leah, plans to return to tomb on third day
 - Sarah safe in Damascus with Leah (age 7, Generation 43)
 - Pattern Eye and two defensive keys with Sarah/Leah in Damascus

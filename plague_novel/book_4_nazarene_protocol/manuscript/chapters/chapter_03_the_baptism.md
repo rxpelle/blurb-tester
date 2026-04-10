@@ -427,7 +427,7 @@ Nothing moved. But the unease didn't leave him, and when he finally walked back 
 **Bloodline Status:**
 - Jesus: Generation 42 carrier (primary line), full Protocol access via baptism vision
 - John: Generation 42 carrier (Branch 7), degraded inheritance, strong teaching ability
-- Vision confirms: Mary Magdalene (Branch 3, Gen 42), Marcus (network-affiliated), Simon (network family)
+- Vision confirms: Mary Magdalene (Branch 3, Gen 42), Titus (network-affiliated), Simon (network family)
 
 **Blood Memory Activation:**
 - Baptism ritual triggers full vision for Jesus
