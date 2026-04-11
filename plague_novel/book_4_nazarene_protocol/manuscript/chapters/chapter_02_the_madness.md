@@ -264,7 +264,7 @@ The twelve men were disciples, network descendants who'd been training with Jesu
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
-Peter, Simon's brother, crossed his arms. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. "She's a woman. My grandfather said the bloodline runs through sons."
+Peter, Simon's brother, crossed his arms — the gesture automatic, the body bracing before the mind caught up. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. His arms knew things his mouth wouldn't admit. "She's a woman. My grandfather said the bloodline runs through sons."
 
 "Your grandfather lost half the knowledge during the exile," Jesus said calmly. "Nefertari — the physician who started all of this — was a woman. Nearly a quarter of her first students were women. The blood doesn't care about gender."
 
@@ -348,7 +348,9 @@ The vision receded. Not vanished. She could still feel it there, the way you fee
 
 She opened her eyes.
 
-The room was silent. Peter was watching her. Thomas had leaned forward.
+The room was silent. Peter was watching her. His arms had uncrossed without his noticing. Thomas had leaned forward.
+
+Peter said nothing. But something moved behind his eyes — the quick, complicated look of a man watching someone take a tool he'd built and sharpen it past anything he could manage. It had taken him three weeks to learn what she'd just done in three minutes. The merchant's mind. The naming. She'd turned his exercise into something faster and more precise than he would ever be, and he could feel the knowledge settle into his body like a stone in a pocket: she was better at this than he was.
 
 Mary's face did something she couldn't control. Her chin trembled and her eyes filled. Not from the vision, not from grief, but from the sudden staggering relief of a woman who had spent her entire adult life believing she was drowning and had just been shown that the water was only waist-deep. That she could stand. That she'd always been able to stand, if someone had just told her where to put her feet.
 
