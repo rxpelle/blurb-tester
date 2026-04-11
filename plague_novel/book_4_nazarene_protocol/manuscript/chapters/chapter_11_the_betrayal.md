@@ -108,7 +108,15 @@ Jesus poured wine, the cup making rounds. Heavy clay, chipped at the rim. His fi
 
 The cup reached Sarah. She drank carefully, both hands wrapped around it, her fingers not quite meeting around the clay. She watched the adults' faces over the rim the way she watched everything. Not with a child's inattention but with something older and steadier, the look of someone learning what faces do when they're frightened. Her eyes moved from Peter's rigid jaw to Thomas's drawn brow to Judas's careful blankness, and what she saw there she stored the way her mother had taught her to store things: without judgment, without interpretation. Just the seeing. Just the holding.
 
-The wine left a dark line on her upper lip. Mary wiped it away with her thumb. Sarah caught her mother's hand and held it against her cheek for a moment — a gesture so small and so private that no one else at the table noticed it. But Jesus did. And the sight of it — a mother's hand on a child's face, the oldest tenderness, the simplest love — nearly broke him in a way the prospect of crucifixion had not. He looked away. Swallowed. Continued.
+She tugged Mary's sleeve and whispered, loud enough for Jesus to hear: "Peter is crying into the bread."
+
+"Shh."
+
+"But it's making the bread wet."
+
+Mary pressed her lips together. Jesus caught her eye across the table and for one instant his composure cracked — not grief, not fear, but the helpless almost-laugh of a man undone by a child's literalness at the worst possible moment. He looked away before anyone else saw it.
+
+The wine left a dark line on Sarah's upper lip. Mary wiped it away with her thumb. Sarah caught her mother's hand and held it against her cheek for a moment — a gesture so small and so private that no one else at the table noticed it. But Jesus did. And the sight of it — a mother's hand on a child's face, the oldest tenderness, the simplest love — nearly broke him in a way the prospect of crucifixion had not. He looked away. Swallowed. Continued.
 
 "But understand this." Jesus set down the cup. "The one who will hand me over is here at this table."
 

@@ -280,7 +280,15 @@ Mary's chest constricted. "Yes. I was sad."
 
 "Somewhere I can't follow."
 
-Sarah absorbed this in silence. Her sandals scuffed the stone — left, right, left, the uneven rhythm of a child's walk, not yet synchronized, still finding its pace. They passed the house where old Miriam sold lentil soup from a window ledge, the steam rising into the cold air. They passed the courtyard where three boys were arguing over a wooden top, their voices high and sharp and full of the injustice only children feel about toys. They passed the well where women gathered in the morning, empty now, the rope swaying slightly in the evening wind.
+Sarah absorbed this. Four more steps. Then: "Can he bring his tools?"
+
+Mary almost laughed. Almost. "What?"
+
+"If he's going away, he should bring his tools. He's always happier when he's building something."
+
+Mary couldn't speak for a moment. "I'll tell him you said that."
+
+"Good." Sarah's sandals scuffed the stone — left, right, left, the uneven rhythm of a child's walk, not yet synchronized, still finding its pace. They passed the house where old Miriam sold lentil soup from a window ledge, the steam rising into the cold air. They passed the courtyard where three boys were arguing over a wooden top, their voices high and sharp and full of the injustice only children feel about toys. They passed the well where women gathered in the morning, empty now, the rope swaying slightly in the evening wind.
 
 "Will the friend come back?" Sarah asked.
 

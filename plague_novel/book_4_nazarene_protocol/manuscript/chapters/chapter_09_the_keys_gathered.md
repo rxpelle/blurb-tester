@@ -263,9 +263,27 @@ Mary didn't answer. Because the other possibility — that the meaning would be 
 
 She looked at his hands. The bread he'd shredded lay in a pile of crumbs between them, torn past the point of eating. His fingers were still working — pulling at nothing now, pinching air, the restless motion of a man who needed to be making something and couldn't sit still with the knowledge that what he was making might not survive him.
 
-"Sarah heard both layers today," she said.
+A small shape appeared from the darkness, blanket wrapped around her shoulders, eyes half-closed. "I'm thirsty."
 
-His hands stopped. He looked at her.
+Mary poured water from the skin. Sarah drank, wiped her mouth with the back of her hand, and looked at the two adults sitting on stone in the dark.
+
+"Are you still talking about seeds?"
+
+"Yes," Jesus said.
+
+"They're not really about seeds."
+
+"No."
+
+Sarah nodded, unsurprised. "The one about the pearl is really about Mama." She handed back the cup and walked back toward the house.
+
+Jesus and Mary sat in the silence Sarah left behind.
+
+"She's not wrong," Jesus said eventually.
+
+"I know." Mary pressed her hands against the warm stone. "That's what terrifies me."
+
+His hands stopped moving. He looked at her.
 
 "She told me during the sower parable. 'Mama, the stories have two meanings.' Seven years old."
 
@@ -286,6 +304,44 @@ She thought about Nefertari and her daughter in the corner of the workshop. The 
 They sat in that almost-touching quiet while the stars came out and the lake went dark and the hillside held the day's heat the way stone holds everything — faithfully, without understanding, because that is what stone does.
 
 Below them, Capernaum's lamps flickered on one by one. Nine months. And the Temple was already watching.
+
+---
+
+The next morning, Mary argued with a fish vendor.
+
+"Three denarii for tilapia this size? I could get this in Magdala for one and a half."
+
+"You're not in Magdala."
+
+"I'm aware. That's why I'm arguing with you instead of buying from someone competent."
+
+Jesus sat on the low wall beside the market road, watching this exchange with the expression of a man who had seen the collapse of empires in his sleep but had never successfully negotiated a fish price. Sarah sat beside him, swinging her legs.
+
+"Mama always wins," Sarah said.
+
+"I know."
+
+"She says it's because she counts faster than the seller."
+
+"She's right."
+
+Sarah considered this. "Can you count fast?"
+
+"No. I'm a carpenter. We measure things. It's different."
+
+"How?"
+
+"Measuring is making sure something fits. Counting is making sure you're not being cheated." He watched Mary accept two fish for two denarii, the vendor's face suggesting he'd been outmatched by a professional. "Your mother is very good at not being cheated."
+
+Mary walked back with the fish wrapped in cloth. "Two denarii."
+
+"That seems fair," Jesus said.
+
+"It's a robbery. But this is Capernaum."
+
+They walked home. Sarah between them, holding both their hands, skipping every third step. The evening air smelled of cooking fires and the lake. Ordinary. Unbearable, if you knew what was coming. But they didn't talk about what was coming. They talked about the fish, and whether Anna would lend her good cooking pot, and whether Sarah could stay up late enough to see the stars come out.
+
+Later, Mary would remember this walk. Not the teachings, not the parables, not the moment on the hillside when forty people wept together. This walk. The fish. Sarah skipping. The weight of his hand in hers and the way his thumb moved against her knuckle — a gesture so small and so human that it had no place in a story about saving civilization, and was therefore the most important thing that ever happened.
 
 ---
 
