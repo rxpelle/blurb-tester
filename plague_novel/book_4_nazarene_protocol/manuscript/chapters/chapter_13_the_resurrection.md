@@ -308,6 +308,8 @@ Mary held her tighter. "I know you did."
 
 Leah appeared in the doorway, face tight with relief. She met Mary's eyes over Sarah's head and something passed between them — the wordless communication of two women who'd been holding the same fear from opposite ends of a road.
 
+Sarah's hand moved to her left side, pressing against her ribs — the gesture every woman in their line made. But Mary noticed something: Sarah wasn't holding the door shut. She was holding it open. The warmth was there, in her daughter's chest, and the child wasn't afraid of it.
+
 They sat in the courtyard shade — Sarah pressed against her mother's side, refusing to let go, Leah on a low stone bench, wind moving through the date palm above them. The afternoon light fell in patches through the fronds, shifting, dappled, warm.
 
 Mary spoke.

@@ -46,7 +46,7 @@ She'd changed. Six months ago she couldn't finish a sentence without flinching a
 
 "You're back," she said. Not a question.
 
-She set Sarah down, nearly four, dark curls, enormous eyes. The child went to the corner and started arranging pebbles in geometric patterns on the floor. Generation 43.
+She set Sarah down — nearly four, dark curls, enormous eyes. The child went to the corner and started arranging pebbles in geometric patterns on the floor. Nobody thought it strange. Among these people, strangeness was just knowledge arriving before language could catch it.
 
 "The visions have changed," Mary said. "Sharper. I can stay inside them now without losing myself. But I'm not sure I trust what I'm seeing." She paused, choosing words carefully. "I think I'm seeing structure underneath the collapse. How Nefertari organized her students. But it could be my merchant's mind imposing order on chaos. Pattern where there's only noise."
 

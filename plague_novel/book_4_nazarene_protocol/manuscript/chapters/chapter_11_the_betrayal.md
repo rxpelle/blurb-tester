@@ -106,7 +106,7 @@ Jesus poured wine, the cup making rounds. Heavy clay, chipped at the rim. His fi
 
 "This cup is the new covenant in my blood," he said. "Drink from it, all of you."
 
-The cup reached Sarah. She drank carefully, both hands wrapped around it, her fingers not quite meeting around the clay. She watched the adults' faces over the rim the way she watched everything. Not with a child's inattention but with something older and steadier, the look of someone learning what faces do when they're frightened. Her eyes moved from Peter's rigid jaw to Thomas's drawn brow to Judas's careful blankness, and what she saw there she stored the way her mother had taught her to store things: without judgment, without interpretation. Just the seeing. Just the holding.
+The cup reached Sarah. She drank carefully, both hands wrapped around it, her fingers not quite meeting around the clay. Children feel what adults hide — the fear in that room had changed the quality of the air, a thinning, a brightness that was not light but attention sharpening to a point. Sarah could feel it. She watched the adults' faces over the rim the way she watched everything. Not with a child's inattention but with something older and steadier, the look of someone learning what faces do when they're frightened. Her eyes moved from Peter's rigid jaw to Thomas's drawn brow to Judas's careful blankness, and what she saw there she stored the way her mother had taught her to store things: without judgment, without interpretation. Just the seeing. Just the holding.
 
 She tugged Mary's sleeve and whispered, loud enough for Jesus to hear: "Peter is crying into the bread."
 

@@ -286,11 +286,17 @@ Then the warmth rising from Mary's body. Not disappearing — *transferring*. Th
 
 And Mary Magdalene, who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — received her rest in silence, in a whitewashed room in Alexandria with her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
 
-Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move. She listened to the harbor — the sounds returning now that the room had gone quiet, the gulls and the rigging and the water against stone, and she understood for the first time why her mother had always lived near the water. The harbor never stopped. It held the same sounds day after day, year after year, the way stone holds heat, faithfully, without understanding, because that's what harbors do. They hold.
+Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move.
+
+Her mother had loved him. Not the way the world would whisper about — not scandal, not possession, not the small love they would use to reduce her so she fit inside their story. She had loved him the way stone loves the day's heat. Faithfully. Without understanding. Because that is what she did. And he had loved her back — not romantically, not in any way that required their bodies to close the distance their hands maintained on warm stone in the evenings. He had loved her by trusting her with everything. He told her what he told no one else. He asked her to carry what he could not carry past his own death. And the first word he spoke after three days of silence was her name. If that was not love then the word had no meaning.
+
+They would call her a prostitute. They would bury her gospel. They would simplify her into a footnote, a weeping woman, a reformed sinner who followed a man she did not understand. But her mother had understood everything. And Sarah would not let the understanding die.
+
+She listened to the harbor — the sounds returning now that the room had gone quiet, the gulls and the rigging and the water against stone. She understood for the first time why her mother had always lived near the water. The harbor never stopped. It held the same sounds year after year, the way stone holds heat. Faithfully. Without understanding. Because that's what harbors do.
 
 Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
 
-She would have copies made. Three sets. Different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again.
+Not peace. Not understanding. Just the work, and the carrying of it, and the refusal to set it down.
 
 She had work to do.
 
@@ -434,9 +440,13 @@ One final touch on the disc. The bronze was warm.
 
 It was always warm.
 
+In Antioch, Sarah's daughter Miriam — fifteen, generation forty-four — arranged pebbles in patterns on the courtyard floor while her mother sealed letters by lamplight. She dreamed of Nefertari's workshop. She knew the three taps. She pressed her hand against her left side and felt the warmth, and she was not afraid of it.
+
+The chain held.
+
 ---
 
-**END BOOK 4: THE NAZARENE PROTOCOL**
+**END BOOK 4: LOVE REMEMBERS IN SILENCE**
 
 *The story continues in Book 5: The Augustine Protocol*
 
