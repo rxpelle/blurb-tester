@@ -124,6 +124,22 @@ Jesus was quiet for a long time. The lake moved against the shore.
 
 "Maybe they won't be entirely wrong." He pressed his palm against the warm stone. "What do you call something that started between two people and grew until it could hold forty strangers on a hillside? That outlived the people who made it, outlived their names, outlived the empire they lived in?" He looked at Simon. "Maybe God is just the word we use when something holds more than it was made for."
 
+Simon was quiet for a while. Then: "So you're not the son of God."
+
+Jesus looked at him. "I'm the son of a carpenter who died when I was twenty-four. And the son of a woman who still leaves food outside my workshop door." He picked up a handful of basalt pebbles, let them fall through his fingers. "But Simon — when I work a piece of wood, my hands know things I never learned. My father's hands knew things his father never taught him. Go back far enough and the knowledge doesn't belong to any one person. It belongs to the wood. To the grain itself."
+
+He held up his hand, fingers spread against the stars. "What if we're like fingers pushed through a cloth? On this side, separate. Individual. My grief, your grief, his grief. But on the other side —" He turned his hand over slowly. "On the other side, it's all one hand."
+
+"And the cloth?"
+
+"The cloth is what we can't see past. The cloth is being alive." He lowered his hand. "I don't know what's on the other side, Simon. But I felt it today. Forty people who had never met each other, weeping with the same grief, reaching for the same love. If that's God, then God isn't something out there. God is what happens when the cloth gets thin enough for the fingers to feel each other."
+
+Simon said nothing for a long time. The lake moved. A fish broke the surface somewhere in the dark and the ripple reached them a few seconds later, rocking the pebbles at their feet.
+
+"They'll still say you're the Son of God," Simon said.
+
+"Maybe I am. Maybe we all are. Maybe that's the part they'll get right without understanding why."
+
 "But you're going to teach it."
 
 "The love. Yes. Because the love is what survived." His voice was steady. "Everything else scattered. But the love is *stronger* than it was at the beginning. It gathered."

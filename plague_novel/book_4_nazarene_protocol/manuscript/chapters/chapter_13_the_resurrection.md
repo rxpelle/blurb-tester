@@ -200,7 +200,9 @@ He smiled. The expression so familiar it broke something open in her chest — a
 
 "Does it matter?"
 
-It didn't. It truly didn't. She was kneeling in a garden and the man she'd watched die was standing in front of her and the morning light was catching the olive leaves and the bird was still singing its three notes and the rosemary she'd crushed under her knees was releasing its scent into the air and all of it was too specific to be hallucination. Grief didn't smell like rosemary. Madness didn't come with birdsong. Visions didn't cast shadows on the grass.
+"I told Simon once that we're like fingers pushed through a cloth. Separate on this side. Connected on the other." He looked at his hands — the nail marks still visible, the carpenter's calluses still there. "I've been on the other side, Mary. For three days." His voice broke for the first time. "It's all one hand."
+
+It didn't matter how. It truly didn't. She was kneeling in a garden and the man she'd watched die was standing in front of her and the morning light was catching the olive leaves and the bird was still singing its three notes and the rosemary she'd crushed under her knees was releasing its scent into the air and all of it was too specific to be hallucination. Grief didn't smell like rosemary. Madness didn't come with birdsong. Visions didn't cast shadows on the grass.
 
 Her hand was still in the air between them. She moved it closer — not to touch him but to touch the space near his wrist, near the mark where the nail had been. Her fingers traced the edge of what he'd endured without making contact. The air between her hand and his skin felt like the air above a fire. Not hot, not empty, but full of something she couldn't see.
 
