@@ -98,7 +98,7 @@ Jesus emerged from the darkness beyond the firelight. His feet made no sound on 
 
 "What's wrong with five years?"
 
-"Nothing. If that's as far as you can see." Jesus poked the fire. "But commands die with the man who gives them. I tell you directly how to keep peace — you remember while I'm alive. Your children's children forget. But I tell you a *story* — the Good Samaritan, and that story spreads to people who never met me. Five hundred years from now, someone hears it and understands."
+"Nothing. If that's as far as you can see." Jesus poked the fire. "A carpenter knows this: when something is too large to hold, you build a frame for it. A parable is a frame. It holds the truth in a shape people can carry. But commands die with the man who gives them. I tell you directly how to keep peace — you remember while I'm alive. Your children's children forget. But I tell you a *story* — the Good Samaritan, and that story spreads to people who never met me. Five hundred years from now, someone hears it and understands."
 
 Judas stared into the flames. "My cousin is dead. My father's fields are gone. And you're telling me to wait five hundred years."
 

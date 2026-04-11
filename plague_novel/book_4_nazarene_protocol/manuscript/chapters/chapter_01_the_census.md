@@ -100,7 +100,7 @@ The way he said *her*—not abstractly, not philosophically. Like there was a sp
 
 "Profession?" Titus knew the answer but wanted to hear how Jesus described it.
 
-"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands, scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked, splits if you look at it wrong, but it's what she can afford, so." He shrugged. The gesture was so ordinary it almost made Titus forget the eyes.
+"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands, scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked, splits if you look at it wrong, but it's what she can afford, so." He shrugged. "You learn the wood. Pine talks before it breaks. Cedar whispers. Olive wood says nothing until it's too late, and then the whole piece goes at once." The gesture was so ordinary it almost made Titus forget the eyes.
 
 "Trade inherited from your father?"
 

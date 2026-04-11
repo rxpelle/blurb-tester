@@ -136,6 +136,8 @@ He held up his hand, fingers spread against the stars. "What if we're like finge
 
 Simon said nothing for a long time. The lake moved. A fish broke the surface somewhere in the dark and the ripple reached them a few seconds later, rocking the pebbles at their feet.
 
+"I wasn't the source today, Simon." Jesus's voice was quiet. "I was the crack it found. The love came through me the way water comes through stone. If it was only in my blood, it would have stayed in my blood. But it reached forty people who don't carry what I carry." He paused. "I'm the bucket. Not the well. And anyone can lower a bucket."
+
 "They'll still say you're the Son of God," Simon said.
 
 "Maybe I am. Maybe we all are. Maybe that's the part they'll get right without understanding why."

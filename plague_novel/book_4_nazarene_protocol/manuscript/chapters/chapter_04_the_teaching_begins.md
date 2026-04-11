@@ -170,7 +170,9 @@ The corner of her mouth moved. Not quite a smile, but the closest thing he'd see
 
 "You are emphatically not mad."
 
-Mary pressed her hand flat against a stone wall, grounding herself. Sarah woke, blinked, looked up at her mother's face. "Mama? Why are you crying?"
+Mary pressed her hand flat against a stone wall, grounding herself. Later she would learn that people expected her to be serene about this — calm, composed, the quiet woman beside the teacher. But serenity is what the world paints onto women it is uncomfortable with. What she actually felt was fury and terror and the bone-deep relief of a person who has been told, for the first time, that what she sees is real.
+
+Sarah woke, blinked, looked up at her mother's face. "Mama? Why are you crying?"
 
 "Because I understand now, little one." Mary pulled her daughter close. "I'm not broken. I'm a teacher."
 
