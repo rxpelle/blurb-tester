@@ -90,7 +90,9 @@ Nobody spoke. A child laughed somewhere in the house. The herbs Mary had been gr
 
 Peter uncrossed his arms. He didn't apologize. He didn't agree. He walked out of the courtyard, and Mary heard him in the next room, already talking to Andrew about who should lead, about proper teaching, about which among them could speak with authority.
 
-She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone, the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
+She understood then what was coming. Not persecution — that she'd prepared for. Simplification. Peter would build his church not on a lie but on a simplification, and the simplification would require her erasure. It was easier to say *prostitute* than to say *the woman who heard both layers and taught the women's circles and stood at the cross when I couldn't*. Easier to bury her Gospel than explain why a woman had written one. The men would get the martyrdom. The women would get the centuries.
+
+She picked up the pestle. Resumed grinding. Her hands needed to be doing something or they would have done something else entirely — something that involved Peter's face and a clay pot and the kind of violence that the teaching was supposed to prevent. The herbs turned to paste under the stone, the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
 
 She ground the herbs until there was nothing left to grind.
 
@@ -250,7 +252,7 @@ Nefertari. Twelve hundred years ago. Sarah was seeing her.
 
 "That's it," Mary said. "That's where you live now."
 
-The harbor. The wind. The smell of salt and acacia from the courtyard below.
+The harbor. The wind. The smell of salt and acacia from the courtyard below. Forty-three years of carrying. Not because she understood what she carried — she had never fully understood it, not the warmth, not the reaching, not the way love survived the death of everyone who made it. She had just held it. The way stone holds heat. The way a harbor holds the sea. Without understanding. Because that is what women do. They hold.
 
 ---
 

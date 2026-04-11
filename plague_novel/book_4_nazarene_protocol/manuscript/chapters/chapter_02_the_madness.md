@@ -190,7 +190,9 @@ Mary turned the idea over the way she'd turn a contract clause, looking for the 
 
 Her knees went weak. Exorcists and physicians and neighbors who crossed the street, and this carpenter in a borrowed courtyard said it like it was obvious.
 
-Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest, a knot she'd been carrying so long she'd forgotten it was there.
+Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest — a knot she'd been clenching for so long that clenching felt like breathing. She hadn't known her body was holding itself together until someone told her she didn't have to.
+
+She had been competent before she was holy. Twenty years of contracts and salt barrels and managing men who didn't want to take orders from a woman. The visions hadn't changed her mind. They'd just given the world a reason to dismiss it.
 
 "Can you make it stop?" she asked when she could speak.
 

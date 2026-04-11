@@ -18,9 +18,17 @@ Sabbath. No travel. No labor. No walking to the tomb to press her palm against t
 
 Her body wanted to move. The restlessness of mourning held captive by the Law's command to cease from labor. Her legs ached from yesterday, six hours standing at the cross, then the walk to the tomb, then the walk here in the rain, but the ache was better than this. Pain occupied her. At least her body was doing something. This was the body doing nothing while the mind replayed the sound of nails being pulled from wood.
 
-She stood. Sat down. Stood again. Crossed the room, four paces. Touched the wall. The plaster was cool and gritty under her fingertips. She pressed harder, feeling the texture, the small imperfections, because sensation was better than the alternative, which was the image that arrived every time she closed her eyes: his chest settling for the last time. The ordinary stillness of a body that had stopped.
+She stood. Crossed the room — four paces. Touched the wall. Pressed her fingers into the rough stone until the grit bit into her skin.
 
-She sat down again.
+Then she tore the cloth.
+
+The linen she'd been holding — the scrap she'd kept from the burial wrapping, the piece she'd pressed against her face on the walk back because it still smelled of myrrh and of him — she tore it. Both hands. The ripping sound was too loud in the Sabbath silence and she didn't care. She tore it again. And again. And when the pieces were too small to tear she beat the wall with the flat of her hand, once, twice, three times, until her palm was red and the pain was better than what was inside her.
+
+She was angry. Not grieving. Angry. Angry at the design that required his death. Angry that she was the one left to carry what remained. Angry that the architecture of survival — the whole magnificent, terrible structure Nefertari had built and forty-two generations had preserved — was built on a foundation of women who were expected to endure and carry and scatter and teach and raise daughters alone and write gospels that would be buried and grind herbs until there was nothing left to grind. The men got the martyrdom. The women got the centuries.
+
+She said things about God and about the design and about the man who chose to die instead of live. She said them into the empty room in a voice she didn't recognize, raw and low, and the words were true and truth that raw does not improve with age so she would never repeat them.
+
+When she was done her hand was bleeding where the stone had opened the skin. She wrapped it in one of the torn linen strips — the cloth that had touched his body now holding her blood — and sat down again.
 
 The room held almost nothing. The mat. A clay lamp, unlit, no need for flame, the daylight came grey and flat through the single high window. A water jar. The spice jars she'd purchased yesterday, myrrh and aloe and nard, lined up against the wall like soldiers waiting for orders. She'd arranged them three times already. Adjusted the spacing. Picked one up, set it down, picked it up again. Her hands needed something to hold.
 
@@ -39,6 +47,10 @@ His voice saying her name for the first time. Not the resurrection, that hadn't 
 His face during the sermon on the hillside when she'd heard both layers for the first time, the parable the crowd heard and the systems teaching underneath, the architecture of how empires collapse, encoded in a story about seeds and soil. She'd looked at him, and he'd looked at her, and his left eyebrow had risen in that way it did when something mattered, and she'd understood that he knew she'd heard it, and that her hearing it changed what the teaching was. Not a teacher delivering knowledge to a student. Two people reading the same text aloud, each one hearing what the other brought to it.
 
 The smell of his cloak. Cedar and sweat and the faint mineral smell of limestone dust from the roads. She'd walked beside him for five years and she knew the smell of his clothes the way she knew the smell of her daughter's hair. Not because she'd studied it, because proximity wrote it into her body. A thousand miles of road together. A thousand shared meals. A thousand teaching sessions, side by side, her breathing matching his, two sets of lungs finding the same rhythm.
+
+And the days that weren't in any story. The afternoon on the dock in Capernaum when Sarah arranged shells while Mary watched the boats come in and neither of them spoke, and the afternoon held them the way the lake held the light — without trying, without purpose, just holding. The thousand mornings when he said her name across a breakfast table and it meant nothing more than *pass the bread*. The ordinary names. The ordinary bread. That was the love. Not the reaching across twelve hundred years. The reaching across the table.
+
+They had not been careful with each other. They had been specific. There is a difference, and the difference is everything. Careful means distance maintained. Specific means the boundary worn so thin you can feel the other person's pulse through it. She knew when he was composing a parable by the way his right hand moved against his thigh. He knew when she was angry by the way she counted things — faster, sharper, the merchant's mind running hot. They argued about the women's teaching schedule and about whether figs or dates were better for travel and about nothing at all, the way people argue when the arguing itself is a form of contact. What they had was not romance and it was not chastity and it was not some elevated partnership beyond the body. It was two people who had worn each other smooth.
 
 These were not the blood's memories. These were hers.
 

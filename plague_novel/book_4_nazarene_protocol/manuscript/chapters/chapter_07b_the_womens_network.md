@@ -94,7 +94,7 @@ The courtyard was very quiet. Mary looked at Hannah for a long time. A weaver's 
 
 She let that land.
 
-"If I told you it always worked, I'd be lying, and you'd stop trusting me. I'd rather you trust me with the truth: this works more often than it fails. And when it fails, we catch each other. Ruth's sister is at her mother's house tonight because Ruth knew to bring it here, and Leah has a spare room. That's the network holding. Not the intervention. The network."
+"If I told you it always worked, I'd be lying, and you'd stop trusting me. I'd rather you trust me with the truth: this works more often than it fails. And when it fails, we catch each other. Ruth's sister is at her mother's house tonight because Ruth knew to bring it here, and Leah has a spare room. That's the network holding. Not the teaching — the catching. We are not here to perfect each other. We are here to catch each other when the perfecting fails."
 
 Deborah touched her jaw again. "I'll keep trying."
 

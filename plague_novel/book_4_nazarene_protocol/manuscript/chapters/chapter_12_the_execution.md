@@ -148,6 +148,8 @@ This was how crucifixion killed. Not the nails. Not the blood loss. It drowned y
 
 And still Jesus's left hand moved against the nail, fingers spreading, reaching left across the crossbeam toward nothing, the gesture of a man whose body remembered a love older than his own life.
 
+Mary saw it. She was the only one who knew what the hand was doing. The soldiers saw a man's fingers twitching against iron. Titus saw a detail to document. But Mary knew. She knew because her own hand did the same thing in the dark — reaching left, searching, the body's oldest habit. She watched his fingers spread and close and spread again and she understood that even now, even nailed to wood, his body was looking for the hand it had been missing for twelve hundred years.
+
 Before the crucifixion, they'd offered wine mixed with myrrh, painkiller. Jesus had refused.
 
 At the base of the cross, the soldiers settled into the long wait. Four men with a job to do and hours before it was done. One spread Jesus's outer garment on the ground and sat on it. Another produced dice, carved bone, small enough to cup in one hand. They gambled for Jesus's cloak, the seamless inner garment that was worth more than the rest of his clothes combined.
@@ -207,6 +209,8 @@ Quiet on the right cross. Eyes closed. His face loosened.
 Through the darkness, figures. John first. Several women behind him. Jesus's mother, walking as if the ground might give way. And Mary Magdalene.
 
 She walked ahead of the others. The expression on her face was one Titus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her. Something in her stillness made them look away.
+
+Standing there was not courage. She knew that. Courage was what Peter needed and couldn't find. This was simpler. She could not hold his hands. So she held him with her eyes. It was the last thing she could give, and she would not look away from giving it.
 
 Jesus pushed up. Breathed. Spoke.
 
