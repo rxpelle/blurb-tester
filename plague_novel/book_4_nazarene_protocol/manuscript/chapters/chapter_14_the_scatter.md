@@ -144,7 +144,7 @@ Seven years since the crucifixion. Sarah, fifteen, sat nearby.
 
 "What are you writing?"
 
-"What he said. In his own words, as close as I can hold them."
+"Everything." Mary didn't look up. "What gets carried and what gets erased — someone has to decide. Peter will decide for the church. I'm deciding for the truth."
 
 She wrote his words on the nature of sin:
 

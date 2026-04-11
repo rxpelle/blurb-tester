@@ -126,7 +126,7 @@ A Pharisee who'd been lingering near the back of the dispersing crowd stepped fo
 
 The hillside went dead silent. Women pulled their children closer. Men stepped back as if witnessing blasphemy. The six hundred who remained stared in shock.
 
-Mary flinched. The old instinct — twelve years of being called possessed, mad, demon-ridden. A community deciding she was broken because she saw things they couldn't see. Every exorcism prayer and whispered warning and locked door. Her shoulders hunched inward and her hand moved to cover Sarah's ears, the protective gesture of a woman who'd learned that public attention meant public punishment.
+Mary flinched. The old instinct. Not *you are wrong* — the world never said that, because being wrong was a conversation. What the world said was *who authorized you to be right?* Who trained you? Who gave you permission? Twelve years of being called possessed, mad, demon-ridden — not because she was incorrect but because she heard things without being credentialed to hear them. Every exorcism prayer and whispered warning and locked door. Her shoulders hunched inward and her hand moved to cover Sarah's ears, the protective gesture of a woman who'd learned that public attention meant public punishment.
 
 But then something held.
 

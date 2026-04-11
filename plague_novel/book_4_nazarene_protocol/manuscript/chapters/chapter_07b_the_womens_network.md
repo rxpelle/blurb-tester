@@ -58,7 +58,7 @@ Mary nodded. "Two hours is real. That's two hours your children didn't hear viol
 
 "My face says it cost me."
 
-"Yes. And you'll be back next week."
+"Yes. The teaching doesn't make the cost disappear, Deborah. It gives you more room to move. Not freedom. Not fairness. Room. And sometimes room is everything." She held Deborah's gaze. "You'll be back next week."
 
 "I'll be back next week." Deborah lowered her hand. "But I want you to know something. The morning after — that's the part nobody talks about. I got up before the house. Before he woke. The bread wouldn't make itself. The children needed water heated. And when he sleeps late, the house is mine." Her voice shifted — quieter, almost private. "Those mornings are the best hours of my week. Not because the night was good. Because the quiet is the space where I remember I'm a person."
 
