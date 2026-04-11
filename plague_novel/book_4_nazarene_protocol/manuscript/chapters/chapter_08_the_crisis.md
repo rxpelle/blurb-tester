@@ -164,6 +164,12 @@ The afternoon light came through the workshop door in a column of dust. He sat o
 
 A sparrow landed on the doorframe. Tilted its head. Flew away.
 
+He wanted to follow it. That was the shameful thing — the thing he wouldn't tell Simon or Mary or anyone. He wanted to walk out of this workshop, leave the table and the chisel and the teaching and the twelve-hundred-year weight of other people's love, and walk until he found a town where nobody knew his name. Rent a room. Build furniture. Eat meals he'd cooked himself and sleep through the night without dreaming of burning cities and talk to his neighbors about weather and grain prices and nothing else. Just be a carpenter. Just be ordinary. Just be a man whose left hand didn't reach for someone dead twelve centuries while he was trying to eat his mother's bread.
+
+The wanting lasted about ten seconds. Then the warmth shifted in his chest, the old reaching, and he was himself again. Whatever "himself" meant for a man who carried forty-one other selves inside him.
+
+He picked up the plate. Ate the bread. It tasted like bread.
+
 Jesus closed his eyes. Behind them, the hill. The wood. The nails. His mother's face in the crowd. Mary's face. The sound his own breathing would make when his lungs gave out.
 
 He opened his eyes. Looked at the table he'd built. Looked at the bread he couldn't eat. Looked at his hands — carpenter's hands, scarred and calloused, hands that had held children and broken bread and laid themselves on the sick and the grieving, hands that in twelve months would be stretched along rough-hewn cedar and pinned there with Roman iron.

@@ -82,6 +82,14 @@ Leah nodded once.
 
 Mary looked at the courtyard. Eighty women. Some of them crying. Most of them not.
 
+A woman in the back row — Hannah, a weaver's wife, one of the ones who didn't carry the dreams — raised her hand. Mary nodded.
+
+"I don't see the burning cities," Hannah said. "I don't dream what you dream. But when I sit in this circle and we practice together — when Ruth was telling her story just now —" She pressed her hand to her chest. "I felt something. Like being held. Like being remembered by someone I've never met." She looked embarrassed. "My grandmother used to say that God knows us before we're born. That the soul remembers what the mind forgets. Is that what this is?"
+
+The courtyard was very quiet. Mary looked at Hannah for a long time. A weaver's wife who had never seen Pi-Ramesses burning, who carried no bloodline memory, who had walked into this circle because her neighbor invited her and stayed because something in the teaching felt like coming home.
+
+"I don't know what to call it," Mary said. "But yes. That's what this is."
+
 "The teaching fails sometimes," Mary said. "I need you to hear that. What we practice here is not magic. It doesn't work on everyone. Some households cannot be turned. Some damage is too deep, or the person causing it is too far gone, or the timing is wrong, or the intervention isn't enough. Ruth's sister did everything right and it made things worse."
 
 She let that land.

@@ -303,7 +303,11 @@ The warmth beneath his ribs shifted. Reached. His left hand opened against the d
 
 He held his hand open against the cold ground and felt the reaching and let it reach.
 
-This was what he was dying for. Not the teaching, not the methodology, not the strategy of martyrdom that looked so clean on a military man's wax tablets. This. The warmth. The love that had traveled twelve hundred years through blood and bone and would not stop traveling, could not be stopped, had survived the collapse of empires and the burning of cities and the death of every person who'd carried it and was going to survive him too.
+This was what he was dying for. Not the teaching, not the methodology, not the strategy of martyrdom that looked so clean on a military man's wax tablets. This. The warmth. The love that had traveled twelve hundred years and would not stop traveling, could not be stopped, had survived the collapse of empires and the burning of cities and the death of every person who'd carried it and was going to survive him too.
+
+And in that moment, face in the dirt, hand open against the cold ground, he let himself wonder the thing he'd never said aloud to anyone: what if the blood was just how he understood it? What if the warmth was bigger than inheritance, bigger than genetics, bigger than forty-one generations of one family? The hillside had proved it — forty people with no bloodline connection, weeping with the same love. What if the blood was just the door he'd walked through, and the room on the other side had no walls?
+
+He didn't know. A man kneeling in a garden three weeks from his own execution was allowed to not know.
 
 The love that chose them.
 
