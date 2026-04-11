@@ -40,7 +40,7 @@ Several women looked startled. Mary smiled. "Nefertari. She built what we're lea
 
 "I see her too sometimes," Sarah said. "In dreams. She shows me patterns."
 
-Generation 43, accessing blood memory at five. Earlier than expected. But Mary had been training her since age three, grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what carriers were.
+Five years old and already seeing Nefertari in her dreams. Mary had been training her since age three — grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what she carried.
 
 A woman named Deborah raised her hand. "What about when we can't catch the trouble early? When the violence is already happening?"
 

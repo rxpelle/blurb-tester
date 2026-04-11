@@ -57,7 +57,9 @@ And with the understanding came the cost. Because the chain was unbroken, and th
 
 A woman hiding in a grain jar while boots passed overhead, the smell of barley dust in the dark, the sound of her own breathing too loud in the clay vessel, the cramp in her thighs from folding herself small enough to fit.
 
-Forty-one lifetimes of being hunted. And every one of them had happened to *him*, was happening to him, right now, in this cold room above a Galilean fishing village. Not remembered. Experienced. He could feel the grain dust in his lungs and the boots overhead and a thousand other terrors layered on top of each other like transparencies, each one sharp and specific and unbearable.
+But then — a different kind of memory. A man teaching his daughter to mix pigment in a courtyard filled with morning light, both of them laughing because the blue kept coming out green, and her hands were stained and his beard was stained and neither of them cared. Twenty generations back. A single afternoon when nobody was hunting anyone and the knowledge was just a father showing his daughter how color worked. The ordinariness of it — the laughter, the ruined pigment, the blue-green hands — hurt worse than the grain jar. Because this was what the chain was FOR. This was what they'd been protecting.
+
+Forty-one lifetimes of being hunted. And moments like this scattered between the terrors, fragile and ordinary, the reason anyone had bothered to survive at all. And every one of them had happened to *him*, was happening to him, right now, in this cold room above a Galilean fishing village. Not remembered. Experienced. He could feel the grain dust in his lungs and the boots overhead and a thousand other terrors layered on top of each other like transparencies, each one sharp and specific and unbearable.
 
 He couldn't feel his fingers.
 
@@ -235,7 +237,7 @@ Three weeks after Qumran. Jesus taught in the natural amphitheater above Caperna
 
 "A farmer went out to sow seeds," he began, and the crowd froze. Eight thousand people and you could hear the grass moving.
 
-Mary had heard this parable before. But today, with two-key clarity sharpening every word Jesus spoke, the surface story peeled back and she could see the architecture underneath — how to plant knowledge in people who would preserve it, how to recognize which ground would hold. Each word placed the way a mason places stone: not for beauty but for weight-bearing.
+Mary had heard this parable before. But today, with the clarity the keys had given him sharpening every word Jesus spoke, the surface story peeled back and she could see the architecture underneath — how to plant knowledge in people who would preserve it, how to recognize which ground would hold. Each word placed the way a mason places stone: not for beauty but for weight-bearing.
 
 Sarah pressed closer to Mary's side, her small hand clutching Mary's robe. Her eyes were wide with understanding that she dared not voice aloud.
 
@@ -296,7 +298,7 @@ Below them, Capernaum's lamps flickered on one by one. Nine months. And the Temp
 ---
 
 **Continuity Notes for Next Session:**
-- Jesus has achieved two-key clarity — can teach with precision but must perform weakness to avoid timeline acceleration
+- Jesus has achieved the clarity the keys had given him — can teach with precision but must perform weakness to avoid timeline acceleration
 - Helena of Alexandria delivered two bronze keys (blistered hands, six-day journey)
 - Temple (Caiaphas) moved their three keys to secured vault, aware of Qumran trip
 - Titus warns: arrest within weeks if full strength is demonstrated
