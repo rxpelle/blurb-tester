@@ -254,29 +254,19 @@ Jesus turned to look at her. Not startled, more like he'd been waiting for it. "
 
 "Yes."
 
-"But you missed something. The taxation isn't just extraction. It's redirection. Rome taxes grain and fish and oil, but the money doesn't leave Galilee. It cycles back through the garrison, the road builders, the bath houses. The soldiers spend their wages in the same markets they're taxing, creating a closed loop. What's actually destroying the region isn't the amount Rome takes. It's that Rome pays its soldiers in denarii while the Temple demands shekels. Two currencies. The exchange creates a middleman class — the money changers, who bleed three to five percent on every transaction. Twice. Once when the fisherman converts his catch to denarii for the Roman tax, and again when he converts what's left to shekels for the Temple offering."
+"But you missed something." She stopped. Started again. "Okay. A fisherman catches his fish. He needs to pay Rome, so he goes to the money changer and converts to denarii. He loses a little — the changer takes his cut. Then he needs to pay the Temple, so he takes what's left and converts back to shekels. The changer takes another cut." She held up two coins from her belt pouch, one in each hand. "Same fisherman. Same fish. Two different masters wanting payment in two different coins. And the man in the middle, the one with the scales — he gets paid twice. Every time. On every transaction in Galilee."
 
-She watched his face as she spoke. The shift was small but unmistakable — eyebrows drawing together, then lifting. His mouth opening slightly and closing again. Surprise first. Then recognition. Then something she hadn't expected: relief. The relief of a man who'd been carrying a weight alone and suddenly felt someone else's hands take part of it.
+She watched his face. The shift was small — eyebrows drawing together, then lifting.
 
-"The currency split," he said quietly. "I saw the extraction. I didn't see the mechanism."
+"That's what's killing them," she said. "Not how much Rome takes. The changing back and forth. The bleed."
 
-"Because you see it as a spiritual teacher. Power and corruption and what happens to people ground between systems. I see it as a merchant. Supply routes. Transaction costs. Where the money actually goes." Mary pulled a handful of shekels and denarii from her belt pouch, held them side by side. "Two systems forcing the same population to serve both. That's what broke Pi-Ramesses. Not the invasion, not the famine. Two supply chains competing for the same labor pool until neither could function. I can see it because Nefertari ran a clinic. She tracked medicines and beds and which patients could pay and which couldn't. My blood remembers how economies collapse from the middle, not the top."
+Jesus was quiet. "The money changers in the Temple courts. I've been angry about them for years. I thought it was corruption — profiting from worship."
 
-Jesus was quiet for a long time. He looked at the coins in her hand, then at the tax station below, then back at her.
-
-"I've been preaching about rendering unto Caesar," he said. "I thought it was about divided loyalty. You're telling me it's about the cost of changing money."
-
-"It's about both. That's what I'm saying — you see the spiritual architecture. I see the plumbing. The teaching needs both."
+"It's worse than corruption. It's how the whole thing is built. Two systems forcing the same people to serve both." She closed her fists around the coins. "I've seen this before. In the visions. It's what broke Pi-Ramesses. Two powers pulling from the same people until nobody could feed themselves."
 
 He laughed. A short, surprised sound. Not performance, not parable. Just a man being shown something he should have seen and hadn't. Mary had never heard him laugh like that before. Unguarded.
 
 "Two years," he said. "Two years I've been teaching you. And you just taught me something I couldn't see from inside my own bloodline."
-
-He sat with it for a moment — she could see him turning her analysis over the way he turned parables, looking at it from underneath, testing the weight. His hands had gone still on his knees. The hands of a carpenter who built things. Mary's hands were a merchant's hands. They counted and weighed and measured. Different instruments. Same purpose.
-
-"The money changers in the Temple courts," he said slowly. "I've been angry about them for years. I thought it was the corruption — profiting from worship. You're telling me it's structural. The currency split makes them necessary. They're not parasites. They're symptoms."
-
-"Yes. And if you drive them out without changing the structure, they come back. Because the system requires them."
 
 He looked at her with clear eyes. Not the teacher's gaze she'd grown used to — the one that evaluated and guided and held back information until the student was ready. This was the gaze of someone seeing an equal for the first time and knowing it.
 

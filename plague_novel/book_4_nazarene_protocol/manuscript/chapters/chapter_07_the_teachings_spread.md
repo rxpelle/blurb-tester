@@ -220,19 +220,23 @@ But he gathered the Twelve and the network carriers who'd been helping with dist
 
 "The food multiplied," one of the younger disciples said, voice full of wonder.
 
-"The food was already there." Jesus kept his voice gentle. "Hidden in the crowd. Distributed in small amounts across five thousand people, each one hoarding because they didn't trust that sharing would work. But once we built a visible structure — organized groups, disciples moving through systematically — people could see the distribution was real. That contributing wouldn't leave them empty. Once they trusted that, the hidden resources came out."
+"The food was already there." Jesus kept his voice gentle. "Every family brought something. A loaf. Some dried fish. Figs. But nobody was sharing because nobody believed there was enough. So everyone sat on what they had."
 
-Peter's eyes widened. "You didn't create food. You created trust in the network."
+Peter frowned. "Then how—"
 
-"I created visible structure," Jesus said. "When people can see that a system works — that sharing leads to more, not less. They contribute what they were hiding. Scarcity is often a distribution problem, not a resource problem. Hoarding creates the very shortage people are afraid of."
+"We organized them into groups. Fifty people facing each other. And we started passing what we had — five loaves, two fish. Not enough. Obviously not enough. But once people saw it moving, once they saw their neighbors contributing and not going hungry—" He opened his hands. "The woman next to you pulls out the bread she'd been hiding in her cloak. The man behind her unwraps his figs. Suddenly there's more than anyone expected. Because it was always there."
 
-"So the miracle was organizational," Matthew said slowly.
+Peter sat with this. "You didn't make food. You made people trust each other enough to share it."
 
-"The miracle was seeing what was already present." Jesus looked out at the crowd, still marveling at what had happened. "Five thousand people had enough food among them for three days. They just didn't know it, because each person was sitting on their small portion thinking it couldn't possibly matter."
+"Yes."
 
-Mary was there. She'd been helping organize the women's clusters. "But they'll tell this story as supernatural multiplication. Five loaves feeding five thousand through divine power."
+"So the miracle was—" Matthew paused, searching for the word.
 
-"Let them. That story spreads further and faster than 'Jesus organized an effective resource distribution exercise.' And underneath the miracle narrative, the pattern persists. People gathering in organized groups. Resources flowing through trusted networks. Abundance emerging from apparent scarcity." He paused. "Carriers in future generations will hear this story and recognize what actually happened. Even if they never hear the word 'distribution,' they'll feel the pattern."
+"The miracle was real," Jesus said. "Five thousand people who didn't trust each other sat down as strangers and got up as a community. Don't reduce that by calling it a trick." Jesus looked out at the crowd, still marveling at what had happened. "Five thousand people had enough food among them for three days. They just didn't know it, because each person was sitting on their small portion thinking it couldn't possibly matter."
+
+Mary had been listening. "But they'll tell this story as loaves multiplying. Divine power. Not people sharing."
+
+"Good. That story will travel further than the truth. And in five hundred years, someone will hear it and think — wait. What if the miracle wasn't the bread?"
 
 Mary nodded, but he could see the fear underneath her competence. Eighteen months. Maybe less if today's display accelerated Temple concern. Five thousand people moving as a coordinated unit — that was the kind of thing empires noticed.
 

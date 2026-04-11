@@ -102,17 +102,23 @@ He reached Mary. She looked up at him with an expression he'd only seen a few ti
 
 "You heard it," he said.
 
-"I don't know." Her voice was unsteady but her eyes were sharp. "I heard — structure. Underneath. Both layers at once. The spiritual instruction and, a deeper layer. A pattern that maps onto everything I see in the visions." She exhaled hard through her nose. "Peacemaking. That's not just virtue. It interrupts escalation. The same escalation I've been drowning in since I was fifteen. The feedback loops that burned Pi-Ramesses. But maybe I'm just—"
+"I don't know." Her voice was unsteady but her eyes were sharp. "I heard — something underneath. Like when you're in the market and everyone hears the price being shouted but you hear the panic in the seller's voice, and you know the whole street is about to turn." She pressed her hands against her knees. "Peacemaking. You weren't just telling people to be kind. You were telling them how to stop the thing I've watched burn every city in my dreams."
 
 "Say it."
 
-"*Hate is what makes the cascade lock.*" She said it like a confession, her fingers white around the fabric over her knees. "Retaliation creates the feedback loop. Violence answers violence answers violence until the whole structure collapses. Love your enemies isn't kindness. It's the only way to break the cycle before it reaches the point where nothing stops it." She looked at him. "That's what Nefertari was teaching."
+She was quiet for a long time. Her fingers dug into the cloth over her knees.
 
-Jesus sat beside her on the hillside. "Most people hear the melody—be kind, forgive your enemies. You heard the harmony underneath, the deeper pattern that makes it all work together."
+"Hitting back is what locks it." She said it like a confession. "I've seen it. In the visions. Every time. Somebody retaliates. Somebody retaliates harder. And then you can't stop it. It just — burns until everything's gone." She looked at him. "Love your enemies. That's not kindness. That's the only way to break it before it catches."
 
-"Is it real? Or am I projecting? The visions do that. They make me see patterns in everything. Market prices. Weather. The way Roman patrols route through Capernaum. I can't tell anymore what's real pattern and what's my broken mind trying to make sense of chaos."
+Jesus sat beside her on the hillside. He didn't say anything for a moment. Then: "Most people heard me telling them to be nice today."
 
-"It's real. Nefertari designed it twelve hundred years ago. Practices that work for spiritual reasons *and* structural reasons. Same behavior, different framework. You're hearing both because you're a carrier."
+"I know."
+
+"You heard what's underneath."
+
+"Or I'm losing my mind again." Her voice cracked. "The visions make me see patterns everywhere. Market prices. Weather. Roman patrols. I can't tell what's real anymore."
+
+"It's real. And you're not losing your mind."
 
 A Pharisee who'd been lingering near the back of the dispersing crowd stepped forward. Tall man, Jerusalem educated, his robes cleaner than anyone else's on the hillside. He'd been watching Mary with the particular attention men gave to women who spoke in public about things women weren't supposed to understand.
 
