@@ -270,9 +270,7 @@ He laughed. A short, surprised sound. Not performance, not parable. Just a man b
 
 He looked at her with clear eyes. Not the teacher's gaze she'd grown used to — the one that evaluated and guided and held back information until the student was ready. This was the gaze of someone seeing an equal for the first time and knowing it.
 
-Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. More than teacher, more than friend. Partner. Equal in different domains. He had the deeper generational memory. She had the lateral pattern recognition. He excelled at public teaching, encoding knowledge in portable stories. She excelled at systematic training, building networks that could run without her.
-
-Neither could do the other's work. But together they'd built something neither could have built alone.
+Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. Neither could do the other's work. But together they'd built something neither could have built alone.
 
 "I found it," she said abruptly.
 
@@ -298,7 +296,7 @@ He lifted the disc. His eyes unfocused immediately — blood memory surging thro
 
 Jesus looked at her with something she'd never seen from him before. Beyond approval, beyond a teacher's satisfaction at a student's success. Something more equal.
 
-"You've built what I couldn't," he said. "The systematic training structure. The accelerated method. I gave you the foundation. You built the architecture on top of it."
+"You've built what I couldn't," he said quietly. "I teach in crowds. You teach in rooms. I scatter seed. You make sure it takes root."
 
 "That's partnership. You encode the core teaching through public ministry. I develop the training infrastructure that distributes it after you're gone. Different work. Equal weight."
 

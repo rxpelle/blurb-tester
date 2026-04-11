@@ -135,9 +135,9 @@ Helena nodded. "The Essene elders are expecting you. I sent word last week." She
 
 After Helena left to rest in the room they'd prepared, and Mary had watched her lie down still dressed, still dusty, her hands finally empty and curling against her chest as if they didn't know what to do without the bronze — Mary turned to Jesus.
 
-"You didn't tell her about keyless access."
+"You didn't tell her you can do this without the bronze."
 
-"She brought me keys nine months before my execution. That's not rescue." Jesus sat down heavily. His voice was quiet, more tired than angry. "That's squeezing the last teaching out of me before they let me die. I need to know if this helps me teach, or just makes me more threatening so they accelerate the timeline."
+"She walked six days to bring me something I need less than she thinks." Jesus sat down heavily. "I'm not ungrateful. But I need to know if this sharpens the teaching, or just makes me more visible to the people who want me dead."
 
 "Then don't attempt it."
 
@@ -237,7 +237,17 @@ Three weeks after Qumran. Jesus taught in the natural amphitheater above Caperna
 
 "A farmer went out to sow seeds," he began, and the crowd froze. Eight thousand people and you could hear the grass moving.
 
-Mary had heard this parable before. But today, with the clarity the keys had given him sharpening every word Jesus spoke, the surface story peeled back and she could see the architecture underneath — how to plant knowledge in people who would preserve it, how to recognize which ground would hold. Each word placed the way a mason places stone: not for beauty but for weight-bearing.
+Mary had heard this parable before. But today something had changed in the way Jesus spoke it. The surface story peeled back and she could see the architecture underneath. Each word placed the way a mason places stone: not for beauty but for weight-bearing.
+
+Then he saw the Temple scribe.
+
+Third row, left side. Stylus moving on a wax tablet. Not a disciple — the posture was wrong, the attention too focused, too hungry. A man taking notes for someone else.
+
+Jesus's voice changed. Mid-sentence. Mary watched it happen — a carpenter testing a joint and finding it too tight, too precise, too clearly engineered. He roughened the edge. Repeated a line he'd already delivered, as if he'd lost his place. Added a tangent about mustard seeds that muddied the parable's clarity. Smiled at a child in the front row and let the crowd laugh, breaking the spell of the deeper teaching.
+
+The scribe's stylus slowed. Good. Let him write down a rambling story about farming. Let the report say *unfocused, repetitive, popular but intellectually incoherent.* Let Rome underestimate what eight thousand people had just been given.
+
+Mary's hands clenched in her lap. She'd watched him do this before — blunt his own blade, dull his own edge, because precision drew the same attention that killed prophets. The cost was visible only to her: a flash of frustration across his face, quickly sealed, the expression of a craftsman deliberately producing imperfect work because perfect work would get him killed faster.
 
 Sarah pressed closer to Mary's side, her small hand clutching Mary's robe. Her eyes were wide with understanding that she dared not voice aloud.
 
@@ -251,7 +261,7 @@ The teaching lasted three hours. When it ended, the crowd dispersed slowly — p
 
 That evening, the hillside quiet except for crickets and the distant lap of the lake, Mary and Jesus sat on warm stone and watched the last light drain from the sky. The air smelled of thyme from the hillside and smoke from the cooking fires below. Mary's legs ached from standing all day. Sarah had fallen asleep on the walk back and Leah had carried her home — seven years old and wrung out from three hours of listening with her whole body.
 
-"This is working," Mary said. "Two-key clarity is sufficient."
+"This is working," Mary said. "Whatever the keys did, it's enough."
 
 "For those who carry the blood." Jesus was pulling apart a piece of bread but not eating it. Tearing it into smaller and smaller pieces, the way he did when his hands needed to move while his mind was somewhere else. "But I watched thousands understand the surface and miss the depth entirely. The parable lands. The meaning underneath it doesn't."
 
