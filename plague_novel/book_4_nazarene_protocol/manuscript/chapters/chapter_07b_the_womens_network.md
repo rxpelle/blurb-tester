@@ -46,19 +46,23 @@ She sat back down. Let the teaching settle.
 
 "Now. Who has something to bring?"
 
-Deborah raised her hand. The bruise was visible now -- the headscarf had shifted. "My husband came home three nights ago in the state I described last week. The loud voice before he crossed the threshold. Stumbling." She touched her jaw, deliberate now, not hiding. "I tried what we practiced. Had food ready. Spoke quietly. Kept the children in the back room."
+Deborah raised her hand. The bruise was visible now -- the headscarf had shifted. "My husband came home three nights ago in the state I described last week. The loud voice before he crossed the threshold. Stumbling." She touched her jaw, deliberate now, not hiding. "I sent the three oldest to the back room with a look. Not a word. A look -- we've practiced the look. Then I put food on the table before he could decide the table was empty. Made my voice into something flat and warm, like a stone that's been in the sun. Nothing to push against."
 
-The courtyard was very still.
+The courtyard was very still. Eighty women who knew exactly what that voice sounded like coming through a door.
 
-"It didn't work?" someone asked.
+"It worked for two hours. He ate. He sat. The anger passed through him like weather. I watched it move." Deborah's voice was steady — the steadiness that came from practice, not from peace. "Then the youngest cried and he couldn't absorb it. Last month it wouldn't have held for two minutes. Two hours is something."
 
-"It worked for two hours. He ate. He sat. The anger passed through him the way Mary describes -- like weather. I watched it move." Deborah's voice was steady. Merchant-steady, a steadiness that came from practice. "Then the youngest cried and he couldn't absorb it. The intervention held for two hours. Last month it wouldn't have held for two minutes."
+She paused. Her hand moved to her jaw again. "Both things are true at the same time. Two hours of success and this face. I can hold them both without being confused about either one."
 
-Mary nodded. "Two hours is real. That's two hours your children didn't hear violence. That's a pattern change, even if it didn't hold all night."
+Mary nodded. "Two hours is real. That's two hours your children didn't hear violence."
 
-"My face says otherwise," Deborah said. Not bitterness. Precision.
+"My face says it cost me."
 
-"Your face says it cost you. That's also real. The teaching doesn't make the cost disappear. It gives you more room to move."
+"Yes. And you'll be back next week."
+
+"I'll be back next week." Deborah lowered her hand. "But I want you to know something. The morning after — that's the part nobody talks about. I got up before the house. Before he woke. The bread wouldn't make itself. The children needed water heated. And when he sleeps late, the house is mine." Her voice shifted — quieter, almost private. "Those mornings are the best hours of my week. Not because the night was good. Because the quiet is the space where I remember I'm a person."
+
+Nobody spoke. The fig tree moved in the wind. Eighty women on cold stone, and every one of them knew the quiet Deborah was describing.
 
 Ruth stood. She'd been working the hem of her robe into a tight spiral around her index finger. "I want to tell what happened to me."
 

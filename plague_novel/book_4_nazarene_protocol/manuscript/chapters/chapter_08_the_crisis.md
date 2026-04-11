@@ -330,7 +330,7 @@ Leah was quiet for a long time. Long enough that Mary thought she wouldn't answe
 
 Then, quietly: "You taught me to read both layers of a parable when I couldn't tell a metaphor from a meal blessing. You taught Rachel to access blood memory when she thought the visions were madness. You taught Abigail to hold a room of forty women and make every one of them feel seen." She paused. "You're afraid. That's allowed. But the work is already done, Mary. Not finished — never finished, but *planted*. In us."
 
-Rachel and Abigail had come back. They stood in the doorway — Rachel with flour still on her hands from the bread she'd been making, Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
+Rachel and Abigail had come back. Rachel with flour still on her hands from the bread she'd been making — the same Rachel who, last month, had gone to Deborah's kitchen when Deborah's face was too bad for the circle. Had sat with her and ground grain together and said nothing about the bruise. That was the teaching. Not the parables, not the systems theory, not the dual-layer encoding. Someone showing up and not looking away. Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
 
 "Then we adapt when we're wrong," Leah said quietly. "Three of us can hold both layers now. Because you taught us."
 

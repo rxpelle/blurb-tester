@@ -96,9 +96,9 @@ She picked up the pestle. Resumed grinding. Her hands needed to be doing somethi
 
 She ground the herbs until there was nothing left to grind.
 
+But the circles would continue. Not because Mary commanded it. Because Deborah in Capernaum would open her courtyard next week the same way she'd opened it every week for three years, bruised jaw or not, and eighty women would come and sit on cold stone and practice the catching. And when Deborah's knees finally gave out, she'd pass the circle to her daughter, who would never have to learn it the hard way. The teaching wouldn't save them. It would give them company while they saved themselves. And that was enough. That had always been enough.
+
 ---
-
-
 
 They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's circles, Titus writing from the edges. The air smelled of wild thyme and warm stone.
 
