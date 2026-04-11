@@ -192,35 +192,21 @@ Then the door burst open.
 
 *Judas POV*
 
-The plan was perfect. Judas had done this before, seven successful rescues in his twelve years with the network. Create chaos. Use the confusion. Pull the man out during the violence.
+The plan was perfect. Judas had done this seven times before. He knew the steps the way his hands knew rope.
 
-Twenty guards bribed. Half the Temple force. They would "arrest" Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus. The real carrier would escape through the Damascus route Simon had prepared.
+But walking through the garden toward the torchlight, his legs felt wrong. Not fear — he'd run rescues through Roman checkpoints, through burning buildings, through a border crossing with three carriers hidden in grain sacks. He knew fear. This was different. This was the knowledge that Jesus had looked at him across the table an hour ago and known. Known the plan, known it would fail, known Judas would try anyway. And had let him go.
 
-It had worked every time before.
+"The one I greet with a kiss is the man," Judas told the guards.
 
-He led the Temple guards and Roman soldiers toward the upper room, playing his role. The Temple thought he was betraying Jesus. The network knew he was carrying out a rescue.
+Jesus emerged from the upper room. Their eyes met in the torchlight.
 
-Everything proceeding as planned.
+"Greetings, Rabbi." He kissed Jesus on the cheek.
 
-"The one I greet with a kiss is the man," Judas said to the guards. The signal. The bribed guards would recognize it, move to create the opening.
-
-Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route — good.
-
-Judas approached, committed to the role. "Greetings, Rabbi." He kissed Jesus on the cheek.
-
-Signal given.
-
-Bribed guards should move now. Create confusion. Begin the rescue.
-
-Instead, different guards moved. Ones Judas didn't recognize. His chest went cold. Extra forces: a dozen men stepping from the shadows of the adjacent buildings, swords already drawn. Where did they come from?
-
-His bribed guards hesitated. Looked at each other. Looked at the new men.
-
-The ground shifted under Judas's feet. Not literally. But something that had been solid, the plan, the certainty, twelve years of knowing how this worked, cracked and fell away.
+The bribed guards should have moved. They didn't. Instead — different men. Ones Judas had never seen. A dozen stepping from the shadows with swords already drawn. His bribed guards looked at each other, looked at the new men, and understood the same thing Judas understood: someone had known about the plan before Judas had made it.
 
 "Judas." Jesus's voice, quiet. "Would you betray the Son of Man with a kiss?"
 
-No anger. That was the worst part. Just the steady sadness of a man who'd known this would happen and let him try anyway.
+No anger. Just the steady sadness of a man who'd known this would happen and let him try anyway. And in that sadness Judas heard what he hadn't heard at the table: not disappointment but gratitude. *Thank you for trying. I'm sorry it was never going to work.*
 
 "Friend, do what you came to do," Jesus said.
 

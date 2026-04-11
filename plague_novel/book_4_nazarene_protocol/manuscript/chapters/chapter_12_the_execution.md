@@ -252,17 +252,23 @@ Darkness for three hours that felt like seasons. The wind carrying grit from the
 
 The blood memory came as his body failed. Something older than the visions he'd trained himself to access. Simpler.
 
-Nefertari's hand on a workbench. The smell of cassia. A single tap that meant *look at this*.
+Not the collapses. Not the burning cities or the hiding or the running. The other thing. The thing underneath all of it. The reason any of them had bothered to survive.
+
+A workshop in Pi-Ramesses. Late afternoon. Copper light through the doorway. A man standing at a bench, his back to the door, grinding something in a stone mortar. A woman entering behind him. She says a word — a technical term for a pigment compound — and mispronounces it badly, the accent of a physician learning a craftsman's vocabulary. The man turns. He doesn't correct her. He laughs. Not at her — with her. And she laughs too, and the laugh changes something in the room, or the room was always this way and the laugh just made it visible: two people in a space built for work who have discovered that work is better together.
+
+She reaches for the mortar to try again. Her hand lands on his. Neither of them moves. The copper light holds them. The mispronounced word hangs in the air between them. And in that silence, twelve hundred years of love begins — not with a declaration, not with a vow, but with a wrong word and a laugh and a hand that found another hand and didn't let go.
+
+That was all it had ever been. An ordinary moment between two ordinary people. And it was enough. It was enough to survive the collapse of civilizations, the burning of libraries, the death of every person who'd carried it forward. Enough to reach a carpenter on a cross twelve centuries later and hold him while he died.
 
 His mother singing to him as a child. Wood shavings on the workshop floor.
 
-Mary Magdalene's voice the first time she said his name. Not as a teacher, but as a person she trusted.
+Mary Magdalene's voice the first time she said his name.
 
-Sarah's small hand arranging shells in patterns on a dock.
+Sarah's small hand arranging shells on a dock.
 
 Just the people he loved, arriving to carry him home.
 
-He couldn't feel his hands anymore. His chest barely moved. Something warm and dark was pulling him down, and it wasn't the blood. It was the weight of forty-one generations finally letting go.
+He couldn't feel his hands anymore. His chest barely moved. Something warm was pulling him down, and it wasn't the blood. It was the weight of forty-one generations finally letting go.
 
 He opened his eyes one more time. Found Mary Magdalene's face in the crowd below. Still watching. Still holding him.
 
