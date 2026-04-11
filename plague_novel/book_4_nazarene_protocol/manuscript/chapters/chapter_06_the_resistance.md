@@ -294,7 +294,9 @@ Self-preservation, not mercy. The cold calculation of a man who'd rather lose a 
 
 Titus saluted for the last time. Then walked out of the Antonia Fortress as a civilian for the first time in twenty-eight years.
 
-The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past, merchants, pilgrims, a woman carrying bread on her head, and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
+The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past, and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
+
+Five years of false reports. The world would remember them, if anyone remembered, as acts of conscience. They were also acts of cowardice. He had kept the carpenter alive because it gave him a purpose that did not require him to examine why he needed one. If he was protecting Jesus, he did not have to think about the boy at Carnuntum. If he was documenting parables, he did not have to think about the libraries he'd helped burn in Thrace. The stylus did not clean his hands. But it kept them busy.
 
 His sister's face came to him. The last letter from Gaul, still folded in his trunk at the barracks — the trunk he'd have to collect by nightfall or they'd burn the contents. *The boys are growing fast. Decimus asks about his uncle the centurion. When will you visit? Your pension will buy the farm on the hill road — I've spoken with the owner. He'll hold it until spring.* She'd signed it with the little drawing of a bird she'd made since childhood, the one that meant *I miss you*.
 

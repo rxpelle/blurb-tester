@@ -128,7 +128,7 @@ Sarah nodded. She'd dreamed it. Pi-Ramesses, Babylon, cities she had no words fo
 
 Mary brushed hair from her daughter's face. "You'll carry what I carry. And pass it to your daughter. And she'll pass it to hers. Until someone, someday, doesn't have to hide it anymore."
 
-They walked down from the Mount of Olives. The twelve ahead, talking in low voices. The women around Mary, quiet, steady. Titus at the edge with his tablets.
+They walked down from the Mount of Olives. The twelve ahead, talking in low voices. The women around Mary, quiet, steady. Titus at the edge with his tablets, writing what he saw because seeing was all he'd ever had, and his testimony would be the only record made by someone who'd been there for all of it and believed none of the theology and all of the love. He would have written it shorter. But the carpenter had told him to write everything, so he did.
 
 Forty days complete. Now the long work.
 

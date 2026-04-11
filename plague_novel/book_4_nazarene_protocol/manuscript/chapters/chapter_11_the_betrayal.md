@@ -414,7 +414,9 @@ He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretc
 
 That was the Judas who hung from this tree. Not a traitor. A rescuer who ran out of people to save, starting with himself.
 
-Titus wrote that down too.
+Titus sat with him. Two minutes. The exact amount of time a man could sit with a dead friend before the sitting became something it should not become. He catalogued Judas in memory, not as the world would remember him but as he was: a man resting between missions, face tilted toward the sun, the tension gone from his jaw. The only time Titus had seen him at peace.
+
+He wrote that down too.
 
 Then he stood. Wiped his stylus on his cloak. Tucked the tablets away.
 

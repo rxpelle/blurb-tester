@@ -222,7 +222,7 @@ Then he looked at Mary Magdalene. She held his gaze the way you hold someone's h
 
 Five years. Five years of partnership that had no name the world would recognize. Not marriage, not discipleship, not friendship, though it contained all three. Five years of teaching together, traveling together, building something together that would outlast them both. She had argued with him about the women's circle, about the parables, about whether his death would accomplish what he believed it would. She had told him he was wrong about the timing and right about the method and impossible to reason with when he'd already decided. She had watched him teach eight thousand people on a hillside and felt the warmth pour out of him and known that he was burning through something that couldn't be replenished. She had held his hand once, on a hillside above Capernaum at sunset, and felt in his fingers the same reaching she felt in her own — two people who carried twelve hundred years of someone else's love and had somehow, without meaning to, added their own to it.
 
-All of this passed between them now. Not in words. In the silence of two people who had run out of time to say what they meant and discovered that they had never needed words for it anyway.
+All of this passed between them now. Not in words. In the silence of two people who had run out of time to say what they meant and discovered that they had never needed words for it anyway. Titus watched from thirty paces and knew he was witnessing something he could document but never understand — like reading a military report filed by a man who'd stood where you stood but faced the other direction. The positions correct. The distances correct. But the thing they were looking at invisible to anyone outside it.
 
 Rain came.
 
@@ -325,6 +325,8 @@ They carried the body to Joseph's family tomb. Rock-cut, never used. Nicodemus b
 Women followed. Jesus's mother, leaning on John. Mary Magdalene walking alone, her face the face of someone memorizing everything, the path, the entrance, the stone, the exact position of the body on the shelf.
 
 They laid him down. Joseph and Nicodemus packed the spices around the linen. Four men rolled the massive stone across the entrance.
+
+That night Titus sat in a borrowed room and tried to recopy his notes. Six hours of writing in rain had left the stylus marks barely readable — the wax softened and re-hardened into a surface his own hand couldn't decipher. His fingers had cramped into the shape of holding the stylus and he had to pry them open, one by one, the joints protesting like old wood. The discipline at the cross had not been strength. It had been the last wall between himself and a sound he would have made that would not have stopped.
 
 Temple guards arrived within the hour. Caiaphas's orders: six men posted to watch a dead man's tomb. They looked embarrassed. They'd get over it.
 
