@@ -54,29 +54,21 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 ## SCENE 2: Mary's Women's Circle
 
-Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
+Twenty-three women in Rachel's courtyard. Mary counted them the way she'd once counted salt barrels — merchant's instinct. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. Nearly eighty, meeting in clusters small enough to look like sewing circles. Her left hand moved to her side, the old reaching.
 
-Mary gripped her knees. Counted the women again. Twenty-three. Her left hand moved to her side, the old reaching, the gesture she couldn't train away no matter how many years passed. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
+The session ran an hour. Deborah reported that the intervention had held for two hours before her husband's anger broke through. A younger woman had calmed a market dispute. Small acts. Domestic scale. But this was how it worked.
 
-"Sisters," Mary said, and the courtyard quieted. "Last week we spoke about reading the signs of trouble in the household before violence comes. Who can share what they've practiced?"
+"We're running out of time," Mary told them. "Each of you presents a short lesson next week. You're not students anymore."
 
-Deborah, who managed a household of twelve in Capernaum, raised her hand. "My husband came home drunk. I saw the signs: the stumble, the loud voice before he even crossed the threshold. Instead of confronting him, I had food ready. Spoke quietly. The trouble passed before it began."
+The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Six years old.
 
-More hands. A younger woman described calming a dispute between merchants at the market gate. Another had interrupted gossip before it reached the ears of the accused.
+As they walked toward the street, Mary's eye caught a man standing at the corner where the alley met the market road. He wasn't shopping. Wasn't waiting for anyone. He was watching the courtyard entrance, and when Sarah skipped ahead to pick up a fallen orange blossom, his eyes followed the girl.
 
-Small acts. Domestic scale. But this was how it actually worked. A thousand quiet corrections preventing the spark from becoming the fire.
+Mary's hand closed around Sarah's wrist — too hard. Sarah looked up, startled.
 
-"Now the harder question," Mary said. "What about when the trouble is already there, when you've missed your chance to act early?"
+"We're going the other way today," Mary said. Her voice was steady. Her heart was not.
 
-Silence. The harder question always drew silence. These women knew what happened when they acted too late: bruises, broken households, children who learned violence as their first language.
-
-"We're running out of time," Mary said. "I need each of you to learn how to teach this yourselves. Because if persecution comes, I might not be available."
-
-"How?" Deborah asked. "You've trained for years. We've had months."
-
-"Then take what you have and start with that. Next week, each of you presents a short lesson."
-
-The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Six years old. Everything Mary was building would pass through this child, or it would be lost.
+She took the long route home, doubling back twice, the way Simon had taught her. The man didn't follow. Or if he did, he was better at it than she was at spotting it. That night she lay beside Sarah and listened to her daughter breathe and calculated, with the cold precision of a merchant assessing risk, how many people now knew about the girl who could hear both layers of the teaching at age six.
 
 ---
 

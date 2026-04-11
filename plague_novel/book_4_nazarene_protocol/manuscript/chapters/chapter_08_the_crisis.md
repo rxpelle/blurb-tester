@@ -114,11 +114,25 @@ Titus dropped his gaze. Generations, not months.
 
 The bronze keys came to him unbidden — two in Jesus's possession, three locked in Temple vaults, two still lost. If the Temple fell, those three were gone. Seven keys, and they were running out of hands to hold them.
 
+Simon wasn't finished. "There's something else. The family in Bethsaida — Ezra's household. Temple guards raided them last night."
+
+Titus's cup stopped halfway to his mouth. Ezra's wife had been one of Mary's first students. Their daughter was a carrier.
+
+"The daughter?"
+
+"Gone. Ezra beaten. The wife arrested for harboring seditious teachings." Simon's voice was flat. "They took the scrolls Mary had given them. Everything."
+
+The tavern noise went on around them. Dice. Laughter. Someone singing off-key. A woman had been dragged from her home for learning to read the signs of trouble, and the city hadn't noticed.
+
+"It's starting," Titus said.
+
+"It started months ago. This is the first one we know about."
+
 ---
 
 ## SCENE 3: JESUS ALONE
 
-The news reached him through Simon before Titus arrived, a runner, breathless, three words: *Execution. Passover. Official.*
+The news reached him through Simon before Titus arrived — not just three words this time but four: *Execution. Passover. Official. Bethsaida.*
 
 Jesus was in the workshop. He'd been in the workshop since dawn, fitting tenons into a tabletop for a woman in the village whose old one had split along the grain. Cedar. The smell of it was his father's smell, and his father's father's, and the smell of a workshop twelve hundred years gone where someone had tapped a bench twice and someone else had looked up.
 

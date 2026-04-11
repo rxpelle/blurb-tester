@@ -233,25 +233,19 @@ The razor's edge. Teach enough to preserve the knowledge. Not so clearly that th
 
 Three weeks after Qumran. Jesus taught in the natural amphitheater above Capernaum, and eight thousand came.
 
-The crowd's heat rose off the hillside in waves, bodies packed shoulder to shoulder, children on fathers' necks, the smell of sweat and dust and roasting barley from the vendors at the edges. A woman near Mary fanned herself with a palm frond. Somewhere a baby wailed and was hushed. Flies buzzed over a donkey's flank at the edge of the crowd. The lake glittered below, flat and silver, and fishing boats sat motionless at their moorings as if even the water had stopped to listen.
+"A farmer went out to sow seeds," he began, and the crowd froze. Eight thousand people and you could hear the grass moving.
 
-"A farmer went out to sow seeds," Jesus began, and the crowd froze. Eight thousand people and you could hear the grass moving. "Some fell on the path, and birds ate them. Some fell on rocky ground. Sprouted fast but withered when the sun got hot, because the roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain — thirty, sixty, a hundred times what was sown."
-
-His voice carried the way it always did in these amphitheaters, the hillside catching it, holding it, sending it outward, but there was something different now. A precision beneath the simplicity. Each word placed the way a mason places stone: not for beauty but for weight-bearing. The parable's surface was a farming story. Underneath, for those who carried the blood, it was a map. How to plant knowledge in people who would preserve it. How to recognize which ground would hold and which would lose the seed. How to accept that most of what you taught would be lost, and teach anyway, because the fraction that took root would produce a hundred times what was sown.
+Mary had heard this parable before. But today, with two-key clarity sharpening every word Jesus spoke, the surface story peeled back and she could see the architecture underneath — how to plant knowledge in people who would preserve it, how to recognize which ground would hold. Each word placed the way a mason places stone: not for beauty but for weight-bearing.
 
 Sarah pressed closer to Mary's side, her small hand clutching Mary's robe. Her eyes were wide with understanding that she dared not voice aloud.
 
-Mary's breath caught. She looked down at her daughter — seven years old, bare feet dusty from the hillside, a smear of barley cake on her chin. Seven years old, and she could hear it. Could hear the layer beneath the words, the structure beneath the story. Generation forty-three, and the blood was strong in her.
+Mary's breath caught. Seven years old, bare feet dusty from the hillside, a smear of barley cake on her chin — and she could hear it. Generation forty-three. The man in the alley outside Rachel's courtyard flashed through Mary's mind. Someone was watching her daughter. And her daughter was announcing herself to anyone paying attention.
 
-Pride hit first. Then terror. Because if Sarah could hear both layers at seven, she would carry this. Would carry it the way Mary carried it, the way Jesus carried it — the understanding and the weight and the target it painted on your back. Sarah would grow up knowing things that got people killed.
+"He's teaching you how," Mary whispered. "But Sarah — don't let anyone see that you understand. Not yet."
 
-"Yes," Mary said. Her voice was steady. Her hands were not. "He's teaching you how. Watch. Listen."
+Sarah looked up at her mother. Something old moved behind her eyes — the look of a child who has just learned that knowing things is dangerous. She turned back to the hillside and arranged her face into the blank attention of someone who heard only a story about seeds.
 
-Sarah turned back to the hillside, her small face intent. Mary watched her daughter listen and felt two things at once: the fierce pride of a mother watching her child step into her inheritance, and the cold specific fear of a mother who knew exactly what that inheritance cost. Both feelings lived in her chest simultaneously, pressing against each other, neither one winning.
-
-The teaching lasted three hours. Jesus moved from the sower to the mustard seed to the yeast in the flour — each parable nested inside the last, each one a door that opened onto the next for those who could see the hinges. Mary watched the crowd. Watched who leaned forward and who leaned back. Watched the old woman in the third row press her hand to her left side during the mustard seed parable, the same gesture Mary had seen in the Preface crowd — the warmth reaching people it shouldn't have been able to reach, finding its way past bloodline and into the human underneath.
-
-When it ended, the crowd dispersed slowly. People helping each other down the hillside. A man carrying his sleeping child. Two women walking arm in arm, talking in low voices about what they'd heard, trying to hold it in words while the wordless part slipped away from them like water through fingers.
+The teaching lasted three hours. When it ended, the crowd dispersed slowly — people helping each other down the hillside, a man carrying his sleeping child, two women walking arm in arm.
 
 That evening, the hillside quiet except for crickets and the distant lap of the lake, Mary and Jesus sat on warm stone and watched the last light drain from the sky. The air smelled of thyme from the hillside and smoke from the cooking fires below. Mary's legs ached from standing all day. Sarah had fallen asleep on the walk back and Leah had carried her home — seven years old and wrung out from three hours of listening with her whole body.
 
