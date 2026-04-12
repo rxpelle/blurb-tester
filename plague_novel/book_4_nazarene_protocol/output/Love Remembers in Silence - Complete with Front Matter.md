@@ -47,7 +47,7 @@ Randy Pellegrini is the author of this work.
 
 [**CHAPTER 7** - The Teachings Spread](#chapter-7)
 
-[**CHAPTER 7** - The Womens Network](#chapter-7b)
+&nbsp;&nbsp;&nbsp;&nbsp;[*Interlude* - The Women's Network](#chapter-7b)
 
 [**CHAPTER 8** - The Crisis](#chapter-8)
 
@@ -59,7 +59,7 @@ Randy Pellegrini is the author of this work.
 
 [**CHAPTER 12** - The Execution](#chapter-12)
 
-[**CHAPTER 12** - The Vigil](#chapter-12b)
+&nbsp;&nbsp;&nbsp;&nbsp;[*Interlude* - The Vigil](#chapter-12b)
 
 [**CHAPTER 13** - The Resurrection](#chapter-13)
 
@@ -77,12 +77,7 @@ New readers should know: in this world, extreme experiences can imprint so deepl
 ---
 
 # PREFACE
-## "The Gathering"
-
-**Timeline:** 26 CE
-**Location:** Galilee (near Capernaum)
-**Generation:** 42 (Jesus ben Yosef)
-**POV Character:** Jesus ben Yosef
+## The Gathering
 
 ---
 
@@ -194,6 +189,24 @@ Jesus was quiet for a long time. The lake moved against the shore.
 
 "Maybe they won't be entirely wrong." He pressed his palm against the warm stone. "What do you call something that started between two people and grew until it could hold forty strangers on a hillside? That outlived the people who made it, outlived their names, outlived the empire they lived in?" He looked at Simon. "Maybe God is just the word we use when something holds more than it was made for."
 
+Simon was quiet for a while. Then: "So you're not the son of God."
+
+Jesus looked at him. "I'm the son of a carpenter who died when I was twenty-four. And the son of a woman who still leaves food outside my workshop door." He picked up a handful of basalt pebbles, let them fall through his fingers. "But Simon — when I work a piece of wood, my hands know things I never learned. My father's hands knew things his father never taught him. Go back far enough and the knowledge doesn't belong to any one person. It belongs to the wood. To the grain itself."
+
+He held up his hand, fingers spread against the stars. "What if we're like fingers pushed through a cloth? On this side, separate. Individual. My grief, your grief, his grief. But on the other side —" He turned his hand over slowly. "On the other side, it's all one hand."
+
+"And the cloth?"
+
+"The cloth is what we can't see past. The cloth is being alive." He lowered his hand. "I don't know what's on the other side, Simon. But I felt it today. Forty people who had never met each other, weeping with the same grief, reaching for the same love. If that's God, then God isn't something out there. God is what happens when the cloth gets thin enough for the fingers to feel each other."
+
+Simon said nothing for a long time. The lake moved. A fish broke the surface somewhere in the dark and the ripple reached them a few seconds later, rocking the pebbles at their feet.
+
+"I wasn't the source today, Simon." Jesus's voice was quiet. "I was the crack it found. The love came through me the way water comes through stone. If it was only in my blood, it would have stayed in my blood. But it reached forty people who don't carry what I carry." He paused. "I'm the bucket. Not the well. And anyone can lower a bucket."
+
+"They'll still say you're the Son of God," Simon said.
+
+"Maybe I am. Maybe we all are. Maybe that's the part they'll get right without understanding why."
+
 "But you're going to teach it."
 
 "The love. Yes. Because the love is what survived." His voice was steady. "Everything else scattered. But the love is *stronger* than it was at the beginning. It gathered."
@@ -241,7 +254,7 @@ The world he was about to change didn't know his name yet. Rome did.
 
 ## SCENE 1: The Census Taker
 
-Titus Publius Scipio stood in Nazareth's central square, a patch of packed dirt between limestone houses, goat dung and wet clay underfoot, watching families shuffle forward to register. Galilee's winter dampness seeped through his cloak, settling in his bones, cold that made his left knee, broken in Germania, badly healed, throb with each shift of weight. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, to verify compliance and identify threats. Titus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
+Titus Publius Scipio stood in Nazareth's central square, a patch of packed dirt between limestone houses, goat dung and wet clay underfoot, watching families shuffle forward to register. Galilee's winter dampness seeped through his cloak, settling in his bones, cold that made his left knee, broken in Germania, badly healed, throb with each shift of weight. Twenty years had taught him that soldiers were not defined by what they did. They were defined by what they carried afterward, and what they carried was usually in the joints. Tax assessment day. Herod Antipas's administration ran its own census for tribute purposes, but Rome insisted on attaching military observers, to verify compliance and identify threats. Titus drew the assignment because he spoke passable Aramaic and hadn't annoyed anyone important lately.
 
 "Name." His Aramaic accent was terrible, but functional. Twenty years in the legions, half of them in eastern provinces, taught you to butcher local languages well enough to observe tax collection, and quell riots.
 
@@ -261,7 +274,7 @@ But Titus wasn't here to prevent revolts. He was here to count people and identi
 
 The woman who stepped forward wore a faded blue headscarf and carried exhaustion in every line of her face. She gave her details quietly, widow, two adult sons, small plot of land, no outstanding debts. Titus nodded her through, but something in the way she held her shoulders, braced, like a woman expecting a blow, stayed with him. Her sons were fighting age. When the revolt came, Rome would kill them or sell them into slavery. She probably knew this. She'd stood in line anyway, because the alternative was worse.
 
-The census work was mind-numbing. Ten hours a day of names and numbers. Titus preferred it that way. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, a boy soldier outside Carnuntum who'd dropped his shield and raised both hands, palms out, and Titus had killed him anyway because his centurion was watching. The boy's face surfaced sometimes in the gap between one registrant and the next. Fifteen. Maybe sixteen.
+The census work was mind-numbing. Ten hours a day of names and numbers. Titus preferred it that way. Tedium meant he wasn't fighting, and the smell of wet wool brought back too much already—Germania, five winters ago, a boy soldier outside Carnuntum who'd dropped his shield and raised both hands, palms out, and Titus had killed him anyway because his centurion was watching. The boy's open hands surfaced in the gap between one registrant and the next — not in dreams but in idle moments, the space where the mind had nothing to do and the palms appeared, spread wide, and Titus was standing in a cold field again knowing what happened next because he was the one who made it happen. Fifteen. Maybe sixteen.
 
 He'd requested census duty specifically. Paperwork over bloodshed. Seven more years of service, then a farm somewhere quiet where he could stop being the man who'd killed a boy with open hands.
 
@@ -275,7 +288,7 @@ Rome's orders were simple: identify, observe, report.
 
 He'd found three so far this rotation. Two fishermen in Capernaum, Simon and Andrew, from families that kept unusually detailed genealogies. One elder woman in Cana who'd predicted drought patterns three harvests before they happened.
 
-Nobody got arrested. The network wasn't hostile to Rome. Not yet.
+Nobody got arrested. The families weren't hostile to Rome. Not yet.
 
 "Next."
 
@@ -329,7 +342,7 @@ The way he said *her*—not abstractly, not philosophically. Like there was a sp
 
 "Profession?" Titus knew the answer but wanted to hear how Jesus described it.
 
-"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands, scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked, splits if you look at it wrong, but it's what she can afford, so." He shrugged. The gesture was so ordinary it almost made Titus forget the eyes.
+"I build things. Houses, furniture, tools. Repair work mostly." He held up his hands, scarred across both palms, a blackened thumbnail from a recent miss with the mallet. "I'm finishing a roof beam for a widow on the north road. Pine from the northern hills. The grain runs crooked, splits if you look at it wrong, but it's what she can afford, so." He shrugged. "You learn the wood. Pine talks before it breaks. Cedar whispers. Olive wood says nothing until it's too late, and then the whole piece goes at once." The gesture was so ordinary it almost made Titus forget the eyes.
 
 "Trade inherited from your father?"
 
@@ -393,11 +406,11 @@ Another silence, longer. Jesus looked at the census line—forty families still 
 
 Born with it. The rarest kind.
 
-"Generation?" Titus asked.
+"How far back?" Titus asked.
 
-"Forty-two. From Tausret."
+"Further than I have names for. The dreams arrive from a workshop I've never seen, in a city my mouth can't pronounce."
 
-Twelve hundred years to the founding. Primary bloodline. And he'd been walking around Nazareth for thirty-two years with nobody to tell him what it meant except a fisherman.
+Centuries, then. And he'd been walking around Nazareth for thirty-two years with nobody to tell him what it meant except a fisherman.
 
 "So I'm teaching," Jesus said. "Stories. Parables. Stories pass from mouth to mouth like fire—they survive what empires don't."
 
@@ -439,7 +452,7 @@ He found Simon's house as daylight faded over the lake—limestone walls still w
 
 "Centurion." Simon didn't look up from his nets. "You found him."
 
-"Generation 42. Primary line." Titus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
+"He's the one." Titus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
 
 "They're already coming." Simon's hands stilled on the netting. "Temple already sent someone to listen to his teaching. A scribe from Jerusalem, watching from the back of the crowd. Taking notes." He looked up. "And now Rome knows too. Because you reported him."
 
@@ -447,11 +460,11 @@ He found Simon's house as daylight faded over the lake—limestone walls still w
 
 Simon studied him. The lamp between them threw his face into sharp relief, the deep lines around his mouth, the scarred hands. A fisherman who'd spent twenty years pretending to be less intelligent than he was.
 
-"Don't protect him, Titus. Protect the network."
+"Don't protect him, Titus. Protect the families."
 
 Titus hadn't expected that. "What?"
 
-"You heard me." Simon's voice was flat, stripped of sentiment. "One carrier is one carrier. He's brilliant, I've never met anyone who reads the blood like he does, but the network survived the fall of Egypt, Babylon, Persia, and Alexander. It'll survive losing him. What it can't survive is a Roman centurion getting caught filing false reports. They'll interrogate you. They'll get names. And then they'll come for the families."
+"You heard me." Simon's voice was flat, stripped of sentiment. "One man is one man. He's brilliant, I've never met anyone who reads the blood like he does, but the families survived the fall of Egypt, Babylon, Persia, and Alexander. They'll survive losing him. What they can't survive is a Roman centurion getting caught filing false reports. They'll interrogate you. They'll get names. And then they'll come for the families."
 
 The words landed like stones. Titus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
 
@@ -459,13 +472,13 @@ He paced to the low wall. Below, the lake stretched dark, fishing boats knocking
 
 "He teaches people to stop swinging." Titus's throat was tight. "And you're telling me to file the report that puts a target on him."
 
-"I'm telling you the network matters more than any one life. Including yours. Including mine." Simon picked up his nets again, as if the conversation were about fish. "File the report. Standard census. Harmless carpenter. No concerns. But don't do it because you want to save him. Do it because a false report is quieter than an omission. An omission someone will notice."
+"I'm telling you the families matter more than any one of us. Including you. Including me." Simon picked up his nets again, as if the conversation were about fish. "File the report. Standard census. Harmless carpenter. No concerns. But don't do it because you want to save him. Do it because a false report is quieter than an omission. An omission someone will notice."
 
 Titus stared at the dark water. The fisherman was right. And he hated him for it.
 
 "Keep him alive as long as you can," Titus said, moving toward his horse. "However many years that turns out to be."
 
-"That's what I've been doing." Simon's voice followed him into the dark. "But Titus—if they come for him, let them. Don't intervene. Don't be in the room. The network needs you alive more than it needs him protected."
+"That's what I've been doing." Simon's voice followed him into the dark. "But Titus—if they come for him, let them. Don't intervene. Don't be in the room. The families need you alive more than they need him protected."
 
 Titus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
 
@@ -523,7 +536,7 @@ His voice held steady. His hands, clasped behind his back, did not.
 
 Lucullus held his gaze for three heartbeats. Then nodded. "Dismissed."
 
-Titus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one, primary bloodline carrier, Generation 42, teaching thousands, and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
+Titus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one — a man whose blood remembered cities older than Rome, teaching thousands — and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
 
 Simon had been right about one thing: a quiet lie was safer than a loud omission.
 
@@ -576,7 +589,7 @@ Mary pulled her daughter close, feeling the solid warmth of her small body. Real
 
 Sarah didn't look convinced. She was too young to understand what was happening to her mother, but old enough to know her mother was breaking. The visions had started when Mary was seven, brief flashes, childhood nightmares she'd dismissed. But after Sarah's birth three years ago, they'd intensified. Became longer. More frequent. More overwhelming.
 
-Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier, fragmented images of a woman fleeing burning cities during the Bronze Age Collapse, joining a network of families who taught her to recognize pattern before chaos.
+Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier, fragmented images of a woman fleeing burning cities, joining families who carried the knowing in their blood and taught her to move with it instead of against it.
 
 She'd told herself it was a sickness of the blood. Something inherited, like her mother's weak lungs or her grandfather's tremor. Not of the spirit but of the body. The episodes came suddenly, she would fall, her body rigid, then wake confused and drained. She'd consulted physicians in Tiberias who spoke of imbalances in the humors, but none could explain why the falling sickness carried visions of cities she'd never seen.
 
@@ -724,7 +737,9 @@ Mary turned the idea over the way she'd turn a contract clause, looking for the 
 
 Her knees went weak. Exorcists and physicians and neighbors who crossed the street, and this carpenter in a borrowed courtyard said it like it was obvious.
 
-Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest, a knot she'd been carrying so long she'd forgotten it was there.
+Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest — a knot she'd been clenching for so long that clenching felt like breathing. She hadn't known her body was holding itself together until someone told her she didn't have to.
+
+She had been competent before she was holy. Twenty years of contracts and salt barrels and managing men who didn't want to take orders from a woman. The visions hadn't changed her mind. They'd just given the world a reason to dismiss it.
 
 "Can you make it stop?" she asked when she could speak.
 
@@ -748,7 +763,7 @@ She looked at her daughter. Sarah had fallen asleep against her shoulder, exhaus
 
 "You want my money," she added flatly. She'd heard enough traveling teachers to recognize the pitch.
 
-"I want your mind. Your merchant's eye. Someone who can see how pieces fit together and keep a network fed and moving." He didn't look offended—he looked like a man who'd expected the question. "The resources help. I won't pretend otherwise. But I have other patrons. What I don't have is another carrier who sees Nefertari every night and understands trade routes and can travel without asking a husband's permission."
+"I want your mind. Your merchant's eye. Someone who can see how pieces fit together and keep the families fed and moving." He didn't look offended—he looked like a man who'd expected the question. "The resources help. I won't pretend otherwise. But I have other patrons. What I don't have is another woman who sees Nefertari every night and understands trade routes and can travel without asking a husband's permission."
 
 Mary looked at the house behind him. At the fishing nets. At the lake stretching blue and vast under afternoon sun.
 
@@ -792,11 +807,11 @@ Nobody here treated her like the cursed woman from Magdala. Nobody crossed to th
 
 Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this, food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement that would need their support to survive.
 
-The twelve men were disciples, network descendants who'd been training with Jesus for a year.
+The twelve men were disciples, descendants of carrier families who'd been training with Jesus for a year.
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
-Peter, Simon's brother, crossed his arms. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. "She's a woman. My grandfather said the bloodline runs through sons."
+Peter, Simon's brother, crossed his arms — the gesture automatic, the body bracing before the mind caught up. Broad-shouldered, wind-burned, the hands of a man who'd hauled nets since boyhood. His arms knew things his mouth wouldn't admit. "She's a woman. My grandfather said the bloodline runs through sons."
 
 "Your grandfather lost half the knowledge during the exile," Jesus said calmly. "Nefertari — the physician who started all of this — was a woman. Nearly a quarter of her first students were women. The blood doesn't care about gender."
 
@@ -830,7 +845,7 @@ The disciples were quiet. Peter's arms had uncrossed.
 
 "The woman in Mycenae," Mary said suddenly. "I saw her fleeing with her daughter and a bronze disc. Is that—was that real?"
 
-"Probably. The defensive network created seven bronze keys during the Bronze Age Collapse. Physical objects that anchored the knowledge. Some carriers fled with keys when cities burned. Your ancestor might have been one of them." Jesus's expression turned serious. "Do you remember which key? What did it look like?"
+"Probably. The first teachers made a few things — bronze, mostly, things small enough to hide in a cloak — before their cities burned. Things that held the knowledge when memory alone wasn't enough. When the running started, women carried them out. Your ancestor may have been one of those women." Jesus's expression turned serious. "Do you remember what she carried? What did it look like?"
 
 She looked away, reaching for the memory. The vision had been brief, fragmentary. But there, a bronze disc, eight inches across, covered in symbols that looked like hieroglyphics but weren't. Warm to the touch. Pulsing like it had its own heartbeat.
 
@@ -880,7 +895,9 @@ The vision receded. Not vanished. She could still feel it there, the way you fee
 
 She opened her eyes.
 
-The room was silent. Peter was watching her. Thomas had leaned forward.
+The room was silent. Peter was watching her. His arms had uncrossed without his noticing. Thomas had leaned forward.
+
+Peter said nothing. But something moved behind his eyes — the quick, complicated look of a man watching someone take a tool he'd built and sharpen it past anything he could manage. It had taken him three weeks to learn what she'd just done in three minutes. The merchant's mind. The naming. She'd turned his exercise into something faster and more precise than he would ever be, and he could feel the knowledge settle into his body like a stone in a pocket: she was better at this than he was.
 
 Mary's face did something she couldn't control. Her chin trembled and her eyes filled. Not from the vision, not from grief, but from the sudden staggering relief of a woman who had spent her entire adult life believing she was drowning and had just been shown that the water was only waist-deep. That she could stand. That she'd always been able to stand, if someone had just told her where to put her feet.
 
@@ -1085,7 +1102,7 @@ Jesus walked into the Jordan. The water was cold, fed by mountain snowmelt even 
 
 John waded in after him. His hands were rough, calloused from years of sun-dried rope and desert stone, and when he placed one on Jesus's shoulder and the other against his back, the strength in them was immediate. A man who lived outdoors and worked with his body and had pulled people out of this river before.
 
-"In the name of the network," John murmured. "In memory of those who died teaching. In hope for those who survive learning. I baptize you."
+"In the name of those who came before," John murmured. "In memory of those who died teaching. In hope for those who will survive learning. I baptize you."
 
 Jesus closed his eyes. Let John press him backward into the water. Felt cold close over his face, fill his ears, seal the world away. Total immersion. Weightless. The river held him the way the earth holds a seed. Dark, patient, waiting for whatever would grow.
 
@@ -1189,7 +1206,7 @@ John followed him out of the water. The six witness students were staring. Jesus
 
 "There was more." Jesus pressed water from his eyes. "A bronze disc. Covered in symbols. The images are already fading but — Phoenician coast. Near what the Romans call Byblos. Buried in ruins from the collapse."
 
-"The Pattern Eye," John said. He'd heard the stories. A key that amplified blood memory — let weaker carriers see what only the strongest could access naturally.
+"The bronze disc," John said. He'd heard the old whispers. Something the first teachers had buried before their cities fell — a thing that opened doors in the blood for those whose blood would not open by itself.
 
 "Mary's drowning in visions she can't control. The Eye could help her separate past from present." Jesus turned to face him. "I'm asking you to find it."
 
@@ -1253,9 +1270,9 @@ John didn't ask whose hands. He'd felt it too, the phantom reach, the body searc
 
 "And the disc itself?"
 
-"Wide as two hands. Warm to the touch. Symbols that look Egyptian but aren't — older, something Nefertari's teachers used before hieratic standardized. You'll know it when you hold it. The blood memory will respond."
+"Wide as two hands. Warm to the touch. Symbols that look Egyptian but aren't — older, something Nefertari's teachers used before hieratic standardized. You'll know it when you hold it. Your body will know."
 
-"My blood memory barely responds to anything."
+"The visions barely come to me."
 
 "It'll respond to this." Jesus met his eyes across the fire. "The Eye doesn't require strong inheritance. That's the point. It bridges the gap. Lets carriers like you access what carriers like me see naturally." He paused. "That's why she built it. Not for the strong ones. For everyone else."
 
@@ -1376,7 +1393,7 @@ She'd changed. Six months ago she couldn't finish a sentence without flinching a
 
 "You're back," she said. Not a question.
 
-She set Sarah down, nearly four, dark curls, enormous eyes. The child went to the corner and started arranging pebbles in geometric patterns on the floor. Generation 43.
+She set Sarah down — nearly four, dark curls, enormous eyes. The child went to the corner and started arranging pebbles in geometric patterns on the floor. Nobody thought it strange. Among these people, strangeness was just knowledge arriving before language could catch it.
 
 "The visions have changed," Mary said. "Sharper. I can stay inside them now without losing myself. But I'm not sure I trust what I'm seeing." She paused, choosing words carefully. "I think I'm seeing structure underneath the collapse. How Nefertari organized her students. But it could be my merchant's mind imposing order on chaos. Pattern where there's only noise."
 
@@ -1432,17 +1449,23 @@ He reached Mary. She looked up at him with an expression he'd only seen a few ti
 
 "You heard it," he said.
 
-"I don't know." Her voice was unsteady but her eyes were sharp. "I heard — structure. Underneath. Both layers at once. The spiritual instruction and, a deeper layer. A pattern that maps onto everything I see in the visions." She exhaled hard through her nose. "Peacemaking. That's not just virtue. It interrupts escalation. The same escalation I've been drowning in since I was fifteen. The feedback loops that burned Pi-Ramesses. But maybe I'm just—"
+"I don't know." Her voice was unsteady but her eyes were sharp. "I heard — something underneath. Like when you're in the market and everyone hears the price being shouted but you hear the panic in the seller's voice, and you know the whole street is about to turn." She pressed her hands against her knees. "Peacemaking. You weren't just telling people to be kind. You were telling them how to stop the thing I've watched burn every city in my dreams."
 
 "Say it."
 
-"*Hate is what makes the cascade lock.*" She said it like a confession, her fingers white around the fabric over her knees. "Retaliation creates the feedback loop. Violence answers violence answers violence until the whole structure collapses. Love your enemies isn't kindness. It's the only way to break the cycle before it reaches the point where nothing stops it." She looked at him. "That's what Nefertari was teaching."
+She was quiet for a long time. Her fingers dug into the cloth over her knees.
 
-Jesus sat beside her on the hillside. "Most people hear the melody—be kind, forgive your enemies. You heard the harmony underneath, the deeper pattern that makes it all work together."
+"Hitting back is what locks it." She said it like a confession. "I've seen it. In the visions. Every time. Somebody retaliates. Somebody retaliates harder. And then you can't stop it. It just — burns until everything's gone." She looked at him. "Love your enemies. That's not kindness. That's the only way to break it before it catches."
 
-"Is it real? Or am I projecting? The visions do that. They make me see patterns in everything. Market prices. Weather. The way Roman patrols route through Capernaum. I can't tell anymore what's real pattern and what's my broken mind trying to make sense of chaos."
+Jesus sat beside her on the hillside. He didn't say anything for a moment. Then: "Most people heard me telling them to be nice today."
 
-"It's real. Nefertari designed it twelve hundred years ago. Practices that work for spiritual reasons *and* structural reasons. Same behavior, different framework. You're hearing both because you're a carrier."
+"I know."
+
+"You heard what's underneath."
+
+"Or I'm losing my mind again." Her voice cracked. "The visions make me see patterns everywhere. Market prices. Weather. Roman patrols. I can't tell what's real anymore."
+
+"It's real. And you're not losing your mind."
 
 A Pharisee who'd been lingering near the back of the dispersing crowd stepped forward. Tall man, Jerusalem educated, his robes cleaner than anyone else's on the hillside. He'd been watching Mary with the particular attention men gave to women who spoke in public about things women weren't supposed to understand.
 
@@ -1450,7 +1473,7 @@ A Pharisee who'd been lingering near the back of the dispersing crowd stepped fo
 
 The hillside went dead silent. Women pulled their children closer. Men stepped back as if witnessing blasphemy. The six hundred who remained stared in shock.
 
-Mary flinched. The old instinct — twelve years of being called possessed, mad, demon-ridden. A community deciding she was broken because she saw things they couldn't see. Every exorcism prayer and whispered warning and locked door. Her shoulders hunched inward and her hand moved to cover Sarah's ears, the protective gesture of a woman who'd learned that public attention meant public punishment.
+Mary flinched. The old instinct. Not *you are wrong* — the world never said that, because being wrong was a conversation. What the world said was *who authorized you to be right?* Who trained you? Who gave you permission? Twelve years of being called possessed, mad, demon-ridden — not because she was incorrect but because she heard things without being credentialed to hear them. Every exorcism prayer and whispered warning and locked door. Her shoulders hunched inward and her hand moved to cover Sarah's ears, the protective gesture of a woman who'd learned that public attention meant public punishment.
 
 But then something held.
 
@@ -1494,7 +1517,9 @@ The corner of her mouth moved. Not quite a smile, but the closest thing he'd see
 
 "You are emphatically not mad."
 
-Mary pressed her hand flat against a stone wall, grounding herself. Sarah woke, blinked, looked up at her mother's face. "Mama? Why are you crying?"
+Mary pressed her hand flat against a stone wall, grounding herself. Later she would learn that people expected her to be serene about this — calm, composed, the quiet woman beside the teacher. But serenity is what the world paints onto women it is uncomfortable with. What she actually felt was fury and terror and the bone-deep relief of a person who has been told, for the first time, that what she sees is real.
+
+Sarah woke, blinked, looked up at her mother's face. "Mama? Why are you crying?"
 
 "Because I understand now, little one." Mary pulled her daughter close. "I'm not broken. I'm a teacher."
 
@@ -1591,23 +1616,23 @@ She taught sixty women now, in the expanded courtyard behind Simon's house. They
 
 That morning, Mary stood before them and felt the familiar mix of purpose and terror.
 
-"Close your eyes," she instructed. "Let a vision surface. Don't fight it. Just observe."
+"Close your eyes," Mary said. "Let the old pictures come. Don't push them away. Let them stand in the room with you the way a guest stands in a doorway — present, but not the whole house."
 
 She watched as expressions shifted across the courtyard, eyes moving beneath closed lids, breathing patterns changing, a few women flinching as memories surfaced unbidden.
 
-"Now ground. Five things present. Physical sensations. Sounds. Smells. Your own heartbeat. Don't push the vision away. Just anchor yourself in the present while experiencing the past."
+"Now — name what is here. The wool under your hands. The smell of the lamp oil. The sound of the lake through the wall. The weight of the child against your side. Name them one at a time, slowly, the way you would name your children by lamplight. The old pictures don't have to leave. You are only remembering which room is yours."
 
-Most struggled. The discipline was brutal, holding two realities at once without drowning in either. But three women, Rachel, Judith, Miriam, all strong carriers from branch bloodlines, held both states simultaneously. Their faces went calm in a way Mary recognized. Dual consciousness—past and present held simultaneously.
+Most struggled. The discipline was brutal, holding two realities at once without drowning in either. But three women, Rachel, Judith, Miriam, women whose blood ran deep enough that the old pictures came clear, held both states at once. Their faces went calm in a way Mary recognized. Past and present, side by side, neither drowning the other.
 
-"Good," Mary said. "That's controlled access. Not perfect yet. But you've demonstrated the capacity." She pressed her left hand against her ribs, the place where the warmth lived, and felt the old reaching. Nefertari's gesture, carried forward through forty-two generations of women who loved and lost and kept teaching anyway.
+"Good," Mary said. "You held it. Not perfectly, not yet. But you held it." She pressed her left hand against her ribs, the place where the warmth lived, and felt the old reaching. The same gesture the woman in her dreams made — carried forward through more generations of women than Mary had names for, women who loved and lost and kept teaching anyway.
 
 Sarah spoke up from the front row, clear-voiced for a five-year-old. "Mama sees the teaching lady. The old one from the burning city."
 
-Several women looked startled. Mary smiled. "Nefertari. She built what we're learning. I see her through blood memory because we're her descendants."
+Several women looked startled. Mary smiled. "Her name was Nefertari. She built what we're learning, in a city the world has forgotten. I see her in dreams because her blood is mine."
 
 "I see her too sometimes," Sarah said. "In dreams. She shows me patterns."
 
-Generation 43, accessing blood memory at five. Earlier than expected. But Mary had been training her since age three, grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what carriers were.
+Five years old and already seeing Nefertari in her dreams. Mary had been training her since age three — grounding exercises as bedtime routine, pattern recognition through play. Sarah wouldn't awaken violently at puberty the way Mary had. She'd grow up knowing what she carried.
 
 A woman named Deborah raised her hand. "What about when we can't catch the trouble early? When the violence is already happening?"
 
@@ -1657,7 +1682,7 @@ He retrieved two scrolls and unrolled them with careful reverence.
 
 "Copied from older documents that survived the exile," he said. "I've been studying them for forty years. The scribes think they're prophecy. They're instruction."
 
-Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols she recognized from blood memory, not hieroglyphics, older. Waves and circles and intersecting lines, almost like music notation.
+Mary leaned over the first scroll. Hebrew and Aramaic text interspersed with symbols her body recognized, older than hieroglyphics. Waves and circles and intersecting lines, almost like music notation.
 
 She traced one cluster with her finger, not quite touching the parchment. Heat spread through her fingertips. Her vision split, the scriptorium's cool shadows overlaid with blazing Egyptian sun. Her breath caught, ribs tight.
 
@@ -1677,7 +1702,7 @@ Matthias unrolled the second scroll. "This one I couldn't decode. Pure pattern n
 
 Mary looked at it. Dense symbol clusters arranged in spirals. Her enhanced vision locked onto them and they resolved. Not into words exactly, but into *understanding*. Fragments. Incomplete. Like hearing a conversation through a wall.
 
-"It's about us," she said slowly. "Generation 42. Two carriers — primary and branch — rebuilding what was lost during the exile." She squinted, reaching. "The primary... teaches with his blood what he can't teach with bronze. The branch... sees the connections the primary cannot. Together they—" The symbols blurred. She pressed harder. "Together they succeed at distribution. Not prevention. *Distribution.*"
+"It's about us," she said slowly. "Two of us. Strong and weak in different ways — different doors into the same fire. Rebuilding what was nearly lost in the exile." She squinted, reaching. "One of us teaches with his blood what he can't teach with bronze. The other sees the connections the first cannot. Together we—" The symbols blurred. She pressed harder. "Together we succeed at scattering. Not prevention. *Scattering.* Carrying the knowledge so wide that no one fire can take it."
 
 "What does it say about what happens after?" Jesus asked. His voice was carefully neutral.
 
@@ -1689,7 +1714,7 @@ Mary reached for the next cluster. Pain lanced behind her eyes, sharp, sudden, l
 
 "No — I almost had—"
 
-"Mary." His voice was the voice he used for the centering exercise. "Five things. Now."
+"Mary." His voice was the quiet voice he used when she was slipping under. "Name what is here. Now."
 
 She named them through clenched teeth: pottery jar, Matthias's face, smooth wood, old ink, her own breathing. The vision receded. Just present moment. The nosebleed stopped.
 
@@ -1705,7 +1730,7 @@ Jesus was quiet for a long time.
 
 Her stomach turned. The clarity was worse than the vision. The logic was flawless.
 
-"Make copies," Jesus told Matthias. "Three sets. Scatter them. Alexandria, Antioch, wherever your networks reach. This archive won't survive what's coming."
+"Make copies," Jesus told Matthias. "Three sets. Scatter them. Alexandria, Antioch, wherever your people reach. This archive won't survive what's coming."
 
 "How long?" Matthias asked.
 
@@ -1751,7 +1776,7 @@ The ruins began where the harbor road ended. Crushed limestone and fallen column
 
 Rachel knelt six feet away, digging with an iron trowel they'd borrowed from a mason in the lower town. Sweat darkened the fabric between her shoulder blades. Her headscarf had slipped to her neck an hour ago and neither woman had mentioned it. Two Jewish women digging in Phoenician ruins. They'd told the harbor master they were looking for old trade seals. He hadn't believed them, but he'd taken Mary's silver and looked away.
 
-The Qumran texts had been specific: *beneath the physician's marker, east wall, third course from the floor*. But the east wall had collapsed sometime during the Persian period, and "third course from the floor" meant nothing when the floor itself lay under four feet of debris. They'd been excavating since dawn, working from the harbor side where Mary's blood memory placed the entrance to what had once been a teaching room. The sun was past noon now. Mary's water skin was nearly empty. Rachel hadn't complained — Rachel never complained, but her movements had slowed in the last hour, each trowel stroke arriving with deliberate effort rather than rhythm.
+The Qumran texts had been specific: *beneath the physician's marker, east wall, third course from the floor*. But the east wall had collapsed sometime during the Persian period, and "third course from the floor" meant nothing when the floor itself lay under four feet of debris. They'd been excavating since dawn, working from the harbor side where Mary's inherited knowing guided them — the half-glimpsed shape of what had once been a teaching room. The sun was past noon now. Mary's water skin was nearly empty. Rachel hadn't complained — Rachel never complained, but her movements had slowed in the last hour, each trowel stroke arriving with deliberate effort rather than rhythm.
 
 Mary's hands found shaped stone under the rubble. A lintel. She traced its edge, brushing away packed earth. Her fingers touched carved symbols, shallow, weathered almost to nothing, and her vision split.
 
@@ -1821,35 +1846,23 @@ Jesus turned to look at her. Not startled, more like he'd been waiting for it. "
 
 "Yes."
 
-"But you missed something. The taxation isn't just extraction. It's redirection. Rome taxes grain and fish and oil, but the money doesn't leave Galilee. It cycles back through the garrison, the road builders, the bath houses. The soldiers spend their wages in the same markets they're taxing, creating a closed loop. What's actually destroying the region isn't the amount Rome takes. It's that Rome pays its soldiers in denarii while the Temple demands shekels. Two currencies. The exchange creates a middleman class — the money changers, who bleed three to five percent on every transaction. Twice. Once when the fisherman converts his catch to denarii for the Roman tax, and again when he converts what's left to shekels for the Temple offering."
+"But you missed something." She stopped. Started again. "Okay. A fisherman catches his fish. He needs to pay Rome, so he goes to the money changer and converts to denarii. He loses a little — the changer takes his cut. Then he needs to pay the Temple, so he takes what's left and converts back to shekels. The changer takes another cut." She held up two coins from her belt pouch, one in each hand. "Same fisherman. Same fish. Two different masters wanting payment in two different coins. And the man in the middle, the one with the scales — he gets paid twice. Every time. On every transaction in Galilee."
 
-She watched his face as she spoke. The shift was small but unmistakable — eyebrows drawing together, then lifting. His mouth opening slightly and closing again. Surprise first. Then recognition. Then something she hadn't expected: relief. The relief of a man who'd been carrying a weight alone and suddenly felt someone else's hands take part of it.
+She watched his face. The shift was small — eyebrows drawing together, then lifting.
 
-"The currency split," he said quietly. "I saw the extraction. I didn't see the mechanism."
+"That's what's killing them," she said. "Not how much Rome takes. The changing back and forth. The bleed."
 
-"Because you see it as a spiritual teacher. Power and corruption and what happens to people ground between systems. I see it as a merchant. Supply routes. Transaction costs. Where the money actually goes." Mary pulled a handful of shekels and denarii from her belt pouch, held them side by side. "Two systems forcing the same population to serve both. That's what broke Pi-Ramesses. Not the invasion, not the famine. Two supply chains competing for the same labor pool until neither could function. I can see it because Nefertari ran a clinic. She tracked medicines and beds and which patients could pay and which couldn't. My blood remembers how economies collapse from the middle, not the top."
+Jesus was quiet. "The money changers in the Temple courts. I've been angry about them for years. I thought it was corruption — profiting from worship."
 
-Jesus was quiet for a long time. He looked at the coins in her hand, then at the tax station below, then back at her.
-
-"I've been preaching about rendering unto Caesar," he said. "I thought it was about divided loyalty. You're telling me it's about the cost of changing money."
-
-"It's about both. That's what I'm saying — you see the spiritual architecture. I see the plumbing. The teaching needs both."
+"It's worse than corruption. It's how the whole thing is built. Two systems forcing the same people to serve both." She closed her fists around the coins. "I've seen this before. In the visions. It's what broke Pi-Ramesses. Two powers pulling from the same people until nobody could feed themselves."
 
 He laughed. A short, surprised sound. Not performance, not parable. Just a man being shown something he should have seen and hadn't. Mary had never heard him laugh like that before. Unguarded.
 
 "Two years," he said. "Two years I've been teaching you. And you just taught me something I couldn't see from inside my own bloodline."
 
-He sat with it for a moment — she could see him turning her analysis over the way he turned parables, looking at it from underneath, testing the weight. His hands had gone still on his knees. The hands of a carpenter who built things. Mary's hands were a merchant's hands. They counted and weighed and measured. Different instruments. Same purpose.
-
-"The money changers in the Temple courts," he said slowly. "I've been angry about them for years. I thought it was the corruption — profiting from worship. You're telling me it's structural. The currency split makes them necessary. They're not parasites. They're symptoms."
-
-"Yes. And if you drive them out without changing the structure, they come back. Because the system requires them."
-
 He looked at her with clear eyes. Not the teacher's gaze she'd grown used to — the one that evaluated and guided and held back information until the student was ready. This was the gaze of someone seeing an equal for the first time and knowing it.
 
-Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. More than teacher, more than friend. Partner. Equal in different domains. He had the deeper generational memory. She had the lateral pattern recognition. He excelled at public teaching, encoding knowledge in portable stories. She excelled at systematic training, building networks that could run without her.
-
-Neither could do the other's work. But together they'd built something neither could have built alone.
+Mary looked at him. Two years ago he'd been the mysterious teacher who'd validated her visions. Now he was something else. Neither could do the other's work. But together they'd built something neither could have built alone.
 
 "I found it," she said abruptly.
 
@@ -1863,11 +1876,11 @@ The Pattern Eye glinted in the afternoon sun. Still warm, as though it generated
 
 Jesus reached for it. Stopped. "May I?"
 
-"It belongs to the network. But yes."
+"It belongs to the families. But yes."
 
-He lifted the disc. His eyes unfocused immediately — blood memory surging through the amplification like water through a broken dam. "Oh. That's—" He set it down after maybe thirty seconds, breathing hard. "I couldn't hold it. Too much at once."
+He lifted the disc. His eyes unfocused immediately — the vision surging through him like water through a broken dam. "Oh. That's—" He set it down after maybe thirty seconds, breathing hard. "I couldn't hold it. Too much at once."
 
-"I can hold it for five minutes now. With practice, maybe longer." Mary picked up the disc. Her vision split instantly — present moment and twelve centuries of inherited memory overlaying each other in perfect clarity. She let it run for a few seconds, then set it down. "This is how Nefertari trained the first carriers. Not just talk. Direct amplification of what's already in the blood."
+"I can hold it for five minutes now. With practice, maybe longer." Mary picked up the disc. Her vision split instantly — the present moment and the long years before her, laid one over the other, clear as two pages of the same book. She let it run for a few seconds, then set it down. "This is how she taught them, in the workshop, before her city fell. Not just words. The bronze opens what words cannot reach."
 
 "And you're using it with the women?"
 
@@ -1875,17 +1888,17 @@ He lifted the disc. His eyes unfocused immediately — blood memory surging thro
 
 Jesus looked at her with something she'd never seen from him before. Beyond approval, beyond a teacher's satisfaction at a student's success. Something more equal.
 
-"You've built what I couldn't," he said. "The systematic training structure. The accelerated method. I gave you the foundation. You built the architecture on top of it."
+"You've built what I couldn't," he said quietly. "I teach in crowds. You teach in rooms. I scatter seed. You make sure it takes root."
 
 "That's partnership. You encode the core teaching through public ministry. I develop the training infrastructure that distributes it after you're gone. Different work. Equal weight."
 
 "When I die," Mary said carefully, "and I continue teaching, people will forget what I contributed. They'll assume I'm your student. A lesser teacher preserving your work."
 
-"Probably." Jesus picked at a loose thread on his sleeve. "That's how stories simplify over time. But blood memory will preserve the actual pattern. Generations from now, a strong carrier will experience this partnership through inherited memory. She'll understand we were equals. That matters more than what the intervening centuries believe."
+"Probably." Jesus picked at a loose thread on his sleeve. "That's how stories simplify over time. But the blood doesn't simplify. The blood remembers what mouths forget. Some woman, long after both of us are dust, will dream this hillside and know what we built here. She'll know we were equals. That matters more to me than what the intervening centuries believe."
 
 Mary considered that. It still felt unjust. But Jesus was right — practices mattered more than credit. If the teaching survived through her innovations, that was success even if her name didn't persist alongside his.
 
-They sat together on the hillside, the Pattern Eye resting between them on its linen wrapping. A bronze disc containing enough encoded knowledge to transform how carriers accessed their inheritance. One of seven keys. The others still hidden or lost or waiting to be found by carriers in generations to come.
+They sat together on the hillside, the bronze disc resting between them on its linen wrapping. A small thing — small enough to hide in a cloak, light enough to carry through a burning city — and yet a door, opened. The other doors were still buried. The others would have to wait for the hands that came after.
 
 But this one they had. And it was already changing everything.
 
@@ -1960,7 +1973,7 @@ Three years of this question. His gut twisted.
 
 Something cold settled in his chest. Five years of this problem, and the answer was always the same.
 
-"There's no solution," Titus said. "Arrest him, followers multiply. Leave him alone, the network grows. We're boxed."
+"There's no solution," Titus said. "Arrest him, followers multiply. Leave him alone, the families grow. We're boxed."
 
 Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centurion. We enforce them."
 
@@ -2034,7 +2047,7 @@ Every report was delaying the inevitable.
 
 ---
 
-## SCENE 4: Offensive Network Contact
+## SCENE 4: The Stranger in the Room
 
 The man was waiting in Titus's quarters when he returned that evening.
 
@@ -2092,9 +2105,9 @@ The trap was clean. Seeing it didn't mean he could escape it.
 
 ---
 
-## SCENE 5: Defensive Network Warning
+## SCENE 5: The Ride to Capernaum
 
-For two days Titus searched for alternatives. He reviewed Matthias's connections. The man had ties to the Temple, to Herod's court, to Roman administrators Titus had trusted. The network was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
+For two days Titus searched for alternatives. He reviewed Matthias's connections. The man had ties to the Temple, to Herod's court, to Roman administrators Titus had trusted. The families' reach was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
 
 On the third night, with hours remaining before his answer was due, he rode to Capernaum.
 
@@ -2182,7 +2195,9 @@ Self-preservation, not mercy. The cold calculation of a man who'd rather lose a 
 
 Titus saluted for the last time. Then walked out of the Antonia Fortress as a civilian for the first time in twenty-eight years.
 
-The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past, merchants, pilgrims, a woman carrying bread on her head, and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
+The street hit him like cold water. No armor. No insignia. No weapon at his hip where a sword had hung since he was nineteen. He stood in the shadow of the fortress gate while people flowed past, and none of them moved aside. Nobody saluted. Nobody lowered their eyes. He was just a man in a tunic on a street in Jerusalem, and the city didn't care.
+
+Five years of false reports. The world would remember them, if anyone remembered, as acts of conscience. They were also acts of cowardice. He had kept the carpenter alive because it gave him a purpose that did not require him to examine why he needed one. If he was protecting Jesus, he did not have to think about the boy at Carnuntum. If he was documenting parables, he did not have to think about the libraries he'd helped burn in Thrace. The stylus did not clean his hands. But it kept them busy.
 
 His sister's face came to him. The last letter from Gaul, still folded in his trunk at the barracks — the trunk he'd have to collect by nightfall or they'd burn the contents. *The boys are growing fast. Decimus asks about his uncle the centurion. When will you visit? Your pension will buy the farm on the hill road — I've spoken with the owner. He'll hold it until spring.* She'd signed it with the little drawing of a bird she'd made since childhood, the one that meant *I miss you*.
 
@@ -2271,29 +2286,21 @@ He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and fo
 
 ## SCENE 2: Mary's Women's Circle
 
-Twenty-three women in Rachel's courtyard, and Mary Magdalene couldn't stop counting them. She counted every time, the way a general counts soldiers before a march. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. More in villages she hadn't visited yet. Nearly eighty, meeting in clusters small enough to look like sewing circles.
+Twenty-three women in Rachel's courtyard. Mary counted them the way she'd once counted salt barrels — merchant's instinct. Twenty-three here. Fifteen in Bethsaida. Twenty in Chorazin. Nearly eighty, meeting in clusters small enough to look like sewing circles. Her left hand moved to her side, the old reaching.
 
-Mary gripped her knees. Counted the women again. Twenty-three. Her left hand moved to her side, the old reaching, the gesture she couldn't train away no matter how many years passed. The fig tree threw dappled shade across the mats. Bread smell drifted from Rachel's kitchen. Everything peaceful. Everything running out of time.
+The session ran an hour. Deborah reported that the intervention had held for two hours before her husband's anger broke through. A younger woman had calmed a market dispute. Small acts. Domestic scale. But this was how it worked.
 
-"Sisters," Mary said, and the courtyard quieted. "Last week we spoke about reading the signs of trouble in the household before violence comes. Who can share what they've practiced?"
+"We're running out of time," Mary told them. "Each of you presents a short lesson next week. You're not students anymore."
 
-Deborah, who managed a household of twelve in Capernaum, raised her hand. "My husband came home drunk. I saw the signs: the stumble, the loud voice before he even crossed the threshold. Instead of confronting him, I had food ready. Spoke quietly. The trouble passed before it began."
+The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Six years old.
 
-More hands. A younger woman described calming a dispute between merchants at the market gate. Another had interrupted gossip before it reached the ears of the accused.
+As they walked toward the street, Mary's eye caught a man standing at the corner where the alley met the market road. He wasn't shopping. Wasn't waiting for anyone. He was watching the courtyard entrance, and when Sarah skipped ahead to pick up a fallen orange blossom, his eyes followed the girl.
 
-Small acts. Domestic scale. But this was how it actually worked. A thousand quiet corrections preventing the spark from becoming the fire.
+Mary's hand closed around Sarah's wrist — too hard. Sarah looked up, startled.
 
-"Now the harder question," Mary said. "What about when the trouble is already there, when you've missed your chance to act early?"
+"We're going the other way today," Mary said. Her voice was steady. Her heart was not.
 
-Silence. The harder question always drew silence. These women knew what happened when they acted too late: bruises, broken households, children who learned violence as their first language.
-
-"We're running out of time," Mary said. "I need each of you to learn how to teach this yourselves. Because if persecution comes, I might not be available."
-
-"How?" Deborah asked. "You've trained for years. We've had months."
-
-"Then take what you have and start with that. Next week, each of you presents a short lesson."
-
-The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Six years old. Everything Mary was building would pass through this child, or it would be lost.
+She took the long route home, doubling back twice, the way Simon had taught her. The man didn't follow. Or if he did, he was better at it than she was at spotting it. That night she lay beside Sarah and listened to her daughter breathe and calculated, with the cold precision of a merchant assessing risk, how many people now knew about the girl who could hear both layers of the teaching at age six.
 
 ---
 
@@ -2323,7 +2330,7 @@ Jesus emerged from the darkness beyond the firelight. His feet made no sound on 
 
 "What's wrong with five years?"
 
-"Nothing. If that's as far as you can see." Jesus poked the fire. "But commands die with the man who gives them. I tell you directly how to keep peace — you remember while I'm alive. Your children's children forget. But I tell you a *story* — the Good Samaritan, and that story spreads to people who never met me. Five hundred years from now, someone hears it and understands."
+"Nothing. If that's as far as you can see." Jesus poked the fire. "A carpenter knows this: when something is too large to hold, you build a frame for it. A parable is a frame. It holds the truth in a shape people can carry. But commands die with the man who gives them. I tell you directly how to keep peace — you remember while I'm alive. Your children's children forget. But I tell you a *story* — the Good Samaritan, and that story spreads to people who never met me. Five hundred years from now, someone hears it and understands."
 
 Judas stared into the flames. "My cousin is dead. My father's fields are gone. And you're telling me to wait five hundred years."
 
@@ -2437,23 +2444,27 @@ But he gathered the Twelve and the network carriers who'd been helping with dist
 
 "The food multiplied," one of the younger disciples said, voice full of wonder.
 
-"The food was already there." Jesus kept his voice gentle. "Hidden in the crowd. Distributed in small amounts across five thousand people, each one hoarding because they didn't trust that sharing would work. But once we built a visible structure — organized groups, disciples moving through systematically — people could see the distribution was real. That contributing wouldn't leave them empty. Once they trusted that, the hidden resources came out."
+"The food was already there." Jesus kept his voice gentle. "Every family brought something. A loaf. Some dried fish. Figs. But nobody was sharing because nobody believed there was enough. So everyone sat on what they had."
 
-Peter's eyes widened. "You didn't create food. You created trust in the network."
+Peter frowned. "Then how—"
 
-"I created visible structure," Jesus said. "When people can see that a system works — that sharing leads to more, not less. They contribute what they were hiding. Scarcity is often a distribution problem, not a resource problem. Hoarding creates the very shortage people are afraid of."
+"We organized them into groups. Fifty people facing each other. And we started passing what we had — five loaves, two fish. Not enough. Obviously not enough. But once people saw it moving, once they saw their neighbors contributing and not going hungry—" He opened his hands. "The woman next to you pulls out the bread she'd been hiding in her cloak. The man behind her unwraps his figs. Suddenly there's more than anyone expected. Because it was always there."
 
-"So the miracle was organizational," Matthew said slowly.
+Peter sat with this. "You didn't make food. You made people trust each other enough to share it."
 
-"The miracle was seeing what was already present." Jesus looked out at the crowd, still marveling at what had happened. "Five thousand people had enough food among them for three days. They just didn't know it, because each person was sitting on their small portion thinking it couldn't possibly matter."
+"Yes."
 
-Mary was there. She'd been helping organize the women's clusters. "But they'll tell this story as supernatural multiplication. Five loaves feeding five thousand through divine power."
+"So the miracle was—" Matthew paused, searching for the word.
 
-"Let them. That story spreads further and faster than 'Jesus organized an effective resource distribution exercise.' And underneath the miracle narrative, the pattern persists. People gathering in organized groups. Resources flowing through trusted networks. Abundance emerging from apparent scarcity." He paused. "Carriers in future generations will hear this story and recognize what actually happened. Even if they never hear the word 'distribution,' they'll feel the pattern."
+"The miracle was real," Jesus said. "Five thousand people who didn't trust each other sat down as strangers and got up as a community. Don't reduce that by calling it a trick." Jesus looked out at the crowd, still marveling at what had happened. "Five thousand people had enough food among them for three days. They just didn't know it, because each person was sitting on their small portion thinking it couldn't possibly matter."
+
+Mary had been listening. "But they'll tell this story as loaves multiplying. Divine power. Not people sharing."
+
+"Good. That story will travel further than the truth. And in five hundred years, someone will hear it and think — wait. What if the miracle wasn't the bread?"
 
 Mary nodded, but he could see the fear underneath her competence. Eighteen months. Maybe less if today's display accelerated Temple concern. Five thousand people moving as a coordinated unit — that was the kind of thing empires noticed.
 
-"We're not ready," Mary said quietly. "The network isn't wide enough yet."
+"We're not ready," Mary said quietly. "The families are scattered too thin."
 
 "We're never ready. We encode as much as we can in the time we have and trust distribution to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
 
@@ -2471,7 +2482,7 @@ The new officer was young, clean-shaven, the kind who filed his reports on time 
 
 After the officer left, Titus sat alone in the tavern noise, dice, arguments, a woman laughing somewhere, and pulled out a roll of papyrus—he'd been transferring his most important notes from wax tablets to permanent form. Five years of documentation. Parables, methods, testimony that someone generations from now might need.
 
-Twenty-eight years of military service, campaigns across three provinces—and it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Titus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Some nights that felt like enough. Tonight, listening to his replacement count the months until a man he loved was executed, it didn't.
+Twenty-eight years of military service, campaigns across three provinces—and it came to this: scarred fingers cramping as he scratched down parables in a dim tavern, wine untouched and growing warm. The others had the blood — visions, ancestral memory, twelve centuries of accumulated knowing that arrived while they slept. Titus had a stylus and a bad knee and the stubborn conviction that what he'd seen deserved to survive him. Writing was not his gift. It was his disease. The hand that held the stylus was the hand that could not hold anything else — could not hold a sword and stop what was happening, could not hold a man's shoulder and say *do not go to that hill*. Could only hold the wax steady and make marks that might outlast the screaming. Some nights that felt like enough. Tonight, sitting in the specific loneliness of a man trained to act who could not act, listening to his replacement count the months until a man he loved was executed, it didn't.
 
 Among the tavern noise, Titus caught a conversation in accented Greek at the next table — two men discussing "the carpenter's network" with the clinical detachment of people who studied things before destroying them. Not Romans. Not Temple. Something older.
 
@@ -2504,7 +2515,7 @@ Mary held Sarah tighter and walked the other direction, fast, not running, becau
 
 \newpage
 
-# CHAPTER 7B - THE WOMENS NETWORK {#chapter-7b}
+# INTERLUDE - THE WOMEN'S NETWORK {#chapter-7b}
 
 ## SCENE 1: The Circle
 
@@ -2544,19 +2555,23 @@ She sat back down. Let the teaching settle.
 
 "Now. Who has something to bring?"
 
-Deborah raised her hand. The bruise was visible now -- the headscarf had shifted. "My husband came home three nights ago in the state I described last week. The loud voice before he crossed the threshold. Stumbling." She touched her jaw, deliberate now, not hiding. "I tried what we practiced. Had food ready. Spoke quietly. Kept the children in the back room."
+Deborah raised her hand. The bruise was visible now -- the headscarf had shifted. "My husband came home three nights ago in the state I described last week. The loud voice before he crossed the threshold. Stumbling." She touched her jaw, deliberate now, not hiding. "I sent the three oldest to the back room with a look. Not a word. A look -- we've practiced the look. Then I put food on the table before he could decide the table was empty. Made my voice into something flat and warm, like a stone that's been in the sun. Nothing to push against."
 
-The courtyard was very still.
+The courtyard was very still. Eighty women who knew exactly what that voice sounded like coming through a door.
 
-"It didn't work?" someone asked.
+"It worked for two hours. He ate. He sat. The anger passed through him like weather. I watched it move." Deborah's voice was steady — the steadiness that came from practice, not from peace. "Then the youngest cried and he couldn't absorb it. Last month it wouldn't have held for two minutes. Two hours is something."
 
-"It worked for two hours. He ate. He sat. The anger passed through him the way Mary describes -- like weather. I watched it move." Deborah's voice was steady. Merchant-steady, a steadiness that came from practice. "Then the youngest cried and he couldn't absorb it. The intervention held for two hours. Last month it wouldn't have held for two minutes."
+She paused. Her hand moved to her jaw again. "Both things are true at the same time. Two hours of success and this face. I can hold them both without being confused about either one."
 
-Mary nodded. "Two hours is real. That's two hours your children didn't hear violence. That's a pattern change, even if it didn't hold all night."
+Mary nodded. "Two hours is real. That's two hours your children didn't hear violence."
 
-"My face says otherwise," Deborah said. Not bitterness. Precision.
+"My face says it cost me."
 
-"Your face says it cost you. That's also real. The teaching doesn't make the cost disappear. It gives you more room to move."
+"Yes. The teaching doesn't make the cost disappear, Deborah. It gives you more room to move. Not freedom. Not fairness. Room. And sometimes room is everything." She held Deborah's gaze. "You'll be back next week."
+
+"I'll be back next week." Deborah lowered her hand. "But I want you to know something. The morning after — that's the part nobody talks about. I got up before the house. Before he woke. The bread wouldn't make itself. The children needed water heated. And when he sleeps late, the house is mine." Her voice shifted — quieter, almost private. "Those mornings are the best hours of my week. Not because the night was good. Because the quiet is the space where I remember I'm a person."
+
+Nobody spoke. The fig tree moved in the wind. Eighty women on cold stone, and every one of them knew the quiet Deborah was describing.
 
 Ruth stood. She'd been working the hem of her robe into a tight spiral around her index finger. "I want to tell what happened to me."
 
@@ -2580,11 +2595,19 @@ Leah nodded once.
 
 Mary looked at the courtyard. Eighty women. Some of them crying. Most of them not.
 
+A woman in the back row — Hannah, a weaver's wife, one of the ones who didn't carry the dreams — raised her hand. Mary nodded.
+
+"I don't see the burning cities," Hannah said. "I don't dream what you dream. But when I sit in this circle and we practice together — when Ruth was telling her story just now —" She pressed her hand to her chest. "I felt something. Like being held. Like being remembered by someone I've never met." She looked embarrassed. "My grandmother used to say that God knows us before we're born. That the soul remembers what the mind forgets. Is that what this is?"
+
+The courtyard was very quiet. Mary looked at Hannah for a long time. A weaver's wife who had never seen Pi-Ramesses burning, who carried no bloodline memory, who had walked into this circle because her neighbor invited her and stayed because something in the teaching felt like coming home.
+
+"I don't know what to call it," Mary said. "But yes. That's what this is."
+
 "The teaching fails sometimes," Mary said. "I need you to hear that. What we practice here is not magic. It doesn't work on everyone. Some households cannot be turned. Some damage is too deep, or the person causing it is too far gone, or the timing is wrong, or the intervention isn't enough. Ruth's sister did everything right and it made things worse."
 
 She let that land.
 
-"If I told you it always worked, I'd be lying, and you'd stop trusting me. I'd rather you trust me with the truth: this works more often than it fails. And when it fails, we catch each other. Ruth's sister is at her mother's house tonight because Ruth knew to bring it here, and Leah has a spare room. That's the network holding. Not the intervention. The network."
+"If I told you it always worked, I'd be lying, and you'd stop trusting me. I'd rather you trust me with the truth: this works more often than it fails. And when it fails, we catch each other. Ruth's sister is at her mother's house tonight because Ruth knew to bring it here, and Leah has a spare room. That's the network holding. Not the teaching — the catching. We are not here to perfect each other. We are here to catch each other when the perfecting fails."
 
 Deborah touched her jaw again. "I'll keep trying."
 
@@ -2662,7 +2685,7 @@ Mary's throat closed. She'd told Sarah the truth about her mother's death a year
 
 Sarah's hand found Mary's hand in the dark. Small fingers threading through larger ones with the grip of a child who has learned that hands are the most reliable anchor in the world.
 
-"I won't die like that," Sarah said. "I know the grounding. Five things. I practice every night."
+"I won't die like that," Sarah said. "I know what to do. I name the blanket and the mint and the lake. I practice every night."
 
 Mary held her daughter and did not promise. Did not say *you're right, you won't.* Did not say *I'll always be here to teach you.* Because the truth was that Mary didn't know. Didn't know if the training was enough, didn't know if she'd be alive to finish it, didn't know if the thing that killed her mother at thirty-four was patience or inevitability.
 
@@ -2688,7 +2711,7 @@ And three women Mary had never met.
 
 Tabitha had nearly been caught by Roman patrols twice on the road from Antioch. Dark skin, calloused hands, a merchant's traveling cloak still dusty from the road. She'd heard about the teaching through a spice trader who supplied Mary's old network in Magdala -- the trade routes carrying information the way they'd always carried information, embedded in gossip and business correspondence and the ordinary traffic of women who talked to each other while their husbands talked to no one.
 
-Phoebe arrived from Damascus with news that women's gatherings were being watched. Younger than Tabitha, with the careful speech of someone speaking her second language. She ran a textile workshop that employed fourteen women, and she'd been teaching them pattern recognition for six months based on fragments she'd heard thirdhand from a woman who'd attended Mary's circle in Capernaum and then moved east.
+Phoebe arrived from Damascus with news that women's gatherings were being watched. Younger than Tabitha, with the careful speech of someone speaking her second language and a bruise on her collarbone she kept touching without seeming to notice — the absent gesture of a woman whose body had been paying for her decisions before her mind agreed to them. She ran a textile workshop that employed fourteen women, and she'd been teaching them pattern recognition for six months based on fragments she'd heard thirdhand from a woman who'd attended Mary's circle in Capernaum and then moved east.
 
 Only Miriam of Alexandria seemed unworried -- which worried Mary most of all. She said almost nothing. She sat with her hands folded and her eyes moving from face to face with the calm attention of someone who evaluated situations before committing to them. Mary recognized the posture. It was her own. But there was something else behind Miriam's calm — a wariness Mary recognized from her own early days. The wariness of someone who had been watched by people who weren't Roman and weren't Temple, and had learned not to mention it.
 
@@ -2734,7 +2757,7 @@ Miriam was quiet for a long time. The oil lamp on the table guttered in a draft.
 
 "Four years."
 
-Mary stared at her. Four years. Working independently, without the bloodline training, without the parables, without any connection to the network. Just women watching other women die and deciding to act.
+Mary stared at her. Four years. Working independently, without the bloodline training, without the parables, without knowing any of them at all. Just women watching other women die and deciding to act.
 
 "How did you hear about us?" Rachel asked.
 
@@ -2793,16 +2816,6 @@ The teaching would survive. Not because it was perfect. Because the women who ca
 Mary blew out the lamp and walked down the stairs into the night. Stars over Bethany, cold and precise. The road back to Capernaum would take three days. She'd walk it alone, because that was faster, and because twelve months was not enough time.
 
 It was never enough time.
-
----
-
-**END CHAPTER 7.5**
-
-**Timeline:** 32 CE, Winter (12 months before crucifixion)
-**Word Count:** ~3,100 words
-**Status:** FIRST DRAFT
-
-**Next Chapter:** Chapter 8 "The Crisis" (32 CE Winter)
 
 
 \newpage
@@ -2919,11 +2932,25 @@ Titus dropped his gaze. Generations, not months.
 
 The bronze keys came to him unbidden — two in Jesus's possession, three locked in Temple vaults, two still lost. If the Temple fell, those three were gone. Seven keys, and they were running out of hands to hold them.
 
+Simon wasn't finished. "There's something else. The family in Bethsaida — Ezra's household. Temple guards raided them last night."
+
+Titus's cup stopped halfway to his mouth. Ezra's wife had been one of Mary's first students. Their daughter was a carrier.
+
+"The daughter?"
+
+"Gone. Ezra beaten. The wife arrested for harboring seditious teachings." Simon's voice was flat. "They took the scrolls Mary had given them. Everything."
+
+The tavern noise went on around them. Dice. Laughter. Someone singing off-key. A woman had been dragged from her home for learning to read the signs of trouble, and the city hadn't noticed.
+
+"It's starting," Titus said.
+
+"It started months ago. This is the first one we know about."
+
 ---
 
 ## SCENE 3: JESUS ALONE
 
-The news reached him through Simon before Titus arrived, a runner, breathless, three words: *Execution. Passover. Official.*
+The news reached him through Simon before Titus arrived — not just three words this time but four: *Execution. Passover. Official. Bethsaida.*
 
 Jesus was in the workshop. He'd been in the workshop since dawn, fitting tenons into a tabletop for a woman in the village whose old one had split along the grain. Cedar. The smell of it was his father's smell, and his father's father's, and the smell of a workshop twelve hundred years gone where someone had tapped a bench twice and someone else had looked up.
 
@@ -2954,6 +2981,12 @@ His mother would find the plate untouched tomorrow. She would look at it and the
 The afternoon light came through the workshop door in a column of dust. He sat on the bench beside the finished table and pressed his palms against his thighs. The warmth was there, left side, beneath the ribs, where it always lived. Twelve hundred years of love pooled in his chest, reaching, reaching, and nowhere to go.
 
 A sparrow landed on the doorframe. Tilted its head. Flew away.
+
+He wanted to follow it. That was the shameful thing — the thing he wouldn't tell Simon or Mary or anyone. He wanted to walk out of this workshop, leave the table and the chisel and the teaching and the twelve-hundred-year weight of other people's love, and walk until he found a town where nobody knew his name. Rent a room. Build furniture. Eat meals he'd cooked himself and sleep through the night without dreaming of burning cities and talk to his neighbors about weather and grain prices and nothing else. Just be a carpenter. Just be ordinary. Just be a man whose left hand didn't reach for someone dead twelve centuries while he was trying to eat his mother's bread.
+
+The wanting lasted about ten seconds. Then the warmth shifted in his chest, the old reaching, and he was himself again. Whatever "himself" meant for a man who carried forty-one other selves inside him.
+
+He picked up the plate. Ate the bread. It tasted like bread.
 
 Jesus closed his eyes. Behind them, the hill. The wood. The nails. His mother's face in the crowd. Mary's face. The sound his own breathing would make when his lungs gave out.
 
@@ -3045,7 +3078,7 @@ The women dispersed slowly, exchanging glances. Mary could feel their confusion 
 
 Sarah helped the younger children sweep the sand smooth where they'd drawn their lesson, seven years old, not yet understanding why her mother couldn't finish the lesson. She arranged the stones in a neat row, red, blue, yellow, red, blue, yellow, the pattern perfect, the small hands precise, and Mary watched her daughter's fingers and thought: *Those hands will carry this after I'm gone. And I will be gone too, eventually, and she'll stand in a room like this one and lose the thread mid-sentence and wonder if she's strong enough.*
 
-The walk home was three streets. Sarah's hand in hers, small and warm. The evening air smelled of cooking fires and lake water and the sharp green edge of winter herbs — someone drying thyme on a rooftop, the scent drifting down. A fisherman's wife shook out a net from an upper window, the hemp catching the last light, and the sound of it, that soft snap, like a sail filling, reminded Mary of the afternoon Jesus had used a fishing net to explain how knowledge moves through a community. He'd held the net up and pulled one knot and shown them how every other knot shifted. *That's what you do when you teach*, he'd said. *You pull one knot. And everything connected to it moves.*
+The walk home was three streets. Sarah's hand in hers, small and warm. Neither of them spoke. They carried what had been said in the circle the way you carry water from a well — carefully, without spilling. These walks were where Mary taught Sarah everything that mattered. Not the content. The weight. How to hold it without breaking. The evening air smelled of cooking fires and lake water and the sharp green edge of winter herbs — someone drying thyme on a rooftop, the scent drifting down. A fisherman's wife shook out a net from an upper window, the hemp catching the last light, and the sound of it, that soft snap, like a sail filling, reminded Mary of the afternoon Jesus had used a fishing net to explain how knowledge moves through a community. He'd held the net up and pulled one knot and shown them how every other knot shifted. *That's what you do when you teach*, he'd said. *You pull one knot. And everything connected to it moves.*
 
 "Mama?"
 
@@ -3071,7 +3104,15 @@ Mary's chest constricted. "Yes. I was sad."
 
 "Somewhere I can't follow."
 
-Sarah absorbed this in silence. Her sandals scuffed the stone — left, right, left, the uneven rhythm of a child's walk, not yet synchronized, still finding its pace. They passed the house where old Miriam sold lentil soup from a window ledge, the steam rising into the cold air. They passed the courtyard where three boys were arguing over a wooden top, their voices high and sharp and full of the injustice only children feel about toys. They passed the well where women gathered in the morning, empty now, the rope swaying slightly in the evening wind.
+Sarah absorbed this. Four more steps. Then: "Can he bring his tools?"
+
+Mary almost laughed. Almost. "What?"
+
+"If he's going away, he should bring his tools. He's always happier when he's building something."
+
+Mary couldn't speak for a moment. "I'll tell him you said that."
+
+"Good." Sarah's sandals scuffed the stone — left, right, left, the uneven rhythm of a child's walk, not yet synchronized, still finding its pace. They passed the house where old Miriam sold lentil soup from a window ledge, the steam rising into the cold air. They passed the courtyard where three boys were arguing over a wooden top, their voices high and sharp and full of the injustice only children feel about toys. They passed the well where women gathered in the morning, empty now, the rope swaying slightly in the evening wind.
 
 "Will the friend come back?" Sarah asked.
 
@@ -3107,7 +3148,7 @@ Leah was quiet for a long time. Long enough that Mary thought she wouldn't answe
 
 Then, quietly: "You taught me to read both layers of a parable when I couldn't tell a metaphor from a meal blessing. You taught Rachel to access blood memory when she thought the visions were madness. You taught Abigail to hold a room of forty women and make every one of them feel seen." She paused. "You're afraid. That's allowed. But the work is already done, Mary. Not finished — never finished, but *planted*. In us."
 
-Rachel and Abigail had come back. They stood in the doorway — Rachel with flour still on her hands from the bread she'd been making, Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
+Rachel and Abigail had come back. Rachel with flour still on her hands from the bread she'd been making — the same Rachel who, last month, had gone to Deborah's kitchen when Deborah's face was too bad for the circle. Had sat with her and ground grain together and said nothing about the bruise. That was the teaching. Not the parables, not the systems theory, not the dual-layer encoding. Someone showing up and not looking away. Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
 
 "Then we adapt when we're wrong," Leah said quietly. "Three of us can hold both layers now. Because you taught us."
 
@@ -3122,27 +3163,6 @@ Mary looked at the three women in the doorway. Flour on Rachel's hands. Abigail'
 The lamp flame steadied. Outside, the lake continued its work against the shore, water against stone, water against stone, the same sound it had made for a thousand years and would make for a thousand more, long after every person in this room was dust.
 
 Mary closed her eyes. The fear was still there. She let it stay.
-
----
-
-**END OF CHAPTER 8**
-
-**Word Count:** ~5,450 words (expanded from ~1,744)
-**Status:** EXPANDED Phase 1 — New Scene 3 (Jesus Alone), Scene 2 (Intelligence Briefing) expanded with room detail/political calculus/Passover rationale, Scene 4 (Titus/Jesus) expanded with Titus's tactical mind/Jesus's fear moment, Scene 5 (Mary's Fear) expanded with cross vision/walk with Sarah/admission to Leah
-**Next Chapter:** Chapter 9 - Pattern Eye recovery, Jesus's full timeline vision, final encoding period
-
----
-
-**CONTINUITY NOTES:**
-- Timeline: Winter 32 CE, 12 months before Passover 33 CE crucifixion
-- Titus: Age 49, civilian status, documentation role accepted
-- Mary: Age 33, leadership role accepted despite fear, 80+ women in teaching circles
-- Jesus: Age 38, martyrdom strategy explained and accepted
-- Sarah: Age 7, Generation 43, witnessing leadership under pressure
-- Network status: 150-200 followers, distributed teaching circles planned, protection protocols initiated
-- Roman intelligence: Official execution order confirmed
-- Defensive network: Final preparation phase beginning
-- Emotional weight: Anticipatory grief, acceptance without peace, persistence despite certainty of loss
 
 
 \newpage
@@ -3181,7 +3201,7 @@ The daughter's voice, small and desperate: *So without the keys, I can't access 
 
 And Nefertari's answer, the thing Jesus had never accessed before, the understanding that changed everything:
 
-*Because perfect carriers are rare. Forty generations of unbroken bloodline, every single ancestor a carrier, no gaps in transmission, no dilution, that carrier wouldn't need keys. That carrier would BE the Protocol. Living access. Complete understanding without bronze.*
+*Because the unbroken chain is rare. Generations and generations of mothers and daughters without one missing link, without one diluted year — that one would not need bronze. That one would be the river itself, not the cup the river fills. Living water. The whole song, sung without instruments.*
 
 *Has that ever happened?*
 
@@ -3191,7 +3211,7 @@ Jesus opened his eyes.
 
 His breath was ragged, his tunic soaked through with sweat despite the cold. His hands had locked around the bronze so tightly that the geometric edges had pressed grooves into his palms, shallow trenches that would hold the pattern for hours, as if the disc had been trying to write itself into his skin.
 
-He counted backward. Forty-one generations. From Nefertari's daughter to his mother. From his mother to him. Every single one documented in the genealogies the defensive network had preserved across twelve centuries. Every single one a carrier. No breaks. No gaps. No generation where the chain failed or thinned.
+He counted backward. Mother to mother to mother, all the way to a workshop in a city the world had forgotten. He could feel them now, the way you feel a long line of hands that have all held the same rope. Every one of them had carried it. Every one of them had passed it forward without dropping it. No breaks. No gaps. No place where the chain failed or thinned.
 
 He was the thing she'd theorized and never expected to exist.
 
@@ -3203,7 +3223,9 @@ And with the understanding came the cost. Because the chain was unbroken, and th
 
 A woman hiding in a grain jar while boots passed overhead, the smell of barley dust in the dark, the sound of her own breathing too loud in the clay vessel, the cramp in her thighs from folding herself small enough to fit.
 
-Forty-one lifetimes of being hunted. And every one of them had happened to *him*, was happening to him, right now, in this cold room above a Galilean fishing village. Not remembered. Experienced. He could feel the grain dust in his lungs and the boots overhead and a thousand other terrors layered on top of each other like transparencies, each one sharp and specific and unbearable.
+But then — a different kind of memory. A man teaching his daughter to mix pigment in a courtyard filled with morning light, both of them laughing because the blue kept coming out green, and her hands were stained and his beard was stained and neither of them cared. Twenty generations back. A single afternoon when nobody was hunting anyone and the knowledge was just a father showing his daughter how color worked. The ordinariness of it — the laughter, the ruined pigment, the blue-green hands — hurt worse than the grain jar. Because this was what the chain was FOR. This was what they'd been protecting.
+
+Forty-one lifetimes of being hunted. And moments like this scattered between the terrors, fragile and ordinary, the reason anyone had bothered to survive at all. And every one of them had happened to *him*, was happening to him, right now, in this cold room above a Galilean fishing village. Not remembered. Experienced. He could feel the grain dust in his lungs and the boots overhead and a thousand other terrors layered on top of each other like transparencies, each one sharp and specific and unbearable.
 
 He couldn't feel his fingers.
 
@@ -3275,13 +3297,13 @@ He set the keys down carefully, as if they might break, though nothing about the
 
 "I need to attempt full integration. Qumran. The caves."
 
-Helena nodded. "The Essene elders are expecting you. I sent word last week." She'd been sure he'd say yes. That bothered Mary more than the keys themselves, the way the network had anticipated his choice before he'd made it, had arranged the path before he'd decided to walk it.
+Helena nodded. "The Essene elders are expecting you. I sent word last week." She'd been sure he'd say yes. That bothered Mary more than the keys themselves, the way the families had anticipated his choice before he'd made it, had arranged the path before he'd decided to walk it.
 
 After Helena left to rest in the room they'd prepared, and Mary had watched her lie down still dressed, still dusty, her hands finally empty and curling against her chest as if they didn't know what to do without the bronze — Mary turned to Jesus.
 
-"You didn't tell her about keyless access."
+"You didn't tell her you can do this without the bronze."
 
-"She brought me keys nine months before my execution. That's not rescue." Jesus sat down heavily. His voice was quiet, more tired than angry. "That's squeezing the last teaching out of me before they let me die. I need to know if this helps me teach, or just makes me more threatening so they accelerate the timeline."
+"She walked six days to bring me something I need less than she thinks." Jesus sat down heavily. "I'm not ungrateful. But I need to know if this sharpens the teaching, or just makes me more visible to the people who want me dead."
 
 "Then don't attempt it."
 
@@ -3379,29 +3401,33 @@ The razor's edge. Teach enough to preserve the knowledge. Not so clearly that th
 
 Three weeks after Qumran. Jesus taught in the natural amphitheater above Capernaum, and eight thousand came.
 
-The crowd's heat rose off the hillside in waves, bodies packed shoulder to shoulder, children on fathers' necks, the smell of sweat and dust and roasting barley from the vendors at the edges. A woman near Mary fanned herself with a palm frond. Somewhere a baby wailed and was hushed. Flies buzzed over a donkey's flank at the edge of the crowd. The lake glittered below, flat and silver, and fishing boats sat motionless at their moorings as if even the water had stopped to listen.
+"A farmer went out to sow seeds," he began, and the crowd froze. Eight thousand people and you could hear the grass moving.
 
-"A farmer went out to sow seeds," Jesus began, and the crowd froze. Eight thousand people and you could hear the grass moving. "Some fell on the path, and birds ate them. Some fell on rocky ground. Sprouted fast but withered when the sun got hot, because the roots couldn't go deep. Some fell among thorns, and thorns choked them. But some fell on good soil and produced grain — thirty, sixty, a hundred times what was sown."
+Mary had heard this parable before. But today something had changed in the way Jesus spoke it. The surface story peeled back and she could see the architecture underneath. Each word placed the way a mason places stone: not for beauty but for weight-bearing.
 
-His voice carried the way it always did in these amphitheaters, the hillside catching it, holding it, sending it outward, but there was something different now. A precision beneath the simplicity. Each word placed the way a mason places stone: not for beauty but for weight-bearing. The parable's surface was a farming story. Underneath, for those who carried the blood, it was a map. How to plant knowledge in people who would preserve it. How to recognize which ground would hold and which would lose the seed. How to accept that most of what you taught would be lost, and teach anyway, because the fraction that took root would produce a hundred times what was sown.
+Then he saw the Temple scribe.
+
+Third row, left side. Stylus moving on a wax tablet. Not a disciple — the posture was wrong, the attention too focused, too hungry. A man taking notes for someone else.
+
+Jesus's voice changed. Mid-sentence. Mary watched it happen — a carpenter testing a joint and finding it too tight, too precise, too clearly engineered. He roughened the edge. Repeated a line he'd already delivered, as if he'd lost his place. Added a tangent about mustard seeds that muddied the parable's clarity. Smiled at a child in the front row and let the crowd laugh, breaking the spell of the deeper teaching.
+
+The scribe's stylus slowed. Good. Let him write down a rambling story about farming. Let the report say *unfocused, repetitive, popular but intellectually incoherent.* Let Rome underestimate what eight thousand people had just been given.
+
+Mary's hands clenched in her lap. She'd watched him do this before — blunt his own blade, dull his own edge, because precision drew the same attention that killed prophets. The cost was visible only to her: a flash of frustration across his face, quickly sealed, the expression of a craftsman deliberately producing imperfect work because perfect work would get him killed faster.
 
 Sarah pressed closer to Mary's side, her small hand clutching Mary's robe. Her eyes were wide with understanding that she dared not voice aloud.
 
-Mary's breath caught. She looked down at her daughter — seven years old, bare feet dusty from the hillside, a smear of barley cake on her chin. Seven years old, and she could hear it. Could hear the layer beneath the words, the structure beneath the story. Generation forty-three, and the blood was strong in her.
+Mary's breath caught. Seven years old, bare feet dusty from the hillside, a smear of barley cake on her chin — and she could hear it. Generation forty-three. The man in the alley outside Rachel's courtyard flashed through Mary's mind. Someone was watching her daughter. And her daughter was announcing herself to anyone paying attention.
 
-Pride hit first. Then terror. Because if Sarah could hear both layers at seven, she would carry this. Would carry it the way Mary carried it, the way Jesus carried it — the understanding and the weight and the target it painted on your back. Sarah would grow up knowing things that got people killed.
+"He's teaching you how," Mary whispered. "But Sarah — don't let anyone see that you understand. Not yet."
 
-"Yes," Mary said. Her voice was steady. Her hands were not. "He's teaching you how. Watch. Listen."
+Sarah looked up at her mother. Something old moved behind her eyes — the look of a child who has just learned that knowing things is dangerous. She turned back to the hillside and arranged her face into the blank attention of someone who heard only a story about seeds.
 
-Sarah turned back to the hillside, her small face intent. Mary watched her daughter listen and felt two things at once: the fierce pride of a mother watching her child step into her inheritance, and the cold specific fear of a mother who knew exactly what that inheritance cost. Both feelings lived in her chest simultaneously, pressing against each other, neither one winning.
-
-The teaching lasted three hours. Jesus moved from the sower to the mustard seed to the yeast in the flour — each parable nested inside the last, each one a door that opened onto the next for those who could see the hinges. Mary watched the crowd. Watched who leaned forward and who leaned back. Watched the old woman in the third row press her hand to her left side during the mustard seed parable, the same gesture Mary had seen in the Preface crowd — the warmth reaching people it shouldn't have been able to reach, finding its way past bloodline and into the human underneath.
-
-When it ended, the crowd dispersed slowly. People helping each other down the hillside. A man carrying his sleeping child. Two women walking arm in arm, talking in low voices about what they'd heard, trying to hold it in words while the wordless part slipped away from them like water through fingers.
+The teaching lasted three hours. When it ended, the crowd dispersed slowly — people helping each other down the hillside, a man carrying his sleeping child, two women walking arm in arm.
 
 That evening, the hillside quiet except for crickets and the distant lap of the lake, Mary and Jesus sat on warm stone and watched the last light drain from the sky. The air smelled of thyme from the hillside and smoke from the cooking fires below. Mary's legs ached from standing all day. Sarah had fallen asleep on the walk back and Leah had carried her home — seven years old and wrung out from three hours of listening with her whole body.
 
-"This is working," Mary said. "Two-key clarity is sufficient."
+"This is working," Mary said. "Whatever the keys did, it's enough."
 
 "For those who carry the blood." Jesus was pulling apart a piece of bread but not eating it. Tearing it into smaller and smaller pieces, the way he did when his hands needed to move while his mind was somewhere else. "But I watched thousands understand the surface and miss the depth entirely. The parable lands. The meaning underneath it doesn't."
 
@@ -3413,9 +3439,27 @@ Mary didn't answer. Because the other possibility — that the meaning would be 
 
 She looked at his hands. The bread he'd shredded lay in a pile of crumbs between them, torn past the point of eating. His fingers were still working — pulling at nothing now, pinching air, the restless motion of a man who needed to be making something and couldn't sit still with the knowledge that what he was making might not survive him.
 
-"Sarah heard both layers today," she said.
+A small shape appeared from the darkness, blanket wrapped around her shoulders, eyes half-closed. "I'm thirsty."
 
-His hands stopped. He looked at her.
+Mary poured water from the skin. Sarah drank, wiped her mouth with the back of her hand, and looked at the two adults sitting on stone in the dark.
+
+"Are you still talking about seeds?"
+
+"Yes," Jesus said.
+
+"They're not really about seeds."
+
+"No."
+
+Sarah nodded, unsurprised. "The one about the pearl is really about Mama." She handed back the cup and walked back toward the house.
+
+Jesus and Mary sat in the silence Sarah left behind.
+
+"She's not wrong," Jesus said eventually.
+
+"I know." Mary pressed her hands against the warm stone. "That's what terrifies me."
+
+His hands stopped moving. He looked at her.
 
 "She told me during the sower parable. 'Mama, the stories have two meanings.' Seven years old."
 
@@ -3439,25 +3483,41 @@ Below them, Capernaum's lamps flickered on one by one. Nine months. And the Temp
 
 ---
 
-**END OF CHAPTER 9**
+The next morning, Mary argued with a fish vendor.
 
-**Word Count:** ~6,060 words (expanded from ~2,085)
-**Status:** EXPANDED Phase 1 — Scene 1 immersive dawn treatment with sensory grounding and 41-generation realization. Scene 2 Helena arrival with blistered hands, Mary measuring exchange, Alexandria community detail. Scene 3 Qumran cave trauma cascade slowed with three specific ancestors (Miriam/dry well, Tobias/children dragged, Rebekah/burning village) plus Nefertari workshop. Added desert night physical warmth moment. Scene 5 expanded with Sarah hearing both layers (pride/terror), Mary-Jesus quiet hillside evening with near-touching warmth.
-**Next Chapter:** Chapter 10 - The Decision
+"Three denarii for tilapia this size? I could get this in Magdala for one and a half."
 
----
+"You're not in Magdala."
 
-**Continuity Notes for Next Session:**
-- Jesus has achieved two-key clarity — can teach with precision but must perform weakness to avoid timeline acceleration
-- Helena of Alexandria delivered two bronze keys (blistered hands, six-day journey)
-- Temple (Caiaphas) moved their three keys to secured vault, aware of Qumran trip
-- Titus warns: arrest within weeks if full strength is demonstrated
-- Jesus performing strategic ambiguity — teaching deeply but leaving rough edges
-- Sarah (age 7, Generation 43) can already hear both layers of the parables
-- Mary is awake to the cost of Sarah's inheritance
-- Physical warmth between Mary and Jesus established (arm touch, near-touching hands on stone) — partnership, love, impending loss
-- Nine months to Passover. Teaching multiplication underway. Eight thousand at hillside teaching.
-- Pattern Eye grooves pressed into Jesus's palms — motif of the bronze writing itself into his body
+"I'm aware. That's why I'm arguing with you instead of buying from someone competent."
+
+Jesus sat on the low wall beside the market road, watching this exchange with the expression of a man who had seen the collapse of empires in his sleep but had never successfully negotiated a fish price. Sarah sat beside him, swinging her legs.
+
+"Mama always wins," Sarah said.
+
+"I know."
+
+"She says it's because she counts faster than the seller."
+
+"She's right."
+
+Sarah considered this. "Can you count fast?"
+
+"No. I'm a carpenter. We measure things. It's different."
+
+"How?"
+
+"Measuring is making sure something fits. Counting is making sure you're not being cheated." He watched Mary accept two fish for two denarii, the vendor's face suggesting he'd been outmatched by a professional. "Your mother is very good at not being cheated."
+
+Mary walked back with the fish wrapped in cloth. "Two denarii."
+
+"That seems fair," Jesus said.
+
+"It's a robbery. But this is Capernaum."
+
+They walked home. Sarah between them, holding both their hands, skipping every third step. The evening air smelled of cooking fires and the lake. Ordinary. Unbearable, if you knew what was coming. But they didn't talk about what was coming. They talked about the fish, and whether Anna would lend her good cooking pot, and whether Sarah could stay up late enough to see the stars come out.
+
+Later, Mary would remember this walk. Not the teachings, not the parables, not the moment on the hillside when forty people wept together. This walk. The fish. Sarah skipping. The weight of his hand in hers and the way his thumb moved against her knuckle — a gesture so small and so human that it had no place in a story about saving civilization, and was therefore the most important thing that ever happened.
 
 
 \newpage
@@ -3530,7 +3590,7 @@ The room was quiet. Somewhere below, the child who'd been laughing was crying no
 
 Titus stood. His knee cracked, loud in the still room. He paused at the door. Looked back. The morning light had reached the window now, pale gold falling across the flagstones, and in it Titus's face held something Jesus had never seen there before: not grief, but the anguish of a man who writes history and knows he cannot change it.
 
-"I'll document your refusal. Make sure the network understands your reasoning even if they disagree."
+"I'll document your refusal. Make sure the families understand your reasoning even if they disagree."
 
 "Thank you."
 
@@ -3598,7 +3658,7 @@ Mary wanted to scream at how simply the girl reduced it. At the way a seven-year
 
 The first stars appeared over the lake. One, then three, then a scatter across the eastern sky like someone had flicked water from their fingers against dark cloth. The air cooled. Sarah had fallen asleep against Mary's side, her small body radiating heat against Mary's ribs, her breathing gone slow and deep, the absolute surrender of a child who falls asleep wherever safety is.
 
-Mary looked at the girl's face in the failing light, the lashes against her cheek, the small mouth slightly open, the untroubled architecture of a face that didn't yet carry the weight it would carry. Generation 43. Seven years old and already hearing patterns in her dreams that her mother had needed three years of training to access. What would this child become? What would the teaching look like in her hands, in her daughter's hands, in the hands of whoever came after?
+Mary looked at the girl's face in the failing light, the lashes against her cheek, the small mouth slightly open, the untroubled architecture of a face that didn't yet carry the weight it would carry. Seven years old and already hearing the old patterns in her dreams — patterns her mother had needed three years of waking work to learn to hold. What would this child become? What would the teaching look like in her hands, in her daughter's hands, in the hands of whoever came after?
 
 Mary would never know. That was the thing about generational work. You planted what you planted and you died and the harvest was someone else's.
 
@@ -3634,7 +3694,7 @@ He'd rehearsed this conversation since Jericho. Jesus could see it in the way Ju
 
 "I have a plan," he said.
 
-Jesus was alone. He'd sent the others to prepare the northern routes, the Damascus road, the safe houses, the network that would carry Mary and Sarah to safety after everything fell. The upper room was quiet. Afternoon light through the window. The Pattern Eye on the table where he'd left it that morning, its bronze surface catching the sun.
+Jesus was alone. He'd sent the others to prepare the northern routes, the Damascus road, the safe houses — every hand that would carry Mary and Sarah to safety after everything fell. The upper room was quiet. Afternoon light through the window. The Pattern Eye on the table where he'd left it that morning, its bronze surface catching the sun.
 
 "Sit down, Judas."
 
@@ -3758,13 +3818,17 @@ He pressed his forehead to the dirt. The garden was very quiet. An olive leaf fe
 
 The workshop in Nazareth. It came to him whole. Not through blood memory but through his own: the packed-earth floor, the smell of cedar shavings and the deeper smell of olive wood that lingered in the walls, the adze and the bow drill and the lead plumb line hanging from pegs his father had driven before he died. The half-finished yoke always clamped to the bench because there was always a yoke to finish. Sawdust in the lines of his palms. The specific sound of a plane on cypress — long, rasping, hypnotic. The sound of making.
 
-He would never finish another yoke. Never plane another board. Never stand at that bench in the morning light with sawdust in his hair and the ordinary satisfaction of shaping wood into something useful.
+He would never finish another yoke. Never plane another board. Never stand at that bench in the morning light with sawdust in his hair and the ordinary satisfaction of shaping wood into something useful. The way we are loved in the ordinary hours — the plate on the ledge, the song in the kitchen, the sawdust swept and swept again — that is the truest record of who we were. Not the teaching. Not the miracles. The bread his mother left without knocking.
 
 The warmth beneath his ribs shifted. Reached. His left hand opened against the dirt — fingers spreading the way they always spread in the night, searching for a hand that had been empty for twelve hundred years. The ghost touch. The phantom architecture of someone who wasn't there, who had never been there, who had been dead since before the first Temple was built. And yet his hand knew the shape. Knew the temperature. Knew exactly how the fingers should thread together, where the calluses met, the pressure that meant *I'm here*.
 
 He held his hand open against the cold ground and felt the reaching and let it reach.
 
-This was what he was dying for. Not the teaching, not the methodology, not the strategy of martyrdom that looked so clean on a military man's wax tablets. This. The warmth. The love that had traveled twelve hundred years through blood and bone and would not stop traveling, could not be stopped, had survived the collapse of empires and the burning of cities and the death of every person who'd carried it and was going to survive him too.
+This was what he was dying for. Not the teaching, not the methodology, not the strategy of martyrdom that looked so clean on a military man's wax tablets. This. The warmth. The love that had traveled twelve hundred years and would not stop traveling, could not be stopped, had survived the collapse of empires and the burning of cities and the death of every person who'd carried it and was going to survive him too.
+
+And in that moment, face in the dirt, hand open against the cold ground, he let himself wonder the thing he'd never said aloud to anyone: what if the blood was just how he understood it? What if the warmth was bigger than inheritance, bigger than genetics, bigger than forty-one generations of one family? The hillside had proved it — forty people with no bloodline connection, weeping with the same love. What if the blood was just the door he'd walked through, and the room on the other side had no walls?
+
+He didn't know. A man kneeling in a garden three weeks from his own execution was allowed to not know.
 
 The love that chose them.
 
@@ -3783,28 +3847,6 @@ He would let them.
 The strategy hadn't required it. Blood memory hadn't shown him it would work. Titus was right about reasons mattering.
 
 Because the love was worth it. Had always been worth it. And three weeks was enough to say so.
-
----
-
-**END OF CHAPTER 10**
-
-**Word Count:** ~5,500 words (expanded from ~1,269)
-**Status:** REVISED Phase 1 — Scene 1 expanded (Titus's arrival grounded, blood memory crucifixion flash, Jesus eating bread because body needs fuel), Scene 2 major expansion (hillside sensory immersion, "Are you afraid?" / "Terrified", after Sarah sleeps — hands on warm stone not touching, the reaching), Scene 3 expanded (Judas's rehearsed pitch, scarred knuckles, identity crisis, goodbye), NEW Scene 4 (Gethsemane reckoning — garden, blood memory of ancestors who died, mother's face, Nazareth workshop, warmth reaching into empty air)
-**Next Chapter:** Chapter 11 - The Betrayal
-
----
-
-**Continuity Notes for Next Session:**
-- Jesus has refused Helena's extraction offer (communicated via Titus)
-- Titus documented the refusal, returned to Jerusalem
-- Mary knows about the refusal, had hillside conversation with Jesus and Sarah
-- Judas arrived with rescue plan, learned his network is compromised, left determined to attempt rescue anyway
-- Jesus has privately reckoned with his death in the garden (Gethsemane parallel)
-- Three weeks remain before Passover arrest
-- Pattern Eye remains with Jesus (will transfer to Mary before arrest)
-- Sarah is with Mary in Capernaum, will need to be sent north before Passover
-- Helena's involuntary extraction threat still active — Jesus plans to stay too public for clean extraction
-- Key emotional beats established: Jesus's terror beneath resolve, Mary's hand on stone, Judas's identity crisis, the reaching
 
 
 \newpage
@@ -3835,7 +3877,7 @@ Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full c
 
 They did.
 
-The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Titus recognized. The rescue team.
+Simon's people were scattered through the crowd. Simon himself at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Titus recognized. The rescue team.
 
 They were preparing to fail. Titus had seen the other side's positioning yesterday, extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
 
@@ -3913,9 +3955,17 @@ Jesus poured wine, the cup making rounds. Heavy clay, chipped at the rim. His fi
 
 "This cup is the new covenant in my blood," he said. "Drink from it, all of you."
 
-The cup reached Sarah. She drank carefully, both hands wrapped around it, her fingers not quite meeting around the clay. She watched the adults' faces over the rim the way she watched everything. Not with a child's inattention but with something older and steadier, the look of someone learning what faces do when they're frightened. Her eyes moved from Peter's rigid jaw to Thomas's drawn brow to Judas's careful blankness, and what she saw there she stored the way her mother had taught her to store things: without judgment, without interpretation. Just the seeing. Just the holding.
+The cup reached Sarah. She drank carefully, both hands wrapped around it, her fingers not quite meeting around the clay. Children feel what adults hide — the fear in that room had changed the quality of the air, a thinning, a brightness that was not light but attention sharpening to a point. Sarah could feel it. She watched the adults' faces over the rim the way she watched everything. Not with a child's inattention but with something older and steadier, the look of someone learning what faces do when they're frightened. Her eyes moved from Peter's rigid jaw to Thomas's drawn brow to Judas's careful blankness, and what she saw there she stored the way her mother had taught her to store things: without judgment, without interpretation. Just the seeing. Just the holding.
 
-The wine left a dark line on her upper lip. Mary wiped it away with her thumb. Sarah caught her mother's hand and held it against her cheek for a moment — a gesture so small and so private that no one else at the table noticed it. But Jesus did. And the sight of it — a mother's hand on a child's face, the oldest tenderness, the simplest love — nearly broke him in a way the prospect of crucifixion had not. He looked away. Swallowed. Continued.
+She tugged Mary's sleeve and whispered, loud enough for Jesus to hear: "Peter is crying into the bread."
+
+"Shh."
+
+"But it's making the bread wet."
+
+Mary pressed her lips together. Jesus caught her eye across the table and for one instant his composure cracked — not grief, not fear, but the helpless almost-laugh of a man undone by a child's literalness at the worst possible moment. He looked away before anyone else saw it.
+
+The wine left a dark line on Sarah's upper lip. Mary wiped it away with her thumb. Sarah caught her mother's hand and held it against her cheek for a moment — a gesture so small and so private that no one else at the table noticed it. But Jesus did. And the sight of it — a mother's hand on a child's face, the oldest tenderness, the simplest love — nearly broke him in a way the prospect of crucifixion had not. He looked away. Swallowed. Continued.
 
 "But understand this." Jesus set down the cup. "The one who will hand me over is here at this table."
 
@@ -3991,41 +4041,27 @@ Then the door burst open.
 
 *Judas POV*
 
-The plan was perfect. Judas had done this before, seven successful rescues in his twelve years with the network. Create chaos. Use the confusion. Pull the man out during the violence.
+The plan was perfect. Judas had done this seven times before. He knew the steps the way his hands knew rope.
 
-Twenty guards bribed. Half the Temple force. They would "arrest" Jesus, create confrontation with the Roman soldiers, and in the chaos Judas would substitute a volunteer who resembled Jesus. The real carrier would escape through the Damascus route Simon had prepared.
+But walking through the garden toward the torchlight, his legs felt wrong. Not fear — he'd run rescues through Roman checkpoints, through burning buildings, through a border crossing with three carriers hidden in grain sacks. He knew fear. This was different. This was the knowledge that Jesus had looked at him across the table an hour ago and known. Known the plan, known it would fail, known Judas would try anyway. And had let him go.
 
-It had worked every time before.
+"The one I greet with a kiss is the man," Judas told the guards.
 
-He led the Temple guards and Roman soldiers toward the upper room, playing his role. The Temple thought he was betraying Jesus. The network knew he was carrying out a rescue.
+Jesus emerged from the upper room. Their eyes met in the torchlight.
 
-Everything proceeding as planned.
+"Greetings, Rabbi." He kissed Jesus on the cheek.
 
-"The one I greet with a kiss is the man," Judas said to the guards. The signal. The bribed guards would recognize it, move to create the opening.
-
-Jesus emerged from the upper room, disciples behind him. Mary and Sarah already moving toward the planned escape route — good.
-
-Judas approached, committed to the role. "Greetings, Rabbi." He kissed Jesus on the cheek.
-
-Signal given.
-
-Bribed guards should move now. Create confusion. Begin the rescue.
-
-Instead, different guards moved. Ones Judas didn't recognize. His chest went cold. Extra forces: a dozen men stepping from the shadows of the adjacent buildings, swords already drawn. Where did they come from?
-
-His bribed guards hesitated. Looked at each other. Looked at the new men.
-
-The ground shifted under Judas's feet. Not literally. But something that had been solid, the plan, the certainty, twelve years of knowing how this worked, cracked and fell away.
+The bribed guards should have moved. They didn't. Instead — different men. Ones Judas had never seen. A dozen stepping from the shadows with swords already drawn. His bribed guards looked at each other, looked at the new men, and understood the same thing Judas understood: someone had known about the plan before Judas had made it.
 
 "Judas." Jesus's voice, quiet. "Would you betray the Son of Man with a kiss?"
 
-No anger. That was the worst part. Just the steady sadness of a man who'd known this would happen and let him try anyway.
+No anger. Just the steady sadness of a man who'd known this would happen and let him try anyway. And in that sadness Judas heard what he hadn't heard at the table: not disappointment but gratitude. *Thank you for trying. I'm sorry it was never going to work.*
 
 "Friend, do what you came to do," Jesus said.
 
 Unbribed guards, Malchus leading them, Caiaphas's men, moved to arrest Jesus. The rescue already failing.
 
-Peter drew his hidden dagger. No. That wasn't the plan. Defensive network didn't use violence except as last resort and this wasn't —
+Peter drew his hidden dagger. No. That wasn't the plan. They'd sworn — every one of them, in every safe house, in every late-night briefing — that they did not draw blood except to keep someone alive, and this wasn't —
 
 Peter swung wildly, striking Malchus. The blade caught the guard's ear, severing it partially. Blood. Screaming. The chaos they'd wanted but wrong kind. Uncontrolled. Dangerous.
 
@@ -4161,7 +4197,7 @@ The city was waking around him. Bakers opening shutters, the smell of fresh brea
 
 Judas walked through the ordinariness of it and felt the distance between the world and himself widening with each step, the way the distance widens between a boat and the shore when the current takes you. Not fast, not violent, just the steady unreturnable drift of someone who has been cut loose from everything that held him.
 
-Twelve years with the network. Seven men and women pulled from the jaws of arrest. He'd been good at this. He'd been the one they called when a carrier was in danger, the one who could look at a room and see the exits, the one whose hands didn't shake when he handled bribes or forged documents or talked guards into looking the other way. Seven rescues. Seven people alive because of him.
+Twelve years doing this work. Seven men and women pulled from the jaws of arrest. He'd been good at this. He'd been the one they called when one of their own was in danger, the one who could look at a room and see the exits, the one whose hands didn't shake when he handled bribes or forged documents or talked guards into looking the other way. Seven rescues. Seven people alive because of him.
 
 And tonight he'd failed the one that mattered most.
 
@@ -4223,11 +4259,13 @@ He sat on a stone beneath the tree, within arm's reach of Judas's hanging feet, 
 
 Titus had sat with the dead before. Beside men whose names he'd known and whose faces he'd forgotten and whose deaths he carried in his body the way soldiers carry all their dead. Not in memory but in the shoulders, in the jaw, in the way you hold yourself upright when the weight wants to pull you down.
 
-He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas at network meetings, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Titus had ever observed, a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
+He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas in planning sessions, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Titus had ever observed, a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
 
 That was the Judas who hung from this tree. Not a traitor. A rescuer who ran out of people to save, starting with himself.
 
-Titus wrote that down too.
+Titus sat with him. Two minutes. The exact amount of time a man could sit with a dead friend before the sitting became something it should not become. He catalogued Judas in memory, not as the world would remember him but as he was: a man resting between missions, face tilted toward the sun, the tension gone from his jaw. The only time Titus had seen him at peace.
+
+He wrote that down too.
 
 Then he stood. Wiped his stylus on his cloak. Tucked the tablets away.
 
@@ -4390,6 +4428,8 @@ This was how crucifixion killed. Not the nails. Not the blood loss. It drowned y
 
 And still Jesus's left hand moved against the nail, fingers spreading, reaching left across the crossbeam toward nothing, the gesture of a man whose body remembered a love older than his own life.
 
+Mary saw it. She was the only one who knew what the hand was doing. The soldiers saw a man's fingers twitching against iron. Titus saw a detail to document. But Mary knew. She knew because her own hand did the same thing in the dark — reaching left, searching, the body's oldest habit. She watched his fingers spread and close and spread again and she understood that even now, even nailed to wood, his body was looking for the hand it had been missing for twelve hundred years.
+
 Before the crucifixion, they'd offered wine mixed with myrrh, painkiller. Jesus had refused.
 
 At the base of the cross, the soldiers settled into the long wait. Four men with a job to do and hours before it was done. One spread Jesus's outer garment on the ground and sat on it. Another produced dice, carved bone, small enough to cup in one hand. They gambled for Jesus's cloak, the seamless inner garment that was worth more than the rest of his clothes combined.
@@ -4450,6 +4490,8 @@ Through the darkness, figures. John first. Several women behind him. Jesus's mot
 
 She walked ahead of the others. The expression on her face was one Titus had seen on battlefield surgeons — someone who had decided to see everything and forget nothing. She positioned herself close enough to the cross that the soldiers glanced at her. Something in her stillness made them look away.
 
+Standing there was not courage. She knew that. Courage was what Peter needed and couldn't find. This was simpler. She could not hold his hands. So she held him with her eyes. It was the last thing she could give, and she would not look away from giving it.
+
 Jesus pushed up. Breathed. Spoke.
 
 "Woman —" to his mother — "behold your son."
@@ -4460,7 +4502,7 @@ Then he looked at Mary Magdalene. She held his gaze the way you hold someone's h
 
 Five years. Five years of partnership that had no name the world would recognize. Not marriage, not discipleship, not friendship, though it contained all three. Five years of teaching together, traveling together, building something together that would outlast them both. She had argued with him about the women's circle, about the parables, about whether his death would accomplish what he believed it would. She had told him he was wrong about the timing and right about the method and impossible to reason with when he'd already decided. She had watched him teach eight thousand people on a hillside and felt the warmth pour out of him and known that he was burning through something that couldn't be replenished. She had held his hand once, on a hillside above Capernaum at sunset, and felt in his fingers the same reaching she felt in her own — two people who carried twelve hundred years of someone else's love and had somehow, without meaning to, added their own to it.
 
-All of this passed between them now. Not in words. In the silence of two people who had run out of time to say what they meant and discovered that they had never needed words for it anyway.
+All of this passed between them now. Not in words. In the silence of two people who had run out of time to say what they meant and discovered that they had never needed words for it anyway. Titus watched from thirty paces and knew he was witnessing something he could document but never understand — like reading a military report filed by a man who'd stood where you stood but faced the other direction. The positions correct. The distances correct. But the thing they were looking at invisible to anyone outside it.
 
 Rain came.
 
@@ -4494,17 +4536,23 @@ Darkness for three hours that felt like seasons. The wind carrying grit from the
 
 The blood memory came as his body failed. Something older than the visions he'd trained himself to access. Simpler.
 
-Nefertari's hand on a workbench. The smell of cassia. A single tap that meant *look at this*.
+Not the collapses. Not the burning cities or the hiding or the running. The other thing. The thing underneath all of it. The reason any of them had bothered to survive.
+
+A workshop in Pi-Ramesses. Late afternoon. Copper light through the doorway. A man standing at a bench, his back to the door, grinding something in a stone mortar. A woman entering behind him. She says a word — a technical term for a pigment compound — and mispronounces it badly, the accent of a physician learning a craftsman's vocabulary. The man turns. He doesn't correct her. He laughs. Not at her — with her. And she laughs too, and the laugh changes something in the room, or the room was always this way and the laugh just made it visible: two people in a space built for work who have discovered that work is better together.
+
+She reaches for the mortar to try again. Her hand lands on his. Neither of them moves. The copper light holds them. The mispronounced word hangs in the air between them. And in that silence, twelve hundred years of love begins — not with a declaration, not with a vow, but with a wrong word and a laugh and a hand that found another hand and didn't let go.
+
+That was all it had ever been. An ordinary moment between two ordinary people. And it was enough. It was enough to survive the collapse of civilizations, the burning of libraries, the death of every person who'd carried it forward. Enough to reach a carpenter on a cross twelve centuries later and hold him while he died.
 
 His mother singing to him as a child. Wood shavings on the workshop floor.
 
-Mary Magdalene's voice the first time she said his name. Not as a teacher, but as a person she trusted.
+Mary Magdalene's voice the first time she said his name.
 
-Sarah's small hand arranging shells in patterns on a dock.
+Sarah's small hand arranging shells on a dock.
 
 Just the people he loved, arriving to carry him home.
 
-He couldn't feel his hands anymore. His chest barely moved. Something warm and dark was pulling him down, and it wasn't the blood. It was the weight of forty-one generations finally letting go.
+He couldn't feel his hands anymore. His chest barely moved. Something warm was pulling him down, and it wasn't the blood. It was the weight of forty-one generations finally letting go.
 
 He opened his eyes one more time. Found Mary Magdalene's face in the crowd below. Still watching. Still holding him.
 
@@ -4558,6 +4606,8 @@ Women followed. Jesus's mother, leaning on John. Mary Magdalene walking alone, h
 
 They laid him down. Joseph and Nicodemus packed the spices around the linen. Four men rolled the massive stone across the entrance.
 
+That night Titus sat in a borrowed room and tried to recopy his notes. Six hours of writing in rain had left the stylus marks barely readable — the wax softened and re-hardened into a surface his own hand couldn't decipher. His fingers had cramped into the shape of holding the stylus and he had to pry them open, one by one, the joints protesting like old wood. The discipline at the cross had not been strength. It had been the last wall between himself and a sound he would have made that would not have stopped.
+
 Temple guards arrived within the hour. Caiaphas's orders: six men posted to watch a dead man's tomb. They looked embarrassed. They'd get over it.
 
 Titus left as darkness fell. Sabbath beginning. The air smelled of wet stone and the last smoke from the extinguished torches on Golgotha.
@@ -4588,7 +4638,7 @@ She pressed her palm flat against the stone. Cold. Not the living cold of water 
 
 She couldn't, of course. The stone was two feet thick and sealed and six men with swords stood between her and the body of the person she knew best in the world. But her palm stayed. Fingers spread. The cold seeping into her skin, up through her wrist, settling into the bones of her arm like a second grief — physical this time, the body's own mourning, separate from the mind's.
 
-She stood there and let the memories come. She let the teaching sessions go, the parables, the crowds, the arguments about methodology. Those memories belonged to the movement, to the network, to the future that would take them and reshape them into something she might not recognize. The memories surfacing now were smaller. Hers.
+She stood there and let the memories come. She let the teaching sessions go, the parables, the crowds, the arguments about methodology. Those memories belonged to the movement, to the future that would take them and reshape them into something she might not recognize. The memories surfacing now were smaller. Hers.
 
 Jesus laughing at Sarah's mispronunciation of *Capernaum*. She'd said *Carpernicum*, with absolute seven-year-old confidence, and Jesus's face had broken open, the laugh sudden and helpless, and he'd said through it, "That's actually more accurate. The Romans would agree with you." Sarah beaming, not understanding the joke, understanding only that she'd made him laugh, which was better than understanding anything.
 
@@ -4617,7 +4667,7 @@ She waited for the third day.
 
 \newpage
 
-# CHAPTER 12B - THE VIGIL {#chapter-12b}
+# INTERLUDE - THE VIGIL {#chapter-12b}
 
 ## Scene 1: Mary's Sabbath
 
@@ -4629,9 +4679,17 @@ Sabbath. No travel. No labor. No walking to the tomb to press her palm against t
 
 Her body wanted to move. The restlessness of mourning held captive by the Law's command to cease from labor. Her legs ached from yesterday, six hours standing at the cross, then the walk to the tomb, then the walk here in the rain, but the ache was better than this. Pain occupied her. At least her body was doing something. This was the body doing nothing while the mind replayed the sound of nails being pulled from wood.
 
-She stood. Sat down. Stood again. Crossed the room, four paces. Touched the wall. The plaster was cool and gritty under her fingertips. She pressed harder, feeling the texture, the small imperfections, because sensation was better than the alternative, which was the image that arrived every time she closed her eyes: his chest settling for the last time. The ordinary stillness of a body that had stopped.
+She stood. Crossed the room — four paces. Touched the wall. Pressed her fingers into the rough stone until the grit bit into her skin.
 
-She sat down again.
+Then she tore the cloth.
+
+The linen she'd been holding — the scrap she'd kept from the burial wrapping, the piece she'd pressed against her face on the walk back because it still smelled of myrrh and of him — she tore it. Both hands. The ripping sound was too loud in the Sabbath silence and she didn't care. She tore it again. And again. And when the pieces were too small to tear she beat the wall with the flat of her hand, once, twice, three times, until her palm was red and the pain was better than what was inside her.
+
+She was angry. Not grieving. Angry. Angry at the design that required his death. Angry that she was the one left to carry what remained. Angry that the architecture of survival — the whole magnificent, terrible structure Nefertari had built and forty-two generations had preserved — was built on a foundation of women who were expected to endure and carry and scatter and teach and raise daughters alone and write gospels that would be buried and grind herbs until there was nothing left to grind. The men got the martyrdom. The women got the centuries.
+
+She said things about God and about the design and about the man who chose to die instead of live. She said them into the empty room in a voice she didn't recognize, raw and low, and the words were true and truth that raw does not improve with age so she would never repeat them.
+
+When she was done her hand was bleeding where the stone had opened the skin. She wrapped it in one of the torn linen strips — the cloth that had touched his body now holding her blood — and sat down again.
 
 The room held almost nothing. The mat. A clay lamp, unlit, no need for flame, the daylight came grey and flat through the single high window. A water jar. The spice jars she'd purchased yesterday, myrrh and aloe and nard, lined up against the wall like soldiers waiting for orders. She'd arranged them three times already. Adjusted the spacing. Picked one up, set it down, picked it up again. Her hands needed something to hold.
 
@@ -4650,6 +4708,10 @@ His voice saying her name for the first time. Not the resurrection, that hadn't 
 His face during the sermon on the hillside when she'd heard both layers for the first time, the parable the crowd heard and the systems teaching underneath, the architecture of how empires collapse, encoded in a story about seeds and soil. She'd looked at him, and he'd looked at her, and his left eyebrow had risen in that way it did when something mattered, and she'd understood that he knew she'd heard it, and that her hearing it changed what the teaching was. Not a teacher delivering knowledge to a student. Two people reading the same text aloud, each one hearing what the other brought to it.
 
 The smell of his cloak. Cedar and sweat and the faint mineral smell of limestone dust from the roads. She'd walked beside him for five years and she knew the smell of his clothes the way she knew the smell of her daughter's hair. Not because she'd studied it, because proximity wrote it into her body. A thousand miles of road together. A thousand shared meals. A thousand teaching sessions, side by side, her breathing matching his, two sets of lungs finding the same rhythm.
+
+And the days that weren't in any story. The afternoon on the dock in Capernaum when Sarah arranged shells while Mary watched the boats come in and neither of them spoke, and the afternoon held them the way the lake held the light — without trying, without purpose, just holding. The thousand mornings when he said her name across a breakfast table and it meant nothing more than *pass the bread*. The ordinary names. The ordinary bread. That was the love. Not the reaching across twelve hundred years. The reaching across the table.
+
+They had not been careful with each other. They had been specific. There is a difference, and the difference is everything. Careful means distance maintained. Specific means the boundary worn so thin you can feel the other person's pulse through it. She knew when he was composing a parable by the way his right hand moved against his thigh. He knew when she was angry by the way she counted things — faster, sharper, the merchant's mind running hot. They argued about the women's teaching schedule and about whether figs or dates were better for travel and about nothing at all, the way people argue when the arguing itself is a form of contact. What they had was not romance and it was not chastity and it was not some elevated partnership beyond the body. It was two people who had worn each other smooth.
 
 These were not the blood's memories. These were hers.
 
@@ -4703,9 +4765,9 @@ Neither spoke.
 
 The silence was not companionable. Companionable silence was what she'd had with Jesus — two people at ease in each other's quiet, their breathing synchronized, the space between them warm and inhabited. This silence was two people in the same room with nothing to offer each other. Not comfort, because comfort required a wholeness that neither possessed. Not shared memory, because their memories of the last twenty-four hours were different in the one way that mattered: she'd been at the cross. He hadn't.
 
-Peter knew this. She could see him knowing it. His eyes moved to her face and away, to her face and away, the quick darting glance of a man looking at the evidence of his own failure. She had stood at Golgotha in the rain for six hours. She had watched the nails go in. She had counted the breaths. She had held him with her eyes when there was nothing else to hold him with. And Peter had stood in a courtyard beside a fire and said *I don't know the man* three times to people who didn't even have the authority to arrest him.
+Peter knew this. She could see him knowing it. His eyes moved to her face and away, to her face and away, the quick darting glance of a man looking at the evidence of his own failure. She had stood at Golgotha in the rain for six hours. She had watched the nails go in. She had counted the breaths. She had held him with her eyes when there was nothing else to hold him with. And Peter had stood in a courtyard beside a charcoal fire and said *I don't know the man* three times to people who didn't even have the authority to arrest him. He had been warm while Jesus died in the rain. That was the fact neither of them could set down.
 
-He was not a coward. Mary knew this. Peter was the man who'd jumped from a boat and tried to walk on water. Who'd drawn a sword in Gethsemane against an entire cohort of Temple guards. Who'd abandoned his nets on the Capernaum shore the day Jesus said *follow me* and hadn't looked back. Peter's courage was real and large and had carried him further than most men's courage would carry them. It had just not carried him far enough.
+He was not a coward. Mary knew this. Peter was the man who'd jumped from a boat and tried to walk on water. Who'd drawn a sword in Gethsemane against an entire cohort of Temple guards. Who'd abandoned his nets on the Capernaum shore the day Jesus said *follow me* and hadn't looked back. Peter's courage was real and large and had carried him further than most men's courage would carry them. But his courage was made of action — drawing swords, jumping from boats, dropping nets — and when action was not possible, the courage had nowhere to live. He could fight for Jesus. He could not sit in a courtyard and say *yes, I know him*. It had just not carried him far enough.
 
 "I —" Peter's voice broke. He tried again. "Mary, I —"
 
@@ -4725,7 +4787,7 @@ The bread lay on the floor between them. Neither picked it up.
 
 Mary knew, sitting in that borrowed room with the lamp guttering and Peter's breathing ragged against the opposite wall, that something had cracked between them that would not mend. Not because of anger. Because of knowledge. Peter would carry the fact of her presence at the cross like a splinter beneath his skin, a reminder, every time he looked at her, that she had done what he could not. And that knowledge would not make him admire her. It would make him need her to be smaller. Need her teaching diminished, her voice stripped of authority than his own, because if she was his equal — if the woman who stood at the cross while he hid was also the woman who taught beside Jesus as a partner, not a follower, then his denial was not a moment of human frailty but a fracture in the foundation of everything he would build after.
 
-She saw it forming. In the way he looked at her and looked away. In the silence he chose instead of the words he might have offered. In the bread on the floor between them that neither could eat.
+She saw it forming. Her presence at the cross had become his permanent accusation. Her competence had become his indictment. And his response would not be to rise to her level. It would be to rewrite the story so her level did not exist. She could see it in the way he looked at her and looked away. In the silence he chose instead of the words he might have offered. In the bread on the floor between them that neither could eat.
 
 The lamp burned. The shadows moved. Outside, Jerusalem's Sabbath held the city in its enforced stillness — a whole population commanded to rest, to cease, to wait. And in a borrowed room in the lower city, two people who loved a dead man sat with the silence between them and did not try to cross it.
 
@@ -4735,36 +4797,12 @@ Mary did not sleep. She sat with her back against the wall and her hands open in
 
 Toward tomorrow. And whatever tomorrow held.
 
----
-
-**END CHAPTER 12.5**
-
-**Word Count:** ~2,500 words
-**Status:** NEW — Phase 2. Inserted between Chapter 12 "The Execution" and Chapter 13 "The Resurrection"
-**Timeline:** Saturday, April 4, 33 CE (Sabbath — one day after crucifixion, one day before resurrection)
-**Bridge:** Mary's personal grief (inherited vs. personal) established; Peter/Mary fracture seeded; sets up Mary's sleeplessness and spice preparation in Chapter 13, Scene 2
-
----
-
-**Continuity Notes for Next Session:**
-- Mary in borrowed room in Jerusalem, awake through Sabbath night
-- Peter in same room, sleeping against wall — denied Jesus three times
-- Spice jars purchased and ready (myrrh, aloe, nard)
-- Sarah in Damascus with Leah (from Chapter 12 continuity)
-- Guards still posted at sealed tomb
-- Tomorrow morning: Mary, Joanna, and Salome walk to the tomb (Chapter 13)
-- Peter/Mary relationship cracked — knowledge of the cross will calcify into resentment
-
 
 \newpage
 
 \newpage
 
 # CHAPTER 13 - THE RESURRECTION {#chapter-13}
-
-**33 CE Spring - Three Days After Crucifixion**
-
----
 
 ## Scene 1: The Third Night
 
@@ -4938,7 +4976,7 @@ She was on the ground. Grass under her palms, cold with dew. She looked up.
 
 He was there. Morning light on his face. The same face — the lines around his eyes from squinting against Galilean sun, the slight asymmetry of his nose that came from a childhood carpentry accident he'd never explained, the way his left eyebrow rose slightly higher than his right when he was about to say something that mattered. The same hands, and she could see the marks in his wrists where iron had gone through flesh and bone and wood. Neither bleeding nor healed. Just there. The evidence of what had happened, carried in his body the way she carried the evidence of everything she'd witnessed in hers.
 
-She didn't care what he was. Resurrected body, vision, something she had no word for and would never have a word for and didn't need a word for. He'd said her name.
+She didn't care how it was possible. She had stood at the cross and counted his breaths until there were none, and now he was standing in morning light with her name in his mouth, and her body had decided — before her mind could form the word — that he was here. Living. Present. The *how* was a question for theologians and grief-sick men behind locked doors. She had the only answer she needed: she knew him. She had known him the way a child knows its mother's voice in a crowd, bodily, below the level of choice, and the knowing was enough to stand on.
 
 She just needed him to have said her name.
 
@@ -4962,7 +5000,9 @@ He smiled. The expression so familiar it broke something open in her chest — a
 
 "Does it matter?"
 
-It didn't. It truly didn't. She was kneeling in a garden and the man she'd watched die was standing in front of her and the morning light was catching the olive leaves and the bird was still singing its three notes and the rosemary she'd crushed under her knees was releasing its scent into the air and all of it was too specific to be hallucination. Grief didn't smell like rosemary. Madness didn't come with birdsong. Visions didn't cast shadows on the grass.
+"I told Simon once that we're like fingers pushed through a cloth. Separate on this side. Connected on the other." He looked at his hands — the nail marks still visible, the carpenter's calluses still there. "I've been on the other side, Mary. For three days." His voice broke for the first time. "It's all one hand."
+
+It didn't matter how. It truly didn't. She was kneeling in a garden and the man she'd watched die was standing in front of her and the morning light was catching the olive leaves and the bird was still singing its three notes and the rosemary she'd crushed under her knees was releasing its scent into the air and all of it was too specific to be hallucination. Grief didn't smell like rosemary. Madness didn't come with birdsong. Visions didn't cast shadows on the grass.
 
 Her hand was still in the air between them. She moved it closer — not to touch him but to touch the space near his wrist, near the mark where the nail had been. Her fingers traced the edge of what he'd endured without making contact. The air between her hand and his skin felt like the air above a fire. Not hot, not empty, but full of something she couldn't see.
 
@@ -5068,6 +5108,8 @@ Mary held her tighter. "I know you did."
 
 Leah appeared in the doorway, face tight with relief. She met Mary's eyes over Sarah's head and something passed between them — the wordless communication of two women who'd been holding the same fear from opposite ends of a road.
 
+Sarah's hand moved to her left side, pressing against her ribs — the gesture every woman in their line made. But Mary noticed something: Sarah wasn't holding the door shut. She was holding it open. The warmth was there, in her daughter's chest, and the child wasn't afraid of it.
+
 They sat in the courtyard shade — Sarah pressed against her mother's side, refusing to let go, Leah on a low stone bench, wind moving through the date palm above them. The afternoon light fell in patches through the fronds, shifting, dappled, warm.
 
 Mary spoke.
@@ -5088,7 +5130,7 @@ Mary was quiet for a long time. The wind moved through the date palm. A neighbor
 
 "Will they listen?" Leah asked.
 
-"Peter will ask why Jesus spoke privately with a woman." Mary's voice was steady now. "They'll be asking that question for a very long time. They'll build churches and councils and centuries of theology around the question of why he appeared to me first. They'll try to write me out. They'll call me a prostitute because that's easier than calling me a teacher."
+"Peter will ask why he spoke alone with a woman." Mary's voice was steady. "He has been asking it since the upper room. He will keep asking it. The men who come after him will keep asking it, and the question will be heavier than the answer. They will write down what happened in their own way. They will write me out, or they will write me small. They will give me an easier name than *teacher* — the name men give to women whose place in a story embarrasses them."
 
 Silence in the courtyard. Sarah's breathing against her mother's ribs.
 
@@ -5098,7 +5140,7 @@ Silence in the courtyard. Sarah's breathing against her mother's ribs.
 
 That night, after Sarah had fallen asleep — curled against Mary's side, one hand clutching her mother's sleeve, the grip loosening gradually as sleep took her — Mary sat up carefully, easing herself free. She found Leah's oil lamp. She found papyrus and a reed stylus in Leah's writing box. She sat at the small table in the corner of the sleeping room, the lamp flame steady in the still air, Sarah's breathing behind her slow and even.
 
-Mary dipped the stylus. The ink was thick and smelled of soot and acacia gum. She held the reed the way she'd always held a writing instrument — three fingers, angled slightly, the grip of someone trained in hieratic script. The same grip Jesus had noticed the first day. *You were trained.* Yes. She had been trained. By teachers in Alexandria. By blood memory. By five years beside a man who knew what she carried and never once called it madness.
+Mary dipped the stylus. The ink was thick and smelled of soot and acacia gum. She held the reed the way she'd always held a writing instrument — three fingers, angled slightly, the grip of someone trained in hieratic script. The same grip Jesus had noticed the first day. *You were trained.* Yes. She had been trained. By teachers in Alexandria. By the dreams that taught her in the dark. By five years beside a man who knew what she carried and never once called it madness.
 
 She wrote:
 
@@ -5131,10 +5173,6 @@ Outside, Damascus slept. The date palm moved in a wind that had come from the so
 
 # CHAPTER 14 - THE SCATTER {#chapter-14}
 
-**33 CE Spring - 70 CE Autumn**
-
----
-
 ## PART ONE: The Forty Days (33 CE Spring)
 
 ### Day Twenty-Eight: The Upper Room
@@ -5147,7 +5185,7 @@ Now he stood in the upper room with the other disciples, twelve people in a spac
 
 "You're hauling on the wrong net," Peter said. "Look around you. We're here. We're doing what he taught us. The teaching didn't die with him. That's the only resurrection I need."
 
-"But Peter's already telling people he rose bodily from the dead," Thomas countered. "Physical body returning from death. If that's false, we're building everything on a lie."
+"But Peter's already telling people he came back," Thomas countered. "In the same flesh. Walking, eating, the wounds still in his hands. If that's not what happened, we're building everything on a lie."
 
 "Or building it on more than one truth," Mary Magdalene said. She'd arrived from Damascus two days prior with Sarah. "All real. All serving different purposes."
 
@@ -5219,15 +5257,17 @@ Nobody spoke. A child laughed somewhere in the house. The herbs Mary had been gr
 
 "We should prepare ourselves," Matthew continued. "Preach the good news the way he told us. Not lay down rules he never made."
 
-Peter uncrossed his arms. He didn't apologize. He didn't agree. He walked out of the courtyard, and Mary heard him in the next room, already talking to Andrew about who should lead, about proper teaching, about which among them could speak with authority.
+Peter uncrossed his arms. He didn't apologize. He didn't agree. He walked out of the courtyard — because that had always been his answer to things he couldn't fix: organize, build, move, keep your hands busy so they don't shake — and Mary heard him in the next room, already talking to Andrew about who should lead, about proper teaching, about which among them could speak with authority.
 
-She picked up the pestle. Resumed grinding. The herbs turned to paste under the stone, the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
+She understood, watching Peter's back disappear into the next room, what would happen now. He would not lie about her. He would do something quieter — he would tell a smaller story. A story with fewer women in it. He would not say *she heard both layers of the teaching, and taught the women's circles, and stood at the cross when the rest of us could not.* He would say *she was there, with the others.* And the men who came after Peter would say less than that. They would give her the name men give to women whose place in a story embarrasses them. It was an old trick. Her grandmother had warned her of it the year Mary became a widow: when a woman does what the men cannot account for, they do not strike out the deed. They strike out the woman, and let the deed wander.
+
+She picked up the pestle. Resumed grinding. Her hands needed to be doing something or they would have done something else entirely — something that involved Peter's face and a clay pot and the kind of violence that the teaching was supposed to prevent. The herbs turned to paste under the stone, the smell sharp enough to clear the sinuses, bitter enough to taste at the back of the throat. She would write everything down. Every word. Every vision. And Peter would build his church, and her Gospel would end up in a jar in the Egyptian desert.
 
 She ground the herbs until there was nothing left to grind.
 
+But the circles would continue. Not because Mary commanded it. Because Deborah in Capernaum would open her courtyard next week the same way she'd opened it every week for three years, bruised jaw or not, and eighty women would come and sit on cold stone and practice the catching. And when Deborah's knees finally gave out, she'd pass the circle to her daughter, who would never have to learn it the hard way. The teaching wouldn't save them. It would give them company while they saved themselves. And that was enough. That had always been enough.
+
 ---
-
-
 
 They gathered on the Mount of Olives. The Twelve, Mary Magdalene, Sarah, Leah, the women's circles, Titus writing from the edges. The air smelled of wild thyme and warm stone.
 
@@ -5257,7 +5297,7 @@ Sarah nodded. She'd dreamed it. Pi-Ramesses, Babylon, cities she had no words fo
 
 Mary brushed hair from her daughter's face. "You'll carry what I carry. And pass it to your daughter. And she'll pass it to hers. Until someone, someday, doesn't have to hide it anymore."
 
-They walked down from the Mount of Olives. The twelve ahead, talking in low voices. The women around Mary, quiet, steady. Titus at the edge with his tablets.
+They walked down from the Mount of Olives. The twelve ahead, talking in low voices. The women around Mary, quiet, steady. Titus at the edge with his tablets, writing what he saw because seeing was all he'd ever had, and his testimony would be the only record made by someone who'd been there for all of it and believed none of the theology and all of the love. He would have written it shorter. But the carpenter had told him to write everything, so he did.
 
 Forty days complete. Now the long work.
 
@@ -5273,17 +5313,13 @@ Seven years since the crucifixion. Sarah, fifteen, sat nearby.
 
 "What are you writing?"
 
-"What he said. In his own words, as close as I can hold them."
+"Everything." Mary didn't look up. "What gets carried and what gets erased — someone has to decide. Peter will decide for the church. I'm deciding for the truth."
 
-She wrote his words on the nature of sin:
-
-*"Sin does not exist. Rather it is you who make sin when you do the things which are like the nature of adultery, which is called 'sin.' Because of this the Good came among you to the things belonging to all nature, in order to set it within its root."*
+She wrote what he had said about sin first. Not as the priests spoke of it — a tally kept in heaven, a ledger of marks against a name. He had taught it differently. Sin was not a thing in the world. It was what people made when they acted against the grain of love, and the Good had come to set the broken things back in their root.
 
 Down went the stylus. She heard his voice in the words, the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
 
-Back into the ink. She Wrote what he'd said about the nature of everything:
-
-*"All natures, all formed things, all creatures exist in and with one another, and they will again be resolved into their own roots. For the nature of matter is dissolved into what belongs to its nature alone."*
+Back into the ink. She wrote what he had said about how everything held together — that all things existed in and through one another, and that everything would dissolve, in the end, back into its own beginning. Matter would loosen back to the place it came from. Nothing was lost. Nothing went anywhere it had not already been.
 
 Her hand stopped. She stared at the words. Read them again.
 
@@ -5291,47 +5327,39 @@ Sarah looked up from her reading. "What?"
 
 "Nothing." Mary wiped her eyes with the back of her wrist and kept writing.
 
-She wrote his farewell:
+She wrote his farewell. The peace he had given them. The warning, the one she had heard him give a hundred times — beware the teachers who would tell you the kingdom was over here, or over there, in this temple or that mountain. The kingdom was in them, where it had always been. Those who looked for it would find it. Those who waited for someone else to point at it would never see.
 
-*"Peace be with you. Acquire my peace for yourselves. Be on your guard so that no one deceives you by saying, 'Look over here!' or 'Look over there!' For the child of Humanity exists within you. Follow him. Those who search for him will find him."*
+She wrote what he had said about carrying the work forward. Preach the good news, yes. But do not make new laws, he had warned them. Do not become the kind of teacher who builds a fence around the teaching to keep the wrong people out. He had been a man who tore fences down. He would not be remembered for building one.
 
-*"Go then, preach the good news about the kingdom. Do not lay down any rule beyond what I determined for you, nor promulgate law like the lawgiver, or else you might be dominated by it."*
+Then she wrote what happened after he left them.
 
-Then she wrote what happened after he left them:
+The eleven had been weeping in the upper room. Afraid to go out to the world that had killed him. Peter most of all — his face wrecked, his hands open in his lap because they could not hold anything. None of them could speak.
 
-*But they were distressed and wept greatly. "How are we going to go out to the rest of the world to announce the good news about the kingdom of the child of Humanity?" they said. "If they didn't spare him, how will they spare us?"*
+So she had stood. She had told them not to weep. He had prepared them for this, she said. His grace would shelter them. They were not weeping men. They were the human beings he had made of them, and there was work waiting outside the door.
 
-*Then Mary stood up. She greeted them all, addressing her siblings: ""Do not weep and be distressed nor let your hearts be irresolute. For his grace will be with you all and will shelter you. Rather we should praise his greatness, for he has prepared us and made us Human beings."*
-
-*When Mary said these things, she turned their heart toward the Good.*
+When she had finished speaking, their faces had changed. Not all at once. By degrees. The way a winter morning changes when the sun finally clears the eastern wall.
 
 The first sermon after the resurrection wasn't Peter's at Pentecost. It was hers, in that room, to eleven men who couldn't stop weeping.
 
-Still writing. The vision: the private teaching, the one Peter had challenged in that courtyard. The soul's ascent past the Powers.
+Still writing. The private teaching now — the one Peter had challenged in that courtyard. The journey of the soul past the things that tried to claim it.
 
 Lamplight guttered. Sarah brought a fresh one without being asked.
 
-Mary wrote Darkness first: the soul passing through it. The visions coming at night. The community calling it possession. Walking through Magdala with people crossing to the other side of the street.
+She wrote Darkness first. Darkness had come for her in Magdala when she was a girl: the visions arriving at night, the community calling them possession, the women of the market crossing to the other side of the street when she walked past. Darkness had told her she belonged to it. It had been the longest lie she had ever believed.
 
-She wrote Desire:
+She wrote Desire. Desire owned a soul, she wrote, only by dressing it. The garment was not the body inside. She had learned that in the garden when Jesus said her name and her body recognized him before her mind did. After that morning the cloth could no longer be mistaken for the woman wearing it.
 
-*And Desire said, "I did not see you go down, yet now I see you go up. So why do you lie since you belong to me?"*
+Her wrist ached. She flexed her fingers, kept going.
 
-*The soul answered, "I saw you. You did not see me nor did you know me. You mistook the garment I wore for my true self. And you did not recognize me."*
-
-Her wrist ached. She flexed her fingers, kept going. Desire thought it owned her because it had dressed her. But the garment wasn't her. She'd learned that in the garden when Jesus said her name and her body recognized him before her mind did.
-
-She wrote Ignorance — the power that binds by telling the soul it cannot know. *"Why do you judge me, since I have not judged?"* the soul answered. *"I was bound, though I have not bound anything. They did not recognize me, but I have recognized that the All is to be dissolved, both the things of earth and those of heaven."*
+She wrote Ignorance — the power that held the soul in place by telling it that it could not know. The trick of Ignorance was to make a woman believe her own seeing was madness. Mary had spent twenty-eight years in that grip. She wrote how the soul, at last, answered Ignorance: by recognizing that nothing in heaven or on earth was fixed forever, that even Ignorance would dissolve in its own time, and that its claims therefore could not stand.
 
 Lamp smoke curling toward the ceiling. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
 
-Mary wrote the final power, the fourth, the one with seven forms. She listed them the way you list wounds on a body you're treating: *Darkness. Desire. Ignorance. Zeal for death. The kingdom of the flesh. The foolish wisdom of the flesh. The wrathful wisdom.*
+She wrote the fourth power, the one that wore seven faces. She listed them the way you list wounds on a body you're treating: Darkness wearing a new cloak, and Desire wearing a new cloak, and Ignorance wearing a new cloak — the old powers never came once, they came forever — and then Zeal-for-Death, and the Kingdom-of-the-Flesh, and the Foolish-Wisdom that knows everything except love, and the Wrathful-Wisdom that knows love and cannot bear it.
 
-The powers demanded to know: *"Where are you coming from, human-killer, and where are you going, space-conqueror?"*
+The powers had asked the soul where it had come from and where it was going. They had tried to make the soul name itself by what it had destroyed and what it meant to seize. They were old tricks. Mary had watched men do it to women her whole life — insist that you call yourself by their names, until you forgot what you would have called yourself.
 
-And the soul, her soul, the soul she'd carried through Magdala and Capernaum and Jerusalem and the garden and the cross and Alexandria — answered:
-
-*"What binds me has been slain, and what surrounds me has been destroyed, and my desire has been brought to an end, and ignorance has died. In a world I was set loose from a world, and in a type, from a type which is above, and from the chain of forgetfulness which exists in time. From this hour on, for the time of the due season of the aeon, I will receive rest in silence."*
+She wrote what the soul had answered. That what had bound it was slain. That what had surrounded it was undone. That its desire had finished its work. That its ignorance had died. That it had been set loose from a world inside a world, and from a likeness above all likenesses, and from the chain of forgetting that lives in time. And that from this hour, for as long as the age lasted, the soul would rest in silence.
 
 Mary set down the stylus. Her hand had cramped into the shape of holding it. Dawn light was coming through the window: grey, then blue, then the first gold touching the harbor water.
 
@@ -5381,7 +5409,7 @@ Nefertari. Twelve hundred years ago. Sarah was seeing her.
 
 "That's it," Mary said. "That's where you live now."
 
-The harbor. The wind. The smell of salt and acacia from the courtyard below.
+The harbor. The wind. The smell of salt and acacia from the courtyard below. Forty-three years of carrying. Not because she understood what she carried — she had never fully understood it, not the warmth, not the reaching, not the way love survived the death of everyone who made it. She had just held it. The way stone holds heat. The way a harbor holds the sea. Without understanding. Because that is what women do. They hold.
 
 ---
 
@@ -5415,11 +5443,17 @@ Then the warmth rising from Mary's body. Not disappearing — *transferring*. Th
 
 And Mary Magdalene, who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — received her rest in silence, in a whitewashed room in Alexandria with her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
 
-Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move. She listened to the harbor — the sounds returning now that the room had gone quiet, the gulls and the rigging and the water against stone, and she understood for the first time why her mother had always lived near the water. The harbor never stopped. It held the same sounds day after day, year after year, the way stone holds heat, faithfully, without understanding, because that's what harbors do. They hold.
+Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move.
+
+Her mother had loved him. Not the way the world would whisper about — not scandal, not possession, not the small love they would use to reduce her so she fit inside their story. She had loved him the way stone loves the day's heat. Faithfully. Without understanding. Because that is what she did. And he had loved her back — not romantically, not in any way that required their bodies to close the distance their hands maintained on warm stone in the evenings. He had loved her by trusting her with everything. He told her what he told no one else. He asked her to carry what he could not carry past his own death. And the first word he spoke after three days of silence was her name. If that was not love then the word had no meaning.
+
+They would call her a prostitute. They would bury her gospel. They would simplify her into a footnote, a weeping woman, a reformed sinner who followed a man she did not understand. But her mother had understood everything. And Sarah would not let the understanding die.
+
+She listened to the harbor — the sounds returning now that the room had gone quiet, the gulls and the rigging and the water against stone. She understood for the first time why her mother had always lived near the water. The harbor never stopped. It held the same sounds year after year, the way stone holds heat. Faithfully. Without understanding. Because that's what harbors do.
 
 Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
 
-She would have copies made. Three sets. Different scribes, different hands. Scattered south along the Nile to communities who would read them, translate them, copy them again.
+Not peace. Not understanding. Just the work, and the carrying of it, and the refusal to set it down.
 
 She had work to do.
 
