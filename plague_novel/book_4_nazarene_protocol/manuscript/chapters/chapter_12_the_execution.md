@@ -1,9 +1,5 @@
 # Chapter 12: The Execution
 
-**Timeline:** 33 CE Spring (Day After Arrest - Crucifixion Day)
-**POV:** Titus Publius Scipio (primary), Jesus (brief internal), Mary (Damascus)
-**Word Count:** ~6,300 words
-
 ---
 
 ## Scene 1: Dawn Preparation
@@ -358,7 +354,7 @@ She pressed her palm flat against the stone. Cold. Not the living cold of water 
 
 She couldn't, of course. The stone was two feet thick and sealed and six men with swords stood between her and the body of the person she knew best in the world. But her palm stayed. Fingers spread. The cold seeping into her skin, up through her wrist, settling into the bones of her arm like a second grief — physical this time, the body's own mourning, separate from the mind's.
 
-She stood there and let the memories come. She let the teaching sessions go, the parables, the crowds, the arguments about methodology. Those memories belonged to the movement, to the network, to the future that would take them and reshape them into something she might not recognize. The memories surfacing now were smaller. Hers.
+She stood there and let the memories come. She let the teaching sessions go, the parables, the crowds, the arguments about methodology. Those memories belonged to the movement, to the future that would take them and reshape them into something she might not recognize. The memories surfacing now were smaller. Hers.
 
 Jesus laughing at Sarah's mispronunciation of *Capernaum*. She'd said *Carpernicum*, with absolute seven-year-old confidence, and Jesus's face had broken open, the laugh sudden and helpless, and he'd said through it, "That's actually more accurate. The Romans would agree with you." Sarah beaming, not understanding the joke, understanding only that she'd made him laugh, which was better than understanding anything.
 
@@ -385,21 +381,3 @@ She waited for the third day.
 ---
 
 **END CHAPTER 12**
-
-**Word Count:** ~6,500 words
-**Status:** EXPANDED Phase 2 — Scene 3 procession individualized (mother/son, old woman, Simon of Cyrene blood-slick crossbeam, look between Simon and Jesus), Scene 4 crucifixion emotional landscape (Titus Carnuntum memory, soldiers gambling/eating apple, crowd taunts as physical blows), Scene 5 hours of darkness expanded (storm/rain, body failing in sequence, Mary in rain unmoving, eye contact through rain), Scene 8 Mary's vigil deepened (hand on cold stone, three specific memories — Sarah's mispronunciation, "emphatically not mad," humming in workshop, memories as HERS)
-**Next Chapter:** Chapter 13 "The Resurrection"
-
----
-
-**Continuity Notes for Next Session:**
-- Jesus dead, buried, guarded tomb (sealed stone, six Temple guards)
-- Titus completed his record, preparing to defect to Damascus
-- Mary Magdalene IN JERUSALEM — stayed to witness crucifixion at Golgotha despite original plan, sent Sarah north with Leah, plans to return to tomb on third day
-- Sarah safe in Damascus with Leah (age 7, Generation 43)
-- Pattern Eye and two defensive keys with Sarah/Leah in Damascus
-- Defensive network scattered: Antioch, Ephesus, Corinth, Alexandria, Cyrene
-- Documentation distributed (redundant copies)
-- Offensive network believing threat eliminated
-- Three days until empty tomb discovery — Mary Magdalene will be FIRST witness
-- Chapter 13 will cover Mary's garden encounter, resurrection, network continuation

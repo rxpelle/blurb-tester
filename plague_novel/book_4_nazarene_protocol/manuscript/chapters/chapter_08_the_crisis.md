@@ -1,8 +1,4 @@
-# CHAPTER 8: THE CRISIS
-
-**Timeline:** 32 CE Winter (12 months before crucifixion)
-**POV:** Titus Publius Scipio (primary), Jesus, Mary
-**Word Count:** ~5,450 words
+# Chapter 8: The Crisis
 
 ---
 
@@ -348,21 +344,4 @@ Mary closed her eyes. The fear was still there. She let it stay.
 
 ---
 
-**END OF CHAPTER 8**
-
-**Word Count:** ~5,450 words (expanded from ~1,744)
-**Status:** EXPANDED Phase 1 — New Scene 3 (Jesus Alone), Scene 2 (Intelligence Briefing) expanded with room detail/political calculus/Passover rationale, Scene 4 (Titus/Jesus) expanded with Titus's tactical mind/Jesus's fear moment, Scene 5 (Mary's Fear) expanded with cross vision/walk with Sarah/admission to Leah
-**Next Chapter:** Chapter 9 - Pattern Eye recovery, Jesus's full timeline vision, final encoding period
-
----
-
-**CONTINUITY NOTES:**
-- Timeline: Winter 32 CE, 12 months before Passover 33 CE crucifixion
-- Titus: Age 49, civilian status, documentation role accepted
-- Mary: Age 33, leadership role accepted despite fear, 80+ women in teaching circles
-- Jesus: Age 38, martyrdom strategy explained and accepted
-- Sarah: Age 7, Generation 43, witnessing leadership under pressure
-- Network status: 150-200 followers, distributed teaching circles planned, protection protocols initiated
-- Roman intelligence: Official execution order confirmed
-- Defensive network: Final preparation phase beginning
-- Emotional weight: Anticipatory grief, acceptance without peace, persistence despite certainty of loss
+**END CHAPTER 8**

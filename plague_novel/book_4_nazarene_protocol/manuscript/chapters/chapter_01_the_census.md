@@ -1,10 +1,4 @@
-# BOOK 4: THE NAZARENE PROTOCOL - CHAPTER 1
-## "The Census"
-
-**Timeline:** 26 CE, Winter - 1,203 years after Genesis Protocol creation
-**Location:** Galilee (Nazareth → Capernaum)
-**Generation:** 42 (Jesus ben Yosef)
-**POV Character:** Titus Publius Scipio (Roman centurion)
+# Chapter 1: The Census
 
 ---
 
@@ -46,7 +40,7 @@ Rome's orders were simple: identify, observe, report.
 
 He'd found three so far this rotation. Two fishermen in Capernaum, Simon and Andrew, from families that kept unusually detailed genealogies. One elder woman in Cana who'd predicted drought patterns three harvests before they happened.
 
-Nobody got arrested. The network wasn't hostile to Rome. Not yet.
+Nobody got arrested. The families weren't hostile to Rome. Not yet.
 
 "Next."
 
@@ -164,11 +158,11 @@ Another silence, longer. Jesus looked at the census line—forty families still 
 
 Born with it. The rarest kind.
 
-"Generation?" Titus asked.
+"How far back?" Titus asked.
 
-"Forty-two. From Tausret."
+"Further than I have names for. The dreams arrive from a workshop I've never seen, in a city my mouth can't pronounce."
 
-Twelve hundred years to the founding. Primary bloodline. And he'd been walking around Nazareth for thirty-two years with nobody to tell him what it meant except a fisherman.
+Centuries, then. And he'd been walking around Nazareth for thirty-two years with nobody to tell him what it meant except a fisherman.
 
 "So I'm teaching," Jesus said. "Stories. Parables. Stories pass from mouth to mouth like fire—they survive what empires don't."
 
@@ -210,7 +204,7 @@ He found Simon's house as daylight faded over the lake—limestone walls still w
 
 "Centurion." Simon didn't look up from his nets. "You found him."
 
-"Generation 42. Primary line." Titus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
+"He's the one." Titus dismounted, tied his horse to the olive tree. "He knows they'll come for him. Talked about it like it was already happening."
 
 "They're already coming." Simon's hands stilled on the netting. "Temple already sent someone to listen to his teaching. A scribe from Jerusalem, watching from the back of the crowd. Taking notes." He looked up. "And now Rome knows too. Because you reported him."
 
@@ -218,11 +212,11 @@ He found Simon's house as daylight faded over the lake—limestone walls still w
 
 Simon studied him. The lamp between them threw his face into sharp relief, the deep lines around his mouth, the scarred hands. A fisherman who'd spent twenty years pretending to be less intelligent than he was.
 
-"Don't protect him, Titus. Protect the network."
+"Don't protect him, Titus. Protect the families."
 
 Titus hadn't expected that. "What?"
 
-"You heard me." Simon's voice was flat, stripped of sentiment. "One carrier is one carrier. He's brilliant, I've never met anyone who reads the blood like he does, but the network survived the fall of Egypt, Babylon, Persia, and Alexander. It'll survive losing him. What it can't survive is a Roman centurion getting caught filing false reports. They'll interrogate you. They'll get names. And then they'll come for the families."
+"You heard me." Simon's voice was flat, stripped of sentiment. "One man is one man. He's brilliant, I've never met anyone who reads the blood like he does, but the families survived the fall of Egypt, Babylon, Persia, and Alexander. They'll survive losing him. What they can't survive is a Roman centurion getting caught filing false reports. They'll interrogate you. They'll get names. And then they'll come for the families."
 
 The words landed like stones. Titus opened his mouth to argue, then closed it. Simon wasn't wrong. The calculus was brutal but it was correct—one man versus eighty-four families scattered across the eastern provinces.
 
@@ -230,13 +224,13 @@ He paced to the low wall. Below, the lake stretched dark, fishing boats knocking
 
 "He teaches people to stop swinging." Titus's throat was tight. "And you're telling me to file the report that puts a target on him."
 
-"I'm telling you the network matters more than any one life. Including yours. Including mine." Simon picked up his nets again, as if the conversation were about fish. "File the report. Standard census. Harmless carpenter. No concerns. But don't do it because you want to save him. Do it because a false report is quieter than an omission. An omission someone will notice."
+"I'm telling you the families matter more than any one of us. Including you. Including me." Simon picked up his nets again, as if the conversation were about fish. "File the report. Standard census. Harmless carpenter. No concerns. But don't do it because you want to save him. Do it because a false report is quieter than an omission. An omission someone will notice."
 
 Titus stared at the dark water. The fisherman was right. And he hated him for it.
 
 "Keep him alive as long as you can," Titus said, moving toward his horse. "However many years that turns out to be."
 
-"That's what I've been doing." Simon's voice followed him into the dark. "But Titus—if they come for him, let them. Don't intervene. Don't be in the room. The network needs you alive more than it needs him protected."
+"That's what I've been doing." Simon's voice followed him into the dark. "But Titus—if they come for him, let them. Don't intervene. Don't be in the room. The families need you alive more than they need him protected."
 
 Titus rode out of Capernaum as full darkness fell. The lullaby faded behind him, replaced by hoofbeats and the sound of his own breathing.
 
@@ -294,7 +288,7 @@ His voice held steady. His hands, clasped behind his back, did not.
 
 Lucullus held his gaze for three heartbeats. Then nodded. "Dismissed."
 
-Titus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one, primary bloodline carrier, Generation 42, teaching thousands, and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
+Titus rode north toward Galilee. Three days on the road, sleeping under borrowed cloaks in roadside shelters, dreaming of the boy at Carnuntum and a carpenter with the same open hands. By the time he reached the hills above Capernaum, he'd written two reports in his head. The real one — a man whose blood remembered cities older than Rome, teaching thousands — and the one he would file. Harmless itinerant preacher. Small crowds. Religious content only. No strategic concern.
 
 Simon had been right about one thing: a quiet lie was safer than a loud omission.
 
@@ -309,37 +303,3 @@ His stylus stopped. The wax cooled under his hand. If there were two of them in 
 ---
 
 **END CHAPTER 1**
-
----
-
-## CONTINUITY NOTES:
-
-**Timeline:** 26 CE, Winter (1,203 years after Protocol creation, 1177 BCE)
-**Generation:** 42 (Jesus ben Yosef) - Absolute count from Tausret
-**POV:** Titus Publius Scipio (Roman centurion, network-affiliated)
-
-**Bloodline Status:**
-- Jesus: Generation 42 carrier, blood memory active since age 3
-- Simon: Network family, fisherman, Capernaum
-- Titus: Network-affiliated (trained, not inherited bloodline)
-
-**Seven Keys Status:**
-- Living Key (Key 1): Jesus (present)
-- Pattern Eye (Key 2): Still lost in Byblos (Simon searching)
-- Memory Bridge (Key 3): Lost since Babylonian exile
-- Distribution Network (Key 4): Fragmented across families
-
-**Network Evolution:**
-- Defensive network: Degraded but persistent, ~84 active families
-- Teaching method: Public parables with embedded systems theory
-- Roman intelligence: Tracking network families, surveillance increasing
-- Temple authorities: Monitoring Jesus as potential threat
-
-**Forward Links:**
-- Chapter 2: Mary Magdalene POV (introduces second carrier)
-- Chapter 3: Jesus baptism, blood memory activation
-- Titus continues as observer/protector through crucifixion
-- 70 CE diaspora already predicted, teaching distribution planned
-
-**Word Count:** ~4,500 words (compressed from ~8,100)
-**Status:** COMPLETE DRAFT — compression + voice pass applied

@@ -1,9 +1,5 @@
 # Chapter 11: The Betrayal
 
-**Timeline:** 33 CE Spring (Passover Festival - Day of Arrest)
-**POV:** Titus Publius Scipio (primary), Jesus, Mary, Judas
-**Word Count:** ~6,550 words
-
 ---
 
 ## Scene 1: The Festival Morning
@@ -28,7 +24,7 @@ Roman soldiers positioned along the main thoroughfare. Pilate's forces. A full c
 
 They did.
 
-The defensive network's people were scattered through the crowd. Simon at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Titus recognized. The rescue team.
+Simon's people were scattered through the crowd. Simon himself at the northern edge, where the road to Damascus began. Judas moving through the throng with purpose, speaking quietly to men Titus recognized. The rescue team.
 
 They were preparing to fail. Titus had seen the other side's positioning yesterday, extra men hidden in adjacent buildings, soldiers on no official roster. The rescue was expected. Planned for.
 
@@ -212,7 +208,7 @@ No anger. Just the steady sadness of a man who'd known this would happen and let
 
 Unbribed guards, Malchus leading them, Caiaphas's men, moved to arrest Jesus. The rescue already failing.
 
-Peter drew his hidden dagger. No. That wasn't the plan. Defensive network didn't use violence except as last resort and this wasn't —
+Peter drew his hidden dagger. No. That wasn't the plan. They'd sworn — every one of them, in every safe house, in every late-night briefing — that they did not draw blood except to keep someone alive, and this wasn't —
 
 Peter swung wildly, striking Malchus. The blade caught the guard's ear, severing it partially. Blood. Screaming. The chaos they'd wanted but wrong kind. Uncontrolled. Dangerous.
 
@@ -348,7 +344,7 @@ The city was waking around him. Bakers opening shutters, the smell of fresh brea
 
 Judas walked through the ordinariness of it and felt the distance between the world and himself widening with each step, the way the distance widens between a boat and the shore when the current takes you. Not fast, not violent, just the steady unreturnable drift of someone who has been cut loose from everything that held him.
 
-Twelve years with the network. Seven men and women pulled from the jaws of arrest. He'd been good at this. He'd been the one they called when a carrier was in danger, the one who could look at a room and see the exits, the one whose hands didn't shake when he handled bribes or forged documents or talked guards into looking the other way. Seven rescues. Seven people alive because of him.
+Twelve years doing this work. Seven men and women pulled from the jaws of arrest. He'd been good at this. He'd been the one they called when one of their own was in danger, the one who could look at a room and see the exits, the one whose hands didn't shake when he handled bribes or forged documents or talked guards into looking the other way. Seven rescues. Seven people alive because of him.
 
 And tonight he'd failed the one that mattered most.
 
@@ -410,7 +406,7 @@ He sat on a stone beneath the tree, within arm's reach of Judas's hanging feet, 
 
 Titus had sat with the dead before. Beside men whose names he'd known and whose faces he'd forgotten and whose deaths he carried in his body the way soldiers carry all their dead. Not in memory but in the shoulders, in the jaw, in the way you hold yourself upright when the weight wants to pull you down.
 
-He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas at network meetings, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Titus had ever observed, a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
+He sat with Judas. Not long. A minute, maybe two. The kind of minute that stretches when you let it, that opens up inside and shows you things you'd rather not see. He saw Judas in planning sessions, leaning forward over maps, pointing at guard rotations with a finger stained by ink and road dust. Saw him arguing with Simon about extraction timing, his voice sharp and certain, the voice of a man who had done this work long enough to trust his own judgment. Saw him once, only once, sitting alone outside a safe house in Bethany, face tilted toward the sun, eyes closed, the tension gone from his jaw for the first and only time Titus had ever observed, a man resting between missions, between lives saved, between the next plan and the last, just sitting in the sun like an ordinary person with nothing to carry.
 
 That was the Judas who hung from this tree. Not a traitor. A rescuer who ran out of people to save, starting with himself.
 
@@ -433,19 +429,3 @@ Titus steadied his grip on the stylus and walked toward Golgotha.
 ---
 
 **END CHAPTER 11**
-
-**Word Count:** ~6,550 words
-**Status:** EXPANDED Phase 1 — Last Supper immersive (seating, food, Peter's face, Sarah drinking), Mary/Sarah separation devastated (smell of hair, moonlight, forced letting-go), Judas's death slowed (silver weight, mother in Kerioth, Jerusalem ordinary morning, the laugh by the lake), Titus finding Judas grounded (sitting with the body)
-**Next Chapter:** Chapter 12 "The Execution" - Crucifixion sequence
-
----
-
-**Continuity Notes for Next Session:**
-- Jesus in Roman custody, awaiting crucifixion (morning of day after arrest)
-- Mary and Sarah reached Damascus safe house
-- Defensive network scattered to multiple cities
-- Judas dead (suicide after failed extraction)
-- Titus positioned to document execution
-- Pattern Eye and bronze keys secured with Mary
-- Documentation multiplied and distributed
-- Chapter 12 will cover crucifixion, death, and immediate aftermath

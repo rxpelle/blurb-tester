@@ -1,10 +1,4 @@
-# BOOK 4: THE NAZARENE PROTOCOL - CHAPTER 6
-## "The Resistance"
-
-**Timeline:** 31 CE, Autumn - 1,208 years after Genesis Protocol creation
-**Location:** Jerusalem → Galilee
-**Generation:** 42 (Jesus ben Yosef, ministry year 3)
-**POV Character:** Titus Publius Scipio (Roman centurion)
+# Chapter 6: The Resistance
 
 ---
 
@@ -72,7 +66,7 @@ Three years of this question. His gut twisted.
 
 Something cold settled in his chest. Five years of this problem, and the answer was always the same.
 
-"There's no solution," Titus said. "Arrest him, followers multiply. Leave him alone, the network grows. We're boxed."
+"There's no solution," Titus said. "Arrest him, followers multiply. Leave him alone, the families grow. We're boxed."
 
 Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centurion. We enforce them."
 
@@ -146,7 +140,7 @@ Every report was delaying the inevitable.
 
 ---
 
-## SCENE 4: Offensive Network Contact
+## SCENE 4: The Stranger in the Room
 
 The man was waiting in Titus's quarters when he returned that evening.
 
@@ -204,9 +198,9 @@ The trap was clean. Seeing it didn't mean he could escape it.
 
 ---
 
-## SCENE 5: Defensive Network Warning
+## SCENE 5: The Ride to Capernaum
 
-For two days Titus searched for alternatives. He reviewed Matthias's connections. The man had ties to the Temple, to Herod's court, to Roman administrators Titus had trusted. The network was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
+For two days Titus searched for alternatives. He reviewed Matthias's connections. The man had ties to the Temple, to Herod's court, to Roman administrators Titus had trusted. The families' reach was deeper than he'd imagined. He tried composing a report to Lucullus exposing Matthias, then burned it — Matthias had implied Lucullus already knew.
 
 On the third night, with hours remaining before his answer was due, he rode to Capernaum.
 
@@ -335,81 +329,3 @@ That was enough.
 ---
 
 **END CHAPTER 6**
-
----
-
-## CONTINUITY NOTES:
-
-**Timeline:** 31 CE, Autumn (1,208 years after Protocol creation)
-**Generation:** 42 (Jesus) and 43 (Sarah bat Miriam, age 6)
-**POV:** Titus Publius Scipio (former centurion, defensive network affiliate)
-
-**Character Evolution:**
-- Titus: 26 CE (Chapter 1) → 31 CE (Chapter 6) = 5 years
-- Age 43 (Chapter 1) → Age 48 (Chapter 6)
-- Census taker → Intelligence officer → Resigned civilian/network witness
-- Conflicted observer → Active resistance participant
-
-**Network Status:**
-- Defensive network: ~150 active followers (Twelve + Mary's 60 women + others)
-- Jesus teaching publicly for 3 years (28-31 CE)
-- Mary of Magdala: Full Protocol access, leading women's teaching circle
-- Sarah bat Miriam: Age 6, early developmental training successful
-- Pattern Eye: Located by Mary (Chapter 5), now in network use
-
-**Offensive Network:**
-- Embedded in Roman intelligence (Matthias character)
-- Collaborating with Temple authorities and manipulating Zealots
-- Targeting Jesus for recruitment or elimination
-- Understands defensive mode well enough to sabotage it
-
-**Political Landscape:**
-- Roman surveillance escalating (crowds 3,000-5,000)
-- Temple authorities demanding arrest (Caiaphas petitions)
-- Zealots recruiting (Barabbas character introduced)
-- Jesus explicitly rejecting violent resistance
-- Martyrdom timeline: ~2 years remaining (33 CE crucifixion)
-
-**Teaching Evolution:**
-- Dual-layer methodology fully developed
-- Parable encoding for cultural transmission
-- Explicit about pattern recognition vs. prophecy
-- Jerusalem destruction timeline: 40 years (70 CE)
-- Seventy-generation forward planning (to Sarah Chen, Gen 112)
-
-**Foreshadowing:**
-- Titus will document Gospel accounts after crucifixion
-- Mary and Sarah will flee Jerusalem before 70 CE
-- Offensive network plans to discredit Jesus before execution
-- Temple destruction explicitly predicted (70 CE)
-- Network survival through diaspora confirmed
-
-**Thematic Alignment:**
-- Escalation cycles demonstrated (Rome/Temple/Zealots)
-- Intervention points discussed (too late for prevention)
-- De-escalation teaching vs. violent resistance (Barabbas scene)
-- Strategic martyrdom planning (encoding through death)
-- Witness role established (Titus as documenter)
-
-**Seven Keys Status:**
-- Living Key (Key 1): Jesus (present)
-- Pattern Eye (Key 2): Found by Mary (Chapter 5), active in network
-- Memory Bridge (Key 3): Still lost (586 BCE)
-- Distribution Network (Key 4): Rebuilding (150 people, growing)
-
-**Word Count:** ~4,500 words (compressed from ~8,000)
-**Status:** REVISED — Scenes 6+7 merged, anachronisms fixed, voice pass applied
-
-**Forward Links:**
-- Chapter 7: Teaching spreads, parables developed
-- Chapter 8: Titus crisis deepens, political pressure increases
-- Chapter 12: Crucifixion (33 CE, Titus + Mary witness)
-- Chapter 14: Temple destruction (70 CE, diaspora begins)
-
-**Cross-References:**
-- Chapter 1: Titus census encounter (26 CE) - character consistency verified
-- Chapter 5: Mary's Protocol access achievement - referenced in teaching circles
-- Series Bible: Generation 42-43 continuity maintained
-- Timeline: 31 CE autumn placement consistent with 3-year ministry
-
----

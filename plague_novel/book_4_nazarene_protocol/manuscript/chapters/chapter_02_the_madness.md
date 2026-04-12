@@ -1,10 +1,4 @@
-# BOOK 4: THE NAZARENE PROTOCOL - CHAPTER 2
-## "The Madness"
-
-**Timeline:** 27 CE, Spring - 1,204 years after Genesis Protocol creation
-**Location:** Magdala (Sea of Galilee fishing town)
-**Generation:** 42 (Mary of Magdala - Branch 3)
-**POV Character:** Mary of Magdala (Miriam bat Ezra)
+# Chapter 2: The Madness
 
 ---
 
@@ -42,7 +36,7 @@ Mary pulled her daughter close, feeling the solid warmth of her small body. Real
 
 Sarah didn't look convinced. She was too young to understand what was happening to her mother, but old enough to know her mother was breaking. The visions had started when Mary was seven, brief flashes, childhood nightmares she'd dismissed. But after Sarah's birth three years ago, they'd intensified. Became longer. More frequent. More overwhelming.
 
-Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier, fragmented images of a woman fleeing burning cities during the Bronze Age Collapse, joining a network of families who taught her to recognize pattern before chaos.
+Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier, fragmented images of a woman fleeing burning cities, joining families who carried the knowing in their blood and taught her to move with it instead of against it.
 
 She'd told herself it was a sickness of the blood. Something inherited, like her mother's weak lungs or her grandfather's tremor. Not of the spirit but of the body. The episodes came suddenly, she would fall, her body rigid, then wake confused and drained. She'd consulted physicians in Tiberias who spoke of imbalances in the humors, but none could explain why the falling sickness carried visions of cities she'd never seen.
 
@@ -216,7 +210,7 @@ She looked at her daughter. Sarah had fallen asleep against her shoulder, exhaus
 
 "You want my money," she added flatly. She'd heard enough traveling teachers to recognize the pitch.
 
-"I want your mind. Your merchant's eye. Someone who can see how pieces fit together and keep a network fed and moving." He didn't look offended—he looked like a man who'd expected the question. "The resources help. I won't pretend otherwise. But I have other patrons. What I don't have is another carrier who sees Nefertari every night and understands trade routes and can travel without asking a husband's permission."
+"I want your mind. Your merchant's eye. Someone who can see how pieces fit together and keep the families fed and moving." He didn't look offended—he looked like a man who'd expected the question. "The resources help. I won't pretend otherwise. But I have other patrons. What I don't have is another woman who sees Nefertari every night and understands trade routes and can travel without asking a husband's permission."
 
 Mary looked at the house behind him. At the fishing nets. At the lake stretching blue and vast under afternoon sun.
 
@@ -260,7 +254,7 @@ Nobody here treated her like the cursed woman from Magdala. Nobody crossed to th
 
 Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this, food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement that would need their support to survive.
 
-The twelve men were disciples, network descendants who'd been training with Jesus for a year.
+The twelve men were disciples, descendants of carrier families who'd been training with Jesus for a year.
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
@@ -298,7 +292,7 @@ The disciples were quiet. Peter's arms had uncrossed.
 
 "The woman in Mycenae," Mary said suddenly. "I saw her fleeing with her daughter and a bronze disc. Is that—was that real?"
 
-"Probably. The defensive network created seven bronze keys during the Bronze Age Collapse. Physical objects that anchored the knowledge. Some carriers fled with keys when cities burned. Your ancestor might have been one of them." Jesus's expression turned serious. "Do you remember which key? What did it look like?"
+"Probably. The first teachers made a few things — bronze, mostly, things small enough to hide in a cloak — before their cities burned. Things that held the knowledge when memory alone wasn't enough. When the running started, women carried them out. Your ancestor may have been one of those women." Jesus's expression turned serious. "Do you remember what she carried? What did it look like?"
 
 She looked away, reaching for the memory. The vision had been brief, fragmentary. But there, a bronze disc, eight inches across, covered in symbols that looked like hieroglyphics but weren't. Warm to the touch. Pulsing like it had its own heartbeat.
 
@@ -393,58 +387,4 @@ Someone was watching them.
 ---
 
 **END CHAPTER 2**
-
----
-
-## CONTINUITY NOTES:
-
-**Timeline:** 27 CE, Spring (1,204 years after Protocol creation)
-**Generation:** 42 (Mary of Magdala - Branch 3, parallel to Jesus's lineage)
-**POV:** Mary of Magdala (Miriam bat Ezra)
-
-**Bloodline Status:**
-- Mary: Generation 42 carrier (Branch 3), blood memory active since age 7
-- Inherited from mother who died at 34 from uncontrolled visions
-- Daughter Sarah (age 3) - potential Generation 43 carrier
-- Pi-Ramesses visions primary, also Babylon exile and Bronze Age Collapse
-
-**Blood Memory Progression:**
-- Age 7: First visions (mild, dismissed as nightmares)
-- Age 25 (after Sarah's birth): Visions intensify dramatically
-- Age 28 (present): Full immersion visions, daytime collapses, uncontrolled
-- Pattern: Strengthens with each generation + triggered by biological events (childbirth)
-
-**Seven Keys Status:**
-- Living Key (Key 1): Jesus (present in Capernaum)
-- Pattern Eye (Key 2): Mary's vision shows it fleeing Mycenae → Phoenicia (Byblos)
-- Memory Bridge (Key 3): Still lost
-- Distribution Network (Key 4): Fragmentary
-
-**Network Evolution:**
-- Mary joins Capernaum teaching network
-- First woman explicitly trained in defensive mode (this generation)
-- 12 male disciples + Mary creates parallel teaching structure
-- Grounding exercises introduced (distinguish past/present)
-
-**Character Development:**
-- Mary: Desperate → relieved → determined
-- Goes from "possessed/mad" to "carrier/teacher" identity
-- Single mother context adds urgency (protecting Sarah)
-- Economic desperation drives decision to seek answers
-
-**Forward Links:**
-- Chapter 3: Jesus baptism (Mary will attend, witness blood memory activation)
-- Chapter 4: Mary's first Sermon experience (dual-layer recognition from archive)
-- Chapter 5: Qumran visit, Mary experiences full Protocol access
-- Parallel teaching network (women) introduced later
-
-**Extracted from Archive:**
-- "I thought I was going mad" dialogue (line 199)
-- Recognition of dual-layer teaching (lines 162-236)
-- Child detail (Sarah sleeping on shoulder)
-- Community ostracism theme
-- Visions as demon possession misunderstanding
-
-**Word Count:** ~8,400 words
-**Status:** COMPLETE DRAFT
 

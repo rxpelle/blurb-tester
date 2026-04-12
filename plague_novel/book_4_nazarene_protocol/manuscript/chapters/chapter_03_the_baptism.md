@@ -1,10 +1,4 @@
-# BOOK 4: THE NAZARENE PROTOCOL - CHAPTER 3
-## "The Baptism"
-
-**Timeline:** 27 CE, Summer - 1,204 years after Genesis Protocol creation
-**Location:** Judean wilderness, Jordan River
-**Generation:** 42 (Jesus ben Yosef & John the Baptist)
-**POV Characters:** Alternating - Jesus & John
+# Chapter 3: The Baptism
 
 ---
 
@@ -166,7 +160,7 @@ Jesus walked into the Jordan. The water was cold, fed by mountain snowmelt even 
 
 John waded in after him. His hands were rough, calloused from years of sun-dried rope and desert stone, and when he placed one on Jesus's shoulder and the other against his back, the strength in them was immediate. A man who lived outdoors and worked with his body and had pulled people out of this river before.
 
-"In the name of the network," John murmured. "In memory of those who died teaching. In hope for those who survive learning. I baptize you."
+"In the name of those who came before," John murmured. "In memory of those who died teaching. In hope for those who will survive learning. I baptize you."
 
 Jesus closed his eyes. Let John press him backward into the water. Felt cold close over his face, fill his ears, seal the world away. Total immersion. Weightless. The river held him the way the earth holds a seed. Dark, patient, waiting for whatever would grow.
 
@@ -270,7 +264,7 @@ John followed him out of the water. The six witness students were staring. Jesus
 
 "There was more." Jesus pressed water from his eyes. "A bronze disc. Covered in symbols. The images are already fading but — Phoenician coast. Near what the Romans call Byblos. Buried in ruins from the collapse."
 
-"The Pattern Eye," John said. He'd heard the stories. A key that amplified blood memory — let weaker carriers see what only the strongest could access naturally.
+"The bronze disc," John said. He'd heard the old whispers. Something the first teachers had buried before their cities fell — a thing that opened doors in the blood for those whose blood would not open by itself.
 
 "Mary's drowning in visions she can't control. The Eye could help her separate past from present." Jesus turned to face him. "I'm asking you to find it."
 
@@ -334,9 +328,9 @@ John didn't ask whose hands. He'd felt it too, the phantom reach, the body searc
 
 "And the disc itself?"
 
-"Wide as two hands. Warm to the touch. Symbols that look Egyptian but aren't — older, something Nefertari's teachers used before hieratic standardized. You'll know it when you hold it. The blood memory will respond."
+"Wide as two hands. Warm to the touch. Symbols that look Egyptian but aren't — older, something Nefertari's teachers used before hieratic standardized. You'll know it when you hold it. Your body will know."
 
-"My blood memory barely responds to anything."
+"The visions barely come to me."
 
 "It'll respond to this." Jesus met his eyes across the fire. "The Eye doesn't require strong inheritance. That's the point. It bridges the gap. Lets carriers like you access what carriers like me see naturally." He paused. "That's why she built it. Not for the strong ones. For everyone else."
 
@@ -415,69 +409,3 @@ Nothing moved. But the unease didn't leave him, and when he finally walked back 
 ---
 
 **END CHAPTER 3**
-
----
-
-## CONTINUITY NOTES:
-
-**Timeline:** 27 CE, Summer (1,204 years after Protocol creation)
-**Generation:** 42 (Jesus ben Yosef & John the Baptist)
-**POV:** Alternating - John & Jesus
-
-**Bloodline Status:**
-- Jesus: Generation 42 carrier (primary line), full Protocol access via baptism vision
-- John: Generation 42 carrier (Branch 7), degraded inheritance, strong teaching ability
-- Vision confirms: Mary Magdalene (Branch 3, Gen 42), Titus (network-affiliated), Simon (network family)
-
-**Blood Memory Activation:**
-- Baptism ritual triggers full vision for Jesus
-- Sees: Nefertari creating Protocol, 84 students, Bronze Age Collapse, diaspora pattern
-- Sees: His own death (crucifixion, 10 years), John's death (Herod, 3 years)
-- Sees: 70 CE Jerusalem destruction, diaspora success, knowledge persistence to Gen 112
-
-**Seven Keys Status:**
-- Living Key (Key 1): Jesus (activated via baptism)
-- Pattern Eye (Key 2): Vision reveals location — Phoenicia/Byblos, Bronze Age ruins
-- Memory Bridge (Key 3): Still lost since Babylonian exile
-- Distribution Network (Key 4): Active but fragmented across families
-- Keys 5-7: Offensive mode keys, status unknown
-
-**Network Evolution:**
-- Jesus receives formal network recognition via baptism
-- Dual teaching structure confirmed: John (depth/wilderness) + Jesus (breadth/Galilee)
-- Pattern Eye search authorized: John to lead 6-month expedition autumn 27 CE
-- Both teachers accept martyrdom as encoding mechanism
-
-**Key Themes:**
-- Distribution over centralization (defensive vs offensive mode)
-- Martyrdom as knowledge encoding (inherited trauma serves teaching)
-- Degraded transmission acceptable (fragments persist across collapse)
-- Collaboration over competition (John & Jesus as complementary teachers)
-
-**Forward Links:**
-- Chapter 4: Jesus returns to Galilee, Mary Magdalene attends sermon, formal teaching begins
-- Chapter 5: Mary to Qumran, experiences Protocol access (possibly with Pattern Eye if found)
-- Chapter 9: Simon recovers Pattern Eye from Byblos (John's search succeeds)
-- Chapter 11: John's death (Herod Antipas, ~29-30 CE)
-- Chapter 12: Jesus's crucifixion (~33 CE)
-
-**Character Development:**
-- John: Envy → recognition of complementary value
-- Jesus: Carrier strength → full Protocol access → martyrdom acceptance
-- Both: Individual teaching → distributed network architecture
-
-**Theological Reframing:**
-- Baptism = network initiation ritual (NOT Christian sacrament)
-- Water immersion = knowledge flow across generations
-- Death/rebirth = individual node failure, network persistence
-- Vision = blood memory activation, not divine revelation
-- Martyrdom = encoding mechanism, not sacrifice
-
-**Historical Accuracy:**
-- Jordan River baptism practices (1st century context)
-- John the Baptist wilderness community (historical record)
-- Jesus-John familial connection (Gospel accounts)
-- Herod Antipas threat to John (historical trajectory)
-
-**Word Count:** ~5,000 words (expanded from ~3,245)
-**Status:** REVISED Phase 3 — Expanded John's Envy (baptism scene with hill country boy, fragmentary blood memory, humiliation), expanded Baptism Vision (workshop/hands, Babylon, crucifixion with physical detail), added Post-Baptism Fire scene (bread, laughter, death with tenderness). Voice matched to Preface: physical, sensory, love-centered.

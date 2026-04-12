@@ -59,3 +59,11 @@ Helena would watch from the hills. Witness. Not preventing the catastrophe — t
 She touched the disc one final time. The bronze was warm.
 
 It was always warm.
+
+---
+
+In Antioch, three weeks later, a letter arrived in a bundle of merchant correspondence. A girl of fifteen broke the plain wax while her mother slept, and read it by lamplight in a courtyard where she had been arranging small stones into patterns she could not explain to anyone who asked. She had dreamed of a workshop she had never seen. She had dreamed of a woman grinding something in a stone mortar and laughing at a mispronounced word. She knew, without having been told, that three taps on a workbench meant *come here* — and the knowing did not frighten her, because her mother had taught her to name what was in the room when the old pictures came.
+
+She pressed her hand against her left side. The warmth was there.
+
+The chain held.

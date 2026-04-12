@@ -1,10 +1,4 @@
-# BOOK 4: THE NAZARENE PROTOCOL - CHAPTER 7
-## "The Teachings Spread"
-
-**Timeline:** 31 CE Autumn → 32 CE Spring - 1,208-1,209 years after Genesis Protocol creation
-**Location:** Galilee circuit, Jerusalem, Bethany
-**Generation:** 42 (Jesus ben Yosef, ministry year 4)
-**POV Characters:** Jesus, Mary Magdalene, Simon Peter, Titus Publius Scipio
+# Chapter 7: The Teachings Spread
 
 ---
 
@@ -232,7 +226,7 @@ Mary had been listening. "But they'll tell this story as loaves multiplying. Div
 
 Mary nodded, but he could see the fear underneath her competence. Eighteen months. Maybe less if today's display accelerated Temple concern. Five thousand people moving as a coordinated unit — that was the kind of thing empires noticed.
 
-"We're not ready," Mary said quietly. "The network isn't wide enough yet."
+"We're not ready," Mary said quietly. "The families are scattered too thin."
 
 "We're never ready. We encode as much as we can in the time we have and trust distribution to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
 
@@ -281,9 +275,3 @@ Mary held Sarah tighter and walked the other direction, fast, not running, becau
 ---
 
 **END CHAPTER 7**
-
-**Timeline:** 31 CE Autumn → 32 CE Spring
-**Word Count:** ~3,300 words
-**Status:** REVISED — Prodigal Son cut, carrier debriefs eliminated. Feeding 5,000 restored (narrative reframing of miracle, stripped of lecture-format systems exposition).
-
-**Next Chapter:** Chapter 8 "The Crisis" (32 CE Winter)

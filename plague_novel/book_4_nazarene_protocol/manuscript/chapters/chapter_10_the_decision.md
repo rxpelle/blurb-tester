@@ -1,7 +1,4 @@
-# CHAPTER 10: THE DECISION
-
-**Timeline:** 33 CE Early Spring (3 weeks before arrest)
-**POV:** Jesus (primary), Mary, Titus (brief)
+# Chapter 10: The Decision
 
 ---
 
@@ -69,7 +66,7 @@ The room was quiet. Somewhere below, the child who'd been laughing was crying no
 
 Titus stood. His knee cracked, loud in the still room. He paused at the door. Looked back. The morning light had reached the window now, pale gold falling across the flagstones, and in it Titus's face held something Jesus had never seen there before: not grief, but the anguish of a man who writes history and knows he cannot change it.
 
-"I'll document your refusal. Make sure the network understands your reasoning even if they disagree."
+"I'll document your refusal. Make sure the families understand your reasoning even if they disagree."
 
 "Thank you."
 
@@ -137,7 +134,7 @@ Mary wanted to scream at how simply the girl reduced it. At the way a seven-year
 
 The first stars appeared over the lake. One, then three, then a scatter across the eastern sky like someone had flicked water from their fingers against dark cloth. The air cooled. Sarah had fallen asleep against Mary's side, her small body radiating heat against Mary's ribs, her breathing gone slow and deep, the absolute surrender of a child who falls asleep wherever safety is.
 
-Mary looked at the girl's face in the failing light, the lashes against her cheek, the small mouth slightly open, the untroubled architecture of a face that didn't yet carry the weight it would carry. Generation 43. Seven years old and already hearing patterns in her dreams that her mother had needed three years of training to access. What would this child become? What would the teaching look like in her hands, in her daughter's hands, in the hands of whoever came after?
+Mary looked at the girl's face in the failing light, the lashes against her cheek, the small mouth slightly open, the untroubled architecture of a face that didn't yet carry the weight it would carry. Seven years old and already hearing the old patterns in her dreams — patterns her mother had needed three years of waking work to learn to hold. What would this child become? What would the teaching look like in her hands, in her daughter's hands, in the hands of whoever came after?
 
 Mary would never know. That was the thing about generational work. You planted what you planted and you died and the harvest was someone else's.
 
@@ -173,7 +170,7 @@ He'd rehearsed this conversation since Jericho. Jesus could see it in the way Ju
 
 "I have a plan," he said.
 
-Jesus was alone. He'd sent the others to prepare the northern routes, the Damascus road, the safe houses, the network that would carry Mary and Sarah to safety after everything fell. The upper room was quiet. Afternoon light through the window. The Pattern Eye on the table where he'd left it that morning, its bronze surface catching the sun.
+Jesus was alone. He'd sent the others to prepare the northern routes, the Damascus road, the safe houses — every hand that would carry Mary and Sarah to safety after everything fell. The upper room was quiet. Afternoon light through the window. The Pattern Eye on the table where he'd left it that morning, its bronze surface catching the sun.
 
 "Sit down, Judas."
 
@@ -329,22 +326,4 @@ Because the love was worth it. Had always been worth it. And three weeks was eno
 
 ---
 
-**END OF CHAPTER 10**
-
-**Word Count:** ~5,500 words (expanded from ~1,269)
-**Status:** REVISED Phase 1 — Scene 1 expanded (Titus's arrival grounded, blood memory crucifixion flash, Jesus eating bread because body needs fuel), Scene 2 major expansion (hillside sensory immersion, "Are you afraid?" / "Terrified", after Sarah sleeps — hands on warm stone not touching, the reaching), Scene 3 expanded (Judas's rehearsed pitch, scarred knuckles, identity crisis, goodbye), NEW Scene 4 (Gethsemane reckoning — garden, blood memory of ancestors who died, mother's face, Nazareth workshop, warmth reaching into empty air)
-**Next Chapter:** Chapter 11 - The Betrayal
-
----
-
-**Continuity Notes for Next Session:**
-- Jesus has refused Helena's extraction offer (communicated via Titus)
-- Titus documented the refusal, returned to Jerusalem
-- Mary knows about the refusal, had hillside conversation with Jesus and Sarah
-- Judas arrived with rescue plan, learned his network is compromised, left determined to attempt rescue anyway
-- Jesus has privately reckoned with his death in the garden (Gethsemane parallel)
-- Three weeks remain before Passover arrest
-- Pattern Eye remains with Jesus (will transfer to Mary before arrest)
-- Sarah is with Mary in Capernaum, will need to be sent north before Passover
-- Helena's involuntary extraction threat still active — Jesus plans to stay too public for clean extraction
-- Key emotional beats established: Jesus's terror beneath resolve, Mary's hand on stone, Judas's identity crisis, the reaching
+**END CHAPTER 10**

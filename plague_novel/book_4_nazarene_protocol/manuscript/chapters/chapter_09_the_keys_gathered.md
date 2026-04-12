@@ -1,7 +1,4 @@
-# CHAPTER 9: THE KEYS GATHERED
-
-**Timeline:** 32 CE Summer (9-10 months before crucifixion)
-**POV:** Jesus (primary), Mary (secondary), Titus (brief)
+# Chapter 9: The Keys Gathered
 
 ---
 
@@ -35,7 +32,7 @@ The daughter's voice, small and desperate: *So without the keys, I can't access 
 
 And Nefertari's answer, the thing Jesus had never accessed before, the understanding that changed everything:
 
-*Because perfect carriers are rare. Forty generations of unbroken bloodline, every single ancestor a carrier, no gaps in transmission, no dilution, that carrier wouldn't need keys. That carrier would BE the Protocol. Living access. Complete understanding without bronze.*
+*Because the unbroken chain is rare. Generations and generations of mothers and daughters without one missing link, without one diluted year — that one would not need bronze. That one would be the river itself, not the cup the river fills. Living water. The whole song, sung without instruments.*
 
 *Has that ever happened?*
 
@@ -45,7 +42,7 @@ Jesus opened his eyes.
 
 His breath was ragged, his tunic soaked through with sweat despite the cold. His hands had locked around the bronze so tightly that the geometric edges had pressed grooves into his palms, shallow trenches that would hold the pattern for hours, as if the disc had been trying to write itself into his skin.
 
-He counted backward. Forty-one generations. From Nefertari's daughter to his mother. From his mother to him. Every single one documented in the genealogies the defensive network had preserved across twelve centuries. Every single one a carrier. No breaks. No gaps. No generation where the chain failed or thinned.
+He counted backward. Mother to mother to mother, all the way to a workshop in a city the world had forgotten. He could feel them now, the way you feel a long line of hands that have all held the same rope. Every one of them had carried it. Every one of them had passed it forward without dropping it. No breaks. No gaps. No place where the chain failed or thinned.
 
 He was the thing she'd theorized and never expected to exist.
 
@@ -131,7 +128,7 @@ He set the keys down carefully, as if they might break, though nothing about the
 
 "I need to attempt full integration. Qumran. The caves."
 
-Helena nodded. "The Essene elders are expecting you. I sent word last week." She'd been sure he'd say yes. That bothered Mary more than the keys themselves, the way the network had anticipated his choice before he'd made it, had arranged the path before he'd decided to walk it.
+Helena nodded. "The Essene elders are expecting you. I sent word last week." She'd been sure he'd say yes. That bothered Mary more than the keys themselves, the way the families had anticipated his choice before he'd made it, had arranged the path before he'd decided to walk it.
 
 After Helena left to rest in the room they'd prepared, and Mary had watched her lie down still dressed, still dusty, her hands finally empty and curling against her chest as if they didn't know what to do without the bronze — Mary turned to Jesus.
 
@@ -355,22 +352,4 @@ Later, Mary would remember this walk. Not the teachings, not the parables, not t
 
 ---
 
-**END OF CHAPTER 9**
-
-**Word Count:** ~6,060 words (expanded from ~2,085)
-**Status:** EXPANDED Phase 1 — Scene 1 immersive dawn treatment with sensory grounding and 41-generation realization. Scene 2 Helena arrival with blistered hands, Mary measuring exchange, Alexandria community detail. Scene 3 Qumran cave trauma cascade slowed with three specific ancestors (Miriam/dry well, Tobias/children dragged, Rebekah/burning village) plus Nefertari workshop. Added desert night physical warmth moment. Scene 5 expanded with Sarah hearing both layers (pride/terror), Mary-Jesus quiet hillside evening with near-touching warmth.
-**Next Chapter:** Chapter 10 - The Decision
-
----
-
-**Continuity Notes for Next Session:**
-- Jesus has achieved the clarity the keys had given him — can teach with precision but must perform weakness to avoid timeline acceleration
-- Helena of Alexandria delivered two bronze keys (blistered hands, six-day journey)
-- Temple (Caiaphas) moved their three keys to secured vault, aware of Qumran trip
-- Titus warns: arrest within weeks if full strength is demonstrated
-- Jesus performing strategic ambiguity — teaching deeply but leaving rough edges
-- Sarah (age 7, Generation 43) can already hear both layers of the parables
-- Mary is awake to the cost of Sarah's inheritance
-- Physical warmth between Mary and Jesus established (arm touch, near-touching hands on stone) — partnership, love, impending loss
-- Nine months to Passover. Teaching multiplication underway. Eight thousand at hillside teaching.
-- Pattern Eye grooves pressed into Jesus's palms — motif of the bronze writing itself into his body
+**END CHAPTER 9**

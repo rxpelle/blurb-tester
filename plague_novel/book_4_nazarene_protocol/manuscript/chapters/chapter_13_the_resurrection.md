@@ -1,6 +1,4 @@
-# CHAPTER 13: The Resurrection
-
-**33 CE Spring - Three Days After Crucifixion**
+# Chapter 13: The Resurrection
 
 ---
 
@@ -176,7 +174,7 @@ She was on the ground. Grass under her palms, cold with dew. She looked up.
 
 He was there. Morning light on his face. The same face — the lines around his eyes from squinting against Galilean sun, the slight asymmetry of his nose that came from a childhood carpentry accident he'd never explained, the way his left eyebrow rose slightly higher than his right when he was about to say something that mattered. The same hands, and she could see the marks in his wrists where iron had gone through flesh and bone and wood. Neither bleeding nor healed. Just there. The evidence of what had happened, carried in his body the way she carried the evidence of everything she'd witnessed in hers.
 
-She didn't care what he was. Resurrected body, vision, something she had no word for and would never have a word for and didn't need a word for. He'd said her name.
+She didn't care how it was possible. She had stood at the cross and counted his breaths until there were none, and now he was standing in morning light with her name in his mouth, and her body had decided — before her mind could form the word — that he was here. Living. Present. The *how* was a question for theologians and grief-sick men behind locked doors. She had the only answer she needed: she knew him. She had known him the way a child knows its mother's voice in a crowd, bodily, below the level of choice, and the knowing was enough to stand on.
 
 She just needed him to have said her name.
 
@@ -330,7 +328,7 @@ Mary was quiet for a long time. The wind moved through the date palm. A neighbor
 
 "Will they listen?" Leah asked.
 
-"Peter will ask why Jesus spoke privately with a woman." Mary's voice was steady now. "They'll be asking that question for a very long time. They'll build churches and councils and centuries of theology around the question of why he appeared to me first. They'll try to write me out. They'll call me a prostitute because that's easier than calling me a teacher."
+"Peter will ask why he spoke alone with a woman." Mary's voice was steady. "He has been asking it since the upper room. He will keep asking it. The men who come after him will keep asking it, and the question will be heavier than the answer. They will write down what happened in their own way. They will write me out, or they will write me small. They will give me an easier name than *teacher* — the name men give to women whose place in a story embarrasses them."
 
 Silence in the courtyard. Sarah's breathing against her mother's ribs.
 
@@ -340,7 +338,7 @@ Silence in the courtyard. Sarah's breathing against her mother's ribs.
 
 That night, after Sarah had fallen asleep — curled against Mary's side, one hand clutching her mother's sleeve, the grip loosening gradually as sleep took her — Mary sat up carefully, easing herself free. She found Leah's oil lamp. She found papyrus and a reed stylus in Leah's writing box. She sat at the small table in the corner of the sleeping room, the lamp flame steady in the still air, Sarah's breathing behind her slow and even.
 
-Mary dipped the stylus. The ink was thick and smelled of soot and acacia gum. She held the reed the way she'd always held a writing instrument — three fingers, angled slightly, the grip of someone trained in hieratic script. The same grip Jesus had noticed the first day. *You were trained.* Yes. She had been trained. By teachers in Alexandria. By blood memory. By five years beside a man who knew what she carried and never once called it madness.
+Mary dipped the stylus. The ink was thick and smelled of soot and acacia gum. She held the reed the way she'd always held a writing instrument — three fingers, angled slightly, the grip of someone trained in hieratic script. The same grip Jesus had noticed the first day. *You were trained.* Yes. She had been trained. By teachers in Alexandria. By the dreams that taught her in the dark. By five years beside a man who knew what she carried and never once called it madness.
 
 She wrote:
 
@@ -369,21 +367,3 @@ Outside, Damascus slept. The date palm moved in a wind that had come from the so
 ---
 
 **END CHAPTER 13**
-
-**Word Count:** ~5,500 words
-**Status:** EXPANDED Phase 1 — Sarah in Damascus immersive (nightmare, earthquake, blood-knowing), Empty Tomb slowed (three sleepless nights, sensory walk, folded linen), Garden MAJOR EXPANSION (spiritual climax: grief breaking, mistaken identity, "Mary" recognition scene, wrist marks, rosemary/stone/birdsong), Damascus Reunion expanded (five days on road, Sarah running, courtyard story, Mary writing Gospel by lamplight, Preface parallel)
-**Timeline:** 33 CE Spring, Resurrection Day + five days
-**Bridge to Chapter 14:** Forty-day appearance period, ascension, church formation
-
----
-
-**Continuity Notes for Next Session:**
-- Mary Magdalene reunited with Sarah in Damascus
-- Garden encounter: Jesus appeared, said her name, instructed her to write
-- Mary has begun writing her Gospel by lamplight in Leah's house
-- Pattern Eye and two defensive keys with Sarah/Leah in Damascus
-- Defensive network scattered: Antioch, Ephesus, Corinth, Alexandria, Cyrene
-- Peter and disciples in Jerusalem, told of resurrection
-- Titus still in Jerusalem, preparing to travel to Damascus
-- Forty-day appearance period beginning
-- Chapter 14 will cover: forty days, ascension, church formation, scatter, Mary's death in Alexandria

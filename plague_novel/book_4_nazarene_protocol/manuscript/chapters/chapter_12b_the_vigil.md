@@ -1,10 +1,4 @@
-# BOOK 4: LOVE REMEMBERS IN SILENCE — CHAPTER 12.5
-## "The Vigil"
-
-**Timeline:** Saturday, April 4, 33 CE (Sabbath — day after crucifixion)
-**Location:** Jerusalem, Upper Room / Borrowed Room
-**POV Character:** Mary of Magdala / Simon Peter
-**Generation:** 42 of 112
+# Chapter 12.5: The Vigil
 
 ---
 
@@ -139,19 +133,3 @@ Toward tomorrow. And whatever tomorrow held.
 ---
 
 **END CHAPTER 12.5**
-
-**Word Count:** ~2,500 words
-**Status:** NEW — Phase 2. Inserted between Chapter 12 "The Execution" and Chapter 13 "The Resurrection"
-**Timeline:** Saturday, April 4, 33 CE (Sabbath — one day after crucifixion, one day before resurrection)
-**Bridge:** Mary's personal grief (inherited vs. personal) established; Peter/Mary fracture seeded; sets up Mary's sleeplessness and spice preparation in Chapter 13, Scene 2
-
----
-
-**Continuity Notes for Next Session:**
-- Mary in borrowed room in Jerusalem, awake through Sabbath night
-- Peter in same room, sleeping against wall — denied Jesus three times
-- Spice jars purchased and ready (myrrh, aloe, nard)
-- Sarah in Damascus with Leah (from Chapter 12 continuity)
-- Guards still posted at sealed tomb
-- Tomorrow morning: Mary, Joanna, and Salome walk to the tomb (Chapter 13)
-- Peter/Mary relationship cracked — knowledge of the cross will calcify into resentment

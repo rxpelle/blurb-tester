@@ -7,12 +7,7 @@ New readers should know: in this world, extreme experiences can imprint so deepl
 ---
 
 # PREFACE
-## "The Gathering"
-
-**Timeline:** 26 CE
-**Location:** Galilee (near Capernaum)
-**Generation:** 42 (Jesus ben Yosef)
-**POV Character:** Jesus ben Yosef
+## The Gathering
 
 ---
 

@@ -1,10 +1,4 @@
-# BOOK 4: LOVE REMEMBERS IN SILENCE - CHAPTER 7.5
-## "The Women's Network"
-
-**Timeline:** 32 CE, Winter - 1,209 years after Genesis Protocol creation
-**Location:** Capernaum, Bethany
-**POV Character:** Mary of Magdala
-**Generation:** 42 of 112
+# Chapter 7.5: The Women's Network
 
 ---
 
@@ -176,7 +170,7 @@ Mary's throat closed. She'd told Sarah the truth about her mother's death a year
 
 Sarah's hand found Mary's hand in the dark. Small fingers threading through larger ones with the grip of a child who has learned that hands are the most reliable anchor in the world.
 
-"I won't die like that," Sarah said. "I know the grounding. Five things. I practice every night."
+"I won't die like that," Sarah said. "I know what to do. I name the blanket and the mint and the lake. I practice every night."
 
 Mary held her daughter and did not promise. Did not say *you're right, you won't.* Did not say *I'll always be here to teach you.* Because the truth was that Mary didn't know. Didn't know if the training was enough, didn't know if she'd be alive to finish it, didn't know if the thing that killed her mother at thirty-four was patience or inevitability.
 
@@ -248,7 +242,7 @@ Miriam was quiet for a long time. The oil lamp on the table guttered in a draft.
 
 "Four years."
 
-Mary stared at her. Four years. Working independently, without the bloodline training, without the parables, without any connection to the network. Just women watching other women die and deciding to act.
+Mary stared at her. Four years. Working independently, without the bloodline training, without the parables, without knowing any of them at all. Just women watching other women die and deciding to act.
 
 "How did you hear about us?" Rachel asked.
 
@@ -311,9 +305,3 @@ It was never enough time.
 ---
 
 **END CHAPTER 7.5**
-
-**Timeline:** 32 CE, Winter (12 months before crucifixion)
-**Word Count:** ~3,100 words
-**Status:** FIRST DRAFT
-
-**Next Chapter:** Chapter 8 "The Crisis" (32 CE Winter)
