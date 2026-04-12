@@ -1,4 +1,4 @@
-# Chapter 12.5: The Vigil
+# Interlude: The Vigil
 
 ---
 

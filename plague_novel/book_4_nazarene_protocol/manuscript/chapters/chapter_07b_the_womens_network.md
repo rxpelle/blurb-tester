@@ -1,4 +1,4 @@
-# Chapter 7.5: The Women's Network
+# Interlude: The Women's Network
 
 ---
 
