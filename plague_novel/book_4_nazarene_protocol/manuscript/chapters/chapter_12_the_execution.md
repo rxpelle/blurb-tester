@@ -250,7 +250,7 @@ Darkness for three hours that felt like seasons. The wind carrying grit from the
 
 *Jesus POV*
 
-The blood memory came as his body failed. Something older than the visions he'd trained himself to access. Simpler.
+It came as his body failed. Something older than the visions he'd trained himself to access. Simpler.
 
 Not the collapses. Not the burning cities or the hiding or the running. The other thing. The thing underneath all of it. The reason any of them had bothered to survive.
 
@@ -268,7 +268,7 @@ Sarah's small hand arranging shells on a dock.
 
 Just the people he loved, arriving to carry him home.
 
-He couldn't feel his hands anymore. His chest barely moved. Something warm was pulling him down, and it wasn't the blood. It was the weight of forty-one generations finally letting go.
+He couldn't feel his hands anymore. His chest barely moved. Something warm was pulling him down, and it wasn't the blood. It was the weight of everything that had come before him, finally letting go.
 
 He opened his eyes one more time. Found Mary Magdalene's face in the crowd below. Still watching. Still holding him.
 
@@ -362,7 +362,7 @@ Jesus sitting beside her on the ground outside Bethany while she told him about 
 
 Jesus humming in the workshop — a tune she didn't recognize, something he said came to him from nowhere, and she'd stood in the doorway watching his hands move across the wood and thought: *This is what he is when no one's watching. This is the man under the teacher.* A carpenter. Humming. Building something with his hands while the world outside prepared to kill him.
 
-Those were her memories. Not inherited from Nefertari or Tausret or any of the women who came before. Not encoded in blood. Not passed down through forty-two generations. Made in the last five years, in the ordinary spaces between teachings, in the small rooms and dusty roads and borrowed courtyards where two people had built something together that the world would never fully see because it happened in the margins, in the silences, in the moments when the crowds had gone home and the torches were out and it was just them — two people who knew each other the way stone knows water, by long wearing, by slow reshaping, by the patient fact of proximity.
+Those were her memories. Not inherited from Nefertari or Tausret or any of the women who came before. Not given to her by anyone but the man she had stood beside. Made in the last five years, in the ordinary spaces between teachings, in the small rooms and dusty roads and borrowed courtyards where two people had built something together that the world would never fully see because it happened in the margins, in the silences, in the moments when the crowds had gone home and the torches were out and it was just them — two people who knew each other the way stone knows water, by long wearing, by slow reshaping, by the patient fact of proximity.
 
 Hers. Uninherited. Unencoded.
 

@@ -122,7 +122,7 @@ Mary kept her hand where it was. She didn't shake Sarah awake, didn't pull her o
 
 "She's making something. With bronze. Her hands are burned but she doesn't stop." Sarah's eyes were still closed, her body curled tight against Mary's side. "There's a man in the workshop too. He keeps tapping the table. One tap means look. Two taps means start over."
 
-Mary's chest tightened. She knew that detail. Had lived it in her own blood memory a thousand times -- the specific percussion language between Nefertari and the man she loved. Her daughter was dreaming the same dream.
+Mary's chest tightened. She knew that detail. Had lived it in her own dreams a thousand times -- the specific percussion language between Nefertari and the man she loved. Her daughter was dreaming the same dream.
 
 "What does three taps mean?" Mary asked softly.
 
@@ -266,11 +266,11 @@ She let it sit. Didn't soften it. Didn't offer comfort.
 
 "When?" Phoebe asked.
 
-"I don't know. A generation. Ten generations. However long it takes for someone to go looking for what was lost."
+"I don't know. A lifetime. Ten lifetimes. However long it takes for someone to go looking for what was lost."
 
 The room was quiet. The oil lamp steadied, its flame standing straight in the still air.
 
-"The teaching survives in two ways," Mary said. "Through the blood -- the memories our children inherit whether we train them or not. And through practice -- the circles, the interventions, the women catching each other when the teaching fails. The blood we can't control. The practice we can. And through the keys — if we can find the last two before the scattering. Without the full set, every generation after us reads the pattern through broken glass."
+"The teaching survives in two ways," Mary said. "Through the blood -- the memories our children inherit whether we train them or not. And through practice -- the circles, the interventions, the women catching each other when the teaching fails. The blood we can't control. The practice we can. And through the keys — if we can find the last two before the scattering. Without the full set, the women who come after us read the pattern through broken glass."
 
 She rolled the map. Her hands had warmed around the clay cup and were cooling again.
 

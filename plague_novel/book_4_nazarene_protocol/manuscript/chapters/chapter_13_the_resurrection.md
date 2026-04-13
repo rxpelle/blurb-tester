@@ -160,7 +160,7 @@ One word.
 
 Her name.
 
-Spoken the way only one person had ever spoken it, the particular stress on the first syllable, the slight roughness of Galilean Aramaic, the tone that carried five years of teaching and trust and the specific knowledge of who she was before he found her. Not Mary the disciple. Not Mary the teacher. Not Mary who led the women's network or carried blood memory or raised a daughter alone in a world that wanted to burn everything she knew. Just *Mary*. The way he'd said it the first time, in the room in Capernaum, when she'd been shaking from a vision she couldn't stop and he'd knelt beside her and said her name and the vision had gone quiet. Not because of what he did. Because of how he said it. As if her name in his mouth was a place she could stand.
+Spoken the way only one person had ever spoken it, the particular stress on the first syllable, the slight roughness of Galilean Aramaic, the tone that carried five years of teaching and trust and the specific knowledge of who she was before he found her. Not Mary the disciple. Not Mary the teacher. Not Mary who led the women's circles or carried what her mothers had carried or raised a daughter alone in a world that wanted to burn everything she knew. Just *Mary*. The way he'd said it the first time, in the room in Capernaum, when she'd been shaking from a vision she couldn't stop and he'd knelt beside her and said her name and the vision had gone quiet. Not because of what he did. Because of how he said it. As if her name in his mouth was a place she could stand.
 
 Her body recognized him before her mind did.
 

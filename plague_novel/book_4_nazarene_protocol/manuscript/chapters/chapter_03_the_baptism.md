@@ -12,7 +12,7 @@ John felt it in his hands before he saw it, the tremor that started in the boy's
 
 The boy had been dreaming of fire. Walls collapsing. A harbor choked with ash. He'd described it to John the night before in halting sentences, embarrassed, picking at a callus on his palm: *I smell the smoke when I wake up. My sheets are wet. My mother thinks I'm possessed.*
 
-John had heard this story, or versions of it, two hundred times. He knew what it meant. A carrier, weak, fragmentary, the kind of inheritance that produced nightmares rather than knowledge. The boy's bloodline had carried some scrap of the old memory forward through forty-two generations, and it had degraded into a thing that woke him screaming.
+John had heard this story, or versions of it, two hundred times. He knew what it meant. A carrier, weak, fragmentary, the kind of inheritance that produced nightmares rather than knowledge. The boy's line had carried some scrap of the old memory forward across centuries, and by the time it reached him it had degraded into a thing that woke him screaming.
 
 "Breathe," John told him now, one hand on his shoulder, the other supporting the small of his back. The Jordan moved around their thighs, cold even in summer, fed by snowmelt from the Hermon range. "When you go under, the water is just water. Whatever you see, I'm here. I pull you out."
 
@@ -38,7 +38,7 @@ The boy looked at John with the bewildered, violated expression of someone who h
 
 John helped the boy to shore. Wrapped him in a cloak. Told Elias to give him bread and water and not to leave him alone until the shaking stopped. The boy sat on the bank with his arms around his knees, staring at the river, looking older than he had five minutes ago.
 
-This was John's work. Two hundred baptisms in three years. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service because the dreams had become unbearable. They came because the same thing drove them to the river, visions they couldn't explain, inherited dread they had no words for, the feeling that something terrible had happened to someone they'd never met and the grief had never been discharged. John gave them language for it. Gave them ritual. Put them under the water and let the blood memory surface, and then pulled them out and told them they weren't mad. That what they carried was real. That it meant something.
+This was John's work. Two hundred baptisms in three years. Tannery workers from Jericho, olive farmers from the hill country, a Levite who'd walked away from Temple service because the dreams had become unbearable. They came because the same thing drove them to the river, visions they couldn't explain, inherited dread they had no words for, the feeling that something terrible had happened to someone they'd never met and the grief had never been discharged. John gave them language for it. Gave them ritual. Put them under the water and let the old knowing surface, and then pulled them out and told them they weren't mad. That what they carried was real. That it meant something.
 
 But John's own inheritance was fragmentary. He could sense collapse the way some people sensed weather, a pressure change, a tightening behind the eyes. He dreamed of burning, but the edges were smeared. He caught the emotional register of catastrophe without the architecture. Grief without geography. Terror without the city that produced it.
 
@@ -120,7 +120,7 @@ Jesus started to leave, then looked back. "You're a better teacher than you thin
 
 Then he was gone.
 
-John stood alone overlooking the Jordan. Tonight he would baptize the strongest carrier in forty-two generations. And if the visions came the way Jesus expected, everything might change.
+John stood alone overlooking the Jordan. Tonight he would baptize the strongest carrier born in all the centuries the families had been waiting. And if the visions came the way Jesus expected, everything might change.
 
 He wasn't sure if that excited or terrified him. Probably both.
 
@@ -130,7 +130,7 @@ He wasn't sure if that excited or terrified him. Probably both.
 
 Evening crept across the wilderness, the Jordan turning amber as long shadows reached from the western ridges.
 
-Jesus sat in shade, waiting. He'd glimpsed this moment months ago in blood memory, the Jordan, water closing over his head, a seal breaking. The specifics were unclear. The pattern was certain.
+Jesus sat in shade, waiting. He'd glimpsed this moment months ago in a dream that wasn't a dream — the Jordan, water closing over his head, a seal breaking. The specifics were unclear. The pattern was certain.
 
 "Teacher."
 
@@ -170,7 +170,7 @@ Jesus closed his eyes. Let John press him backward into the water. Felt cold clo
 
 ## SCENE 3: The Vision - Jesus's POV
 
-The blood memory hit like a wall.
+It hit him like a wall.
 
 This was no fragment, no brief immersion like the ones Mary described or the echoes John experienced. Full immersion, twelve centuries compressed into heartbeats.
 
@@ -190,7 +190,7 @@ Nefertari's answer carried across twelve centuries like a stone dropped into sti
 
 The girl looked stricken. *You're saying we pass our suffering forward? To our own children?*
 
-*I'm saying suffering will pass forward regardless. That's what trauma does — it persists across generations whether you choose it or not. But if you send knowledge with the grief — if your descendants inherit not just the memory of what fell but the understanding of how to keep it from falling again, then the suffering has a purpose. They get both. The wound and the medicine.*
+*I'm saying suffering will pass forward regardless. That's what grief this deep does — it outlives you whether you choose it or not. But if you send knowledge with the grief — if your children's children inherit not just the memory of what fell but the understanding of how to keep it from falling again, then the suffering has a purpose. They get both. The wound and the medicine.*
 
 The girl wept. Others joined her. Nefertari's own eyes were bright with fever, her hands shaking, but her voice held steady.
 
@@ -218,7 +218,7 @@ Then his own face. Teaching on a hillside. A Roman officer, auxiliary cavalry, S
 
 Then Jerusalem. A hill outside the eastern wall. The smell of raw wood and iron. Jesus saw his own hands, the carpenter's calluses he'd know anywhere, stretched against a crossbeam. He felt the nail before it existed: a cold point of pressure in the center of his left wrist, then a white-hot crack that split the world in two. His weight sagged forward. The wood held him. And the warmth beneath his ribs, the warmth that had lived there since he was three, the love that twelve centuries of reaching had distilled into something that could hold forty strangers on a hillside, poured out of the wound like water. Not diminished. *Released.* As if the nail had opened the well and everything that had been building since Nefertari's classroom was finally, finally flowing free.
 
-He saw his own face on the cross. Not fear. Recognition. The expression of someone who had seen this moment in blood memory for thirty years and had walked toward it anyway.
+He saw his own face on the cross. Not fear. Recognition. The expression of someone who had seen this moment in dreams for thirty years and had walked toward it anyway.
 
 One final image before the vision released: a bronze disc, wide as two hands laid side by side. Covered in symbols that weren't quite Egyptian. Pulsing warm. Hidden somewhere along the Phoenician coast, buried since the collapse.
 
@@ -398,7 +398,7 @@ He slept. And for once, the dreams that came were not of burning cities.
 
 ---
 
-In the morning, Jesus was already gone. The cloak was folded on the stone where he'd lain. The fire was ash. And the Jordan kept moving — carrying snowmelt south, the way it had carried knowledge forward through forty-two generations of sleeping and waking and reaching for hands that weren't there.
+In the morning, Jesus was already gone. The cloak was folded on the stone where he'd lain. The fire was ash. And the Jordan kept moving — carrying snowmelt south, the way it had carried knowledge forward across centuries of sleeping and waking and reaching for hands that weren't there.
 
 John stood alone beside the river. Downstream, his students were stirring, smoke rising from the morning cook fire. Upstream, the baptism pool waited for the next carrier who would go under the water and come up weeping.
 

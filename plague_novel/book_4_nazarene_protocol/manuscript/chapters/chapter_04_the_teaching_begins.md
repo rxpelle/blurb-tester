@@ -92,7 +92,7 @@ Mary hadn't moved. Sarah was sleeping in her lap, face pressed against her mothe
 
 Jesus descended from the outcrop. The remaining crowd milled, dispersing in clusters, discussing what they'd heard. Some angry, some thoughtful, and most just confused.
 
-He reached Mary. She looked up at him with an expression he'd only seen a few times in his life, on other carriers' faces, at the moment when blood memory clicked from overwhelming chaos into comprehensible pattern.
+He reached Mary. She looked up at him with an expression he'd only seen a few times in his life, on other carriers' faces, at the moment when the old chaos clicked into comprehensible pattern.
 
 "You heard it," he said.
 

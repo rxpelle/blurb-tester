@@ -172,7 +172,7 @@ Her throat closed. "How do you—"
 
 "Thirty-four." Mary's voice went rough. "She described cities she'd never seen. The physicians couldn't explain it. The community said demons ran in our family."
 
-"Not demons. Blood. Your ancestor was there when that city fell. What she lived through went so deep it changed something in her body, the way a mother's starvation marks her children's bones, or a father's terror lives in his son's flinch. Except this went deeper. Forty-two generations. By the time it reached you, the memories feel as real as your own life."
+"Not demons. Blood. Your ancestor was there when that city fell. What she lived through went so deep it changed something in her body, the way a mother's starvation marks her children's bones, or a father's terror lives in his son's flinch. Except this went deeper, and it kept going, mother to daughter, for longer than anyone still remembers. By the time it reached you, the memories feel as real as your own life."
 
 Mary turned the idea over the way she'd turn a contract clause, looking for the flaw. "Like how Sarah has my eyes. But in the mind instead of the face."
 
@@ -200,7 +200,7 @@ Mary was quiet. Her merchant's mind was already working, the part that saw suppl
 
 Jesus was watching her with an expression she couldn't read, surprise, maybe, or relief. "You see it."
 
-"I'm a merchant. I've watched trade routes dry up and markets panic. I just didn't know the visions were showing me the same thing at a larger scale." She paused. "That's what the blood memory is for? Seeing collapse before it arrives?"
+"I'm a merchant. I've watched trade routes dry up and markets panic. I just didn't know the visions were showing me the same thing at a larger scale." She paused. "That's what the dreams are for? Seeing collapse before it arrives?"
 
 "Yes."
 

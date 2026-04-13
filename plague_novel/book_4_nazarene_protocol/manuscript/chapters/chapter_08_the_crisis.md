@@ -134,15 +134,15 @@ Jesus was in the workshop. He'd been in the workshop since dawn, fitting tenons 
 
 His hands kept working.
 
-He'd known for months. Blood memory had shown him the timeline in autumn, clear and specific, the courtyard, the column, the crossbeam, the hill. He'd felt the nails before they existed. Had woken tasting iron and bile, the phantom sensation of lungs compressed under his own weight, and had lain on his sleeping mat in the dark with his heart slamming against his ribs while his left hand reached sideways into empty air and found nothing.
+He'd known for months. The dreams had shown him the timeline in autumn, clear and specific, the courtyard, the column, the crossbeam, the hill. He'd felt the nails before they existed. Had woken tasting iron and bile, the phantom sensation of lungs compressed under his own weight, and had lain on his sleeping mat in the dark with his heart slamming against his ribs while his left hand reached sideways into empty air and found nothing.
 
 But knowing was different from confirmed. The way knowing you'll die someday is different from a physician saying *this winter*.
 
 He set the chisel down. Picked it up again. A fine tremor ran through his fingers, the kind you could hide from other people but not from wood. The joint would be rough if he cut now. He set the chisel down again and pressed both palms flat against the tabletop, fingers spread, and felt the grain under his skin. Cedar. Warm. The wood didn't know what was coming. The wood just held.
 
-The blood memory came then. Not the deaths he'd trained himself to access, not the collapses and the palace fires and the long archive of persecution, the other ones. The quiet ones. A girl of fourteen sewing her grandmother's pendant into the lining of her cloak before the soldiers came, three stitches, four, the needle slipping because her fingers were wet, pulling the thread tight, biting it off. She had finished something ordinary with shaking hands. Each of them had swept a floor or tied a knot or pressed oil from an olive because the body needed routine the way lungs needed air, because if you stopped doing the ordinary things you'd start screaming and never stop.
+It came then. Not the deaths he'd trained himself to access, not the collapses and the palace fires and the long archive of persecution, the other ones. The quiet ones. A girl of fourteen sewing her grandmother's pendant into the lining of her cloak before the soldiers came, three stitches, four, the needle slipping because her fingers were wet, pulling the thread tight, biting it off. She had finished something ordinary with shaking hands. Each of them had swept a floor or tied a knot or pressed oil from an olive because the body needed routine the way lungs needed air, because if you stopped doing the ordinary things you'd start screaming and never stop.
 
-Forty-one generations of this. Forty-one lives that had ended because they carried something the world wasn't ready to hold. The memory of each death lived in his blood like sediment in a well, most days it stayed at the bottom, still and dark, but today the runner's three words had dropped a stone into the water and everything was churning upward.
+So many of them. So many lives that had ended because they carried something the world wasn't ready to hold. The memory of each death lived in his blood like sediment in a well, most days it stayed at the bottom, still and dark, but today the runner's three words had dropped a stone into the water and everything was churning upward.
 
 Jesus picked up the chisel. Cut the joint. His hands steadied because the wood required it.
 
@@ -186,7 +186,7 @@ He found Jesus teaching in the synagogue at sunset, the last light coming throug
 
 "Passover," Titus said. "Official. The decision is made."
 
-Jesus froze, his hands flat against the window frame. His knuckles whitened. "I know. Blood memory showed me four months ago."
+Jesus froze, his hands flat against the window frame. His knuckles whitened. "I know. The dreams showed me four months ago."
 
 "Then flee. I can arrange passage to Egypt, Syria —"
 
@@ -242,7 +242,7 @@ Mary lost the thread mid-sentence.
 
 She was teaching eighty women in the large room — oil lamps guttering in the draft from the courtyard, too many bodies pressing the air warm and close, the smell of wool and bread and the musk of women who'd walked miles to be here. The Mustard Seed parable. She'd taught it dozens of times. But Titus's news from Jerusalem had hollowed out her chest, and the words kept catching on something sharp inside her.
 
-She was saying *smallest seed, largest plant* when the image came: Jesus on a cross. No vision, no blood memory. Just her own mind, doing what minds do when they know something terrible is coming — constructing it in advance, frame by frame, so the body can practice its horror. She saw the wood. She saw his hands. She saw the nails and the way his shoulders would pull taut under his own weight, and she heard the sound he would make when his lungs couldn't fill, and the room tilted and the words stopped.
+She was saying *smallest seed, largest plant* when the image came: Jesus on a cross. No vision, no inheritance. Just her own mind, doing what minds do when they know something terrible is coming — constructing it in advance, frame by frame, so the body can practice its horror. She saw the wood. She saw his hands. She saw the nails and the way his shoulders would pull taut under his own weight, and she heard the sound he would make when his lungs couldn't fill, and the room tilted and the words stopped.
 
 A baby fussed somewhere in the back. A woman near the door shifted, her wooden sandals scraping against the stone floor.
 
@@ -324,7 +324,7 @@ The lamp guttered. A dog barked somewhere near the water. The lake lapped at the
 
 Leah was quiet for a long time. Long enough that Mary thought she wouldn't answer. Long enough that the silence became its own kind of holding — Leah sitting with Mary in the fear the way you sit with someone in a sickroom, present, not pretending it wasn't happening.
 
-Then, quietly: "You taught me to read both layers of a parable when I couldn't tell a metaphor from a meal blessing. You taught Rachel to access blood memory when she thought the visions were madness. You taught Abigail to hold a room of forty women and make every one of them feel seen." She paused. "You're afraid. That's allowed. But the work is already done, Mary. Not finished — never finished, but *planted*. In us."
+Then, quietly: "You taught me to read both layers of a parable when I couldn't tell a metaphor from a meal blessing. You taught Rachel to hold what came to her in the night when she thought the visions were madness. You taught Abigail to hold a room of forty women and make every one of them feel seen." She paused. "You're afraid. That's allowed. But the work is already done, Mary. Not finished — never finished, but *planted*. In us."
 
 Rachel and Abigail had come back. Rachel with flour still on her hands from the bread she'd been making — the same Rachel who, last month, had gone to Deborah's kitchen when Deborah's face was too bad for the circle. Had sat with her and ground grain together and said nothing about the bruise. That was the teaching. Not the parables, not the systems theory, not the dual-layer encoding. Someone showing up and not looking away. Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
 

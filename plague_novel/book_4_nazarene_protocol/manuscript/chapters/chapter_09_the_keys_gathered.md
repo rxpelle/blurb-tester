@@ -36,7 +36,7 @@ And Nefertari's answer, the thing Jesus had never accessed before, the understan
 
 *Has that ever happened?*
 
-Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does, if someone emerges forty generations from now with perfect unbroken transmission. They'll understand everything I encoded. Every layer. Every pattern. Everything I saw when I created this.*
+Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does, if some daughter of my daughter's daughters comes into the world with the chain unbroken behind her, she will understand everything I encoded. Every layer. Every pattern. Everything I saw when I created this.*
 
 Jesus opened his eyes.
 
@@ -48,21 +48,21 @@ He was the thing she'd theorized and never expected to exist.
 
 Now warm against his chest, it pulsed with a rhythm that wasn't his heartbeat, or was his heartbeat, or was both, his and all of theirs, forty-one hearts beating in the same chest, forty-one sets of lungs drawing the same breath in this cold room.
 
-His left hand moved. The involuntary reach, the one he'd felt since childhood, the hand searching for someone who wasn't there, someone who'd been dead for twelve centuries. But now he understood what it was reaching for. Not a person. A completion. The end of a sentence that had taken forty-one generations to speak.
+His left hand moved. The involuntary reach, the one he'd felt since childhood, the hand searching for someone who wasn't there, someone who had been dead longer than any kingdom he knew the name of. But now he understood what it was reaching for. Not a person. A completion. The end of a sentence that had taken many lifetimes to speak.
 
 And with the understanding came the cost. Because the chain was unbroken, and the chain was made of people, and the people had suffered.
 
 A woman hiding in a grain jar while boots passed overhead, the smell of barley dust in the dark, the sound of her own breathing too loud in the clay vessel, the cramp in her thighs from folding herself small enough to fit.
 
-But then — a different kind of memory. A man teaching his daughter to mix pigment in a courtyard filled with morning light, both of them laughing because the blue kept coming out green, and her hands were stained and his beard was stained and neither of them cared. Twenty generations back. A single afternoon when nobody was hunting anyone and the knowledge was just a father showing his daughter how color worked. The ordinariness of it — the laughter, the ruined pigment, the blue-green hands — hurt worse than the grain jar. Because this was what the chain was FOR. This was what they'd been protecting.
+But then — a different kind of memory. A man teaching his daughter to mix pigment in a courtyard filled with morning light, both of them laughing because the blue kept coming out green, and her hands were stained and his beard was stained and neither of them cared. Centuries back. A single afternoon when nobody was hunting anyone and the knowledge was just a father showing his daughter how color worked. The ordinariness of it — the laughter, the ruined pigment, the blue-green hands — hurt worse than the grain jar. Because this was what the chain was FOR. This was what they'd been protecting.
 
-Forty-one lifetimes of being hunted. And moments like this scattered between the terrors, fragile and ordinary, the reason anyone had bothered to survive at all. And every one of them had happened to *him*, was happening to him, right now, in this cold room above a Galilean fishing village. Not remembered. Experienced. He could feel the grain dust in his lungs and the boots overhead and a thousand other terrors layered on top of each other like transparencies, each one sharp and specific and unbearable.
+Lifetimes of being hunted. And moments like this scattered between the terrors, fragile and ordinary, the reason anyone had bothered to survive at all. And every one of them had happened to *him*, was happening to him, right now, in this cold room above a Galilean fishing village. Not remembered. Experienced. He could feel the grain dust in his lungs and the boots overhead and a thousand other terrors layered on top of each other like transparencies, each one sharp and specific and unbearable.
 
 He couldn't feel his fingers.
 
 "How long have you been here?"
 
-Mary stood in the doorway. Her hair was loose, her feet bare on the cold stone. She'd heard him cry out, the sound had pulled her from sleep, and she'd come running through the dark house with her heart already knowing before her mind caught up. She'd heard that sound before. Not from him, from herself, years ago, when the blood memory had first broken through and she'd screamed in a Magdala courtyard while her neighbors called her possessed. The sound of a body receiving more than it was built to hold.
+Mary stood in the doorway. Her hair was loose, her feet bare on the cold stone. She'd heard him cry out, the sound had pulled her from sleep, and she'd come running through the dark house with her heart already knowing before her mind caught up. She'd heard that sound before. Not from him, from herself, years ago, when it had first broken through and she'd screamed in a Magdala courtyard while her neighbors called her possessed. The sound of a body receiving more than it was built to hold.
 
 Jesus set the Pattern Eye aside, but his hands fumbled it. The bronze rang against the table, a clear, bright sound in the quiet room, a sound that belonged in a workshop twelve centuries gone.
 
@@ -76,7 +76,7 @@ Neither of them spoke for a long time. Below, the woman finished scraping her po
 
 "No."
 
-Mary pressed her palms flat against the table, the same gesture she used when the blood memory threatened to pull her under. Pressing down. Finding the surface. Holding herself to the present moment against the tide of all those other moments trying to drag her back.
+Mary pressed her palms flat against the table, the same gesture she used when the old tide threatened to pull her under. Pressing down. Finding the surface. Holding herself to the present moment against the rush of all those other moments trying to drag her back.
 
 "I'm supposed to carry this after you're gone. All of it. What if I teach it wrong?"
 
@@ -162,7 +162,7 @@ Sight sharpened first. Not vision — understanding. Rome's trajectory laid bare
 
 Then the cost.
 
-A woman fifteen generations back. Miriam. He knew her name because she'd whispered it to herself in the dark, a way of remembering she was a person when everything had been taken. Crouched in a dry well, the stone walls pressing against her shoulders, her knees drawn to her chest, breathing through her hands to muffle the sound. The boots came and stayed. Scraped the stones above her head — iron on limestone, the sound of men looking. She'd been in the well for two days. Her lips were cracked. The water at the bottom had gone foul. She breathed through her cupped hands, each inhale a calculated risk, each exhale a prayer that the air between her fingers was enough to swallow the sound. The boots passed. Came back. Passed again. She stayed in the well for another day after they left, because the fear had locked her body into what hiding cost and her muscles had forgotten how to unfold.
+A woman lifetimes back. Miriam. He knew her name because she'd whispered it to herself in the dark, a way of remembering she was a person when everything had been taken. Crouched in a dry well, the stone walls pressing against her shoulders, her knees drawn to her chest, breathing through her hands to muffle the sound. The boots came and stayed. Scraped the stones above her head — iron on limestone, the sound of men looking. She'd been in the well for two days. Her lips were cracked. The water at the bottom had gone foul. She breathed through her cupped hands, each inhale a calculated risk, each exhale a prayer that the air between her fingers was enough to swallow the sound. The boots passed. Came back. Passed again. She stayed in the well for another day after they left, because the fear had locked her body into what hiding cost and her muscles had forgotten how to unfold.
 
 Jesus screamed. His body convulsed, the keys clattering off stone. Mary lunged for him.
 
@@ -174,7 +174,7 @@ Helena caught her arm. "Let it pass through him."
 
 Then Nefertari. Not her memory. *Her*. The workshop. Not the public image of it, but the hour when everyone else had gone. Dying firelight. Her father's body in the next room, still warm, his killers not yet out of the building. Her hands steady. Not because she wasn't afraid, her jaw was clenched so hard her teeth would crack by morning, but because the work required steady hands and she had chosen the work over the fear. Creating something that would outlast her civilization, outlast the men who'd killed her father, outlast empires that didn't exist yet. Pouring certainty and terror into bronze molds and sealing them with the same hands that had closed her father's eyes an hour before.
 
-*Forty-one generations from now, someone will feel what I feel.*
+*Centuries from now, someone will feel what I feel.*
 
 Jesus opened his eyes. Tears on his face, snot on his lip. The cave came back — stone walls, lamplight, Mary's face white with the effort of not reaching for him, Helena's hand still on her arm.
 
@@ -248,7 +248,7 @@ Mary's hands clenched in her lap. She'd watched him do this before — blunt his
 
 Sarah pressed closer to Mary's side, her small hand clutching Mary's robe. Her eyes were wide with understanding that she dared not voice aloud.
 
-Mary's breath caught. Seven years old, bare feet dusty from the hillside, a smear of barley cake on her chin — and she could hear it. Generation forty-three. The man in the alley outside Rachel's courtyard flashed through Mary's mind. Someone was watching her daughter. And her daughter was announcing herself to anyone paying attention.
+Mary's breath caught. Seven years old, bare feet dusty from the hillside, a smear of barley cake on her chin — and she could hear it. The daughter could already hear what her mother heard. The man in the alley outside Rachel's courtyard flashed through Mary's mind. Someone was watching her daughter. And her daughter was announcing herself to anyone paying attention.
 
 "He's teaching you how," Mary whispered. "But Sarah — don't let anyone see that you understand. Not yet."
 
@@ -294,7 +294,7 @@ His hands stopped moving. He looked at her.
 
 "She told me during the sower parable. 'Mama, the stories have two meanings.' Seven years old."
 
-Something moved across his face, the same pride and terror Mary had felt, reflected back. He understood what it meant. Generation forty-three could hear it. The chain would hold. And the chain would cost Sarah what it had cost all of them.
+Something moved across his face, the same pride and terror Mary had felt, reflected back. He understood what it meant. The daughter could hear it already. The chain would hold. And the chain would cost Sarah what it had cost all of them.
 
 "She'll need you," he said quietly. "After."
 

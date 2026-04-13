@@ -18,7 +18,7 @@ Now he stood in the upper room with the other disciples, twelve people in a spac
 
 "Or building it on more than one truth," Mary Magdalene said. She'd arrived from Damascus two days prior with Sarah. "All real. All serving different purposes."
 
-Thomas paced. His physician's training demanded proof. His blood showed him forty-two generations of carriers who had held contradictions in both hands without choosing between them.
+Thomas paced. His physician's training demanded proof. His blood showed him a long line of women and men who had held contradictions in both hands without choosing between them.
 
 The lamp flames bent sideways, all at once, as if a door had opened, but the door was still barred. The temperature dropped. The hair rose on his forearms.
 
@@ -268,7 +268,7 @@ Her hand tightened on Sarah's once. The grip of a woman who had never let go of 
 
 Then released.
 
-Then the warmth rising from Mary's body. Not disappearing — *transferring*. The way a river reaches the sea and doesn't end but becomes something larger. Sarah felt it pour into her chest, settle beneath her left ribs, take up residence in the exact place where her mother had carried it, where Jesus had carried it before her, where forty-two generations of hands had pressed against their own skin and felt the reaching. It was heavier than she'd expected. Not the weight of grief. The weight of being trusted with something that had outlived everyone who'd ever held it.
+Then the warmth rising from Mary's body. Not disappearing — *transferring*. The way a river reaches the sea and doesn't end but becomes something larger. Sarah felt it pour into her chest, settle beneath her left ribs, take up residence in the exact place where her mother had carried it, where Jesus had carried it before her, where every hand that had ever borne it had pressed against their own skin and felt the reaching. It was heavier than she'd expected. Not the weight of grief. The weight of being trusted with something that had outlived everyone who'd ever held it.
 
 And Mary Magdalene, who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — received her rest in silence, in a whitewashed room in Alexandria with her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
 
@@ -318,13 +318,13 @@ Sarah stood on the Mount of Olives, watching Jerusalem burn below.
 
 Thirty-seven years since crucifixion. Exactly as Jesus predicted.
 
-The smoke reached her first. Before the sound, before the heat, the smell. Acrid and complex, layered the way a city is layered: timber first, the sharp bite of cedar beams that Solomon's architects had specified eight centuries ago, then cloth and stored grain and the oily smoke of olive wood, then something underneath all of it, sweet and sick, the smell that Sarah's blood memory recognized from cities she'd never visited. Burning flesh smelled the same in every century. Pi-Ramesses. Thebes. Babylon. And now Jerusalem. The same smell. The same smoke rising. The same silence from the people standing on the hills watching their world end.
+The smoke reached her first. Before the sound, before the heat, the smell. Acrid and complex, layered the way a city is layered: timber first, the sharp bite of cedar beams that Solomon's architects had specified eight centuries ago, then cloth and stored grain and the oily smoke of olive wood, then something underneath all of it, sweet and sick, the smell her body recognized from cities she'd never visited. Burning flesh smelled the same in every century. Pi-Ramesses. Thebes. Babylon. And now Jerusalem. The same smell. The same smoke rising. The same silence from the people standing on the hills watching their world end.
 
 Rebecca stood at her side. Fifteen years old. Sarah's daughter had not spoken since they'd climbed the mount at dawn. She stood with her arms wrapped around herself, her face grey with ash that had drifted up from the valley on the morning wind, and her eyes held the flat emptiness of someone watching something too large to process. She hadn't dreamed this. Her visions had shown her other collapses — older ones, cities whose names she couldn't pronounce, but not this. Not her own.
 
 Titus's legions had besieged the city for five months. Eighty thousand soldiers starving one million people trapped inside walls. Sarah had heard the reports from network runners who slipped through the Roman lines: families eating leather. Mothers killing children to spare them starvation. Zealots fighting each other in the streets while the legions waited outside with Roman patience, letting hunger do what siege engines hadn't finished. Now the Temple was burning — stone cracking under heat stress like bones in a fire, cedar beams consumed, gold overlay melting down stone faces like divine tears running into the rubble.
 
-She held the Pattern Eye, bronze warm in her palms. The disc had been warm since that day — warm when Peter pressed it into her hands in that Roman cell, warm when she'd carried it against her ribs through the streets of Rome, warm now as she watched the city where it had once been hidden burn to its foundations. Blood memory showed her the pattern: other cities burning, other temples falling, other refugees streaming through gates. The same fire. Always the same fire.
+She held the Pattern Eye, bronze warm in her palms. The disc had been warm since that day — warm when Peter pressed it into her hands in that Roman cell, warm when she'd carried it against her ribs through the streets of Rome, warm now as she watched the city where it had once been hidden burn to its foundations. The pattern came up through her palms: other cities burning, other temples falling, other refugees streaming through gates. The same fire. Always the same fire.
 
 The wind shifted and a gust carried the full force of it. Not just smoke but heat, the radiant warmth of a city-sized furnace, and with it the sound that distance had been muffling: a low roar, not like any single fire but like the breathing of something enormous, punctuated by the crack and groan of stone giving way, and beneath it, almost too faint to hear at this distance, the sound of human voices. Screaming. Or praying. At this distance the two were indistinguishable.
 
@@ -344,7 +344,7 @@ The Temple fell completely by evening. The final retaining wall collapsing inwar
 
 But the people were already moving west. Carrying scrolls, carrying children, carrying nothing but the knowledge in their bodies. Carrying what the stones could not hold.
 
-Sarah turned away from the burning city. She looked at Rebecca — ash in her hair, tears cutting tracks through the grey dust on her cheeks, her left hand pressed against her ribs the way every carrier pressed, the way Nefertari had pressed, the way the gesture would be repeated for as many generations as the blood continued.
+Sarah turned away from the burning city. She looked at Rebecca — ash in her hair, tears cutting tracks through the grey dust on her cheeks, her left hand pressed against her ribs the way every carrier pressed, the way Nefertari had pressed, the way the gesture would be repeated for as long as the blood continued.
 
 "We go west," Sarah said. "Now."
 

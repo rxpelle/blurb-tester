@@ -2,7 +2,7 @@
 
 *Love Remembers in Silence* is the fourth novel in *The Architecture of Survival* series. While earlier books follow a physician named Nefertari through the Bronze Age Collapse and the centuries that followed, this story stands at the series' turning point — first-century Palestine, where a carpenter inherits twelve centuries of his ancestors' memories and tries to teach what they learned before Rome destroys everything he's built.
 
-New readers should know: in this world, extreme experiences can imprint so deeply on the body that they pass to future generations as vivid, inherited memories. The families who carry these memories have protected them, and each other, through a secret network spanning civilizations. They call themselves carriers. Rome calls them a threat.
+New readers should know: in this world, some experiences cut so deeply into the body that they are inherited by children and grandchildren and the children after them, as vivid as memories of their own lives. The families who carry them have protected them, and each other, across civilizations. They call themselves carriers. Rome calls them a threat.
 
 ---
 
@@ -17,7 +17,7 @@ Not fever. Not sunlight. Something internal, a heat that lived on the left side 
 
 He felt it strongest at night. Lying on his sleeping mat in the workshop, he would feel it spread from his left side across his chest, down his arm, into his fingers. Wood shavings scattered the worn limestone floor. The smell of cedar and olive oil hung in the air, along with his father's tools—adze, bow drill, stone plumb bob—still hanging from their pegs. And his left hand would move. Not deliberately. The way a sleeping person shifts toward a body that isn't there, fingers spreading, searching for something his mind had no words for but his body remembered with absolute specificity: the exact temperature of another person's skin. The pressure of fingers threading through his. The architecture of a hand that fit his. Not because they were designed for each other, but because twenty years of proximity had worn them into complementary shapes, the way a river wears stone.
 
-He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it as certainly as he knew the collapse patterns and the palace fires and the smell of burning papyrus: through inherited memory—bloodline memories passed down through generations—so vivid it was indistinguishable from experience.
+He'd never held anyone's hand that way. He was thirty years old and unmarried and had never felt in his own life the love his blood carried. But he knew it. Knew it as certainly as he knew the collapse patterns and the palace fires and the smell of burning papyrus — knew it the way a dreaming body knows the lives it has never lived, so vivid the knowing was indistinguishable from experience.
 
 He knew her hands. Small, precise, scarred on the left thumb from a grinding-stone accident. He knew the way she held a stylus: three fingers, angled slightly, the grip of someone trained in hieratic script. He knew the sound of her breathing when she concentrated, shallow, almost silent, a rhythm so specific he could have identified her in a dark room by the sound of her lungs alone.
 
@@ -37,7 +37,7 @@ Small crowd. Maybe forty people on a hillside above the Capernaum shore, where b
 
 He was mid-sentence, something about roots in shallow ground, when it moved.
 
-Not stayed in his chest where it always lived. *Moved.* The way a dam gives. He felt it leave his ribcage, pour through his shoulders and down his arms and out through his palms and the soles of his feet into the stone he stood on, and then *past* him, past the boundary of his skin entirely, expanding outward like heat from a kiln when you open the door, except this wasn't heat, it was something he had no word for, something that had been pooling in his bloodline for generations, rising a little with each life, and now the dam had broken and it was all moving at once.
+Not stayed in his chest where it always lived. *Moved.* The way a dam gives. He felt it leave his ribcage, pour through his shoulders and down his arms and out through his palms and the soles of his feet into the stone he stood on, and then *past* him, past the boundary of his skin entirely, expanding outward like heat from a kiln when you open the door, except this wasn't heat, it was something he had no word for, something that had been pooling in him for longer than he had language for, rising a little with each life before his, and now the dam had broken and it was all moving at once.
 
 It reached the woman in the front row first.
 
@@ -101,7 +101,7 @@ Jesus said nothing.
 
 Simon looked at him.
 
-"I don't," Jesus said. He pulled his feet from the water. "I know what I carry. Two people loved each other and it went so deep it outlived them. Forty-two generations, each one adding their own grief, their own reaching in the dark." He pressed his palm against the warm stone. "But what it *is* — I can't get my hands around it."
+"I don't," Jesus said. He pulled his feet from the water. "I know what I carry. Two people loved each other and it went so deep it outlived them. So many mothers and daughters after that I have lost the count of them — each one adding their own grief, their own reaching in the dark." He pressed his palm against the warm stone. "But what it *is* — I can't get my hands around it."
 
 "Try."
 
@@ -157,7 +157,7 @@ He stood in the doorway. The warmth was there, in his chest, where it always was
 
 *Do that again,* someone had said once, twelve hundred years ago, to someone who couldn't.
 
-Jesus closed his eyes. Felt the reaching. Felt the weight of all those generations — every hand that had opened on empty air, every lung that had searched for a missing rhythm, every body that had carried the shape of a love it had never lived. All of it in him. All of it building.
+Jesus closed his eyes. Felt the reaching. Felt the weight of everything that had come before him — every hand that had opened on empty air, every lung that had searched for a missing rhythm, every body that had carried the shape of a love it had never lived. All of it in him. All of it building.
 
 All of it about to spill into the world as teaching, as parable, as the simple radical claim that love was the force beneath everything, beneath systems, beneath empires, beneath the rise and fall of civilizations, and that it had been traveling for a very long time to reach this particular morning, this particular doorway, this particular carpenter standing with his hand extended into empty air. His heart so full of other people's love that his hands shook with it. Knowing it wouldn't break him, because the love had survived everything else, death, exile, empire, a thousand years of silence, and it would survive him too.
 
@@ -171,6 +171,6 @@ He had work to do.
 
 *For Nefertari and Amenhotep, who loved each other deeper than their own lives and walked in opposite directions and never touched again.*
 
-*For forty-two generations who reached left in the dark and found nothing.*
+*For all the hands that reached left in the dark and found nothing.*
 
 *And for the carpenter who finally felt what they were reaching for, and gave it to the world.*

@@ -26,7 +26,7 @@ She watched as expressions shifted across the courtyard, eyes moving beneath clo
 
 Most struggled. The discipline was brutal, holding two realities at once without drowning in either. But three women, Rachel, Judith, Miriam, women whose blood ran deep enough that the old pictures came clear, held both states at once. Their faces went calm in a way Mary recognized. Past and present, side by side, neither drowning the other.
 
-"Good," Mary said. "You held it. Not perfectly, not yet. But you held it." She pressed her left hand against her ribs, the place where the warmth lived, and felt the old reaching. The same gesture the woman in her dreams made — carried forward through more generations of women than Mary had names for, women who loved and lost and kept teaching anyway.
+"Good," Mary said. "You held it. Not perfectly, not yet. But you held it." She pressed her left hand against her ribs, the place where the warmth lived, and felt the old reaching. The same gesture the woman in her dreams made — carried forward by more women than Mary could ever count, women who loved and lost and kept teaching anyway.
 
 Sarah spoke up from the front row, clear-voiced for a five-year-old. "Mama sees the teaching lady. The old one from the burning city."
 
@@ -94,7 +94,7 @@ The symbols shifted, resolving into something she almost recognized. Like a half
 
 Jesus was staring at her. "You're reading the notation. Directly."
 
-"I'm seeing it." Her fingers had gone white around the scroll's edge. "Like blood memory but — I'm choosing what to look at instead of being pulled under."
+"I'm seeing it." Her fingers had gone white around the scroll's edge. "Like the dreams but — I'm choosing what to look at instead of being pulled under."
 
 "Breathe," Jesus said, hand on her shoulder. "Name what is real."
 
@@ -108,7 +108,7 @@ Mary looked at it. Dense symbol clusters arranged in spirals. Her enhanced visio
 
 "What does it say about what happens after?" Jesus asked. His voice was carefully neutral.
 
-Mary reached for the next cluster. Pain lanced behind her eyes, sharp, sudden, like staring into the sun. She gasped. The symbols scrambled, reformed, scrambled again. She caught fragments: *scattering... west... generations inheriting... keys assembling...* But the details wouldn't hold.
+Mary reached for the next cluster. Pain lanced behind her eyes, sharp, sudden, like staring into the sun. She gasped. The symbols scrambled, reformed, scrambled again. She caught fragments: *scattering... west... what is carried forward... keys assembling...* But the details wouldn't hold.
 
 "I can't read the rest." She pulled her hands back, fingers curling into fists. "It's too dense. Like trying to drink from a river." Blood trickled from her left nostril. She wiped it, stared at the red on her fingers.
 
@@ -120,7 +120,7 @@ Mary reached for the next cluster. Pain lanced behind her eyes, sharp, sudden, l
 
 She named them through clenched teeth: pottery jar, Matthias's face, smooth wood, old ink, her own breathing. The vision receded. Just present moment. The nosebleed stopped.
 
-But she'd seen enough. The text described a pattern that stretched generations forward: distribution of knowledge so wide that no single catastrophe could destroy it. And at the center of that pattern: Jesus's death. Her survival. A partnership that only worked if one half burned and the other half scattered the ashes.
+But she'd seen enough. The text described a pattern that stretched centuries forward: distribution of knowledge so wide that no single catastrophe could destroy it. And at the center of that pattern: Jesus's death. Her survival. A partnership that only worked if one half burned and the other half scattered the ashes.
 
 "It says you die," Mary whispered. "And I carry what's left."
 
@@ -198,13 +198,13 @@ Nefertari didn't turn from the mold. "How many escaped?"
 
 "Take this." Nefertari lifted the still-cooling disc with leather wraps, pressed it into the girl's hands. "Byblos. The teaching room near the harbor. Third stone course from the floor, east wall. You bury it there and you don't tell anyone where it is. Not your husband. Not your children. The blood remembers what mouths forget."
 
-The girl's hands closed around the disc. Even through the leather, Mary could see the girl's face change, eyes widening, breath catching, as the bronze touched her and twelve generations of accumulated knowledge surged through the contact.
+The girl's hands closed around the disc. Even through the leather, Mary could see the girl's face change, eyes widening, breath catching, as the bronze touched her and centuries of accumulated knowing surged through the contact.
 
 "Go. Now. Before the gates close."
 
 The vision broke. Mary gasped, hands flat on the rubble, chest heaving. Dust and afternoon sun. The taste of blood where she'd bitten the inside of her cheek.
 
-Rachel's face was close to hers, frightened but steady — Rachel who'd watched her own mother seize and speak in tongues, Rachel who knew what blood memory looked like from the outside. She had one hand on Mary's shoulder and the other hovering near her jaw, ready to turn her head if she started choking.
+Rachel's face was close to hers, frightened but steady — Rachel who'd watched her own mother seize and speak in tongues, Rachel who knew what the old visions looked like from the outside. She had one hand on Mary's shoulder and the other hovering near her jaw, ready to turn her head if she started choking.
 
 "You went away," Rachel said. "Your eyes were open but you weren't here. Your lips were moving. You said a name — a woman's name. In a language I didn't recognize."
 
@@ -220,11 +220,11 @@ Mary reached into the gap between two limestone blocks. Cool air from inside the
 
 She drew it out carefully. The leather wrapping, stiff with age, crumbled at the edges when she turned it. She peeled back the last layer and it fell apart in her hands.
 
-The bronze disc. Warm. Pulsing against her palms like a second heartbeat, and when she held it, her vision didn't split. It opened. Everything at once. Nefertari casting this bronze while her city burned. The girl running south with it pressed against her chest. Generations of women burying it deeper, building walls over it, forgetting and remembering and forgetting again. Twelve hundred years of hands on this same metal, each leaving something behind in the bronze, each taking something with them when they let go.
+The bronze disc. Warm. Pulsing against her palms like a second heartbeat, and when she held it, her vision didn't split. It opened. Everything at once. Nefertari casting this bronze while her city burned. The girl running south with it pressed against her chest. Long lines of women burying it deeper, building walls over it, forgetting and remembering and forgetting again. Centuries of hands on this same metal, each leaving something behind in the bronze, each taking something with them when they let go.
 
 Mary held the disc and wept. Not from grief. From the weight of all that holding.
 
-Rachel didn't touch her. Didn't speak. She sat back on her heels in the rubble and watched Mary's face, the tears cutting clean lines through the dust on her cheeks, her lips moving without sound, her eyes focused on something twelve centuries past. Rachel had seen blood memory take Mary before. But not like this. This was something gentler. Not a seizure but a homecoming.
+Rachel didn't touch her. Didn't speak. She sat back on her heels in the rubble and watched Mary's face, the tears cutting clean lines through the dust on her cheeks, her lips moving without sound, her eyes focused on something centuries past. Rachel had seen the old grief take Mary before. But not like this. This was something gentler. Not a seizure but a homecoming.
 
 "What is it?" Rachel asked when Mary's eyes found the present again.
 

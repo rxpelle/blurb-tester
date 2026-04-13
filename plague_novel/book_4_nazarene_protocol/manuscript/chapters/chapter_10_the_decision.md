@@ -16,7 +16,7 @@ Titus Publius Scipio climbed the last three stairs slowly, his bad knee stiff fr
 
 Jesus set down the Pattern Eye. Set it carefully on the stone table beside the oil lamp and the half-eaten round of bread from last night. His carpenter's hands went flat against the cold surface, palms down, fingers spread.
 
-He already knew. Not the details, but the weight in Titus's shoulders, the way the man braced against the doorframe like a soldier delivering casualty numbers — Jesus had seen that posture in blood memory a hundred times. The messenger who arrives before dawn. The news that shortens the road.
+He already knew. Not the details, but the weight in Titus's shoulders, the way the man braced against the doorframe like a soldier delivering casualty numbers — Jesus had seen that posture in dreams a hundred times. The messenger who arrives before dawn. The news that shortens the road.
 
 "Caiaphas convinced Pilate," Titus said. "Three weeks. Maybe four. Arrest during Passover."
 
@@ -28,7 +28,7 @@ The words struck his chest before his mind processed them. A physical sensation.
 
 Three weeks. Not nine months. Not the timeline they'd been working inside, the careful encoding, the gradual transfer. Three weeks.
 
-The blood memory came before he could stop it. Not Nefertari this time, something closer, more recent, more brutal. A man hanging from wood. Iron through wrists. The specific agony of pushing up on a nail through foot bones to steal one more breath. He'd accessed crucifixion memories before, fragments that arrived in the night and left him sweating in the dark. But this was different. This was his own face on the cross. His own hands. The vision had the clarity of something that had already happened and was just waiting for the calendar to catch up.
+It came before he could stop it. Not Nefertari this time, something closer, more recent, more brutal. A man hanging from wood. Iron through wrists. The specific agony of pushing up on a nail through foot bones to steal one more breath. He'd accessed crucifixion fragments before — pieces that arrived in the night and left him sweating in the dark. But this was different. This was his own face on the cross. His own hands. The vision had the clarity of something that had already happened and was just waiting for the calendar to catch up.
 
 He closed his eyes. Opened them. The upper room. The Pattern Eye on the table. Titus watching him from the doorway.
 
@@ -36,11 +36,11 @@ He closed his eyes. Opened them. The upper room. The Pattern Eye on the table. T
 
 Jesus moved to the window. Fishing boats on the Sea of Galilee, their sails catching the first light. Markets opening below, the scrape of wooden shutters, the clatter of a potter arranging his wares on the stone ledge, the low murmur of women at the well. Ordinary people living ordinary lives. A man adjusting the harness on his donkey. Two boys racing each other to the water's edge.
 
-He pressed his forehead against the cold stone of the window frame. Felt the warmth in his chest. Not the crushing weight of the news, but the older thing, the reaching, the twelve-hundred-year-old love that lived beneath his ribs and would go on living in someone else's ribs after his stopped moving.
+He pressed his forehead against the cold stone of the window frame. Felt the warmth in his chest. Not the crushing weight of the news, but the older thing, the reaching, the love older than any kingdom he knew the name of, the love that lived beneath his ribs and would go on living in someone else's ribs after his stopped moving.
 
 "Tell Helena I refuse."
 
-Titus didn't argue immediately. He sat with it. The military mind running calculations, extraction success rates, network exposure, the cost of losing the strongest carrier in forty-one generations versus the cost of a public execution. Jesus could almost hear the columns being tallied.
+Titus didn't argue immediately. He sat with it. The military mind running calculations, extraction success rates, network exposure, the cost of losing the strongest carrier the families had produced in centuries versus the cost of a public execution. Jesus could almost hear the columns being tallied.
 
 "Three weeks isn't enough," Titus said finally. "You'll die with most of it untaught."
 
@@ -206,7 +206,7 @@ Judas's face went white. Not gradually — all at once, the blood draining like 
 
 "You can't know that."
 
-"I can see it the way I see everything else. Forty-one generations of watching good plans fail against better-resourced enemies."
+"I can see it the way I see everything else. A long line of good plans failing against better-resourced enemies, all the way back to a city my mouth can't pronounce."
 
 Judas sat down. Not because he wanted to, because his legs wouldn't hold him after what he'd just heard. He sat on the bench Titus had sat on two days before, delivering different news that ended in the same place, and he put his hands on his knees and stared at the floor.
 
@@ -220,7 +220,7 @@ The fly had landed on the bread. The light through the window was moving as the 
 
 "You can. You're stronger than —"
 
-"Don't." Judas pulled away before Jesus could reach him. Stood up. Put distance between them — three steps, four, backed against the far wall where the shadows were deepest. "Don't give me the speech you give everyone. I'm not Peter. I'm not Mary. I don't carry blood memory or teach parables or write testimonies. I *rescue people*. That's what I do. That's all I do. And you're telling me I can't do the one thing I'm good at."
+"Don't." Judas pulled away before Jesus could reach him. Stood up. Put distance between them — three steps, four, backed against the far wall where the shadows were deepest. "Don't give me the speech you give everyone. I'm not Peter. I'm not Mary. I don't see the old cities burning and I don't teach parables and I don't write testimonies. I *rescue people*. That's what I do. That's all I do. And you're telling me I can't do the one thing I'm good at."
 
 His voice was shaking now. Not with anger. With the grief of a man watching his own usefulness drain out of him like blood from a wound he can't find to press shut.
 
@@ -266,9 +266,9 @@ And then his body did what his mind had been holding back all day.
 
 His shoulders dropped. His chest caved forward. His forehead went down toward his knees, and a sound came out of him that wasn't weeping exactly — lower, older, the sound of something structural giving way. The way a beam sounds when the wood finally splits along the grain it's been fighting for years. A groan that started in his chest and traveled through him into the ground beneath his hands.
 
-The blood memory came.
+It came.
 
-This time it bypassed Nefertari, bypassed the ancient cascades he'd learned to navigate with the Pattern Eye, the organized visions of burning cities and fleeing families.
+This time it bypassed Nefertari, bypassed the older floods he'd learned to navigate with the bronze disc, the organized visions of burning cities and fleeing families.
 
 These were the closer ones. The ones that hurt more because they were specific.
 
@@ -276,7 +276,7 @@ A woman in Damascus, four generations back, her name was lost but her death wasn
 
 A man in Alexandria, six generations before that — standing in a courtyard at dawn while soldiers searched his house for the bronze key he'd hidden beneath the hearthstone. His wife's face at the window. His children behind her. The moment he turned and walked toward the soldiers instead of away, drawing them out through the gate, leading them down the street, buying his family the minutes they needed to run. They found his body at the fish market. He'd made it three blocks.
 
-A girl, barely a woman, in Antioch, two centuries before Jesus was born. She'd been the youngest carrier in the line, trained hastily because her mother had died too soon. She sat in a cellar listening to boots on the floor above her and breathed through her hands and taught herself not to scream and lasted three days before they found the hidden door. What they did to her was in the blood memory too, but Jesus pulled back from that part the way you pull your hand from a flame. Some inherited knowledge you survived by not looking directly at it.
+A girl, barely a woman, in Antioch, two centuries before Jesus was born. She'd been the youngest carrier in the line, trained hastily because her mother had died too soon. She sat in a cellar listening to boots on the floor above her and breathed through her hands and taught herself not to scream and lasted three days before they found the hidden door. What they did to her was in the inheritance too, but Jesus pulled back from that part the way you pull your hand from a flame. Some knowing you survived by not looking directly at it.
 
 Every one of them had accepted it. The woman with the broken fingers. The man at the fish market. The girl in the cellar. They'd known what was coming and they'd stayed. Not because they weren't afraid — the memory carried their fear too, vivid as the taste of iron in the mouth, but because the thing they carried was bigger than their lives and they knew it and the knowing held them in place when every nerve screamed run.
 
@@ -286,23 +286,23 @@ His knees were in the dirt. His hands were in the dirt. His forehead was nearly 
 
 His mother's face.
 
-It arrived without warning, the way the most painful memories always did. Not through blood but through life. Her hands shaping bread dough in the Nazareth kitchen. Her voice singing while she worked, the wordless melody she'd hummed since before he could speak, the sound that meant safe and home and everything that wasn't going to exist in three weeks. He hadn't said goodbye. Had been planning to travel to Nazareth before Passover, to sit in her kitchen one more time, to eat her bread and hear her voice and hold the ordinariness of it against the extraordinary thing that was coming.
+It arrived without warning, the way the most painful memories always did. Not through what his blood carried but through what his own life had given him. Her hands shaping bread dough in the Nazareth kitchen. Her voice singing while she worked, the wordless melody she'd hummed since before he could speak, the sound that meant safe and home and everything that wasn't going to exist in three weeks. He hadn't said goodbye. Had been planning to travel to Nazareth before Passover, to sit in her kitchen one more time, to eat her bread and hear her voice and hold the ordinariness of it against the extraordinary thing that was coming.
 
 Three weeks wasn't enough. Not for the teaching — Mary was right about that, the teaching would be adequate. Three weeks wasn't enough for the living. For the bread and the singing and the hillside at evening and the sound of Sarah laughing and the way the lake looked at dawn when the fishing boats went out and the world was simple and good and worth being alive in.
 
 He pressed his forehead to the dirt. The garden was very quiet. An olive leaf fell and landed on the back of his hand and he didn't brush it away.
 
-The workshop in Nazareth. It came to him whole. Not through blood memory but through his own: the packed-earth floor, the smell of cedar shavings and the deeper smell of olive wood that lingered in the walls, the adze and the bow drill and the lead plumb line hanging from pegs his father had driven before he died. The half-finished yoke always clamped to the bench because there was always a yoke to finish. Sawdust in the lines of his palms. The specific sound of a plane on cypress — long, rasping, hypnotic. The sound of making.
+The workshop in Nazareth. It came to him whole. Not from any inheritance but from his own life: the worn limestone floor, the smell of cedar shavings and the deeper smell of olive wood that lingered in the walls, the adze and the bow drill and the stone plumb bob hanging from pegs his father had driven before he died. The half-finished yoke always clamped to the bench because there was always a yoke to finish. Sawdust in the lines of his palms. The specific sound of a plane on cypress — long, rasping, hypnotic. The sound of making.
 
 He would never finish another yoke. Never plane another board. Never stand at that bench in the morning light with sawdust in his hair and the ordinary satisfaction of shaping wood into something useful. The way we are loved in the ordinary hours — the plate on the ledge, the song in the kitchen, the sawdust swept and swept again — that is the truest record of who we were. Not the teaching. Not the miracles. The bread his mother left without knocking.
 
-The warmth beneath his ribs shifted. Reached. His left hand opened against the dirt — fingers spreading the way they always spread in the night, searching for a hand that had been empty for twelve hundred years. The ghost touch. The phantom architecture of someone who wasn't there, who had never been there, who had been dead since before the first Temple was built. And yet his hand knew the shape. Knew the temperature. Knew exactly how the fingers should thread together, where the calluses met, the pressure that meant *I'm here*.
+The warmth beneath his ribs shifted. Reached. His left hand opened against the dirt — fingers spreading the way they always spread in the night, searching for a hand that had been empty longer than his memory could carry. The ghost touch. The phantom architecture of someone who wasn't there, who had never been there, who had been dead since before the first Temple was built. And yet his hand knew the shape. Knew the temperature. Knew exactly how the fingers should thread together, where the calluses met, the pressure that meant *I'm here*.
 
 He held his hand open against the cold ground and felt the reaching and let it reach.
 
-This was what he was dying for. Not the teaching, not the methodology, not the strategy of martyrdom that looked so clean on a military man's wax tablets. This. The warmth. The love that had traveled twelve hundred years and would not stop traveling, could not be stopped, had survived the collapse of empires and the burning of cities and the death of every person who'd carried it and was going to survive him too.
+This was what he was dying for. Not the teaching, not the methodology, not the strategy of martyrdom that looked so clean on a military man's wax tablets. This. The warmth. The love that had been traveling for so long no one alive remembered when it started, the love that would not stop traveling, could not be stopped, had survived the collapse of empires and the burning of cities and the death of every person who'd carried it and was going to survive him too.
 
-And in that moment, face in the dirt, hand open against the cold ground, he let himself wonder the thing he'd never said aloud to anyone: what if the blood was just how he understood it? What if the warmth was bigger than inheritance, bigger than genetics, bigger than forty-one generations of one family? The hillside had proved it — forty people with no bloodline connection, weeping with the same love. What if the blood was just the door he'd walked through, and the room on the other side had no walls?
+And in that moment, face in the dirt, hand open against the cold ground, he let himself wonder the thing he'd never said aloud to anyone: what if the blood was just how he understood it? What if the warmth was bigger than inheritance, bigger than any one family's long quiet line? The hillside had proved it — forty people with no bloodline connection, weeping with the same love. What if the blood was just the door he'd walked through, and the room on the other side had no walls?
 
 He didn't know. A man kneeling in a garden three weeks from his own execution was allowed to not know.
 
@@ -320,7 +320,7 @@ In three weeks they would nail his hands to wood. The same hands that had shaped
 
 He would let them.
 
-The strategy hadn't required it. Blood memory hadn't shown him it would work. Titus was right about reasons mattering.
+The strategy hadn't required it. Nothing in his blood had shown him it would work. Titus was right about reasons mattering.
 
 Because the love was worth it. Had always been worth it. And three weeks was enough to say so.
 
