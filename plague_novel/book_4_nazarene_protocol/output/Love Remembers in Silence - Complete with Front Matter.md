@@ -5361,15 +5361,13 @@ She wrote what the soul answered each of them. Not doctrine. Instructions.
 
 *To the one who said what you see is not real: I have seen what I have seen.*
 
-*To the one who said you do not deserve the life you are in: I am here, and the being is not yours.*
+She wrote the others too — the rage at being alive, the body that calls itself a debt, the cleverness that knows everything except love — answered them in her own words, in the order she had needed them, with the unhurried care of a woman who had been saying the answers for most of her life and now finally had a place to put them.
 
-*To the one who said your body is a debt: my body is not a debt.*
-
-*To the clever one that knew everything except love: knowing is cheap. Loving is the rent.*
+Then the last of the voices. The hardest one.
 
 *To the wounded one that knew love and could not bear it: you do not have to bear it alone.*
 
-Mary read the list back. Seven answers to seven voices. She had been saying them, one or two at a time, for most of her life. Now they were on the papyrus together and they looked like what they were — a map out of a country the men had built around her.
+Mary read what she had written. She had been saying these answers, one or two at a time, for most of her life. Now they were on the papyrus together and they looked like what they were — a map out of a country the men had built around her.
 
 Lamp smoke curling toward the ceiling. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
 
@@ -5467,11 +5465,7 @@ Sarah's tears fell onto her mother's hand.
 
 "The chain holds if we hold it. We don't have to be the strongest link. We only have to not let go."
 
-"Again."
-
-"The chain holds if we hold it. We only have to not let go."
-
-"Good. Now when you are the one on the hillside watching a city burn — and you will be, Sarah, you will be the one — say it to yourself. Say it to the girl who will be standing next to you. Say it until you believe it."
+"Good. When you are the one on the hillside watching a city burn — and you will be, Sarah, you will be the one — say it to yourself. Say it to the girl who will be standing next to you. Say it until you believe it."
 
 Her breathing slowed further. The room sounds fell away — the wind through the shutters first, then the harbor bells, then the cries of gulls circling the lighthouse, then the creak of a trading vessel adjusting its ropes at the quay. Each sound retreating, one by one, like the voices releasing their hold. One by one, letting go, as Mary passed through.
 
@@ -5563,21 +5557,11 @@ Sarah turned away from the burning city. She looked at Rebecca — ash in her ha
 
 Sarah pressed her own hand against her own side. The warmth was there. Heavier now — a lifetime of love and grief and reaching in the dark, and the new weight of watching another city fall and knowing it would not be the last.
 
-Her mother's voice came back to her.
+Her mother's voice came back to her, three sentences her body had been keeping for twenty-eight years.
 
-It came back the way her mother's voice had come back every year since the whitewashed house in Alexandria, every time she had needed it, every time she had thought she was going to break and her body had remembered the sentences instead.
+*The chain holds if you hold it. You do not have to be the strongest link. You only have to not let go.*
 
-*The chain holds if you hold it.*
-
-Sarah said it under her breath, in the language her mother had taught her to say it in.
-
-*You do not have to be the strongest link.*
-
-Rebecca was shaking against her side. Fifteen years old, ash in her hair, watching her world end.
-
-*You only have to not let go.*
-
-Sarah tightened her grip on her daughter's hand.
+Rebecca was shaking against her side. Sarah tightened her grip on her daughter's hand.
 
 "We go west," Sarah said. "Now."
 
@@ -5606,8 +5590,6 @@ She would read it aloud to the empty room.
 *You do not have to be the strongest link.*
 
 *You only have to not let go.*
-
-And somewhere, in a whitewashed room in Alexandria nineteen centuries gone, a woman who had been dust for a very long time turned her face toward the sound of being read.
 
 
 \newpage
