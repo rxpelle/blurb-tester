@@ -244,7 +244,7 @@ Mary sat with Jesus on the hillside above Capernaum where he'd first taught her 
 
 Jesus turned to look at her. Not startled, more like he'd been waiting for it. "No. You haven't been for months."
 
-"You know what made me realize?" Mary pointed toward the harbor road where a Roman tax station was visible at the crossroads. "Last week. Your parable about the landowner and the vineyard workers, the one about fair wages. You were talking about how Rome's extraction creates instability. Power taking too much until the system breaks."
+"You know what made me realize?" Mary pointed toward the harbor road where a Roman tax station was visible at the crossroads. "Last week. Your parable about the landowner and the vineyard workers, the one about fair wages. Underneath the story you were teaching about how Rome takes and takes until the people can't stand. How the men on top bleed the men below until the hands that feed everyone are too weak to hold a net."
 
 "Yes."
 
@@ -256,7 +256,7 @@ She watched his face. The shift was small — eyebrows drawing together, then li
 
 Jesus was quiet. "The money changers in the Temple courts. I've been angry about them for years. I thought it was corruption — profiting from worship."
 
-"It's worse than corruption. It's how the whole thing is built. Two systems forcing the same people to serve both." She closed her fists around the coins. "I've seen this before. In the visions. It's what broke Pi-Ramesses. Two powers pulling from the same people until nobody could feed themselves."
+"It's worse than corruption. It's how the whole thing is built. Two masters. No man can serve two masters — you have been teaching that since the spring. But these men aren't choosing. They're paying both and losing to both, and the man with the scales grows rich on the bleed." She closed her fists around the coins. "I've seen this before. In the visions. It's what broke Pi-Ramesses. Two powers pulling from the same people until nobody could feed themselves."
 
 He laughed. A short, surprised sound. Not performance, not parable. Just a man being shown something he should have seen and hadn't. Mary had never heard him laugh like that before. Unguarded.
 

@@ -4,6 +4,8 @@
 
 New readers should know: in this world, some experiences cut so deeply into the body that they are inherited by children and grandchildren and the children after them, as vivid as memories of their own lives. The families who carry them have protected them, and each other, across civilizations. They call themselves carriers. Rome calls them a threat.
 
+If this is your first book in the series, you are welcome here. You do not need the earlier three. A few names and phrases will be unfamiliar to you in the early chapters — the carriers, the old families, the knowing that runs in the blood — and they will become clear as you read, the way a stranger's family becomes clear by the end of a long visit. Trust the story. Read past what you do not yet know. The book is built for you.
+
 ---
 
 # PREFACE
