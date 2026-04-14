@@ -25,7 +25,7 @@ And he knew him. The way his shoulders dropped when he was thinking. Not slouchi
 
 Jesus had never met them. They'd been dead for twelve centuries. And still the memory arrived fresh. Still the hand reached. Still the mispronounced word hung in the air of a workshop that had been dust for a millennium, waiting for a laugh that would never come again. Some mornings he woke with tears on his face and didn't know whose grief he was crying, theirs or his own. The answer, he'd come to understand, was both.
 
-Twelve hundred years of love encoded in his body.
+Twelve hundred years of love written into his body.
 
 He felt it all.
 

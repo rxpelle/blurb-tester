@@ -200,7 +200,7 @@ Twenty-three pages of papyrus spread across the table. Twenty-three pages. The o
 
 Mary Magdalene knew three days before it happened. Through her body. The warmth beneath her left ribs had begun to move out. Like a tide withdrawing.
 
-She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the great harbor with its lighthouse beacon, the rigging of grain ships, gulls wheeling around the Pharos, always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was encoded. Her body had done its work.
+She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the great harbor with its lighthouse beacon, the rigging of grain ships, gulls wheeling around the Pharos, always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was planted. Her body had done its work.
 
 Sarah found her on the rooftop at dusk, face turned toward the harbor. Seventeen years old.
 

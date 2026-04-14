@@ -32,7 +32,7 @@ And he knew him. The way his shoulders dropped when he was thinking. Not slouchi
 
 Jesus had never met them. They'd been dead for twelve centuries. And still the memory arrived fresh. Still the hand reached. Still the mispronounced word hung in the air of a workshop that had been dust for a millennium, waiting for a laugh that would never come again. Some mornings he woke with tears on his face and didn't know whose grief he was crying, theirs or his own. The answer, he'd come to understand, was both.
 
-Twelve hundred years of love encoded in his body.
+Twelve hundred years of love written into his body.
 
 He felt it all.
 
@@ -1067,7 +1067,7 @@ A young student, seventeen, maybe, hands knotted in her lap, asked the question 
 
 Nefertari's answer carried across twelve centuries like a stone dropped into still water:
 
-*They won't remember consciously. But trauma encodes in the blood. Your children will carry memory of this collapse even if they never understand why certain things terrify them. Why certain patterns make their skin crawl. Why they dream of cities they've never seen.*
+*They won't remember consciously. But grief this deep writes itself into the blood. Your children will carry memory of this collapse even if they never understand why certain things terrify them. Why certain patterns make their skin crawl. Why they dream of cities they've never seen.*
 
 The girl looked stricken. *You're saying we pass our suffering forward? To our own children?*
 
@@ -1077,7 +1077,7 @@ The girl wept. Others joined her. Nefertari's own eyes were bright with fever, h
 
 *It isn't fair. I know. You didn't choose to survive this. You don't want your children inheriting nightmares of burning cities. But fairness isn't what keeps knowledge alive. Only persistence. Only distribution. Only trusting that what you carry forward matters more than what it costs you to carry it.*
 
-And underneath, the last thing she encoded before the fever consumed her:
+And underneath, the last thing she set down before the fever consumed her:
 
 *Teach until they kill you. Die well. Trust the blood.*
 
@@ -1420,7 +1420,7 @@ The vision was still there. Not drowning her, not pulling her under, but sitting
 
 Mary straightened. Set her shoulders. Looked the Pharisee in the face.
 
-"I'm not interpreting." Her voice was thin at first, cracking on the first word, but it gained strength with each syllable. "I'm hearing what's already there. The teacher encoded two meanings in the same words — spiritual practice for those who need comfort, and structural truth for those who can hear it. I hear it because I've spent my entire life living the collapse he's describing. I've watched cities burn in my sleep since I was a child. I know what escalation looks like from the inside."
+"I'm not interpreting." Her voice was thin at first, cracking on the first word, but it gained strength with each syllable. "I'm hearing what's already there. The teacher folded two meanings into the same words — spiritual practice for those who need comfort, and structural truth for those who can hear it. I hear it because I've spent my entire life living the collapse he's describing. I've watched cities burn in my sleep since I was a child. I know what escalation looks like from the inside."
 
 The Pharisee's lip curled. "Demons speak through the mad. They mimic understanding to—"
 
@@ -1432,7 +1432,7 @@ Jesus stepped forward. Not between them — beside Mary. "Truth is truth, no mat
 
 The Pharisee went red. "You validate a woman's theology? Over trained scholars of the Law?"
 
-"I validate understanding over credentials." Jesus's voice was calm but carried the particular weight that made crowds go silent. "The woman who first encoded what I'm teaching was a physician, not a priest. Twenty-three of her first students were women. The knowledge doesn't care about the vessel. Only about whether the vessel can hold it."
+"I validate understanding over credentials." Jesus's voice was calm but carried the particular weight that made crowds go silent. "The woman who first set down what I'm teaching was a physician, not a priest. Twenty-three of her first students were women. The knowledge doesn't care about the vessel. Only about whether the vessel can hold it."
 
 The Pharisee sputtered, looked around for support, found none. The remaining crowd had shifted, women mostly, but a few men too, and they were looking at Mary. Not with suspicion. With recognition. She'd named what they'd felt but couldn't articulate. The sense that something deeper lived beneath the sermons. That the parables weren't just comfort stories but instructions for survival.
 
@@ -1518,7 +1518,7 @@ When the Twelve filed out, Mary stayed.
 
 "If you train her correctly, she survives it. Carries the teaching forward."
 
-Mary looked at her daughter sleeping in her lap. Three years old. A whole future of catastrophe encoded in her blood.
+Mary looked at her daughter sleeping in her lap. Three years old. A whole future of catastrophe written into her blood.
 
 "I thought I was coming here to be cured," Mary said. "Instead you're training me to teach my daughter how to survive a war that hasn't happened yet."
 
@@ -1829,7 +1829,7 @@ Jesus looked at her with something she'd never seen from him before. Beyond appr
 
 "You've built what I couldn't," he said quietly. "I teach in crowds. You teach in rooms. I scatter seed. You make sure it takes root."
 
-"That's partnership. You encode the core teaching through public ministry. I develop the training infrastructure that distributes it after you're gone. Different work. Equal weight."
+"That's partnership. You plant the core teaching through public ministry. I build the rooms that will hold it after you're gone. Different work. Equal weight."
 
 "When I die," Mary said carefully, "and I continue teaching, people will forget what I contributed. They'll assume I'm your student. A lesser teacher preserving your work."
 
@@ -2331,7 +2331,7 @@ Beautiful. Dangerous. And completely unsustainable.
 
 Andrew was right. This crowd was approaching crisis. Hunger, exhaustion, the sanitation problems that came with too many bodies in too little space. Another day and sickness would start spreading.
 
-But this was also an opportunity. Maybe the last large-scale teaching moment before arrest. One final pattern to encode: how trust revealed what hoarding hid.
+But this was also an opportunity. Maybe the last large-scale teaching moment before arrest. One final pattern to leave behind: how trust revealed what hoarding hid.
 
 "You give them something to eat," Jesus said.
 
@@ -2405,7 +2405,7 @@ Mary nodded, but he could see the fear underneath her competence. Eighteen month
 
 "We're not ready," Mary said quietly. "The families are scattered too thin."
 
-"We're never ready. We encode as much as we can in the time we have and trust distribution to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
+"We're never ready. We plant as much as we can in the time we have and trust the scattering to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
 
 ---
 
@@ -3087,7 +3087,7 @@ Leah was quiet for a long time. Long enough that Mary thought she wouldn't answe
 
 Then, quietly: "You taught me to read both layers of a parable when I couldn't tell a metaphor from a meal blessing. You taught Rachel to hold what came to her in the night when she thought the visions were madness. You taught Abigail to hold a room of forty women and make every one of them feel seen." She paused. "You're afraid. That's allowed. But the work is already done, Mary. Not finished — never finished, but *planted*. In us."
 
-Rachel and Abigail had come back. Rachel with flour still on her hands from the bread she'd been making — the same Rachel who, last month, had gone to Deborah's kitchen when Deborah's face was too bad for the circle. Had sat with her and ground grain together and said nothing about the bruise. That was the teaching. Not the parables, not the systems theory, not the dual-layer encoding. Someone showing up and not looking away. Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
+Rachel and Abigail had come back. Rachel with flour still on her hands from the bread she'd been making — the same Rachel who, last month, had gone to Deborah's kitchen when Deborah's face was too bad for the circle. Had sat with her and ground grain together and said nothing about the bruise. That was the teaching. Not the parables, not the systems theory, not the dual-layer teaching. Someone showing up and not looking away. Abigail with her sleeping infant against her chest, the baby's mouth slightly open, breathing the slow perfect rhythm of a body that didn't know anything was wrong. They'd heard. Of course they'd heard. The network was small and the news was too large to contain.
 
 "Then we adapt when we're wrong," Leah said quietly. "Three of us can hold both layers now. Because you taught us."
 
@@ -3144,7 +3144,7 @@ And Nefertari's answer, the thing Jesus had never accessed before, the understan
 
 *Has that ever happened?*
 
-Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does, if some daughter of my daughter's daughters comes into the world with the chain unbroken behind her, she will understand everything I encoded. Every layer. Every pattern. Everything I saw when I created this.*
+Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does, if some daughter of my daughter's daughters comes into the world with the chain unbroken behind her, she will understand everything I set down here. Every layer. Every pattern. Everything I saw when I made this.*
 
 Jesus opened his eyes.
 
@@ -3224,7 +3224,7 @@ Helena unwrapped the cloth on the table. Two bronze keys, each the length of a m
 
 "This is what survived." Helena's voice was flat with exhaustion. Her shoulders released when the keys left her hands. Not relief, but the loosening of a person who has been clenching for so long that relaxation feels more like collapse. "Two keys. The Temple has three locked in their vaults. The last two have been gone since the collapse."
 
-She looked at Mary. "The Alexandria community sends their strength. Thirty-seven carriers. Twelve teaching circles. They'll receive whatever he encodes." A pause. "They've been preparing for this since before I was born."
+She looked at Mary. "The Alexandria community sends their strength. Thirty-seven carriers. Twelve teaching circles. They'll receive whatever he leaves them." A pause. "They've been preparing for this since before I was born."
 
 Thirty-seven carriers in Alexandria alone. Mary hadn't known the number. Had known the community existed — Simon had mentioned it, the way he mentioned all the scattered outposts, but hearing the number, specific and real, was different. Thirty-seven people who would catch what she threw. Who would carry forward what she preserved. It was the first time since the execution timeline had become real that Mary felt something other than dread. Not hope, but the awareness that the net was wider than she'd thought.
 
@@ -3246,7 +3246,7 @@ After Helena left to rest in the room they'd prepared, and Mary had watched her 
 
 "Then don't attempt it."
 
-"Nine months to encode everything. I need every advantage I can get."
+"Nine months to set everything down. I need every advantage I can get."
 
 Mary's hand moved toward the keys on the table, to wrap them back up, to take them, to do anything other than watch him walk further into the thing that would kill him. She stopped herself. Held her hand an inch from the bronze. She could feel it. Not heat, not cold, but something. Presence. Twelve hundred years of hands on metal, each one pressing their particular grief into the geometric grooves.
 
@@ -3332,7 +3332,7 @@ Titus stared at him. "You're talking about performing weakness while the Temple 
 
 "Yes."
 
-The razor's edge. Teach enough to preserve the knowledge. Not so clearly that the Temple accelerated his death. Jesus had nine months to encode everything that mattered into parables and stories and the memories of people who would scatter when he died, and he had to do it while pretending he wasn't finished yet.
+The razor's edge. Teach enough to preserve the knowledge. Not so clearly that the Temple accelerated his death. Jesus had nine months to fold everything that mattered into parables and stories and the memories of people who would scatter when he died, and he had to do it while pretending he wasn't finished yet.
 
 ---
 
@@ -3471,7 +3471,7 @@ The nine months had passed quickly.
 
 Rain-washed nets hung from the lakeside racks. Almond blossoms dropping petals in the street. The Galilean spring hadn't warmed yet, mornings still carried winter's edge, and the upper room's thick stone walls held the night's cold, the packed earth floor cold beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
 
-The bronze had been in his hands for an hour. Geometric patterns pressing grooves into his palms, the disc warm now from contact, from the heat that always lived beneath his ribs climbing into his fingers and meeting the metal halfway. He'd been tracing Nefertari's final days. Not the public encoding, not the workshop, but the private moments. Her sitting alone at her bench after the last student left. The way her hands shook when nobody was watching. The way she pressed her palms flat against the wood and breathed until the shaking stopped.
+The bronze had been in his hands for an hour. Geometric patterns pressing grooves into his palms, the disc warm now from contact, from the heat that always lived beneath his ribs climbing into his fingers and meeting the metal halfway. He'd been tracing Nefertari's final days. Not the public work, not the workshop, but the private moments. Her sitting alone at her bench after the last student left. The way her hands shook when nobody was watching. The way she pressed her palms flat against the wood and breathed until the shaking stopped.
 
 He was doing the same thing when Titus appeared in the doorway.
 
@@ -3489,7 +3489,7 @@ Three weeks.
 
 The words struck his chest before his mind processed them. A physical sensation. Not the warmth, something colder, something that compressed the space between his ribs like a hand pressing down on wet clay. His breath went shallow. His fingers, still spread on the stone table, curled slightly and then forced themselves flat again. Carpenter's discipline. When the wood splits wrong, you don't flinch. You set your hands, and assess.
 
-Three weeks. Not nine months. Not the timeline they'd been working inside, the careful encoding, the gradual transfer. Three weeks.
+Three weeks. Not nine months. Not the timeline they'd been working inside, the careful teaching, the gradual handing-over. Three weeks.
 
 It came before he could stop it. Not Nefertari this time, something closer, more recent, more brutal. A man hanging from wood. Iron through wrists. The specific agony of pushing up on a nail through foot bones to steal one more breath. He'd accessed crucifixion fragments before — pieces that arrived in the night and left him sweating in the dark. But this was different. This was his own face on the cross. His own hands. The vision had the clarity of something that had already happened and was just waiting for the calendar to catch up.
 
@@ -4587,7 +4587,7 @@ Jesus humming in the workshop — a tune she didn't recognize, something he said
 
 Those were her memories. Not inherited from Nefertari or Tausret or any of the women who came before. Not given to her by anyone but the man she had stood beside. Made in the last five years, in the ordinary spaces between teachings, in the small rooms and dusty roads and borrowed courtyards where two people had built something together that the world would never fully see because it happened in the margins, in the silences, in the moments when the crowds had gone home and the torches were out and it was just them — two people who knew each other the way stone knows water, by long wearing, by slow reshaping, by the patient fact of proximity.
 
-Hers. Uninherited. Unencoded.
+Hers. Uninherited. Unwritten.
 
 Hers.
 
@@ -4644,7 +4644,7 @@ His hands breaking bread at the table in Capernaum. Not the Last Supper, not the
 
 His voice saying her name for the first time. Not the resurrection, that hadn't happened yet, she was in the borrowed room, he was behind the stone, he was dead. The first time. Capernaum, five years ago. She'd been sitting on the floor of the teaching room, shaking, a vision of a burning city still dissolving behind her eyes, and he'd knelt beside her and said *Mary*. Not a question, not a command, her name, spoken with the weight of someone who recognized what was happening to her because it happened to him too. And the vision had gone quiet. Not because of power. Because of recognition. The sound of someone who understood.
 
-His face during the sermon on the hillside when she'd heard both layers for the first time, the parable the crowd heard and the systems teaching underneath, the architecture of how empires collapse, encoded in a story about seeds and soil. She'd looked at him, and he'd looked at her, and his left eyebrow had risen in that way it did when something mattered, and she'd understood that he knew she'd heard it, and that her hearing it changed what the teaching was. Not a teacher delivering knowledge to a student. Two people reading the same text aloud, each one hearing what the other brought to it.
+His face during the sermon on the hillside when she'd heard both layers for the first time, the parable the crowd heard and the harder teaching underneath, the architecture of how empires collapse, folded into a story about seeds and soil. She'd looked at him, and he'd looked at her, and his left eyebrow had risen in that way it did when something mattered, and she'd understood that he knew she'd heard it, and that her hearing it changed what the teaching was. Not a teacher delivering knowledge to a student. Two people reading the same text aloud, each one hearing what the other brought to it.
 
 The smell of his cloak. Cedar and sweat and the faint mineral smell of limestone dust from the roads. She'd walked beside him for five years and she knew the smell of his clothes the way she knew the smell of her daughter's hair. Not because she'd studied it, because proximity wrote it into her body. A thousand miles of road together. A thousand shared meals. A thousand teaching sessions, side by side, her breathing matching his, two sets of lungs finding the same rhythm.
 
@@ -5310,7 +5310,7 @@ Twenty-three pages of papyrus spread across the table. Twenty-three pages. The o
 
 Mary Magdalene knew three days before it happened. Through her body. The warmth beneath her left ribs had begun to move out. Like a tide withdrawing.
 
-She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the great harbor with its lighthouse beacon, the rigging of grain ships, gulls wheeling around the Pharos, always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was encoded. Her body had done its work.
+She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the great harbor with its lighthouse beacon, the rigging of grain ships, gulls wheeling around the Pharos, always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was planted. Her body had done its work.
 
 Sarah found her on the rooftop at dusk, face turned toward the harbor. Seventeen years old.
 

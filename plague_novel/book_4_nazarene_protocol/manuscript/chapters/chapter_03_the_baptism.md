@@ -186,7 +186,7 @@ A young student, seventeen, maybe, hands knotted in her lap, asked the question 
 
 Nefertari's answer carried across twelve centuries like a stone dropped into still water:
 
-*They won't remember consciously. But trauma encodes in the blood. Your children will carry memory of this collapse even if they never understand why certain things terrify them. Why certain patterns make their skin crawl. Why they dream of cities they've never seen.*
+*They won't remember consciously. But grief this deep writes itself into the blood. Your children will carry memory of this collapse even if they never understand why certain things terrify them. Why certain patterns make their skin crawl. Why they dream of cities they've never seen.*
 
 The girl looked stricken. *You're saying we pass our suffering forward? To our own children?*
 
@@ -196,7 +196,7 @@ The girl wept. Others joined her. Nefertari's own eyes were bright with fever, h
 
 *It isn't fair. I know. You didn't choose to survive this. You don't want your children inheriting nightmares of burning cities. But fairness isn't what keeps knowledge alive. Only persistence. Only distribution. Only trusting that what you carry forward matters more than what it costs you to carry it.*
 
-And underneath, the last thing she encoded before the fever consumed her:
+And underneath, the last thing she set down before the fever consumed her:
 
 *Teach until they kill you. Die well. Trust the blood.*
 

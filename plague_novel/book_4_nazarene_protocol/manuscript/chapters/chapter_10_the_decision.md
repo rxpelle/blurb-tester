@@ -8,7 +8,7 @@ The nine months had passed quickly.
 
 Rain-washed nets hung from the lakeside racks. Almond blossoms dropping petals in the street. The Galilean spring hadn't warmed yet, mornings still carried winter's edge, and the upper room's thick stone walls held the night's cold, the packed earth floor cold beneath Jesus's bare feet as he worked the Pattern Eye before dawn.
 
-The bronze had been in his hands for an hour. Geometric patterns pressing grooves into his palms, the disc warm now from contact, from the heat that always lived beneath his ribs climbing into his fingers and meeting the metal halfway. He'd been tracing Nefertari's final days. Not the public encoding, not the workshop, but the private moments. Her sitting alone at her bench after the last student left. The way her hands shook when nobody was watching. The way she pressed her palms flat against the wood and breathed until the shaking stopped.
+The bronze had been in his hands for an hour. Geometric patterns pressing grooves into his palms, the disc warm now from contact, from the heat that always lived beneath his ribs climbing into his fingers and meeting the metal halfway. He'd been tracing Nefertari's final days. Not the public work, not the workshop, but the private moments. Her sitting alone at her bench after the last student left. The way her hands shook when nobody was watching. The way she pressed her palms flat against the wood and breathed until the shaking stopped.
 
 He was doing the same thing when Titus appeared in the doorway.
 
@@ -26,7 +26,7 @@ Three weeks.
 
 The words struck his chest before his mind processed them. A physical sensation. Not the warmth, something colder, something that compressed the space between his ribs like a hand pressing down on wet clay. His breath went shallow. His fingers, still spread on the stone table, curled slightly and then forced themselves flat again. Carpenter's discipline. When the wood splits wrong, you don't flinch. You set your hands, and assess.
 
-Three weeks. Not nine months. Not the timeline they'd been working inside, the careful encoding, the gradual transfer. Three weeks.
+Three weeks. Not nine months. Not the timeline they'd been working inside, the careful teaching, the gradual handing-over. Three weeks.
 
 It came before he could stop it. Not Nefertari this time, something closer, more recent, more brutal. A man hanging from wood. Iron through wrists. The specific agony of pushing up on a nail through foot bones to steal one more breath. He'd accessed crucifixion fragments before — pieces that arrived in the night and left him sweating in the dark. But this was different. This was his own face on the cross. His own hands. The vision had the clarity of something that had already happened and was just waiting for the calendar to catch up.
 

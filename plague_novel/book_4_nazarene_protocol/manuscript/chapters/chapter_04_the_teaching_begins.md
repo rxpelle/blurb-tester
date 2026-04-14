@@ -128,7 +128,7 @@ The vision was still there. Not drowning her, not pulling her under, but sitting
 
 Mary straightened. Set her shoulders. Looked the Pharisee in the face.
 
-"I'm not interpreting." Her voice was thin at first, cracking on the first word, but it gained strength with each syllable. "I'm hearing what's already there. The teacher encoded two meanings in the same words — spiritual practice for those who need comfort, and structural truth for those who can hear it. I hear it because I've spent my entire life living the collapse he's describing. I've watched cities burn in my sleep since I was a child. I know what escalation looks like from the inside."
+"I'm not interpreting." Her voice was thin at first, cracking on the first word, but it gained strength with each syllable. "I'm hearing what's already there. The teacher folded two meanings into the same words — spiritual practice for those who need comfort, and structural truth for those who can hear it. I hear it because I've spent my entire life living the collapse he's describing. I've watched cities burn in my sleep since I was a child. I know what escalation looks like from the inside."
 
 The Pharisee's lip curled. "Demons speak through the mad. They mimic understanding to—"
 
@@ -140,7 +140,7 @@ Jesus stepped forward. Not between them — beside Mary. "Truth is truth, no mat
 
 The Pharisee went red. "You validate a woman's theology? Over trained scholars of the Law?"
 
-"I validate understanding over credentials." Jesus's voice was calm but carried the particular weight that made crowds go silent. "The woman who first encoded what I'm teaching was a physician, not a priest. Twenty-three of her first students were women. The knowledge doesn't care about the vessel. Only about whether the vessel can hold it."
+"I validate understanding over credentials." Jesus's voice was calm but carried the particular weight that made crowds go silent. "The woman who first set down what I'm teaching was a physician, not a priest. Twenty-three of her first students were women. The knowledge doesn't care about the vessel. Only about whether the vessel can hold it."
 
 The Pharisee sputtered, looked around for support, found none. The remaining crowd had shifted, women mostly, but a few men too, and they were looking at Mary. Not with suspicion. With recognition. She'd named what they'd felt but couldn't articulate. The sense that something deeper lived beneath the sermons. That the parables weren't just comfort stories but instructions for survival.
 
@@ -226,7 +226,7 @@ When the Twelve filed out, Mary stayed.
 
 "If you train her correctly, she survives it. Carries the teaching forward."
 
-Mary looked at her daughter sleeping in her lap. Three years old. A whole future of catastrophe encoded in her blood.
+Mary looked at her daughter sleeping in her lap. Three years old. A whole future of catastrophe written into her blood.
 
 "I thought I was coming here to be cured," Mary said. "Instead you're training me to teach my daughter how to survive a war that hasn't happened yet."
 

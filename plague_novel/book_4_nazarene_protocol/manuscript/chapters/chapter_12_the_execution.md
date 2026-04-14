@@ -364,7 +364,7 @@ Jesus humming in the workshop — a tune she didn't recognize, something he said
 
 Those were her memories. Not inherited from Nefertari or Tausret or any of the women who came before. Not given to her by anyone but the man she had stood beside. Made in the last five years, in the ordinary spaces between teachings, in the small rooms and dusty roads and borrowed courtyards where two people had built something together that the world would never fully see because it happened in the margins, in the silences, in the moments when the crowds had gone home and the torches were out and it was just them — two people who knew each other the way stone knows water, by long wearing, by slow reshaping, by the patient fact of proximity.
 
-Hers. Uninherited. Unencoded.
+Hers. Uninherited. Unwritten.
 
 Hers.
 

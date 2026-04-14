@@ -36,7 +36,7 @@ And Nefertari's answer, the thing Jesus had never accessed before, the understan
 
 *Has that ever happened?*
 
-Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does, if some daughter of my daughter's daughters comes into the world with the chain unbroken behind her, she will understand everything I encoded. Every layer. Every pattern. Everything I saw when I created this.*
+Nefertari's smile, sad and knowing: *Not yet. Maybe never. But if it does, if some daughter of my daughter's daughters comes into the world with the chain unbroken behind her, she will understand everything I set down here. Every layer. Every pattern. Everything I saw when I made this.*
 
 Jesus opened his eyes.
 
@@ -116,7 +116,7 @@ Helena unwrapped the cloth on the table. Two bronze keys, each the length of a m
 
 "This is what survived." Helena's voice was flat with exhaustion. Her shoulders released when the keys left her hands. Not relief, but the loosening of a person who has been clenching for so long that relaxation feels more like collapse. "Two keys. The Temple has three locked in their vaults. The last two have been gone since the collapse."
 
-She looked at Mary. "The Alexandria community sends their strength. Thirty-seven carriers. Twelve teaching circles. They'll receive whatever he encodes." A pause. "They've been preparing for this since before I was born."
+She looked at Mary. "The Alexandria community sends their strength. Thirty-seven carriers. Twelve teaching circles. They'll receive whatever he leaves them." A pause. "They've been preparing for this since before I was born."
 
 Thirty-seven carriers in Alexandria alone. Mary hadn't known the number. Had known the community existed — Simon had mentioned it, the way he mentioned all the scattered outposts, but hearing the number, specific and real, was different. Thirty-seven people who would catch what she threw. Who would carry forward what she preserved. It was the first time since the execution timeline had become real that Mary felt something other than dread. Not hope, but the awareness that the net was wider than she'd thought.
 
@@ -138,7 +138,7 @@ After Helena left to rest in the room they'd prepared, and Mary had watched her 
 
 "Then don't attempt it."
 
-"Nine months to encode everything. I need every advantage I can get."
+"Nine months to set everything down. I need every advantage I can get."
 
 Mary's hand moved toward the keys on the table, to wrap them back up, to take them, to do anything other than watch him walk further into the thing that would kill him. She stopped herself. Held her hand an inch from the bronze. She could feel it. Not heat, not cold, but something. Presence. Twelve hundred years of hands on metal, each one pressing their particular grief into the geometric grooves.
 
@@ -224,7 +224,7 @@ Titus stared at him. "You're talking about performing weakness while the Temple 
 
 "Yes."
 
-The razor's edge. Teach enough to preserve the knowledge. Not so clearly that the Temple accelerated his death. Jesus had nine months to encode everything that mattered into parables and stories and the memories of people who would scatter when he died, and he had to do it while pretending he wasn't finished yet.
+The razor's edge. Teach enough to preserve the knowledge. Not so clearly that the Temple accelerated his death. Jesus had nine months to fold everything that mattered into parables and stories and the memories of people who would scatter when he died, and he had to do it while pretending he wasn't finished yet.
 
 ---
 

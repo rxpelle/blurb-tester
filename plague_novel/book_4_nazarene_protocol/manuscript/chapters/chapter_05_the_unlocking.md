@@ -292,7 +292,7 @@ Jesus looked at her with something she'd never seen from him before. Beyond appr
 
 "You've built what I couldn't," he said quietly. "I teach in crowds. You teach in rooms. I scatter seed. You make sure it takes root."
 
-"That's partnership. You encode the core teaching through public ministry. I develop the training infrastructure that distributes it after you're gone. Different work. Equal weight."
+"That's partnership. You plant the core teaching through public ministry. I build the rooms that will hold it after you're gone. Different work. Equal weight."
 
 "When I die," Mary said carefully, "and I continue teaching, people will forget what I contributed. They'll assume I'm your student. A lesser teacher preserving your work."
 

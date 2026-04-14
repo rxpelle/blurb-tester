@@ -154,7 +154,7 @@ Beautiful. Dangerous. And completely unsustainable.
 
 Andrew was right. This crowd was approaching crisis. Hunger, exhaustion, the sanitation problems that came with too many bodies in too little space. Another day and sickness would start spreading.
 
-But this was also an opportunity. Maybe the last large-scale teaching moment before arrest. One final pattern to encode: how trust revealed what hoarding hid.
+But this was also an opportunity. Maybe the last large-scale teaching moment before arrest. One final pattern to leave behind: how trust revealed what hoarding hid.
 
 "You give them something to eat," Jesus said.
 
@@ -228,7 +228,7 @@ Mary nodded, but he could see the fear underneath her competence. Eighteen month
 
 "We're not ready," Mary said quietly. "The families are scattered too thin."
 
-"We're never ready. We encode as much as we can in the time we have and trust distribution to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
+"We're never ready. We plant as much as we can in the time we have and trust the scattering to carry the fragments forward." He looked at the crowd beginning to disperse, families gathering children, people discussing what they'd witnessed. "Clean up. Collect the fragments. Let nothing be lost."
 
 ---
 
