@@ -336,7 +336,15 @@ Jesus touched his shoulder. It was a carpenter's touch — rough palm, brief, no
 
 "I know."
 
-They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion. A carpenter. A woman who had just shown him that welcome could be a knot untangled without looking up. And a six-year-old arranging pebbles in patterns Titus did not yet know how to read.
+Mary looked up from the knot. "You're counting."
+
+Titus's hand stilled at his side.
+
+"Right thumb against the side of your index finger. Small, like marking a tally stick." Her eyes went back to the knot. "My father did it. Salt merchant in Magdala. He could not look at a room without taking the inventory, and he passed the habit to me, and it is not a thing you unlearn." A beat. "I counted your steps on the path. Ninety-seven from the olive grove. You were counting mine."
+
+He had not known he had been. He did not trust himself to speak, so he didn't.
+
+They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion. A carpenter. A woman who had just looked at a stranger and seen a man her father would have recognized. And a six-year-old arranging pebbles in patterns Titus did not yet know how to read.
 
 Rome would kill Jesus within two years. Titus couldn't prevent that. But he could witness it. Write it down.
 
