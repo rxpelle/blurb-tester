@@ -80,7 +80,7 @@ Sarah was playing near the water's edge, throwing pebbles. Unaware that their wo
 
 Mary sat on the dock and watched her daughter. The salt wind stung her eyes, or maybe that wasn't the wind. She'd tried the exorcists. Twice. Prayers, herbs, salt and oil, invoking divine names. The second time, she'd dreamed Pi-Ramesses burning so vividly she'd woken with the smell of smoke in her hair.
 
-It wasn't possession. It was inherited. Carried in the blood. Her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
+It wasn't possession. It was inherited — *blood* was the word Mary's mother had used, though neither of them had ever been sure the word was the whole of it. Her mother had experienced the same visions, died at thirty-four calling out names in languages she shouldn't have known. And Mary was twenty-eight, the episodes worsening, and she could see her mother's trajectory stretching out ahead of her like a road with no turns.
 
 She'd asked the synagogue teachers about the city she kept seeing. Described it, grid pattern, four quarters, Nile Delta. The rabbi had looked disturbed. Said Pi-Ramesses was real, abandoned over a thousand years ago. How did a fish-merchant from Magdala know the layout of a city that no longer existed?
 

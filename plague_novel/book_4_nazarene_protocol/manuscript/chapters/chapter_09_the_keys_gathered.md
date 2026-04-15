@@ -22,7 +22,7 @@ She was making something. Seven identical molds arranged on the bench, each one 
 
 But the vision shifted. Not the public work. The private conversation — Nefertari and her daughter, in the last weeks before the end. The girl was young, frightened, about to lose her mother. They sat in the corner of the workshop where the firelight didn't reach, and Nefertari held her daughter's hands the way you hold something you're about to set down for the last time.
 
-*The keys unlock what's already in you,* Nefertari told her. *They organize it. Make it coherent instead of chaos. But the knowledge itself lives in the blood. In you. In your children. In every generation that follows if the line stays unbroken.*
+*The keys unlock what's already in you,* Nefertari told her. *They organize it. Make it coherent instead of chaos. But the knowledge itself lives in what a mother hands to her daughter across the long quiet of the years — call it the blood if you need a word for it. The word is not the thing. The thing is older than any name we have for it. In you. In your children. In every generation that follows if the line stays unbroken.*
 
 The daughter's voice, small and desperate: *So without the keys, I can't access it?*
 

@@ -212,7 +212,7 @@ He found Simon at the docks, mending nets in the dark. The fisherman looked up a
 
 Simon set down the nets. "What did they offer?"
 
-"Recruit him or kill him. The recruitment offer is theater. They know he'll refuse. What they really want is him dead. But discredited first. Make the death look criminal, not righteous. Kill the teaching along with the teacher."
+"Recruit or kill. Recruitment's theater — they know he'll refuse. What they want is him dead, discredited first. Kill the teaching along with the teacher."
 
 Simon said nothing for a long time. "Can they do that?"
 

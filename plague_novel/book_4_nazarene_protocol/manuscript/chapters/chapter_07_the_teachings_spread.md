@@ -88,7 +88,7 @@ Judas's voice had gone flat, the way voices go when the grief underneath is too 
 
 He looked around the fire at the others. "And we're supposed to tell *stories* while they crush what remains of us like grain beneath millstones?"
 
-Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt, or Simon hadn't been listening. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white, from the cold, or from whatever he'd seen in the blood memories. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
+Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt, or Simon hadn't been listening. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white, from the cold, or from whatever he'd been seeing in the long quiet behind his eyes. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
 "What's wrong with five years?"
 

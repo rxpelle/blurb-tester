@@ -264,7 +264,7 @@ John followed him out of the water. The six witness students were staring. Jesus
 
 "There was more." Jesus pressed water from his eyes. "A bronze disc. Covered in symbols. The images are already fading but — Phoenician coast. Near what the Romans call Byblos. Buried in ruins from the collapse."
 
-"The bronze disc," John said. He'd heard the old whispers. Something the first teachers had buried before their cities fell — a thing that opened doors in the blood for those whose blood would not open by itself.
+"The bronze disc," John said. He'd heard the old whispers. Something the first teachers had buried before their cities fell — a thing that opened doors in those whose inheritance would not open on its own.
 
 "Mary's drowning in visions she can't control. The Eye could help her separate past from present." Jesus turned to face him. "I'm asking you to find it."
 

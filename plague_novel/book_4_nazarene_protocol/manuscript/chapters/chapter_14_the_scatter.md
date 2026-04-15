@@ -284,7 +284,27 @@ Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Alex
 
 "You. And your daughter. The blood remembers."
 
-He handed her the Pattern Eye.
+Peter's hands shook around the bronze. He did not hand it to her yet.
+
+"Your mother is twenty-two years gone, Sarah. There is no one alive I can say this to who will hear it. So hear it for her."
+
+He waited until Sarah met his eyes.
+
+"I stood at a charcoal fire the night they took him. I said three times that I did not know him. Your mother stood at his cross. Six hours, in the rain, while I kept my hands warm."
+
+He pressed his thumb against the bronze rim so hard it left a mark in his skin.
+
+"I have carried the cold of that fire for thirty-one years. I am carrying it now. In two days they will put me on the wood, and I am not afraid of what they are going to do to me, because I am owed it. That is the only reason. Not courage. The cold."
+
+Sarah said nothing. She let him keep talking, the way her mother had let Peter keep crying on the night of the vigil.
+
+"The gospel your mother wrote is the one I should have written. The men I leave behind won't carry it forward. They'll give her the name men give to women whose place in a story embarrasses them. I couldn't undo that while I lived. I could only keep this —" He held up the bronze. "— pointed in your direction, when the time came."
+
+He pressed the Pattern Eye into her palm. His hand lingered over hers, rough and warm, a fisherman's hand that had once pulled a sword in a garden and had also, on a colder night, stayed open beside a charcoal fire.
+
+"Tell her, if the blood is kind enough to carry the telling, that I knew. Even when I could not bear to say it aloud. I knew what she was. I knew where she stood."
+
+He let go of her hand.
 
 "When Jerusalem falls, see it with your own eyes. Then continue west."
 
