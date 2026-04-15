@@ -8,7 +8,11 @@ Titus Publius Scipio hated briefings in Jerusalem.
 
 Not because the reports were wrong. Tribune Lucullus maintained the most reliable network of informants Titus had encountered in twenty-eight years of military service. But because the reports were *right*, and that made everything worse.
 
-"Numbers?" Lucullus asked, not looking up from his wax tablet.
+The map room was three stone courses below the Antonia Fortress street, and the limestone kept it cold even in summer. Lamp smoke had stained the ceiling the color of old honey. The air smelled of damp wool, iron, and the wax Lucullus used to seal his daily reports — the same wax Titus's own stylus had warmed a thousand times. Through a slit window near the vault, Jerusalem was waking in pieces: a temple horn, a woman arguing with a vendor about the price of oil, pigeons settling on the roof tiles overhead. The noise leaked in and the walls absorbed it before it reached the table.
+
+Lucullus had lines around his eyes that hadn't been there five years ago. He held the stylus the way a man holds a grudge — steady, without quite relaxing his grip.
+
+"Numbers?" he asked, not looking up from his wax tablet.
 
 "Three thousand in Galilee at the last market gathering," Titus said. "Maybe five hundred here in Jerusalem, but growing. He teaches daily in the Temple courts now."
 
@@ -16,7 +20,7 @@ Not because the reports were wrong. Tribune Lucullus maintained the most reliabl
 
 "Mixed. Galilean peasants, fishermen, some educated scribes. Women—unusual number of women. A core group of maybe twelve men travel with him constantly. Then there's another sixty, maybe eighty who show up consistently wherever he teaches."
 
-Lucullus finally looked up. Lines carved around his eyes that hadn't been there five years ago. The familiar knot tightened between Titus's shoulder blades, the one that came every time they discussed the carpenter. "And the woman?"
+Lucullus finally looked up. The familiar knot tightened between Titus's shoulder blades, the one that came every time they discussed the carpenter. "And the woman?"
 
 "Mary of Magdala. She's with him everywhere now. Leads a separate teaching circle for women. Maybe sixty regular attendees."
 
@@ -56,29 +60,33 @@ A long exhale as the tribune leaned back. "Pilate wants options. Arrest and tria
 
 Three years of this question. His gut twisted.
 
-"He's not organizing armed resistance. He avoids calling for tax rebellion or challenging Caesar directly. His teaching is about personal change and building strong communities. By any measure we'd normally use..."
+"He's not organizing armed resistance. He avoids tax rebellion. Avoids naming Caesar. His teaching is about personal change and building strong communities. By any measure we'd normally use —"
 
-"He's teaching thousands of people to govern themselves," Lucullus interrupted. "To settle disputes, share resources, build communities that don't need our courts or our roads or our grain. That's not common sedition, Scipio. Common sedition we can arrest. This is a province learning to feed itself without us. Harder to crush. More dangerous in the long run."
+"He's teaching them to feed themselves."
+
+Titus stopped.
+
+"To settle their own disputes. Share their own grain. Run their own courts." Lucullus set the stylus down. A small click on the wax tablet. "That's not sedition, Scipio. Sedition we arrest." A pause. "This is a province learning to live without us. Harder to crush. More dangerous in the long run."
 
 "Then why haven't we arrested him already?"
 
 "Because Pilate is smarter than the Temple priests. Remember what happened when we crucified that Zealot leader in Galilee? His followers went underground, started three separate cells. Sometimes killing a man makes him more dangerous dead than alive. The execution becomes part of the message." Lucullus's voice was heavy. "We're trying to find a way to neutralize him without making him more powerful dead than alive."
 
-Something cold settled in his chest. Five years of this problem, and the answer was always the same.
+Titus found his hand flat on the map table, fingers spread over Galilee. He did not remember putting it there. Five years of this problem, and the answer was always the same.
 
-"There's no solution," Titus said. "Arrest him, followers multiply. Leave him alone, the families grow. We're boxed."
+"There's no solution," he said. "Arrest him, followers multiply. Leave him alone, the families grow. We're boxed."
 
-Lucullus smiled without humor. "Exactly. And Rome doesn't break patterns, Centurion. We enforce them."
+Lucullus did not smile. "Rome doesn't break patterns, Centurion. We enforce them."
 
 ---
 
 ## SCENE 2: Observation
 
-Titus found Jesus teaching in Solomon's Portico the next morning. Incense from the inner chambers mixed with olive oil from morning sacrifices and the press of unwashed bodies in the colonnade.
+Titus found Jesus teaching in Solomon's Portico the next morning. The colonnade held the smell of incense from the inner chambers, olive oil from morning sacrifices, and two hundred bodies in close weather — the sour warmth of people who had walked in from the villages at first light. Pigeons moved on the capitals of the columns, claws scraping on marble already hot to the touch. From the money-changers' tables at the far end of the outer court came a thin percussion of coins. Somewhere behind him a child was crying and a mother was shushing her in Aramaic too rapid to follow.
 
 Three years of teaching in Galilee: hillsides, lakeshores, places where informants were few. Now he was teaching in the Temple itself, where every word echoed into Roman reports. It felt deliberate.
 
-Two hundred people filled the colonnade and spilled into the outer court. Mary of Magdala sat near the front, holding Sarah's hand. The girl was six now. Old enough to begin training in earnest.
+Two hundred people filled the colonnade and spilled into the outer court. Mary of Magdala sat near the front, Sarah six years old on her lap. The girl was turning a pebble between two fingers with the absent precision of a child who had been taught to keep her hands occupied so they wouldn't betray her.
 
 Jesus was teaching the sower parable — seed on the path, on rock, among thorns, on good soil. Simple agricultural metaphor. But the faces told two stories. Most showed basic comprehension. A few, Mary, several of the twelve, had sharper expressions. Hearing the deeper layer.
 
@@ -94,7 +102,7 @@ He composed his report in his head, same as always. Technically accurate. Strate
 
 Titus was preparing to leave when the disruption started.
 
-Three men pushed through the crowd toward Jesus. Titus read the body language immediately—aggressive confidence, the kind that came from believing you had righteous cause on your side. Zealots. Young, probably early twenties. True believers in armed resistance to Roman occupation.
+Three men pushed through the crowd toward Jesus. The first shoved an elderly woman sideways in his haste and did not look back. Titus read the body language immediately — aggressive confidence, the kind that came from believing you had righteous cause on your side. Zealots. Young, probably early twenties. The first one had a half-healed knife scar along his forearm that he wore the way other men wore insignia. True believers in armed resistance to Roman occupation.
 
 "Teacher," the first one said, loud enough for the whole crowd to hear. "We've listened to your words for months. You speak about a coming Kingdom. You say the current systems are corrupt and will fall. You gather thousands." He gestured at the crowd. "The people are ready. When will you lead us against Rome?"
 
@@ -114,7 +122,9 @@ That name went straight to memory. Barabbas. Known Zealot recruiter. Temple info
 
 "Then we do nothing?" Barabbas's voice rose. "We accept oppression? Submit to Caesar's taxes and Temple corruption?"
 
-"I didn't say do nothing. I said stop feeding the fire." Jesus stood, drawing the full crowd's attention. "You kill a Roman soldier. They send ten to avenge him. You kill those ten, they burn a village. You attack their garrison, they level Jerusalem. When does it end, Barabbas? When everyone's dead?"
+"I didn't say do nothing. I said stop feeding the fire." Jesus stood. Slowly. The colonnade quieted around him because everyone in it could feel the weight shift. He looked at the scar on Barabbas's forearm before he looked at his face.
+
+"You kill a Roman soldier. They send ten. You kill the ten, they burn a village. You attack a garrison, they level Jerusalem." His voice did not rise. "When does it end, Barabbas? When everyone is dead?"
 
 Silence. The crowd had gone completely still.
 
@@ -122,7 +132,7 @@ His heart hammered. The exact collapse trajectory Rome's own analysts predicted,
 
 "You can see this?" Barabbas whispered.
 
-"I can see the pattern. Every time a conquered people tries to overthrow an empire through violence, the empire wins. Not because Rome is righteous. Because empire is *built* for violence. You cannot out-fight the greatest killing machine in human history."
+"I can see the pattern." Jesus's eyes left Barabbas and moved across the crowd — the woman who had been shoved, a boy with a bandaged hand beside his mother, an older man trying to make himself invisible behind a pillar. "Every time a people tries to out-fight an empire, the empire wins. Not because Rome is righteous." A pause. "Because it is built for that. Only that. It does nothing else well."
 
 Barabbas's face crumpled. Not disagreement. Something worse. The look of a young man watching his hero tell him everything he believed in was poison.
 
@@ -186,7 +196,7 @@ Titus's free hand clenched, nails cutting into his palm. Five years of careful p
 
 "I am Lucullus's source for information about your side. Who do you think authorized this conversation?" Matthias stood slowly. "You have three days to decide, Centurion. Recruit Jesus. Kill Jesus. Or lose your position and we send someone else to finish the job."
 
-He walked to the door, then paused. "For what it's worth — noble effort. Futile, but noble. The problem with your side has always been the same. You think people want to be free. They don't. They want to be managed. That's why we always win."
+He walked to the door, then paused. "For what it's worth, Centurion — noble effort." A small, almost courteous smile. "We always win. You should know why by now."
 
 Matthias left.
 
@@ -302,25 +312,31 @@ Two days later he found Jesus teaching on a hillside outside Bethany. Smaller cr
 
 Jesus was teaching the fig tree parable, when the branch puts out leaves, you know summer is near. When you see certain markers, you know what's coming. What struck Titus wasn't the teaching. It was the faces. Sixty people listening to a man tell them their city would be destroyed, and not one of them left.
 
-After the teaching ended, Titus approached. Jesus looked at him the way he'd looked at Titus five years ago at the census. Not reading his face but reading what lay behind it.
+After the teaching ended, Titus approached. Jesus looked at him the way he'd looked at him five years ago at the census — not reading his face but reading what lay behind it.
 
-"Simon said you needed witnesses."
+Neither of them spoke for a long time.
 
-"You understand what you're witnessing. Crucifixion, most likely. Within two years."
+"Simon told you," Jesus said finally.
+
+"He told me."
+
+Jesus considered him. "Crucifixion, most likely. Within two years." It was not a question.
 
 "I understand."
 
-Mary extended her hand. "Your reports gave us five years. Now we need someone who can document what actually happens. From outside."
+Mary was near enough to have heard. She did not extend her hand or welcome him. She did something harder: she went back to what she had been doing, which was untangling a knot in the hem of her robe, with the small economy of a woman who had decided long ago that the dead weight of ceremony cost more than it bought. Titus understood that this was the welcome.
 
-"First witness it," Jesus said. "Write it later, when it's safe." He met Titus's eyes. "Even the parts that make Rome look cruel?"
+"Even the parts that make Rome look cruel?" Jesus asked.
 
 "Especially those parts."
 
-Jesus touched Titus's shoulder. "Stay close. Document everything. When I die, protect Mary and Sarah. Get them out of Jerusalem."
+Jesus touched his shoulder. It was a carpenter's touch — rough palm, brief, no lingering. Then the hand was back at his side.
 
-"I will."
+"When it happens," Jesus said, "get Mary and Sarah out of Jerusalem."
 
-They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion, a carpenter, a woman who measured debts and kept them, and a six-year-old arranging pebbles in the dirt.
+"I know."
+
+They stood together as sunset gilded the hillside, the air carrying wild herbs and the distant smoke of evening cooking fires in Bethany below. A former centurion. A carpenter. A woman who had just shown him that welcome could be a knot untangled without looking up. And a six-year-old arranging pebbles in patterns Titus did not yet know how to read.
 
 Rome would kill Jesus within two years. Titus couldn't prevent that. But he could witness it. Write it down.
 
