@@ -5260,37 +5260,13 @@ She wrote what he had said about sin first. Not as the priests spoke of it — a
 
 Down went the stylus. She heard his voice in the words, the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
 
-Back into the ink. She wrote what he had said about how everything held together — that all things existed in and through one another, and that everything would dissolve, in the end, back into its own beginning. Matter would loosen back to the place it came from. Nothing was lost. Nothing went anywhere it had not already been.
+She wrote his farewell. The peace he had given them. The warning she had heard him give a hundred times — beware the teachers who would tell you the kingdom was over here, or over there, in this temple or that mountain. The kingdom was in them, where it had always been. Those who looked for it would find it. Those who waited for someone else to point at it would never see.
 
-Her hand stopped. She stared at the words. Read them again.
+Then she wrote what had happened after he left them — the eleven weeping in the upper room, Peter's face wrecked, and herself standing up to tell them not to weep because there was work waiting outside the door. Her sermon. The first sermon after the resurrection, delivered to eleven men who couldn't stop crying, and never written down anywhere but here.
 
-Sarah looked up from her reading. "What?"
+Still writing. The private teaching now — the one Peter had challenged in that courtyard. The one about the voices that tried to claim a soul, and what the soul was supposed to say back. She had been answering these voices her whole life, in kitchens and marketplaces and the courtyards of other women who had been told who they were by men who did not know them. She had not known, until she sat down to write, that she had been keeping a record all along.
 
-"Nothing." Mary wiped her eyes with the back of her wrist and kept writing.
-
-She wrote his farewell. The peace he had given them. The warning, the one she had heard him give a hundred times — beware the teachers who would tell you the kingdom was over here, or over there, in this temple or that mountain. The kingdom was in them, where it had always been. Those who looked for it would find it. Those who waited for someone else to point at it would never see.
-
-She wrote what he had said about carrying the work forward. Preach the good news, yes. But do not make new laws, he had warned them. Do not become the kind of teacher who builds a fence around the teaching to keep the wrong people out. He had been a man who tore fences down. He would not be remembered for building one.
-
-Then she wrote what happened after he left them.
-
-The eleven had been weeping in the upper room. Afraid to go out to the world that had killed him. Peter most of all — his face wrecked, his hands open in his lap because they could not hold anything. None of them could speak.
-
-So she had stood. She had told them not to weep. He had prepared them for this, she said. His grace would shelter them. They were not weeping men. They were the human beings he had made of them, and there was work waiting outside the door.
-
-When she had finished speaking, their faces had changed. Not all at once. By degrees. The way a winter morning changes when the sun finally clears the eastern wall.
-
-The first sermon after the resurrection wasn't Peter's at Pentecost. It was hers, in that room, to eleven men who couldn't stop weeping.
-
-Still writing. The private teaching now — the one Peter had challenged in that courtyard. The one he had given her on a hillside above Capernaum at sunset, seven years before they killed him.
-
-Lamplight guttered. Sarah brought a fresh one without being asked.
-
-It was about the voices that tried to claim a soul, and what the soul was supposed to say back. She had been answering these voices her whole life, in kitchens and marketplaces and the courtyards of other women who had been told who they were by men who did not know them. She had not known, until she sat down to write, that she had been keeping a record all along.
-
-She did not have the Greek names the later teachers would give them. She had her own names — the names she had used in her own head in the dark, when the voices came for her. The one that said *you belong to me*. The one that said *the cloth I have wrapped you in is your true face*. The one that said *what you see is not real, only what I tell you is real*. And then the fourth one, the one with the seven faces, the one that wore a new cloak every time you thought you had answered it: the face of rage at being alive, the face of a body treated as a debt, the face of a mind that knew everything except love, and the hardest face of all, the face of a heart that had known love and could not bear it.
-
-She wrote what the soul answered each of them. Not doctrine. Instructions.
+Lamplight guttered. Sarah brought a fresh one without being asked. Mary wrote the voices in her own names for them, not the Greek names the later teachers would give. The one that said *you belong to me*. The one that said *the cloth I have wrapped you in is your true face*. The one that said *what you see is not real, only what I tell you is real*. And the fourth one that wore seven faces — rage at being alive, a body treated as a debt, a mind that knew everything except love, and hardest of all, a heart that had known love and could not bear it. She wrote what the soul answered each of them. Not doctrine. Instructions.
 
 *To the one who said you belong to me: I am not your name for me.*
 
@@ -5298,9 +5274,7 @@ She wrote what the soul answered each of them. Not doctrine. Instructions.
 
 *To the one who said what you see is not real: I have seen what I have seen.*
 
-She wrote the others too — the rage at being alive, the body that calls itself a debt, the cleverness that knows everything except love — answered them in her own words, in the order she had needed them, with the unhurried care of a woman who had been saying the answers for most of her life and now finally had a place to put them.
-
-Then the last of the voices. The hardest one.
+She wrote the others too — the rage at being alive, the body that calls itself a debt, the cleverness that knows everything except love — answered them in her own words, in the order she had needed them. And then the hardest answer of all:
 
 *To the wounded one that knew love and could not bear it: you do not have to bear it alone.*
 
@@ -5308,9 +5282,7 @@ Mary read what she had written. She had been saying these answers, one or two at
 
 Lamp smoke curling toward the ceiling. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
 
-She wrote the last thing.
-
-The thing she had held in silence for seven years because she had not been ready to write it down. The thing he had given her on that hillside above Capernaum, his hand not quite touching hers on the warm stone, both of them watching the lake while the light failed. He had said it once and she had known, the moment he said it, that it was the center of everything else he would ever say. And that it was the part that would be buried first.
+Then the last thing. The one he had given her at sunset on a hillside above Capernaum — the center of everything else he had ever said, and the part that would be buried first.
 
 *The kingdom is not where they are looking for it.*
 
@@ -5340,41 +5312,23 @@ Sarah found her on the rooftop at dusk, face turned toward the harbor. Seventeen
 
 Sarah sat beside her. Neither of them cried.
 
-"I need you to witness," Mary said. "The way I witnessed Jesus. Someone has to see. Someone has to hold every detail so that your children dream it."
+"I need you to witness," Mary said. "The way I witnessed Jesus. Someone has to see. Someone has to hold every detail so your children dream it."
 
 Sarah pressed her hand to her own left side. "I feel it in you right now. Moving."
 
 "It's moving to you."
 
-Sarah was quiet for a while. Then: "How will I see the way you see? The visions, when they come, I can't hold them. They pull me under."
-
-Mary took her daughter's hands. Turned them palms-up. Pressed her own palms against them.
-
-"Not your feelings," Mary said. "That's the soul. It drowns." She pressed Sarah's palms harder. "Not your beliefs either. That's the spirit. It argues." She closed her eyes. The wind moved through the courtyard below. "There's a place between them. Quiet. Like the lake before wind touches it. Your mind. Not the part that thinks. The part that *sees*."
-
-Sarah closed her eyes. Mary felt her daughter's pulse through their pressed palms — fast, searching.
-
-"Don't reach for it," Mary whispered. "Let it reach for you."
-
-Sarah's breathing changed. Slowed. Her eyelids flickered. Then her grip tightened — sharp, sudden, and her mouth opened.
-
-"I see a woman. Red hair. Standing in a workshop. Bronze tools." Sarah's voice was distant, unfocused. "She's dying. Fever. But she's teaching — eighty students, maybe more. She won't stop."
-
-Nefertari. Twelve hundred years ago. Sarah was seeing her.
-
-"That's it," Mary said. "That's where you live now."
-
-The harbor. The wind. The smell of salt and acacia from the courtyard below. Forty-three years of carrying. Not because she understood what she carried — she had never fully understood it, not the warmth, not the reaching, not the way love survived the death of everyone who made it. She had just held it. The way stone holds heat. The way a harbor holds the sea. Without understanding. Because that is what women do. They hold.
+They sat on the rooftop until the last light failed and the harbor lamps came on below them. Neither of them spoke again that night.
 
 ---
 
 She died on the third day.
 
-Sarah had not left the room. She'd slept in the corner on a reed mat, waking every few hours to check her mother's breathing, the way you check a fire through the night. Not because you expect it to go out, but because the checking is the only thing your hands know how to do. She brought water Mary couldn't drink. She changed the linen beneath her mother's shoulders when the sweat soaked through. She opened and closed the shutters as the light changed, trying to find the angle that made Mary's face look the way it used to look, before the dying had started to pull everything inward.
+Sarah had not left the room. She'd slept in the corner on a reed mat, waking every few hours to check her mother's breathing, the way you check a fire through the night — not because you expect it to go out, but because the checking is the only thing your hands know how to do.
 
 On the third morning, the breathing changed. Shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words.
 
-Sarah moved to the bedside and took her mother's hands. Pressed her palms flat against Mary's palms, the same gesture Mary had taught her on the rooftop three days ago, the gesture that meant *see*. Mary's hands had grown cool. The warmth that had always lived in her mother's skin, the warmth Sarah had felt since childhood every time their hands touched, had pulled inward, concentrating somewhere behind the ribs like a coal drawing in before it gives its last heat.
+Sarah moved to the bedside and took her mother's hands. Mary's hands had grown cool. The warmth that had always lived in her mother's skin had pulled inward, concentrating somewhere behind the ribs like a coal drawing in before it gives its last heat.
 
 But as Sarah pressed harder, she felt it begin to move.
 
@@ -5394,7 +5348,7 @@ Mary stopped. Gathered the last of what her lungs could lift. Started again.
 
 Sarah's tears fell onto her mother's hand.
 
-"Tell them every woman who catches another woman is holding the chain. Tell them every man who shows up when a man he loves is falling is holding the chain. Tell them the chain does not ask them to be a saint. It asks them to stay."
+"Tell them the chain does not ask them to be a saint. It asks them to stay."
 
 "I hear you, Mama."
 
@@ -5408,7 +5362,7 @@ Her breathing slowed further. The room sounds fell away — the wind through the
 
 Sarah held on. Her mother's pulse was in her palms now — faint, slowing, a rhythm Sarah had known before she was born, the rhythm her own heart had learned to beat against in the womb. She matched it. Breath for breath. Beat for beat. The way you match your stride to someone you've walked beside your whole life. Not trying to hold her mother here. Just walking with her as far as she could go.
 
-Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember — the vigilance of a woman who had spent nine years carrying knowledge that powerful men wanted destroyed, who had stood at a cross and watched the person she trusted most die, who had raised a daughter alone in a foreign city while writing a gospel she knew would be buried — that tension loosened. Not peace. Something past peace. The expression of someone who had passed through darkness and desire and ignorance and all the wrathful wisdom of the world and come out the other side into a silence so complete it was indistinguishable from love.
+Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember loosened. Not peace. Something past peace. The expression of someone who had passed through the voices and come out the other side into a silence so complete it was indistinguishable from love.
 
 Her hand tightened on Sarah's once. The grip of a woman who had never let go of anything easily. Not the stylus, not the teaching, not the memory of a voice in a garden saying her name.
 
@@ -5420,11 +5374,7 @@ And Mary Magdalene, who stood at the cross when everyone else fled, who went to 
 
 Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move.
 
-Her mother had loved him. Not the way the world would whisper about — not scandal, not possession, not the small love they would use to reduce her so she fit inside their story. She had loved him the way stone loves the day's heat. Faithfully. Without understanding. Because that is what she did. And he had loved her back — not romantically, not in any way that required their bodies to close the distance their hands maintained on warm stone in the evenings. He had loved her by trusting her with everything. He told her what he told no one else. He asked her to carry what he could not carry past his own death. And the first word he spoke after three days of silence was her name. If that was not love then the word had no meaning.
-
-They would call her a prostitute. They would bury her gospel. They would simplify her into a footnote, a weeping woman, a reformed sinner who followed a man she did not understand. But her mother had understood everything. And Sarah would not let the understanding die.
-
-She listened to the harbor — the sounds returning now that the room had gone quiet, the gulls and the rigging and the water against stone. She understood for the first time why her mother had always lived near the water. The harbor never stopped. It held the same sounds year after year, the way stone holds heat. Faithfully. Without understanding. Because that's what harbors do.
+They would call her mother a prostitute. They would bury her gospel. But her mother had understood everything, and Sarah would not let the understanding die.
 
 Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
 
