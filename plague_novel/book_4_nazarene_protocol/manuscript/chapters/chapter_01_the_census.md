@@ -74,7 +74,7 @@ Lucius was already writing. Titus studied the carpenter more carefully.
 
 "Family?"
 
-"Mother still living. Father deceased eight years ago. Four brothers, two sisters. All married except me. I can provide their names if you're tracking extended family."
+"Mother still living. Father deceased sixteen years ago. Four brothers, two sisters. All married except me. I can provide their names if you're tracking extended family."
 
 "Not necessary." Titus paused. Something tugged at the back of his mind, training from his contact in Caesarea, the briefings about what to watch for. "You're unmarried? At thirty-two?"
 
