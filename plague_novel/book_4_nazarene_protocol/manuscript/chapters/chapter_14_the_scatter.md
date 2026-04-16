@@ -132,271 +132,119 @@ Forty days complete. Now the long work.
 
 ---
 
-## PART TWO: The Long Decades (33-70 CE)
+The warmth beneath her left ribs had been withdrawing for three days.
 
-### 40 CE: Mary's Gospel
+Mary knew what it meant. She was forty-three years old. Living in a whitewashed room near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the great harbor always present — rigging creaking, gulls circling the Pharos, the small percussion of waves against the quay. Nine years since the crucifixion. Her teaching was planted in three cities. Her daughter was seventeen and could hold both layers of a parable without drowning.
 
-Mary Magdalene sat in an upper room in Alexandria, Egyptian papyrus spread before her, reed pen moving carefully through the ink. The room smelled of lamp oil and the harbor beyond the window. Her hand ached. She didn't stop.
+Her body had done its work. Now the warmth was leaving it.
 
-Seven years since the crucifixion. Sarah, fifteen, sat nearby.
+She had told Sarah three days ago. Not gently — Mary had never been gentle with the truth. "I'm dying. Days. Maybe less."
 
-"What are you writing?"
+Sarah had not cried. She had sat beside her mother on the rooftop at dusk, face turned toward the harbor where the lighthouse beacon was just catching the last light, and said: "I need you to tell me what to write."
 
-"Everything." Mary didn't look up. "What gets carried and what gets erased — someone has to decide. Peter will decide for the church. I'm deciding for the truth."
+"No." Mary's voice was quiet but it held. "I need to write it myself. Someone has to see my hand in it. My grip on the stylus. So they know a woman trained in hieratic script wrote this, not a scribe copying from dictation."
 
-She wrote what he had said about sin first. Not as the priests spoke of it — a tally kept in heaven, a ledger of marks against a name. He had taught it differently. Sin was not a thing in the world. It was what people made when they acted against the grain of love, and the Good had come to set the broken things back in their root.
+She had started that night.
 
-Down went the stylus. She heard his voice in the words, the particular cadence he used when teaching something that mattered, slower, each phrase weighted.
+---
 
-She wrote his farewell. The peace he had given them. The warning she had heard him give a hundred times — beware the teachers who would tell you the kingdom was over here, or over there, in this temple or that mountain. The kingdom was in them, where it had always been. Those who looked for it would find it. Those who waited for someone else to point at it would never see.
+Now it was the third night and the Gospel was almost finished.
 
-Then she wrote what had happened after he left them — the eleven weeping in the upper room, Peter's face wrecked, and herself standing up to tell them not to weep because there was work waiting outside the door. Her sermon. The first sermon after the resurrection, delivered to eleven men who couldn't stop crying, and never written down anywhere but here.
+Twenty-three pages of papyrus spread across the table in the lamplight. Sarah had fallen asleep on the mat in the corner sometime after midnight, the way she had fallen asleep in every room Mary had ever written in — her face turned toward her mother, her breathing the only sound besides the stylus on papyrus.
 
-Still writing. The private teaching now — the one Peter had challenged in that courtyard. The one about the voices that tried to claim a soul, and what the soul was supposed to say back. She had been answering these voices her whole life, in kitchens and marketplaces and the courtyards of other women who had been told who they were by men who did not know them. She had not known, until she sat down to write, that she had been keeping a record all along.
+Mary wrote what he had taught her about sin. Not a tally kept in heaven. Not a ledger of marks against a name. Sin was what happened when people acted against the grain of love, and the Good had come to set the broken things back in their root.
 
-Lamplight guttered. Sarah brought a fresh one without being asked. Mary wrote the voices in her own names for them, not the Greek names the later teachers would give. The one that said *you belong to me*. The one that said *the cloth I have wrapped you in is your true face*. The one that said *what you see is not real, only what I tell you is real*. And the fourth one that wore seven faces — rage at being alive, a body treated as a debt, a mind that knew everything except love, and hardest of all, a heart that had known love and could not bear it. She wrote what the soul answered each of them. Not doctrine. Instructions.
+She heard his voice in the words. The particular cadence he used when teaching something that mattered. Slower. Each phrase weighted.
 
-*To the one who said you belong to me: I am not your name for me.*
+She wrote his farewell. The peace he had given them. The warning — beware the teachers who would tell you the kingdom was over here, or over there, in this temple or that mountain.
 
-*To the one who said the cloth is your true face: the cloth is not what it wraps.*
-
-*To the one who said what you see is not real: I have seen what I have seen.*
-
-She wrote the others too — the rage at being alive, the body that calls itself a debt, the cleverness that knows everything except love — answered them in her own words, in the order she had needed them. And then the hardest answer of all:
-
-*To the wounded one that knew love and could not bear it: you do not have to bear it alone.*
-
-Mary read what she had written. She had been saying these answers, one or two at a time, for most of her life. Now they were on the papyrus together and they looked like what they were — a map out of a country the men had built around her.
-
-Lamp smoke curling toward the ceiling. The harbor sounds had gone quiet, Alexandria sleeping, boats rocking on dark water. Sarah had fallen asleep on the mat, her breathing the only sound in the room.
+The lamp guttered. Sarah woke without a word, brought a fresh one, lit it from the dying flame, and went back to sleep. She had been doing this every few hours for three nights. She did not need to be asked. Some things daughters know without being told.
 
 Then the last thing. The one he had given her at sunset on a hillside above Capernaum — the center of everything else he had ever said, and the part that would be buried first.
 
 *The kingdom is not where they are looking for it.*
 
-*It is not in the temple and not in the mountain and not in the city on the hill that has not been built yet. It is under your own ribs. Put your hand there. Feel it? That is the place. It has always been the place. The men with the keys do not have the keys. They never did. They are standing outside a door they built themselves, in front of a house that has no walls.*
+*It is not in the temple and not in the mountain and not in the city on the hill that has not been built yet. It is under your own ribs. Put your hand there. Feel it? That is the place. It has always been the place.*
 
-Mary set down the stylus. Her hand had cramped into the shape of holding it. Dawn light was coming through the window: grey, then blue, then the first gold touching the harbor water.
+Mary set down the stylus.
 
-Twenty-three pages of papyrus spread across the table. Twenty-three pages. The only account written by someone who had been there for all of it — the teaching, the cross, the tomb, the garden. She did not know which pages would survive. She wrote them all.
+Her hand had cramped into the shape of holding it — three fingers, angled slightly, the hieratic grip her Alexandria tutor had given her at nine and that she had never unlearned. She opened the hand. The fingers protested. She opened them anyway and looked at what they had made: twenty-three pages on a table. The only account written by someone who had been there for all of it — the teaching, the cross, the tomb, the garden. She did not know which pages would survive. She had written them all.
 
----
+Dawn was coming through the window. Grey, then blue, then the first gold touching the harbor water.
 
-### 42 CE: The Witness at Her Own Death
+Sarah stirred. Opened her eyes. Saw her mother's face and sat up without a word.
 
-Mary Magdalene knew three days before it happened. Through her body. The warmth beneath her left ribs had begun to move out. Like a tide withdrawing.
-
-She was forty-three years old. Living in a whitewashed house near the harbor in Alexandria, the salt air drifting through open shutters and the sound of the great harbor with its lighthouse beacon, the rigging of grain ships, gulls wheeling around the Pharos, always present. Nine years since the crucifixion. Her Gospel was written. Her teaching was planted. Her body had done its work.
-
-Sarah found her on the rooftop at dusk, face turned toward the harbor. Seventeen years old.
-
-"You're dying," Sarah said.
-
-"Yes."
-
-"How long?"
-
-"Days. Maybe less."
-
-Sarah sat beside her. Neither of them cried.
-
-"I need you to witness," Mary said. "The way I witnessed Jesus. Someone has to see. Someone has to hold every detail so your children dream it."
-
-Sarah pressed her hand to her own left side. "I feel it in you right now. Moving."
-
-"It's moving to you."
-
-They sat on the rooftop until the last light failed and the harbor lamps came on below them. Neither of them spoke again that night.
+"It's done," Mary said.
 
 ---
 
-She died on the third day.
+Sarah brought the mat to the table and sat beside her mother and took her hand.
 
-Sarah had not left the room. She'd slept in the corner on a reed mat, waking every few hours to check her mother's breathing, the way you check a fire through the night — not because you expect it to go out, but because the checking is the only thing your hands know how to do.
+The right hand. The one that had held the stylus. Mary's fingers uncurled into her daughter's grip the way a held thing uncurls when it is finally set down — not releasing but arriving. Finding the surface it had been looking for.
 
-On the third morning, the breathing changed. Shallower, slower, the rhythm losing coherence the way a song loses its shape when the singer forgets the words.
+The warmth had been moving for three days. Now Mary felt it quicken. Through her palm, through the thin membrane of skin between mother and daughter, into Sarah's hands and up her wrists and into her arms with a slow deliberate heat that was nothing like fever and nothing like sunlight and nothing like anything either of them had a word for. It was the feeling of being found. Of a hand reaching through darkness and finally, after however long it had been reaching, closing around the hand it was looking for.
 
-Sarah moved to the bedside and took her mother's hands. Mary's hands had grown cool. The warmth that had always lived in her mother's skin had pulled inward, concentrating somewhere behind the ribs like a coal drawing in before it gives its last heat.
+"Tell them what you saw," Mary said. Her voice was a thread now, thin enough to see through. "Not what it meant. What you *saw.*"
 
-But as Sarah pressed harder, she felt it begin to move.
+"I will, Mama."
 
-Not retreating. Not fading. *Moving toward her*. Through Mary's palms, through the thin barrier of skin between mother and daughter, into Sarah's hands and up her wrists and into her arms with a slow deliberate heat that was nothing like fever and nothing like sunlight and nothing like anything Sarah had a word for. It was the feeling of being found. Of a hand reaching through darkness and finally, after however long it had been reaching, closing around the hand it was looking for.
-
-Mary's eyes were open but focused on something Sarah couldn't see. Her lips moved. Sarah leaned close. She could smell her mother's breath, thin and dry, the ghost of the herbs she'd ground that morning nine years ago in Jerusalem when Peter had challenged her teaching and she'd said nothing and just kept grinding.
-
-"Tell them what you saw," Mary whispered. "Not what it meant. What you *saw*."
-
-Sarah leaned close. Her ear was near her mother's mouth, which was dry and cracked now, the lips barely moving.
-
-"And the other thing. There is another thing. Tell them—"
-
-Mary stopped. Gathered the last of what her lungs could lift. Started again.
+Mary gathered what her lungs could lift.
 
 "Tell them the chain holds if they hold it. Tell them they do not have to be the strongest link. They only have to not let go."
 
-Sarah's tears fell onto her mother's hand.
-
-"Tell them the chain does not ask them to be a saint. It asks them to stay."
-
-"I hear you, Mama."
+"I hear you."
 
 "Say it back."
 
 "The chain holds if we hold it. We don't have to be the strongest link. We only have to not let go."
 
-"Good. When you are the one on the hillside watching a city burn — and you will be, Sarah, you will be the one — say it to yourself. Say it to the girl who will be standing next to you. Say it until you believe it."
+"Good." Mary's eyes closed. "When you are the one on the hillside watching a city burn — and you will be, Sarah, you will be the one — say it to yourself. Say it to the girl who will be standing next to you. Say it until you believe it."
 
-Her breathing slowed further. The room sounds fell away — the wind through the shutters first, then the harbor bells, then the cries of gulls circling the lighthouse, then the creak of a trading vessel adjusting its ropes at the quay. Each sound retreating, one by one, like the voices releasing their hold. One by one, letting go, as Mary passed through.
+---
 
-Sarah held on. Her mother's pulse was in her palms now — faint, slowing, a rhythm Sarah had known before she was born, the rhythm her own heart had learned to beat against in the womb. She matched it. Breath for breath. Beat for beat. The way you match your stride to someone you've walked beside your whole life. Not trying to hold her mother here. Just walking with her as far as she could go.
+Her breathing slowed.
 
-Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember loosened. Not peace. Something past peace. The expression of someone who had passed through the voices and come out the other side into a silence so complete it was indistinguishable from love.
+The room sounds fell away — the wind through the shutters first, then the harbor bells, then the cries of gulls circling the lighthouse, then the creak of a trading vessel adjusting its ropes at the quay. Each sound retreating, one by one, like voices releasing their hold.
 
-Her hand tightened on Sarah's once. The grip of a woman who had never let go of anything easily. Not the stylus, not the teaching, not the memory of a voice in a garden saying her name.
+Sarah held on. Her mother's pulse was in her palms — faint, slowing, a rhythm Sarah had known before she was born, the rhythm her own heart had learned to beat against in the womb. She matched it. Breath for breath. Beat for beat. The way you match your stride to someone you've walked beside your whole life. Not trying to hold her here. Just walking with her as far as she could go.
+
+And then Mary's left hand moved.
+
+Not the right hand — that was in Sarah's, and Sarah felt it going still, the fingers loosening, the grip that had held a stylus for three nights and a daughter for seventeen years finally easing.
+
+The left hand. The one that had reached into empty air since Mary was seven years old. The one that searched in sleep, in vision, in the unguarded moments when her body forgot to stop looking for what it had lost. Sarah had watched that hand reach her entire life. Had asked once, when she was small, who her mother was reaching for, and Mary had said *someone I knew before I was born* and Sarah had not understood and had carried the not-understanding the way children carry the things their parents cannot explain.
+
+The left hand moved. Lifted from the blanket. Fingers spreading, reaching left across the space beside the bed toward nothing — the hand searching for a hand that was not there, that had never been there, that had been gone nine years or twelve hundred years depending on which absence you measured.
+
+But then the fingers closed.
+
+Not around air. Not this time. The hand found what it was looking for.
+
+Sarah could not see what her mother's left hand had closed around. She could see only that the fingers had stopped searching. Had closed with the specific pressure of a grip that recognized who it was holding — someone to hold her through death, the same way she held him through death.
+
+Mary's face changed. The tension that had lived behind her eyes for as long as Sarah could remember — the tension of a woman whose body had never stopped reaching for what it could not have — loosened. Not peace. Something past peace. The expression of someone who had passed through the voices and the burning cities and the long corridor of twelve hundred years of reaching and come out the other side into a silence so complete it was indistinguishable from love.
+
+Her right hand, in Sarah's, tightened once. The grip of a woman who had never let go of anything easily. Not the stylus, not the teaching, not the memory of a voice in a garden saying her name.
 
 Then released.
 
-Then the warmth rising from Mary's body. Not disappearing — *transferring*. The way a river reaches the sea and doesn't end but becomes something larger. Sarah felt it pour into her chest, settle beneath her left ribs, take up residence in the exact place where her mother had carried it, where Jesus had carried it before her, where every hand that had ever borne it had pressed against their own skin and felt the reaching. It was heavier than she'd expected. Not the weight of grief. The weight of being trusted with something that had outlived everyone who'd ever held it.
+Her left hand opened too. Whatever it had held, it let go. Both hands open. Both finished.
 
-And Mary Magdalene, who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed — received her rest in silence, in a whitewashed room in Alexandria with her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
-
-Sarah sat holding her mother's hand for a long time. The hand was cooling but Sarah didn't move.
-
-They would call her mother a prostitute. They would bury her gospel. But her mother had understood everything, and Sarah would not let the understanding die.
-
-Then she wrapped the Gospel in linen, placed it in the leather case beside the bronze keys, and walked out into the light.
-
-Not peace. Not understanding. Just the work, and the carrying of it, and the refusal to set it down.
-
-She had work to do.
+And Mary Magdalene — who stood at the cross when everyone else fled, who went to the tomb when everyone else hid, who heard her name spoken in a garden by a voice that should not have existed, who wrote the Gospel the men would bury and the desert would keep — received her rest in silence. In a whitewashed room in Alexandria. With her daughter's hand in hers and the smell of salt through the window and the harbor continuing its patient work below.
 
 ---
 
-### 64 CE: Peter's Martyrdom
+Sarah sat holding her mother's hand for a long time. The hand was cooling but she did not move.
 
-Rome was burning. The sky had been orange for three days, ash drifting through the streets like grey snow, and the air tasted of charcoal and a sickly sweetness underneath — the smell of a city's timber and cloth and stored grain and people all burning together. Nero blamed Christians.
+The dawn came and went. The harbor sounds returned — the bells first, then the gulls, then the creak of rigging and the call of a dock worker and the whole ordinary machinery of a city that did not know what had just left it. Sarah heard them the way you hear the world when the world that mattered has just gone quiet.
 
-The cell was damp — cold seeping through stone into his bones. Peter held the Pattern Eye one final time. The bronze was cold. He warmed it between his palms the way he'd once warmed his hands over a charcoal fire in the high priest's courtyard, the night he'd denied knowing Jesus three times. Torchlight from the corridor caught the carved lines. Sixty-eight years old. Fisherman's hands still calloused, still too large for delicate work. Apostle.
+They would call her mother a prostitute. They would bury her gospel in a jar in the Egyptian desert. They would give Peter the keys and Mary the silence, and the men who came after would tell the story so many times with so few women in it that the women would almost believe they had not been there.
 
-Sarah entered. Thirty-nine. Carrying the weight since her mother's death in Alexandria.
+But her mother had understood everything. Had written it down. Had placed the stylus on the table with the same hand that had reached, for the first and last time, toward something only she could see — and found it.
 
-"Everyone is disappearing," she said. "Thomas unreachable in India. Paul executed last month. Who carries it forward?"
+Sarah dried her eyes. Wrapped the Gospel in linen. Placed it in the leather case beside the bronze keys.
 
-"You. And your daughter. The blood remembers."
-
-Peter's hands shook around the bronze. He did not hand it to her yet.
-
-"Your mother is twenty-two years gone, Sarah. There is no one alive I can say this to. So hear it for her."
-
-He waited until Sarah met his eyes.
-
-"The night they took him, I was at a charcoal fire." He stopped. Started again. "The high priest's courtyard. I said three times that I did not know him. Three times. Your mother was at the cross. Six hours. In the rain. And I kept my hands warm."
-
-He pressed his thumb against the bronze rim so hard it left a mark in his skin.
-
-"Thirty-one years," he said. And then, almost to himself, "Thirty-one years."
-
-His breath went out of him. For a moment Sarah thought he was done. Then he looked up.
-
-"In two days they'll put me on the wood. I should be afraid." His voice had gone rough. "I'm not." A beat. "I'm owed it. That's the only reason. Not courage." Something that wasn't quite a laugh. "The cold."
-
-Sarah said nothing. She let him keep talking, the way her mother had let Peter keep crying on the night of the vigil.
-
-"The gospel your mother wrote." He shook his head. "That's the one I should have written. The men I leave behind —" He stopped. Picked up the thought again. "They won't carry it forward. They'll give her the name men give to women whose place in a story embarrasses them. I couldn't undo it while I lived. I could only —"
-
-He held up the bronze.
-
-"Keep this pointed in her direction. When the time came."
-
-He pressed the Pattern Eye into her palm. His hand lingered over hers, rough and warm, a fisherman's hand that had once pulled a sword in a garden and had also, on a colder night, stayed open beside a charcoal fire.
-
-"Tell her, Sarah. If the blood is kind enough to carry the telling." He swallowed. "Tell her I knew. Even when I couldn't bear to say it aloud. I knew what she was. I knew where she stood."
-
-He let go of her hand.
-
-"When Jerusalem falls, see it with your own eyes. Then continue west."
-
-Guards approaching. Sarah slipped out through the arranged exit, the Pattern Eye hidden against her ribs.
-
-Two days later, in the sand of Nero's circus, Peter felt rough wood against his back as they bound him upside-down. The crowd's roar faded to a distant hum. He saw the sky inverted, clouds drifting backward, and thought of Jesus walking on water — everything impossible until it wasn't.
-
----
-
-## PART THREE: The Fall (70 CE Autumn)
-
-### The Siege
-
-Sarah stood on the Mount of Olives, watching Jerusalem burn below.
-
-Thirty-seven years since crucifixion. Exactly as Jesus predicted.
-
-The smoke reached her first. Before the sound, before the heat, the smell. Acrid and complex, layered the way a city is layered: timber first, the sharp bite of cedar beams that Solomon's architects had specified eight centuries ago, then cloth and stored grain and the oily smoke of olive wood, then something underneath all of it, sweet and sick, the smell her body recognized from cities she'd never visited. Burning flesh smelled the same in every century. Pi-Ramesses. Thebes. Babylon. And now Jerusalem. The same smell. The same smoke rising. The same silence from the people standing on the hills watching their world end.
-
-Rebecca stood at her side. Fifteen years old. Sarah's daughter had not spoken since they'd climbed the mount at dawn. She stood with her arms wrapped around herself, her face grey with ash that had drifted up from the valley on the morning wind, and her eyes held the flat emptiness of someone watching something too large to process. She hadn't dreamed this. Her visions had shown her other collapses — older ones, cities whose names she couldn't pronounce, but not this. Not her own.
-
-Titus's legions had besieged the city for five months. Eighty thousand soldiers starving one million people trapped inside walls. Sarah had heard the reports from network runners who slipped through the Roman lines: families eating leather. Mothers killing children to spare them starvation. Zealots fighting each other in the streets while the legions waited outside with Roman patience, letting hunger do what siege engines hadn't finished. Now the Temple was burning — stone cracking under heat stress like bones in a fire, cedar beams consumed, gold overlay melting down stone faces like divine tears running into the rubble.
-
-She held the Pattern Eye, bronze warm in her palms. The disc had been warm since that day — warm when Peter pressed it into her hands in that Roman cell, warm when she'd carried it against her ribs through the streets of Rome, warm now as she watched the city where it had once been hidden burn to its foundations. The pattern came up through her palms: other cities burning, other temples falling, other refugees streaming through gates. The same fire. Always the same fire.
-
-The wind shifted and a gust carried the full force of it. Not just smoke but heat, the radiant warmth of a city-sized furnace, and with it the sound that distance had been muffling: a low roar, not like any single fire but like the breathing of something enormous, punctuated by the crack and groan of stone giving way, and beneath it, almost too faint to hear at this distance, the sound of human voices. Screaming. Or praying. At this distance the two were indistinguishable.
-
-Ash coated Sarah's tongue. She tasted it and thought of Jesus's words, spoken when she was seven years old and too young to understand them, repeated to her by her mother in the Alexandria house, repeated again by Peter in his cell: *Not one stone will be left on another. All will be thrown down.*
-
-He had been right about everything. And Sarah, standing on the hillside where he had given his final instructions thirty-seven years ago, wished desperately that he hadn't been.
-
-Rebecca's hand found hers. The girl's fingers were cold despite the furnace heat rolling up from the valley. Sarah squeezed and felt something move in her daughter's grip, a tremor, not of fear but of recognition. The blood was waking in Rebecca. Standing on this hill, watching this fire, breathing this ash. It was reaching for her the way it had reached for Sarah on the night of the earthquake in Damascus, the way it had reached for Mary in the garden, the way it had reached for Jesus on a hillside above Galilee when the well overflowed and forty strangers wept.
-
-"Mama," Rebecca said. Her first word in hours. "I can see them. The other cities. Burning."
-
-Sarah pulled her daughter close. Held her head against her shoulder. The girl was shaking now, the visions arriving with the force they always arrived with the first time — too much, too fast, too old for a fifteen-year-old body to hold.
-
-"I know," Sarah said. "I know."
-
-The Temple fell completely by evening. The final retaining wall collapsing inward, massive stones tumbling into the courts where priests had offered sacrifices that morning, dust cloud rising above the ruins like a soul leaving a body. For a moment the cloud caught the last of the daylight and turned gold, and then the sun set behind the western hills and the cloud went dark and there was nothing left but fire and smoke and the sound of Roman soldiers moving through what remained.
-
-But the people were already moving west. Carrying scrolls, carrying children, carrying nothing but the knowledge in their bodies. Carrying what the stones could not hold.
-
-Sarah turned away from the burning city. She looked at Rebecca — ash in her hair, tears cutting tracks through the grey dust on her cheeks, her left hand pressed against her ribs the way every carrier pressed, the way Nefertari had pressed, the way the gesture would be repeated for as long as the blood continued.
-
-Sarah pressed her own hand against her own side. The warmth was there. Heavier now — a lifetime of love and grief and reaching in the dark, and the new weight of watching another city fall and knowing it would not be the last.
-
-Her mother's voice came back to her, three sentences her body had been keeping for twenty-eight years.
-
-*The chain holds if you hold it. You do not have to be the strongest link. You only have to not let go.*
-
-Rebecca was shaking against her side. Sarah tightened her grip on her daughter's hand.
-
-"We go west," Sarah said. "Now."
-
-Rebecca looked back once at Jerusalem. The sky behind the city was orange, grading to black where the smoke thickened, and the fire had spread beyond the Temple into the lower city, into the upper city, into every quarter. The whole horizon burned.
-
-She turned away. Took her mother's hand. They walked.
-
-Behind them, Jerusalem burned through the night. Sky orange. Smoke black. All of it becoming memory that outlives stone.
-
-She walked west.
-
----
-
-Nineteen hundred years later, in a different desert, a farmer near a cliff in Upper Egypt would strike his mattock against the lid of a sealed clay jar.
-
-Inside the jar, wrapped in camel-leather stiffened with time, would be the papyrus. Not all of what Mary had written. Enough.
-
-It would pass through several hands before it reached a woman scholar in Cairo. She would sit up the night she got it, reading by lamplight the way Mary had written by lamplight, and the words would arrive the way the warmth had always arrived: not from outside. From the place under her own ribs where something had been waiting to be named.
-
-When she reached the line about the kingdom, she would put her hand against her own side, and feel the warmth there, and know the chain had held.
-
-She would read it aloud to the empty room.
-
-*The chain holds if you hold it.*
-
-*You do not have to be the strongest link.*
-
-*You only have to not let go.*
-
----
-
-**END CHAPTER 14**
+And walked out into the light.
 
 ---
 
