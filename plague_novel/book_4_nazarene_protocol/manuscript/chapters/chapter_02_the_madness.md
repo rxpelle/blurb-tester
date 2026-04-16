@@ -18,7 +18,7 @@ She pressed her hands against her temples, trying to force the vision away. But 
 
 The woman physician—*Nefertari*, the name arriving from somewhere deep, moved through overcrowded tenements where fifty people shared spaces meant for ten. Checking pulses. Mixing remedies that wouldn't work because no medicine could cure a whole civilization falling apart.
 
-She watched, no, experienced, as a queen died in Nefertari's arms. *Tausret.* The name came with the vision. Dead of fever while the ancient world collapsed around them.
+A queen died in Nefertari's arms. Tausret — the name came with the vision, unbidden — dead of fever while the ancient world collapsed around them.
 
 *This isn't real*, Mary told herself desperately. *This is twelve hundred years ago. I wasn't there. This isn't my memory.*
 
@@ -38,7 +38,7 @@ Sarah didn't look convinced. She was too young to understand what was happening 
 
 Now Mary couldn't sleep more than two or three hours without a vision pulling her into the past. Pi-Ramesses. Babylon during the exile. Sometimes earlier, fragmented images of a woman fleeing burning cities, joining families who carried the knowing in their blood and taught her to move with it instead of against it.
 
-She'd told herself it was a sickness of the blood. Something inherited, like her mother's weak lungs or her grandfather's tremor. Not of the spirit but of the body. The episodes came suddenly, she would fall, her body rigid, then wake confused and drained. She'd consulted physicians in Tiberias who spoke of imbalances in the humors, but none could explain why the falling sickness carried visions of cities she'd never seen.
+She'd called it a sickness of the blood. Something inherited, like her mother's weak lungs. The physicians in Tiberias had said imbalances in the humors and taken her coin and explained nothing. None of them could explain why the falling sickness came with the layout of cities that no longer existed.
 
 But the visions kept getting stronger. More detailed. More real.
 
@@ -54,7 +54,7 @@ She unclenched her fists. "Just tired, sweet one. Let's get breakfast. Then you 
 
 If Joanna would still let Sarah near her children. Mary wasn't certain anymore. The demon-possession rumors were spreading. Even families who'd accepted her charity were keeping distance now.
 
-She stood, joints protesting. Twenty-eight years old but her body moved like something ancient. The episodes were exhausting, not physically, but they drained her vitality. Left her hollowed out, struggling to function in the present while half her consciousness remained trapped in inherited memories of collapse.
+She stood. Her joints found their angles late, the way a body finds them after four hours of sleep in ten. She was twenty-eight years old. She moved like her mother had at thirty-three.
 
 She dressed Sarah, then herself. Good linen, dyed the deep blue that marked her former prosperity. Mary's father, having no sons, had trained his daughter in the business before his death, three salting vats, a stone warehouse near the harbor, contracts with fishing crews along the northern shore. She'd expanded the operation through her cousin Levi, who served as her public face with merchants, though everyone in Magdala knew Mary made the real decisions. She'd negotiated contracts as far as Damascus and Jerusalem. Magdala, *Tarichaea*, the Romans called it, the place of salted fish, was prosperous, and Mary had been one of its more successful merchants.
 
@@ -90,7 +90,7 @@ She didn't have an answer. Only that the visions were too consistent to be madne
 
 "Beautiful, little one." Mary took the shells, turning them in her fingers. Smooth. Real. Present. Her left hand drifted to her side, an unconscious gesture, reaching for someone who wasn't there. She caught herself and pulled it back.
 
-Sarah settled beside her, arranging shells in patterns on the dock with the concentration of a child who believed the world could be organized if you just found the right order.
+Sarah settled beside her and began arranging shells in patterns on the dock — small tongue between her teeth, each shell set exactly right before the next one joined it, the whole pattern abandoned three times and started over because a curve had been imperfect.
 
 She watched her daughter's hands and made a decision. She couldn't let Sarah watch what she'd watched. She couldn't wait for Magdala to decide her episodes required something harsher than prayer.
 
@@ -114,7 +114,7 @@ Mary had spent three days arguing herself out of going. A possessed woman arrivi
 
 But the alternative was Magdala. The emptying warehouse. Neighbors crossing the street. The growing certainty that eventually someone would decide her episodes required violence. She'd heard stories, women beaten to drive out demons, imprisoned for their own protection. A possessed woman with property was a woman whose property the community might decide to redistribute for her own good.
 
-""Will he understand why you scream at night?" Sarah asked."
+"Will he make them stop?" Sarah asked.
 
 Her throat tightened. Sarah was three. She shouldn't have to think about her mother's nighttime terrors as normal. But they'd become routine—Mary screaming herself awake from visions of burning cities, Sarah learned to climb into bed and hold her until her breathing slowed.
 
@@ -144,7 +144,7 @@ A man emerged from Simon's house, not old, maybe mid-thirties, carpenter's build
 
 "You're the merchant from Magdala." Not a question.
 
-She stood slowly, merchant's instinct flaring, the part that evaluated strangers before trusting them, flared. "How do you know who I am?"
+She stood slowly. The merchant's eye woke in her — the part that evaluated strangers before trusting them. "How do you know who I am?"
 
 "Simon described you. A woman in Magdala with falling episodes, visions of burning cities. Community calling it possession." He crossed the courtyard, stopped a respectful distance away. "I'm Jesus."
 
@@ -184,7 +184,7 @@ Mary turned the idea over the way she'd turn a contract clause, looking for the 
 
 Her knees went weak. Exorcists and physicians and neighbors who crossed the street, and this carpenter in a borrowed courtyard said it like it was obvious.
 
-Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest — a knot she'd been clenching for so long that clenching felt like breathing. She hadn't known her body was holding itself together until someone told her she didn't have to.
+Sarah stirred against her shoulder. Mary held her daughter and a knot loosened in her chest — a knot she'd been clenching for so long that clenching felt like breathing.
 
 She had been competent before she was holy. Twenty years of contracts and salt barrels and managing men who didn't want to take orders from a woman. The visions hadn't changed her mind. They'd just given the world a reason to dismiss it.
 
@@ -252,9 +252,9 @@ Mary turned away. When she turned back her face was the face she wore in contrac
 
 Nobody here treated her like the cursed woman from Magdala. Nobody crossed to the other side of the room.
 
-Within a week, Mary would send Tobias instructions to sell the salting contracts and warehouse. Within a month, the proceeds would be funding this, food, lodging, travel for the carriers Jesus was gathering from across Galilee. She'd run a business; she knew how to feed people and stretch resources. Joanna, wife of Chuza, and Susanna did the same. Three women of independent means quietly funding a movement that would need their support to survive.
+Her merchant's mind was already running the numbers. Three salting vats. The warehouse. The Damascus contracts. What those came to if she sold fast, what they came to if she sold well. The difference between the two was a month, and she did not think she had a month. She tucked the calculation away where Jesus could not read it from her face.
 
-The twelve men were disciples, descendants of carrier families who'd been training with Jesus for a year.
+The twelve men at the table were disciples, descendants of carrier families who'd been training with Jesus for a year.
 
 "Mary is a carrier," Jesus told them as they gathered after dinner. "She's been experiencing the visions without training. That changes tonight."
 
@@ -346,9 +346,9 @@ The room was silent. Peter was watching her. His arms had uncrossed without his 
 
 Peter said nothing. But something moved behind his eyes — the quick, complicated look of a man watching someone take a tool he'd built and sharpen it past anything he could manage. It had taken him three weeks to learn what she'd just done in three minutes. The merchant's mind. The naming. She'd turned his exercise into something faster and more precise than he would ever be, and he could feel the knowledge settle into his body like a stone in a pocket: she was better at this than he was.
 
-Mary's face did something she couldn't control. Her chin trembled and her eyes filled. Not from the vision, not from grief, but from the sudden staggering relief of a woman who had spent her entire adult life believing she was drowning and had just been shown that the water was only waist-deep. That she could stand. That she'd always been able to stand, if someone had just told her where to put her feet.
+Mary's face did something she couldn't control. Her chin trembled. Her eyes filled.
 
-She pressed both hands against her face. When she dropped them, her eyes were wet but her voice was steady.
+She pressed both hands against her face.
 
 "It works."
 

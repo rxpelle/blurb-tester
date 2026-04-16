@@ -4,9 +4,9 @@
 
 ## SCENE 1: The Good Samaritan
 
-Jesus walked the road between Jerusalem and Jericho with the autumn sun at his back, limestone dust coating his sandals and the smell of wild thyme sharp in the dry air.
+The limestone dust was already inside Jesus's sandals by the time he reached the first ravine. He could feel the grit working under his heel. The smell of wild thyme was so sharp in the dry air it felt like a kind of warning — the scent of a landscape that did not want to be walked through.
 
-This stretch was dangerous. Bandits knew every shadow in the ravines, every overhang where a man could hide with a knife. A day's steep descent from Jerusalem's highlands to Jericho's valley floor, the road twisting through gorges where screams carried and no one came. Most travelers went in groups for safety.
+This was the stretch between Jerusalem and Jericho, and it was dangerous. Bandits knew every shadow in the ravines, every overhang where a man could hide with a knife. A day's steep descent from Jerusalem's highlands to Jericho's valley floor, the road twisting through gorges where screams carried and no one came. Most travelers went in groups.
 
 Jesus walked it alone.
 
@@ -26,7 +26,7 @@ Someone in the crowd shifted. Two holy men. Both walking past.
 
 "But a Samaritan, as he journeyed, came to where he was. And when he saw him, he had compassion."
 
-The word *Samaritan* hit the crowd. People glanced at each other. A few faces hardened. A man near the back spat in the dust. The lawyer who'd asked the question stiffened like he'd been slapped.
+The word *Samaritan* hit the crowd. People glanced at each other. A few faces hardened. A man near the back spat in the dust.
 
 Jesus let the silence hold. Then, watching the lawyer directly:
 
@@ -38,9 +38,7 @@ The lawyer's mouth worked. He couldn't say "the Samaritan." Couldn't give credit
 
 "Go and do likewise," Jesus said.
 
-The crowd murmured, arguing about Samaritans, about mercy, about who counted as a neighbor.
-
-Titus's stylus had stopped moving. A Thracian soldier in his century, years ago, wounded in a border skirmish, left by the road because carrying him would have slowed the march. Titus had walked past. Orders. The man died overnight. Titus filed the report without noting the name.
+Titus heard the crowd before he registered the words — the low hum of people digesting something they had not been ready for. His stylus had stopped moving. A Thracian soldier in his century, years ago, wounded in a border skirmish, left by the road because carrying him would have slowed the march. Titus had walked past. Orders. The man died overnight. Titus filed the report without noting the name.
 
 He looked down at his wax tablet, wrote *Samaritan*, underlined it twice, and followed Jesus toward Jericho.
 
@@ -56,7 +54,7 @@ The session ran an hour. Deborah reported that the intervention had held for two
 
 The women dispersed slowly. Sarah appeared at Mary's side, pressing warm against her hip. Mary rested her hand on her daughter's head. Dark curls, sun-warm. Six years old.
 
-As they walked toward the street, Mary's eye caught a man standing at the corner where the alley met the market road. He wasn't shopping. Wasn't waiting for anyone. He was watching the courtyard entrance, and when Sarah skipped ahead to pick up a fallen orange blossom, his eyes followed the girl.
+As they walked toward the street, Mary saw him. A man standing at the corner where the alley met the market road. Not shopping. Not waiting. He was watching the courtyard entrance, and when Sarah skipped ahead to pick up a fallen orange blossom, his eyes followed the girl.
 
 Mary's hand closed around Sarah's wrist — too hard. Sarah looked up, startled.
 
@@ -84,11 +82,11 @@ The familiar tension. Judas asked this in different forms every few weeks. The m
 
 "So we just accept defeat?" Judas's voice thinned to a rasp. "My cousin died in a Roman prison last year. Elazar. He was twenty-three." Judas's stick broke against the fire ring and he stared at the splintered half still in his hand. "They arrested him for sheltering a man the Romans wanted. Didn't even know the man. He'd come to the door hungry, and Elazar fed him, because that's what you do. That's what we were *taught* to do." He threw the broken stick into the flames. "Forty days in that hole. They didn't execute him. They didn't have to. The cold did it. The damp. They just left him there until his lungs filled up and he drowned in a dry cell."
 
-Judas's voice had gone flat, the way voices go when the grief underneath is too large to let through the surface. "My father lost his fields to the tax collectors the same year. Two generations of terracing, olive trees his grandfather planted—gone. He works another man's land now. Walks past his own trees every morning on his way to someone else's harvest."
+"My father lost his fields to the tax collectors the same year. Two generations of terracing, olive trees his grandfather planted — gone. He works another man's land now. Walks past his own trees every morning on his way to someone else's harvest."
 
 He looked around the fire at the others. "And we're supposed to tell *stories* while they crush what remains of us like grain beneath millstones?"
 
-Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt, or Simon hadn't been listening. "Fair question." He settled into his usual spot, his hands tucked under his arms, knuckles white, from the cold, or from whatever he'd been seeing in the long quiet behind his eyes. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
+Jesus emerged from the darkness beyond the firelight. His feet made no sound on the packed dirt, or Simon had not been listening. "Fair question." He settled into his usual spot and tucked his hands under his arms. The knuckles were white. The fire was warm enough. Simon had seen this before. "You want results you can see. Territory. Battles won. That's reasonable if your horizon is five years."
 
 "What's wrong with five years?"
 
@@ -144,11 +142,9 @@ And underneath it all, the two remaining keys still lost somewhere between Phoen
 
 ## SCENE 4: The Five Thousand
 
-Jesus looked out over the hillside and felt grief.
+Jesus looked out over the hillside. The count arrived in his body before his mind reached for it — a pressure under the sternum that had not been there when the gathering was one thousand. Five thousand. Maybe more.
 
-Five thousand people. Maybe more. They'd followed him for three days now, listening to teaching, watching healings, camping in rough conditions because they didn't want to miss whatever came next.
-
-Beautiful. Dangerous. And completely unsustainable.
+They had followed him for three days. Listening to teaching, watching healings, camping in rough conditions because they did not want to miss whatever came next.
 
 "Teacher." Andrew appeared at his elbow, voice tight with worry. "It's late. People are hungry. Most didn't bring enough food for three days. We should send them to the villages to buy something."
 
@@ -182,13 +178,9 @@ He blessed the food, ritual action, familiar religious framework, then began bre
 
 The disciples looked uncertain but obeyed. They moved through the groups, distributing bread and fish. Small amounts. Obviously inadequate.
 
-But something was happening in the crowd.
+People who had brought food were pulling it out. Not hoarding anymore. Sharing with neighbors. Someone had dates. Someone else had dried meat. A woman produced cheese wrapped in cloth. Families who had planned for longer stays had extra supplies they were willing to contribute once they saw others sharing first.
 
-People who'd brought food were pulling it out. Not hoarding anymore. Sharing with neighbors. Someone had dates. Someone else had dried meat. A woman produced cheese wrapped in cloth. Families who'd planned for longer stays had extra supplies they were willing to contribute once they saw others sharing first.
-
-The thing activated.
-
-Each group of fifty had at least a few people with hidden resources. Once sharing began, the resources emerged. Not because people had been lying about scarcity. Because people genuinely didn't think their small contribution mattered in the face of massive need. One handful of dates against five thousand hungry mouths — why bother?
+Each group of fifty had at least a few people with hidden resources. Once sharing began, the resources emerged. Not because people had been lying about scarcity. Because people genuinely did not think their small contribution mattered in the face of massive need. One handful of dates against five thousand hungry mouths — why bother?
 
 But distributed across an organized structure, the small contributions compounded.
 
