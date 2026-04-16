@@ -95,12 +95,20 @@ Every audience listed here must be **actively steered away from** the book via c
 - Cover and blurb must not promise plot-first momentum
 - No "suspense" or "gripping" in copy — use "tender," "luminous," "unflinching"
 
-### Evangelical Christian fiction readers
+### Evangelical Christian fiction readers — MANDATORY EXCLUSION
 - Francine Rivers / Lynn Austin / Lauraine Snelling audience
 - The metaphysics is genuinely incompatible with substitutionary-atonement Christianity
-- These readers will leave 2-star reviews saying it "isn't Biblical"
-- **Do not market to this audience.** Keep the book out of the *Christian Fiction* bestseller lists even where categories overlap.
-- Use *Religious & Inspirational → Literary* categories, not *Christian Fiction → Historical*
+- The Resurrection's deliberate ambiguity will be read as an attack on faith, not as literary sophistication
+- Peter's arc (denial without canonical John 21 triple-restoration) will be read as anti-Church
+- The inherited-memory conceit will be flagged as "occult theology" / "New Age" by readers whose pastors teach against generational-curse frameworks
+- "Men got the songs, women got the work" will be read as anti-male, not as feminist truth
+- **These readers will leave detailed, literate, heartfelt 2-star reviews** — the most damaging kind: *"Beautiful writing in service of a lie."* They concede craft while asserting bad faith, which poisons fence-sitting browsers.
+- **⚠️ MANDATORY: Do not list in ANY Christian Fiction subcategory on Amazon.** Not Christian Fiction → Historical. Not Christian Fiction → Biblical. Not even Religion & Spirituality → Christianity → Fiction if it cross-lists into CF bestseller charts.
+- **⚠️ MANDATORY: Do not use "Christian," "Biblical," "faithful," "devotional," or "inspirational" in Amazon keywords, subtitle, or blurb.** Any of these terms will pull this reader through search and trigger the wrong expectation.
+- **⚠️ MANDATORY: BookBub genre must be Historical Fiction, NOT Religion & Spirituality.** A Religion & Spirituality BookBub email sends directly to Francine Rivers readers.
+- Use *Literary Fiction → Religious & Inspirational* categories (note: "Religious & Inspirational" is a LITERARY FICTION subcategory, distinct from the standalone "Christian Fiction" browse node). This draws literary-curious spiritual readers, not devotional readers.
+- **Blurb language must signal "literary reimagining" and "speculative historical fiction."** Not "the true story of," not "a faithful account of," not "based on Scripture." Use: "a novel," "a reimagining," "literary historical fiction."
+- **If this exclusion fails** — if the book ends up in CF categories through Amazon's auto-classification or a metadata error — fix it within 24 hours via KDP category change request. Every day in the wrong category accumulates wrong-audience reviews that permanently damage the listing.
 
 ### *Da Vinci Code* / Dan Brown readers
 - Not a conspiracy novel
@@ -130,11 +138,13 @@ Every audience listed here must be **actively steered away from** the book via c
 - Women's Fiction → Historical
 - Religion & Spirituality → Christianity → Literature & Fiction
 
-**Avoid:**
-- Christian Fiction → Historical (wrong audience)
-- Christian Fiction → Biblical (wrong audience)
-- Romance → anything (wrong audience)
-- Thrillers → anything (wrong audience)
+**⚠️ MANDATORY — Avoid (wrong audience, will generate damaging reviews):**
+- Christian Fiction → Historical
+- Christian Fiction → Biblical
+- Christian Fiction → ANY subcategory
+- Religion & Spirituality → Christianity → Fiction (if it cross-lists into CF charts)
+- Romance → anything
+- Thrillers → anything
 
 ---
 
