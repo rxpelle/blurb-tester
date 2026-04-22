@@ -1,0 +1,4 @@
+# Runtime output / secrets
+*.egg-info/
+__pycache__/
+.venv/

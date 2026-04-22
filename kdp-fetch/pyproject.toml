@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kdp-fetch"
+version = "0.1.0"
+description = "Headless backend client for KDP reports — no browser at runtime"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "cryptography>=42",
+    "click>=8.1",
+    "openpyxl>=3.1",
+]
+
+[project.scripts]
+kdp-fetch = "kdp_fetch.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["kdp_fetch*"]
