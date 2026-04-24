@@ -128,7 +128,7 @@ Alypius smiled—grim but fierce. "The same way David fought Goliath. Indirectly
 
 "What if I fail?"
 
-"Then someone else tries. That's the pattern, Augustine. Fifty-four generations back to Nefer. Every generation, someone encodes fragments. Every generation, the offensive network erases some but not all. Knowledge scatters, persists, waits for the generation that finally assembles it completely."
+"Then someone else tries. That's the pattern, Augustine. Fifty-two generations back to Nefer. Every generation, someone encodes fragments. Every generation, the offensive network erases some but not all. Knowledge scatters, persists, waits for the generation that finally assembles it completely."
 
 "Monica saw that generation. Generation 112. A woman named Sarah. 2018 CE."
 
@@ -164,7 +164,7 @@ Alypius nodded. "That's the work. Compromises. Betrayals. Small rebellions hidde
 
 "But it works?"
 
-"For fifty-four generations, it's kept the defensive network alive. For fifteen hundred sixty-seven years, the methodology has survived. Maybe not intact. Maybe not understood. But not erased. And that's victory enough."
+"For fifty-two generations, it's kept the defensive network alive. For fifteen hundred sixty-seven years, the methodology has survived. Maybe not intact. Maybe not understood. But not erased. And that's victory enough."
 
 ---
 
@@ -402,7 +402,7 @@ Four years later, Alypius returned to Hippo with dire news.
 
 Augustine was writing *Confessions*—the autobiography Monica had told him to write, encoding genetic memory access as spiritual introspection. He'd reached Book Three, describing his years in Carthage, his dissolute life before conversion.
 
-But really, he was describing genetic memory awakening. The "restlessness" was ancestral voices surfacing. The "sin" was resistance to inherited knowledge. The "conversion" was accepting fifty-four generations of defensive training.
+But really, he was describing genetic memory awakening. The "restlessness" was ancestral voices surfacing. The "sin" was resistance to inherited knowledge. The "conversion" was accepting fifty-two generations of defensive training.
 
 Orthodox readers would see confession of sexual immorality.
 
@@ -440,7 +440,7 @@ Augustine looked at his manuscript. Eight books written. Five more planned. His 
 
 "Will it be enough?"
 
-"It has to be. Because after this purge, it's all future carriers will have." Alypius gripped his shoulder. "Monica trained you for this. Fifty-four generations of knowledge encoded in your bloodline. Now you distill it into theological language that survives. *Confessions* for personal contemplative practice. *City of God* for civilizational pattern recognition. Together, they preserve the complete defensive methodology."
+"It has to be. Because after this purge, it's all future carriers will have." Alypius gripped his shoulder. "Monica trained you for this. Fifty-two generations of knowledge encoded in your bloodline. Now you distill it into theological language that survives. *Confessions* for personal contemplative practice. *City of God* for civilizational pattern recognition. Together, they preserve the complete defensive methodology."
 
 "Hidden in orthodoxy."
 
@@ -456,7 +456,7 @@ Or would it be too subtle, too compromised, too obscured by theological complexi
 
 "Faith in what?"
 
-"In the methodology. In pattern recognition and systems thinking and distributed resilience. In fifty-four generations of carriers preserving fragments that eventually become whole." Alypius picked up Augustine's manuscript. "This is your rebellion. Small words hiding large truths. Write them well."
+"In the methodology. In pattern recognition and systems thinking and distributed resilience. In fifty-two generations of carriers preserving fragments that eventually become whole." Alypius picked up Augustine's manuscript. "This is your rebellion. Small words hiding large truths. Write them well."
 
 After Alypius left, Augustine returned to *Confessions*. He had thirteen books to finish. Thirteen books encoding genetic memory access as Christian contemplation. Thirteen books that must survive:
 

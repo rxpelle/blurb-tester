@@ -391,7 +391,7 @@ Augustine sat beside him. "Did you see why?"
 
 "Can we prevent it?"
 
-Augustine thought of Monica. Of Jesus. Of Nefer. Fifty-four generations of defensive carriers asking the same question.
+Augustine thought of Monica. Of Jesus. Of Nefer. Fifty-two generations of defensive carriers asking the same question.
 
 "Prevent collapse entirely? Probably not. The systemic pressures are too advanced, intervention would require coordinated action across the entire Empire, and we lack that power." Augustine gripped Possidius's shoulder. "But we can mitigate it. Build resilient communities. Preserve knowledge. Train people in pattern recognition so they intervene early in future collapses. Make this collapse the last collapse—if we encode the methodology properly."
 
@@ -419,7 +419,7 @@ Possidius hesitated, then pressed his palm against the ancient bronze disc.
 
 His eyes rolled back. His body convulsed.
 
-Augustine caught him, eased him to the floor. Held him while genetic memory flooded his consciousness. Fifty-four generations of knowledge pouring through the Pattern Eye's amplification. Nefer to Tausret to Marcus to Jesus to Monica to Augustine to Possidius.
+Augustine caught him, eased him to the floor. Held him while genetic memory flooded his consciousness. Fifty-two generations of knowledge pouring through the Pattern Eye's amplification. Nefer to Tausret to Marcus to Jesus to Monica to Augustine to Possidius.
 
 The complete chain.
 

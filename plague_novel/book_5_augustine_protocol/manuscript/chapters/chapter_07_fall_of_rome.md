@@ -3,7 +3,7 @@
 
 **Timeline:** 410 CE - 1,597 years after Genesis Protocol creation
 **Location:** Hippo Regius, North Africa / Rome, Italy
-**Generation:** 54 (Augustine), 55 (Possidius), emerging Generation 56
+**Generation:** 52 (Augustine), 55 (Possidius), emerging Generation 56
 **Key Historical Event:** Visigothic Sack of Rome (August 24-27, 410 CE)
 **Pattern Eye Status:** Hidden in Hippo basilica reliquary, not activated since Monica's death
 

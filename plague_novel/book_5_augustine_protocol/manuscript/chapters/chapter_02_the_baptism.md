@@ -3,7 +3,7 @@
 
 **Timeline:** 387 CE - 1,564 years after Genesis Protocol creation
 **Location:** Milan, Northern Italy
-**Generation:** 54 (Augustine) and 53 (Monica)
+**Generation:** 52 (Augustine) and 53 (Monica)
 **POV Character:** Augustine of Hippo
 
 ---
@@ -66,7 +66,7 @@ Ambrose pulled him upright, concerned. "Are you well?"
 
 Augustine nodded, unable to speak. Water streamed from his hair. His heart hammered.
 
-He'd seen it all. The entire chain. Fifty-three generations of carriers, teachers, pattern-seers, scattered across sixteen hundred years. And now him. Generation 54. Inheriting all of it.
+He'd seen it all. The entire chain. Fifty-three generations of carriers, teachers, pattern-seers, scattered across sixteen hundred years. And now him. Generation 52. Inheriting all of it.
 
 "In the name of the Son," Ambrose continued, pushing him under again.
 
@@ -168,7 +168,7 @@ Augustine's mind raced. The *Confessions* he'd been planning to write—his auto
 
 "Why me?"
 
-"Because you're Generation 54. Fifty-three generations of defensive knowledge encoded in your bloodline. Because you're a brilliant writer and will be read for centuries. Because you're positioned—about to become a bishop—inside the institution the offensive network controls. And because..." Monica's voice broke. "Because I'm dying, my son. And you're the next carrier in our family line."
+"Because you're Generation 52. Fifty-three generations of defensive knowledge encoded in your bloodline. Because you're a brilliant writer and will be read for centuries. Because you're positioned—about to become a bishop—inside the institution the offensive network controls. And because..." Monica's voice broke. "Because I'm dying, my son. And you're the next carrier in our family line."
 
 Augustine's breath caught. "What?"
 
@@ -176,7 +176,7 @@ Augustine's breath caught. "What?"
 
 "No. Mother, you can't—"
 
-"I can and I will." Her grip was surprisingly strong. "This is what we do, Aurelius. We carry the knowledge for a generation, then pass it forward. Nefer to Tausret. Tausret to her children. Marcus to his students. Me to you. You to your descendants. Fifty-four generations back to the Bronze Age. Sixty-four generations forward to the woman who will finally activate defensive mode properly."
+"I can and I will." Her grip was surprisingly strong. "This is what we do, Aurelius. We carry the knowledge for a generation, then pass it forward. Nefer to Tausret. Tausret to her children. Marcus to his students. Me to you. You to your descendants. Fifty-two generations back to the Bronze Age. Sixty-four generations forward to the woman who will finally activate defensive mode properly."
 
 "What woman?"
 
@@ -230,7 +230,7 @@ Augustine stared at the seeds diagram. "But they won't understand what they're d
 
 "That's..." Augustine laughed bitterly. "That's diabolically clever."
 
-"It's survival, my son. David couldn't fight Goliath directly, so he used a sling. We can't fight the Order's institutional power, so we hide inside their institutions. Fifty-four generations we've been doing this. Essenes. Early Christians. Desert monastics. Now you, as a Catholic bishop, encoding defensive methodology in theology the Order must preserve because it's becoming Christian orthodoxy."
+"It's survival, my son. David couldn't fight Goliath directly, so he used a sling. We can't fight the Order's institutional power, so we hide inside their institutions. Fifty-two generations we've been doing this. Essenes. Early Christians. Desert monastics. Now you, as a Catholic bishop, encoding defensive methodology in theology the Order must preserve because it's becoming Christian orthodoxy."
 
 "What if I fail?"
 
@@ -242,7 +242,7 @@ Monica touched the Pattern Eye. "Then future carriers try again. That's the patt
 
 "I'm not ready."
 
-"You have to be. Rome is collapsing. The offensive network is positioning to control Christian Europe. And you—Generation 54, brilliant rhetor, future Bishop of Hippo—you're our best chance to preserve defensive mode through the Dark Ages that are coming."
+"You have to be. Rome is collapsing. The offensive network is positioning to control Christian Europe. And you—Generation 52, brilliant rhetor, future Bishop of Hippo—you're our best chance to preserve defensive mode through the Dark Ages that are coming."
 
 Augustine looked at his mother—small, gray-haired, dying. She'd crossed the Mediterranean to follow him. Had spent years praying for his conversion. Had raised him with encoded lessons he'd only now begun to understand.
 
@@ -298,7 +298,7 @@ Augustine retrieved the bronze disc from her traveling chest. It was warm—alwa
 
 "You said I wasn't ready."
 
-"You weren't. Now you are. You've seen fifty-four generations of memory in fragments. The Pattern Eye will show you the full chain. Every defensive network carrier from Nefer to me. You need that knowledge, Aurelius. You need to see the complete pattern."
+"You weren't. Now you are. You've seen fifty-two generations of memory in fragments. The Pattern Eye will show you the full chain. Every defensive network carrier from Nefer to me. You need that knowledge, Aurelius. You need to see the complete pattern."
 
 Augustine pressed the disc against his palm.
 
@@ -372,7 +372,7 @@ Augustine felt his genetic memory flare. He could see her death approaching. Min
 
 Her breathing stopped.
 
-Augustine held her hand as her body cooled. Held the Pattern Eye against his chest. Held fifty-four generations of genetic memory inside his skull.
+Augustine held her hand as her body cooled. Held the Pattern Eye against his chest. Held fifty-two generations of genetic memory inside his skull.
 
 And he understood.
 
@@ -394,7 +394,7 @@ Monica had done it. Marcus before her. Miriam before him. Nefer at the beginning
 
 Now Augustine.
 
-Generation 54.
+Generation 52.
 
 Encoding defensive mode for the future.
 
@@ -414,7 +414,7 @@ The pattern persisted.
 
 The small rebellion continued.
 
-Generation 54 began his work.
+Generation 52 began his work.
 
 ---
 

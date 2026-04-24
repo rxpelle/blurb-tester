@@ -138,7 +138,7 @@ Alypius read the manuscript. "This is brilliant. And disgusting."
 
 "And you're fine with that?"
 
-Augustine was quiet for a long time. "No. I'm not fine. I'm doing what Monica taught me, what the defensive network has done for fifty-four generations—making impossible compromises to preserve methodology. But it still feels like betrayal. And it should. The moment it stops feeling like betrayal, I've become what I'm fighting against."
+Augustine was quiet for a long time. "No. I'm not fine. I'm doing what Monica taught me, what the defensive network has done for fifty-two generations—making impossible compromises to preserve methodology. But it still feels like betrayal. And it should. The moment it stops feeling like betrayal, I've become what I'm fighting against."
 
 "The offensive network doesn't feel guilt."
 

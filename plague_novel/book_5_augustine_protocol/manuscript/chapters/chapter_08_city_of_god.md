@@ -3,7 +3,7 @@
 
 **Timeline:** 413-426 CE - 1,600-1,613 years after Genesis Protocol creation
 **Location:** Hippo Regius, North Africa
-**Generation:** 54 (Augustine), 55 (Possidius, Melania), emerging Generation 56
+**Generation:** 52 (Augustine), 55 (Possidius, Melania), emerging Generation 56
 **Key Work:** *De Civitate Dei* (The City of God) - 22 books written over 13 years
 **Pattern Eye Status:** Hidden in Hippo basilica, location to be encoded in Book XV
 
@@ -291,7 +291,7 @@ Encoded coordination: Send me precise coordinates. I'll hide them in plain sight
 Seven people gathered in the monastery's private library. Ostensibly, a theological colloquium on scripture and tradition. Actually, a defensive network strategy session.
 
 Present:
-- Augustine (Generation 54) - encoding coordinator
+- Augustine (Generation 52) - encoding coordinator
 - Possidius (Generation 55) - Augustine's successor
 - Melania (Generation 55) - network financier, Jerusalem connection
 - Orosius (Generation 55) - Hispania network
