@@ -140,7 +140,7 @@ He had taken it down, in the eighteen years since the Calama summer, on three or
 
 The disc was cold.
 
-He held it for a count of perhaps fifty. He thought of his mother at Ostia thirty-six years before with her hand on the rim of the well. He thought of her words in the second-last sentence of her life: *I have been the watcher. You will be the carrier.* He had carried the box for thirty-six years. He had been the watcher and the carrier both. He had been, for thirty-six years, a man waiting for a thing that had not, in those years, come.
+He held it for a count of perhaps fifty. He thought of his mother at Ostia thirty-six years before with her hand on the rim of the well. He thought of the words she had given him about the work: *I have been the watcher. You will be the carrier.* He had carried the box for thirty-six years. He had been the watcher and the carrier both. He had been, for thirty-six years, a man waiting for a thing that had not, in those years, come.
 
 He set the disc back. He closed the box. He returned the box to the shelf.
 

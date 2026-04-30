@@ -20,7 +20,7 @@ Augustine set down the pen. He set it down carefully, on its tray, in the positi
 
 When Eraclius had gone, Augustine sat at the desk for a count of perhaps twenty. The room had not changed and yet was not the room it had been a quarter-hour ago. He had been preparing, for two years, the materials by which he intended to refute the man who was now standing in his cloister. The materials were on the upper shelf in the small chest with the iron lock. Some of them were in his head. None of them were ready for the man to come up the road in person and ask to be received.
 
-He went to the lower shelf, lifted Cassian's *Conferences* from between the desert fathers, parted the binding by an eighth of an inch, and looked. The disc was where he had laid it. The leather packet was where he had laid it. The folded letter from Anthony was where he had laid it. He drew the cover back and tucked the threads. He set the codex back between the desert fathers.
+He went to the lower shelf, lifted Ambrose's *De Officiis* from between the desert fathers, parted the binding by an eighth of an inch, and looked. The disc was where he had laid it. The leather packet was where he had laid it. The folded letter from Anthony was where he had laid it. He drew the cover back and tucked the threads. He set the codex back between the desert fathers.
 
 He washed his hands in the basin. The water was cold; it would have been brought up from the cistern in the dark hour. He set on the cleaner of his two outer tunics. He walked out by the cloister door into the courtyard at the half-hour as he had said. His right knee was bad. He did not let it show in the walking.
 
@@ -320,7 +320,7 @@ When the bier went into the crypt the cold came up and with it the smell of the 
 
 He returned to Hippo on the eighth day after the funeral.
 
-He returned to the writing room. The chest with the iron lock was on the upper shelf where he had left it. The codex of Cassian's *Conferences* was on the lower shelf between the desert fathers, in the position he had left it. He took it down. The binding had not been parted in his absence.
+He returned to the writing room. The chest with the iron lock was on the upper shelf where he had left it. The codex of Ambrose's *De Officiis* was on the lower shelf between the desert fathers, in the position he had left it. He took it down. The binding had not been parted in his absence.
 
 Peter had, in the bishop's eight days' absence, marked one hundred and sixty-three passages in the three copies of *De Natura* and the Demetrias letter and had drafted clean transcriptions of forty-one of them in the order of topics. The wax tablet on the corner of the desk read, in Peter's clean small hand:
 
