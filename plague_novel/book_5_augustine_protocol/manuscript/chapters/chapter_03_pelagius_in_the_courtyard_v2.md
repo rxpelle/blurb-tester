@@ -2,11 +2,11 @@
 
 *Hippo Regius, October 411 CE.*
 
-He came up by foot from the harbour with one companion, on the morning of the feast of the African martyrs, having sent no advance message. The gate-keeper had received them at the third hour and had brought them, on the strength of the older man's bearing and the manner of his Latin, directly to the cloister and not to the lay parlour. The older man had given his name. The gate-keeper, who was new and did not know names of men outside the African church, had repeated the name to Eraclius, who had crossed himself once in private and had then walked to the writing room with an expression that was not customary for him.
+He came up by foot from the harbour with one companion, on the morning of the feast of the African martyrs, having sent no advance message. The gate-keeper had received them at the third hour and had brought them, on the strength of the older man's bearing and the manner of his Latin, directly to the cloister and not to the lay parlour. The older man had given his name. The gate-keeper, who was new and did not know names of men outside the African church, had repeated the name to Eraclius, who had crossed himself once in private and had then walked to the writing room with a face on him that Augustine had not seen before.
 
 *Bishop. Pelagius is at the cloister.*
 
-Augustine set down the pen.
+Augustine set down the pen. He set it down carefully, on its tray, in the position it lived in. The hand that had set it down stayed on the desk a small moment and then moved to his lap. He kept his face the face it had been when Eraclius came in.
 
 *Pelagius the Briton.*
 
@@ -18,17 +18,19 @@ Augustine set down the pen.
 
 *Send them water. Tell him I will come at the half-hour. Have the table in the courtyard set with bread and water and a little dried fruit. Nothing more. Do not announce him to the brethren. I will come.*
 
-When Eraclius had gone, Augustine sat at the desk for a count of perhaps twenty. He went to the lower shelf, lifted Cassian's *Conferences* from between the desert fathers, parted the binding by an eighth of an inch, and looked. The disc was where he had laid it. The leather packet was where he had laid it. The folded letter from Anthony was where he had laid it. He drew the cover back and tucked the threads. He set the codex back between the desert fathers.
+When Eraclius had gone, Augustine sat at the desk for a count of perhaps twenty. The room had not changed and yet was not the room it had been a quarter-hour ago. He had been preparing, for two years, the materials by which he intended to refute the man who was now standing in his cloister. The materials were on the upper shelf in the small chest with the iron lock. Some of them were in his head. None of them were ready for the man to come up the road in person and ask to be received.
 
-He washed his hands in the basin. He set on the cleaner of his two outer tunics. He walked out by the cloister door into the courtyard at the half-hour as he had said.
+He went to the lower shelf, lifted Cassian's *Conferences* from between the desert fathers, parted the binding by an eighth of an inch, and looked. The disc was where he had laid it. The leather packet was where he had laid it. The folded letter from Anthony was where he had laid it. He drew the cover back and tucked the threads. He set the codex back between the desert fathers.
+
+He washed his hands in the basin. The water was cold; it would have been brought up from the cistern in the dark hour. He set on the cleaner of his two outer tunics. He walked out by the cloister door into the courtyard at the half-hour as he had said. His right knee was bad. He did not let it show in the walking.
 
 ---
 
-The courtyard at Hippo was small, square, with a fig tree in the western corner that was bearing late and a stone bench under the eastern arcade where in the cooler season Augustine sometimes heard the baptism candidates at examination. The morning was bright, with a thin white sky of the kind that comes at Hippo in October when the autumn wind has just begun to pull off the sea, and the courtyard held the light without holding the heat. The table had been set under the eastern arcade. There were two stools. A small cup of fresh figs and a half-loaf and a plain earthen pitcher of water and two cups. Pelagius and his companion stood at the table. They had not sat.
+The courtyard at Hippo was small, square, with a fig tree in the western corner that was bearing late and a stone bench under the eastern arcade where in the cooler season Augustine sometimes heard the baptism candidates at examination. The morning was bright, with a thin white sky of the kind that comes at Hippo in October when the autumn wind has just begun to pull off the sea, and the courtyard held the light without holding the heat. The smell of the harbour, half a mile away, came up the road and into the courtyard on the wind — fish and pitch and salt — and went past. The table had been set under the eastern arcade. There were two stools. A small cup of fresh figs and a half-loaf and a plain earthen pitcher of water and two cups. Pelagius and his companion stood at the table. They had not sat.
 
 The companion was a young man of perhaps twenty-five, fair-haired, in plain wool. He bowed when Augustine entered and stepped back to the wall under the arcade. He did not, in three hours, sit down or accept food.
 
-The older man was tall and lean and was tall in the manner of a man who had grown into his height through the discipline of fasting and standing through long offices. His hair was grey, cropped at the line of the jaw in the British manner. His face was the colour of a man who lived out of doors. He was perhaps fifty-two. He wore a plain tunic of undyed wool, belted at the waist with a piece of dark leather. His feet were bare. The soles on the courtyard stones were as calloused as the feet of a working ploughman.
+The older man was tall and lean, the height earned through the discipline of fasting and of standing through long offices. His hair was grey, cropped at the line of the jaw in the British manner. His face was the colour of a man who lived out of doors. He was perhaps fifty-two. He wore a plain tunic of undyed wool, belted at the waist with a piece of dark leather. His feet were bare. The soles on the courtyard stones were as calloused as the feet of a working ploughman.
 
 He held in one hand a small wooden cup of the water Eraclius had brought. He had not yet drunk from it. He set the cup on the table when Augustine came across the courtyard. He did not bow. He inclined his head, in the manner of a man greeting an equal who is also his elder, and he said:
 
@@ -50,7 +52,7 @@ Pelagius asked after the writing-in-progress. Augustine said only that he was on
 
 They spoke for some time of small matters. The state of the Pelagian house at Aquileia. The death of an old monk in Britain whom both had known by reputation. The condition of the roads through Etruria after the autumn rains. The condition of the Carthage post in this present year. Pelagius drank, finally, a small mouthful of the water from the wooden cup. He did not eat the figs. He did not break bread.
 
-Augustine, watching him, registered the not-eating without comment. The cleanliness of the wool of the tunic, washed by its wearer in cold water without a fuller. The small darn at the hem in a slightly different colour. The bare feet. The absence of any silver about the throat or the wrists, even of the small pectoral cross of bronze which most monks of the British orders wore on a leather cord. The way the older man's hands rested on the stool, palms down, fingers loose, the calm of a man who had spent decades training his hands not to fidget. Pelagius had not yet made a single statement that was not true.
+The not-eating was a fact Augustine took in without comment. The wool of the tunic was clean — washed by its wearer in cold water without a fuller. The small darn at the hem was in a slightly different colour. The bare feet. The absence of any silver about the throat or the wrists, even of the small pectoral cross of bronze which most monks of the British orders wore on a leather cord. The older man's hands rested on the stool, palms down, fingers loose, the calm of a man who had spent decades training his hands not to fidget. Augustine looked at the hands and then looked away from them and then, against his choosing, looked back. Pelagius had not yet made a single statement that was not true.
 
 After perhaps the second hour, they came to the question.
 
@@ -64,7 +66,7 @@ It came not in the way Augustine had expected. He had expected an opening sally 
 
 Augustine considered.
 
-*The grace was prevenient,* he said. *Without it, the will would not have moved. With it, the will did move. The motion of the will was not coerced; the will found itself, in the moment, able. To say it was done to me against my will would be false. To say I did it without grace would also be false.*
+*The grace was prevenient — it came first, before any motion of the will was possible,* he said. *Without it, the will would not have moved. With it, the will did move. The motion of the will was not coerced; the will found itself, in the moment, able. To say it was done to me against my will would be false. To say I did it without grace would also be false.*
 
 *Then we are agreed,* Pelagius said, *that the will was at the moment present and acted, and that the grace was the condition of the will's action.*
 
@@ -72,7 +74,7 @@ Augustine considered.
 
 *Then,* Pelagius said, and now he leaned a small degree forward on the stool, his hands still loose on his knees, *what I do not understand in the position you have taken in your later writings is the further claim that the will, prior to grace, has no power. If the will at the moment of grace acts, and acts with what I have called the response to grace and you have called the will's motion under prevenient grace, then the will has at all times the capacity to respond. The grace makes the response possible by addressing the will. But the will does not, in the moment of response, become a different faculty. It is the same will. The garden child's voice came to you at thirty-two. It did not create your will at thirty-two. Your will had been your will since boyhood. The voice addressed a will already there.*
 
-Augustine waited.
+Augustine waited. The fig tree in the western corner had a fig that was about to fall, and his eye had gone to it without his knowing. He brought his eye back. *Your will had been your will since boyhood.* The sentence sat in him in a way the sentence had not sat in him when other men had said it.
 
 *And if a will has at all times the capacity to respond, then men in their quietness, prior to the great address, are not without the small possibility of small good. A child who shares his bread is not, I think, doing nothing. A pagan who refrains from striking his wife is not, I think, doing nothing. A widow at her loom who does not curse her debtors is not, I think, doing nothing. These are small actions. They are not the great conversion of the heart that comes by the great grace. But they are not nothing. The will did them. The will is real in the small good as in the great. It is one will.*
 
@@ -90,7 +92,7 @@ Augustine said: *Some have plainly done?*
 
 *I have. Have you not?*
 
-Augustine did not answer immediately. He thought of his mother. He thought of Ambrose. He thought of his teacher Simplicianus. He thought of Possidius. He thought of Stephen. He thought, against his choosing, of the man in front of him.
+Augustine did not answer immediately. The first face that came to him was his mother's. The afternoon at Ostia, the small garden behind the house, her hand on the rim of the well, her saying she had nothing left to want in this world, that all her wanting had been answered in the seeing of him brought to the faith. He had not, in the years since, met another face that had stood in for that face. Ambrose's face was a public face; Simplicianus's was a teacher's. The face that had looked at him without office had been hers. He thought, against his choosing, of the face of the man in front of him.
 
 *I have known holy men,* he said.
 
@@ -100,9 +102,11 @@ Augustine did not answer immediately. He thought of his mother. He thought of Am
 
 *No. Nor would they have said so. They would have said the holiness was God's. But the willing, on their part, that allowed the holiness to take in them — that, Bishop, was their own. I think they would have said that too. I think you would have said it of your mother, if you sat beside her bed at Ostia again.*
 
-The reference was apt. The reference was a little merciless. Augustine took the small mercilessness without flinching outwardly. Inside the part of himself that was not a bishop he flinched.
+The reference was apt. Augustine took it without flinching outwardly. In the part of himself that was not a bishop, something tightened once and did not unclench. He did not let it show.
 
-He composed an answer. He gave it in the language of the technical position he had been working out for ten years. He spoke of the *massa damnata*, of the inheritance of the wound through the act of generation, of the necessity of prevenient grace as the only sufficient ground for any motion of the will toward God, of the danger of teaching men they could lift themselves by their own bootstraps, of the testimony of Paul in Romans that nothing good dwelt in him, of his own *cor inquietum* which had not rested until it rested in God. He spoke for the better part of half an hour. He spoke at his full strength.
+He gave the answer he had been giving for ten years. He gave it in the language of the technical position. He spoke of the *massa damnata*, the damned mass of fallen humanity, of the inheritance of the wound through the act of generation, of the necessity of prevenient grace as the only sufficient ground for any motion of the will toward God, of the danger of teaching men that they could, by their own effort, lift what grace alone could lift, of the testimony of Paul in Romans that nothing good dwelt in him, of his own *cor inquietum* which had not rested until it rested in God. He spoke for the better part of half an hour. He spoke at his full strength.
+
+Pelagius's hands stayed loose on his knees. The fig in the western corner did not fall. Augustine could feel his own argument coming out of him with the cadence it had developed in ten years of being made, and he could feel, at the same time, the small new thing inside the argument that the man across the table had put there, which was the beginning of his sense that the argument did not, perhaps, finish what he had been claiming for it that it finished.
 
 Pelagius listened. He did not interrupt. He nodded at points and shook his head at others. When Augustine finished, Pelagius waited a small period and then said:
 
@@ -112,7 +116,7 @@ Pelagius listened. He did not interrupt. He nodded at points and shook his head 
 
 *Your *cor inquietum* — the restless heart that did not rest until it rested in God — is, I think, the heart that I have been describing. It was a heart. It was your heart. It did the resting. The God who was the rest of it received the heart that came; He did not coerce the coming. *Inquietum est cor nostrum, donec requiescat in te*. That is your line. The verb is *requiescat*. Let it rest. The verb is not passive in the sense you require it to be passive. The heart rests; the heart is not put to rest as an animal is killed. The heart rests because the heart was made for the resting and at last finds the resting place.*
 
-Augustine sat with the line. The line was his own line. The line had been his own line for sixteen years. The line had come to him in the writing of the first paragraph of the *Confessions* and he had known, when it came, that it was the load-bearing sentence of the book. Pelagius had read it. Pelagius had reread it. Pelagius was now handing it back to him with a reading that the line plainly bore, that he himself had written the line to bear, and that he had subsequently been progressively pretending the line did not bear.
+Augustine sat with the line. The line was his own line. The line had been his own line for sixteen years. The line had come to him in the writing of the first paragraph of the *Confessions* and he had known, when it came, that it was the load-bearing sentence of the book. Pelagius had read it. Pelagius had reread it. Pelagius was now handing it back to him with a reading that the line plainly bore, that he himself had written the line to bear, and that he had, in the years since, been arguing the line away from. His mouth was dry. He had spoken for half an hour and had not drunk water. He did not reach for the cup.
 
 He said: *You read the line attentively.*
 
@@ -122,9 +126,11 @@ He said nothing for a while.
 
 The white October light moved slowly across the courtyard stones. Pelagius's companion against the wall did not move. The fig tree in the western corner moved a little in the small wind. From somewhere inside the cloister a voice was reading aloud — Stephen, probably, at the prayers — and the cadence of the reading came faintly across the courtyard and went away.
 
-He thought one thing only, and he thought it in the steady internal voice of the work:
+He thought one thing only, and he thought it in the steady internal voice of the work, and he felt the verdict assemble itself in his chest a beat before the words assembled themselves in his head:
 
-*If I let him go to Palestine and let his writings circulate with the obvious truth of his face — within ten years there will be a Pelagian Latin Church that will eat my work. The work cannot be eaten. The work is the wrapper. The wrapper has to hold. I will have to destroy him.*
+*If I let him go to Palestine and let his writings circulate with the obvious truth of his face — within ten years there will be a Pelagian Latin Church that will eat my work. The work cannot be eaten. The wrapper has to hold. I will have to destroy him.*
+
+He looked at Pelagius's face and held it a count.
 
 Then he said, aloud:
 
@@ -148,7 +154,7 @@ Pelagius stood. He was, again, very tall. The companion stepped forward from the
 
 Pelagius nodded slowly. *I think not also.* He did not say it sadly. He said it in the tone of a man recording a probable fact. He turned. He and the companion crossed the courtyard. They went out through the cloister door. The gate-keeper let them through the basilica gate. They walked, on bare feet on the stones of the road, down toward the harbour in the slanting light.
 
-Augustine sat on the stool a long time after they were gone. The bread on the table was still there. The figs were still there. Pelagius's wooden cup, with a small inch of water in it, stood at the edge of the table. Augustine reached out, picked up the cup, and drank what the older man had not drunk. The water tasted of nothing in particular. He set the cup down, stood, and went to the writing room.
+Augustine sat on the stool a long time after they were gone. The light had moved across the courtyard stones; it was on the western wall now and was thin. The bread on the table was still there. The figs were still there. Pelagius's wooden cup, with a small inch of water in it, stood at the edge of the table. Augustine reached out, picked up the cup, and drank what the older man had not drunk. The cup was light in his hand. The water tasted of nothing in particular — he had expected, against reason, that it would taste of something — and he set the cup down empty. He stood. His knee was bad from the sitting. He went to the writing room.
 
 Possidius was in the cloister as he passed. They did not stop. Their eyes met for the count of one. Possidius said, without altering his pace: *Cirta first?* Augustine said, without altering his: *No. Rome first. Cirta when the Pelagian materials are clean.* Possidius nodded once and went on toward the cathedral.
 
@@ -162,7 +168,7 @@ Peter was twenty-two, the second son of a small landowner from the south, a sub-
 
 *Father, I understand it.*
 
-*Good. The project is the following. There is a man called Pelagius the Briton, who is in this hour at the harbour or at sea on his way to Carthage and from Carthage to Palestine. He has written, in the last fifteen years, a number of works which are now in circulation in Italy and Britain and beginning to circulate in Africa. The works are: a commentary on the Pauline epistles in thirteen books; a tract called *De Natura* which I have in three copies in this room, of which one is from Rome and two are from Carthage and which are, between them, complete; a long letter to a Roman matron called *Demetrias*, which is also here, which is the letter that has done the most damage to date in Africa because it has been read aloud in households of substance; a number of shorter tracts and letters which we will gather as we can. We are to make, from this body, an extracted volume of perhaps a hundred passages, ordered by topic. The topics will be: the will, grace, original sin, baptism, the impeccability of the holy men, and the matter of children. Each passage will be transcribed cleanly, attributed to its source by book and chapter, and arranged in the order I will give you. The volume, when complete, will be sent to the senior bishop at Carthage and from Carthage to the bishops Innocent at Rome and Aurelius's correspondents at Constantinople and Antioch. It will be the basis for the synodical proceedings against Pelagius's teaching that we will, in time, bring forward in Africa.*
+*Good. The project is the following. There is a man called Pelagius the Briton, who is in this hour at the harbour or at sea on his way to Carthage and from Carthage to Palestine. He has written, in the last fifteen years, a number of works which are now in circulation in Italy and Britain and beginning to circulate in Africa. The works are: a commentary on the Pauline epistles in thirteen books; a tract called *De Natura* which I have in three copies in this room, of which one is from Rome and two are from Carthage and which are, between them, complete; a long letter to a Roman matron called *Demetrias*, which is also here, which is the letter that has done the most damage to date in Africa because it has been read aloud in households of substance; a number of shorter tracts and letters which we will gather as we can. We are to make, from this body, an extracted volume of perhaps a hundred passages, ordered by topic. The topics will be: the will, grace, original sin, baptism, the impeccability of the holy men, and the matter of children. Each passage will be transcribed cleanly, attributed to its source by book and chapter, and arranged in the order I will give you. The volume, when complete, will be sent to the senior bishop at Carthage and from Carthage to the bishops Innocent at Rome and Aurelius's correspondents at Constantinople and Antioch. It will be the basis for the synodical proceedings against Pelagius's teaching — the formal condemnation, brought before the assembled bishops — that we will, in time, bring forward in Africa.*
 
 Peter had been writing as Augustine spoke. He made a small clean column on the wax tablet of the works named. He looked up at the pause.
 
@@ -172,11 +178,11 @@ Peter had been writing as Augustine spoke. He made a small clean column on the w
 
 *By what principle the selection.*
 
-Augustine looked at him. The boy was looking at him in the perfectly ordinary manner of a junior secretary asking a procedural question. The boy was twenty-two and had not yet learned to read his bishop's pauses for the matter behind the procedure.
+Augustine looked at him. The boy was looking at him in the perfectly ordinary manner of a junior secretary asking a procedural question. The boy did not yet know there was a matter behind the procedure.
 
 *Peter. I will give you the principle. Each passage is to be the part of Pelagius's argument that, standing alone, will read to a synodical reader as a heretical position. The sentences that precede a given passage often qualify it; the sentences that follow often modify it. Those sentences are not to be transcribed. The passage as transcribed is to be the unqualified statement, taken from its qualifications, presented as Pelagius's view.*
 
-The boy's stylus paused on the wax. He did not lift his head.
+The boy's stylus paused on the wax. He did not lift his head. The stylus stayed where it had stopped. Augustine watched the stylus. After a small period the stylus moved a fraction, then was still again.
 
 *Father.*
 
@@ -186,7 +192,7 @@ The boy's stylus paused on the wax. He did not lift his head.
 
 *Yes.*
 
-The boy thought. He still did not look up.
+The boy thought. He still did not look up. The stylus did not move at all now.
 
 *Father, is that — *
 
@@ -228,9 +234,7 @@ He went to his cell. He blew out the lamp. He lay down. He did not sleep until v
 
 Three days after the night of the dictation, he sent for the deacon Mark.
 
-Mark was twenty-four, the son of a small ironmonger from Calama, ordained to the diaconate in the spring of the previous year on Possidius's recommendation, and presently assigned to the Hippo basilica for advanced training in liturgy and correspondence. He was a slight, dark, eager young man with a quick smile and a slight stutter on initial *p*'s that he had been working since boyhood to control and that emerged only when he was nervous. He was nervous now. He had been called to the writing room without notice and he believed, on the evidence of the speed of the summons, that he was about to be given a delicate and important commission, which he had been hoping for since spring.
-
-He was correct that he was about to be given one.
+Mark was twenty-four, dark and slight, ordained as deacon in the spring of the previous year and assigned to Hippo for advanced training. He had a quick smile and a slight stutter on initial *p*'s that he had been working since boyhood to control. He was smiling when he came in. The stutter was nowhere visible.
 
 *Mark. Sit. There is a journey for you.*
 
@@ -258,19 +262,19 @@ He was correct that he was about to be given one.
 
 *This is the most important commission you will have had to date.*
 
-*Father, I know it. I will discharge it.*
+The boy's smile widened a degree, and the *p* would not come. *Father, I — p —* He breathed once, the way the speech-master had taught him in boyhood, and got it. *I p-promise — Father, I know it. I will discharge it.*
 
 *I know you will. Go to Eraclius now for the provisioning. Be back at this room at the second hour after vespers for the satchel. Eat well today and tomorrow. The crossing is hard for first-time travellers.*
 
 *Father.*
 
-The young man rose, bowed, and went out. He was smiling as he went. The stutter had not appeared.
+The young man rose, bowed, and went out. He was smiling as he went.
 
 Augustine sat at the desk. He had not, in the conversation, lied to the boy. The letters were sealed. The boy would deliver in good faith. The doctrine the letters concerned was, in the most general sense, the question of grace. The framing was not false.
 
 The framing omitted that two of the seven letters did not in fact concern doctrine but concerned the placement of a man in a province under a particular kind of supervision; that the deacon Justin in the prefecture had been cultivated for two years in expectation of being asked to facilitate such placements; that the request now being made through Justin would, in the year of its eventual execution, route a man whose conviction had not yet been secured to a region of the Egyptian western desert in which a man of fifty-two who had walked barefoot from the Hippo harbour would not survive the second month of confinement.
 
-The boy was discharging the commission in good faith. The bishop was doing what was required of the bishop. The two facts were not in tension, in the sense that the bishop required of facts that they not be in tension.
+The boy was discharging the commission in good faith. The bishop was doing what was required of the bishop.
 
 In the morning Augustine sealed the seven letters with his own seal in the writing room, alone, and laid them on the desk in the order of delivery, and at the second hour after vespers Mark came and took the satchel and went down to the harbour, and on the Friday's tide the *Salvia* sailed.
 
@@ -304,15 +308,15 @@ They mounted again and rode.
 
 He preached the homily.
 
-The cathedral at Cirta was small and packed. Lawrence's clergy were in the choir. Those preparing for baptism stood at the sides. The lay congregation filled the nave to the back. Lawrence's body lay on a low bier at the foot of the altar, in the white episcopal vestments, with the small bronze pectoral cross of his see on his chest and his hands folded and the candles at the head and foot. Augustine took the bishop's chair. He gave the homily on the text he had chosen on the road, which was *Discite a me, quia mitis sum et humilis corde* — *Learn of me, for I am meek and lowly in heart*.
+The cathedral at Cirta was small and packed. The smell of the church was the smell of incense and beeswax and packed wool, and beneath it, in the cold of the December stone underfoot, the smell of cold stone. Lawrence's clergy were in the choir. Those preparing for baptism stood at the sides. The lay congregation filled the nave to the back. The breath of the congregation was visible on the cold air. Lawrence's body lay on a low bier at the foot of the altar, in the white episcopal vestments, with the small bronze pectoral cross of his see on his chest and his hands folded and the candles at the head and foot. Augustine took the bishop's chair. He gave the homily on the text he had chosen on the road, which was *Discite a me, quia mitis sum et humilis corde* — *Learn of me, for I am meek and lowly in heart*.
 
 He spoke of his old friend. He spoke of the small house at Carthage in which they had read Cicero together at nineteen and twenty. He spoke of the long letter Lawrence had written him in the year of his consecration, advising him on the conduct of a young bishop in a difficult see. He spoke of Lawrence's humility — not the public humility of the formal acts of a public Christian man, but the private humility he had carried into the small things, into the way he spoke to his deacons, into the way he had received correction from his own clergy when he had been wrong, into the way he had, at sixty, written to his old friend at Hippo and asked for advice on a question of pastoral discipline as if the old friend at Hippo were a younger and wiser man, which the old friend at Hippo had not been. He spoke of the Lord's *mitis et humilis* as the form of life that had been, in Lawrence, not a posture but a habit, and of the difficulty of acquiring such a habit, and of the rarity of seeing it acquired in a man, and of the gift such a man was to those who had loved him.
 
 He meant the homily.
 
-He delivered the period. He pronounced the conclusion. He came down from the chair and stood by the bier and made the sign of the cross over his old friend's body. He took the censer when the deacon brought it and walked the bier three times in the formula and gave it back. He stood again and watched the body be lifted and carried out by the four bishops who had come from the neighbouring sees, of whom he was one, and he carried the bier with the others, his hand under the wood at the right shoulder, and they laid Lawrence in the crypt beside the bishop who had preceded him.
+He delivered the period. He pronounced the conclusion. He came down from the chair and stood by the bier and made the sign of the cross over his old friend's body. He took the censer when the deacon brought it and walked the bier three times in the formula and gave it back. He stood again and watched the body be lifted and carried out by the four bishops who had come from the neighbouring sees, of whom he was one. He carried the bier with the others, his hand under the wood at the right shoulder. The wood was old and smooth from a hundred bearings; the weight of his old friend was the weight of a tall man gone thin in his last illness. They laid Lawrence in the crypt beside the bishop who had preceded him. The crypt was colder than the cathedral. It smelled of stone and of the wax of old candles.
 
-He wept, briefly, when the bier went into the crypt. He did not weep as a public gesture. Possidius, beside him, put a hand on his arm. Augustine accepted the hand. They stood until the crypt was closed.
+When the bier went into the crypt the cold came up and with it the smell of the old candle-wax, and he wept, briefly, without having decided to. Possidius, beside him, put a hand on his arm. Augustine accepted the hand. They stood until the crypt was closed.
 
 He returned to Hippo on the eighth day after the funeral.
 
