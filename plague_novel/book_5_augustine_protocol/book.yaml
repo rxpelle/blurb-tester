@@ -1,0 +1,29 @@
+title: "The Augustine Protocol"
+subtitle: "Book 5 of The Architecture of Survival"
+author: "Randy Pellegrini"
+copyright_year: 2026
+website: "randypellegrini.com"
+series_website: "randypellegrini.com/series"
+output: "output/"
+style: default
+
+about_author: |
+  Randy Pellegrini writes The Architecture of Survival, a 12-book historical thriller series spanning 3,200 years from Bronze Age Egypt to the modern era. The series follows two competing networks — one preserving knowledge across civilizations, the other engineering bloodlines — through every major collapse in Western history.
+
+  Books 1–5 of The Architecture of Survival are available on Amazon. The series weaves real historical events with speculative elements grounded in epigenetics, network theory, and the moral complexity of how knowledge survives empire.
+
+  An honest review goes further than any payment. If this book gave you something to think about, please consider leaving one.
+
+series:
+  name: "The Architecture of Survival"
+  number: 5
+
+epilogue_chapter: 11
+
+print:
+  trim: "5.5x8.5"
+
+typography:
+  body_font: "EB Garamond"
+  body_size: 11
+  line_spacing: 1.3
