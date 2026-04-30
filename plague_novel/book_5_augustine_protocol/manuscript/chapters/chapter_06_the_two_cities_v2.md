@@ -142,7 +142,7 @@ He began.
 
 *Hippo Regius, the last week of August 416 CE.*
 
-Melania came to the gate at the hour of the lamp, as she had two and a half years before, in the same plain wool cloak the colour of the rain. The cloak was not new. The hem had been let down at some point in the intervening period — there was a darker line where the wool had been folded under for some months and then released — and the cloak was now the right length for a woman who had been walking, in the years since he had seen her last, in places that required a cloak that touched the ankle.
+Melania came to the gate at the hour of the lamp, as she had almost five years before, in the same plain wool cloak the colour of the rain. The cloak was not new. The hem had been let down at some point in the intervening period — there was a darker line where the wool had been folded under for some months and then released — and the cloak was now the right length for a woman who had been walking, in the years since he had seen her last, in places that required a cloak that touched the ankle.
 
 She was thirty-three. Her face had aged in a way her face had not aged when he had first seen it. She had been giving away wealth for thirteen years and was still giving, and she was, from her bearing, near the point at which there would be no further wealth to give and the giving would have to take a different form.
 
@@ -240,7 +240,7 @@ She nodded. She sat with it. She finished the wine in the cup.
 
 *Bishop. May I bless you before I go.*
 
-She had never, in their two and a half years of association, asked anything of the kind. He looked at her. He understood, while he looked at her, that the request was the kind a woman makes when she does not expect to see a man again and when she has, in the long calculations of her household and her work, recognised that the man before her is one of the things she will not see again. He was sixty-two. She was thirty-three. She would, on the actuarial expectations of senatorial Roman women who had access to Greek physicians and who lived in houses with stone floors and clean water, outlive him by twenty years.
+She had never, in their almost five years of association, asked anything of the kind. He looked at her. He understood, while he looked at her, that the request was the kind a woman makes when she does not expect to see a man again and when she has, in the long calculations of her household and her work, recognised that the man before her is one of the things she will not see again. He was sixty-two. She was thirty-three. She would, on the actuarial expectations of senatorial Roman women who had access to Greek physicians and who lived in houses with stone floors and clean water, outlive him by twenty years.
 
 *I would be grateful.*
 
