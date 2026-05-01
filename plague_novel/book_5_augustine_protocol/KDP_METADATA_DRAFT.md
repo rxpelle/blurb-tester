@@ -1,11 +1,11 @@
-# KDP Metadata — The Augustine Protocol (Book 5)
+# KDP Metadata — What Augustine Hid (Book 5)
 
 Draft for KDP upload. Review and edit before paste into KDP backend.
 
 ---
 
 ## Title
-**The Augustine Protocol**
+**What Augustine Hid**
 
 ## Subtitle
 **Book 5 of The Architecture of Survival**
@@ -19,13 +19,13 @@ Randy Pellegrini
 
 ## Description (Amazon page blurb — under 4,000 chars)
 
-> *Rome has fallen. The empire is closing. A bishop in North Africa is the last man who knows what the bronze disc on his shelf is for — and the only one who can decide what to do with what's still inside.*
+> *Augustine of Hippo hid something inside his most famous book — and the world has been carrying it for sixteen hundred years without knowing.*
 
 The year is 410 CE. Augustine of Hippo is fifty-six years old, twenty-three years a bishop, and the most consequential intellectual of the late Roman world. When a dying courier is dropped at his basilica gate carrying a hidden papyrus older than the empire itself — a document that has predicted, with terrible accuracy, the fall of every civilization before Rome — Augustine recognizes the handwriting of the network his mother taught him to watch for, the one he has been carrying a piece of bronze for since the night she died at Ostia.
 
 He has thirty years before the Vandal armies cross the strait. Thirty years to hide what cannot be lost, to write a book that will outlive empire, to test which of the men in his household is the one the work is meant for, and to reckon with the choices that come with being the bishop the state uses to enforce its will: confiscation writs signed in his own hand, men sent to die in remote Egyptian monasteries, a friend executed at Carthage on the count's authority while Augustine writes letters too late to save him.
 
-*The Augustine Protocol* is a novel about how knowledge survives the end of the world — not in marble libraries, but in the spines of codices, in the silences between bishops who know each other's secrets, in a single sentence quietly woven into a book the Church will copy for a thousand years. It is also a novel about a man whose life's work is carrying something he was never permitted to fully understand, and who must decide, before the walls fall, who carries it next.
+*What Augustine Hid* is a novel about how knowledge survives the end of the world — not in marble libraries, but in the spines of codices, in the silences between bishops who know each other's secrets, in a single sentence quietly woven into a book the Church will copy for a thousand years. It is also a novel about a man whose life's work is carrying something he was never permitted to fully understand, and who must decide, before the walls fall, who carries it next.
 
 For readers of Eco's *The Name of the Rose*, Robinson's *Years of Rice and Salt*, and Mantel's *Wolf Hall*. Each book in the series stands alone.
 
@@ -98,7 +98,7 @@ Alternative: **$0.99 launch-week countdown** for first 7 days, returning to $4.9
 
 Subject line draft: *"Book 5 is here — Augustine, the disc, and what survives the end of empire"*
 
-Body draft (lead): *"Thank you for staying with the series this long. Book 5 — The Augustine Protocol — went live this morning. It's the second-longest book in the series so far, and it's the one I'm most proud of. Augustine inherits the disc his mother gave him at Ostia in 387, and has thirty years before the Vandals come..."*
+Body draft (lead): *"Thank you for staying with the series this long. Book 5 — What Augustine Hid — went live this morning. It's the second-longest book in the series so far, and it's the one I'm most proud of. Augustine inherits the disc his mother gave him at Ostia in 387, and has thirty years before the Vandals come..."*
 
 Recommend including: pre-order conversion CTA, free preview link, link to /books/, link to free prequel /free-story/.
 
